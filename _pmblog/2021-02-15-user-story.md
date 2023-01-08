@@ -1,0 +1,64 @@
+---
+id: 1036   
+title: 'User Story'
+date: '2021-02-15T02:33:30+00:00'
+author: 'Hari Thapliyaal'
+permalink: '/pmblog/User-Story'
+header:
+   teaser: /assets/images/pmlogy/UserStory.jpg
+tags:
+    - 'Agile Terms'
+toc: true   
+toc_sticky: true	
+---
+
+![](/assets/images/pmlogy/UserStory.jpg)
+
+## What is a user story?
+
+When you are managing a project using agile methodology that time you do not have access to the complete requirements of users. In fact, this is one of the reasons you chose to manage a project using Agile methodology. Therefore, it does not make sense to spend time and try to understand the complete system requirement, document and baseline those to start your project execution. That is never going to happen. In this scenario, how do we understand the requirements?
+
+In this situation, user-story is the solution for understanding the requirements. As a product owner, you need to understand the expectations of the users from the new system. These expectations are documented in a fixed format without bothering about detailed requirements and implementation details. These high-level requirements or features of a system are called user stories if they are written in a specific format. A popularly used format to understand customer expectation is “As a ‘**user**‘ I want to do ‘**something with the system**‘ so that I can achieve ‘**some goal**‘”. User stories are written from users’ perspective, the way they see the system helping them. Irrespective of technology or implementation details, a user has some objective he wants to achieve. A user story should help in defining that objective.
+
+## Examples of user stories.
+
+- As an **ATM-user,** I want to **print my withdrawal receipt** so that **I know the balance in my account after the withdrawal.**
+- As an **online shopper,** I want to **see all the product available in the C1 category** so that **I can select the best product for the purchase**
+- As a **training participant,** I want to **know the complete course outline** so that **I can make a decision whether I should attend a session or not.**
+
+These three examples I have taken from 3 different domains.
+
+## What is a good user story?
+
+A good user-story should pass INVEST test.
+
+- I-Independent
+- N-Negotiable
+- V-Valuable
+- E- Estimatable
+- S-Small
+- T-Testable
+
+### **Independent**
+
+For the sake of planning and prioritization, stories should be independent of one another. Although it is difficult to write all user-stories in this way yet we should strive for writing such user-stories.
+
+### **Negotiable**
+
+User stories are the commitment of the product owner to the development team that he will explain to them when the time comes. So, the details of the user story come out during the discussion. Thus, stories should be defined, at any given time, only to the level needed to suit the purposes of estimating and prioritization with respect to the applicable planning horizon.
+
+### **Valuable**
+
+The user should drive some benefit from the user story. If there is no benefit then the product owner will not add that user story to the product backlog, hence there is no question of prioritization for the development.
+
+### **Estimatable**
+
+The development team should be able to estimate the efforts required to implement the user-story. Three issues due to which a team may not be able to estimate a user story. A- Lack of domain knowledge, B- Lack of technical knowledge, and C- Unknown story size. Therefore until enough research is done by the team to understand what is the work involved in the user story they should not estimate and hence it cannot be part of the delivery of any sprint/iteration. To handle this project perform [Technical Spike](/pmbok6/Technical-Spike).
+
+### **Small**
+
+A good user story is that work, which a development team can complete between one day to one week. In case if work going to take more than 1 week time then you should break complex work into smaller manageable steps and create a user story for each step. If user stories are very small like 30 min or 1 hour then combine them together and create a user-story.
+
+### **Testable**
+
+After a user story has been implemented in the product the development team should be able to demo it, the test team should be able to test it, customer should be able to verify the complete implementation of this. Non-testable stories usually manifest themselves as vague requirements. Such as “As a branch manager I want a module to calculate loan interest quickly”. Quickly cannot be tested. So this is not a good user story.

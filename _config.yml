@@ -1,0 +1,607 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# theme                  : "minimal-mistakes-jekyll"
+remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+long_date_format: "%-d %B %Y at %H:%M"
+locale                   : "en-US"
+title: "dasarpAI"
+title_separator: "|"
+subtitle: "Machines are Learning Faster" # site tagline that appears below site title in masthead
+name: "Hari Thapliyaal"
+description: "All the Resources to Learn Data Science"
+url: "https://dasarpai.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: # the subpath of your site, e.g. "/blog"
+repository: "dasarpai/dasarpai.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser: "/assets/images/dspost/common/AI-Hand.jpg" # path of fallback teaser "/assets/images/500x300.png"
+logo                     : "/assets/images/site-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  disqus:
+    shortname            : dasarpai1 # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
+  giscus:
+    repo_id              : # Shown during giscus setup at https://giscus.app
+    category_name        : # Full text name of the category
+    category_id          : # Shown during giscus setup at https://giscus.app
+    discussion_term      : # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : # '1' for enabled (default), '0' for disabled
+    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+  staticman:
+    branch               : # "master"
+    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+reCaptcha:
+  siteKey                : 6LemkdciAAAAAEwIgaytBovM5SUeu7P5bZpFSj8f
+  secret                 : 6LemkdciAAAAAMWQfAabO4iFR1Q0R720dkTfLWu9
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+  hide                   : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : lunr # lunr (default), algolia, google
+lunr:
+  search_within_pages    : # true, false (default)
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
+google:
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
+# SEO Related
+google_site_verification : google926354b0a3e2593e.html
+bing_site_verification   :
+naver_site_verification  :
+yandex_site_verification :
+baidu_site_verification  :
+
+# Social Sharing
+twitter:
+  username               : dasarpai
+facebook:
+  username               : dasarpai
+  app_id                 :
+  publisher              :
+og_image                 : "/assets/images/site-logo.jpg" # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+
+# Analytics
+analytics:
+  provider               : google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : GTM-PW4NNFL
+    anonymize_ip         : true # true, false (default)
+
+
+# Site Author
+author:
+  name             : "Hari Thapliyaal"
+  avatar           : "/assets/images/Profilephoto1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Hari Thapliyal is a vivid blogger on various subjects including Data Science, Project Management, and Advait-Vedanta Philosophy. He has Master's degrees in Computers, Business Management, Data Science, and Economics. He is pursuing his Doctorate in AI (NLP) from the Swiss School of Business Management (Geneva, Switzerland). Hari has around 3 decades of experience in management & leadership, training, consulting, and coaching in technology. 16+ years in all phases of software product development. 10+ years in course design, training, coaching, and consulting on Project Management. 3+ years experience in course development, exploring, experimenting, training, coaching, and mentoring hundreds of professionals in Data Science, AI, CV, NLP, complex machine learning algorithms, statistical modeling, identifying patterns, and extracting valuable insights. He has diverse experience in planning & executing multiple projects and liaising with key stakeholders to identify & resolve the business problem and deliver excellent results. In his spare time, he loves to Meditate in some secluded place or in nature."
+  location         : "Bangalore, India."
+  email            : hari.prasad@vedavit-ps.com 
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/harithapliyal/"
+      
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://dasarpai.com"
+      
+    - label: "Gmail"
+      icon: "fab fa-google"
+      url: "mailto:hari.thapliyal@gmail.com"
+      
+    - label: "Email"
+      icon: "fa fa-envelope"
+      url: "mailto:hari.prasad@vedavit-ps.com"
+      
+    - label: "StackOverflow"
+      icon: "fab fa-stack-overflow"
+      url: "https://stackoverflow.com/users/10903618/hari-thapliyal"
+       
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dasarpai"
+      
+    - label: "OrcID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0001-7907-865X"
+      
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/hari-thapliyal"
+      
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/dasarpai/"
+      
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/dasarpai"
+      
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/dasarpai/"
+      
+    - label: "Discord"
+      icon: "fab fa-discord"
+      url: "https://discord.com/channels/1024609561820278845/"
+
+# Site Footer
+footer:
+  links:
+    - label: "Email"
+      icon: "fa fa-envelope"
+      url: "mailto:hari.prasad@vedavit-ps.com"
+      
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://dasarpai.com"
+      
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/harithapliyal/"
+      
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dasarpai"
+      
+    - label: "OrcID"
+      icon: "fas fa-id-card"
+      url: "https://orcid.org/0000-0001-7907-865X"
+      
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/dasarpai"
+      
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://instagram.com/dasarpai"
+      
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://facebook.com/dasarpai"
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - _posts
+  - _pmbok6
+  - _pmbok6hi 
+  - _pmblog 
+  - _quotations
+  - _wiablog 
+  - _management
+  - _samskrut
+  - _dscourses
+  - _dsresoures
+  - _dxlexicon
+  - _dsblog
+  - assets
+  - sitemap.xml
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  math_engine: katex
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-katex
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
+# Defaults
+defaults:   
+  # _quotations
+  - scope:
+      path: ""
+      type: quotations
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true # true
+      share: true
+      related: true
+      show_date: true
+      sidebar:
+        nav: "docs"  
+  
+  # _dslexicon
+  - scope:
+      path: ""
+      type: dslexicon
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true # true
+      share: true
+      related: true
+      show_date: true
+      sidebar:
+        nav: "docs"  
+  
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true # true
+      share: true
+      related: true
+      show_date: true
+      sidebar:
+        nav: "docs"    
+           
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: true
+      related: false
+      sidebar:
+        nav: "docs"       
+ 
+  # _dsresources
+  - scope:
+      path: ""
+      type: dsresources
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: true
+      related: false
+      sidebar:
+        nav: "docs"  
+     
+  # _dsblog
+  - scope:
+      path: ""
+      type: dsblog
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: false
+      sidebar:
+        nav: "docs"  
+      
+  # _wiablog
+  - scope:
+      path: ""
+      type: wiablog
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: false
+      sidebar:
+        nav: "docs"  
+ 
+   # _samskrut
+  - scope:
+      path: ""
+      type: samskrut
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: false
+      sidebar:
+        nav: "docs"  
+        
+  # _pmblog
+  - scope:
+      path: ""
+      type: pmblog
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: false
+      sidebar:
+        nav: "docs"        
+ 
+  # _pmbok6
+  - scope:
+      path: ""
+      type: pmbok6
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: true
+      share: true
+      related: false
+      sidebar:
+        nav: "docs"       
+        
+  # _pmbok6hi
+  - scope:
+      path: ""
+      type: pmbok6hi
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: true
+      share: true
+      related: false
+      sidebar:
+        nav: "docs"        
+        
+  # _dscourses
+  - scope:
+      path: ""
+      type: dscourses
+    values:
+      layout: single
+      show_date: false
+      author_profile: false
+      read_time: false
+      comments: true
+      share: true
+      related: false
+      mathjax: true
+ 
+  # _management
+  - scope:
+      path: ""
+      type: management
+    values:
+      layout: single
+      show_date: false
+      author_profile: false
+      read_time: false
+      comments: true
+      share: true
+      related: false
+      mathjax: true
+      
+  # _pmgallery
+  - scope:
+      path: "_pmgallery"
+      type: gallery
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: true
+      related: false
+      sidebar:
+        nav: "docs" 
+        
+  # _dsgallery
+  - scope:
+      path: "_dsgallery"
+      type: gallery
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: true
+      related: false
+      sidebar:
+        nav: "docs"    
+      
+   # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: # true
+      share: true
+      related: true
+
+collections:
+  dslexicon:
+    output: true
+    permalink: /:categories/:title/
+  dsblog:
+    output: true
+    permalink: /:categories/:title/
+ 
+  dsresources:
+    output: true
+    permalink: /:categories/:title/
+  dscourses:
+    output: true
+    permalink: /:categories/:title/
+    
+  quotations:
+    output: true
+    permalink: /:categories/:title/
+  wiablog:
+    output: true
+    permalink: /:categories/:title/
+ 
+  pmblog:
+    output: true
+    permalink: /:categories/:title/
+  management:
+    output: true
+    permalink: /:categories/:title/  
+  pmbok6:
+    output: true
+    permalink: /:categories/:title/
+  pmbok6hi:
+    output: true
+    permalink: /:categories/:title/
+
+  samskrut:
+    output: true
+    permalink: /:categories/:title/
+    
+  gallery:
+    output: true
+    permalink: /:categories/:title/

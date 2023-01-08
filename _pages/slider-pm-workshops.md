@@ -1,0 +1,244 @@
+---
+id: 729    
+title: Project Management Workshops - Select Worshops
+date: '2020-10-21T14:51:37+05:30'
+layout: slider-pm-workshops
+permalink: /slider-pm-workshops
+author_profile: false
+sidebar:
+   nav: "docs"
+header:
+  overlay_image: /assets/images/dspost/common/ai-ml-resources.png
+  overlay_filter: .4 # same as adding an opacity of 0.5 to a black background
+show_date: false
+read_time: false
+excerpt: "Some snapshots from the Classroom workshops on Project Management, PMP, Agile, PRINCE2, Project Risk Management, Customized Project Management, MSP 4000+ learners, 300+ sessions, 12000+ Hours. Learners across the Glove."
+
+carousels:
+  - images: 
+    - image: /assets/images/classes-all/014-Calcutta-S6002054.JPG
+    - image: /assets/images/classes-all/091020111740.jpg
+    - image: /assets/images/classes-all/111120111811.jpg
+    - image: /assets/images/classes-all/111120111813.jpg
+    - image: /assets/images/classes-all/20120727_185436.jpg
+    - image: /assets/images/classes-all/20120727_190130.jpg
+    - image: /assets/images/classes-all/20120812_130204.jpg
+    - image: /assets/images/classes-all/20120812_130252.jpg
+    - image: /assets/images/classes-all/20120814_151027.jpg
+    - image: /assets/images/classes-all/20120920_182622.jpg
+    - image: /assets/images/classes-all/20130620_172517.jpg
+    - image: /assets/images/classes-all/20140801_171555.jpg
+    - image: /assets/images/classes-all/20140824_181222.jpg
+    - image: /assets/images/classes-all/20140827_154104.jpg
+  - images: 
+    - image: /assets/images/classes-all/20140928_175619.jpg
+    - image: /assets/images/classes-all/20141019_183511.jpg
+    - image: /assets/images/classes-all/20141019_183624.jpg
+    - image: /assets/images/classes-all/20141202_154143.jpg
+    - image: /assets/images/classes-all/20141218_173843.jpg
+    - image: /assets/images/classes-all/20141221_161755.jpg
+    - image: /assets/images/classes-all/20141221_162025.jpg
+    - image: /assets/images/classes-all/20141221_162604.jpg
+    - image: /assets/images/classes-all/20141221_162659.jpg
+    - image: /assets/images/classes-all/20150123_165435.jpg
+    - image: /assets/images/classes-all/20150125_133417.jpg
+    - image: /assets/images/classes-all/20150125_133420.jpg
+    - image: /assets/images/classes-all/20150125_181845.jpg
+    - image: /assets/images/classes-all/20150130_182150.jpg
+  - images: 
+    - image: /assets/images/classes-all/20150426_121222.jpg
+    - image: /assets/images/classes-all/20150426_173959.jpg
+    - image: /assets/images/classes-all/20150426_174228.jpg
+    - image: /assets/images/classes-all/20150531_183444.jpg
+    - image: /assets/images/classes-all/20150626_112022.jpg
+    - image: /assets/images/classes-all/20150628_173802.jpg
+    - image: /assets/images/classes-all/20150628_173919.jpg
+    - image: /assets/images/classes-all/20150707_164246.jpg
+    - image: /assets/images/classes-all/20150707_173539.jpg
+    - image: /assets/images/classes-all/20150707_173929.jpg
+    - image: /assets/images/classes-all/20150710_174717.jpg
+    - image: /assets/images/classes-all/20150710_174753.jpg
+    - image: /assets/images/classes-all/20150710_174757.jpg
+    - image: /assets/images/classes-all/20150710_174842.jpg
+  - images: 
+    - image: /assets/images/classes-all/20150715_173259.jpg
+    - image: /assets/images/classes-all/20150715_173415.jpg
+    - image: /assets/images/classes-all/20150720_161133.jpg
+    - image: /assets/images/classes-all/20150720_170409.jpg
+    - image: /assets/images/classes-all/20150720_180331.jpg
+    - image: /assets/images/classes-all/20150720_180441.jpg
+    - image: /assets/images/classes-all/20150720_180709.jpg
+    - image: /assets/images/classes-all/20150722_142205.jpg
+    - image: /assets/images/classes-all/20150722_142233.jpg
+    - image: /assets/images/classes-all/20150723_175224.jpg
+    - image: /assets/images/classes-all/20150723_175605.jpg
+    - image: /assets/images/classes-all/20150723_175947.jpg
+    - image: /assets/images/classes-all/20150811_115834.jpg
+    - image: /assets/images/classes-all/20150811_183413.jpg
+  - images: 
+    - image: /assets/images/classes-all/20150811_183635.jpg
+    - image: /assets/images/classes-all/20150814_162401.jpg
+    - image: /assets/images/classes-all/20150814_174417.jpg
+    - image: /assets/images/classes-all/20150814_174421.jpg
+    - image: /assets/images/classes-all/20150818_171522.jpg
+    - image: /assets/images/classes-all/20150818_173934.jpg
+    - image: /assets/images/classes-all/20150818_173943.jpg
+    - image: /assets/images/classes-all/20150818_185535.jpg
+    - image: /assets/images/classes-all/20150821_175553.jpg
+    - image: /assets/images/classes-all/20150821_180027.jpg
+    - image: /assets/images/classes-all/20150821_190654.jpg
+    - image: /assets/images/classes-all/20150828_192234.jpg
+    - image: /assets/images/classes-all/20150828_192311.jpg
+    - image: /assets/images/classes-all/20150831_184351.jpg
+  - images: 
+    - image: /assets/images/classes-all/20150901_180826.jpg
+    - image: /assets/images/classes-all/20150901_192129.jpg
+    - image: /assets/images/classes-all/20150901_192211.jpg
+    - image: /assets/images/classes-all/20150927_145532.jpg
+    - image: /assets/images/classes-all/20150927_184453.jpg
+    - image: /assets/images/classes-all/20150927_184645.jpg
+    - image: /assets/images/classes-all/20150930_205257.jpg
+    - image: /assets/images/classes-all/20150930_214750.jpg
+    - image: /assets/images/classes-all/20151129_164254.jpg
+    - image: /assets/images/classes-all/20151129_164405.jpg
+    - image: /assets/images/classes-all/20151221_145935.jpg
+    - image: /assets/images/classes-all/20151223_160642.jpg
+    - image: /assets/images/classes-all/20160104_170345.jpg
+    - image: /assets/images/classes-all/20160104_170622.jpg
+  - images: 
+    - image: /assets/images/classes-all/20160128_135639.jpg
+    - image: /assets/images/classes-all/20160128_135650.jpg
+    - image: /assets/images/classes-all/20160129_152108.jpg
+    - image: /assets/images/classes-all/20160129_173103.jpg
+    - image: /assets/images/classes-all/20160130_145102.jpg
+    - image: /assets/images/classes-all/20160130_183310.jpg
+    - image: /assets/images/classes-all/20160130_184033.jpg
+    - image: /assets/images/classes-all/20160130_184110.jpg
+    - image: /assets/images/classes-all/20160224_172115.jpg
+    - image: /assets/images/classes-all/20160402_180017.jpg
+    - image: /assets/images/classes-all/20160407_122630.jpg
+    - image: /assets/images/classes-all/20160514_181807.jpg
+    - image: /assets/images/classes-all/20160514_181839.jpg
+    - image: /assets/images/classes-all/20160514_190109.jpg
+  - images: 
+    - image: /assets/images/classes-all/20160623_160519.jpg
+    - image: /assets/images/classes-all/20160627_092458.jpg
+    - image: /assets/images/classes-all/20160628_095459.jpg
+    - image: /assets/images/classes-all/20160628_170355.jpg
+    - image: /assets/images/classes-all/20160628_170510.jpg
+    - image: /assets/images/classes-all/20160628_170622.jpg
+    - image: /assets/images/classes-all/20160628_170633.jpg
+    - image: /assets/images/classes-all/20161110_152340.jpg
+    - image: /assets/images/classes-all/20161110_152355.jpg
+    - image: /assets/images/classes-all/20161110_152517.jpg
+    - image: /assets/images/classes-all/20161111_164945.jpg
+    - image: /assets/images/classes-all/20161111_165149.jpg
+    - image: /assets/images/classes-all/20161111_165403.jpg
+    - image: /assets/images/classes-all/20161111_165700.jpg
+  - images: 
+    - image: /assets/images/classes-all/20161111_180754.jpg
+    - image: /assets/images/classes-all/20161111_183953.jpg
+    - image: /assets/images/classes-all/20161116_134948.jpg
+    - image: /assets/images/classes-all/20161116_135045.jpg
+    - image: /assets/images/classes-all/20161118_170128.jpg
+    - image: /assets/images/classes-all/20161118_170408.jpg
+    - image: /assets/images/classes-all/20161118_170511.jpg
+    - image: /assets/images/classes-all/20161118_170520.jpg
+    - image: /assets/images/classes-all/20161122_140159.jpg
+    - image: /assets/images/classes-all/20161123_123132.jpg
+    - image: /assets/images/classes-all/20161202_095141.jpg
+    - image: /assets/images/classes-all/20161202_164442.jpg
+    - image: /assets/images/classes-all/20161202_182144.jpg
+    - image: /assets/images/classes-all/20161202_182152.jpg
+  - images: 
+    - image: /assets/images/classes-all/20161202_182305.jpg
+    - image: /assets/images/classes-all/20161214_165430.jpg
+    - image: /assets/images/classes-all/20161214_173618.jpg
+    - image: /assets/images/classes-all/20161221_150840.jpg
+    - image: /assets/images/classes-all/20161221_154619.jpg
+    - image: /assets/images/classes-all/20161221_154633.jpg
+    - image: /assets/images/classes-all/20161223_122444.jpg
+    - image: /assets/images/classes-all/20161223_122510.jpg
+    - image: /assets/images/classes-all/20161223_163308.jpg
+    - image: /assets/images/classes-all/20161223_163351.jpg
+    - image: /assets/images/classes-all/20170221_140957.jpg
+    - image: /assets/images/classes-all/20170221_141017.jpg
+    - image: /assets/images/classes-all/20170223_113439.jpg
+    - image: /assets/images/classes-all/20170223_113503_001.jpg
+  - images: 
+    - image: /assets/images/classes-all/20170223_163627.jpg
+    - image: /assets/images/classes-all/20170223_165641.jpg
+    - image: /assets/images/classes-all/20170421_142825.jpg
+    - image: /assets/images/classes-all/20170421_142959.jpg
+    - image: /assets/images/classes-all/20170503_122715.jpg
+    - image: /assets/images/classes-all/20170503_122722.jpg
+    - image: /assets/images/classes-all/20170505_101853.jpg
+    - image: /assets/images/classes-all/20170505_101857.jpg
+    - image: /assets/images/classes-all/20170505_174155.jpg
+    - image: /assets/images/classes-all/20170621_172156.jpg
+    - image: /assets/images/classes-all/20170622_165600.jpg
+    - image: /assets/images/classes-all/20170622_165735.jpg
+    - image: /assets/images/classes-all/20170728_142633.jpg
+    - image: /assets/images/classes-all/20170728_143455.jpg
+  - images: 
+    - image: /assets/images/classes-all/20170728_143512.jpg
+    - image: /assets/images/classes-all/20171103_141309.jpg
+    - image: /assets/images/classes-all/20171103_141831.jpg
+    - image: /assets/images/classes-all/20171103_161139.jpg
+    - image: /assets/images/classes-all/20171103_161218.jpg
+    - image: /assets/images/classes-all/20171106_164318.jpg
+    - image: /assets/images/classes-all/20171109_152958.jpg
+    - image: /assets/images/classes-all/240420111160.jpg
+    - image: /assets/images/classes-all/260220122074.jpg
+    - image: /assets/images/classes-all/27022011692.jpg
+    - image: /assets/images/classes-all/27022011698.jpg
+    - image: /assets/images/classes-all/270320111098.jpg
+    - image: /assets/images/classes-all/270320111099.jpg
+    - image: /assets/images/classes-all/30-01-2011-454.jpg
+  - images: 
+    - image: /assets/images/classes-all/301020111764.jpg
+    - image: /assets/images/classes-all/301020111790.jpg
+    - image: /assets/images/classes-all/Ahmdabad-S6001813.JPG
+    - image: /assets/images/classes-all/Bangalore_DSC_6212.JPG
+    - image: /assets/images/classes-all/Bangalore_DSC_6214.JPG
+    - image: /assets/images/classes-all/Chandigarh-S6001560.JPG
+    - image: /assets/images/classes-all/Chennai-2011-05-01 17.26.38.jpg
+    - image: /assets/images/classes-all/Chennai-260620111364.jpg
+    - image: /assets/images/classes-all/Chennai-P1020648.JPG
+    - image: /assets/images/classes-all/classes-all.txt
+    - image: /assets/images/classes-all/DSCF8162.JPG
+    - image: /assets/images/classes-all/DSCF8189.JPG
+    - image: /assets/images/classes-all/DSCF8194.JPG
+    - image: /assets/images/classes-all/DSCF8204.JPG
+  - images: 
+    - image: /assets/images/classes-all/DSCF8208.JPG
+    - image: /assets/images/classes-all/DSCF8209.JPG
+    - image: /assets/images/classes-all/DSCF8211.JPG
+    - image: /assets/images/classes-all/DSCF8219.JPG
+    - image: /assets/images/classes-all/IMG_0211.JPG
+    - image: /assets/images/classes-all/IMG_0259.JPG
+    - image: /assets/images/classes-all/IMG_0262.JPG
+    - image: /assets/images/classes-all/IMG_0642.JPG
+    - image: /assets/images/classes-all/IMG_0644.JPG
+    - image: /assets/images/classes-all/IMG_0925.JPG
+    - image: /assets/images/classes-all/IMG_0930.JPG
+    - image: /assets/images/classes-all/IMG_0949.JPG
+    - image: /assets/images/classes-all/IMG_0950.JPG
+    - image: /assets/images/classes-all/IMG_20170615_162530.jpg
+  - images: 
+    - image: /assets/images/classes-all/IMG_20170622_164255.jpg
+    - image: /assets/images/classes-all/IMG_20170622_164318.jpg
+    - image: /assets/images/classes-all/IMG_20170622_164332.jpg
+    - image: /assets/images/classes-all/IMG_20171107_102826.jpg
+    - image: /assets/images/classes-all/IMG_20171107_150746.jpg
+    - image: /assets/images/classes-all/IMG_20171108_103544.jpg
+    - image: /assets/images/classes-all/IMG_20171108_152125.jpg
+    - image: /assets/images/classes-all/IMG_20171109_103253.jpg
+    - image: /assets/images/classes-all/Indore-S6001788.JPG
+    - image: /assets/images/classes-all/Mum-S6001875.JPG
+    - image: /assets/images/classes-all/Pune-S6001694.JPG
+
+
+
+---     
+

@@ -1,0 +1,111 @@
+main:  
+  - title: "Home"
+    url: "/"
+  - title: "My Work & Courses"
+    url: "/services" 
+  - title: "AI Blogs"
+    url: "/datascience-blog"
+  - title: "Project Management"
+    url: "/pmlogy-home"
+  - title: "Spiritual Drop"
+    url: "/wia-blog"
+  - title: "Samskrut"
+    url: /samskrutyatra-blog
+  - title: "DS Resources"
+    url: "/datascience-resources"
+  - title: "Gallery"
+    url: "/gallery"     
+  - title: "About"
+    url: /aboutme
+
+    
+# sidebar navigation for PMLOGY
+docs:
+  - title: "Home"
+    children:
+      - title: "About Me"
+        url: "/aboutme"
+      - title: "My Work & Courses"
+        url: "/services"         
+      - title: "Clients"
+        url: "/clients"
+      - title: "Testimonial"
+        url: "/testimonials"
+  - title: "Data Science"
+    children:   
+      - title: "Data Science Blog"
+        url: "datascience-blog"
+      - title: "DS Resources"
+        url: "/datascience-resources"       
+      - title: "Data Science-Books"
+        url: dsresources/ds-ai-ml-books
+      - title: "Data Science Cheatsheets"
+        url: "/dsresources/data-science-cheatsheets"   
+      - title: "Video Channels to Learn DS"
+        url: "/dsresources/best-youtube-channels-for-ds"
+      - title: "DS Interview Questions"  
+        url: "/dsresources/ds-ai-ml-interview-resources"
+      - title: "Data Science Topics"
+        url: "/datascience-tags" 
+  - title: "Project Management"
+    children:
+      - title: "PMLOGY Home"
+        url: "/pmlogy-home"
+      - title: "PM Blog"
+        url: "/pmlogy-blog"        
+      - title: "PM Glossary"
+        url: "/pmglossary"
+      - title: "PM Topics"
+        url: "/pmlogy-tags"
+      - title: "PMBOK6 Topics "
+        url: "/pmbok6-tags" 
+      - title: "PMBOK6"
+        url: "/pmbok6-summary"
+      - title: "PMBOK6 Explorer"
+        url: "/pmbok6"       
+  - title: "PM Resources"
+    children:
+      - title: "PMBOK6 Templates"
+        url: "/pmi-templates"
+      - title: "PRINCE2 Templates"
+        url: "/prince2-templates"
+      - title: "Microsoft PM Templates"
+        url: "/microsoft-pm-templates"
+  - title: "Project Management Hindi"
+    children:
+      - title: "PMBOK6 Hindi Topics"
+        url: "/pmbok6hi-tags"       
+      - title: "PMBoK6 Hindi"
+        url: "/pmbok6hi-summary"
+      - title: "PMBOK6 Hindi Explorer"
+        url: "/pmbok6hi"
+  - title: "Wisdom in Awareness"
+    children:
+      - title: "WIA Home"
+        url: "/wia-home"
+      - title: "WIA Blog"
+        url: "/wia-blog"
+      - title: "WIA Topics"
+        url: "/wia-tags" 
+      - title: "WIA Quotes"
+        url: /quotations-blog    
+      - title: "Classical Literature"
+        url: "/wiaposts/classical-literature"        
+  - title: "Gallery"
+    children:
+      - title: "Online AI, DS, ML Training"
+        url: /slider-online-training
+      - title: "PM Training Select Photos"
+        url: /slider-pm-workshops
+      - title: "Online Conference"
+        url: /slider-online-conferences
+  - title: "Samskrut Yatra"
+    children:
+      - title: "SamskrutYatra Home"
+        url: /samskrutyatra-home 
+      - title: "Samskrut Blog"
+        url: /samskrutyatra-blog      
+      - title: "Samskrut Topics"
+        url: "samskrutyatra-tags"    
+      - title: "SamskrutYatra YouTube"
+        url: "https://www.youtube.com/@samskrutyatra"  
