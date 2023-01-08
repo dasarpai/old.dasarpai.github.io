@@ -87,11 +87,11 @@ ___
 ## What is Variance Formula?
 Variance is a measure of the dispersion of a single set of data. It is calculated as the **sum of the squared differences between each data point and the mean of the data**, divided by the number of data points.
 
-{% katexmm %}
+
 
 $\sigma^2 = \frac{\sum_{i=1}^{n} (x_i - \mu)^2}{n}$
 
-{% endkatexmm %}
+
 ___
 ## What is Covariance Formula?
 
