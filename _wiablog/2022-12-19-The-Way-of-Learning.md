@@ -18,7 +18,7 @@ share: true
     
 ![The Way of Learning ](/assets/images/wiapost/5208-The-Way-of-Learning.jpg)    
     
-## The Way of Learning   
+# The Way of Learning   
     
 If you want to teach your children the process of making tea    
 then you don't force them to memorize s for sugar,    

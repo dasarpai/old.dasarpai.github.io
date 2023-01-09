@@ -18,7 +18,7 @@ share: true
 
 ![Four Kinds of Powers of a Society](/assets/images/wiapost/5201-Four-Kinds-Of-Powers-Of-A-Society.jpg)
 
-## Four Kinds of Powers of a Society
+# Four Kinds of Powers of a Society
 
      
 Whether you appreciate this or not, ancient Indian wisdom says the following.     

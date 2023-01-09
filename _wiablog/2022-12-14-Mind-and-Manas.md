@@ -18,9 +18,9 @@ share: true
    
 ![Classical Literature](/assets/images/wiapost/5206-mind-and-manas.jpg )   
 
-## Mind and Manas   
+# Mind and Manas   
 
-### Two different concepts, Mind is not Manas.   
+## Two different concepts, Mind is not Manas.   
 
 The logical capability of each human brain is different.
 Due to this reason when different people see the same event they reason it differently.

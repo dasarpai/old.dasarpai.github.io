@@ -18,9 +18,7 @@ share: true
 
 ![Jeevan Mukta](/assets/images/wiapost/5200-Jeevan-Mukta.jpg)
 
-## Jeevan Mukta
-
-    
+# Jeevan Mukta
     
 In the process of evolution humans acquired the capability of imagination.     
 This enables humans to think about the future.     

@@ -18,7 +18,7 @@ share: true
 
 ![About Eligibility](/assets/images/wiapost/5203-About-Eligibility.jpg)
 
-## About Eligibility
+# About Eligibility
 
     
 Paatra in Sanskrit means pot, but it also means an eligible person. Paatrata means eligibility, capacity, capability to hold what is given to you. You can ask for anything, knowledge, money power. This is part of your imagination. But fortunately if your wish is fulfilled and that knowledge, money or power is given to you then can you hold it gracefully, happily and for the benefits of all around? Asking for the river when you are holding a spoon in your hand is foolishness because the flood can destroy you. But mostly people do not know their own eligibility (Paatrata) and keep weeping for their destiny or giver or God.     

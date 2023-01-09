@@ -18,7 +18,8 @@ share: true
    
 ![Classical Literature](/assets/images/wiapost/5207-Are-You-Feeling-Stuck-in-Life.jpg)   
 
-## Are You Feeling Stuck in Life?   
+# Are You Feeling Stuck in Life?   
+
 Life is not a railway track that goes straight. Every life has ups and downs, it has cycles of movement. But it is easy to say when you are at the peak or rising. From my experience, I can say the following will definitely help one in managing the low time of life, especially when you think nothing is moving in life.
 
 1. **Identify what you truly want:** I am stuck, this can be a vague feeling because something in life is not being “right”. When you have these feelings, then you should clarify what you want. What difference do you want? Frame your desires as what you do want to happen. Create a vision board of what you value, and what is the goal.
