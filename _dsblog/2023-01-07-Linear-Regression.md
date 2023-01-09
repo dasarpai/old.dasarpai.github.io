@@ -49,7 +49,13 @@ for example
 $$ Salary = 50,000 + 1.3 * Relevant\_Experience +  5 * number\_of\_projects\_completed + .3 * Age $$
 
 Linear regression is used to analyze the relationship between variables, make predictions, and understand the impact of one or more independent variables on the dependent variable. It is a widely used and well-understood statistical method that is easy to implement and interpret.
-___
+
+****
+
+----
+
+____
+
 **Question 02** 
 ## How do you choose the right features for a linear regression model?
 

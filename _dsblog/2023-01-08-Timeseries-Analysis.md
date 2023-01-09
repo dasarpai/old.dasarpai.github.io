@@ -87,9 +87,7 @@ ___
 ## What is Variance Formula?
 Variance is a measure of the dispersion of a single set of data. It is calculated as the **sum of the squared differences between each data point and the mean of the data**, divided by the number of data points.
 
-
-
-$\sigma^2 = \frac{\sum_{i=1}^{n} (x_i - \mu)^2}{n}$
+$$\sigma^2 = \frac{\sum_{i=1}^{n} (x_i - \mu)^2}{n}$$
 
 
 ___
@@ -97,11 +95,13 @@ ___
 
 It is calculated as the **sum of the products of the differences between each data point in one set and the mean of that set**, and the **differences between the corresponding data points in the other set and the mean of that set**, divided by the number of data points.
 
-$cov(X, Y) = \frac{\sum_{i=1}^{n} (x_i - \mu_X)(y_i - \mu_Y)}{n}$
+$$cov(X, Y) = \frac{\sum_{i=1}^{n} (x_i - \mu_X)(y_i - \mu_Y)}{n}$$
+
 ___
 ## What is AutoCovariance Function (ACVF) Formula?
 
-$\gamma(k) = Cov(X_t, X_{t+k})$
+$$\gamma(k) = Cov(X_t, X_{t+k})$$
+
 ___
 
 ## What is Additive Model in time series?
