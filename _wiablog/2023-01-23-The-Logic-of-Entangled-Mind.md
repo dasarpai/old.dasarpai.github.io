@@ -71,7 +71,7 @@ Even if God works hard for human,
 Because all the time human is praying 
 for more material and more entangledment.    
     
-Hari Om Tat Sat-Asat    
+Hari Om Tat Sat  
 Yours Truly Hari     
     
     
