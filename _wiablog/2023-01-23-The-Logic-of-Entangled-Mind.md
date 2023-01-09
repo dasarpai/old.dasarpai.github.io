@@ -37,7 +37,7 @@ In fact these sages were telling us
 You have lived millions of life,    
 The way you are suffering in this life     
 You have suffered millions of time earlier,    
-Are you not frustrated yet? Are you not ful yet?     
+Are you not frustrated yet? Are you not full yet?     
 What other juice you are looking into this sand?    
 Wake up, live a meaningful life,    
 Think beyound your physical existence     
@@ -61,12 +61,15 @@ Those people thought life is only one,
 There are so many interesting things in the life to enjoy,    
 Life is sort and we have to experience everything,     
 Therefore do everything in this life,    
-In this process they became so much materialisic that they don't care about the Soul, Atman, Brahman, God etc.    
+In this process they became so much materialisic 
+that they don't care about 
+the Soul, Atman, Brahman, God etc.    
     
-Oh Pratibimba, the tragedy of the human mind is such     
-That is impossible to save human,    
-Even if God work hard for human,    
-Because all the time human is praying for more material and more entangledment.    
+Oh Pratibimba, the tragedy of the human mind is such that     
+It is impossible to save human,    
+Even if God works hard for human,    
+Because all the time human is praying 
+for more material and more entangledment.    
     
 Hari Om Tat Sat-Asat    
 Yours Truly Hari     
