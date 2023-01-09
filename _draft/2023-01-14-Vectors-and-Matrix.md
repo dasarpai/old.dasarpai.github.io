@@ -1,14 +1,14 @@
 --- 
-id: 6019       
-title: "Matrix"   
+id: 6029       
+title: "Vectors and Matrix"   
 date: '2022-12-29T15:50:00+05:30'   
-permalink: /dsblog/matrix
+permalink: /dsblog/vectors-and-matrix
 categories:   
    
 tags: [Matrix]   
    
 header:   
-  teaser: "/assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg"   
+  teaser: "/assets/images/dspost/dsp6029-Vectors-and-Matrix.jpg"   
 excerpt_separator: "<!--more-->"   
 excerpt:   
 layout: single   
@@ -16,6 +16,8 @@ author_profile: true
 toc: true   
 toc_sticky: true
 --- 
+
+![Vectors and Matrix](/assets/images/dspost/dsp6029-Vectors-and-Matrix.jpg)
 
 vectors
 matrix

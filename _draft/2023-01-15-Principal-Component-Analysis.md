@@ -1,5 +1,5 @@
 ---
-id: 6015    
+id: 6030    
 title: "Principal Component Analysis"
 date: '2022-11-07T15:50:00+05:30'
 permalink: /dsblog/Principal-Component-Analysis
@@ -8,14 +8,14 @@ categories:
 tags: [PCA, Clustering, Dimensionality Reduction]
 
 header:
-  teaser: "/assets/images/dspost/common/Principal-Component-Analysis.jpg"
+  teaser: "/assets/images/dspost/dsp6030-Principal-Component-Analysis.jpg"
 excerpt_separator: "<!--more-->"
 excerpt:
 layout: single
 author_profile: true
 ---
 
-![Principle Component Analysis](/assets/images/dspost/pca/Principal-Component-Analysis.jpg)
+![Principle Component Analysis](/assets/images/dspost/dsp6030-Principal-Component-Analysis.jpg)
 
 ![PCA Transformation](/assets/images/dspost/pca/pca.jpg)
 

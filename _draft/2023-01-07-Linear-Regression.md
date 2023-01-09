@@ -44,7 +44,8 @@ $$ y = b_0 + b_1 * x_1 + b_2 * x_2 + ... + b_n * x_n $$
 where y is the dependent variable, $x_1, x_2, ..., x_n$ are the independent variables, b0 is the intercept term, and b1, b2, ..., bn are the regression coefficients for the independent variables.
 
 for example 
-$$ Salary = 50,000 + 1.3 * Relevant\_Experience +  5 * number\_of\_projects\_completed + .3 * Age $$
+$$ Salary = 50,000 + 1.3 * Relevant\_Experience +  
+            5 * number\_of\_projects\_completed + .3 * Age $$
 
 Linear regression is used to analyze the relationship between variables, make predictions, and understand the impact of one or more independent variables on the dependent variable. It is a widely used and well-understood statistical method that is easy to implement and interpret.
 
@@ -52,7 +53,7 @@ Linear regression is used to analyze the relationship between variables, make pr
 
 ## How do you choose the right features for a linear regression model?
 
-There are several approaches you can take when choosing the features for a linear regression model. Here are a few tips:
+There are several approaches you can take when choosing the features for a linear regression model.
 1. Start with a small set of features: It's easier to understand the relationship between a small number of features and the target variable, and it will also make it easier to visualize the data.
 2. Select features that are correlated with the target variable: You want to include features that are likely to have a strong influence on the target variable. You can identify these by calculating the correlation between each feature and the target variable.
 3. Avoid highly correlated features: If two features are highly correlated, they may be redundant and only add noise to the model. It is multi-colinearity issue.
@@ -285,60 +286,5 @@ PCR can be a useful technique when you have a large number of features and want 
 
 ----
 
-## How many types of correlation coeffienct are there in stats?
 
-There are several types of correlation coefficients that are commonly used in statistics to measure the **strength** and **direction of a linear relationship** between two variables. Here are a few of the most common ones:
 
-1. Pearson correlation coefficient: The Pearson correlation coefficient is a measure of the linear relationship between two variables. It ranges from -1 to 1, where -1 indicates a strong negative relationship, 0 indicates no relationship, and 1 indicates a strong positive relationship.
-
-2. Spearman rank correlation coefficient: The Spearman rank correlation coefficient is a nonparametric measure of the strength of the monotonic relationship between two variables. It is calculated based on the ranks of the values rather than the raw data.
-
-3. Kendall rank correlation coefficient: The Kendall rank correlation coefficient is another nonparametric measure of the strength of the monotonic relationship between two variables. It is calculated based on the number of concordant and discordant pairs in the data.
-
-4. Partial correlation coefficient: The partial correlation coefficient is a measure of the correlation between two variables, taking into account the influence of one or more additional variables.
-
-5. Intraclass correlation coefficient: The intraclass correlation coefficient is a measure of the degree of agreement between observations that are made on the same subjects. It is commonly used in the analysis of repeated measures data.
-
-It's important to choose the appropriate correlation coefficient based on the nature of the data and the type of relationship you are interested in.
-
-----
-
-## What is concordant or discordant pairs?
-
-Concordant pairs are two variables that tend to increase or decrease together. Discordant pairs, on the other hand, are two variables that tend to move in opposite directions. For example, a positive correlation between the number of hours studied and exam scores would be an example of a concordant pair, while a negative correlation between the number of hours studied and the number of hours spent playing video games would be an example of a discordant pair.
-
-----
-
-## What is monotonic relationship?
-
-A monotonic relationship is a statistical relationship between two variables in which one variable either increases or decreases consistently as the other variable increases. In other words, there is a clear direction to the relationship, but **the relationship may not necessarily be linear**.
-
-For example, consider the relationship between temperature and ice cream sales. As temperature increases, ice cream sales are likely to increase as well. This is a positive monotonic relationship, because one variable (temperature) increases consistently as the other variable (ice cream sales) increases. On the other hand, if temperature were to decrease as ice cream sales increased, the relationship would be **negative monotonic**.
-
-Monotonic relationships can be measured using **nonparametric statistical techniques**, such as the **Spearman rank correlation coefficient** or the **Kendall rank correlation coefficient**. These techniques are based on the ranks of the values rather than the raw data, and they are less sensitive to deviations from a linear relationship than parametric techniques such as the Pearson correlation coefficient.
-
-----
-
-## what is the difference between nonparametric measure vs parametric measure?
-
-Parametric measures are statistical techniques that make assumptions about the underlying distribution of the data. These assumptions are usually about the shape of the distribution and the presence of certain statistical properties, such as a normal distribution or constant variance. Let's say we have a dataset which contains Paleontology  information about various objects. It has one column called age of the object. Can you assume the age column will have normal distribution? I think no. But if we were having an employee dataset and age is mentioned there then you can assume that age will have normal distriubtion. 
-
-Nonparametric measures, on the other hand, do not make any assumptions about the underlying distribution of the data. They are more flexible and can be used with a wider range of data types, but they may be less powerful than parametric measures because they make fewer assumptions about the data.
-
-One of the main differences between parametric and nonparametric measures is the way they handle missing data. Parametric measures typically require complete data sets, while nonparametric measures are more robust to missing data.
-
-It's important to choose the appropriate statistical technique based on the nature of the data and the research question you are trying to answer. In general, parametric measures are more powerful when the assumptions they make about the data are met, but nonparametric measures may be more appropriate when these assumptions are not met.
-
-----
-
-## What is R-Square formula?
-R-Square or $R^2$ is also called coefficient of determination. It is used to evaluate the performance of regression model. $R^2$ value can be any number between 0 and 1 including 0 and 1. If $R^2$ of a model is .80 then it means this model explain 80% variation between actual and predicted values but 20% variation cannot be explained. Higher the $R^2$ value means more variation can be explained by the model and better the model is.
-
-$$R^2 = 1 - \frac{SS_{res}}{SS_{tot}}$$
-
-Where SSres is the sum of squared residuals (the difference between the predicted value and the actual value) and SStot is the total sum of squares (the difference between the actual value and the mean of all actual values).
-
-----
-
-## What is Adjusted R-Square formula?
-$$Adjusted R^2 = 1 - (1 - R^2) * \frac{(n - 1)}{(n - p - 1)}$$

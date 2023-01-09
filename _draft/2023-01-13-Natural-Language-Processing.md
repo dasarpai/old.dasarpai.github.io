@@ -1,20 +1,20 @@
 ---
 mathjax: true
-id: 8001
-title: 'Natural Language Processing'
+id: 6028
+title: 'What is Natural Language Processing'
 date: 2021-08-03
-permalink: '/dslexicon/natural-language-processing'
+permalink: '/dslexicon/what=is-natural-language-processing'
 tags: [NLP] 
 categories: 
 
 header:
-    teaser: /assets/images/dspost/common/Natural-Language-Processing.jpg
+    teaser: /assets/images/dspost/dsp6028-What-Is-Natural-Language-Processing.jpg
 author: Hari Thapliyaal 
 excerpt:
 share: true 
 ---
 
-![Natural Language Processing](/assets/images/dspost/common/Natural-Language-Processing.jpg)
+![Natural Language Processing](/assets/images/dspost/dsp6028-What-Is-Natural-Language-Processing.jpg)
 
 48 Categories of tasks in NLP.
 

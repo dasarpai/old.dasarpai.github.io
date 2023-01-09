@@ -1,21 +1,27 @@
 ---
 mathjax: true
-id: 8001
-title: 'Transformers'
+id: 6031
+title: 'What Are Transformers in AI'
 date: 2021-08-03
-permalink: '/dslexicon/transformers'
+permalink: '/dslexicon/What-Are-Transformers-in-AI'
 tags: [NLP] 
 categories: 
 
 header:
-    teaser: /assets/images/dspost/transformer/transformer-arch.jpg
+    teaser: /assets/images/dspost/dsp6031-What-are-Transformers-in-AI.jpg
 author: Hari Thapliyaal 
 excerpt:
 share: true 
 ---
 
+![What-are-Transformers-in-AI](/assets/images/dspost/dsp6031-What-are-Transformers-in-AI.jpg)
+
+# What Are Transformers in AI
+
+## Transformer Architecture
 ![Transformer](/assets/images/dspost/transformer/transformer-arch.jpg)
 
+## Background
 Transformers are a type of neural network architecture that have several properties that make them effective for modeling data with long-range dependencies. They generally feature a combination of multi-headed attention mechanisms, residual connections, layer normalization, feedforward connections, and positional embeddings.
 
 Sno. | Transformer | Year | Type | Short Introduction

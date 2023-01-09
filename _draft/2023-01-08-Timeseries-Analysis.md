@@ -92,27 +92,7 @@ Autocovariance: Autocovariance is a measure of the dispersion of a single time s
 
 ----
 
-## What is Variance Formula?
-Variance is a measure of the dispersion of a single set of data. It is calculated as the **sum of the squared differences between each data point and the mean of the data**, divided by the number of data points.
 
-$$\sigma^2 = \frac{\sum_{i=1}^{n} (x_i - \mu)^2}{n}$$
-
-
-----
-
-## What is Covariance Formula?
-
-It is calculated as the **sum of the products of the differences between each data point in one set and the mean of that set**, and the **differences between the corresponding data points in the other set and the mean of that set**, divided by the number of data points.
-
-$$cov(X, Y) = \frac{\sum_{i=1}^{n} (x_i - \mu_X)(y_i - \mu_Y)}{n}$$
-
-----
-
-## What is AutoCovariance Function (ACVF) Formula?
-
-$$\gamma(k) = Cov(X_t, X_{t+k})$$
-
-----
 
 ## What is Additive Model in time series?
 In a time series, an additive model is one where the overall effect of the various factors (such as trend, seasonality, and noise) is simply the sum of their individual effects.
@@ -166,43 +146,7 @@ There are several tests that can be used to determine whether a time series is s
 
 It's worth noting that these tests are statistical in nature, and they can only provide a certain level of confidence in whether a time series is stationary or not. In some cases, further analysis may be needed to determine whether a time series is truly stationary.
 
-----
 
-## What is formula for the Standard Deviation?
-
-**The formula for the sample standard deviation, denoted by "s," is:**
-$$s = \sqrt{\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2}$$
-
-where x is the set of observations, n is the number of observations, and $\bar{x}$ is the mean of the observations.
-
-**The formula for the population standard deviation, denoted by "σ," is:**
-
-$$σ = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(x_i - \mu)^2}$$
-
-where x is the set of observations, n is the number of observations, and $\mu$ is the mean of the observations.
-
-----
-
-## What is correlation formula?
-The formula for Pearson's correlation coefficient, denoted by "r," is:
-
-$$r = \frac{\sum_{i=1}^{n}(x_i - \bar{x})(y_i - \bar{y})}{\sqrt{\sum_{i=1}^{n}(x_i - \bar{x})^2} \sqrt{\sum_{i=1}^{n}(y_i - \bar{y})^2}}$$
-
-you can also right it like 
-
-$$r = \frac{ \frac{\sum_{i=1}^{n}(x_i - \bar{x})(y_i - \bar{y})}{n} }
-
-{\sqrt{ \frac{1}{n}\sum_{i=1}^{n}(x_i - \bar{x})^2} 
-
-\sqrt{ \frac{1}{n} \sum_{i=1}^{n}(y_i - \bar{y})^2}{n} }$$
-
-or
-
-$$ \rho_{(x,y)} = \frac { Cov(x, y)} {(Std(x) * Std(y)) }$$
-
-where x and y are the two variables being correlated, n is the number of observations, and $\bar{x}$ and $\bar{y}$ are the means of the x and y variables, respectively.
-
-----
 
 ## How regression is different from correlation?
 In regression we predict a number (dependent variable) with the help of predictor (independent variables)
