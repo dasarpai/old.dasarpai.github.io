@@ -89,9 +89,9 @@ docs:
         url: "/wia-tags" 
       - title: "WIA Quotes"
         url: /quotations-blog    
-      - title: "General Knowledge"
+      - title: "GK Blog"
         url: "/gk-blog"        
-      - title: "GK Topic Tags"
+      - title: "GK Topic"
         url: "/gk-tags"            
   - title: "Gallery"
     children:
