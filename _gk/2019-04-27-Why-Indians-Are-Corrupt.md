@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Why Indians Are Corrupt](/assets/gk/wiapost/7002-Why-Indians-Are-Corrupt.jpg)
+![Why Indians Are Corrupt](/assets/gk/7002-Why-Indians-Are-Corrupt.jpg)
 
 ## Why Indians Are Corrupt
 
