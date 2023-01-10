@@ -1,7 +1,7 @@
 ---            
 id: 5211            
 mathjax: true            
-title: Logic of Entangled Mind           
+title: The Logic of Entangled Mind           
 date: "2023-01-23T08:33:00+05:30"            
 permalink: /wiaposts/Logic-of-Entangled-Mind         
 Tags: [Education, My Views]         
@@ -18,7 +18,7 @@ share: true
             
 ![The Logic of Entangled Mind](/assets/images/wiapost/5211-The-Logic-of-Entangled-Mind.jpg )            
                
-# Logic of Entangled Mind      
+# The Logic of Entangled Mind      
     
 Saints, Mahatmas, Rishis of the East Developed a philosophy     
 And they told that there are millions of life     
@@ -51,24 +51,31 @@ We are so bad in time sense that Kabirdas Ji
 need to remind us "Kaal Kare So Aaj Kar"    
     
 Western philosopies came later,    
-Perhaps their philophers learned from the experience of the East.    
+Perhaps their philosophers learned from the experience of the East.    
 So they told their people     
-There is only life,    
+There is only one life,    
+Your actions of this life 
+will take you to a permanent hell or heaven   
 By the grace of the God you have become human therefore     
 Live such a life that you remain near to that who gave you life.    
     
 Those people thought life is only one,    
 There are so many interesting things in the life to enjoy,    
-Life is sort and we have to experience everything,     
-Therefore do everything in this life,    
-In this process they became so much materialisic 
+There are so many lovely places to go,    
+There are so many great or successful people to meet,   
+Life is too sort and we have to experience everything,     
+Therefore do everything in this life, 
+And do it as fast as possible,   
+In this process they become so much materialisic 
 that they don't care about 
-the Soul, Atman, Brahman, God etc.    
+the Soul, Atman, Brahman, God etc.
+They developed watches and they developed machines   
+So that they can enjoy everything whatever is matter.    
     
-Oh Pratibimba, the tragedy of the human mind is such that     
-It is impossible to save human,    
-Even if God works hard for human,    
-Because all the time human is praying 
+Oh Pratibimba, the tragedy of the human mind is such that    
+Even if God works hard for human,  
+It is impossible to save human.      
+Because all the time human is praying    
 for more material and more entangledment.    
     
 Hari Om Tat Sat  
