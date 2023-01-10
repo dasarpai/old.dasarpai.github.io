@@ -3,7 +3,7 @@ id: 741
 title: General Knowledge Blog
 layout: collection
 permalink: /gk-blog
-collection: wiablog
+collection: gk
 entries_layout: grid
 author_profile: false
 classes: wide
