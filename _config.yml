@@ -338,6 +338,22 @@ compress_html:
 
 # Defaults
 defaults:   
+
+  # _generalknwoledge
+  - scope:
+      path: ""
+      type: gk
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true # true
+      share: true
+      related: true
+      show_date: true
+      sidebar:
+        nav: "docs"  
+        
   # _quotations
   - scope:
       path: ""
@@ -564,6 +580,10 @@ defaults:
       related: true
 
 collections:
+  gk:
+    output: true
+    permalink: /:categories/:title/
+    
   dslexicon:
     output: true
     permalink: /:categories/:title/

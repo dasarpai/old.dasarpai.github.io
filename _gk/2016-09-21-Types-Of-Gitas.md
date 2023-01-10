@@ -1,14 +1,14 @@
 --- 
-id: 5030
+id: 7001
 mathjax: true  
 title: Types Of Gitas
 date: "2016-09-21T08:33:00+05:30"
-permalink: /wiaposts/types-of-gitas
+permalink: /gk/types-of-gitas
 tags: [ 'Bhagwat Gita', 'Indian Culture']    
 
 categories: 
 header:
-     teaser: /assets/images/wiapost/5030-Types-Of-Gitas.jpg
+     teaser: /assets/images/gk/7001-Types-Of-Gitas.jpg
 author: Hari Thapliyaal 
 layout: single 
 excerpt:  
@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Types Of Gitas](/assets/images/wiapost/5030-Types-Of-Gitas.jpg)
+![Types Of Gitas](/assets/images/gk/7001-Types-Of-Gitas.jpg)
 
 ## Types Of Gitas
 

@@ -1,14 +1,14 @@
 ---        
-id: 5209        
+id: 7004        
 mathjax: true        
 title: The Indian Constitution        
 date: "2022-12-26T08:33:00+05:30"        
-permalink: /wiaposts/The-Indian-Constitution        
+permalink: /gk/The-Indian-Constitution        
 tags: [Education]        
         
 categories:        
 header:        
-    teaser: /assets/images/wiapost/5209-The-Indian-Constitution.jpg        
+    teaser: /assets/images/gk/7004-The-Indian-Constitution.jpg        
 author: Hari Thapliyaal        
 layout: single        
 excerpt:        
@@ -16,7 +16,7 @@ author_profile: true
 share: true        
 ---        
         
-![The Indian Constitution](/assets/images/wiapost/5209-The-Indian-Constitution.jpg)        
+![The Indian Constitution](/assets/images/gk/7004-The-Indian-Constitution.jpg)        
         
 # The Indian Constitution       
     

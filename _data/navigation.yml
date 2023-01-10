@@ -89,8 +89,10 @@ docs:
         url: "/wia-tags" 
       - title: "WIA Quotes"
         url: /quotations-blog    
-      - title: "Classical Literature"
-        url: "/wiaposts/classical-literature"        
+      - title: "General Knowledge"
+        url: "/gk"        
+      - title: "GK Topic Tags"
+        url: "/gk-tags"            
   - title: "Gallery"
     children:
       - title: "Online AI, DS, ML Training"

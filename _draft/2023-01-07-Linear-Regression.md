@@ -18,11 +18,11 @@ toc_sticky: true
 mathjax: "true"
 --- 
 
-   
 ![Prompt Engineering for GPT4](/assets/images/dspost/dsp6022-Linear-Regression-Interview-Questions.jpg)
 
-
 # Linear Regression Interview Questions and Answers
+
+> In this question-answer article, I will try that the start of every answer from example rather than theory (some unavoidable variation may be possible). I firmly believe if examples are clear, human mind is smart enough in generlization and creating theories.
 
 ## What is linear regression? What is the difference between simple linear regression and multiple linear regression?
 

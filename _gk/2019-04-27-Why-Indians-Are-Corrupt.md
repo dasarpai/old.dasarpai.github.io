@@ -1,14 +1,14 @@
 --- 
-id: 5096
+id: 7002
 mathjax: true  
 title: Why Indians Are Corrupt
 date: "2019-04-27T08:33:00+05:30"
-permalink: /wiaposts/why-indians-are-corrupt
+permalink: /gk/why-indians-are-corrupt
 tags: [ Rebuttal]    
 
 categories: 
 header:
-     teaser: /assets/images/wiapost/5096-Why-Indians-Are-Corrupt.jpg
+     teaser: /assets/images/gk/7002-Why-Indians-Are-Corrupt.jpg
 author: Hari Thapliyaal 
 layout: single 
 excerpt:  
@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Why Indians Are Corrupt](/assets/images/wiapost/5096-Why-Indians-Are-Corrupt.jpg)
+![Why Indians Are Corrupt](/assets/gk/wiapost/7002-Why-Indians-Are-Corrupt.jpg)
 
 ## Why Indians Are Corrupt
 

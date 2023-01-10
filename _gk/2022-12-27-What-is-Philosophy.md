@@ -1,14 +1,14 @@
 ---        
-id: 5210        
+id: 7005        
 mathjax: true        
 title: What is Philosophy?        
 date: "2022-12-27T08:33:00+05:30"        
-permalink: /wiaposts/What-is-Philosophy        
+permalink: /gk/What-is-Philosophy        
 tags: [Education]        
         
 categories:        
 header:        
-    teaser: /assets/images/wiapost/5210-What-is-Philosophy.jpg        
+    teaser: /assets/images/gk/7005-What-is-Philosophy.jpg        
 author: Hari Thapliyaal        
 layout: single        
 excerpt:        
@@ -16,7 +16,7 @@ author_profile: true
 share: true        
 ---        
         
-![The Indian Constitution](/assets/images/wiapost/5210-What-is-Philosophy.jpg)        
+![The Indian Constitution](/assets/images/gk/7005-What-is-Philosophy.jpg)        
            
 # What is Philosophy (Darshan Shastra)
 Philosophy deals with intellect, logic, reasoning, analysis, and conclusion. It helps you in questioning everything including scientific knowledge, scriptures, traditions, culture, the ways of acquiring knowledge, the existence of God, the existence of your own, and try to understand abstract concepts like Akaasha, Time, the idea of Atman, different states of living like deep sleep, dream and awake. The origin of cosmos, and the origin of life. In fact philosophy deals with every subject in deep and not the obvious dimensions of any subject. That is why the highest degree for all streams of knowledge is called a Ph.D. (Doctorate in Philosophy).  It explores the foundations, methods, history, implications, and purpose of science.

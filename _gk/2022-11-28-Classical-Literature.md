@@ -1,14 +1,14 @@
 ---    
-id: 5205   
+id: 7003   
 mathjax: true     
 title: Classical Literature   
 date: "2022-11-28T08:33:00+05:30"   
-permalink: /wiaposts/classical-literature   
+permalink: /gk/classical-literature   
 tags: [ Education, Seeking ]       
    
 categories:    
 header:   
-     teaser: /assets/images/wiapost/5205-Classical-Literature.jpg   
+     teaser: /assets/images/gk/7003-Classical-Literature.jpg   
 author: Hari Thapliyaal    
 layout: single    
 excerpt:     
@@ -16,7 +16,7 @@ author_profile: true
 share: true    
 ---   
    
-![Classical Literature](/assets/images/wiapost/5205-Classical-Literature.jpg)   
+![Classical Literature](/assets/images/gk/7003-Classical-Literature.jpg)   
 
 # Classical Literature  
 

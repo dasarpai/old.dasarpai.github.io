@@ -22,6 +22,38 @@ toc_sticky: true
 
 # Statistics Interview Question for Data Scientist
 
+> In this question-answer article, I will try that the start of every answer from example rather than theory (some unavoidable variation may be possible). I firmly believe if examples are clear, human mind is smart enough in generlization and creating theories.
+
+# What is random variable?
+- If you through a dice then outcome can be any number 1 to 6.
+- If you check job applicant's age then age can be any number from 18 to 60.
+- If you see traffic movement on a four way cross junction it can be left, right, straight or u-turn.
+So variable dice-outcome, applicant-job, traffic-turn-direction can can be any random value between the range or options available. Therefore they are random variable. In database language every table's column is random variable. In statistics this is referred as random variable.
+
+# What are different types of random variables?
+A random variable can take any value from the given fix number of options. For example applicant_education applicant_gender, applicant_city, dice_outcome can have fixed number of outcome. This kind of variable is called catgorical variable. Further, there are two types of categorical variable. Applicant_education can be Higher_Secondry, Graduate, Master, Phd. But this random variable has an order from low to high therefore it is called ordinal categorical variable or ordinal variable. Applicant_city or color of the side of dice does not any order therefore they are called nominal categorical variable or nominal variable.
+
+In this dataset what can be the value of applicant_age or salary? Like earlier, it is not selected from a fixed number of options available. Not only that it can be decimal also. Therefore such kind of random variable is called numeric random variable or numbeic variable.
+ 
+# What is success probability?
+Let's assume your job_applicant dataset can have applicant only from 6 cities (Mumbai, Delhi, Bangalore, Chennai, Hyderabad, Kolkota). In this dataset you have 10,000 applicant's information. Now if you interested in only those employees who are from Mumbai. Then you can ask question, What is the probability that a given employee is from Mumbai? In the experiment, if you pickup record number 1008 and this candidate is from Mumbai then you call the event is successful. If candidate is from any other city then you call event is fail. Your write it as $$ Pr(Applicant_city=Mumbai) $$.
+
+If this dataset has 2000 candidates from Mumbai then a random selected candidate will be from Mumbai, what is the probablity? 2,000/10,000 = .20 or 20% so $$Pr(Applicant_City=Mumbai)=.20$$ is success probablity.
+
+Success probability is little tricky in the case of numeric variable. Because if you want to check the probablity of person whose age is 35 years, 3 months, 10 day, 6 hours then question is valid but answer is Probability of success of this event is zero. You pickup any number answer is going to be like that. For example when you say age is 30 years, it means 30 years, 0 month, 0 days, 0 hours. Therefore with numeric probalbity you either use >= or <=. It means you can ask a question Probability of Age of the candidate <=30, or >=30. or >=30 but <=35 years.
+
+In your dataset if you have 3000 people who are less then 30 years then Pr(Applicant_Age<=30) = .30 or 30%.
+If your dataset has 5000 people less then 35 years then Pr(Applicant_Age<=35) = .50 or 50%.
+Now you can say Pr(Applicant_age>=30 and <=35) = .50 - .30 = .20 or 20%.
+
+This all is done by exploring another concept called probability density.
+
+# What is probability density?
+Let's assume your dataset has 10,000 applicant and their age is between 18 to 60 years. You can plot a histogram and this histogram represents the distribution of age of the applicants. The entire area of this histogram is referred as 1, in our case 10000 people's age is represented by this area and it is 1. This is the maximum density of this curve. X axis of this curve will have age and y axis will have number of people.
+
+# Explain dependent variables and independent variable.
+In regression of classification problem we want to predict or forecast something. It may be house-price, cost-of-project, time-to-complete-project, salary-of-new-hired, promotion of employee, churn-of-a-customer etc. These are called dependent variable. But to predict these we need the help of some other variables, on which the value of these dependent variable depends. Like house-price can be predicted from area of house, cost-of-project can predicted from cost of the materials used etc. These predictors are called independent variables. If there is only one predictor then we need simple linear regression. But in real business or personal life you need more than one predictors, in that situation multi-linear regression is needed to predict.
+
 
 ## What is R-Square formula?
 R-Square or $R^2$ is also called coefficient of determination. It is used to evaluate the performance of regression model. $R^2$ value can be any number between 0 and 1 including 0 and 1. If $R^2$ of a model is .80 then it means this model explain 80% variation between actual and predicted values but 20% variation cannot be explained. Higher the $R^2$ value means more variation can be explained by the model and better the model is.
