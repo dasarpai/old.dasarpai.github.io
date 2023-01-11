@@ -137,7 +137,7 @@ If you throw 2 dice simultaniously then sum of the outcomes can be anything betw
 
 First Dice| 1|2|3|4|5|6
 ---| --|---|---|---|---|---
-**Second Dice**||||||
+Second Dice||||||
 1 | 2| 3 | 4| 5| 6| 7
 2 | 3| 4 | 5| 6| 7| 8
 3 | 4| 5 | 6| 7| 8| 9
@@ -210,11 +210,11 @@ $$cov(X, Y) = \frac{\sum_{i=1}^{n} (x_i - \mu_X)(y_i - \mu_Y)}{n}$$
 ## What is autocorrelation?
 
 Mean=> | 127 |  | 128 | 127
---- |---  |---  |---  | ---
+--- | --- | --- | --- | ---
 Month | Passengers (y) | $$y_{t-1}$$ | $$y_{t-2}$$ | $$y_{t-3}$$
-1949-01 | 112 | $$\downarrow$$ |  | 
-1949-02 | 118 | 112 | $$\downarrow$$ | 
-1949-03 | 132 | 118 | 112 | $$\downarrow$$
+1949-01 | 112 |  |  | 
+1949-02 | 118 | 112 |  | 
+1949-03 | 132 | 118 | 112 | 
 1949-04 | 129 | 132 | 118 | 112
 1949-05 | 121 | 129 | 132 | 118
 1949-06 | 135 | 121 | 129 | 132
@@ -230,13 +230,9 @@ Month | Passengers (y) | $$y_{t-1}$$ | $$y_{t-2}$$ | $$y_{t-3}$$
 
 ## What is AutoCovariance Function (ACVF) Formula?
 
-$$y_{t-3} - \bar{y}_{t-3}$$
-
-
-Mean=> | $$\bar{y}_t$$ 127 |  | $$\bar{y}_{t-2}$$ 128 | $$\bar{y}_{t-3}$$ 127 |  |  |  |  | |
---- |---  |---  |---  |---  | --- |---  | --- | --- |---|
- |  |  |  |  |  |  |  |  | AutoCovariance between $$y_t, y_{t-2}$$ 16 |AutoCovariance between $$y_t, y_{t-3}$$ -51
-Month | Passengers (y) | $$y_{t-1}$$ | $$y_{t-2}$$ | $$y_{t-3}$$ | $$y_t - \bar{y_t}$$ | $$y_{t-2} - \bar{y}_{t-2}$$| $$y_{t-3} - \bar{y}_{t-3}$$  | ($$y_t - \bar{y_t}$$) * ($$y_{t-2} - \bar{y}_{t-2}$$) | ($$y_t - \bar{y_t}$$) * ($$y_{t-3} - \bar{y}_{t-3}$$) |
+Mean=> | 127 |  | 128 | 127 |  |  |  | 16 | -51
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Month | Passengers (y) | $$y_{t-1}$$ | $$y_{t-2}$$ | $$y_{t-3}$$ | $$y_t - \bar{y_t}$$ | $$y_{t-2} - \bar{y}_{t-2}$$ | $$y_{t-3} - \bar{y}_{t-3}$$ | ($$y_t - \bar{y_t}$$) * ($$y_{t-2} - \bar{y}_{t-2}$$) | ($$y_t - \bar{y_t}$$) * ($$y_{t-3} - \bar{y}_{t-3}$$)
 1949-01 | 112 |  |  |  |  |  |  |  | 
 1949-02 | 118 | 112 |  |  |  |  |  |  | 
 1949-03 | 132 | 118 | 112 |  |  |  |  |  | 
