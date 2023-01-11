@@ -136,8 +136,8 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Probability_density_function)
 If you throw 2 dice simultaniously then sum of the outcomes can be anything between 2 to 12.
 
 First Dice| 1|2|3|4|5|6
----|---|---|---|---|---|---
-Second Dice
+---| --|---|---|---|---|---
+**Second Dice**||||||
 1 | 2| 3 | 4| 5| 6| 7
 2 | 3| 4 | 5| 6| 7| 8
 3 | 4| 5 | 6| 7| 8| 9
@@ -208,6 +208,7 @@ $$cov(X, Y) = \frac{\sum_{i=1}^{n} (x_i - \mu_X)(y_i - \mu_Y)}{n}$$
 
 ----
 ## What is autocorrelation?
+
 Mean=> | 127 |  | 128 | 127
 --- |---  |---  |---  | ---
 Month | Passengers (y) | $$y_{t-1}$$ | $$y_{t-2}$$ | $$y_{t-3}$$
