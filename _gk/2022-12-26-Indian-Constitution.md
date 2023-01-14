@@ -4,7 +4,7 @@ mathjax: true
 title: The Indian Constitution        
 date: "2022-12-26T08:33:00+05:30"        
 permalink: /gk/The-Indian-Constitution        
-tags: [Education]        
+tags: [Education, Law]        
         
 categories:        
 header:        

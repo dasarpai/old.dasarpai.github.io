@@ -2,7 +2,7 @@
 id: 5211            
 mathjax: true            
 title: The Logic of Entangled Mind           
-date: "2023-01-23T08:33:00+05:30"            
+date: "2023-01-09T08:33:00+05:30"            
 permalink: /wiaposts/Logic-of-Entangled-Mind         
 Tags: [Education, My Views]         
             

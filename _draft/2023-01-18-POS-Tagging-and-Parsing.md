@@ -19,12 +19,18 @@ share: true
 # POS Tagging and Parsing
 
 ## What is PoS tagging 
-## Universal PoS tags of Spacy 
-## HMM model works for PoS tagging
-https://analyticsindiamag.com/a-guide-to-hidden-markov-model-and-its-applications-in-nlp/
 
-https://www.analyticsvidhya.com/blog/2018/08/nlp-guide-conditional-random-fields-text-classification/
+## Universal PoS tags of Spacy 
+
+## HMM model works for PoS tagging
 
 ## PoS tagging using Spacy library
+
 ## Parsing with Spacy 
+
 ## Spacy Library Functions
+
+## References
+- [spaCy Python Notebook](https://github.com/dasarpai/NLP/blob/main/spaCy.ipynb)
+- [Hidden Markov Model Application in NLP](https://analyticsindiamag.com/a-guide-to-hidden-markov-model-and-its-applications-in-nlp/)
+- [Conditional Random Fields (CRM)](https://www.analyticsvidhya.com/blog/2018/08/nlp-guide-conditional-random-fields-text-classification/)
