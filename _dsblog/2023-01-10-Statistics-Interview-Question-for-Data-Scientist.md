@@ -640,10 +640,10 @@ $$t = \frac{\overline{X}_1 - \overline{X}_2}{s_{\overline{X}_1 - \overline{X}_2}
 
 $$s_{\overline{X}_1 - \overline{X}_2} = \sqrt{\frac{s_1^2 }{ n_1} + \frac{s_2^2 }{n_2}}$$
 
-$$s_{\overline{X}_1 - \overline{X}_2} = \sqrt(3/30 + 4/20) = sqrt(.3) = .547$$
-$$t = 4 /.547 = 7 $$
+$$s_{\overline{X}_1 - \overline{X}_2} = \sqrt(3^2/30 + 4^2/20) = sqrt(2.01) = 1.418$$
+$$t = 4 /.547 = 2.82 $$
 
-The degrees of freedom parameter is the smaller of (30 – 1) and (20 – 1), or 19. Because this is a one‐tailed test, the alpha level (0.05) is not divided by two. The next step is to look up t .05,19in the t‐table, which gives a critical value of 1.729. The computed t of 7 exceed the tabled value, so the null hypothesis is rejected. This test has provided statistically significant evidence that there is significant difference between the IQ of Girls and Boys.
+The degrees of freedom parameter is the smaller of (30 – 1) and (20 – 1), or 19. Because this is a one‐tailed test, the alpha level (0.05) is not divided by two. The next step is to look up t .05,19in the t‐table, which gives a critical value of 1.729. The computed t of 2.82 exceed the tabled value, so the null hypothesis is rejected. This test has provided statistically significant evidence that there is significant difference between the IQ of Girls and Boys.
 
 **Additional Observations**
 From boy's sample we know, 95% of the boys will have IQ between 100 +/- 2*3 = 94 to 106.

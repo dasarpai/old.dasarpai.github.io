@@ -118,3 +118,27 @@ Transformer , BERT , RoBERTa , GPT-2 , GPT-3 , T5 , ELMo , BART , GPT , XLNet , 
 ## Dependency Parsers
 
 
+## Application of NLP
+- Grammer Correct
+- Spelling
+- What is the action.
+- Who is doing the action.
+- Object of the sentnce.
+- Active voice vs passive.
+- Translate to X lanague
+- Transliterate to X script
+- Sentiment of the sentence.
+- Mood of the speaker.
+- Sense of the sentence.
+- Threat Detection
+- Abuse Detection
+- Sarcastic.
+- Offense Deteciton
+- This is the formal and informal.
+- Is there any emoticon expression.
+- Analyse
+- Summarization
+- What need to be masked.
+- NER
+- Coded vs Normal sentence.
+- What can be next word or next sentce.
