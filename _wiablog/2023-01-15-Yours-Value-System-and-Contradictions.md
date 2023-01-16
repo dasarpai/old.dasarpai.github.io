@@ -59,7 +59,10 @@ they push every day of life to another day.
     
 O Chaitnya, what you think?Are parents of the 21st century    
  believe in all these values of the old centuries?     
-Are they interested in their Moksha or at least in their children’s Moksha?    
-    
-Hari Om Tat Sat    
+Are they interested in their Moksha or 
+at least in their children’s Moksha?    
+Or because of social pressure, they want their children 
+become copycats of so-called successful children of their relatives or neighbor     
+
+Hari Om Tat Sat
 Yours Truly Hari

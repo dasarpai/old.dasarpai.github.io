@@ -39,7 +39,8 @@ Put the highest amount of life items on top
 and lower life items below that,     
 like you put numbers in decreasing order.     
     
-You will be surprised if you meet 100 people they all will sort things differently.     
+You will be surprised if you meet 100 people 
+they all will sort things differently.     
 Do not argue or debate or try to prove.      
 Do not bring your ethics or religious values in front to sort this list.     
 For the time being, avoid adding new items     
@@ -47,7 +48,7 @@ or contesting why a particular item is on the list.
 Keeping some categories in mind this list is created.    
     
 Space, air, fire, water, earth, medicine,     
-plants, bonsai tree, Banyan tree, fungi,     
+plants, bonsai tree, banyan tree, fungi,     
 algae, virus, bacteria, sand, mud, stone,     
 sesame seed, mango seed, mango,     
 cut hair or nails, snake, spider, ant, fly,     
@@ -74,7 +75,7 @@ and mystery around.
     
 If not then you believe in a philosophy that do not think so much,     
 life is already messy, therefore if we think more     
-there will create some more confusion.     
+that will create some more confusion.     
 Therefore, eat what you like, and behave the way it suits you     
 or what is suitable as per the law, make money,     
 enjoy life, thinking doesn't solve any problem,     
@@ -87,7 +88,8 @@ living like a bird or cow or tree of a forest.
 They exist and live with little thinking.    
     
 O Pratibimba, life in existence is not binary,    
-It is in the continuum. So you cannot say this is a living being and that is not.    
+It is in the continuum. 
+So you cannot say this is a living being and that is not.    
 You can say this is more living and another is less.    
 Thus, it does not matter how busy you are and how much you work,    
 when you are working like a machine then you lesser life    
