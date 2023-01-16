@@ -12,6 +12,8 @@ header:
 author: Hari Thapliyaal 
 excerpt:
 share: true 
+toc: true   
+toc_sticky: true
 ---
 
 ![Introduction to Neural Network](/assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg)
@@ -68,9 +70,12 @@ It's important to note that these assumptions may not always hold, especially in
 
 ## Backpropagation using a simple example
 
-## Simulate a simple Neural Network using Tensorflow
+During Backpropagation, The weights of the network connections are repeatedly adjusted to minimize the difference between the actual output vector of the net and the desired output vector.
+
+## Neural Network using Tensorflow
 
 ### What is keras and how is it different from Tf?
+Keras is a high-level Python deep learning library that simplifies the creation of deep learning models. It was initially developed as part of the TensorFlow library, but has since been separated into its own standalone library. Keras is designed to enable fast experimentation with deep neural networks and offers a simple interface for defining and training complex models. In comparison, TensorFlow is a low-level library that provides more control over the implementation of the deep learning model, but requires more configuration and coding.
 
 ### What are Dense layers
 Dense layers, also known as fully connected layers, are a type of layer commonly used in neural networks. In a dense layer, every neuron in the layer is connected to every neuron in the previous layer, hence the name fully connected.
@@ -86,4 +91,6 @@ In summary, Dense layers are a type of layer commonly used in neural networks. T
 ![Dense Layer](/assets/images/dspost/cv/dense-layer-neural-layer.png)
 
 
-### How to train and build a simple NN model for classification or regression task
+### How to train and build a simple NN model for classification
+
+- [MNIST Fasion - Classfication Model](https://github.com/dasarpai/CV/blob/main/image-classification.ipynb)
