@@ -3,7 +3,7 @@ mathjax: true
 id: 6032
 title: 'Ensemble Learning'
 date: 2023-01-17
-permalink: '/dslexicon/Ensemble-Learning'
+permalink: '/dsblog/Ensemble-Learning'
 tags: [NLP] 
 categories: 
 

@@ -3,7 +3,7 @@ mathjax: true
 id: 6028
 title: 'What is Natural Language Processing'
 date: 2021-08-03
-permalink: '/dslexicon/what=is-natural-language-processing'
+permalink: '/dsblog/what=is-natural-language-processing'
 tags: [NLP] 
 categories: 
 

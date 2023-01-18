@@ -3,7 +3,7 @@ mathjax: true
 id: 6033
 title: 'POS Tagging and Parsing'
 date: 2023-01-17
-permalink: '/dslexicon/POS-Tagging-and-Parsing'
+permalink: '/dsblog/POS-Tagging-and-Parsing'
 tags: [NLP] 
 categories: 
 

@@ -3,7 +3,7 @@ mathjax: true
 id: 6031
 title: 'What Are Transformers in AI'
 date: 2021-08-03
-permalink: '/dslexicon/What-Are-Transformers-in-AI'
+permalink: '/dsblog/What-Are-Transformers-in-AI'
 tags: [NLP] 
 categories: 
 

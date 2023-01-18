@@ -3,7 +3,7 @@ mathjax: true
 id: 6034
 title: 'Introduction to Neural Network'
 date: 2023-01-17
-permalink: '/dslexicon/Introduction-to-Neural-Network'
+permalink: '/dsblog/Introduction-to-Neural-Network'
 tags: [NLP] 
 categories: 
 

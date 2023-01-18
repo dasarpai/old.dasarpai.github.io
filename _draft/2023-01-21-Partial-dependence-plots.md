@@ -3,7 +3,7 @@ mathjax: true
 id: 6035
 title: 'Partial Dependence Plots'
 date: 2023-01-17
-permalink: '/dslexicon/Partial-Dependence-Plots'
+permalink: '/dsblog/Partial-Dependence-Plots'
 tags: [NLP] 
 categories: 
 
