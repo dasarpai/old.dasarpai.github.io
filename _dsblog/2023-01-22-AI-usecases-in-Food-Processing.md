@@ -61,7 +61,7 @@ Here are 40 use cases of AI in the food processing industry:
 32. Automated shelf-life prediction systems
 33. Automated sorting and grading of food
 34. Automated sorting and grading of grain, fruits and vegetables
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rUK9G4dqpc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/rUK9G4dqpc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 35. Automated stocking and replenishment of warehouse inventory
 36. Automated warehousing, storage, retrieval and inventory control
 37. Automated waste management
