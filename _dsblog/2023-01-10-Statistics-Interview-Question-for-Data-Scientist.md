@@ -1,344 +1,164 @@
---- 
-id: 6025       
-title: "Statistics Interview Question for Data Scientist"   
-date: '2023-01-06T15:50:00+05:30'   
+---
+id: 6025      
+title: "Statistics Interview Question for Data Scientist"  
+date: '2023-01-06T15:50:00+05:30'  
 permalink: /dsblog/Statistics-Interview-Question-for-Data-Scientist
-categories:   
+categories:  
    
-tags: [Statistics, Maths, Stats for Data Science]   
+tags: [Statistics, Maths, Stats for Data Science]  
    
-header:   
-  teaser: "/assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg"   
-excerpt_separator: "<!--more-->"   
-excerpt:   
-layout: single   
-author_profile: true   
-toc: true   
+header:  
+  teaser: "/assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg"  
+excerpt_separator: "<!--more-->"  
+excerpt:  
+layout: single  
+author_profile: true  
+toc: true  
 toc_sticky: true
---- 
+---
 
    
 ![Statistics Interview Question for Data Scientist](/assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg)
 
 # Statistics Interview Question for Data Scientist
 
-> In this question-answer article, I will try that the answer of every question starts with example rather than theory (some unavoidable variation may be possible). I firmly believe if examples are clear, human mind is smart enough in generlization and creating theories.
+> In this question-answer article, I will try the answer to every question starts with an example rather than a theory (some unavoidable variation may be possible). I firmly believe if examples are clear, then a human mind is smart enough in generalizing and creating theories.
+> To give example, in most of the places, I will use the “job_applicant” dataset. This dataset has data about the people who applied for a job in the company and applicants were either selected or rejected by the company. So the information in this dataset is applicant's name, date of birth, date of application, job applied, last salary, education, living_city, selected, etc.
 
-## What is the difference between Measure, Tool, Technique, Method, Process?
-- A measure is a way to calculate. It is a metric. For example mean, median, mode are measures to know the central tendency of data.
-- A tool is a physical object or software or app used to accomplish a task. For example, microsoft project for creating project scheule and identifying critical path.
-- A technique is a method or procedure used to accomplish a task. It refers to simple problem. For example: a technique used to open the lid of an air tight box.
-- A method is a systematic approach to solving a problem. It is more related to creativity and refers to larger problem. For example, method of cracking an IAS exam.
-- A process is a series of steps or actions taken to achieve a desired result. For example the process of hiring.
+# About Statistics
+## What is the difference between Measure, Tool, Technique, Method, and Process?
+- A measure is a **way to calculate**. It is a metric. For example mean, median, and mode are measures to know the central tendency of data.
+- A tool is a physical object or software or app used **to accomplish a task**. For example, Microsoft Project for creating a project schedule and identifying a critical path.
+- A technique is a **method or procedure used to accomplish a task**. It is related to a simple problem. For example, a technique used to open the lid of an air-tight box.
+- A method is a **systematic approach** to solving a problem. It is more related to creativity and refers to a larger problem. For example, a method of cracking an IAS exam.
+- A process is a **series of steps or actions** taken to achieve a desired result. For example the process of hiring.
 
 ## What is the meaning of sample in statistics and how it is different from observation?
-In statistics, **a sample is a subset of a population** that is chosen for the purpose of study. A sample is representation of population. The goal of sampling is to select a group of individuals from a population that will be representative of the population as a whole. The sample is used to make inferences about the population from which it was drawn. The sample is used to estimate population parameters, such as the mean or standard deviation, and to test hypotheses about the population.
+
+In statistics, **a sample is a subset of a population** that is chosen for the purpose of the study. A sample is a representation of the population. The goal of sampling is to select a group of individuals from a population that will be representative of the population as a whole. The sample is used to make inferences about the population from which it was drawn. The sample is used to estimate population parameters, such as the mean or standard deviation, and to test hypotheses about the population.
 
 An observation, on the other hand, **refers to a single measurement or data point**. Observations are the individual pieces of data collected in a study. A sample can contain multiple observations, for example, a sample of 100 people can have multiple observations such as age, gender, income, etc. on each individual.
 
-In summary, a sample is a subset of a population that is chosen to represent the population, while an observation is a single data point or measurement collected from an individual within the sample. A sample is used to make inferences about the population, whereas observations are used to make inferences about the sample.
+In summary, a sample is a subset of a population, which is chosen to represent the population, while an observation is a single data point or measurement collected from an individual within the sample. A sample is used to make inferences about the population, whereas observations are used to make inferences about the sample.
+
+![observation sample population](/assets/images/dspost/statistics/observation-sample-population.png)
 
 ## What is the difference between statistics and census?
-Statistics is the science of collecting, organizing, analyzing, and interpreting data. It is about sample data (a portion of the entire population). Census is the process of collecting and counting data about a population. For example, to study economic wellbeing of tribal people if you can collect some sample data then it is part of statistics. But if you collect data of the entire tribal population then it is census data.
+
+**Statistics** is the science of collecting, organizing, analyzing, and interpreting data. It is about **sample** data (a portion of the entire population). **Census** is the process of collecting and counting data about a **population**. For example, to study the economic well-being of tribal people if you can collect some sample data then it is part of statistics. But if you collect data on the entire tribal population then it is a census.
+
+## What are observational and experimental data in Statistics?
+If you want to know whether there is any relationship between **overtime working** and **number of defects produced** then you collect the data and check the relationship. This collected data is observational data. Before collecting the data, we don't have any intention of experimenting. We just want to know. To establish the relationship just observation of existing data is enough.
+
+If you **change the number of working hours** then what is the impact of this on **number of defects produced**? This way, you experiment with different working hours, sometimes you increase the hours, and at other times you decrease the hours. This collected data is experimental data. Before collecting the data I have intension to experiment. In one experiment, we increased the number of working hours and then noted the number of defects. In another experiment, we decreased the number of working hours and then noted the number of defects. To establish this relationship you need to experiment multiple times.
+
 
 ## Are statistical measures and statistical methods the same?
-No, Statistical measures are the **numerical values** used to describe data, while statistical methods are the **techniques** used to analyze data.
+No, Statistical measures are the **numerical values** used to describe data, like mean, median, and standard deviation. While statistical methods are the **techniques** used to analyze data like regression, and statistical tests.
 
 ## What are the different types of statistics?
-The different types of statistics are 
-- Descriptive statistics 
+The different types of statistics are
+- Descriptive statistics
 - Inferential statistics
 - Predictive analytics.
 
 ## What is Descriptive statistics?
-Descriptive statistics is the process of summarizing and organizing data in order to describe the characteristics of a **population or sample**. It includes measures such as mean, median, mode, range, variance, standard deviation, quartiles, percentiles, skewness, kurtosis, and covariance. There are different ways to calculate these measures.
+Descriptive statistics is the process of summarizing and organizing data in order to describe the characteristics of a **population or sample**. It includes measures such as mean, median, mode, range, variance, standard deviation, quartiles, percentiles, skewness, kurtosis, and covariance. Each measure has a different formula to calculate. Apart from that same measure can be calculated differently for different data distributions.
+
+## What is Inferential statistics?
+Inferential Statistics is a form of statistical analysis used to make inferences or draw conclusions from a given dataset. Generally, this involves **testing assumptions and hypotheses about the data**, such as if there is a relationship between two variables, or what the effect of one variable has on another. Inferential Statistics can help researchers to better understand the population they are studying.
+
+## What is predictive statistics?
+Predictive Statistics is a branch of statistics used to make predictions about future events or outcomes. This is done by analyzing data sets and using mathematical models to uncover patterns and correlations that can be used to forecast potential results and trends. Predictive Statistics can be used in many different areas such as marketing, business forecasting, machine learning, and health care. Machine learning models are built for predictive statistics.
 
 ## What are statistical measures of Descriptive Statistics?
-Descriptive statistics measures include mean, median, mode, range, variance, standard deviation, quartiles, percentiles, skewness, kurtosis, and covariance. In statistics we can study, anlyse these measures for sample data or for population data. In fact when doing census is not possible then we use these measures of sample data and predict/extrapolate/postulate about the population measure. For example, if you want to know the average life expectency of Indian women then you collect sample data and using that you can postulate about the average age of entire women population. There is process of doing, in this process there can be error and there is process of handling that.
+Descriptive statistics measures include mean, median, mode, range, variance, standard deviation, quartiles, percentiles, skewness, kurtosis, and covariance. In statistics, we can study, and analyze these measures for sample data or for population data. In fact, when it is not possible to do a census then we use these measures of sample data and predict/extrapolate/postulate about the population measure. For example, if you want to know the average life expectancy of Indian women then you collect sample data and using that you can postulate about the average age of the entire indian women population. There is a process for doing this. In this process, there can be errors and there are processes of handling/factoring that error component.
 
-## What are statistical measures of inferential Statistics?
+## What are statistical measures of Inferential Statistics?
 Inferential statistics measures include z-score, t-test, chi-square test, correlation coefficient, confidence interval, and p-value.
 
-## What are statistical measures of predictive Statistics?
-To measure the performance of statistial models we have several meausre. It depends upon the type of predictor or model type. For example, classification model can be evalauted using precision, recall, accuracy etc. Regression model can be evaluated using R^2 or Adjusted R^2.
+## What are statistical measures of Predictive Statistics?
+To measure the performance of statistical models we have several measures. It depends upon the type of predictor or model type. For example, a classification model can be evaluated using precision, recall, accuracy, etc. A regression model can be evaluated using R^2 or Adjusted R^2.
 
-## What are statistical tool of inferential Statistics?
-Regression analysis, hypothesis testing etc.
+## What are the statistical tools of Inferential Statistics?
+Inferential Statistics are statistical tools used to make inferences or draw conclusions from a given dataset. Examples of these tools include **hypothesis testing, regression analysis, and correlation analysis.** These tools allow researchers to infer information about population characteristics based on their observations of a smaller sample.
 
 
-## What are statistical tools of predictive Statistics?
-Predictive statistics tools are machine learning algorithms, such as linear regresion, logistic regression, decision trees, neural networks, and support vector machines.
+## What are the statistical tools of Predictive Statistics?
+Predictive statistics tools are machine learning algorithms, such as linear regression, logistic regression, decision trees, neural networks, and support vector machines.
 
+# About Variables
+
+## Variable Types and Summarization
+There are two kinds of variables and they are summarized in different ways.
+- Summary of Nominal Variable: Count, Ratio, and Percentage, e.g. How many girls and boys, percentage of fruit tree vs no-fruit tree, percentage of bad product vs good product, etc.
+- Summary of Numeric Data: mean, median, e.g. Mean salary, median age, mean sugar level, mean score
+- Depending upon the situation, Ordinal data can be nominal or numeric.
+
+## What is a random variable?
+- If you through a die then the outcome can be any number between 1 to 6, inclusive.
+- If you check the job applicant's age then the age can be any number from 18 to 60, knowing this is the age limit.
+- If you see traffic movement on a four-way cross junction it can be left, right, straight, or u-turn.
+
+So the variables like dice-outcome, applicant-job, traffic-turn-direction can take any random value between the range or the options available. Therefore they are called random variables. In the language of the database, every table's column is a random variable. In statistics, this is referred to as a random variable.
+
+## What are the different types of random variables?
+A random variable can take any value from the given fixed number of options. For example, applicant_education applicant_gender, applicant_city, and dice_outcome can have a fixed number of outcomes. This kind of variable is called a categorical variable. Further, there are two types of categorical variables. Applicant_education can be Higher_Secondry, Graduate, Master, Ph.D. But this random variable has an order from low to high therefore it is called an ordinal categorical variable or ordinal variable. Applicant_city or color of the side of the die does not have any order therefore they are called nominal categorical variables or nominal variables.
+
+In the employee dataset, what can be the value of applicant_age or salary? Like earlier, it is not selected from a fixed number of options available. Not only that it can be decimal also. Therefore such kind of random variable is called a numeric random variable or numeric variable.
+
+## Explain dependent variables and independent variables.
+
+In regression, or in classification problems we want to predict or forecast something. It may be house-price, cost-of-project, time-to-complete-project, salary-of-new-hired, promotion of employee, churn-of-a-customer etc. These are called dependent variables. But to predict these we need the help of some other variables, on which the value of these dependent variable depends. Like house-price can be predicted from the area of a house, the cost-of-project can be predicted from the cost of the materials used, etc. These predictors are called independent variables. If there is only one predictor then we need simple linear regression. But in real business or personal life, you need more than one predictor, in that situation multi-linear regression is needed to predict.
+
+## What is the difference between the regression coefficient and correlation coefficient?
+
+The regression coefficient is used to quantify the relationship between two variables. It can tell you keeping all variables constant if you change variable (related to regression coefficient) by 1 unit then how much change will happen on the target variable. The regression coefficient takes into account the slopes and intercepts of the line of best fit that is created when plotting the data points. The regression coefficient also allows for a more accurate prediction of outcome values based on input values.
+
+While the correlation coefficient measures the strength of the linear relationship between two variables.
+ 
 ## What is a statistical model?
-A statistical model is a mathematical representation of a real-world phenomenon. It is used to make predictions and analyze data. The data generated by the model and real-world data will have some difference and this is called error of the model. For example, based on certain parameters like carpet_area, number_of_bedroom etc. a model can predict house price should be 1.2 crore, but actual price is 1 core. Thus model is predicting price as 20 lakhs Rupees more. This is model error. Keeing the people behaviour, market opportunties, etc in mind we can never make a statistical model with zero error. But if could guess the distribution of input variables correctly then output of our model will have lessor errors.
+A statistical model is a mathematical representation of a real-world phenomenon. It is used to make predictions and analyze data. The data generated by the model and real-world data will have some differences and this is called an error in the model. For example, based on certain parameters like carpet_area, number_of_bedroom, etc. a model can predict house price should be 1.2 crores, but the actual price is 1 core. Thus, the model is predicting the price as 20 lakhs Rupees more. This is a model error. Keeping people's behavior, market opportunities, etc in mind we can never make a statistical model with zero error. But if could guess the distribution of input variables correctly then the output of our model will have lessor errors.
 
 
 ## What is the difference between Statistical Model and Mathematical Model?
-Mathematical models are deterministic, input is clearly known, outcome is fixed. Newtons's equation of motion is Mathematical Model. It represents the physical reality of the world. In $$s = u*t + \frac{1}{2}*a*t^2$$ You provide the value of u,t and a and you will get accurate s.
+Mathematical models are deterministic, the input is clearly known, the outcome is fixed. Newton's equation of motion is Mathematical Model. It represents the physical reality of the world. In $$s = u*t + \frac{1}{2}*a*t^2$$ You provide the value of u,t, and a and you will get accurate s.
 
-Statistical models are non-deterministics or stochastic, some of the inputs are probabilistics, and outcome is probabilistics. When you devlop a model to predict house price then you need statistical model. In your model parameters may be carpet_area, number of bedroom etc. From the sample data we know if area is 2000sft price can be 1cr, it can be 1.2cr or 1.5cr. For the same carepet area price is different. It is not only because of other parameters but because of market opportunties. Thus input, output of the model will be probabiltisics. Because of this non-deterministic nature we need to assume distribution of the data, so that outcome is more certain.
+Statistical models are non-deterministic or stochastic, some of the inputs are probabilistic, and the outcome is also probabilistic. When you develop a model to predict a house price then you need a statistical model. In your model parameters may be carpet_area, number of bedrooms, etc. From the sample data, we know if the area is 2000sft then the price can be 1cr, it can be 1.2cr, or 1.5cr. For the same carpet area price is different. It is not only because of other parameters but because of market opportunities. Thus input and output of the model will be probabilistic. Because of this non-deterministic nature, we need to assume the distribution of the data, so that outcome is more certain.
+
+# About Tools & Techniques
 
 ## What is regression?
-If you want to predict salary from experience or number of projects you have done then you can use regression analysis.
+If you want to predict salary from experience or the “number of projects done” then you can use regression analysis.
 
-A generic linear regression equation is $$y=mx+c$$. Where y is dependent variable like salary (which you want to predict), x is independent varialbe like no_of_years_experienct. m is slope of line or coeffcient which will your salary for each unit of experience. c is intercept of line, which will give you value of salary even if experience is zero. For example this model will predict salary in lakhs. $$Salary=2.5*no\_of\_years\_experience+1$$
+A generic linear regression equation is $$y=mx+c$$. Where y is a dependent variable like salary (which you want to predict), x is an independent variable like no_of_years_experience. m is the slope of the line or coefficient. c is an intercept of the line, which will give you the value of salary even if the experience is zero. For example, this model will predict salary in lakhs. $$Salary=2.5*no\_of\_years\_experience+1$$
 
-## What is correlation?
-If you want to study the magnitude or direction of relationship between two varialbe you can use this statistical measure.
+## What is correlation and how it is different from regression?
 
-Regression analysis is a statistical technique used to analyze the relationship between two or more variables.
+If you want to study the magnitude or direction of the relationship between two variables you can use correlation **statistical measure**.
 
-## What is random variable?
-- If you through a dice then outcome can be any number between 1 to 6, inclusive.
-- If you check job applicant's age then age can be any number from 18 to 60, knowing this is the age limit.
-- If you see traffic movement on a four way cross junction it can be left, right, straight or u-turn.
+Regression analysis is a **statistical technique** used to analyze the relationship between two or more variables. It can also help in prediction.
 
-So variable dice-outcome, applicant-job, traffic-turn-direction can can be any random value between the range or options available. Therefore they are random variable. In database language every table's column is random variable. In statistics this is referred as random variable.
+## Causation and Correlations are two different things, can you explain them with an example?
 
-## Explain dependent variables and independent variable.
-In regression of classification problem we want to predict or forecast something. It may be house-price, cost-of-project, time-to-complete-project, salary-of-new-hired, promotion of employee, churn-of-a-customer etc. These are called dependent variable. But to predict these we need the help of some other variables, on which the value of these dependent variable depends. Like house-price can be predicted from area of house, cost-of-project can predicted from cost of the materials used etc. These predictors are called independent variables. If there is only one predictor then we need simple linear regression. But in real business or personal life you need more than one predictors, in that situation multi-linear regression is needed to predict.
+Causation means that a **change in one thing causes a change in another**, while correlation means that **two things occur together without necessarily being connected**. Let's see examples:
+1. Studies have shown that there is a positive correlation between the amount of **time spent studying and good grades**, but this does not necessarily mean that studying causes good grades. It could be that other factors such as access to excellent teachers, resources, and tutors cause both studying and good grades.
+2. There is a positive correlation between **smoking and lung cancer**. However, this doesn't necessarily mean that smoking causes lung cancer. Other factors such as genetics, lifestyle, and environment may also play a role in developing lung cancer.
+3. There is a positive correlation between **exercising and improved physical health**, but this doesn't necessarily mean that exercising causes improved physical health. Other factors such as diet, sleep, and genetics may also play a role in physical health.
+4. There is a positive correlation between **eating junk food and becoming overweight**, yet this doesn't necessarily mean that junk food causes overweight. Other factors like exercise, genetics, and stress levels can also contribute to weight gain.
+5. There is a positive correlation between **drinking alcohol and developing liver disease**, yet this doesn't necessarily mean that drinking alcohol causes liver disease. Other factors such as genetics, lifestyle, and environment may also be contributing factors.
 
-## What are different types of random variables?
-A random variable can take any value from the given fix number of options. For example applicant_education applicant_gender, applicant_city, dice_outcome can have fixed number of outcome. This kind of variable is called catgorical variable. Further, there are two types of categorical variable. Applicant_education can be Higher_Secondry, Graduate, Master, Phd. But this random variable has an order from low to high therefore it is called ordinal categorical variable or ordinal variable. Applicant_city or color of the side of dice does not have any order therefore they are called nominal categorical variable or nominal variable.
+## What is Correlation formula?
 
-In this dataset what can be the value of applicant_age or salary? Like earlier, it is not selected from a fixed number of options available. Not only that it can be decimal also. Therefore such kind of random variable is called numeric random variable or numeric variable.
- 
-## What is success probability?
-Let's assume your job_applicant dataset can have applicant only from 6 cities (Mumbai, Delhi, Bangalore, Chennai, Hyderabad, Kolkota). In this dataset you have 10,000 applicant's information. Now if you are interested in only those employees who are from Mumbai, then you can ask question like, what is the probability that a given employee is from Mumbai? In the experiment, if you pickup record number 1008 and this candidate is from Mumbai then you call the event is successful. But, if candidate is from any other city then you call event is fail. Your write it as $$Pr(Applicant\_city=Mumbai)$$.
-
-If this dataset has 2000 candidates from Mumbai then a randomly selected candidate will be from Mumbai, what is the probablity? 2,000/10,000 = .20 or 20% so $$Pr(Applicant\_City=Mumbai)=.20$$. 20% is the success probablity.
-
-Success probability is little tricky in the case of numeric variable. Because if you want to check the probablity of person whose age is 35 years, 3 months, 10 day, 6 hours then question is valid but answer is Probability of success of this event is zero. You pickup any number answer is going to be like that. For example when you say age is 30 years, it means 30 years, 0 month, 0 days, 0 hours. Due to this reason with numeric probalbity you either use >= or <=. It means you can ask a question like, what is the probability of Age of a candidate <=30, or >=30. or >=30 but <=35 years.
-
-In your dataset if you have 3000 people who are <= 30 years then Pr(Applicant_Age<=30) = .30 or 30%.
-
-If your dataset has 5000 people <=35 years then $$Pr(Applicant\_Age<=35) = .50$$  or 50%.
-
-Now you can say Pr(Applicant_age>=30 and <=35) = .50 - .30 = .20 or 20%.
-
-This all is done by exploring another concept called probability density.
-
-
-## What is probability density?
-Let's assume our dataset has 10,000 applicant and their age is between 18 to 60 years. You can plot a histogram and this histogram represents the distribution of age of the applicants. The entire area of this histogram is referred as 1, in our case 10,000 people's age is represented by this area and it is 1. This is the maximum density of this curve. X axis of this curve will have age and y axis will have number of people.
-
-## What is uniform distribution?
-Suppose if you age of 100 children in your datasets. And for each age group if number of children are same then it is uniform distribution. 0-5 years 25, 5-10 years 25, 5-15 years 25, and 15-20 years 25 children.
-
-![Uniform Distribution](/assets/images/dspost/statistics/Uniform-Distribution.jpg)
-
-## What is normal distribution? What is the use of this?
-Suppose you have age information of 10000 employees of your compnay. Let's the minimum age from this dataset is 20 years (recently hired) there are lessor people like this. Maximum age in the dataset is 60 years (people are going to retire this year), there are lessor people like this. If you plot the histogram of this age information you will get a normal distribution. It means mean and median will be 40 years, 5000 employees are <= 40 years old and 5000 employees are > 40 year age. 
-
-![Normal Distribution](/assets/images/dspost/statistics/Normal-Distribution.jpg)
-
-If this age data is truely normally distributed then 68% employees will be within $$\pm 1\sigma$$, 95% employees will be within $$\pm 2\sigma$$, 99% employees will be within $$\pm 3\sigma$$.
-
-**Characterstics of Normal Distribution**
-- Curve is perfect bell curve (Unimodal, only one peak). Due to this reason normal distribution curve is also called bell curve.
-- Mean=Median=Mode
-- Area < mean is 0.5 and area more than mean =0.5 (symmetric)
-- Asymptotic on the both side
-
-## Box-Cox Normality Plot
-Many statistical tests and intervals are based on the assumption of normality. The assumption of normality often leads to tests that are simple, mathematically tractable, and powerful compared to tests that do not make the normality assumption. Unfortunately, many real data sets are in fact not approximately normal.
-
-The Box-Cox transformation is a particulary useful family of transformations. It is defined as:
-
-$$T(Y) = (Y^{\lambda} - 1)/\lambda \qquad  (\forall \lambda>0)$$
-$$T(Y) = ln(Y) \qquad  (\forall \lambda=0)$$
-
-
-
-
-
-
-
-## What is skewness
-Skewness measures the lack of symmetry in a data distribution. It indicates that there are significant differences between the mean, the mode, and the median of data. If you want to use skewed data for modelling or analysis purpose then you need to transform this into a normal distribution. Curve below is left skews.
-
-![Skewed Distribution](/assets/images/dspost/statistics/skewed-distribution.jpg)
-
-$$kurtosis = \frac{\sum_{i=i}^{n}{({x_i - \bar{x}}})^3}{(N-1)*\sigma^3}$$
-
-Right skewed = Positive Skewed   
-Left skewed = Negative Skewed   
-
-## What is kurtosis 
-Kurtosis is a measure of the "tailedness" of the probability distribution of a real-valued random variable. Long tail will have kurtosis.
-
-$$kurtosis = \frac{\sum_{i=1}^n{({x_i - \bar{x}}})^4}{var^2}$$
-
-## What is probability formula of a random variable having normal distribution.
-$$\varphi(x) = \frac{1}{ \sqrt(2\pi\sigma^2)}*e^\frac{ -(x-\mu)^2}{2\sigma^2}$$
-
-
-
-![Distribution-Boxplot](/assets/images/dspost/statistics/Distribution-Boxplot.png)
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Probability_density_function)
-
-Example: If mean salary in your dataset is 75,000 and SD is 5000 then what is the probablity that salary of randomly chosen employee is <=90,000
-
-**Method1**
-You can get z score of this 90,000   
-$$z = \frac{x - \mu}{\sigma}$$ = (90000 - 75000) / 5000 = 3   
-Pr for Z<3 => .99865    
-Pr for Z>3 => 1-.99865 = .00145   
-
-**Method2**
-Without using z score table you can put these values in above normal distribution formula and you will get the same value.
-
-
-## What is binomial distribution? What is the use of this?
-If you throw 2 dice simultaniously then sum of the outcomes can be anything between 2 to 12.
-
-First Dice| 1|2|3|4|5|6
----| --|---|---|---|---|---
-Second Dice||||||
-1 | 2| 3 | 4| 5| 6| 7
-2 | 3| 4 | 5| 6| 7| 8
-3 | 4| 5 | 6| 7| 8| 9
-4 | 5| 6 | 7| 8| 9| 10
-5 | 6| 7 | 8| 9| 10|11
-6 | 7| 8 | 9| 10| 11|12
-
-There are total 36 ways (above combinations) to get any number between 2 to 12. There is only one way to get 2, 2 ways to get 3, 3 ways to get 4, 4 ways to get 5 etc.
-
-So probality of coming 10 is 3/36, probablity of 7 coming is 6/36 = 1/6, etc. Probability coming 7 is the highest.
-
-If you throw these two dice together 100 times then what is the probablity 20 times 7 will come. To get this answer you need a distribution formula, a distribution which determines this whole game. 
-
-This whole game can be predicted using binomial distribution. Formula is $$pr(suceess=r\, times)= nC_rP^r(1-P)^{n-r}$$, where n= number of times experiment repeated, r=number of times success happens, p=probablity a sucess happens.
-Probablity of success means probablity of getting 7. for p=1/6.
-$$pr(suceess=20 \,times)= 100C_{20}\frac{1}{6}^{20}(1-\frac{1}{6})^{100-20} =  0.0678$$
-
-We can use binomial distribution for any experiments where outcome is either success or fail (binary) and experiments n times and we want to know the success for r times.
-
-**Application:** You are tracking stock price for TCS share since last 500 days. You want to know that in next 100 days probablity of stock price will cross Rs 800, 10 times. 
-
-You can get P value, the probablity of success from 500 days data. Let's say it has crossed 800, 40 times. P=40/800 = .05. 
-
-$$pr(suceess=10 \,times)= 100C_{10}\frac{1}{.05}^{10}(1-.95)^{100-10} =  .0.0167$$
-
-
-
-![Dice Histogram](/assets/images/dspost/statistics/diceHistogram.jpg)
-
-
-
-
-
-## What is R-Square formula?
-R-Square or $R^2$ is also called coefficient of determination. It is used to evaluate the performance of regression model. $R^2$ value can be any number between 0 and 1 including 0 and 1. If $R^2$ of a model is .80 then it means this model explain 80% variation between actual and predicted values but 20% variation cannot be explained. Higher the $R^2$ value means more variation can be explained by the model and better the model is.
-
-$$R^2 = 1 - \frac{SS_{res}}{SS_{tot}}$$
-
-Where SSres is the sum of squared residuals (the difference between the predicted value and the actual value) and SStot is the total sum of squares (the difference between the actual value and the mean of all actual values).
-
-----
-
-## What is Adjusted R-Square formula?
-$$Adjusted R^2 = 1 - (1 - R^2) * \frac{(n - 1)}{(n - p - 1)}$$
-
-----
-## What is Variance Formula?
-If your dataset has a column "Age" and all people are 25 years it means variance of the Age column is zero. From analysis and model building perspective this column is useless. Only those columns, which have some variance are useful, more the variance better is column.
-
-Variance is a measure of the dispersion of a single column of data. It is calculated as the **sum of the squared differences between each data point and the mean of the data**, divided by the number of data points.
-
-Variance of population dataset is calculated as below.
-$$\sigma^2 = \frac{\sum_{i=1}^{n} (x_i - \mu)^2}{n}$$
-
-Variance of sample dataset is calculated as following.
-$$\sigma^2 = \frac{\sum_{i=1}^{n} (x_i - \mu)^2}{n-1}$$
-
-![Dice Histogram](/assets/images/dspost/statistics/Variance-Calculation.jpg)
-----
-
-## What is Covariance Formula?
-Let's assume your dataset has 2 columns age, and experience. We want to know the relationship between these two columns we can calculate covariance, how strongly two column values moves together. They can move in the same direction or opposite direction. Higher the absolute value means two columns are moving strongely with each other.
-
-It is calculated as the **sum of the products of the differences between each data point in one set and the mean of that set**, and the **differences between the corresponding data points in the other set and the mean of that set**, divided by the number of data points.
-
-$$cov(X, Y) = \frac{\sum_{i=1}^{n} (x_i - \mu_X)(y_i - \mu_Y)}{n}$$
-
-----
-## What is autocorrelation?
-
-Mean=> | 127 |  | 128 | 127
---- | --- | --- | --- | ---
-Month | Passengers (y) | $$y_{t-1}$$ | $$y_{t-2}$$ | $$y_{t-3}$$
-1949-01 | 112 |  |  | 
-1949-02 | 118 | 112 |  | 
-1949-03 | 132 | 118 | 112 | 
-1949-04 | 129 | 132 | 118 | 112
-1949-05 | 121 | 129 | 132 | 118
-1949-06 | 135 | 121 | 129 | 132
-1949-07 | 148 | 135 | 121 | 129
-1949-08 | 148 | 148 | 135 | 121
-1949-09 | 136 | 148 | 148 | 135
-1949-10 | 119 | 136 | 148 | 148
-1949-11 | 104 | 119 | 136 | 148
-1949-12 | 118 | 104 | 119 | 136
-1950-01 | 115 | 118 | 104 | 119
-1950-02 | 126 | 115 | 118 | 104
-
-
-## What is AutoCovariance Function (ACVF) Formula?
-
-Mean=> | 127 |  | 128 | 127 |  |  |  | AutoCovariance 16 | AutoCovariance -51
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Month | Passengers (y) | $$y_{t-1}$$ | $$y_{t-2}$$ | $$y_{t-3}$$ | $$y_t - \bar{y_t}$$ | $$y_{t-2} - \bar{y}_{t-2}$$ | $$y_{t-3} - \bar{y}_{t-3}$$ | ($$y_t - \bar{y_t}$$) * ($$y_{t-2} - \bar{y}_{t-2}$$) | ($$y_t - \bar{y_t}$$) * ($$y_{t-3} - \bar{y}_{t-3}$$)
-1949-01 | 112 |  |  |  |  |  |  |  | 
-1949-02 | 118 | 112 |  |  |  |  |  |  | 
-1949-03 | 132 | 118 | 112 |  |  |  |  |  | 
-1949-04 | 129 | 132 | 118 | 112 | 2 | -9 | -15 | -18 | -30
-1949-05 | 121 | 129 | 132 | 118 | -6 | 5 | -9 | -30 | 54
-1949-06 | 135 | 121 | 129 | 132 | 8 | 2 | 5 | 16 | 40
-1949-07 | 148 | 135 | 121 | 129 | 21 | -6 | 2 | -126 | 42
-1949-08 | 148 | 148 | 135 | 121 | 21 | 8 | -6 | 168 | -126
-1949-09 | 136 | 148 | 148 | 135 | 9 | 21 | 8 | 189 | 72
-1949-10 | 119 | 136 | 148 | 148 | -8 | 21 | 21 | -168 | -168
-1949-11 | 104 | 119 | 136 | 148 | -23 | 9 | 21 | -207 | -483
-1949-12 | 118 | 104 | 119 | 136 | -9 | -8 | 9 | 72 | -81
-1950-01 | 115 | 118 | 104 | 119 | -12 | -23 | -8 | 276 | 96
-1950-02 | 126 | 115 | 118 | 104 | -1 | -9 | -23 | 9 | 23
-
-
-
-
-
-
-AutoCovarnace is same as variance the only difference is you are not checking the relation between two different columns but same column's value with different time lag. It is used in timeseries data. Let's assume your dataset has 365 day's closing price of TCS. If you want to know how much is price of today is related to price of last week then you can o
-$$\gamma(k) = Cov(X_t, X_{t+k})$$
-
-----
-
-## What is formula for the Standard Deviation?
-
-**The formula for the sample standard deviation, denoted by "s," is:**
-$$s = \sqrt{\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2}$$
-
-where x is the set of observations, n is the number of observations, and $\bar{x}$ is the mean of the observations.
-
-**The formula for the population standard deviation, denoted by "σ," is:**
-
-$$σ = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(x_i - \mu)^2}$$
-
-where x is the set of observations, n is the number of observations, and $\mu$ is the mean of the observations.
-
-----
-
-## What is correlation formula?
 The formula for Pearson's correlation coefficient, denoted by "r," is:
 
 $$r = \frac{\sum_{i=1}^{n}(x_i - \bar{x})(y_i - \bar{y})}{\sqrt{\sum_{i=1}^{n}(x_i - \bar{x})^2} \sqrt{\sum_{i=1}^{n}(y_i - \bar{y})^2}}$$
 
-you can also right it like 
+you can also write it like
 
 $$r = \frac{ \frac{\sum_{i=1}^{n}(x_i - \bar{x})(y_i - \bar{y})}{n} }
 
-{\sqrt{ \frac{1}{n}\sum_{i=1}^{n}(x_i - \bar{x})^2} 
+{\sqrt{ \frac{1}{n}\sum_{i=1}^{n}(x_i - \bar{x})^2}
 
 \sqrt{ \frac{1}{n} \sum_{i=1}^{n}(y_i - \bar{y})^2}{n} }$$
 
@@ -366,36 +186,251 @@ There are several types of correlation coefficients that are commonly used in st
 
 It's important to choose the appropriate correlation coefficient based on the nature of the data and the type of relationship you are interested in.
 
+## What is AutoCorrelation?
+Let’s say we have share price of a company. These observations are monthly. We want to know is there any pattern in this monthly data? For that purpose we try the relationship between the stock price. But this time original stock price is associated with “after month share price”. This shifting is called one month lagging, it means 1949-01 data is compared with 1949-02 data, and so on. Similarly you can shift data 2 time period or 3 time period. When you check relationship between original share price and 1 lagged shared price or 2 lagged shared price or 3 lagged share price it gives you a correlation coefficient. This process is called AutoCorrelation. Whatever number of month’s shift shows higher correlation that number of month is interesting for us. 
+
+
+Mean=> | 127 |  | 128 | 127
+--- | --- | --- | --- | ---
+Month | Passengers (y) | $$y_{t-1}$$ | $$y_{t-2}$$ | $$y_{t-3}$$
+1949-01 | 112 |  |  |
+1949-02 | 118 | 112 |  |
+1949-03 | 132 | 118 | 112 |
+1949-04 | 129 | 132 | 118 | 112
+1949-05 | 121 | 129 | 132 | 118
+1949-06 | 135 | 121 | 129 | 132
+1949-07 | 148 | 135 | 121 | 129
+1949-08 | 148 | 148 | 135 | 121
+1949-09 | 136 | 148 | 148 | 135
+1949-10 | 119 | 136 | 148 | 148
+1949-11 | 104 | 119 | 136 | 148
+1949-12 | 118 | 104 | 119 | 136
+1950-01 | 115 | 118 | 104 | 119
+1950-02 | 126 | 115 | 118 | 104
+
+## What is AutoCorrelation formula?
+AutoCorrelation formula is same as Correlation formula. Only difference is Y is taken from time lag of X.
+
+$\rho_{XX}(\tau) = \frac{\displaystyle \sum_{t=1}^T (X_t - \overline{X})(X_{t+\tau} - \overline{X})}{\displaystyle \sum_{t=1}^T (X_t - \overline{X})^2} $, where $\overline{X}$ is the mean of the data set $X$, $\tau$ is the lag, and $T$ is the length of the data set.
+
+## What is Variance and how to calculate varaince?
+If your dataset has a column "Age" and all people are 25 years, it means the variance of the Age column is zero. From an analysis and model-building perspective this column is useless. Only those columns, which have some variance are useful, the more the variance better is the column.
+
+Variance is a measure of the dispersion of a single column of data. It is calculated as the **sum of the “squared differences” between each “data point” and the “mean of the data”**, divided by the number of data points.
+
+Variance of population dataset is calculated as below.
+$$\sigma^2 = \frac{\sum_{i=1}^{n} (x_i - \mu)^2}{n}$$
+
+Variance of sample dataset is calculated as following.
+$$\sigma^2 = \frac{\sum_{i=1}^{n} (x_i - \mu)^2}{n-1}$$
+
+![Variance-Calculation](/assets/images/dspost/statistics/Variance-Calculation.jpg)
+
+
+## What is Covariance and how to calculate it?
+Let's assume your dataset has 2 columns age, and experience. We want to know the relationship between these two columns, for this we can calculate covariance, how strongly two column values move together. They can move in the same direction or in opposite direction. A higher absolute value means two columns are moving strongly with each other.
+
+It is calculated as the **sum of the “products of the differences” between each “data point in one set” and the “mean of that set”**, and the **differences between the corresponding data points in the other set and the mean of that set**, divided by the number of data points.
+
+$$cov(X, Y) = \frac{\sum_{i=1}^{n} (x_i - \mu_X)(y_i - \mu_Y)}{n}$$
+
+## What is AutoCovariance Function (ACVF) Formula?
+
+Mean=> | 127 |  | 128 | 127 |  |  |  | AutoCovariance 16 | AutoCovariance -51
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Month | Passengers (y) | $$y_{t-1}$$ | $$y_{t-2}$$ | $$y_{t-3}$$ | $$y_t - \bar{y_t}$$ | $$y_{t-2} - \bar{y}_{t-2}$$ | $$y_{t-3} - \bar{y}_{t-3}$$ | ($$y_t - \bar{y_t}$$) * ($$y_{t-2} - \bar{y}_{t-2}$$) | ($$y_t - \bar{y_t}$$) * ($$y_{t-3} - \bar{y}_{t-3}$$)
+1949-01 | 112 |  |  |  |  |  |  |  |
+1949-02 | 118 | 112 |  |  |  |  |  |  |
+1949-03 | 132 | 118 | 112 |  |  |  |  |  |
+1949-04 | 129 | 132 | 118 | 112 | 2 | -9 | -15 | -18 | -30
+1949-05 | 121 | 129 | 132 | 118 | -6 | 5 | -9 | -30 | 54
+1949-06 | 135 | 121 | 129 | 132 | 8 | 2 | 5 | 16 | 40
+1949-07 | 148 | 135 | 121 | 129 | 21 | -6 | 2 | -126 | 42
+1949-08 | 148 | 148 | 135 | 121 | 21 | 8 | -6 | 168 | -126
+1949-09 | 136 | 148 | 148 | 135 | 9 | 21 | 8 | 189 | 72
+1949-10 | 119 | 136 | 148 | 148 | -8 | 21 | 21 | -168 | -168
+1949-11 | 104 | 119 | 136 | 148 | -23 | 9 | 21 | -207 | -483
+1949-12 | 118 | 104 | 119 | 136 | -9 | -8 | 9 | 72 | -81
+1950-01 | 115 | 118 | 104 | 119 | -12 | -23 | -8 | 276 | 96
+1950-02 | 126 | 115 | 118 | 104 | -1 | -9 | -23 | 9 | 23
+
+
+AutoCovarnace is same as variance the only difference is you are not checking the relation between two different columns but same column's value with different time lag. It is used in timeseries data. Let's assume your dataset has 365 day's closing price of TCS. If you want to know how much is price of today is related to price of last week then you can AutoCovariance.
+
+AutoCoriance formula is
+
+$$\gamma(k) = Cov(X_t, X_{t+k})$$
+
 ----
 
-## What is concordant or discordant pairs?
+## What is formula for the Standard Deviation?
 
-Concordant pairs are two variables that tend to increase or decrease together. Discordant pairs, on the other hand, are two variables that tend to move in opposite directions. For example, a positive correlation between the number of hours studied and exam scores would be an example of a concordant pair, while a negative correlation between the number of hours studied and the number of hours spent playing video games would be an example of a discordant pair.
+**The formula for the “sample standard deviation”, denoted by "s," is:**
+$$s = \sqrt{\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2}$$ OR
+$$s = \sqrt{Sample\_Variance}$$
 
-----
+where x is the set of observations, n is the number of observations, and $\bar{x}$ is the mean of the observations.
 
-## What is monotonic relationship?
+**The formula for the population standard deviation, denoted by "σ," is:**
 
-A monotonic relationship is a statistical relationship between two variables in which one variable either increases or decreases consistently as the other variable increases. In other words, there is a clear direction to the relationship, but **the relationship may not necessarily be linear**.
+$$σ = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(x_i - \mu)^2}$$ OR
+$$σ = \sqrt{Population\_Variance}$$
 
-For example, consider the relationship between temperature and ice cream sales. As temperature increases, ice cream sales are likely to increase as well. This is a positive monotonic relationship, because one variable (temperature) increases consistently as the other variable (ice cream sales) increases. On the other hand, if temperature were to decrease as ice cream sales increased, the relationship would be **negative monotonic**.
+where x is the set of observations, n is the number of observations, and $\mu$ is the mean of the observations.
 
-Monotonic relationships can be measured using **nonparametric statistical techniques**, such as the **Spearman rank correlation coefficient** or the **Kendall rank correlation coefficient**. These techniques are based on the ranks of the values rather than the raw data, and they are less sensitive to deviations from a linear relationship than parametric techniques such as the Pearson correlation coefficient.
+## What is Standard Error (SE)?
 
-----
+- Standard error of population $$SE = \frac{\sigma}{\sqrt{n}}$$, $$\sigma$$ is population SD. In population n is nearing infinity therefore SE becomes alomost zero.
+- Standard error of any sample depends upon the number of observations in the sample. More the sample size, lessor the error and vice versa. $$SE = \frac{s}{\sqrt{n}}$$, s is sample's SD.  If s of salary of Indian IT professionals is 10K, our sample has 100 observations then the SE of our sample should be 10K/sqrt(100) = 1K. Here SE of sample assumes that sample is random sample from population and population is normally distributed. If this assumption is not true then SE may be incorrect about true variablity about the population.
 
-## What is the difference between nonparametric measure vs parametric measure?
+## How to use z score for probability calculation?
+If the mean salary in our dataset is 75,000 and SD is 5000 then what is the probability that the salary of a randomly chosen employee is >90,000
 
-Parametric measures are statistical techniques that make assumptions about the underlying distribution of the data. These assumptions are usually about the shape of the distribution and the presence of certain statistical properties, such as a normal distribution or constant variance. Let's say we have a dataset which contains [Paleontology](https://en.wikipedia.org/wiki/Paleontology)  information about various objects. It has one column called age of the object. Can you assume the age column will have normal distribution? I think no. But if we were having an employee dataset and age is mentioned there then you can assume that age will have normal distriubtion. 
+**Method1**
+You can get z score of this 90,000  
+$$z = \frac{x - \mu}{\sigma}$$ = (90000 - 75000) / 5000 = 3  
+Pr for Z<=3 (salary <= than 90K)  => .99865    
+Pr for Z>3 (salary more than 90K) => 1-.99865 = .00145  
 
-Nonparametric measures, on the other hand, do not make any assumptions about the underlying distribution of the data. They are more flexible and can be used with a wider range of data types, but they may be less powerful than parametric measures because they make fewer assumptions about the data.
+**Above z values we can get from z table. Z tables are based on standard deviation of normally distributed data. Z table gives probability values for a given z score or standard deviation (SD). It data is not normally distributed then you will not get correct probabilities.**
 
-One of the main differences between parametric and nonparametric measures is the way they handle missing data. Parametric measures typically require complete data sets, while nonparametric measures are more robust to missing data.
+**Method2**
+You can put these values in normal distribution formula and you will get the same value.
 
-It's important to choose the appropriate statistical technique based on the nature of the data and the research question you are trying to answer. In general, parametric measures are more powerful when the assumptions they make about the data are met, but nonparametric measures may be more appropriate when these assumptions are not met.
+$$\varphi(x) = \frac{1}{ \sqrt(2\pi\sigma^2)}*e^\frac{ -(x-\mu)^2}{2\sigma^2}$$
+
+
+## What is Box-Cox Normality Plot?
+Many statistical tests and intervals are based on the assumption of normality. The assumption of normality often leads to tests that are simple, mathematically tractable, and powerful compared to tests that do not make the normality assumption. Unfortunately, many real data sets are in fact not approximately normal.
+
+The Box-Cox transformation is a particulary useful family of transformations. It is defined as:
+
+$$T(Y) = (Y^{\lambda} - 1)/\lambda \qquad  (\forall \lambda>0)$$
+$$T(Y) = ln(Y) \qquad  (\forall \lambda=0)$$
+
+
+## What is skewness?
+Skewness measures the lack of symmetry in a data distribution. It indicates that there are significant differences between the mean, the mode, and the median of data. If you want to use skewed data for modeling or analysis purposes then you need to transform this into a normal distribution. The curve below is left skews.
+
+![Skewed Distribution](/assets/images/dspost/statistics/skewed-distribution.jpg)
+
+$$skewness = \frac{\sum_{i=i}^{n}{({x_i - \bar{x}}})^3}{(N-1)*\sigma^3}$$
+
+Right skewed = Positive Skewed  
+Left skewed = Negative Skewed  
+
+## What is kurtosis?
+Kurtosis is a measure of the "tailedness" of the probability distribution of a real-valued random variable. The long tail will have kurtosis.
+
+$$kurtosis = \frac{\sum_{i=1}^n{({x_i - \bar{x}}})^4}{var^2}$$
+
+## What is the R-Square formula?
+R-Square or $R^2$ is also called the coefficient of determination. It is used to evaluate the performance of the regression model. $R^2$ value can be any number between 0 and 1 including 0 and 1. It can never be negative. If $R^2$ of a model is .80 then it means this model explains 80% variation between actual and predicted values but 20% variation cannot be explained. A higher $R^2$ value means more variation can be explained by the model and better the model is.
+
+$$R^2 = 1 - \frac{SS_{res}}{SS_{tot}}$$
+
+Where $$SS_{res}$$ is the sum of squared residuals (the difference between the predicted value and the actual value) and $$SS_{tot}$$ is the total sum of squares (the difference between the actual value and the mean of all actual values).
+
+## What is the Adjusted R-Square formula?
+It is used to understand whether any newly added feature is adding any value to the model or not. Because this model adds a penalty for every newly added variable, therefore if the addition of a new variable in the model does not increase R^2 more than the penalty added then overall R^2, adjusted R^2 will decrease.
+
+$$Adjusted R^2 = 1 - (1 - R^2) * \frac{(n - 1)}{(n - p - 1)}$$
+
+# About Probability & Distributions
+## What is probability?
+A ratio between "chances of getting success" and number of outcome available.
+
+A die has 6 faces, if success = coming 4 success on top, then the chances of getting 4, the success=1. Total number of  outcome (1,2,3,4,5,6)=6. Probability of getting success 1/6
+
+# What is the difference between theoretical probability and experimental probability?
+
+Success probability of all the outcome may not be same. This you can know from historical data. For example, if you go to your friend's house without calling him what is the probability you will find him at home? ½ or 50%. This is theoretical probability. But from your past experience you know out of 50 times he was available only 5 times. So success probability (experimental probability) you friend is at home is 5/50 = 1/10 = .1 = 10%.
+
+Similarly in die through game theoretical probablity of getting 2 is ⅙. But if die is tampored in the favour of 2 then probality of getting is more than ⅙ or probality of getting any other number is less than ⅙.
+
+If stock market open then share price of RIL will go up, or down or remain as last day? Theoretical probability of opening at higher price is ⅓. But from historical data you may know market is the favour or against the RIL at the start of day.
+
+## What is success probability?
+Let's assume in our job_applicant dataset can have applicants only from 6 cities (Mumbai, Delhi, Bangalore, Chennai, Hyderabad, and Kolkota). In this dataset, you have 10,000 applicants' information. Now if you are interested in only those employees who are from Mumbai, then you can ask questions like, what is the probability that a given employee is from Mumbai? In the experiment, if you pick up record number 1008 and this candidate is from Mumbai then you call the event is successful. But, if the candidate is from any other city then, you call the event is fail. You write it as $$Pr(Applicant\_city=Mumbai)$$.
+
+If this dataset has 2000 candidates from Mumbai then a randomly selected candidate will be from Mumbai, what is the probability? 2,000/10,000 = .20 or 20% so $$Pr(Applicant\_City=Mumbai)=.20$$. 20% is the success probability.
+
+Success probability is a little tricky in the case of a numeric variable. Because if you want to check the probability of a person whose age is 35 years, 3 months, 10 days, and 6 hours then the question is valid but the answer is Probability of success of this event is zero. You pick up any number and the answer is going to be like that. For example, when you say age is 30 years, it means 30 years, 0 months, 0 days, and 0 hours. Due to this reason with numeric probability you either use >= or <=. It means you can ask a question like, what is the probability of Age of a candidate [<=30, or >=30], or [>=30 but <=35] years?
+
+In our dataset, if we have 3000 people who are <= 30 years then Pr(Applicant_Age<=30) = .30 or 30%.
+
+If our dataset has 5000 people <=35 years then $$Pr(Applicant\_Age<=35) = .50$$  or 50%.
+
+Now we can say Pr(Applicant_age>=30 and <=35) = .50 - .30 = .20 or 20%.
+
+This all is done by exploring another concept called probability density.
+
+
+## What is probability density?
+Let's assume our dataset has 10,000 applicants and their age is between 18 to 60 years. You can plot a histogram and this histogram represents the distribution of age of the applicants. The entire area of this histogram is referred to as 1, in our case 10,000 people's age is represented by this area and it is 1. This is the total density of this curve. The X-axis of this curve will have age and y axis will have a number of people.
+
+![Normal Distribution](/assets/images/dspost/statistics/Normal-Distribution.jpg)
+
+
+## What is uniform distribution?
+Suppose in our dataset, if the number of people in each age group of 10 years like 18-28, 28-38, 38-48, etc we have an equal number of people then it is a uniform distribution..
+
+![Uniform Distribution](/assets/images/dspost/statistics/Uniform-Distribution.jpg)
+
+## What is a normal distribution? What is the use of this?
+In our dataset, the minimum age is 18 years (recently hired), but there are lessor people like this. The maximum age in the dataset is 60 years (people are going to retire this year), but there are lessor people like this. If you plot the histogram of this age information you will get a normal distribution. It means the mean and median will be 40 years, 5000 employees are <= 40 years old and 5000 employees are > 40 year age.
+
+If this age data is truly normally distributed then 68% of employees will be within $$\pm 1\sigma$$, 95% of employees will be within $$\pm 2\sigma$$, and 99% of employees will be within $$\pm 3\sigma$$.
+
+**Characteristics of Normal Distribution**
+- Curve is perfect bell curve (Unimodal, only one peak). Due to this reason normal distribution curve is also called the bell curve.
+- Mean=Median=Mode
+- Area less than mean = 0.5, and the area more than mean = 0.5 (symmetric)
+- Asymptotic on both sides of the curve
+
+Formula to calculate the probability of a random variable having a normal distribution.
+$$\varphi(x) = \frac{1}{ \sqrt(2\pi\sigma^2)}*e^\frac{ -(x-\mu)^2}{2\sigma^2}$$
+
+![Distribution-Boxplot](/assets/images/dspost/statistics/Distribution-Boxplot.png)
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Probability_density_function)
+
+## What is binomial distribution? What is the use of this?
+If you throw 2 dice simultaneously then the sum of the outcomes can be anything between 2 to 12.
+
+First Dice| 1|2|3|4|5|6
+---| --|---|---|---|---|---
+Second Dice||||||
+1 | 2| 3 | 4| 5| 6| 7
+2 | 3| 4 | 5| 6| 7| 8
+3 | 4| 5 | 6| 7| 8| 9
+4 | 5| 6 | 7| 8| 9| 10
+5 | 6| 7 | 8| 9| 10|11
+6 | 7| 8 | 9| 10| 11|12
+
+There are total 36 ways (above combinations) to get any number between 2 to 12. There is only one way to get 2, 2 ways to get 3, 3 ways to get 4, 4 ways to get 5, etc.
+
+So the probability of coming 10 is 3/36, the probability of coming 7 is 6/36 = 1/6, etc. The probability of coming 7 is the highest.
+
+If you throw these two dice together 100 times then what is the probability 20 times the total sum of 7 will come? To get this answer you need a distribution formula, a distribution that determines this whole game.
+
+This whole game can be predicted using the binomial distribution. Formula is $$pr(suceess=r\, times)= nC_rP^r(1-P)^{n-r}$$, where n= number of times experiment repeated, r=number of times success happens, p=probablity a sucess happens.
+The probability of success means the probability of getting 7. for p=1/6.
+$$pr(suceess=20 \,times \, total \, is \, 7)= 100C_{20}\frac{1}{6}^{20}(1-\frac{1}{6})^{100-20} =  0.0678$$
+
+We can use binomial distribution for any experiments where the outcome is either success or fail (binary) and experiments n times and we want to know the success for r times.
+
+**Application:** You are tracking the stock price for TCS shares for the last 500 days. You want to know that in the next 100 days, the probability of the stock price will cross Rs 800, 10 times.
+
+You can get the P value, the probability of success from 500 days of data. Let's say it has crossed 800, 40 times. P=40/800 = .05.
+
+$$pr(suceess=10 \,times)= 100C_{10}\frac{1}{.05}^{10}(1-.95)^{100-10} =  .0.0167$$
+
+![Dice Histogram](/assets/images/dspost/statistics/diceHistogram.jpg)
+
+# About Hypothesis Testing
 
 ## What is p-value?
-P value is the probability in the favour of null hypothesis. It is used to evaluate the hypothesis. 
+P value is the probability in the favour of null hypothesis. It is used to evaluate the hypothesis.
 - Higher p-value means it is supporting H0.
 - Higher p-value means it is against H1.
 - Lower p-value means it is supporting H1.
@@ -415,18 +450,43 @@ If your predict if will not rain, but it rains, this is also called error.
 Type-I error is when H0 is wrongly rejected. It is also called false positive.
 Type-II error is when H0 is wrongly accepted. It is also called false negative.
 
+If a good tweet is blocked by twitter then it is Type I error.
 If a good product is wrongly rejected by the quality team, it is Type-I error.
 If an innocent person is fined by income tax department, it is Type-I error.
 If a healty person is wronly detected as infacted, it is Type-I error.
 
+If an offensive or hateful tweet is blue ticked by twitter then it is type II error.
 If a bad product is wrongly accepted by the quality team it is Type-II error.
 If an tax invader is not fined by income tax department, it is Type-II error.
 If a infacted person is wronly certified as healthy person, it is Type-II error.
 
-## What is observational and experimental data in Statistics?
-If you want to know whether there is any relationship between **overtime working** and **number of defects produced** then you collect the data and check the relationship. This collected data is observational data. Before collecting the data, we don't have any intension of experiment. We just want to know. To establish the relationship just observation of existing data is enough.
+# Concepts in Statistics
 
-If you **change the number of working hours** then what is the impact of this on **number of defects produced**? You experiment this with different working hours, sometimes you increase the hours and other times you decrease the hours. This collected data is experimental data. Before collecting the data I have intension to experiment. In one experiment, we increased number of working hours and then noted number of defects. In another experiment, we decreased number of working hours and then noted number of defects. To establish this relationship you need to experiment multiple times.
+## What is concordant or discordant pairs?
+
+Concordant pairs are two variables that tend to increase or decrease together. Discordant pairs, on the other hand, are two variables that tend to move in opposite directions. For example, a positive correlation between the number of hours studied and exam scores would be an example of a concordant pair, while a negative correlation between the number of hours studied and the number of hours spent playing video games would be an example of a discordant pair.
+
+----
+
+## What is monotonic relationship?
+
+A monotonic relationship is a statistical relationship between two variables in which one variable either increases or decreases consistently as the other variable increases. In other words, there is a clear direction to the relationship, but **the relationship may not necessarily be linear**.
+
+For example, consider the relationship between temperature and ice cream sales. As temperature increases, ice cream sales are likely to increase as well. This is a positive monotonic relationship, because one variable (temperature) increases consistently as the other variable (ice cream sales) increases. On the other hand, if temperature were to decrease as ice cream sales increased, the relationship would be **negative monotonic**.
+
+Monotonic relationships can be measured using **nonparametric statistical techniques**, such as the **Spearman rank correlation coefficient** or the **Kendall rank correlation coefficient**. These techniques are based on the ranks of the values rather than the raw data, and they are less sensitive to deviations from a linear relationship than parametric techniques such as the Pearson correlation coefficient.
+
+----
+
+## What is the difference between nonparametric measure vs parametric measure?
+
+Parametric measures are statistical techniques that make assumptions about the underlying distribution of the data. These assumptions are usually about the shape of the distribution and the presence of certain statistical properties, such as a normal distribution or constant variance. Let's say we have a dataset which contains [Paleontology](https://en.wikipedia.org/wiki/Paleontology)  information about various objects. It has one column called age of the object. Can you assume the age column will have normal distribution? I think no. But if we were having an employee dataset and age is mentioned there then you can assume that age will have normal distriubtion.
+
+Nonparametric measures, on the other hand, do not make any assumptions about the underlying distribution of the data. They are more flexible and can be used with a wider range of data types, but they may be less powerful than parametric measures because they make fewer assumptions about the data.
+
+One of the main differences between parametric and nonparametric measures is the way they handle missing data. Parametric measures typically require complete data sets, while nonparametric measures are more robust to missing data.
+
+It's important to choose the appropriate statistical technique based on the nature of the data and the research question you are trying to answer. In general, parametric measures are more powerful when the assumptions they make about the data are met, but nonparametric measures may be more appropriate when these assumptions are not met.
 
 ## When Median is better than Mean measure?
 If you have 2 people in your dataset whose salary is 4 cr and 5 cr, then mean will shift right side. If you have people whose salary is 4K or 5K mean will shift left. In this situation if you central tendency of data is correctly represented then use median.
@@ -440,7 +500,7 @@ Consider following example.
 - What is that range of working time when people are making 95% of mistake? when number of defects is almost zero you will get asympotic line, 5%. Depending on your data, You may get two side long tail or right side long tail. Now you can bring your number of working within the range where defects are least.
 - What salary 95% of indian IT professional are making. You find long tail on curve. This is good enough market for you. You can make your marketing strategies accordingly.
 - What is the height of 99.99% loaded luggage truck. You can construct height of subway accordingly
-- 
+-
 
 ## What is an outlier? How can outliers be determined in a dataset?
 
@@ -458,7 +518,7 @@ If you sort the salary data of 1000 employees in ascending order, then salary in
 - Predict the missing values using other columns.
 - Assignment of individual (unique) values. Let's say city information is missing you can say city1, city2 etc.
 - Deletion of rows, which have the missing data. Deletion of column which has missing data.
-- Mean imputation 
+- Mean imputation
 - Median imputation
 - Mode imputation
 - Use other columns for Mean, Median, Mode imputation.
@@ -472,15 +532,8 @@ When you select some datapoint intentionally it is selection bias. You may not h
 - Sampling bias
 
 ## What is the central limit theorem (CLT)?
-### What is standard error in sampling.
 
-If you want to know the mean salary of Indian IT professionals, it is very time consuming and complex task because of various reasons. But this information is important for your business decision.
-
-You collect sample data of say 100 people and get the mean 1 LPM, SD = 5K and there is some shape of this normally distributed data. You collect sample of another 100 people and you get mean salary is 1.1 LPM, SD=6K, but the shape of distribution is same, this way you can do this experiment couple of times.
-
-If all the data is about same population (Indian IT professional's salary) then the shape of distribution of all the sample should be same. 
-
-According to **Central Limit Theorum**    
+According to Central Limit Theorum       
 
 1- Population means = Mean of sample means: $$\mu_{\bar{x}}=\mu$$. Let's say our population data is about salary of Indian IT professionals, it has salaries of millions of people. We cannot get this full data, but we want to get this information. CLT can help you in getting this without doing census.
 
@@ -488,20 +541,23 @@ If we have a sample of 100 people then mean of this can be used to guess the pop
 
 ![central-limit-theorem-distribution](/assets/images/dspost/statistics/central-limit-theorem-distribution.png)
 
-- $$SE = \frac{s}{\sqrt{n}}$$
+2- $$SE = \frac{s}{\sqrt{n}}$$
 
+3- SD of Population = SD of Sample's SD
 
-## What is Standard Error (SE)?
+## What is standard error in sampling?
 
-- Standard error of population $$SE = \frac{\sigma}{\sqrt{n}}$$, $$\sigma$$ is population SD. In population n is nearing infinity therefore SE becomes alomost zero.
-- Standard error of any sample depends upon the number of observations in the sample. More the sample size, lessor the error and vice versa. $$SE = \frac{s}{\sqrt{n}}$$, s is sample's SD.  If s of salary of Indian IT professionals is 10K, our sample has 100 observations then the SE of our sample should be 10K/sqrt(100) = 1K. Here SE of sample assumes that sample is random sample from population and population is normally distributed. If this assumption is not true then SE may be incorrect about true variablity about the population.
- 
-# Advance Concepts in Statistics
+If you want to know the mean salary of Indian IT professionals, it is very time consuming and complex task because of various reasons. But this information is important for your business decision.
+
+You collect sample data of say 100 people and get the mean 1 LPM, SD = 5K and there is some shape of this normally distributed data. You collect sample of another 100 people and you get mean salary is 1.1 LPM, SD=6K, but the shape of distribution is same, this way you can do this experiment couple of times.
+
+If all the data is about same population (Indian IT professional's salary) then the shape of distribution of all the sample should be same.
+
 ## Can you explain what is the distribution in statistics, what purpose they serve?
 There ar two kinds of variable numerical and categorical. Numerical variable like age of human, age of star, waiting time at service counter, growth of virus, distance between stars etc follows different types of continuous distributions. Discreate variable like city, color, education, pincode, plant name, building type, builder etc follow discrete distribution.
 
-Common Distribution types are 
-- Continuous Distributions	
+Common Distribution types are
+- Continuous Distributions  
   - Normal Distribution
   - Uniform Distribution
   - Cauchy Distribution
@@ -520,98 +576,86 @@ Common Distribution types are
   - Extreme Value Type 1 Distribution
   - Extreme Value Type I Distribution
   - Beta Distribution
-- Discrete Distributions	
+- Discrete Distributions  
   - Binomial Distribution
   - Poisson Distribution
 
-There are many kinds of distribution and each distribution has its related function.  Some of the important functions related to each distribution are as below. **Formula for each function is different for different distribution type.** 
+There are many kinds of distribution and each distribution has its related function.  Some of the important functions related to each distribution are as below. **Formula for each function is different for different distribution type.**
 
 - Probability Density Function (pdf): PDF gives the probablity that of variable at value x, e.g: pdf can give probablity of variable (age) at value (=35 years)
-- Cumulative Distribution Function (cdf): CDF is the probability that the variable takes a value less than or equal to x, e.g. cdf can give probablity of variable (age) at value (<>=35 years) 
+- Cumulative Distribution Function (cdf): CDF is the probability that the variable takes a value less than or equal to x, e.g. cdf can give probablity of variable (age) at value (<>=35 years)
 - Percent Point Function (ppf) : It is Inverse of Distribution function (idf)
 - Survival Function : The survival function is the probability that the variate takes a value greater than x, e.g. sf can give probablity of variable (age) at value (>35 years)
 - Inverse Survival Function: It is Inverse of Survival function.
 - Hazard Function: The hazard function is the ratio of the probability density function to the survival function, S(x).
 - Cumulative Hazard Function: The cumulative hazard function is the integral of the hazard function.
 
-***Note:*** 
+***Note:***
 Each distribution has its own shape and measure to summarise the data. They are broadly of three types, measure of central tendency, measure of dispersion and shape of distribution. Following are common measures for every distribution. For example, to calculate central tendencies like mean, median of normal distribution there is some formula. In the case of exponential distribution central tendencies will not be arithmatic mean but geomtric mean.
 - Mean, Median, Mode, Range, SD, Kurtosis, Coefficient of Variation, SD, Skewness
 - **Each measure has different formula for calculation**
 
-## Some Additional Notes for Data Scientist.
-A data scientist is dealing with different stream of subjects like statistics, database, software engieering, geometry, vector and metrics, calculus at the same time. There are certain terms which are referred differently by different subjects. To avoid the confusion I am putting them below.   
-- Variable of statistics = Column of database = Field of database = Basis vector of geometry. They all refers to the same thing. 
-- Records of database = tuple of database = observation of statistics = vector of geomery.
-- Slope of Geomery = Gradient of calculus = Gradient in Deep Learning and Machine Learning. The value of slope or grandient can be between $$-\infty \,\, to \,\,+\infty$$
-
-## Variable Types and Summarization
-There are two kinds of variables and they are summarized in different ways.
-- Summary of Nominal Variable: Count, Ratio, and Percentage, e.g. How many girls and boys, percentage of fruit tree vs no-fruit tree, percentage of bad product vs good product etc.
-- Summary of Numeric Data: mean, median, e.g. Mean salary, median age, mean sugar level, mean score
-- Depending upon the situation, an Ordinal data can be nominal or numeric.
-
-## Choosing a Correct Statistical Test 
+## How to right Statistical Test for a problem in hand.
 In the process of statistical testing, choosing a correct statistical test is a very important steps. Which test is applicable for for problem can be determined using following.
 
-1- What kind of data we have (numerical or categorical)   
-2- How many samples we have (1, 2 or many). Each sample of dozens or hundreds of observations.   
+1- What kind of data we have (numerical or categorical)  
+2- How many samples we have (1, 2 or many). Each sample of dozens or hundreds of observations.  
 3- How many variables we have (1 or 2). Like age, temprate, sale, number of people etc.  
 4- Whether variables are paired for each observation or not.
-  - Example of pair can be, salary and experience of the same person. Blood sugar of the same person, before fasting, then post fasting. It is 2 varialbe and 1 sample. 
-  - Example of unpaired, two groups, one have gone through meditation and another have not gone through meditation. We check their BP after 15 days. It is one variable but 2 samples.   
+  - Example of pair can be, salary and experience of the same person. Blood sugar of the same person, before fasting, then post fasting. It is 2 varialbe and 1 sample.
+  - Example of unpaired, two groups, one have gone through meditation and another have not gone through meditation. We check their BP after 15 days. It is one variable but 2 samples.  
 
-5- Purpose of test. We want to compare two sample mean/median etc, or we want to compare sample mean with population mean, or we want to check relationship between two variable 
+5- Purpose of test. We want to compare two sample mean/median etc, or we want to compare sample mean with population mean, or we want to check relationship between two variable
 
 ## Statistical Tests with Example
-- **CASE1:** Milage claim: An automobile manufacturing company claims their car's average milage is 20Km/Liter. Automobile Association collects data of 100 automobiles, calculate the mean as 19KM/Liter, SD=.5. Now they can compare this sample mean with population mean (20km/liter). Whether the automanufacture's claim is valid, at 5% significance level?   
-**SOLUTION:** Data- Milage (Numeric).   
-Sample: 1 sample, we need to comapre the mean with population mean.   
-Purpose: Compare the data against the population claim.     
-H0: Mu milage >= 20km/liter or Mu consumption <= 50ml/km   
-H1: Mu milage < 20km/liter or Mu consumption > 50ml/km   
-**Test: Test of Mean or t-Test or z-Test** 
+- **CASE1:** Milage claim: An automobile manufacturing company claims their car's average milage is 20Km/Liter. Automobile Association collects data of 100 automobiles, calculate the mean as 19KM/Liter, SD=.5. Now they can compare this sample mean with population mean (20km/liter). Whether the automanufacture's claim is valid, at 5% significance level?  
+**SOLUTION:** Data- Milage (Numeric).  
+Sample: 1 sample, we need to comapre the mean with population mean.  
+Purpose: Compare the data against the population claim.    
+H0: Mu milage >= 20km/liter or Mu consumption <= 50ml/km  
+H1: Mu milage < 20km/liter or Mu consumption > 50ml/km  
+**Test: Test of Mean or t-Test or z-Test**
 z = (x - mu)/sigma = (19-20)/.5 = -2 => pvalue= .16 or 16%. pvalue>significance level so H1 is failed. H0 is fail to reject or Claim of company cannot be rejected.
 
-- **CASE2:** School-Levers and Working Duration: Wheather school leavers tend to stay a longer or shorter time in the compnay than people who have worked elsewhere first. HR collects the data of 100 ex employees, their number of years stay and joining information. They summarise the data as following mean stay time of joinee from school= 8 years, mean stay time of joinee from other company is 7.5 years. Now you can compare these two. Whethre there is any relationship between how long people will work and from where they join?   
-**SOLUTION:** Data - Stay Duration (numeric)   
-Sample : 2 sample (shool leaver vs other)   
+- **CASE2:** School-Levers and Working Duration: Wheather school leavers tend to stay a longer or shorter time in the compnay than people who have worked elsewhere first. HR collects the data of 100 ex employees, their number of years stay and joining information. They summarise the data as following mean stay time of joinee from school= 8 years, mean stay time of joinee from other company is 7.5 years. Now you can compare these two. Whethre there is any relationship between how long people will work and from where they join?  
+**SOLUTION:** Data - Stay Duration (numeric)  
+Sample : 2 sample (shool leaver vs other)  
 Purpose: Compare the mean of two groups.    
-H0: Mu School Leavers = Mu Others   
-H1: Mu School Leavers <> Mu Others   
+H0: Mu School Leavers = Mu Others  
+H1: Mu School Leavers <> Mu Others  
 **Test: Difference of 2 Means (independent samples)**  
 
-- **CASE3:** Defect Claim: Electronics manufacturer does not allow more than 1% fault on their components. Quality manager get data of 500 components and find 11 are faulty. Whether the company is working as per the standard set by them?   
-**SOLUTION:** Data- Faulty or Non Faulty (Nominal Data)   
+- **CASE3:** Defect Claim: Electronics manufacturer does not allow more than 1% fault on their components. Quality manager get data of 500 components and find 11 are faulty. Whether the company is working as per the standard set by them?  
+**SOLUTION:** Data- Faulty or Non Faulty (Nominal Data)  
 Sample: 1 sample    
 Purpose: Compare against the standard.    
-H0: Defects <= .01   
-H1: Defects > .01   
+H0: Defects <= .01  
+H1: Defects > .01  
 **Test: Test of Proportion**  
 
-- **CASE4:** Recruitment Assessment: Recuriter gives you test score of 200 people and want to know how long a person will stay in the company. You get the data of ex-employees, years they stay and their test scrore.   
-**SOLUTION:** Data- score (numeric data), lenght of stay (numeric)   
-Sample: 1 Sample   
-Purpose: Predict how a person will stay   
-**Test: Regression Analysis**   
+- **CASE4:** Recruitment Assessment: Recuriter gives you test score of 200 people and want to know how long a person will stay in the company. You get the data of ex-employees, years they stay and their test scrore.  
+**SOLUTION:** Data- score (numeric data), lenght of stay (numeric)  
+Sample: 1 Sample  
+Purpose: Predict how a person will stay  
+**Test: Regression Analysis**  
 
-- **CASE5:** There is new sorting algorithm and data-scientist want to know whether the new algorithm is significantly faster than old algorithm. You get 100 datasets tested against these two algorithms and you have test results as dataset_id, old_algo_time, new_algo_time.   
-**SOLUTION:** Data- time taken to run (numeric data)   
-Sample: 1 sample   
-Purpose: To compare two means.   
-H0: mu_diff = 0   
-H1: mu_diff <> 0   
-**Test: Difference of two means (Paired)**   
+- **CASE5:** There is new sorting algorithm and data-scientist want to know whether the new algorithm is significantly faster than old algorithm. You get 100 datasets tested against these two algorithms and you have test results as dataset_id, old_algo_time, new_algo_time.  
+**SOLUTION:** Data- time taken to run (numeric data)  
+Sample: 1 sample  
+Purpose: To compare two means.  
+H0: mu_diff = 0  
+H1: mu_diff <> 0  
+**Test: Difference of two means (Paired)**  
  
-- **CASE6:** Checking consistency of Testers: A tester pass 75 tasks out of 100, another tester passes 35 tasks out of 45. Whether these two testers are testing consistently or not?   
-**SOLUTION:** Data- tester (Tester1, Tester2), results (pass failed). Nominal data.   
-Sample: 2 samples (one for tester1 and another for tester2) 
-Purpose: Compare the proportion of two tester.   
-H0: Number of Errors of Tester1 = Number of Errors of Tester2   
-H1: Number of Errors of Tester1 <> Number of Errors of Tester2   
+- **CASE6:** Checking consistency of Testers: A tester pass 75 tasks out of 100, another tester passes 35 tasks out of 45. Whether these two testers are testing consistently or not?  
+**SOLUTION:** Data- tester (Tester1, Tester2), results (pass failed). Nominal data.  
+Sample: 2 samples (one for tester1 and another for tester2)
+Purpose: Compare the proportion of two tester.  
+H0: Number of Errors of Tester1 = Number of Errors of Tester2  
+H1: Number of Errors of Tester1 <> Number of Errors of Tester2  
 **Test: Difference of two proportions**
 
-- **CASE7:** Almods claimed in Chocolate: Chocolate manufacturing claims their nutty bar chocolate has 10% almonds. Quality department get a sample of 100 chocolate, weighs the chocolate and the weights of almonds in them. He summarise the data and say everage weight of almonds in chocolate is 9% of the the chocolate weight. Whether company's claim correct?   
+- **CASE7:** Almods claimed in Chocolate: Chocolate manufacturing claims their nutty bar chocolate has 10% almonds. Quality department get a sample of 100 chocolate, weighs the chocolate and the weights of almonds in them. He summarise the data and say everage weight of almonds in chocolate is 9% of the the chocolate weight. Whether company's claim correct?  
 
 - **CASE8:** Checking work of Packing department: To promote their product, a chocolate making company decided that 20% of their chocolates should have prize coupon. Quality department collects a sample of 50 chocolates and find 8 chocolates has price coupon. Packing department is doing their work properly or not?
 
@@ -632,7 +676,7 @@ H1 (Ha) (Alternative Hyposthsis) = IQ of Girls <> IQ of boys
 
 Now if you collect IQ test data of 50 people, 30 boys and 20 girls. You plot a distribution of boy's IQ and you find mean is 100 and sample SD is 3. You plot a distribution of girl's IQ and mean IQ of girls is 104 and sample SD is 4. From this difference can you conclude that H1 is accepted?
 
-Let's set signifance level for our test as 5%, it means 5% difference between the two sample mean is not considered significant. 
+Let's set signifance level for our test as 5%, it means 5% difference between the two sample mean is not considered significant.
 
 Now we need to compare whether two sample means are statistically significant or not. For this we will conduct "Two Sample t test for Comparing Two Means"
 
@@ -650,9 +694,10 @@ From boy's sample we know, 95% of the boys will have IQ between 100 +/- 2*3 = 94
 From girl's sample we know, 95% of the girls will have IQ between 104 +/- 2*4 = 96 to 112.
 
 [](https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-quantitative-means/two-sample-t-test-means/v/two-sample-t-test-for-difference-of-means)
+
 ## What is z-test.
 - For a population observation from population mean.
-$$z = \frac{x-\mu}{\sigma}$$ 
+$$z = \frac{x-\mu}{\sigma}$$
 
 - For a sample mean from mean of sample mean.
 $$z = \frac{\bar{x}-\mu_{\bar{x}}}{\frac{\sigma}{\sqrt{n}}}$$
@@ -662,11 +707,22 @@ $$z = \frac{\bar{x}-\mu}{\sigma_{\bar{x}}}$$
 
 [Z Score Calculator](https://www.calculator.net/z-score-calculator.html)
 
+## Some Additional Notes for Data Scientist.
+A data scientist is dealing with different stream of subjects like statistics, database, software engieering, geometry, vector and metrics, calculus at the same time. There are certain terms which are referred differently by different subjects. To avoid the confusion I am putting them below.  
+- Variable of statistics = Column of database = Field of database = Basis vector of geometry. They all refers to the same thing.
+- Records of database = tuple of database = observation of statistics = vector of geomery.
+- Slope of Geomery = Gradient of calculus = Gradient in Deep Learning and Machine Learning. The value of slope or grandient can be between $$-\infty \,\, to \,\,+\infty$$
 
-**YouTube Resource for Statistical Test**   
-[Choosing which statistical test to use - 10 min video](https://www.youtube.com/watch?v=rulIUAN0U3w)   
-[Choosing a statistical test for analysis of data - 25 min video](https://www.youtube.com/watch?v=ZX4m6zav5To&t=1s)
-[T test, Z test, F test, Chi-square test, ANOVA, Mann-Whitney U Test, H test - 33min video](https://www.youtube.com/watch?v=QfVx7AH8rck&t=10s)
-[Two-sample t test for difference of means](https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-quantitative-means/two-sample-t-test-means/v/two-sample-t-test-for-difference-of-means)
 
-----
+## Conclusion
+Statistics is big and complex subject and this is foundational stone of any data science work, primarily for data analysis and model building. You may not be expert in this subjects and it can take significant amount of time to get mastery over this subject. But with the help of above questions a company can evaluate whether you are comortable enough in the subject to take challenges in data science project. If you would like to add your favourite questions then you can email me at hari.prasad@vedavit-ps.com
+
+## Resources
+**YouTube Resource for Statistical Test**  
+- [Choosing which statistical test to use - 10 min video](https://www.youtube.com/watch?v=rulIUAN0U3w)  
+- [Choosing a statistical test for analysis of data - 25 min video](https://www.youtube.com/watch?v=ZX4m6zav5To&t=1s)
+- [T test, Z test, F test, Chi-square test, ANOVA, Mann-Whitney U Test, H test - 33min video](https://www.youtube.com/watch?v=QfVx7AH8rck&t=10s)
+- [Two-sample t test for difference of means](https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-quantitative-means/two-sample-t-test-means/v/two-sample-t-test-for-difference-of-means)
+
+
+
