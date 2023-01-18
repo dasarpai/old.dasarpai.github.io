@@ -1,23 +1,26 @@
 ---
 mathjax: true
-id: 6036
-title: 'AI Use Cases in Food Processing'
-date: 2023-01-22
-permalink: '/dsblog/AI-Use-Cases-in-Food-Processing'
-tags: [AI Usecases, Food Processing, Computer Vision, NLP] 
-categories: 
-
-header:
-    teaser: "/assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg"
-author: Hari Thapliyaal 
-excerpt:
+id: 6036     
+title: "AI Use Cases in Food Processing"  
+date: '2023-01-22T15:50:00+05:30'  
+permalink: /dsblog/AI-Use-Cases-in-Food-Processing
+categories:  
+   
+tags: [AI Usecases, Food Processing, Computer Vision, NLP]  
+   
+header:  
+  teaser: "/assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg"  
+excerpt_separator: "<!--more-->"  
+excerpt:  
 layout: single  
 author_profile: true  
 toc: true  
 toc_sticky: true
 ---
 
-![Partial Dependence Plots](/assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg)
+
+
+!["AI Use Cases in Food Processing](/assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg)
 
 # AI Use Cases in Food Processing
 
