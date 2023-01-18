@@ -4,7 +4,7 @@ id: 6036
 title: 'AI Use Cases in Food Processing'
 date: 2023-01-22
 permalink: '/dsblog/AI-Use-Cases-in-Food-Processing'
-tags: [NLP] 
+tags: [AI Usecases, Food Processing, Computer Vision, NLP] 
 categories: 
 
 header:
@@ -18,6 +18,8 @@ toc_sticky: true
 ---
 
 ![Partial Dependence Plots](/assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg)
+
+# AI Use Cases in Food Processing
 
 ## Introduction:
 The food processing industry is a vital sector in the global economy, responsible for providing safe and nutritious food to millions of people around the world. Artificial intelligence (AI) is being increasingly used in the food processing industry to improve efficiency, reduce costs, and enhance the quality and safety of food products. From automated sorting and grading of fruits and vegetables to intelligent vending machines, AI is being used in a wide range of applications across the food processing industry.
