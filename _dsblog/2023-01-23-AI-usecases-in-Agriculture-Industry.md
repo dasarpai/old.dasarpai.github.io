@@ -1,16 +1,16 @@
 ---
-mathjax: true
-id: 6037
-title: 'AI Usecases in Agriculture Industry'
-date: 2023-01-23
-permalink: '/dsblog/AI-usecases-in-Agriculture-Industry'
+id: 6047      
+title: "AI Usecases in Agriculture Industry"  
+date: '2023-01-23T15:50:00+05:30'  
+permalink: /dsblog/AI-usecases-in-Agriculture-Industry
+categories:  
+   
 tags: [AI Usecases, Agriculture, Computer Vision, NLP] 
-categories: 
-
-header:
-    teaser: "/assets/images/dspost/dsp6037-AI-usecases-in-Agriculture-Industry.jpg"
-author: Hari Thapliyaal 
-excerpt:
+   
+header:  
+  teaser: "/assets/images/dspost/dsp6037-AI-usecases-in-Agriculture-Industry.jpg"  
+excerpt_separator: "<!--more-->"  
+excerpt:  
 layout: single  
 author_profile: true  
 toc: true  
@@ -49,6 +49,7 @@ Here are 40+ use cases of AI in the Agriculture industry:
 19. Automated crop and soil monitoring systems.
 20. Automated crop planting and harvesting
 21. Crop monitoring and disease detection using drones and satellite imagery
+
 ### Livestock Related Usecases 
 22. Automated animal feeding systems
 23. Automated animal tracking and identification systems
