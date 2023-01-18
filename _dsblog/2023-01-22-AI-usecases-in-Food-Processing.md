@@ -8,10 +8,11 @@ tags: [NLP]
 categories: 
 
 header:
-    teaser: /assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg
+    teaser: "/assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg"
 author: Hari Thapliyaal 
 excerpt:
 share: true 
+layout: single  
 ---
 
 ![Partial Dependence Plots](/assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg)
@@ -21,7 +22,7 @@ share: true
 Here are 50 use cases of AI in the food processing industry:
 
 1. Automated sorting and grading of produce
-<iframe width="420" height="315" src="hhttps://www.youtube.com/watch?v=rUK9G4dqpc8" frameborder="0" allowfullscreen>Potato Processing</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rUK9G4dqpc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 1. Precision farming
 1. Image recognition for quality control
