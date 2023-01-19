@@ -18,9 +18,7 @@ share: true
                         
 ![The Logic of Entangled Mind](/assets/images/wiapost/5215-The-Art-Of-Missing-Life.jpg)                        
                            
-# The Art Of Missing Life    
-        
-The Art of Missing Life.    
+# The Art Of Missing Life     
     
 You take a photograph of a bird,     
 data is in your camera and the bird has flown.    
