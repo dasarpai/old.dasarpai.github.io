@@ -8,7 +8,7 @@ tags: [ Mind, Yoga ]
    
 categories:    
 header:   
-     teaser: /assets/images/wiapost/5206-mind-and-manas.jpg   
+    teaser: /assets/images/wiapost/5206-mind-and-manas.jpg   
 author: Hari Thapliyaal    
 layout: single    
 excerpt:     

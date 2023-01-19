@@ -8,7 +8,7 @@ tags: [ Life]
    
 categories:    
 header:   
-     teaser: /assets/images/wiapost/5207-Are-You-Feeling-Stuck-in-Life.jpg   
+    teaser: /assets/images/wiapost/5207-Are-You-Feeling-Stuck-in-Life.jpg   
 author: Hari Thapliyaal    
 layout: single    
 excerpt:     
