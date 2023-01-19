@@ -8,7 +8,7 @@ tags: [Education, AI]
         
 categories:        
 header:        
-    teaser: /assets/images/dsblog/dsp6038-Will-AI-Replace-Human.jpg        
+    teaser: /assets/images/dspost/dsp6038-Will-AI-Replace-Human.jpg        
 author: Hari Thapliyaal        
 layout: single        
 excerpt:        
