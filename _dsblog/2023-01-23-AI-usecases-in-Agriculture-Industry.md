@@ -1,5 +1,5 @@
 ---
-id: 6047      
+id: 6037      
 title: "AI Usecases in Agriculture Industry"  
 date: '2023-01-23T15:50:00+05:30'  
 permalink: /dsblog/AI-usecases-in-Agriculture-Industry
