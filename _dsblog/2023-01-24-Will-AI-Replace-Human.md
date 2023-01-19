@@ -16,7 +16,7 @@ author_profile: true
 share: true        
 ---        
         
-![Will AI Replace Human](/assets/images/dspost/dsp6038-Will-AI-Replace-Human.jpg )        
+![Will AI Replace Human](/assets/images/dspost/dsp6038-Will-AI-Replace-Human.jpg)        
            
 # Artificial Intelligence can Replace Human?
 
