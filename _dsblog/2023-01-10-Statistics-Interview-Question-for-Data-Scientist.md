@@ -580,15 +580,14 @@ Consider following example.
 - What is that range of working time when people are making 95% of mistake? when number of defects is almost zero you will get asympotic line, 5%. Depending on your data, You may get two side long tail or right side long tail. Now you can bring your number of working within the range where defects are least.
 - What salary 95% of indian IT professional are making. You find long tail on curve. This is good enough market for you. You can make your marketing strategies accordingly.
 - What is the height of 99.99% loaded luggage truck. You can construct height of subway accordingly
--
 
 ## What is an outlier? How can outliers be determined in a dataset?
 
-If you sort the salary data of 1000 employees in ascending order, then salary information of the 250th person is 25th (Q1) percentile. Salary information of the 500th person is 50th (Q2) percentile. Salary information of the 750th person is 75th (Q3) percentile. The difference between Q3 and Q1 salary is called IQR (Inter Quratile Range). If you add 1.5*IQR with Q3 you will get a salary, say 1.8 Lakh. Any salary more than this is considered as right side outlier. If you substract 1.5*IQR from Q1 then you will get a number, say 40K. Any salary less then this will be considered as left side outlier.
+If you sort the salary data of 1000 employees in ascending order, then salary information of the 250th person is 25th (Q1) percentile. Salary information of the 500th person is 50th (Q2) percentile. Salary information of the 750th person is 75th (Q3) percentile. The difference between Q3 and Q1 salary is called IQR (Inter Quratile Range). If you add 1.5xIQR with Q3 you will get a salary, say 1.8 Lakh. Any salary more than this is considered as right side outlier. If you substract 1.5xIQR from Q1 then you will get a number, say 40K. Any salary less then this will be considered as left side outlier.
 
 ![Outlier Detection](/assets/images/dspost/statistics/outliers.png)
 
-# What are the applications of outlier detection?
+## What are the applications of outlier detection?
 - Fraud detection in financial transactions
 - Intrusion detection in infrastructure management
 - Fault detection in manufacturing processes
@@ -679,8 +678,11 @@ Each distribution has its own shape and measure to summarise the data. They are 
 In the process of statistical testing, choosing a correct statistical test is a very important steps. Which test is applicable for for problem can be determined using following.
 
 1- What kind of data we have (numerical or categorical)  
-2- How many samples we have (1, 2 or many). Each sample of dozens or hundreds of observations.  
+
+2- How many samples we have (1, 2 or many). Each sample of dozens or hundreds of observations.
+
 3- How many variables we have (1 or 2). Like age, temprate, sale, number of people etc.  
+
 4- Whether variables are paired for each observation or not.
   - Example of pair can be, salary and experience of the same person. Blood sugar of the same person, before fasting, then post fasting. It is 2 varialbe and 1 sample.
   - Example of unpaired, two groups, one have gone through meditation and another have not gone through meditation. We check their BP after 15 days. It is one variable but 2 samples.  
@@ -798,10 +800,6 @@ A data scientist is dealing with different stream of subjects like statistics, d
 - Variable of statistics = Column of database = Field of database = Basis vector of geometry. They all refers to the same thing.
 - Records of database = tuple of database = observation of statistics = vector of geomery.
 - Slope of Geomery = Gradient of calculus = Gradient in Deep Learning and Machine Learning. The value of slope or grandient can be between $$-\infty \,\, to \,\,+\infty$$
-
-## Resources
-
-
 
 # Conclusion
 Statistics is big and complex subject and this is foundational stone of any data science work, primarily for data analysis and model building. You may not be expert in this subjects and it can take significant amount of time to get mastery over this subject. But with the help of above questions a company can evaluate whether you are comortable enough in the subject to take challenges in data science project. If you would like to add your favourite questions then you can email me at hari.prasad@vedavit-ps.com
