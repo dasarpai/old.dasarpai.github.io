@@ -203,7 +203,9 @@ Month | Passengers (y) | $$y_{t-1}$$ | $$y_{t-2}$$ | $$y_{t-3}$$
 ## What is AutoCorrelation formula?
 AutoCorrelation formula is same as Correlation formula. Only difference is Y is taken from time lag of X.
 
-$$\rho_{X_t, X_{t+\tau}} = \frac{\displaystyle \sum_{t=1}^T (X_t - \overline{X})(X_{t+\tau} - \overline{X})}{\displaystyle \sum_{t=1}^T (X_t - \overline{X})^2}$$, where $\overline{X}$ is the mean of the data set $X$, $\tau$ is the lag, and $T$ is the length of the data set.
+$$\rho_{X_t, X_{t+\tau}} = \frac{\displaystyle \sum_{t=1}^T (X_t - \overline{X})(X_{t+\tau} - \overline{X})}{\displaystyle \sum_{t=1}^T (X_t - \overline{X})^2}$$, 
+
+where $$\bar{X}$$ is the mean of the data set X, $$\tau$$ is the lag, and T is the length of the data set.
 
 ## Causation and Correlations are two different things, can you explain them with an example?
 
@@ -277,7 +279,9 @@ Standard Deviation (SD) is measure of spread or dispersion around the mean. It i
 ![Three Normal Distributions](/assets/images/dspost/statistics/threenormaldistributions.png)
 
 **The formula for the “sample standard deviation”, denoted by "s," is:**
+
 $$s = \sqrt{\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2}$$ OR
+
 $$s = \sqrt{Sample\_Variance}$$
 
 where x is the set of observations, n is the number of observations, and $\bar{x}$ is the mean of the observations.
@@ -327,10 +331,13 @@ Sigma Level | Defects/Mn Opportunities or DPMO | Yield | Defects in % | Yield % 
 6 | 3.4 | 999997 | 0.00034 | 99.9997 | 5 9s
 
 
-## What is Standard Error (SE)?
+## What is standard error (SE) in sampling?
 
-- Standard error of population $$SE = \frac{\sigma}{\sqrt{n}}$$, $$\sigma$$ is population SD. In population n is nearing infinity therefore SE of population is almost zero.
+If you want to know the mean salary of Indian IT professionals, it is very time consuming and complex task because of various reasons. But this information is important for your business decision.
+
 - Standard error of any sample depends upon the number of observations in the sample. More the sample size, lessor the error and vice versa. $$SE = \frac{s}{\sqrt{n}}$$, s is sample's SD.  If s of salary of Indian IT professionals is 10K, our sample has 100 observations then the SE of our sample should be 10K/sqrt(100) = 1K. Here SE of sample assumes that sample is random sample from population and population is normally distributed. If this assumption is not true then SE may be incorrect about true variablity about the population.
+- Standard error of population $$SE = \frac{\sigma}{\sqrt{n}}$$, $$\sigma$$ is population SD. In population n is nearing infinity therefore SE of population is almost zero.
+
 
 ## How to use z score for probability calculation?
 If the mean salary in our dataset is 75,000 and SD is 5000 then what is the probability that the salary of a randomly chosen employee is >90,000
@@ -438,22 +445,26 @@ Suppose in our dataset, if the number of people in each age group of 10 years li
 ![Uniform Distribution](/assets/images/dspost/statistics/Uniform-Distribution.jpg)
 
 ## Can you give example of exponential distribution
+
 **Where time is on X axis**
-Time between arrivals of customers to a store, 
-Time between arrivals of cars at an intersection, 
-Time taken by computer system to respond to user requests. 
-Over a period of time the amount of money spent on goods and services, 
-Over a period of time number of mutations in a gene sequence, 
-Number of web pages visited over a given period. 
-Over a period of time number of deaths due to a particular disease. 
-Over a period of time radiation levels of radioactive materials, 
-Over a period of time the length of time it takes for a user to complete a task
-The amount of radioactive material decayed over a given period
+
+- Time between arrivals of customers to a store, 
+- Time between arrivals of cars at an intersection, 
+- Time taken by computer system to respond to user requests. 
+- Over a period of time the amount of money spent on goods and services, 
+- Over a period of time number of mutations in a gene sequence, 
+- Number of web pages visited over a given period. 
+- Over a period of time number of deaths due to a particular disease. 
+- Over a period of time radiation levels of radioactive materials, 
+- Over a period of time the length of time it takes for a user to complete a task
+- The amount of radioactive material decayed over a given period
+
 **Where time is NOT on X axis**
-Size of earthquakes, the length of coastline 
-Size of earthquakes, and number of casualties
-Number of time compression and the size of a computer file after compression
-Distance and the intensity of light from a star.
+
+- Size of earthquakes, the length of coastline 
+- Size of earthquakes, and number of casualties
+- Number of time compression and the size of a computer file after compression
+- Distance and the intensity of light from a star.
 
 ![exponential-distribution](/assets/images/dspost/statistics/exponential-distribution.webp)
 **Exponential Distribution**
@@ -545,13 +556,12 @@ If a bad product is wrongly accepted by the quality team it is Type-II error.
 If an tax invader is not fined by income tax department, it is Type-II error.
 If a infacted person is wronly certified as healthy person, it is Type-II error.
 
-# Concepts in Statistics
+# More Concepts in Statistics
 
 ## What is concordant or discordant pairs?
 
 Concordant pairs are two variables that tend to increase or decrease together. Discordant pairs, on the other hand, are two variables that tend to move in opposite directions. For example, a positive correlation between the number of hours studied and exam scores would be an example of a concordant pair, while a negative correlation between the number of hours studied and the number of hours spent playing video games would be an example of a discordant pair.
 
-----
 
 ## What is monotonic relationship?
 
@@ -630,14 +640,6 @@ If we have a sample of 100 people then mean of this can be used to guess the pop
 2- $$SE = \frac{s}{\sqrt{n}}$$
 
 3- SD of Population = SD of Sample's SD
-
-## What is standard error in sampling?
-
-If you want to know the mean salary of Indian IT professionals, it is very time consuming and complex task because of various reasons. But this information is important for your business decision.
-
-You collect sample data of say 100 people and get the mean 1 LPM, SD = 5K and there is some shape of this normally distributed data. You collect sample of another 100 people and you get mean salary is 1.1 LPM, SD=6K, but the shape of distribution is same, this way you can do this experiment couple of times.
-
-If all the data is about same population (Indian IT professional's salary) then the shape of distribution of all the sample should be same.
 
 ## Can you explain what is the distribution in statistics, what purpose they serve?
 There ar two kinds of variable numerical and categorical. Numerical variable like age of human, age of star, waiting time at service counter, growth of virus, distance between stars etc follows different types of continuous distributions. Discreate variable like city, color, education, pincode, plant name, building type, builder etc follow discrete distribution.
