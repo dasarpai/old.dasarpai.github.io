@@ -22,10 +22,8 @@ toc_sticky: true
 
 # Statistics Interview Question for Data Scientist
 
-> In this question-answer blog, I will try the answer to every question starts with an example rather than a theory or definition (some unavoidable variation may be possible). I firmly believe if examples are clear, then a human mind is smart enough in generalizing, creating theories and definitions.   
-
-> The purpose of this blog is not to give you clearcut definitions of important concepts of statistics but help you visualising the ideas in your mind. So that even without the definitions you understand what does a particular idea means.  
-
+> In this question-answer blog, I will try the answer to every question starts with an example rather than a theory or definition (some unavoidable variation may be possible). I firmly believe if examples are clear, then a human mind is smart enough in generalizing, creating theories and definitions.
+> The purpose of this blog is not to give you clearcut definitions of important concepts of statistics but help you visualising the ideas in your mind. So that even without the definitions you understand what does a particular idea means.
 > To give the example, in most of the places, I will use the “job_applicant” dataset. This dataset has data about the people who applied for a job in the company and applicants were either selected or rejected by the company. So the information in this dataset is applicant's name, date of birth, date of application, job applied, last salary, education, living_city, selected, etc.
 
 # About Statistics
@@ -52,10 +50,10 @@ In summary, a sample is a subset of a population, which is chosen to represent t
 
 **Census** is the process of collecting and counting data about a **population**. For example, to study the economic well-being of tribal people if you can collect some sample data then it is part of statistics. But if you collect data on the entire tribal population then it is a census.
 
-## What are observational and experimental data in Statistics?
-If you want to know whether there is any relationship between **overtime working** and **number of defects produced** then you collect the data and check the relationship. This collected data is observational data. Before collecting the data, we don't have any intention of experimenting. We just want to know. To establish the relationship just observation of existing data is enough.
+## What are observational data, and experimental data in Statistics?
+Observational Data: If you want to know whether there is any relationship between **overtime working** and **number of defects produced** then you collect the data and check the relationship. This collected data is observational data. Before collecting the data, we don't have any intention of experimenting. We just want to know. To establish the relationship just observation of existing data is enough.
 
-If you **change the number of working hours** then what is the impact of this on **number of defects produced**? This way, you experiment with different working hours, sometimes you increase the hours, and at other times you decrease the hours. This collected data is experimental data. Before collecting the data I have intension to experiment. In one experiment, we increased the number of working hours and then noted the number of defects. In another experiment, we decreased the number of working hours and then noted the number of defects. To establish this relationship you need to experiment multiple times.
+Experimental Data: If you **change the number of working hours** then what is the impact of this on **number of defects produced**? This way, you experiment with different working hours, sometimes you increase the hours, and at other times you decrease the hours. This collected data is experimental data. Before collecting the data I have intension to experiment. In one experiment, we increased the number of working hours and then noted the number of defects. In another experiment, we decreased the number of working hours and then noted the number of defects. To establish this relationship you need to experiment multiple times.
 
 
 ## Are statistical measures and statistical methods the same?
@@ -93,13 +91,7 @@ Inferential Statistics are statistical tools used to make inferences or draw con
 ## What are the statistical tools in Predictive Statistics?
 Predictive statistics tools are machine learning algorithms, such as linear regression, logistic regression, decision trees, neural networks, and support vector machines.
 
-# About Variables
-
-## Variable Types and Summarization
-There are two kinds of variables and they are summarized in different ways.
-- Summary of Nominal Variable: Count, Ratio, and Percentage, e.g. How many girls and boys, percentage of fruit tree vs no-fruit tree, percentage of bad product vs good product, etc.
-- Summary of Numeric Data: mean, median, e.g. Mean salary, median age, mean sugar level, mean score
-- Depending upon the situation, Ordinal data can be nominal or numeric.
+# About Variables & Models
 
 ## What is a random variable?
 - If you through a die then the outcome can be any number between 1 to 6, inclusive.
@@ -109,9 +101,16 @@ There are two kinds of variables and they are summarized in different ways.
 So the variables like dice-outcome, applicant-job, traffic-turn-direction can take any random value between the range or the options available. Therefore they are called random variables. In the language of the database, every table's column is a random variable. In statistics, this is referred to as a random variable.
 
 ## What are the different types of random variables?
-A random variable can take any value from the given fixed number of options. For example, applicant_education applicant_gender, applicant_city, and dice_outcome can have a fixed number of outcomes. This kind of variable is called a categorical variable. Further, there are two types of categorical variables. Applicant_education can be Higher_Secondry, Graduate, Master, Ph.D. But this random variable has an order from low to high therefore it is called an ordinal categorical variable or ordinal variable. Applicant_city or color of the side of the die does not have any order therefore they are called nominal categorical variables or nominal variables.
+A random variable can take any value from the given fixed number of options. For example, applicant_education applicant_gender, applicant_city, and dice_outcome can have a fixed number of outcomes. This kind of variable is called a **categorical variable**. Further, there are two types of categorical variables. Applicant_education can be Higher_Secondry, Graduate, Master, Ph.D. But this random variable has an order from low to high therefore it is called an ordinal categorical variable or **ordinal variable**. Applicant_city or color of the side of the die does not have any order therefore they are called nominal categorical variables or **nominal variables.**
 
-In the employee dataset, what can be the value of applicant_age or salary? Like earlier, it is not selected from a fixed number of options available. Not only that it can be decimal also. Therefore such kind of random variable is called a numeric random variable or numeric variable.
+In the employee dataset, what can be the value of applicant_age or salary? Like earlier, it is not selected from a fixed number of options available. Not only that it can be decimal also. Therefore such kind of random variable is called a numeric random variable or **numeric variable.**
+
+## Variable Types and Summarization
+
+There are two kinds of variables and they are summarized in different ways.
+- Summary of Nominal Variable: Count, Ratio, and Percentage, e.g. How many girls and boys, percentage of fruit tree vs no-fruit tree, percentage of bad product vs good product, etc.
+- Summary of Numeric Data: mean, median, e.g. Mean salary, median age, mean sugar level, mean score
+- Depending upon the situation, Ordinal data can be nominal or numeric.
 
 ## Explain dependent variables and independent variables.
 
@@ -141,22 +140,8 @@ If you want to predict salary from experience or the “number of projects done�
 
 A generic linear regression equation is $$y=mx+c$$. Where y is a dependent variable like salary (which you want to predict), x is an independent variable like no_of_years_experience. m is the slope of the line or coefficient. c is an intercept of the line, which will give you the value of salary even if the experience is zero. For example, this model will predict salary in lakhs. $$Salary=2.5*no\_of\_years\_experience+1$$
 
-## What is correlation and how it is different from regression?
-
-If you want to study the magnitude or direction of the relationship between two variables you can use correlation **statistical measure**.
-
-Regression analysis is a **statistical technique** used to analyze the relationship between two or more variables. It can also help in prediction.
-
-## Causation and Correlations are two different things, can you explain them with an example?
-
-Causation means that a **change in one thing causes a change in another**, while correlation means that **two things occur together without necessarily being connected**. Let's see examples:
-1. Studies have shown that there is a positive correlation between the amount of **time spent studying and good grades**, but this does not necessarily mean that studying causes good grades. It could be that other factors such as access to excellent teachers, resources, and tutors cause both studying and good grades.
-2. There is a positive correlation between **smoking and lung cancer**. However, this doesn't necessarily mean that smoking causes lung cancer. Other factors such as genetics, lifestyle, and environment may also play a role in developing lung cancer.
-3. There is a positive correlation between **exercising and improved physical health**, but this doesn't necessarily mean that exercising causes improved physical health. Other factors such as diet, sleep, and genetics may also play a role in physical health.
-4. There is a positive correlation between **eating junk food and becoming overweight**, yet this doesn't necessarily mean that junk food causes overweight. Other factors like exercise, genetics, and stress levels can also contribute to weight gain.
-5. There is a positive correlation between **drinking alcohol and developing liver disease**, yet this doesn't necessarily mean that drinking alcohol causes liver disease. Other factors such as genetics, lifestyle, and environment may also be contributing factors.
-
-## What is Correlation formula?
+## What is Correlation and What is the formula of this?
+When you want to strength or degree of relationship between two variables you can you Correlation measure. It's value ranges between -1 to 1. 0 correlation coefficient means there is no relationship between two variables and they move randomly with respect to each other. Negative correlation means they move in opposite direction, when one increases the other decreases and vice versa. Positive correlation means they move in the same direction, when on increases the other also increases and vice versa. When two variables are numeric you can use pearson correlation.
 
 The formula for Pearson's correlation coefficient, denoted by "r," is:
 
@@ -168,7 +153,7 @@ $$r = \frac{ \frac{\sum_{i=1}^{n}(x_i - \bar{x})(y_i - \bar{y})}{n} }
 
 {\sqrt{ \frac{1}{n}\sum_{i=1}^{n}(x_i - \bar{x})^2}
 
-\sqrt{ \frac{1}{n} \sum_{i=1}^{n}(y_i - \bar{y})^2} }$$
+\sqrt{ \frac{1}{n} \sum_{i=1}^{n}(y_i - \bar{y})^2}{n} }$$
 
 or
 
@@ -194,7 +179,7 @@ There are several types of correlation coefficients that are commonly used in st
 It's important to choose the appropriate correlation coefficient based on the nature of the data and the type of relationship you are interested in.
 
 ## What is AutoCorrelation?
-Let’s say we have share price of a company. These observations are monthly. We want to know is there any pattern in this monthly data? For that purpose we try the relationship between the stock price. But this time original stock price is associated with “after one month share price”. This shifting is called one month lagging, it means 1949-01 data is compared with 1949-02 data, and so on. Similarly you can shift data 2 time period or 3 time period. When you check relationship between original share price and 1 lagged shared price or 2 lagged shared price or 3 lagged share price it gives you a correlation coefficient. This process is called AutoCorrelation. Whatever number of month’s shift shows higher correlation that number of month is interesting for us. 
+Let’s say we have share price of a company. These observations are monthly. We want to know is there any pattern in this monthly data? For that purpose we try the relationship between the stock price. But this time original stock price is associated with “after month share price”. This shifting is called one month lagging, it means 1949-01 data is compared with 1949-02 data, and so on. Similarly you can shift data 2 time period or 3 time period. When you check relationship between original share price and 1 lagged shared price or 2 lagged shared price or 3 lagged share price it gives you a correlation coefficient. This process is called AutoCorrelation. Whatever number of month’s shift shows higher correlation that number of month is interesting for us. 
 
 
 Mean=> | 127 |  | 128 | 127
@@ -220,6 +205,15 @@ AutoCorrelation formula is same as Correlation formula. Only difference is Y is 
 
 $$\rho_{X_t, X_{t+\tau}} = \frac{\displaystyle \sum_{t=1}^T (X_t - \overline{X})(X_{t+\tau} - \overline{X})}{\displaystyle \sum_{t=1}^T (X_t - \overline{X})^2}$$, where $\overline{X}$ is the mean of the data set $X$, $\tau$ is the lag, and $T$ is the length of the data set.
 
+## Causation and Correlations are two different things, can you explain them with an example?
+
+Causation means that a **change in one thing causes a change in another**, while correlation means that **two things occur together without necessarily being connected**. Let's see examples:
+1. Studies have shown that there is a positive correlation between the amount of **time spent studying and good grades**, but this does not necessarily mean that studying causes good grades. It could be that other factors such as access to excellent teachers, resources, and tutors cause both studying and good grades.
+2. There is a positive correlation between **smoking and lung cancer**. However, this doesn't necessarily mean that smoking causes lung cancer. Other factors such as genetics, lifestyle, and environment may also play a role in developing lung cancer.
+3. There is a positive correlation between **exercising and improved physical health**, but this doesn't necessarily mean that exercising causes improved physical health. Other factors such as diet, sleep, and genetics may also play a role in physical health.
+4. There is a positive correlation between **eating junk food and becoming overweight**, yet this doesn't necessarily mean that junk food causes overweight. Other factors like exercise, genetics, and stress levels can also contribute to weight gain.
+5. There is a positive correlation between **drinking alcohol and developing liver disease**, yet this doesn't necessarily mean that drinking alcohol causes liver disease. Other factors such as genetics, lifestyle, and environment may also be contributing factors.
+
 ## What is Variance and how to calculate varaince?
 If your dataset has a column "Age" and all people are 25 years, it means the variance of the Age column is zero. From an analysis and model-building perspective this column is useless. Only those columns, which have some variance are useful, the more the variance better is the column.
 
@@ -233,8 +227,15 @@ $$\sigma^2 = \frac{\sum_{i=1}^{n} (x_i - \mu)^2}{n-1}$$
 
 ![Variance-Calculation](/assets/images/dspost/statistics/Variance-Calculation.jpg)
 
+## Are correlation and regression different or same thing?
+
+If you want to study the magnitude or direction of the relationship between two variables you can use correlation **statistical measure**.
+
+Regression analysis is a **statistical technique** used to analyze the relationship between two or more variables. It can also help in prediction.
 
 ## What is Covariance and how to calculate it?
+The idea behind variance and covariance is same. The only difference is in variance we check the variation of one column from it means, but in covariance we check how closely two different variables walk together.
+
 Let's assume your dataset has 2 columns age, and experience. We want to know the relationship between these two columns, for this we can calculate covariance, how strongly two column values move together. They can move in the same direction or in opposite direction. A higher absolute value means two columns are moving strongly with each other.
 
 It is calculated as the **sum of the “products of the differences” between each “data point in one set” and the “mean of that set”**, and the **differences between the corresponding data points in the other set and the mean of that set**, divided by the number of data points.
@@ -268,9 +269,12 @@ AutoCoriance formula is
 
 $$\gamma(k) = Cov(X_t, X_{t+k})$$
 
-----
 
-## What is formula for the Standard Deviation?
+## What is Standard Deviation and what is the formula to calculate this?
+
+Standard Deviation (SD) is measure of spread or dispersion around the mean. It is also called Sigma and and written as $$\sigma$$. It quantifies the amount of variation or dispersion of a set of data values.  For any data column larger the of value means more the spread. The standard deviation is the square root of the variance. Larger value indicates more flatten normal distribution.
+
+![Three Normal Distributions](/assets/images/dspost/statistics/threenormaldistributions.png)
 
 **The formula for the “sample standard deviation”, denoted by "s," is:**
 $$s = \sqrt{\frac{1}{n-1}\sum_{i=1}^{n}(x_i - \bar{x})^2}$$ OR
@@ -283,34 +287,26 @@ where x is the set of observations, n is the number of observations, and $\bar{x
 $$σ = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(x_i - \mu)^2}$$ OR
 $$σ = \sqrt{Population\_Variance}$$
 
-where x is the set of observations, n is the number of observations, and $\mu$ is the mean of the observations.   
+where x is the set of observations, n is the number of observations, and $\mu$ is the mean of the observations.
 
-## Sigma of Statistics, Sigma of process control and Z score are confusing and sometimes used interchangeably.   
+## What is standard scaling or z score calculation?
 
-- What is the value of sigma in statistics? 
-- What is standard deviation?   
-- What is standard scaling?   
+Standard scaling of a numeric column means converting normal values into z scale values. Let's say our salary column minimum value 20,000, maximum value 150,000 and mean value 50,000. If this column is normally distributed then 50% of the people will have salary <=50,000 and 50% of the people will have salary >50,000. When you convert his column into z-scale you need to calculate z-score of every value. In that situation z value of th mean will become 0, and less than mean values will become negative z-values and more than mean values will become positive z-values. After this scaling you can say 99% of the data is within -3 to +3 Z scale. You can pickup any other column like age which is completely different scale compare to salary. When you convert that into z-scale then 99% of the age will be within -3 to +3 z scale. For calculating z score we can use formula $$\frac{X-\mu}{\sigma}$$. This is called standard scaling of salary column values.
 
-Sigma (also known as standard deviation) is a statistical measure that describes the spread or dispersion of a set of data. It quantifies the amount of variation or dispersion of a set of data values. The standard deviation is the square root of the variance. Larger value indicates more flatten normal distribution.   
+Thus a z-score is a description of how far a sample or point of data is away from its mean. Z score value can be negative or positive. Larger the absolute z score value of any point, far away that is from the mean. For example, if we want to calculate z-score of salary 30,000 then Z score of 30,000 = (30,000 - 50,000) /10,000 = -2. It means 30,000 salary is 2 distance away from the mean, but left side.
 
-![Three Normal Distributions](/assets/images/dspost/statistics/threenormaldistributions.png)   
+If we want to convert a salary 70,000 into sigma value we get z score = (70,000-50,000)/10,000 = 2. It means 70,000 salary is also 2 distance away from the mean but right side.
 
-In our dataset salary column has minimum value 20,000, maximum value 150,000, mean mu value 50,000, standard deviation sigma 10,000. Using this information you can convert every salary value to corresponding **z score**. You can use formula 
+During statistical test we need to make sure that z score of our any given value should not fall in the critical range, otherwise null hypothesis will be rejected. We will discuss this in detail at other place.
 
-$$\frac{X-\mu}{\sigma}$$. 
+**Because of it utility and applications, In statistics and process control perhaps Sigma or SD or Standard Deviation is the most popular measure.**
 
-This is called standard scaling of salary column values.   
+** Sigma of Statistics, Sigma of process control and Z score are confusing and sometimes used interchangeably.**
 
-Thus a z-score is a description of how far a sample or point of data is away from its mean. Z score value can be negative or positive. Larger the absolute z score value of any point, far away that is from the mean. For example, if we want to calculate z-score of salary 30,000 then Z score of 30,000 = (30,000 - 50,000) /10,000 = -2. It means 30,000 salary is 2 distance away from the mean, but left side.   
+## Sigma values in Statistics (Normal Distribution)
+It helps us understanding the distribution of sample data. It helps us knowing the probability. If 1 Sigma is 10,000, then 68% samples will have salary mean $$\pm 10000$$. 
 
-If we want to convert a salary 70,000 into sigma value we get z score = (70,000-50,000)/10,000 = 2. It means 70,000 salary is also 2 distance away from the mean but right side.   
-
-During statistical test we need to make sure that z score of our any given value should not file in the critical range, otherwise null hypothesis will be rejected. We will discuss this in detail at other place.   
-
-### Sigma values in Statistics (Normal Distribution)
-It helps us understanding the distribution of sample data. It helps us knowing the probability. If 1 Sigma is 10,000, then 68% samples will have salary mean $$\pm 10000$$.    
-
-Sigma Level | Confidence | Significance | Area on the edge of curve   
+Sigma Level | Confidence | Significance | Area on the edge of curve
 ----| ----|----|----
 $$\pm 1 \sigma$$ | 68.00% | 34.00% | 34% left or 34% right or 17% left and 17% right
 $$\pm 1.64 \sigma$$ | 90.00% | 10.00% | 10% left or 10% right or 5% left and 5% right
@@ -318,8 +314,8 @@ $$\pm 2 \sigma$$ | 95.00% | 5.00% | 5% left or 5% right or 2.5% left and 2.5% ri
 $$\pm 3 \sigma$$ | 99.00% | 1.00% | 1% left or 1% right or 0.5% left and 0.5% right
 
 
-### Sigma values in Process Control.   
-It helps us how much max error a process can do. If a packing process is 5 sigma then will not make more than 233 packing error out of 1 million packings.   
+## Sigma values in Process Control.
+It helps us how much max error a process can do. If a packing process is 5 sigma then will not make more than 233 packing error out of 1 million packings.
 
 Sigma Level | Defects/Mn Opportunities or DPMO | Yield | Defects in % | Yield % | 9s
 ---|---|---|---|---|---
@@ -331,13 +327,13 @@ Sigma Level | Defects/Mn Opportunities or DPMO | Yield | Defects in % | Yield % 
 6 | 3.4 | 999997 | 0.00034 | 99.9997 | 5 9s
 
 
-## What is Standard Error (SE)?   
+## What is Standard Error (SE)?
 
-- Standard error of population $$SE = \frac{\sigma}{\sqrt{n}}$$. $$\sigma$$ is population SD. In population n is nearing infinity therefore SE becomes alomost zero.   
-- Standard error of any sample depends upon the number of observations in the sample. More the sample size, lessor the error and vice versa. $$SE = \frac{s}{\sqrt{n}}$$, s is sample's SD.  If s of salary of Indian IT professionals is 10K, our sample has 100 observations then the SE of our sample should be 10K/sqrt(100) = 1K. Here SE of sample assumes that sample is random sample from population and population is normally distributed. If this assumption is not true then SE may be incorrect about true variablity about the population.   
+- Standard error of population $$SE = \frac{\sigma}{\sqrt{n}}$$, $$\sigma$$ is population SD. In population n is nearing infinity therefore SE of population is almost zero.
+- Standard error of any sample depends upon the number of observations in the sample. More the sample size, lessor the error and vice versa. $$SE = \frac{s}{\sqrt{n}}$$, s is sample's SD.  If s of salary of Indian IT professionals is 10K, our sample has 100 observations then the SE of our sample should be 10K/sqrt(100) = 1K. Here SE of sample assumes that sample is random sample from population and population is normally distributed. If this assumption is not true then SE may be incorrect about true variablity about the population.
 
 ## How to use z score for probability calculation?
-If the mean salary in our dataset is 75,000 and SD is 5000 then what is the probability that the salary of a randomly chosen employee is >90,000   
+If the mean salary in our dataset is 75,000 and SD is 5000 then what is the probability that the salary of a randomly chosen employee is >90,000
 
 **Method1**
 You can get z score of this 90,000  
@@ -373,11 +369,13 @@ Right skewed = Positive Skewed
 Left skewed = Negative Skewed  
 
 ## What is kurtosis?
+
 Kurtosis is a measure of the "tailedness" of the probability distribution of a real-valued random variable. The long tail will have kurtosis.
 
 $$kurtosis = \frac{\sum_{i=1}^n{({x_i - \bar{x}}})^4}{var^2}$$
 
 ## What is the R-Square formula?
+
 R-Square or $R^2$ is also called the coefficient of determination. It is used to evaluate the performance of the regression model. $R^2$ value can be any number between 0 and 1 including 0 and 1. It can never be negative. If $R^2$ of a model is .80 then it means this model explains 80% variation between actual and predicted values but 20% variation cannot be explained. A higher $R^2$ value means more variation can be explained by the model and better the model is.
 
 $$R^2 = 1 - \frac{SS_{res}}{SS_{tot}}$$
@@ -385,25 +383,32 @@ $$R^2 = 1 - \frac{SS_{res}}{SS_{tot}}$$
 Where $$SS_{res}$$ is the sum of squared residuals (the difference between the predicted value and the actual value) and $$SS_{tot}$$ is the total sum of squares (the difference between the actual value and the mean of all actual values).
 
 ## What is the Adjusted R-Square formula?
+
 It is used to understand whether any newly added feature is adding any value to the model or not. Because this model adds a penalty for every newly added variable, therefore if the addition of a new variable in the model does not increase R^2 more than the penalty added then overall R^2, adjusted R^2 will decrease.
 
 $$Adjusted R^2 = 1 - (1 - R^2) * \frac{(n - 1)}{(n - p - 1)}$$
 
+
+
+
 # About Probability & Distributions
+
 ## What is probability?
+
 A ratio between "chances of getting success" and number of outcome available.
 
-A die has 6 faces, if success = coming 4 success on top, then the chances of getting 4 or getting success=1. Total number of  outcome (1,2,3,4,5,6)=6. Probability of getting success 1/6
+A die has 6 faces, if success = coming 4 success on top, then the chances of getting 4, the success=1. Total number of  outcome (1,2,3,4,5,6)=6. Probability of getting success 1/6
 
 ## What is the difference between theoretical probability and experimental probability?
 
-Success probability of all the outcome may not be same. You can know this from the historical data. For example, if you go to your friend's house without calling him what is the probability you will find him at home? ½ or 50%. This is theoretical probability. But from your past experience you know out of 50 times he was available only 5 times. So success probability (experimental probability) you friend is at home is 5/50 = 1/10 = .1 = 10%.
+Success probability of all the outcome may not be same. This you can know from historical data. For example, if you go to your friend's house without calling him what is the probability you will find him at home? ½ or 50%. This is theoretical probability. But from your past experience you know out of 50 times he was available only 5 times. So success probability (experimental probability) you friend is at home is 5/50 = 1/10 = .1 = 10%.
 
-Similarly in die through game theoretical probablity of getting 2 is ⅙. But if die is tampored in the favour of 2 then probality of getting 2 is more than ⅙ or probality of getting any other number is less than ⅙.
+Similarly in die through game theoretical probablity of getting 2 is ⅙. But if die is tampored in the favour of 2 then probality of getting is more than ⅙ or probality of getting any other number is less than ⅙.
 
-If stock market open then share price of RIL will go up, or down or remain as last day? Theoretical probability of opening at higher price is ⅓. But from historical data you may know market is in the favour or against the RIL at the start of day.
+If stock market open then share price of RIL will go up, or down or remain as last day? Theoretical probability of opening at higher price is ⅓. But from historical data you may know market is the favour or against the RIL at the start of day.
 
 ## What is success probability?
+
 Let's assume in our job_applicant dataset can have applicants only from 6 cities (Mumbai, Delhi, Bangalore, Chennai, Hyderabad, and Kolkota). In this dataset, you have 10,000 applicants' information. Now if you are interested in only those employees who are from Mumbai, then you can ask questions like, what is the probability that a given employee is from Mumbai? In the experiment, if you pick up record number 1008 and this candidate is from Mumbai then you call the event is successful. But, if the candidate is from any other city then, you call the event is fail. You write it as $$Pr(Applicant\_city=Mumbai)$$.
 
 If this dataset has 2000 candidates from Mumbai then a randomly selected candidate will be from Mumbai, what is the probability? 2,000/10,000 = .20 or 20% so $$Pr(Applicant\_City=Mumbai)=.20$$. 20% is the success probability.
@@ -420,49 +425,50 @@ This all is done by exploring another concept called probability density.
 
 
 ## What is probability density?
+
 Let's assume our dataset has 10,000 applicants and their age is between 18 to 60 years. You can plot a histogram and this histogram represents the distribution of age of the applicants. The entire area of this histogram is referred to as 1, in our case 10,000 people's age is represented by this area and it is 1. This is the total density of this curve. The X-axis of this curve will have age and y axis will have a number of people.
 
 ![Normal Distribution](/assets/images/dspost/statistics/Normal-Distribution.jpg)
 
 
 ## What is uniform distribution?
+
 Suppose in our dataset, if the number of people in each age group of 10 years like 18-28, 28-38, 38-48, etc we have an equal number of people then it is a uniform distribution..
 
 ![Uniform Distribution](/assets/images/dspost/statistics/Uniform-Distribution.jpg)
 
 ## Can you give example of exponential distribution
 **Where time is on X axis**
-1. Time between arrivals of customers to a store, 
-2. Time between arrivals of cars at an intersection, 
+Time between arrivals of customers to a store, 
+Time between arrivals of cars at an intersection, 
 Time taken by computer system to respond to user requests. 
-3. Over a period of time the amount of money spent on goods and services, 
-4. Over a period of time number of mutations in a gene sequence, 
-5. Number of web pages visited over a given period. 
-6. Over a period of time number of deaths due to a particular disease. 
-7. Over a period of time radiation levels of radioactive materials, 
-8. Over a period of time the length of time it takes for a user to complete a task
-9. The amount of radioactive material decayed over a given period
-
+Over a period of time the amount of money spent on goods and services, 
+Over a period of time number of mutations in a gene sequence, 
+Number of web pages visited over a given period. 
+Over a period of time number of deaths due to a particular disease. 
+Over a period of time radiation levels of radioactive materials, 
+Over a period of time the length of time it takes for a user to complete a task
+The amount of radioactive material decayed over a given period
 **Where time is NOT on X axis**
-
-10. Size of earthquakes, the length of coastline 
-11. Size of earthquakes, and number of casualties
-12. Number of time compression and the size of a computer file after compression
-13. Distance and the intensity of light from a star.
+Size of earthquakes, the length of coastline 
+Size of earthquakes, and number of casualties
+Number of time compression and the size of a computer file after compression
+Distance and the intensity of light from a star.
 
 ![exponential-distribution](/assets/images/dspost/statistics/exponential-distribution.webp)
 **Exponential Distribution**
 
-## What is a normal distribution? What is the use of this?   
-In our dataset, the minimum age is 18 years (recently hired), but there are lessor people like this. The maximum age in the dataset is 60 years (people are going to retire this year), but there are lessor people like this. If you plot the histogram of this "age" information you will get a normal distribution. It is also called Gaussian distribution, It means the mean and median will be 40 years, 5000 employees are <= 40 years old and 5000 employees are > 40 year age.   
+## What is a normal distribution? What is the use of this?
 
-If this age data is truly normally distributed then 68% of employees will be within $$\pm 1\sigma$$, 95% of employees will be within $$\pm 2\sigma$$, and 99% of employees will be within $$\pm 3\sigma$$.   
+In our dataset, the minimum age is 18 years (recently hired), but there are lessor people like this. The maximum age in the dataset is 60 years (people are going to retire this year), but there are lessor people like this. If you plot the histogram of this "age" information you will get a normal distribution. It is also called Gaussian distribution, It means the mean and median will be 40 years, 5000 employees are <= 40 years old and 5000 employees are > 40 year age.
 
-**Characteristics of Normal Distribution**   
-- Curve is perfect bell curve (Unimodal, only one peak). Due to this reason normal distribution curve is also called the bell curve.   
-- Mean=Median=Mode   
-- Area less than mean = 0.5, and the area more than mean = 0.5 (symmetric)   
-- Asymptotic on both sides of the curve   
+If this age data is truly normally distributed then 68% of employees will be within $$\pm 1\sigma$$, 95% of employees will be within $$\pm 2\sigma$$, and 99% of employees will be within $$\pm 3\sigma$$.
+
+**Characteristics of Normal Distribution**
+- Curve is perfect bell curve (Unimodal, only one peak). Due to this reason normal distribution curve is also called the bell curve.
+- Mean=Median=Mode
+- Area less than mean = 0.5, and the area more than mean = 0.5 (symmetric)
+- Asymptotic on both sides of the curve
 
 Formula to calculate the probability of a random variable having a normal distribution.
 $$\varphi(x) = \frac{1}{ \sqrt(2\pi\sigma^2)}*e^\frac{ -(x-\mu)^2}{2\sigma^2}$$
@@ -580,14 +586,15 @@ Consider following example.
 - What is that range of working time when people are making 95% of mistake? when number of defects is almost zero you will get asympotic line, 5%. Depending on your data, You may get two side long tail or right side long tail. Now you can bring your number of working within the range where defects are least.
 - What salary 95% of indian IT professional are making. You find long tail on curve. This is good enough market for you. You can make your marketing strategies accordingly.
 - What is the height of 99.99% loaded luggage truck. You can construct height of subway accordingly
+-
 
 ## What is an outlier? How can outliers be determined in a dataset?
 
-If you sort the salary data of 1000 employees in ascending order, then salary information of the 250th person is 25th (Q1) percentile. Salary information of the 500th person is 50th (Q2) percentile. Salary information of the 750th person is 75th (Q3) percentile. The difference between Q3 and Q1 salary is called IQR (Inter Quratile Range). If you add 1.5xIQR with Q3 you will get a salary, say 1.8 Lakh. Any salary more than this is considered as right side outlier. If you substract 1.5xIQR from Q1 then you will get a number, say 40K. Any salary less then this will be considered as left side outlier.
+If you sort the salary data of 1000 employees in ascending order, then salary information of the 250th person is 25th (Q1) percentile. Salary information of the 500th person is 50th (Q2) percentile. Salary information of the 750th person is 75th (Q3) percentile. The difference between Q3 and Q1 salary is called IQR (Inter Quratile Range). If you add 1.5*IQR with Q3 you will get a salary, say 1.8 Lakh. Any salary more than this is considered as right side outlier. If you substract 1.5*IQR from Q1 then you will get a number, say 40K. Any salary less then this will be considered as left side outlier.
 
 ![Outlier Detection](/assets/images/dspost/statistics/outliers.png)
 
-## What are the applications of outlier detection?
+# What are the applications of outlier detection?
 - Fraud detection in financial transactions
 - Intrusion detection in infrastructure management
 - Fault detection in manufacturing processes
@@ -678,11 +685,8 @@ Each distribution has its own shape and measure to summarise the data. They are 
 In the process of statistical testing, choosing a correct statistical test is a very important steps. Which test is applicable for for problem can be determined using following.
 
 1- What kind of data we have (numerical or categorical)  
-
-2- How many samples we have (1, 2 or many). Each sample of dozens or hundreds of observations.
-
+2- How many samples we have (1, 2 or many). Each sample of dozens or hundreds of observations.  
 3- How many variables we have (1 or 2). Like age, temprate, sale, number of people etc.  
-
 4- Whether variables are paired for each observation or not.
   - Example of pair can be, salary and experience of the same person. Blood sugar of the same person, before fasting, then post fasting. It is 2 varialbe and 1 sample.
   - Example of unpaired, two groups, one have gone through meditation and another have not gone through meditation. We check their BP after 15 days. It is one variable but 2 samples.  
