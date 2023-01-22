@@ -1,0 +1,36 @@
+- ColoursInCulture- https://informationisbeautiful.net/visualizations/colours-in-cultures/
+- Netzero-IIB.png	- https://informationisbeautiful.net/visualizations/how-to-get-the-world-to-netzero-by-2050/
+- World's Biggest Data Breaches & Hacks : https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/#bysensitivity
+- IIB-Films-Critics-Loved-But-Audiences-Didnt2-1.png : https://informationisbeautiful.net/visualizations/star-wars-last-jedi-one-of-the-biggest-rotten-tomatoes-audience-vs-critics-score-splits-ever/
+- Billions-IIB-2022-IIB.png : https://informationisbeautiful.net/visualizations/the-billion-dollar-gram/
+- IIB_Timelines.png : https://informationisbeautiful.net/visualizations/timelines-time-travel-in-popular-film-and-tv/
+- THE HOLLYWOOD IN$IDER- https://informationisbeautiful.net/visualizations/the-hollywood-insider/
+- COVID-19 Coronavirus Data Dashboard : https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/#activities
+- https://venngage.com/blog/people-infographic/
+- https://www.freepik.com/free-photos-vectors/infographic-people
+- https://news.microsoft.com/stories/data/
+- Tableau
+- Databox
+- Zoho Analytics
+- Infogram
+- Datawrapper
+- Plotly
+- Information is beautiful
+- Data Plus Science
+- The Functional Art
+- AnyChart blog
+- FlowingData
+- Modern Data
+- Plotly Blog
+- Dataquest Blog
+- Driven By Data
+- The Economist: Graphic detail
+- FlowingData Blog.
+- AnyChart JS Charts Blog and DataViz Weekly.
+- Junk Charts- Kaiser Fung.
+- Visual Capitalist- Rich Visual Content For The Modern Investor.
+- The Economist- Graphic Detail.
+- Depict Data Studio.
+- Storytelling With Data.
+- Eagereyes.
+- 

@@ -23,10 +23,38 @@ toc_sticky: true
 # Statistics Interview Question for Data Scientist
 
 > In this question-answer blog, I will try the answer to every question starts with an example rather than a theory or definition (some unavoidable variation may be possible). I firmly believe if examples are clear, then a human mind is smart enough in generalizing, creating theories and definitions.
+
 > The purpose of this blog is not to give you clearcut definitions of important concepts of statistics but help you visualising the ideas in your mind. So that even without the definitions you understand what does a particular idea means.
+
+> This blog is written keeping learns from software engineering background in mind. They have lot of confusion around the naming convention used in statistics like event, experiments, variable, test, sample, significance, confidence level, theoretical probality, statistical measure and their calculation, etc.
+
 > To give the example, in most of the places, I will use the “job_applicant” dataset. This dataset has data about the people who applied for a job in the company and applicants were either selected or rejected by the company. So the information in this dataset is applicant's name, date of birth, date of application, job applied, last salary, education, living_city, selected, etc.
 
 # About Statistics
+## Can you tell about population space or sample space?
+Population space where all the observation are stored. Sample space is where some of the observation are stored. If you organzation has 300K employees then population space of all the employees of your organization is 300K. If you create a sample of 100 employees from this sample space then 100 employee are forming a sample space. Sample space is creating in sampling process. Every sampling has some purpose, therefore it must ensure that sample represents the population. There are many technqiues to ensure this.
+
+If there are 5 variables like Name, Age, Gender, Title, Salary then no two observations in the population or sample dataset can have same informatin. Possible outcome of 2 observations in sample or population space can be "John Smith", who is 35 years old, male, has a job title of "Manager", and earns a salary of $ 70,000. Another possible outcome could be the employee named "Jane Doe", who is 42 years old, female, has a job title of "Engineer", and earns a salary of $80,000.
+
+A sample space, often denoted by the symbol S, is the set of all possible outcomes of a random experiment. The population space, often denoted by the symbol Ω, is the set of all possible outcomes of a random process. The population space is typically not known and it is the sample space that we use to make inferences about the population.
+
+## What is Random Process, Random Experiment, Random Event, all are same thing or different?
+
+A random process is a sequence of events that cannot be predicted exactly. For example, tomorrow's stock price of X stock. It depends on many dozens of variables.
+
+A random experiment is an experiment in which the outcome is uncertain and can take on different values based on chance or probability. Traffic movement, dice throw, selecting employee, coin throw.
+
+A random event is a specific outcome of a random process. Coming head in tossing random process, coming 4 in dice throw random process, selecting Ph.D holder from employee dataset, a vehicle can turn right on a traffic light.
+
+
+
+## What is the difference between variable and random variable?
+An observation has attribute, for example an employee # 108 is one observation from our sample of population dataset. It has many attribute like name, age, gender, salary, position etc. These are variables. Any employee can have any value corresponding to these variables. 
+
+Random variable is a variable whose values are determined by a random process. For example if there can be only one job_position out of 4 job_position, then job_position variable is random variable. Output of randomm variable follows some distribution like normal distribution.
+
+Every random varialbe is a variable but every variable is not random variable.
+
 ## What is the difference between Measure, Tool, Technique, Method, and Process?
 - A measure is a **way to calculate**. It is a metric. For example mean, median, and mode are measures to know the central tendency of data. In our example dataset we can summarise age column, as "mean age"=35 years, or median age is 38 years.
 - A tool is a physical object or software or app used **to accomplish a task**. For example, Microsoft Project for creating a project schedule and identifying a critical path.
@@ -305,10 +333,10 @@ During statistical test we need to make sure that z score of our any given value
 
 **Because of it utility and applications, In statistics and process control perhaps Sigma or SD or Standard Deviation is the most popular measure.**
 
-** Sigma of Statistics, Sigma of process control and Z score are confusing and sometimes used interchangeably.**
+**Sigma of Statistics, Sigma of process control and Z score are confusing and sometimes used interchangeably.**
 
-## Sigma values in Statistics (Normal Distribution)
-It helps us understanding the distribution of sample data. It helps us knowing the probability. If 1 Sigma is 10,000, then 68% samples will have salary mean $$\pm 10000$$. 
+## What is Sigma values in Statistics (Normal Distribution)?
+It helps us understanding the distribution of sample data. It helps us knowing the probability. If 1 Sigma is 10,000, then 68% samples will have salary between mean_salary $$\pm 10000$$. 
 
 Sigma Level | Confidence | Significance | Area on the edge of curve
 ----| ----|----|----
@@ -318,8 +346,8 @@ $$\pm 2 \sigma$$ | 95.00% | 5.00% | 5% left or 5% right or 2.5% left and 2.5% ri
 $$\pm 3 \sigma$$ | 99.00% | 1.00% | 1% left or 1% right or 0.5% left and 0.5% right
 
 
-## Sigma values in Process Control.
-It helps us how much max error a process can do. If a packing process is 5 sigma then will not make more than 233 packing error out of 1 million packings.
+## What is Sigma values in Process Control?
+It helps us how much maximum error a process can do. If a packing process is 5 sigma then it will not make more than 233 packing error out of 1 million packings.
 
 Sigma Level | Defects/Mn Opportunities or DPMO | Yield | Defects in % | Yield % | 9s
 ---|---|---|---|---|---
@@ -330,13 +358,34 @@ Sigma Level | Defects/Mn Opportunities or DPMO | Yield | Defects in % | Yield % 
 5 | 233 | 999767 | 0.0233 | 99.9767 | 3 9s
 6 | 3.4 | 999997 | 0.00034 | 99.9997 | 5 9s
 
+## What is the meaning of Standard Deviation (SD) of the sampling distribution of the mean?
 
-## What is standard error (SE) in sampling?
+## Sample Standard Error OR Standard Error of Sample Mean.
 
-If you want to know the mean salary of Indian IT professionals, it is very time consuming and complex task because of various reasons. But this information is important for your business decision.
+The SD of the sampling distribution of the mean, also known as the **"standard error (SE) of the sample mean"**. It is a measure of the variability of the sample mean. It is used to estimate the precision of the sample mean as an estimate of the population mean.
 
-- Standard error of any sample depends upon the number of observations in the sample. More the sample size, lessor the error and vice versa. $$SE = \frac{s}{\sqrt{n}}$$, s is sample's SD.  If s of salary of Indian IT professionals is 10K, our sample has 100 observations then the SE of our sample should be 10K/sqrt(100) = 1K. Here SE of sample assumes that sample is random sample from population and population is normally distributed. If this assumption is not true then SE may be incorrect about true variablity about the population.
-- Standard error of population $$SE = \frac{\sigma}{\sqrt{n}}$$, $$\sigma$$ is population SD. In population n is nearing infinity therefore SE of population is almost zero.
+To understand this concept, let's consider an example. Imagine you are studying the heights of adult males in a certain population. The population mean height is 170 cm and the population standard deviation is 10 cm. If you take a sample of 5 adult males, you would calculate the sample mean height. Each time you take a different sample of 5 adult males, you would get a different sample mean height.
+
+Now, imagine taking many samples of 5 adult males, each time calculating the "sample mean height". The distribution of the "sample mean heights" is known as the "sampling distribution of the mean". The SD of this "sampling distribution of the mean" is called the "standard deviation of the sampling distribution of the mean" or the "standard error of the sample mean".
+
+In other words, the "standard deviation of the sampling distribution of the mean" is a measure of the variability of the sample mean. It tells us how much the sample mean is likely to deviate from the population mean, given a certain sample size. The smaller the "standard deviation of the sampling distribution of the mean", the more precise the sample mean is as an estimate of the population mean. This means, as the sample size increases, the "standard deviation of the sampling distribution of the mean" decreases, the sample mean becomes a more accurate estimate of the population mean.
+
+$$SE = \frac{s}{\sqrt{n}}$$    
+
+SE is the Standard Error,    
+s is the standard deviation of the sample  
+n is the sample size
+
+In our dataset if salary column has mean_slary=50,000 then we know some observations will have less than 50K and others will have more than 50K. If we do the total of this difference between actual_salary and mean_salary we will get standard error. $$SE = \frac{X-\bar{X}}{n}$$.
+
+If you don't know this $$X-\bar{X}$$ but you know s then you can calculate it like following $$SE = \frac{s}{\sqrt{n}}$$
+
+If you know the variance but not SD then you can calculate as following $$SE = \frac{ {\sqrt{variance}}}{\sqrt{n}} = \sqrt{\frac{variance}{n}}$$ 
+
+## Population Standard Error OR Standard Error of Population Mean.
+In statistics, the standard error of the population mean, denoted as σM or σ/√N, is a measure of the variability of the population mean. It is the standard deviation of the sampling distribution of the population mean. It is used to estimate the precision of the population mean, but it is not commonly used because often the population standard deviation and population size are not known.
+
+The standard error of the population mean is based on the assumption that the population is normally distributed. If the population is not normally distributed, the standard error of the population mean cannot be calculated and other methods must be used to estimate the precision of the population mean.
 
 
 ## How to use z score for probability calculation?
@@ -490,6 +539,7 @@ The height of people, the weight of people, IQ scores, blood pressure levels, gr
 ![Distribution-Boxplot](/assets/images/dspost/statistics/Distribution-Boxplot.png)
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Probability_density_function)
 
+
 ## What is binomial distribution? What is the use of this?
 If you throw 2 dice simultaneously then the sum of the outcomes can be anything between 2 to 12.
 
@@ -532,6 +582,10 @@ P value is the probability in the favour of null hypothesis. It is used to evalu
 - Lower p-value means it is supporting H1.
 - Lower p-value means it is supporting H0.
 
+You can read p-value from z-table. It means, if you know the z value of any observation you can know the p-value of that.
+
+For example: if we want to know what is probability that someone has salary <=40000 we can calcualte the z score of 40,000 and read p-value of that z-score from z-table.
+
 ## What is Significance Level?
 Total Probablity = Confidence Level + Significance Level.
 If confidence level is 95% then significane level is 5%.
@@ -556,6 +610,130 @@ If a bad product is wrongly accepted by the quality team it is Type-II error.
 If an tax invader is not fined by income tax department, it is Type-II error.
 If a infacted person is wronly certified as healthy person, it is Type-II error.
 
+## How to select right Statistical Test for a problem in hand?
+In the process of statistical testing, choosing a correct statistical test is a very important steps. Which test is applicable for for problem can be determined using following.
+
+1- What kind of data we have (numerical or categorical)  
+2- How many samples we have (1, 2 or many). Each sample of dozens or hundreds of observations.  
+3- How many variables we have (1 or 2). Like age, temprate, sale, number of people etc.  
+4- Whether variables are paired for each observation or not.
+  - Example of pair can be, salary and experience of the same person. Blood sugar of the same person, before fasting, then post fasting. It is 2 varialbe and 1 sample.
+  - Example of unpaired, two groups, one have gone through meditation and another have not gone through meditation. We check their BP after 15 days. It is one variable but 2 samples.  
+
+5- Purpose of test. We want to compare two sample mean/median etc, or we want to compare sample mean with population mean, or we want to check relationship between two variable
+
+**YouTube Resource for Statistical Test**  
+- [Choosing which statistical test to use - 10 min video](https://www.youtube.com/watch?v=rulIUAN0U3w)  
+- [Choosing a statistical test for analysis of data - 25 min video](https://www.youtube.com/watch?v=ZX4m6zav5To&t=1s)
+- [T test, Z test, F test, Chi-square test, ANOVA, Mann-Whitney U Test, H test - 33min video](https://www.youtube.com/watch?v=QfVx7AH8rck&t=10s)
+- [Two-sample t test for difference of means](https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-quantitative-means/two-sample-t-test-means/v/two-sample-t-test-for-difference-of-means)
+
+**Selecting a correct statistical test for a given scenario is very challenging task for most of the non-stats background people**
+
+## Statistical Tests with Example
+- **CASE1:** Mileage claim: An automobile manufacturing company claims their car's average milage is 20Km/Liter. Automobile Association collects data of 100 automobiles, calculate the mean as 19KM/Liter, SD=.5. Now they can compare this sample mean with population mean (20km/liter). Whether the automanufacture's claim is valid, at 5% significance level?  
+**SOLUTION:** Data- Milage (Numeric).  
+Sample: 1 sample, we need to comapre the mean with population mean.  
+Purpose: Compare the data against the population claim.    
+H0: Mu milage >= 20km/liter or Mu consumption <= 50ml/km  
+H1: Mu milage < 20km/liter or Mu consumption > 50ml/km  
+**Test: Test of Mean or t-Test.  Z-Test**
+SE = s/sqrt(n) = .5/10 = .05
+z = (x - mu)/SE = (19-20)/.05 = -20, z score for critical value 5% is -1.96. Z score of of the sample mean is extremely less than critical value, therefore the H0 is rejected.
+
+- **CASE2:** School-Leavers and Working Duration: Wheather school leavers tend to stay a longer or shorter time in the company than people who have worked elsewhere first. HR collects the data of 100 ex employees, their number of years stay and joining information. They summarise the data as following mean stay time of joinee from school= 8 years, mean stay time of joinee from other company is 7.5 years. Now you can compare these two. Whether there is any relationship between how long people will work and from where they join?  
+**SOLUTION:** Data - Stay Duration (numeric)  
+Sample : 2 sample unpaired (shool leaver vs other)  
+Purpose: Compare the mean of two groups.    
+H0: Mu School Leavers = Mu Others  
+H1: Mu School Leavers <> Mu Others  
+**Test: Difference of 2 Means (independent samples). t-Test**  
+
+- **CASE3:** Defect Claim: Electronics manufacturer does not allow more than 1% fault on their components. Quality manager get data of 500 components and find 11 are faulty. Whether the company is working as per the standard set by them?  
+**SOLUTION:** Data- Faulty or Non Faulty (Nominal Data)  
+Sample: 1 sample    
+Purpose: Compare against the standard.    
+H0: Defects <= .01  
+H1: Defects > .01  
+**Test: Test of Proportion. Z-test**  
+
+- **CASE4:** Recruitment Assessment: Recuriter gives you test score of 200 people and want to know how long a person will stay in the company. You get the data of ex-employees, years they stay and their test scrore.  
+**SOLUTION:** Data- score (numeric data), lenght of stay (numeric)  
+Sample: 1 Sample  
+Purpose: Predict how a person will stay  
+**Test: Regression Analysis**  
+
+- **CASE5:** There is new sorting algorithm and data-scientist want to know whether the new algorithm is significantly faster than old algorithm. You get 100 datasets tested against these two algorithms and you have test results as dataset_id, old_algo_time, new_algo_time.  
+**SOLUTION:** Data- time taken to run (numeric data)  
+Sample: 1 sample  
+Purpose: To compare two means.  
+H0: mu_diff = 0  
+H1: mu_diff <> 0  
+**Test: Difference of two means (Paired). T-test**  
+ 
+- **CASE6:** Checking consistency of Testers: A tester pass 75 tasks out of 100, another tester passes 35 tasks out of 45. Whether these two testers are testing consistently or not?  
+**SOLUTION:** Data- tester (Tester1, Tester2), results (pass failed). Nominal data.  
+Sample: 2 samples (one for tester1 and another for tester2)
+Purpose: Compare the proportion of two tester.  
+H0: Number of Errors of Tester1 = Number of Errors of Tester2  
+H1: Number of Errors of Tester1 <> Number of Errors of Tester2  
+**Test: Difference of two proportions**
+
+- **CASE7:** Almods claimed in Chocolate: Chocolate manufacturing claims their nutty bar chocolate has 10% almonds. Quality department get a sample of 100 chocolate, weighs the chocolate and the weights of almonds in them. He summarise the data and say everage weight of almonds in chocolate is 9% of the the chocolate weight. Whether company's claim correct?  
+
+- **CASE8:** Checking work of Packing department: To promote their product, a chocolate making company decided that 20% of their chocolates should have prize coupon. Quality department collects a sample of 50 chocolates and find 8 chocolates has price coupon. Packing department is doing their work properly or not?
+
+- **CASE9:** Does coupon helps in sales: Company has 20 days sales data. 8 days sales when couplen were available, 12 days data when coupon was not available.
+
+- **CASE10:** Checking which product is better: A chocolate making company assumes if people are taking more time to eat a chocolate it means they are enjoying it more. They claim their dark cholate is liked more by the customer than milk chocolate. They collect the data of 100 people, who were offered two different chocolate at two different occassion. They summarise the mean time to eat for both the Chocolate Dark: 6 min, Chocolate Milk: 5.5min. Whether company's claim about he dark chcolate is correct?
+
+- **CASE11:** Which machine needs attention: There are two chocolate wrapping machines. There are some wrapping issues in the chocolate. Packing department collects the data from two machines. They summaries the results as: Out of 100 chocolate machine1 had 10 issues, while machine2 had 5 issues out of 40packings. Is there any significant difference between the packing quality of these two machines?
+
+- **CASE12:** Is there any significant relationship between timprature and sale?
+
+- **CASE13:**  Preference for a product: 100 Women and 80 Men were offered two chocolates and we wanted to know is there any preference of chocolate by women and men.
+
+## Can you explain statistical t-test?
+Suppose we have a hypothesis "Girls have more IQ than boys"
+H0 (Null Hypothesis) = There is no relationship between IQ and Gender. You could have told IQ of Girls = IQ of boys
+H1 (Ha) (Alternative Hyposthsis) = IQ of Girls <> IQ of boys
+
+Now if you collect IQ test data of 50 people, 30 boys and 20 girls. You plot a distribution of boy's IQ and you find mean is 100 and sample SD is 3. You plot a distribution of girl's IQ and mean IQ of girls is 104 and sample SD is 4. From this difference can you conclude that H1 is accepted?
+
+Let's set signifance level for our test as 5%, it means 5% difference between the two sample mean is not considered significant.
+
+Now we need to compare whether two sample means are statistically significant or not. For this we will conduct "Two Sample t test for Comparing Two Means"
+
+$$t = \frac{\overline{X}_1 - \overline{X}_2}{s_{\overline{X}_1 - \overline{X}_2}}$$
+
+$$s_{\overline{X}_1 - \overline{X}_2} = \sqrt{\frac{s_1^2 }{ n_1} + \frac{s_2^2 }{n_2}}$$
+
+$$s_{\overline{X}_1 - \overline{X}_2} = \sqrt(3^2/30 + 4^2/20) = sqrt(2.01) = 1.418$$
+$$t = 4 /.547 = 2.82 $$
+
+The degrees of freedom parameter is the smaller of (30 – 1) and (20 – 1), or 19. Because this is a one‐tailed test, the alpha level (0.05) is not divided by two. The next step is to look up t .05,19in the t‐table, which gives a critical value of 1.729. The computed t of 2.82 exceed the tabled value, so the null hypothesis is rejected. This test has provided statistically significant evidence that there is significant difference between the IQ of Girls and Boys.
+
+**Additional Observations**   
+From boy's sample we know, 95% of the boys will have IQ between 100 +/- 2*3 = 94 to 106.
+From girl's sample we know, 95% of the girls will have IQ between 104 +/- 2*4 = 96 to 112.
+
+[](https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-quantitative-means/two-sample-t-test-means/v/two-sample-t-test-for-difference-of-means)
+
+## Can you explain z-test?
+- One-sample z-test:
+$$SE = \frac{\sigma}{\sqrt{n}}$$
+$$z = \frac{x-\mu}{SE}$$
+σ is the population standard deviation, and μ is the population mean.
+
+- Two-sample z-test: This is used to compare the means of two independent samples. The formula for the two-sample z-test is: z = (x̄1 - x̄2) / √(s^2 / n1 + s^2 / n2)
+
+- Paired sample z-test: This is used to compare the means of two related samples, for example, before and after measurements. The formula for the paired sample z-test is: z = (d̄ - μd) / (s_d / √n)
+
+- Proportion z-test: This is used to compare the proportion of success in a sample to a known population proportion. The formula for the proportion z-test is: z = (p̂ - p) / √(p(1-p) / n)
+
+
+[Z Score Calculator](https://www.calculator.net/z-score-calculator.html)
+
 # More Concepts in Statistics
 
 ## What is concordant or discordant pairs?
@@ -571,7 +749,6 @@ For example, consider the relationship between temperature and ice cream sales. 
 
 Monotonic relationships can be measured using **nonparametric statistical techniques**, such as the **Spearman rank correlation coefficient** or the **Kendall rank correlation coefficient**. These techniques are based on the ranks of the values rather than the raw data, and they are less sensitive to deviations from a linear relationship than parametric techniques such as the Pearson correlation coefficient.
 
-----
 
 ## What is the difference between nonparametric measure vs parametric measure?
 
@@ -592,11 +769,10 @@ Long-tailed distibution is when on the ends the shape of normal distribution cur
 
 ![long-tailed-distribution](/assets/images/dspost/statistics/long-tailed-distribution.png)
 
-Consider following example.
+Consider following example.    
 - What is that range of working time when people are making 95% of mistake? when number of defects is almost zero you will get asympotic line, 5%. Depending on your data, You may get two side long tail or right side long tail. Now you can bring your number of working within the range where defects are least.
 - What salary 95% of indian IT professional are making. You find long tail on curve. This is good enough market for you. You can make your marketing strategies accordingly.
 - What is the height of 99.99% loaded luggage truck. You can construct height of subway accordingly
--
 
 ## What is an outlier? How can outliers be determined in a dataset?
 
@@ -604,7 +780,7 @@ If you sort the salary data of 1000 employees in ascending order, then salary in
 
 ![Outlier Detection](/assets/images/dspost/statistics/outliers.png)
 
-# What are the applications of outlier detection?
+## What are the applications of outlier detection?
 - Fraud detection in financial transactions
 - Intrusion detection in infrastructure management
 - Fault detection in manufacturing processes
@@ -631,15 +807,24 @@ When you select some datapoint intentionally it is selection bias. You may not h
 
 According to Central Limit Theorum       
 
-1- Population means = Mean of sample means: $$\mu_{\bar{x}}=\mu$$. Let's say our population data is about salary of Indian IT professionals, it has salaries of millions of people. We cannot get this full data, but we want to get this information. CLT can help you in getting this without doing census.
+1. Population means can be known from sample mean. x̄ = μ + z * (σ / √n)
 
-If we have a sample of 100 people then mean of this can be used to guess the population mean. But this is a small size to guess about the mean of a large population. CLT says larger the sample size closure the mean of this to population mean. If you have 49 samples and each sample contains 100 observation then you can do mean of each sample and you will get 49 mean of 49 samples. CLT says mean of this 49 means is equal to population mean. This result is true even if population is not normally distributed. And this much simple task compare to getting census mean.
+where:   
+x̄ (bar x) is the sample mean   
+μ is the population mean   
+z is the standard normal score (also known as a z-score)   
+σ is the population standard deviation   
+n is the sample size   
+
+The CLT states that as the sample size (n) increases, the sampling distribution of the mean (x̄) becomes more normal, and the sample mean becomes a more accurate estimate of the population mean (μ).
 
 ![central-limit-theorem-distribution](/assets/images/dspost/statistics/central-limit-theorem-distribution.png)
 
-2- $$SE = \frac{s}{\sqrt{n}}$$
+2. The standard deviation of the sampling distribution of the mean = SE = Sample's SD = (σ/√n).
 
-3- SD of Population = SD of Sample's SD
+3. $$z =  \frac{\bar{x}-\mu}{SE}, \qquad where \qquad SE = \frac{s}{\sqrt{n}}$$
+
+where \bar{x} is sample mean, s is sample SD
 
 ## Can you explain what is the distribution in statistics, what purpose they serve?
 There ar two kinds of variable numerical and categorical. Numerical variable like age of human, age of star, waiting time at service counter, growth of virus, distance between stars etc follows different types of continuous distributions. Discreate variable like city, color, education, pincode, plant name, building type, builder etc follow discrete distribution.
@@ -682,124 +867,6 @@ There are many kinds of distribution and each distribution has its related funct
 Each distribution has its own shape and measure to summarise the data. They are broadly of three types, measure of central tendency, measure of dispersion and shape of distribution. Following are common measures for every distribution. For example, to calculate central tendencies like mean, median of normal distribution there is some formula. In the case of exponential distribution central tendencies will not be arithmatic mean but geomtric mean.
 - Mean, Median, Mode, Range, SD, Kurtosis, Coefficient of Variation, SD, Skewness
 - **Each measure has different formula for calculation**
-
-## How to select right Statistical Test for a problem in hand.
-In the process of statistical testing, choosing a correct statistical test is a very important steps. Which test is applicable for for problem can be determined using following.
-
-1- What kind of data we have (numerical or categorical)  
-2- How many samples we have (1, 2 or many). Each sample of dozens or hundreds of observations.  
-3- How many variables we have (1 or 2). Like age, temprate, sale, number of people etc.  
-4- Whether variables are paired for each observation or not.
-  - Example of pair can be, salary and experience of the same person. Blood sugar of the same person, before fasting, then post fasting. It is 2 varialbe and 1 sample.
-  - Example of unpaired, two groups, one have gone through meditation and another have not gone through meditation. We check their BP after 15 days. It is one variable but 2 samples.  
-
-5- Purpose of test. We want to compare two sample mean/median etc, or we want to compare sample mean with population mean, or we want to check relationship between two variable
-
-**YouTube Resource for Statistical Test**  
-- [Choosing which statistical test to use - 10 min video](https://www.youtube.com/watch?v=rulIUAN0U3w)  
-- [Choosing a statistical test for analysis of data - 25 min video](https://www.youtube.com/watch?v=ZX4m6zav5To&t=1s)
-- [T test, Z test, F test, Chi-square test, ANOVA, Mann-Whitney U Test, H test - 33min video](https://www.youtube.com/watch?v=QfVx7AH8rck&t=10s)
-- [Two-sample t test for difference of means](https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-quantitative-means/two-sample-t-test-means/v/two-sample-t-test-for-difference-of-means)
-
-## Statistical Tests with Example
-- **CASE1:** Milage claim: An automobile manufacturing company claims their car's average milage is 20Km/Liter. Automobile Association collects data of 100 automobiles, calculate the mean as 19KM/Liter, SD=.5. Now they can compare this sample mean with population mean (20km/liter). Whether the automanufacture's claim is valid, at 5% significance level?  
-**SOLUTION:** Data- Milage (Numeric).  
-Sample: 1 sample, we need to comapre the mean with population mean.  
-Purpose: Compare the data against the population claim.    
-H0: Mu milage >= 20km/liter or Mu consumption <= 50ml/km  
-H1: Mu milage < 20km/liter or Mu consumption > 50ml/km  
-**Test: Test of Mean or t-Test or z-Test**
-z = (x - mu)/sigma = (19-20)/.5 = -2 => pvalue= .16 or 16%. pvalue>significance level so H1 is failed. H0 is fail to reject or Claim of company cannot be rejected.
-
-- **CASE2:** School-Levers and Working Duration: Wheather school leavers tend to stay a longer or shorter time in the compnay than people who have worked elsewhere first. HR collects the data of 100 ex employees, their number of years stay and joining information. They summarise the data as following mean stay time of joinee from school= 8 years, mean stay time of joinee from other company is 7.5 years. Now you can compare these two. Whethre there is any relationship between how long people will work and from where they join?  
-**SOLUTION:** Data - Stay Duration (numeric)  
-Sample : 2 sample (shool leaver vs other)  
-Purpose: Compare the mean of two groups.    
-H0: Mu School Leavers = Mu Others  
-H1: Mu School Leavers <> Mu Others  
-**Test: Difference of 2 Means (independent samples)**  
-
-- **CASE3:** Defect Claim: Electronics manufacturer does not allow more than 1% fault on their components. Quality manager get data of 500 components and find 11 are faulty. Whether the company is working as per the standard set by them?  
-**SOLUTION:** Data- Faulty or Non Faulty (Nominal Data)  
-Sample: 1 sample    
-Purpose: Compare against the standard.    
-H0: Defects <= .01  
-H1: Defects > .01  
-**Test: Test of Proportion**  
-
-- **CASE4:** Recruitment Assessment: Recuriter gives you test score of 200 people and want to know how long a person will stay in the company. You get the data of ex-employees, years they stay and their test scrore.  
-**SOLUTION:** Data- score (numeric data), lenght of stay (numeric)  
-Sample: 1 Sample  
-Purpose: Predict how a person will stay  
-**Test: Regression Analysis**  
-
-- **CASE5:** There is new sorting algorithm and data-scientist want to know whether the new algorithm is significantly faster than old algorithm. You get 100 datasets tested against these two algorithms and you have test results as dataset_id, old_algo_time, new_algo_time.  
-**SOLUTION:** Data- time taken to run (numeric data)  
-Sample: 1 sample  
-Purpose: To compare two means.  
-H0: mu_diff = 0  
-H1: mu_diff <> 0  
-**Test: Difference of two means (Paired)**  
- 
-- **CASE6:** Checking consistency of Testers: A tester pass 75 tasks out of 100, another tester passes 35 tasks out of 45. Whether these two testers are testing consistently or not?  
-**SOLUTION:** Data- tester (Tester1, Tester2), results (pass failed). Nominal data.  
-Sample: 2 samples (one for tester1 and another for tester2)
-Purpose: Compare the proportion of two tester.  
-H0: Number of Errors of Tester1 = Number of Errors of Tester2  
-H1: Number of Errors of Tester1 <> Number of Errors of Tester2  
-**Test: Difference of two proportions**
-
-- **CASE7:** Almods claimed in Chocolate: Chocolate manufacturing claims their nutty bar chocolate has 10% almonds. Quality department get a sample of 100 chocolate, weighs the chocolate and the weights of almonds in them. He summarise the data and say everage weight of almonds in chocolate is 9% of the the chocolate weight. Whether company's claim correct?  
-
-- **CASE8:** Checking work of Packing department: To promote their product, a chocolate making company decided that 20% of their chocolates should have prize coupon. Quality department collects a sample of 50 chocolates and find 8 chocolates has price coupon. Packing department is doing their work properly or not?
-
-- **CASE9:** Does coupon helps in sales: Company has 20 days sales data. 8 days sales when couplen were available, 12 days data when coupon was not available.
-
-- **CASE10:** Checking which product is better: A chocolate making company assumes if people are taking more time to eat a chocolate it means they are enjoying it more. They claim their dark cholate is liked more by the customer than milk chocolate. They collect the data of 100 people, who were offered two different chocolate at two different occassion. They summarise the mean time to eat for both the Chocolate Dark: 6 min, Chocolate Milk: 5.5min. Whether company's claim about he dark chcolate is correct?
-
-- **CASE11:** Which machine needs attention: There are two chocolate wrapping machines. There are some wrapping issues in the chocolate. Packing department collects the data from two machines. They summaries the results as: Out of 100 chocolate machine1 had 10 issues, while machine2 had 5 issues out of 40packings. Is there any significant difference between the packing quality of these two machines?
-
-- **CASE12:** Is there any significant relationship between timprature and sale?
-
-- **CASE13:**  Preference for a product: 100 Women and 80 Men were offered two chocolates and we wanted to know is there any preference of chocolate by women and men.
-
-## Can you expalin hypothsis testing with example?
-Suppose we have a hypothesis "Girls have more IQ than boys"
-H0 (Null Hypothesis) = There is no relationship between IQ and Gender. You could have told IQ of Girls = IQ of boys
-H1 (Ha) (Alternative Hyposthsis) = IQ of Girls <> IQ of boys
-
-Now if you collect IQ test data of 50 people, 30 boys and 20 girls. You plot a distribution of boy's IQ and you find mean is 100 and sample SD is 3. You plot a distribution of girl's IQ and mean IQ of girls is 104 and sample SD is 4. From this difference can you conclude that H1 is accepted?
-
-Let's set signifance level for our test as 5%, it means 5% difference between the two sample mean is not considered significant.
-
-Now we need to compare whether two sample means are statistically significant or not. For this we will conduct "Two Sample t test for Comparing Two Means"
-
-$$t = \frac{\overline{X}_1 - \overline{X}_2}{s_{\overline{X}_1 - \overline{X}_2}}$$
-
-$$s_{\overline{X}_1 - \overline{X}_2} = \sqrt{\frac{s_1^2 }{ n_1} + \frac{s_2^2 }{n_2}}$$
-
-$$s_{\overline{X}_1 - \overline{X}_2} = \sqrt(3^2/30 + 4^2/20) = sqrt(2.01) = 1.418$$
-$$t = 4 /.547 = 2.82 $$
-
-The degrees of freedom parameter is the smaller of (30 – 1) and (20 – 1), or 19. Because this is a one‐tailed test, the alpha level (0.05) is not divided by two. The next step is to look up t .05,19in the t‐table, which gives a critical value of 1.729. The computed t of 2.82 exceed the tabled value, so the null hypothesis is rejected. This test has provided statistically significant evidence that there is significant difference between the IQ of Girls and Boys.
-
-**Additional Observations**
-From boy's sample we know, 95% of the boys will have IQ between 100 +/- 2*3 = 94 to 106.
-From girl's sample we know, 95% of the girls will have IQ between 104 +/- 2*4 = 96 to 112.
-
-[](https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-quantitative-means/two-sample-t-test-means/v/two-sample-t-test-for-difference-of-means)
-
-## What is z-test.
-- For a population observation from population mean.
-$$z = \frac{x-\mu}{\sigma}$$
-
-- For a sample mean from mean of sample mean.
-$$z = \frac{\bar{x}-\mu_{\bar{x}}}{\frac{\sigma}{\sqrt{n}}}$$
-
-- For a sample mean from population mean.
-$$z = \frac{\bar{x}-\mu}{\sigma_{\bar{x}}}$$
-
-[Z Score Calculator](https://www.calculator.net/z-score-calculator.html)
 
 ## Some Additional Notes for Data Scientist.
 A data scientist is dealing with different stream of subjects like statistics, database, software engieering, geometry, vector and metrics, calculus at the same time. There are certain terms which are referred differently by different subjects. To avoid the confusion I am putting them below.  
