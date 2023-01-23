@@ -26,7 +26,7 @@ toc_sticky: true
 
 > The purpose of this blog is not to give you clearcut definitions of important concepts of statistics but help you visualising the ideas in your mind. So that even without the definitions you understand what does a particular idea means.
 
-> This blog is written keeping learns from software engineering background in mind. They have lot of confusion around the naming convention used in statistics like event, experiments, variable, test, sample, significance, confidence level, theoretical probality, statistical measure and their calculation, etc.
+> This blog is written keeping learners from software engineering background in mind. They have lot of confusion around the naming convention used in statistics like event, experiments, variable, test, sample, significance, confidence level, theoretical probality, statistical measure and their calculation, etc.
 
 > To give the example, in most of the places, I will use the “job_applicant” dataset. This dataset has data about the people who applied for a job in the company and applicants were either selected or rejected by the company. So the information in this dataset is applicant's name, date of birth, date of application, job applied, last salary, education, living_city, selected, etc.
 
@@ -360,7 +360,7 @@ Sigma Level | Defects/Mn Opportunities or DPMO | Yield | Defects in % | Yield % 
 
 ## What is the meaning of Standard Deviation (SD) of the sampling distribution of the mean?
 
-## Sample Standard Error OR Standard Error of Sample Mean.
+## What is Sample Standard Error OR Standard Error of Sample Mean?   
 
 The SD of the sampling distribution of the mean, also known as the **"standard error (SE) of the sample mean"**. It is a measure of the variability of the sample mean. It is used to estimate the precision of the sample mean as an estimate of the population mean.
 
@@ -382,14 +382,25 @@ If you don't know this $$X-\bar{X}$$ but you know s then you can calculate it li
 
 If you know the variance but not SD then you can calculate as following $$SE = \frac{ {\sqrt{variance}}}{\sqrt{n}} = \sqrt{\frac{variance}{n}}$$ 
 
-## Population Standard Error OR Standard Error of Population Mean.
+## What is Population Standard Error OR Standard Error of Population Mean?   
+
 In statistics, the standard error of the population mean, denoted as σM or σ/√N, is a measure of the variability of the population mean. It is the standard deviation of the sampling distribution of the population mean. It is used to estimate the precision of the population mean, but it is not commonly used because often the population standard deviation and population size are not known.
 
 The standard error of the population mean is based on the assumption that the population is normally distributed. If the population is not normally distributed, the standard error of the population mean cannot be calculated and other methods must be used to estimate the precision of the population mean.
 
 
 ## How to use z score for probability calculation?
+
+z-score (Standard Deviations)	| p-value (Probability)	| Confidence level
+---|---|---
+< -1.65 or > +1.65 | < 0.10 | 90%
+< -1.96 or > +1.96 | < 0.05 | 95%
+< -2.58 or > +2.58 | < 0.01 | 99%
+
+![Distribution-Significance](/assets/images/dspost/statistics/Distribution-Significance.png)
+
 If the mean salary in our dataset is 75,000 and SD is 5000 then what is the probability that the salary of a randomly chosen employee is >90,000
+
 
 **Method1**
 You can get z score of this 90,000  
@@ -455,6 +466,20 @@ A ratio between "chances of getting success" and number of outcome available.
 
 A die has 6 faces, if success = coming 4 success on top, then the chances of getting 4, the success=1. Total number of  outcome (1,2,3,4,5,6)=6. Probability of getting success 1/6
 
+## What is logodd?
+It is also called logit. It is used more in logistic regression. It is log of the odds.
+
+An odd is a ratio between "chances in favour" and "chances against".
+When you throw a fair coin, total chances are 2 (head, tail). If success means head come then chances of coming head is 1, chances of tail come is also 1. In this case odd of head coming or sucess is 1.
+
+$$logodd(event=success) = log( \frac{p}{(1-p)})$$
+
+$$p(event=sucess) = 1/2 = 0.5$$
+
+$$logodd(event=success) = log( \frac{p}{(1-p)}) = log(\frac{.5}{1-.5}) = log(1) = 0$$
+
+It is important to note that the logodd of getting a head is zero only when the coin is fair, if coin is not fair, the logodd will be different.
+
 ## What is the difference between theoretical probability and experimental probability?
 
 Success probability of all the outcome may not be same. This you can know from historical data. For example, if you go to your friend's house without calling him what is the probability you will find him at home? ½ or 50%. This is theoretical probability. But from your past experience you know out of 50 times he was available only 5 times. So success probability (experimental probability) you friend is at home is 5/50 = 1/10 = .1 = 10%.
@@ -484,6 +509,9 @@ This all is done by exploring another concept called probability density.
 
 Let's assume our dataset has 10,000 applicants and their age is between 18 to 60 years. You can plot a histogram and this histogram represents the distribution of age of the applicants. The entire area of this histogram is referred to as 1, in our case 10,000 people's age is represented by this area and it is 1. This is the total density of this curve. The X-axis of this curve will have age and y axis will have a number of people.
 
+![Distributions](/assets/images/dspost/statistics/Distributions.jpg)
+**Shapes of Various Distributions**
+
 ![Normal Distribution](/assets/images/dspost/statistics/Normal-Distribution.jpg)
 
 
@@ -492,31 +520,6 @@ Let's assume our dataset has 10,000 applicants and their age is between 18 to 60
 Suppose in our dataset, if the number of people in each age group of 10 years like 18-28, 28-38, 38-48, etc we have an equal number of people then it is a uniform distribution..
 
 ![Uniform Distribution](/assets/images/dspost/statistics/Uniform-Distribution.jpg)
-
-## Can you give example of exponential distribution
-
-**Where time is on X axis**
-
-- Time between arrivals of customers to a store, 
-- Time between arrivals of cars at an intersection, 
-- Time taken by computer system to respond to user requests. 
-- Over a period of time the amount of money spent on goods and services, 
-- Over a period of time number of mutations in a gene sequence, 
-- Number of web pages visited over a given period. 
-- Over a period of time number of deaths due to a particular disease. 
-- Over a period of time radiation levels of radioactive materials, 
-- Over a period of time the length of time it takes for a user to complete a task
-- The amount of radioactive material decayed over a given period
-
-**Where time is NOT on X axis**
-
-- Size of earthquakes, the length of coastline 
-- Size of earthquakes, and number of casualties
-- Number of time compression and the size of a computer file after compression
-- Distance and the intensity of light from a star.
-
-![exponential-distribution](/assets/images/dspost/statistics/exponential-distribution.webp)
-**Exponential Distribution**
 
 ## What is a normal distribution? What is the use of this?
 
@@ -572,6 +575,32 @@ You can get the P value, the probability of success from 500 days of data. Let's
 $$pr(suceess=10 \,times)= 100C_{10}\frac{1}{.05}^{10}(1-.95)^{100-10} =  .0.0167$$
 
 ![Dice Histogram](/assets/images/dspost/statistics/diceHistogram.jpg)
+
+## Can you give example of exponential distribution
+
+**Where time is on X axis**
+
+- Time between arrivals of customers to a store, 
+- Time between arrivals of cars at an intersection, 
+- Time taken by computer system to respond to user requests. 
+- Over a period of time the amount of money spent on goods and services, 
+- Over a period of time number of mutations in a gene sequence, 
+- Number of web pages visited over a given period. 
+- Over a period of time number of deaths due to a particular disease. 
+- Over a period of time radiation levels of radioactive materials, 
+- Over a period of time the length of time it takes for a user to complete a task
+- The amount of radioactive material decayed over a given period
+
+**Where time is NOT on X axis**
+
+- Size of earthquakes, the length of coastline 
+- Size of earthquakes, and number of casualties
+- Number of time compression and the size of a computer file after compression
+- Distance and the intensity of light from a star.
+
+![exponential-distribution](/assets/images/dspost/statistics/exponential-distribution.webp)
+**Exponential Distribution**
+
 
 # About Hypothesis Testing
 
@@ -722,8 +751,9 @@ From girl's sample we know, 95% of the girls will have IQ between 104 +/- 2*4 = 
 ## Can you explain z-test?
 - One-sample z-test:
 $$SE = \frac{\sigma}{\sqrt{n}}$$
-$$z = \frac{x-\mu}{SE}$$
-σ is the population standard deviation, and μ is the population mean.
+$$z = \frac{\bar{x}-\mu}{SE}$$
+
+$$\bar{x}$$ is sample mean, σ is the population standard deviation, and μ is the population mean.
 
 - Two-sample z-test: This is used to compare the means of two independent samples. The formula for the two-sample z-test is: z = (x̄1 - x̄2) / √(s^2 / n1 + s^2 / n2)
 
@@ -762,7 +792,13 @@ One of the main differences between parametric and nonparametric measures is the
 It's important to choose the appropriate statistical technique based on the nature of the data and the research question you are trying to answer. In general, parametric measures are more powerful when the assumptions they make about the data are met, but nonparametric measures may be more appropriate when these assumptions are not met.
 
 ## When Median is better than Mean measure?
-If you have 2 people in your dataset whose salary is 4 cr and 5 cr, then mean will shift right side. If you have people whose salary is 4K or 5K mean will shift left. In this situation if you central tendency of data is correctly represented then use median.
+If you have 2 people in your dataset whose salary is 4 cr and 5 cr, then mean will shift right side. If you have people whose salary is 4K or 5K mean will shift left. In this situation if you want central tendency of data is correctly represented then use median.
+
+## What is percentile?
+Let's assume our job_applicant dataset has 500 observations. If you order the salary column in ascending order. 80 percentile means 80 percent of 500, i.e. 400th record. Whatever is the salary of this 400th person that is 80 percentile. Let's say it is 75K. It means 20% people have more salary than 75K and 80% people have salary less than 75K.
+
+If you want to know 99 percentile then 500*99/100 = 495th record. Let's say 495th person's salary is 140K it means 1% of the people have more than 140K salary.
+
 
 ## What are applications of long-tailed distribution.
 Long-tailed distibution is when on the ends the shape of normal distribution curve becomes almost parallel to x-axis (asymptotic). It can help you outlier detection.
@@ -874,5 +910,8 @@ A data scientist is dealing with different stream of subjects like statistics, d
 - Records of database = tuple of database = observation of statistics = vector of geomery.
 - Slope of Geomery = Gradient of calculus = Gradient in Deep Learning and Machine Learning. The value of slope or grandient can be between $$-\infty \,\, to \,\,+\infty$$
 
+## Resources
+- [HypothesisTesting-PPT](https://drive.google.com/file/d/1dX-BbLPjN-pKVOmidrkT_Imh9mmMzeX_/view?usp=share_link)
+- [What is a z-score? What is a p-value?](https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/what-is-a-z-score-what-is-a-p-value.htm#:~:text=The%20critical%20z%2Dscore%20values,1.96%20and%20%2B1.96%20standard%20deviations.)
 # Conclusion
 Statistics is big and complex subject and this is foundational stone of any data science work, primarily for data analysis and model building. You may not be expert in this subjects and it can take significant amount of time to get mastery over this subject. But with the help of above questions a company can evaluate whether you are comortable enough in the subject to take challenges in data science project. If you would like to add your favourite questions then you can email me at hari.prasad@vedavit-ps.com
