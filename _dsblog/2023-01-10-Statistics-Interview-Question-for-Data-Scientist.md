@@ -839,22 +839,23 @@ According to Central Limit Theorem
 
 1. Population means can be known from sample mean. x̄ = μ + z * (σ / √n)
 
-where:   
-x̄ (bar x) is the sample mean   
-μ is the population mean   
-z is the standard normal score (also known as a z-score)   
-σ is the population standard deviation   
-n is the sample size   
+  where:   
+  x̄ (bar x) is the sample mean   
+  μ is the population mean   
+  z is the standard normal score (also known as a z-score)   
+  σ is the population standard deviation   
+  n is the sample size   
 
-The CLT states that as the sample size (n) increases, the sampling distribution of the mean (x̄) becomes more normal, and the sample mean becomes a more accurate estimate of the population mean (μ).
-
-![central-limit-theorem-distribution](/assets/images/dspost/statistics/central-limit-theorem-distribution.png)
+  The CLT states that as the sample size (n) increases, the sampling distribution of the mean (x̄) becomes more normal, and the sample mean becomes a more accurate estimate of the population mean (μ).
 
 2. The standard deviation of the sampling distribution of the mean = SE = Sample's SD = (σ/√n).
 
 3. $$z =  \frac{\bar{x}-\mu}{SE}, \qquad where \qquad SE = \frac{s}{\sqrt{n}}$$
+  where \bar{x} is sample mean, s is sample SD
 
-where \bar{x} is sample mean, s is sample SD
+
+![central-limit-theorem-distribution](/assets/images/dspost/statistics/central-limit-theorem-distribution.png)   
+
 
 ## Can you explain what is the distribution in statistics, what purpose they serve?
 There are two kinds of variables: numerical and categorical. Numerical variables like age of human, age of star, waiting time at service counter, growth of virus, distance between stars etc follows different types of continuous distributions. Discrete variables like city, color, education, pincode, plant name, building type, builder etc follow discrete distribution.
