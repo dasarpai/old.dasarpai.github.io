@@ -73,4 +73,12 @@ Data Lakes allow you to store relational data like **operational databases / OLT
 
 The main challenge with a data lake architecture is that raw data is stored with no oversight of the contents. For a data lake to make data usable, it needs to have defined mechanisms to catalog, and secure data. Without these elements, data cannot be found, or trusted resulting in a **data swamp.** Meeting the needs of wider audiences require data lakes to have governance, semantic consistency, and access controls.
 
+# What is Data Mart
+A Data Mart is a filtered (and sometimes aggregated) subsection of a Data Warehouse to make it easier for a particular group to query data. It provides a smaller schema with only the relevant tables for the group. For example, you would like to build data mart for sales, accounts, marketing, security, infrastrcture data of your organization.
 
+## Why you do you build data mart?
+- Relevance to use cases. Due to performance and relevance reasons you want limit the schema to the limited tables.
+- Accessible to a variety of people and teams. Data marts allow you to expose more people to data without overwhelming them with lots of data.
+- Customized architecture for different use cases. Aggregations, metric calculations, around the same data may be different by different consumer of the data. So let them do this in their respective mart.
+- Maintainable with less time and effort. Having the data monitored by team leads makes it easier to identify data issues.
+- Access Management. Easily protect sensitive data by limiting what teams can see in their data marts.
