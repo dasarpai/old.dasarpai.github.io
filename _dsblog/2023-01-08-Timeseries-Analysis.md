@@ -250,4 +250,66 @@ There are several smoothing techniques that can be used for time series data. So
 
 ----
 
+## Important Libraries for Timeseries Model Building
 
+### Common Libraries supporting Timeseries model or visulzation or task
+1. Numpy
+1. Pandas
+1. Matplotlib
+1. Seaborn
+1. Scikit-learn
+1. TensorFlow
+1. Keras
+1. PyTorch
+1. XGBoost
+1. LightGBM
+1. CatBoost
+
+### Libraries supporting Timeseries model
+1. sktime
+1. Prophet
+1. Statsmodels
+1. Fbprophet
+1. GluonTS
+1. TimeSeriesNet
+1. LSTNet
+1. DeepST
+1. tsfresh
+1. pmdarima
+1. minisom
+
+### Libraries Supporting Timeseries Other Work
+1. TimeSeriesSplit
+1. TimeSeriesGenerator
+1. TimeSeriesForecast
+1. TimeSeriesAnalysis
+1. TimeSeriesClustering
+1. TimeSeriesClassification
+1. TimeSeriesRegression
+1. TimeSeriesDeepLearning
+1. TimeSeriesNLP
+
+## What are different types of timeseries data?
+
+There are several types of time series data, including:
+
+- Univariate time series: This type of data consists of a single variable measured over time. Examples include stock prices, temperature, and rainfall.
+- Multivariate time series: This type of data consists of multiple variables measured over time. Examples include weather data with multiple variables such as temperature, humidity, and wind speed.
+- Panel data: Also known as **cross-sectional** time series data, this type of data consists of multiple observations of multiple variables over time. Examples include data on individuals, households, or firms, collected at different time points.
+- Hierarchical time series: This type of data consists of multiple levels of observations, such as data collected at different geographic locations or different subpopulations.
+- Spatial-temporal data: This type of data consists of observations of variables at different locations and times. Examples include data on air pollution or crime rates.
+- Time series with exogenous variables: This type of data includes additional variables that are not measured over time, but may influence the time series.
+- Irregular time series: This type of data has observations that are not evenly spaced in time, such as data collected at irregular intervals or with missing observations.
+- Time series with trend: This type of data has a long term upward or downward trend, which can make it difficult to predict future values.
+- Cyclical time series: This type of data has repeating patterns, such as seasonal data with a regular pattern of ups and downs.
+- Stochastic time series: This type of data has random fluctuations that are not explained by any underlying patterns or trends.
+- Time series with seasonality: This type of data has regular patterns that repeat over a specific period of time, such as daily, weekly, or yearly. For example, retail sales tend to be higher during holidays, or energy consumption tends to be higher during weekdays than weekends.
+- Time series with multiple seasonality: This type of data has more than one seasonality, such as daily and weekly patterns.
+- Non-stationary time series: This type of data has a mean or variance that changes over time, making it difficult to predict future values.
+- Stationary time series: This type of data has a constant mean and variance over time, and is characterized by the presence of random fluctuations around the mean.
+- Cointegrated time series: This type of data has two or more time series that have a long-term relationship, such as stock prices and interest rates.
+- Causal time series: This type of data is affected by one or more external variables, known as explanatory or predictor variables, that can be used to predict future values.
+- Non-causal time series: This type of data is not affected by any external variables, and can only be predicted using past values of the same time series.
+- Event-based time series: This type of data is affected by specific events, such as product launches, natural disasters, or political changes.
+
+These time series types can also be combined in certain scenarios. They are not mutually exclusive.

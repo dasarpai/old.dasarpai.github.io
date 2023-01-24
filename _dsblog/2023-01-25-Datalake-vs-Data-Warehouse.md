@@ -24,6 +24,7 @@ share: true
 A data warehouse is a system used for reporting and data analysis, and is considered a "single version of the truth." It typically includes a subset of an organization's data that is specifically structured for querying and reporting. A data lake, on the other hand, is a more flexible and general-purpose system for storing raw, unstructured data. Data in a lake can be stored in its original format and can be used for a variety of purposes, including reporting and analysis. Data warehouse is more structured while data lake is unstructured. Data warehouse is optimized for reporting and analytics while data lake is optimized for storing and processing large amount of raw data.
 
 ## Datalake vs Data Warehouse
+
 Characteristics | Data Warehouse | Data Lake
 --- | --- | ---
 What kind of Data? | Relational from transactional systems, operational databases, and line of business applications | Non-relational and relational from IoT devices, web sites, mobile apps, social media, and corporate applications
@@ -34,6 +35,7 @@ Who are the Users? | Business analysts | Data scientists, Data developers, and B
 Usage | Analytics, Batch reporting, BI and visualizations | Machine Learning, Predictive analytics, data discovery and profiling
 
 ## Software Tools for Data Lake
+
 There are several software options available for setting up and managing a data lake. Some of the most popular include:
 
 - Apache Hadoop: An open-source framework that allows for distributed processing of large data sets. It includes the Hadoop Distributed File System (HDFS) for storing data and the MapReduce programming model for processing data.
