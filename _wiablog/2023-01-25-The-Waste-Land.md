@@ -3,7 +3,7 @@ id: 5219
 mathjax: true                            
 title:  The Waste Land                    
 date: "2023-01-19T08:33:00+05:30"                            
-permalink: /wiaposts/The-Art-Of-Missing-Life                       
+permalink: /wiaposts/The-Waste-Land                       
 Tags: [My Favorite Poems, TS Eliot]                     
                             
 categories:                            
@@ -67,15 +67,15 @@ Your shadow at morning striding behind you
 Or your shadow at evening rising to meet you;    
 I will show you fear in a handful of dust.    
     
-           Frisch weht der Wind    
-           Der Heimat zu,                
-           Mein Irisch Kind,    
-           Wo weilest du?    
+Frisch weht der Wind    
+Der Heimat zu,                
+Mein Irisch Kind,    
+Wo weilest du?    
 
 (The wind blows fresh
-            to the homeland,
-            My Irish, child,
-            where are you staying)
+to the homeland,
+My Irish, child,
+where are you staying)
 			
 "You gave me hyacinths first a year ago;    
 "They called me the hyacinth girl."    
@@ -121,9 +121,6 @@ There I saw one I knew, and stopped him, crying: "Stetson!
 "Oh keep the Dog far hence, that’s friend to men,    
 "Or with his nails he’ll dig it up again!    
 "You! hypocrite lecteur!—mon semblable,—mon frère!"    
-    
-    
-    
     
 ## II. A Game of Chess    
     
@@ -231,7 +228,7 @@ Good night, ladies, good night, sweet ladies, good night, good night.
         
 ## III. The Fire Sermon    
     
-  The river’s tent is broken: the last fingers of leaf    
+The river’s tent is broken: the last fingers of leaf    
 Clutch and sink into the wet bank. The wind    
 Crosses the brown land, unheard. The nymphs are departed.    
 Sweet Thames, run softly, till I end my song.    
@@ -342,8 +339,8 @@ The barges wash
 Drifting logs    
 Down Greenwich reach    
 Past the Isle of Dogs.    
-				 Weialala leia    
-				 Wallala leialala    
+	 Weialala leia    
+	 Wallala leialala    
 
 Elizabeth and Leicester    
 Beating oars    
@@ -356,8 +353,8 @@ Southwest wind
 Carried down stream    
 The peal of bells    
 White towers    
-				Weialala leia    
-				Wallala leialala    
+	Weialala leia    
+	Wallala leialala    
     
 'Trams and dusty trees.    
 Highbury bore me. Richmond and Kew    
@@ -375,7 +372,7 @@ Nothing with nothing.
 The broken fingernails of dirty hands.    
 My people humble people who expect    
 Nothing.'    
-    la la    
+la la    
     
 To Carthage then I came    
     
@@ -428,19 +425,19 @@ But red sullen faces sneer and snarl
 From doors of mudcracked houses    
 
 If there were water    
-   And no rock    
-   If there were rock    
-   And also water    
-   And water    
-   A spring    
-   A pool among the rock    
-   If there were the sound of water only    
-   Not the cicada    
-   And dry grass singing    
-   But sound of water over a rock    
-   Where the hermit-thrush sings in the pine trees    
-   Drip drop drip drop drop drop drop    
-   But there is no water    
+And no rock    
+If there were rock    
+And also water    
+And water    
+A spring    
+A pool among the rock    
+If there were the sound of water only    
+Not the cicada    
+And dry grass singing    
+But sound of water over a rock    
+Where the hermit-thrush sings in the pine trees    
+Drip drop drip drop drop drop drop    
+But there is no water    
     
 Who is the third who walks always beside you?    
 When I count, there are only you and I together    
