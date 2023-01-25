@@ -1,7 +1,7 @@
 ---   
 id: 6039   
 mathjax: true   
-title: Datalake vs Data Warehouse   
+title: Data Lake vs Data Warehouse vs Data Mart  
 date: "2023-01-25T08:33:00+05:30"   
 permalink: /dsblog/Datalake-vs-Data-Warehouse   
 tags: [Database]   

@@ -24,14 +24,17 @@ mathjax: "true"
 Time series data is a series of data points collected over time. Some characteristics of time series data include:
 
 - Time dependence: Time series data is typically collected at regular time intervals, and the values of the time series are often dependent on the time at which they were collected.
+- Equal duration gap between samples/ records
+- No missing record in between
 - Trend: Many time series exhibit a long-term trend, either upward or downward. This trend may be influenced by a variety of factors such as economic conditions, population growth, or technological changes.
 - Seasonality: Many time series exhibit regular fluctuations due to seasonal factors such as weather, holidays, or other events. For example, retail sales may be higher in the months leading up to Christmas due to holiday shopping.
+- Cyclicity: Time series may exhibit cyclical pattern. Like sales is highest in month start, body temprature is high at 6am, traffic is least on weekends etc.
 - Noise: Time series data may also be affected by random noise or error, which can make it difficult to accurately forecast future values.
 - Autocorrelation: Time series data may exhibit autocorrelation, which is the phenomenon of a value at a particular time being correlated with values at nearby times. This can make it challenging to model the time series, as the value at a given time may depend on the values at nearby times.
 
 ----
 
-## Some time series data 
+## Example of time series data 
 
 Date	| Sales (y)
 --- | ---
@@ -46,12 +49,20 @@ Date	| Sales (y)
 2020-09-01	| 1300
 2020-10-01	| 1500
 
-----
+This first column can be date or date or datetime. Interval between two rows must be equal. The unit of date or time or datetime may be milliosecond, or second, or minute, or hour, or day, week, month, quarter, year or dacade. This should be continuous without any gap.
+
+Second column can be any measurment like sales, temprature, purchase, railfall, production, infections, number of infections, etc. 
+
+## What is the difference between noise and stationarity?
+
+Noise and stationarity are two different concepts in time series analysis.
+
+Noise refers to random fluctuations in a time series data that **do not follow a specific pattern**. Noise can be caused by various factors such as measurement errors, random variations in the data, or external factors that are not related to the underlying process being measured. Noise can make it **difficult to identify patterns and trends in the data**, and can also cause problems when trying to make predictions based on the data.
+
+Stationarity, on the other hand, refers to the property of a time series data where the **statistical properties (such as mean and variance) do not change over time**. A stationary time series is one that has a constant mean and variance over time, and is **characterized by the presence of random fluctuations around the mean**. Stationary time series are **easier to model and predict** because the statistical properties of the data do not change over time.
 
 ## What do you mean by  statistical properties
-Various statistical properties include the mean, median, mode, standard deviation, variance, skewness, kurtosis, correlation coefficient, coefficient of determination, and regression analysis. These properties are used to describe, analyze, and interpret quantitative data. They can also be used to make predictions and draw conclusions about data.
-
-----
+Various statistical properties of data include the mean, median, mode, standard deviation, variance, skewness, kurtosis, correlation coefficient, coefficient of determination, and regression analysis. These properties are used to describe, analyze, and interpret quantitative data. They can also be used to make predictions and draw conclusions about data.
 
 ## What are the assumptions of a stationary time series?
 A stationary time series is a time series that has constant statistical properties over time. In other words, the mean, variance, and autocovariance of the time series do not depend on the time index.
@@ -59,9 +70,9 @@ A stationary time series is a time series that has constant statistical properti
 There are several assumptions that are typically made about stationary time series:
 
 - The mean of the time series is constant over time.
-- The variance of the time series is constant over time.
+- The variance of the time series is constant over time. (Don't confuse this is zero variance)
 - The autocovariance of the time series depends only on the time lag between observations, and not on the time at which the observations are made.
-- The time series is "weakly stationary," meaning that the statistical properties of the time series are unchanged under time shifts.
+- A time series is "weakly stationary," meaning that the statistical properties of the time series are unchanged under time shifts.
 
 It is important to check for stationarity before performing certain types of time series analysis, as many time series models and techniques are based on the assumption of stationarity.
 
@@ -82,17 +93,9 @@ It is important to check for stationarity before performing certain types of tim
 ## What is the difference between variance, covariance and autocovariance?
 Variance, covariance, and autocovariance are all measures of the dispersion of a set of data. However, they are used to measure different types of dispersion.
 
-Here is a brief summary of the differences between variance, covariance, and autocovariance:
-
-Variance: Variance is a measure of the dispersion of a single set of data. It is calculated as the sum of the squared differences between each data point and the mean of the data, divided by the number of data points.
-
-Covariance: Covariance is a measure of the dispersion of two sets of data. It is calculated as the sum of the products of the differences between each data point in one set and the mean of that set, and the differences between the corresponding data points in the other set and the mean of that set, divided by the number of data points. Covariance can be used to determine the relationship between two sets of data.
-
-Autocovariance: Autocovariance is a measure of the dispersion of a single time series at different time lags. It is calculated as the covariance between observations at time $t$ and observations at time $t+k$, where $k$ is the time lag between the observations. Autocovariance can be used to determine the relationship between observations in a time series at different points in time.
-
-----
-
-
+- Variance: Variance is a measure of the dispersion of a single set of data. It is calculated as the sum of the squared differences between each data point and the mean of the data, divided by the number of data points. For example variance of age data.
+- Covariance: Covariance is a measure of the dispersion of two sets of data. It is calculated as the sum of the products of the differences between each data point in one set and the mean of that set, and the differences between the corresponding data points in the other set and the mean of that set, divided by the number of data points. Covariance can be used to determine the relationship between two sets of data. For example, covariance between age and experience.
+- Autocovariance: Autocovariance is a measure of the dispersion of a single time series at different time lags. It is calculated as the covariance between observations at time $t$ and observations at time $t+k$, where $k$ is the time lag between the observations. Autocovariance can be used to determine the relationship between observations in a time series at different points in time. For example, autocovarince of sales date at monthly interval.
 
 ## What is Additive Model in time series?
 In a time series, an additive model is one where the overall effect of the various factors (such as trend, seasonality, and noise) is simply the sum of their individual effects.
@@ -112,8 +115,6 @@ Examples:
 - Hourly traffic on a specific stretch of road
 - Monthly unemployment rate in a country
 
-----
-
 ## What is multiplicative Model in time series?
 In a time series, a multiplicative model is one where the overall effect of the various factors (such as trend, seasonality, and noise) is the product of their individual effects.
 
@@ -132,8 +133,6 @@ Examples
 - Virus growth
 - Weekly sales of a product with a limited lifespan (such as a food product with a short shelf life)
 
-----
-
 ## What are the test of Stationarity 
 A stationary time series is one whose statistical properties (such as the mean, variance, and autocorrelation) are constant over time. Stationarity is an important assumption for many time series analysis techniques, as it implies that the statistical properties of the time series do not change over time. This makes it easier to model the time series and make forecasts about future values.
 
@@ -146,13 +145,11 @@ There are several tests that can be used to determine whether a time series is s
 
 It's worth noting that these tests are statistical in nature, and they can only provide a certain level of confidence in whether a time series is stationary or not. In some cases, further analysis may be needed to determine whether a time series is truly stationary.
 
-
-
 ## How regression is different from correlation?
 In regression we predict a number (dependent variable) with the help of predictor (independent variables)
 $$ y = \beta_0 + \beta_1*x$$
 
-In coorelation we check degeree and magnitude of relationship between two variables. It's value can be between -1 to +1. 0 Means there is no relationship. There are several statistical tests that can be used to measure the correlation between two variables. Some common tests include:
+In correlation we check degeree and magnitude of relationship between two variables. It's value can be between -1 to +1. 0 Means there is no relationship. There are several statistical tests that can be used to measure the correlation between two variables. Some common tests include:
 
 - Pearson's correlation coefficient: This is the most well-known measure of correlation, and it measures the linear relationship between two variables. The Pearson correlation coefficient is calculated as:
 $$ \rho_{(x,y)} = \frac { Cov(x, y)} {(Std(x) * Std(y)) }$$
@@ -166,7 +163,6 @@ $$ \tau = \frac {(c - d)} { \sqrt(c + d)}$$
 
 It's worth noting that these correlation tests are statistical in nature, and they can only provide a certain level of confidence in the strength of the relationship between two variables. In some cases, further analysis may be needed to fully understand the nature of the relationship.
 
-----
 
 ## What is Autoregression (AR) Model?
 When we can predict value at k time period from the value available at time t. If we can predict sales for next week (k=7 days ahead) from the sales of today (t) then this autoregression.
@@ -177,14 +173,12 @@ y(t) = c + φ1*y(t-1) + ε(t)
 
 where y(t) is the value of the time series at time t, c is a constant, φ1 is the autoregressive coefficient, y(t-1) is the value of the time series at the previous time step (t-1), and ε(t) is the error term.
 
-----
 
 ## What is Autocorrelation?
 Autocorrelation (also known as serial correlation or lagged correlation) is the statistical dependence between a time series and a lagged version of itself. For example, the autocorrelation between a time series y(t) and a lagged version of itself y(t-k) can be measured using the Pearson correlation coefficient:
 
 When value at t time period has some relationship with a value at t+k time then we say there is autocorrelation. Like coorelation value of this can be between -1 to 1.
 
-----
 
 ## What is the importance of ACF and PACF plots
 Autocorrelation function (ACF) and partial autocorrelation function (PACF) plots are graphical tools used to examine the autocorrelation of a time series.
@@ -202,7 +196,6 @@ The lollipop plot that you see above is the ACF and PACF results. To estimate th
 
 So, looking at the PACF plot above, we can estimate to use 3 AR terms for our model, since lag 1, 2 and 3 are out of the confidence interval, and lag 4 is in the blue area.
 
-----
 
 ## What are different smoothing techniques for timeseries data?
 There are several smoothing techniques that can be used for time series data. Some common techniques include:

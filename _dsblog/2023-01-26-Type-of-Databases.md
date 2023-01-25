@@ -22,7 +22,7 @@ share: true
 In the 21st Century, Data is the real oil of machines. There are different kinds of oils and there are different kinds of containers. Similarly, there are different kinds of data and there are different kinds of database software to manage these databases. Broadly we call them SQL and NoSQL databases. But In the NoSQL, there are some other finer groups for specific purposes. Let's look into these.    
    
 ## Relational Database (SQL Databases)    
-Typically when people are referring to a database they refer to this database category. This database contains, tables (equivalent to file on file OS), indexes of the table, views, and functions. Tables have rows and columns. Each row is related to one sample or item or thing or person or event etc. Each column is like the attribute of those samples, items, things, persons, events, etc. There are many tables in one database. Each table has some primary key using which each record of the table can be uniquely identified. These tables are related to each other and they are connected using the primary keys. There are many vendors in the market who provide the software to create these databases. Some of the database softwares are open-source and free, some are proprietary and free, others are proprietary and you need to pay the vendor for the use these softwares. Nowadays many cloud providers like AWS, Google, and Microsoft are providing these softwares on the cloud, so you need not buy these but pay for the service as long as you use them.    
+Typically when people are referring to a database they refer to this database category. This database contains, tables (equivalent to file on file OS), indexes of the table, views, and functions. Tables have rows and columns. Each row is related to one sample or item or thing or person or event etc. Each column is like the attribute of those samples, items, things, persons, events, etc. There are many tables in one database. Each table has some primary key using which each record of the table can be uniquely identified. These tables are related to each other and they are connected using the primary keys. There are many vendors in the market who provide the software to create these databases. Some of the database softwares are open-source and free, some are proprietary and free, others are proprietary and you need to pay the vendor for the use of these softwares. Nowadays many cloud providers like AWS, Google, and Microsoft are providing these softwares on the cloud, so you need not buy these but pay for the service as long as you use them.    
 
 - MySQL: An open-source relational database management system that is widely used in web applications and data warehousing.    
 - MariaDB: A fork of MySQL that is open-source and known for its improved performance and scalability.    
@@ -110,5 +110,8 @@ There are several database modeling tools available. Some of the popular tools a
 - PowerDesigner: A data modeling tool that supports both logical and physical data modeling, and can generate data definitions for multiple database management systems.    
 - pgModeler: A data modeling tool that is specific to the **PostgreSQL**.    
    
+# References
+- [Database of Databases](https://dbdb.io/browse?q=)
+- [Most Popular Database Management Software](https://www.softwaretestinghelp.com/database-management-software/)
 
 
