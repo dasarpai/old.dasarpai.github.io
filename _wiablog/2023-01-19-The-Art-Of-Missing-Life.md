@@ -4,7 +4,7 @@ mathjax: true
 title:  The Art -Of Missing Life                 
 date: "2023-01-19T08:33:00+05:30"                        
 permalink: /wiaposts/The-Art-Of-Missing-Life                   
-Tags: [Philosophy, My Views, Life]                 
+tags: [Philosophy, My Views, Life]                 
                         
 categories:                        
 header:                        

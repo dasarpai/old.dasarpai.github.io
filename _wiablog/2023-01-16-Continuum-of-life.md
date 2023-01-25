@@ -4,7 +4,7 @@ mathjax: true
 title: Continuum of life   
 date: "2023-01-16T08:33:00+05:30"   
 permalink: /wiaposts/Continuum-of-life    
-Tags: [Philosophy, My Views, Life]   
+tags: [Philosophy, My Views, Life]   
    
 categories:   
 header:   
