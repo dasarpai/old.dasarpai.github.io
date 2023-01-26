@@ -39,3 +39,5 @@ dsp6037-AI-usecases-in-Agriculture-Industry.jpg
 dsp6038-Will-AI-Replace-Human.jpg
 dsp6039-What-is-Word-Embedding.jpg 
 dsp6040-What-is-Word-Embedding
+dsp6041-Type-of-Databases
+dsp6042-GPU-for-Data-Science-Work
