@@ -22,7 +22,7 @@ share: true
     
 An individual has different roles in personal, social, and professional life and s/he exists at the different levels. When one is interacting with others in the family or society or profession s/he is governed by ethics, culture, tradition, etc. All these help in forming rules. Some of these rules may be coming from your religious books and some others are unwritten rules of the family or society. When a state needs to manage its citizen or citizen need to interact with the state there are certain rules that guide interdependence and trust. In earlier times these rules were coming from our religious books or holy man. But over a period of time when states become a republic state where people of different faiths are living then one religious book cannot govern the rule of society and all the citizens. One book which governs all the citizens of a state and the state itself is called Constitution.    
     
-If you are living in a republic state and you don't know your religious book you can manage your life but if you are a sensible person and you don't know the constitution of the land then you will always live the fear. Generally, it looks the law or rule of the land should be common sense based, culture based. But there may be a gap between your understanding and the way constitution defines things. Any violation can cause you problems.    
+If you are living in a republic state and you don't know your religious book you can manage your life but if you are a sensible person and you don't know the constitution of the land then you will always live in a fear. Generally, it looks the law or rule of the land should be common sense based, culture based. But there may be a gap between your understanding and the way constitution defines things. Any violation can cause you problems.    
     
 For a very long period of time, the Indian constitution was very confusing for me. I am not a lawyer not I am interested in becoming a lawyer. My personal philosophy is, in your entire life if you do not deal with the judicial system, police system, and medical system then you are a blessed person or most lucky person. But, at the same time if you understand your constitution or law of the land you will be able to live as an aware citizen and you can deal with things in a mature way.    
     
@@ -45,7 +45,7 @@ The first part of this book has 22 parts which contain 395 articles. These artic
 Apart from the main constitution, there are 739 acts. Which are not part of the constitution but they were created because the Indian constitution tells this to Government. Different articles of the constitution dictate the government to do so. Many of these acts were created before 1950 (before our constitution was adopted by us). With almost nil or small amendments, those acts are the same as before.     
     
 ## Naming Convention    
-- Bill = Vidheyak : Brought into the parliament/assembly by some MLA or MP. It was discussed in the parliament.    
+- Bill = Vidheyak : Brought into the parliament/assembly by some MP or MLA. It was discussed in the parliament.    
 - Act = Adhiniyam : When a bill is discussed in the parliament/assembly and then the bill is passed by the parliament/assembly and approved/signed by the president or governor then it becomes an act. Every bill may not be approved by Governor or President, if so it cannot become an act. Sometimes an act can be created by bringing Ordinance/Adhyadesh. But it is valid only for 6 months.    
 - Law = Kanoon = Code : Once an act is passed, the rules, regulations, and bylaws can be defined and Law can be created with the help of experts.    
 - Articles = Anucheda: Components of the main constitution are called Articles.    
@@ -76,7 +76,7 @@ Apart from the main constitution, there are 739 acts. Which are not part of the 
 - As of October 2021, there have been 105 amendments to the Constitution of India.
 - IPC (Indian Panel Code) is one of the 739 acts. IPC has 511 sections and Dhaara.    
     
-## Important IPC sections    
+## Important sections (Dhaara) of IPC Act    
 - Section 307 = Attempt to Murder    
 - Section 302 = Murder    
 - Section 376 = Rape     
