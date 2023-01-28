@@ -181,7 +181,7 @@ $$r = \frac{ \frac{\sum_{i=1}^{n}(x_i - \bar{x})(y_i - \bar{y})}{n} }
 
 {\sqrt{ \frac{1}{n}\sum_{i=1}^{n}(x_i - \bar{x})^2}
 
-\sqrt{ \frac{1}{n} \sum_{i=1}^{n}(y_i - \bar{y})^2}{n} }$$
+\sqrt{ \frac{1}{n} \sum_{i=1}^{n}(y_i - \bar{y})^2}}$$
 
 or
 

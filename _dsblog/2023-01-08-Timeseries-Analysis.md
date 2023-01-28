@@ -210,19 +210,114 @@ There are several smoothing techniques that can be used for time series data. So
 
 - Savitzky-Golay filter: This method fits a polynomial to a window of data points and then uses the polynomial to predict the value of the center point in the window. This can help to smooth out short-term fluctuations while preserving important features in the data.
 
-----
+## What is Maximum Likelihood Expectation (MLE), how to calculate MLE?
+
+The "likelihood function" is used to estimate the parameters of a model that best fit the data. Given a set of parameters for a statistical model, "Likelihood Function" is a function that describes the probability of obtaining a set of observations.
+
+θ for ARIMA model is values of p,d,q parameters which we want to know. The meaning of L(θ;x) function is given x (data) what is the value of likelihood with different parameters values or different θ(p,d,q).
+
+The "maximum likelihood estimation" (MLE) is a method to find the set of parameters that maximize the likelihood function. The MLE method searches for the set of parameters that makes the observed data most probable. In other words, it maximizes the likelihood function.
+
+maximum likelihood estimation (MLE) method is given by:
+
+$\hat{\theta} = argmax_{\theta} L(\theta;x)$
+
+Means maximum values of θ(p,d,q) parameters for the given data. 
+
+Where:
+
+$\hat{\theta}$ is the maximum likelihood estimate of the parameter vector
+$\theta$ is the parameter vector
+$L(\theta;x)$ is the likelihood function, which is a function of the parameters and the data
+$x$ is the data
+The likelihood function is typically defined as the product of the probability densities of the observations, given the parameters of the model:
+
+$L(\theta;x) = f(x|\theta) = \prod_{i=1}^{n} f(x_i|\theta)$
+
+where:
+
+$f(x_i|\theta)$ is the probability density function of the i-th observation given the parameters
+$n$ is the number of observations
+Note that logarithm of the likelihood function is taken in practice as the product of large number of small numbers can cause floating point underflow.
+
+$log (L(\theta;x)) = log(\prod_{i=1}^{n} f(x_i|\theta)) = \sum_{i=1}^{n} log(f(x_i|\theta))$
+
+And then maximizing the logarithm of the likelihood function is the same as maximizing the likelihood function.
+
+Let's say we have a time series data of profit  for a retail store, and we want to fit one ARIMA model to it. The likelihood function for the ARIMA model would be a function of the parameters of the model (p,d,q) and the data.
+
+
+
+To find the maximum likelihood estimation of the parameter θ, we would need to differentiate the likelihood function with respect to θ and set it equal to zero. Then, we would solve for the value of θ that maximizes the likelihood function.
+
+∂L/∂θ = 0
+
+Solving for θ, we get the maximum likelihood estimate for the parameter.
+
+"L" is the maximum value of the likelihood function for the model, which is the probability of obtaining the observed data given the parameters of the model.
+
+ARIMA(1,0,0) likelihood function:
+$$L = (2πσ^2)^{-n/2} e^{-\frac{1}{2σ^2}\sum_{t=2}^n(y_t - μ - φ(y_{t-1} - μ))^2}$$
+
+ARIMA(1,1,1) likelihood function:
+$$L = (2πσ^2)^{-n/2} e^{-\frac{1}{2σ^2}\sum_{t=2}^n(y_t - μ - φ(y_{t-1} - μ) - \theta(y_{t-1} - y_{t-2} - μ))^2}$$
+
+ARIMA(1,2,1) likelihood function:
+$$L = (2πσ^2)^{-n/2} e^{-\frac{1}{2σ^2}\sum_{t=3}^n(y_t - μ - φ(y_{t-1} - μ) - \theta(y_{t-1} - 2*y_{t-2}+y_{t-3} - μ))^2}$$
+
+ARIMA(2,2,2) likelihood function:
+$$L = (2πσ^2)^{-n/2} e^{-\frac{1}{2σ^2}\sum_{t=3}^n(y_t - μ - φ_1(y_{t-1} - μ) - \phi_2(y_{t-2} - μ) - \theta_1(y_{t-1} - y_{t-2} - μ) - \theta_2(y_{t-2} - y_{t-3} - μ))^2}$$
+
+ARIMA(1,2,3) likelihood function:
+$$L = (2πσ^2)^{-n/2} e^{-\frac{1}{2σ^2}\sum_{t=4}^n(y_t - μ - φ(y_{t-1} - μ) - \theta_1(y_{t-1} - 2y_{t-2}+y_{t-3} - μ) - \theta_2(y_{t-2} - 3y_{t-3}+3y_{t-4}-y_{t-5} - μ) - \theta_3(y_{t-3} - 4y_{t-4}+6y_{t-5}-4y_{t-6}+y_{t-7} - μ))^2}$$
+
+where y(t) is the observed data, μ is the mean of the data, σ^2 is the variance of the data, n is the number of observations, and φ is the parameter of the model.
+
+## What is AIC, BIC?
+
+AIC (Akaike Information Criterion) and BIC (Bayesian Information Criterion) are both **measures of the relative quality of statistical models**. They are used to compare different models and select the one that best fits the data.
+
+AIC is defined as:
+
+AIC = 2k - 2ln(L)
+
+where k is the number of parameters in the model and L is the maximum value of the likelihood function for the model. AIC is a measure of the relative quality of a statistical model, with **lower values of AIC indicating a better model**. It is used to compare different models and select the one that best fits the data.
+
+BIC function is defined as:
+
+BIC = kln(n) - 2ln(L)
+
+where k is the number of parameters in the model, n is the number of observations and L is the maximum value of the likelihood function for the model. BIC is also a measure of the relative quality of a statistical model, with **lower values of BIC indicating a better model**. It is used to compare different models and select the one that best fits the data.
+
+For example, let's say we have two models, Model A and Model B, that we want to compare. Model A has 5 parameters and Model B has 10 parameters. We can use AIC or BIC to determine which model is the better fit for the data.
+
+Let's say, the AIC and BIC values for Model A are 100 and 150 respectively, and the AIC and BIC values for Model B are 150 and 200 respectively.
+
+In this case, Model A would be a better fit for the data as it has lower AIC and BIC values than Model B.
+
+It's worth noting that AIC and BIC are based on different assumptions and have different properties, **AIC is known to be less conservative than BIC, and it tends to favor models with more parameters**. On the other hand, BIC is more conservative and tends to favor models with fewer parameters, which is more suitable for cases where the sample size is large.
 
 ## What is ARIMA 
 
-----
+ARIMA (AutoRegressive Integrated Moving Average) is a statistical method for time series forecasting. It is a combination of three components:
+
+AutoRegression (AR): The AR component represents the relationship between an observation and a number of lagged observations. It models the dependence between an observation and a number of lagged observations of the same variable. For example at lag 1, AR is .5, and at lag=2 AR is .6, at lag=3 AR is .7 etc.
+
+Integration (I): The I component represents the difference between the raw observation and the observation after being differenced. It is used to make the time series stationary. For example at lag=3 where AR is highest we take difference between acutual observation and lagged observation and get the difference for all the observations. This is called error.
+
+Moving Average (MA): The MA component represents the relationship between the observation and the error term. It models the dependence between an observation and a moving average of error terms. For example we take MA for above error terms when we average 2 observation, or we can take MA 3 observation or 4 observation. We do this for all the observation.
+
+ARIMA models are used to predict future values of a time series based on its past values and the error term. The model is trained on historical data and is then used to make predictions on new data. The model parameters are chosen through a process called model selection which involves estimating the model parameters using statistical methods and selecting the best set of parameters based on some criteria like AIC, BIC.
+
+ARIMA models are used in timeseries forecasting, and are particularly useful for modeling and forecasting time series with a seasonal component.
 
 ## What is ARIMAX 
 
 ----
 
-## What is SARIMAX 
+## What is SARIMAX model?
 
-----
+SARIMA stands for Seasonal Autoregressive Integrated Moving Average. It incorporates the seasonal component in addition to the autoregressive and moving average components that are present in the basic ARIMA model. The SARIMA model also includes a seasonal differencing component, which is used to account for the repeating patterns in the data that occur at regular intervals (e.g. monthly or quarterly data). The model is specified using three parameters: (p,d,q) for the autoregressive component, (P,D,Q) for the seasonal component, and m for the number of seasons. The notation SARIMA(p,d,q)(P,D,Q)m is used to represent a SARIMA model.
 
 ## What is the difference between white noise and a stationary time series.
 

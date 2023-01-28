@@ -82,5 +82,24 @@ Three guidelines for creating Prompt.
 
 
 
+Stablity.ai
+
+“Skincare bottle
+
+[on/ standing on/ sitting on/ buried in /emerging from / hovering over]
+
+a marble platform
+
+[surrounded by/ next to]
+
+flowers
+
+[in front of/with]
+
+the ocean and the sunset
+
+[in the background.]”
+
+“Skincare bottle on a marble platform surrounded by flowers in front of the ocean and the sunset in the background.”
 
 
