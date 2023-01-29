@@ -42,3 +42,4 @@ dsp6040-What-is-Word-Embedding
 dsp6041-Type-of-Databases
 dsp6042-GPU-for-Data-Science-Work
 dsp6043-GAN
+dsp6044-Deep-Learning-Questions
