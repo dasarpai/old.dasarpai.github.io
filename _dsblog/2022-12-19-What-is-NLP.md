@@ -32,7 +32,7 @@ We know computers do not understand the text but numbers only. So we need to con
 ## What is Embedding?
 As mentioned earlier Embedding means getting a numeric representation of the text. In NLP we call it creating a word vector. But the issue is there are many scripts how to ensure that you have the same word vector for the same word in different languages. For example, the word in English "Fruit" is the same as फल (Fala) in Hindi,फलं (Falam) in Sanskrit, பழம் (Paḻam) in Tamil. How to ensure this word gets the same word vector or at least the same place in the word vector space? It is not possible at all. Because generally embedding is created using one kind of script. Even if you create embedding using mixed script corpus you will get 4 different adjacent vectors for these words which have the same meaning (for a person who knows all these 4 languages). To create embedding we need a large corpus like Wikipedia articles, millions of emails, millions of articles across different languages and genres, millions of social media messages, etc. There are many techniques for creating embedding. 
 
-## Embedding Types
+## What are different Embedding Types?
 Using different techniques when we are generating embedding we can have the following kinds of embeddings.
 - Sentence Embeddings: In this entire sentence is considered one unit and you get one vector per sentence. In the vector space when you put different sentences you will be able to visualize which sentences are having the same meaning and which are not.
 - Static Word Embeddings: In this embedding, a single word is embedded at a time, as a fixed embedding. For example, the word "interest" will have one embedding. Irrespective of whether it is used in the context of finance or relationship or general talk.
@@ -43,26 +43,69 @@ Using different techniques when we are generating embedding we can have the foll
 
 Each embedding has its benefits and purpose. Depending upon the use case we create different kind of embedding for our project.
 
-## NLP Tasks
+## What are the different NLP Tasks?
 Whatever task humans can perform or wish to perform with a written text, people want those should be done using NLP technologies. A high-level summary of possible tasks with NLP is as follows.
  
-- Text Classification
+- Text Classification : Assigning predefined categories to a given text. News text can be classified as political,sports, business, entertainment etc.
+- Sentiment Analysis : Determining the emotional tone behind a given text.
 - Document Embeddings
 - Code Generation
 - Table Question Answering
 - Question Answering 
 - Relation Extraction between different Nouns or verbs
 - Machine Translation
-- Entity Recognition
+- Language Detection 
+- Named entity recognition: Identifying and extracting proper names from text, like organization name, person name, country/city/state/district/village name, medicine name etc.
 - Textual Meaning
+- Part-of-speech Tagging: Identifying and labeling the grammatical role of each word in a sentence. Identifying noun, verb, article, adjective etc.
+- Semantic Role Labeling (SRL): Determining the semantic roles of words or phrases in a sentence, such as the subject, verb, and object. For example: "Ram went to meet his friend and he gave him a gift", "Ram" is subject, "went" is verb, "to meet his friend and he gave him a gift" is object of the sentence.
 - Document Summary
+- Chunking: grouping words into meaningfully related chunks. For example, United States of America, 4 words are grouped together as one.
 - Conversation 
+- Parsing: Analyzing the grammatical structure of a sentence to identify dependencies between words. For example: "Ram went to meet his friend and he gave him a gift". Here "He" means Ram, "him" refes to "friend"
 - Dialogue Writing
+- Discourse analysis: Studying the ways in which language is used in a broader context, such as across multiple sentences or in a conversation who said what.
+- Coreference resolution: Determining when two or more words in a text refer to the same entity. For example: "Ram went to meet his friend and he gave him a gift". Her"He" and "Ram" both are referring to same entity.
 - Reading Comprehension
 - Text Span Detection
 - Citation Generation 
 - Index Generation 
-- Paraphrase Generation
+- Paraphrase a Sentence.
+- Text Generation.
+- Relationship Extration: For example "Ram, Lakshaman with their Guru Viswamitra went to Mithila and married to Sita". "Sita is resident of", "Ram is brother of", "Vishwamitra is guru of" etc.
+- Text clustering: Grouping similar texts together.
+
+## What are the different types of Text Analytics in NLP 
+
+- Lexical analysis: This involves breaking down the text into its individual words, or tokens, and examining their meanings and relationships to one another. This can include tasks such as stemming, lemmatization, and part-of-speech tagging.
+	- Those boys played the game.
+	- (Those, Boy, Play, The, Game)
+- Syntactic analysis: This involves analyzing the grammatical structure of a sentence, including the relationships between words and phrases. This can include tasks such as parsing and dependency analysis.
+	- Those boys played the game.
+	- "Those boys" and "Played" and "the game" = SVO
+	- (Determinant, Noun, Verb, determiner, Noun)
+- Semantic analysis: This involves analyzing the meaning of a text, including identifying entities and relationships, and determining the sentiment or intent behind the text.
+	- I went to bank to withdraw money.
+	- I am walking on the bank of river.
+Pragmatic analysis:This focus on the intended audience, the context, and the purpose of the text to understand the meaning of the sentence
+	- If this sentence is part of a news article describing a youth sports league, the pragmatic analysis might focus on the fact that the boys were engaging in an organized activity and that a game was taking place.
+	- If this sentence is part of a conversation between two friends discussing their weekend plans, the pragmatic analysis might focus on the fact that the boys were doing something for leisure and that the game is not specified.
+	- If this sentence is part of a children's story, the pragmatic analysis might focus on the fact that the boys are the protagonists of the story and that they are engaging in an exciting activity.
+	- If this sentence is part of a book or a script, the pragmatic analysis might focus on the fact that the boys are characters in a story and that they are engaging in an activity that is relevant to the plot.
+	- Discourse analysis: This involves analyzing the text at a higher level, looking at how ideas and arguments are structured and developed across multiple sentences or paragraphs.
+Stylistic analysis: This involves analyzing the style of the text, including the choice of words, sentence structures, and overall tone.
+	- Formal style: The sentence "Those boys played the game" is simple and straightforward, it uses a neutral tone. This style is often used in news articles, academic texts, and official documents.
+	- Informal style: If the sentence is "Those dudes played the game", the use of "dudes" instead of "boys" gives a more casual and informal tone, it is often used in casual conversations, social media posts, and in fiction.
+	- Colloquial style: If the sentence is "Those guys played the game", the use of "guys" instead of "boys" gives a more colloquial tone, and it is often used in informal conversations, and casual writing.
+	- Literature style: If the sentence is "Those young lads played the game", the use of "young lads" instead of "boys" gives a more literary tone, often used in literature and poetry.
+	- Poetic style: If the sentence is "Those boys, they played the game", the use of a comma before the verb to separate the subject and the verb, gives a more poetic tone.
+- Sociolinguistics analysis: this type of analysis studies how language is used in society, including how it varies across different groups, regions, and time periods.
+	- Gender: If the sentence is "Those boys played the game" it is assumed that the speaker is talking about group of males, because the word "boys" is often associated with males.
+	- Age: If the sentence is "Those boys played the game", it is assumed that the speaker is talking about a group of young people, because the word "boys" is often associated with young people.
+	- Ethnicity: If the sentence is "Those boys played the game", it is assumed that the speaker is talking about a group of boys from the same ethnicity, because the sentence doesn't specify any other information about the boys.
+	- Social class: If the sentence is "Those boys played the game", it is assumed that the speaker is talking about a group of boys from the same social class, because the sentence doesn't specify any other information about the boys.
+	- Geography: If the sentence is "Those boys played the game" it is assumed that the speaker is talking about a group of boys who are located in the same geographical area, because the sentence doesn't specify any other information about the boys.
+
 
 ## Application of NLP
 There are hundreds of usecases of NLP in different domains. Wherever business exists, knowledge exists. Wherever knowledge exists, the written text exists. The written text can be a process document, business document, customer document, design document, or anything else. Wherever written text exists we want to read that document and perform many tasks as mentioned above. Every industry Oil & Gas, BFSI, Education, Pharma, Health Care, Logistic, Aviation, Security, IT, ITES, Energy, Agriculture, Food Processing, Automobiles, Civil Construction, Road or Port Construction, Climate Change, or anything you name has the documents and hence need of NLP to engage with partners, translate, summarise, etc. Below is a small list of applications of NLP in various industries.
