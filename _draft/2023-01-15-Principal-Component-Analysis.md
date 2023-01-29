@@ -63,3 +63,53 @@ The first principal component is computed so that it explains the greatest amoun
 [Principal Component Analysis by Steave Brunton](https://www.youtube.com/watch?v=fkf4IBRSeEc)
 [A Guide to Principal Component Analysis (PCA) for Machine Learning](https://www.keboola.com/blog/pca-machine-learning)
 
+
+
+
+PCA https://www.youtube.com/watch?v=fkf4IBRSeEc
+To capture the max amount of variance
+
+
+https://towardsdatascience.com/pca-lda-and-svd-model-tuning-through-feature-reduction-for-transportation-poi-classification-8d20501ee255
+https://colab.research.google.com/drive/1A6ZZ0WZX3v4N5sN4pU5Yz_gxx2gThVqd?usp=sharing#scrollTo=53eOSbIXMzMW
+
+
+
+PCA finds the underlying features in a given dataset by performing the following steps:
+
+Calculate the covariance of of the matrix of features
+
+Calculate the eigen vectors and eigen values of the covariance matrix
+
+Sort the eigenvectors in descending order by the eigen values
+
+Choose the first k eigen vectors. This k value will be the k new dimensions
+
+Transform the original data into k dimensions
+
+
+
+PCA : https://medium.com/@aptrishu/understanding-principle-component-analysis-e32be0253ef0
+LDA : https://medium.com/@srishtisawla/linear-discriminant-analysis-d38decf48105
+SVD : https://medium.com/the-andela-way/foundations-of-machine-learning-singular-value-decomposition-svd-162ac796c27d
+
+Eigenvectors and eigenvalues significance.
+Diagonalization of a matrix/ covariance matrix using eigenvector. https://sebastianraschka.com/Articles/2015_pca_in_3_steps.html
+Change of basis operations. https://www.youtube.com/watch?v=P2LTAUO1TdA
+Interpretation of Variance in PCA
+PCA Demo
+https://medium.com/@dmitriy.kavyazin/principal-component-analysis-and-k-means-clustering-to-visualize-a-high-dimensional-dataset-577b2a7a5fe2
+
+
+
+Some of the applications of Principal Component Analysis (PCA) are:
+
+Spike-triggered covariance analysis in Neuroscience
+Quantitative Finance
+Image Compression
+Facial Recognition
+Other applications like Medical Data correlation
+
+
+https://iq.opengenus.org/applications-of-pca/
+
