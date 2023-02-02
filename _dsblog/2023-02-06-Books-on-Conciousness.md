@@ -24,7 +24,8 @@ toc_sticky: true
 
 ## Introduction
 
-If you are from the software industry and especially in a data scientist role on day to day basis. Then there are high chances you ask questions like 
+If you are from the software industry and especially in a data scientist role on day to day basis. Then there are high chances you ask questions like    
+
 What is life?   
 What is consciousness?   
 What is the reality of existence?   
