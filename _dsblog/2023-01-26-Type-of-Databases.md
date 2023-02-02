@@ -21,9 +21,11 @@ toc_sticky: true
 ![Type of Databases](/assets/images/dspost/dsp6041-Type-of-Databases.jpg )      
        
 # What are the various types of databases?    
+
 In the 21st Century, Data is the real oil of machines. There are different kinds of oils and there are different kinds of containers. Similarly, there are different kinds of data and there are different kinds of database software to manage these databases. Broadly we call them SQL and NoSQL databases. But In the NoSQL, there are some other finer groups for specific purposes. Let's look into these.    
    
 ## Relational Database (SQL Databases)    
+
 Typically when people are referring to a database they refer to this database category. This database contains, tables (equivalent to file on file OS), indexes of the table, views, and functions. Tables have rows and columns. Each row is related to one sample or item or thing or person or event etc. Each column is like the attribute of those samples, items, things, persons, events, etc. There are many tables in one database. Each table has some primary key using which each record of the table can be uniquely identified. These tables are related to each other and they are connected using the primary keys. There are many vendors in the market who provide the software to create these databases. Some of the database softwares are open-source and free, some are proprietary and free, others are proprietary and you need to pay the vendor for the use of these softwares. Nowadays many cloud providers like AWS, Google, and Microsoft are providing these softwares on the cloud, so you need not buy these but pay for the service as long as you use them.    
 
 - MySQL: An open-source relational database management system that is widely used in web applications and data warehousing.    
@@ -38,6 +40,7 @@ Typically when people are referring to a database they refer to this database ca
 - Informix: A commercial relational database management system from IBM that is widely used in enterprise environments and known for its support for OLTP and data warehousing.    
    
 ## NoSQL Database    
+
 A NoSQL, which originally means a non-relational database or non-SQL. They provide a data storage and recovery mechanism. This data is based on other means than the table relationships in reference databases. These databases were developed in the late 1960s but did not achieve momentum till recently. NoSQL databases are used in real-time web applications and big data and their application increase over time. There are many NoSQL Database softwares. Sometimes, NoSQL systems also call **not the only SQL** to highlight the fact that they can support query languages like SQL. There are no defined schemes in the NoSQL database which makes NoSQL databases the perfect candidate for fast-changing environments. NoSQL allows developers without affecting applications to make fly changes.    
 
 - MongoDB: A document-based NoSQL database that is known for its scalability and support for JSON-like documents.    
@@ -53,6 +56,7 @@ A NoSQL, which originally means a non-relational database or non-SQL. They provi
    
    
 ## Document Database    
+
 This is the NoSQL database, which stores the data in the type of documents. The information it links to other data elements and the data attributes are represented in each document. Specifies a key-value form for the document database. Some of the software which supports Document database are as follows.    
 
 - MongoDB    
@@ -67,6 +71,7 @@ This is the NoSQL database, which stores the data in the type of documents. The 
 - MarkLogic: An enterprise-grade document database that is known for its support for rich data model, built-in search, and ACID transactions.    
    
 ## Hierarchical Database    
+
 In the early 1960s, IBM developed a hierarchical database system structure. Although the hierarchical structure is simple, because of the parent-child relationship, it is inflexible. Data will be stored in parent-child relationship nodes on hierarchical database management systems (hierarchical DBMSs).    
 
 - IBM Information Management System (IMS): A hierarchical database management system that is widely used in enterprise environments and known for its support for mainframe and distributed environments.    
@@ -81,6 +86,7 @@ In the early 1960s, IBM developed a hierarchical database system structure. Alth
 - VSAM: A hierarchical database management system that is widely used in enterprise environments and known for its support for mainframe environments.    
    
 ## Network Database    
+
 This is also NoSQL database. A network structure is used to create relationships between entities by network data database management systems (Network DBMSs). Network databases are hierarchical databases, but a network node can have a link with multiple entities, unlike hierarchic databases in which a node can have a single parent. More like a cobweb or interlinked record network is a network database.    
 
 - Neo4j: A popular open-source graph database that is known for its support for querying and manipulating graph data.    
@@ -96,9 +102,11 @@ This is also NoSQL database. A network structure is used to create relationships
    
    
 ## Graph Database    
+
 A Graph Database is a specific type of network database where a node represents a customer, person or a car in a graph. And the relationships between nodes are represented as edges in a graph, it is optimized for handling graph-like data structures.    
    
 # How to Structure the Schema of a Database.    
+
 There are several database modeling tools available. Some of the popular tools are as follows.    
    
 - MySQL Workbench: Most of you must have used this. This is very popular and people use this with MySQL. A data modeling tool that is specific to the MySQL database management system, and supports both logical and physical data modeling.    
@@ -113,6 +121,7 @@ There are several database modeling tools available. Some of the popular tools a
 - pgModeler: A data modeling tool that is specific to the **PostgreSQL**.    
    
 # References
+
 - [Database of Databases](https://dbdb.io/browse?q=)
 - [Most Popular Database Management Software](https://www.softwaretestinghelp.com/database-management-software/)
 
