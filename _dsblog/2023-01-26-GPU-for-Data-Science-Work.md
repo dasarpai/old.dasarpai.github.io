@@ -12,6 +12,8 @@ header:
 author: Hari Thapliyaal 
 excerpt:
 share: true 
+toc: true   
+toc_sticky: true
 ---
 
 ![GPU for Data Science Work](/assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg)

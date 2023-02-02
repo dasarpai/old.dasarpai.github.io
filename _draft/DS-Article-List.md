@@ -34,7 +34,7 @@ dsp6032-Ensemble-Learning.jpg
 dsp6033-POS-Tagging-and-Parsing.jpg
 dsp6034-Introduction-to-Neural-Network.jpg
 dsp6035-Partial-Dependence-Plots.jpg
-dsp6036-AI-Use-Cases-in-Food-Processing.jpg
+dsp6036-AI-UseCases-in-Food-Processing.jpg
 dsp6037-AI-usecases-in-Agriculture-Industry.jpg
 dsp6038-Will-AI-Replace-Human.jpg
 dsp6039-What-is-Word-Embedding.jpg 
@@ -44,7 +44,7 @@ dsp6042-GPU-for-Data-Science-Work
 dsp6043-GAN
 dsp6044-Deep-Learning-Questions
 dsp6045-Cost-Functions-and-Optimizers-in-Machine-Learning
-dsp6046-AI-in-Energy-Management
+dsp6046-AI-Usecases-in-Energy-Management
 dsp6047-Responsible-AI
 dsp6048-Application-of-AI-in-BFSI
 dsp6049-Books-on-Conciousness

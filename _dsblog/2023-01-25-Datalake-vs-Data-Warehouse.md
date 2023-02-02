@@ -14,6 +14,8 @@ layout: single
 excerpt:   
 author_profile: true   
 share: true   
+toc: true   
+toc_sticky: true
 ---   
    
 ![Datalake vs Data Warehouse](/assets/images/dspost/dsp6040-Datalake-vs-Data-Warehouse.jpg )   

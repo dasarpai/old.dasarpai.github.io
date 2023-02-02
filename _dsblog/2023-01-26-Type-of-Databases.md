@@ -14,6 +14,8 @@ layout: single
 excerpt:      
 author_profile: true      
 share: true      
+toc: true   
+toc_sticky: true
 ---      
        
 ![Type of Databases](/assets/images/dspost/dsp6041-Type-of-Databases.jpg )      

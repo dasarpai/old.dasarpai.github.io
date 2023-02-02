@@ -8,13 +8,17 @@ tags: [NLP]
 categories:
 
 header:
-teaser: /assets/images/dspost/dsp6049-Books-on-Conciousness.jpg
+   teaser: /assets/images/dspost/dsp6049-Books-on-Conciousness.jpg
 author: Hari Thapliyaal
-excerpt:
-share: true
+layout: single      
+excerpt:      
+author_profile: true      
+share: true   
+toc: true   
+toc_sticky: true
 ---
 
-![Books-on-Conciousness](/assets/images/dspost/dsp49-Books-on-Conciousness.jpg)
+![Books-on-Conciousness](/assets/images/dspost/dsp6049-Books-on-Conciousness.jpg)
 
 If you are from the software industry and especially in a data scientist role on day to day basis. Then there are high chances you ask questions like 
 What is life?   

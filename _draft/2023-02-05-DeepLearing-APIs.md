@@ -19,3 +19,15 @@ share: true
 
 
 # title
+
+
+1: AWS Rekognition API 
+2: Google Cloud Vision API 
+3: Microsoft Computer Vision 
+4: Kairos Face Recognition API 
+5: IBM Watson Visual Recognition API 
+6: Imagga API 
+7: Cloud Sight API 
+8: ClarifaiV2 API 
+9: ImageVision API 
+10: EmoVu API
