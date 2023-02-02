@@ -34,11 +34,11 @@ What is the ultimate reality of this world?
 
 I am not saying you ask these questions because you are fed up or puzzled with your life. But because of different reasons. You are creating artificial intelligence systems.
 
-In my own way, I have been reading, listening, contemplating, and meditating on the above question. Adi Sankar's Advaita Vedanta speaks a volume on this subject. But in the last 100 years, many western philosophers and scientists started writing on this subject. Apart from your professional life where you are paid for your work. Apart from the day to family and social responsibilities if you are serious and get some time to reflect on the above questions then a list of the following books may be of your interest.
+In my own way, I have been reading, listening, contemplating, and meditating on the above questions. Adi Sankar's Advaita Vedanta speaks a volume on this subject. But in the last 100 years, many western philosophers and scientists started researching and writing on this subject. Apart from your professional life where you are paid for your work. Apart from the day to day family and social responsibilities if you are serious and get some time to reflect on the above questions then a list of the following books may be of your interest.
 
-Note: I am not saying other professionals don't ask these questions. When life goes through different circumstances everyone at one point or another goes through these questions. A serious software engineer who writes software (intelligence) for the hardware has a high probability of thinking about these questions.
+Note: I am not saying other professionals don't ask these questions. When life goes through different circumstances everyone at one point or another goes through these questions. But, a serious software engineer who writes software (intelligence) for the hardware (body) has a high probability of thinking about these questions.
 
-# Books-on-Conciousness
+# 100+ Good Books on Conciousness
 
 ## 1. The Origin of Consciousness in the Breakdown of the Bicameral Mind
 Julian Jaynes, 1976
