@@ -105,7 +105,18 @@ When training is complete, W&B has been learned by the neural network then we ha
 - Tracking People and Vehicles    
 - Image Labelling/ Annotation Tool  
 - Video Tracking   
- 
+- Art Generation
+- Headshot Generator
+- Photo Upscaler
+- Object Remover
+- Background Remover
+- Art Personalizer
+- Picture Colorizer
+- Picture Restorer
+- Face Enhancer
+- Color Generator
+- Social Distancing
+![Social distancing](/assets/images/dspost/cv/social-distancing-detection.webp)
    
 ## Applications of Computer Vision   
 Computer vision can be used as follows.   
@@ -125,6 +136,7 @@ Computer vision can be used as follows.
 - People Movement Analysis Application    
 - Person Recognition Application    
 - Weapon Detection Application    
+![weapon-detection](/assets/images/dspost/cv/weapon-detection.webp)
 - Human Behavior Understanding Application    
 - Virtual Fencing Application    
 - Traffic Incident Detection Application    
@@ -190,7 +202,8 @@ Computer vision can be used as follows.
 - Automated handling systems Application    
 - Visual documentation and Risk management   
 - Tracking Warehouse Movements    
-![Video-analytics-Warehouse](/assets/images/dspost/cv/Video-analytics-Warehouse.jpg)  
+![Video-analytics-Warehouse](/assets/images/dspost/cv/Video-analytics-Warehouse.jpg)
+
 
 ## Construction 
 ![Construction](/assets/images/dspost/cv/Construction.png)

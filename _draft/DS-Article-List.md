@@ -43,3 +43,8 @@ dsp6041-Type-of-Databases
 dsp6042-GPU-for-Data-Science-Work
 dsp6043-GAN
 dsp6044-Deep-Learning-Questions
+dsp6045-Cost-Functions-and-Optimizers-in-Machine-Learning
+dsp6046-AI-in-Energy-Management
+dsp6047-Responsible-AI
+dsp6048-Application-of-AI-in-BFSI
+dsp6049-Books-on-Conciousness

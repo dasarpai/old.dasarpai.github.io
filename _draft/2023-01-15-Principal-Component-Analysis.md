@@ -113,3 +113,33 @@ Other applications like Medical Data correlation
 
 https://iq.opengenus.org/applications-of-pca/
 
+
+covariance matrix
+eigen vectors and eigen values
+principal components
+
+
+Let us say, we have n = 256 number of input features and m = 1000 number of training examples (Notice m >> n). Now let us say, we want to reduce the number of features to k = 50 most important features. From these assumptions, we have,
+
+First, we have to transform our input data in such a way that it has zero mean and unit variance
+
+$1.\ Let\ \mu\ =\ \frac{1}{m}\sum_{i=1}^mx^{(i)}$
+
+$2.\ Replace\ each\ x^{(i)}\ with\ x^{(i)}\ -\ \mu$
+
+$3.\ Let\ \sigma_{j}^2\ =\ \frac{1}{m}\sum_{i=1}^m(x^{(i)}_{j})^2$  
+$4.\ Replace\ each\ x^{(i)}_j\ with\ x^{(i)}_j/\sigma _j$
+
+$$\Sigma\ =\ \frac{1}{m}\sum_{i=1}^m\ (x^{(i)})(x^{(i)})^T $$
+
+$$U\ =\ \begin{bmatrix} | & | & \ & |\\ u_1 & u_2 & \ldots & u_n\\ | & | & \ & | \end{bmatrix}$$
+
+$y^{(i)}[0]\ =\ u_{1}^T*x^{(i)}$
+where $y^{(i)}[0]$ represents the the principal component of $x^{(i)}$
+
+Similarly,
+$y^{(i)}[1]\ =\ u_{2}^T*x^{(i)}$
+where $y^{(i)}[1]$ represents the the second principal component of $x^{(i)}$
+
+We select top k eigen vectors from matrix U and remove the rest. The new data point which is dimensionally reduced is given by, $y^{(i)}\ =\ U^T*x^{(i)}$
+$y^{(i)} \in \Re ^ k$
