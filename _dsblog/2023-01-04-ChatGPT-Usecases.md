@@ -123,7 +123,7 @@ Sometimes you are in hurry and don’t have time to read a good book. Now, you w
 
 ![ChatGPT-Summarize-Sapiens-Book](/assets/images/dspost/chatgpt/ChatGPT-Summarize-Sapiens-Book.jpg)
 
-# conclusion
+# Conclusion
 ChatGPT is very promising and disruptive technology from OpenAI. Shortly, it is going to change the market in a big way. How search market going to shape? Microsoft along with OpenAI has a stake in ChatGPT, so how it is going to affect services from Bing, and consequently, how is it going to affect the search market? What will be the cost of search services? What will be the impact of this on the advertisement business? What are the new products going to come into the market etc? We just need to wait and watch for the answers to these questions. If you are a technology investor/enthusiast then you must be planning to ride this huge wave. If you are an information consumer then your way of consuming information is going to change. It is going to shake many of the jobs from the market and going to create new job opportunities. It is a time for you to learn it now and shape your career before ChatGPT-based AI products and services destroy it for you.
 
 

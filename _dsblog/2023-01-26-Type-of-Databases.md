@@ -22,6 +22,8 @@ toc_sticky: true
        
 # What are the various types of databases?    
 
+## Introduction   
+
 In the 21st Century, Data is the real oil of machines. There are different kinds of oils and there are different kinds of containers. Similarly, there are different kinds of data and there are different kinds of database software to manage these databases. Broadly we call them SQL and NoSQL databases. But In the NoSQL, there are some other finer groups for specific purposes. Let's look into these.    
    
 ## Relational Database (SQL Databases)    

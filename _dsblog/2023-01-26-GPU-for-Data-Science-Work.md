@@ -21,6 +21,7 @@ toc_sticky: true
 # GPU for Data Science Work  
 
 ## What is the difference between microprocessor (CPU) and GPU?
+
 A microprocessor and a GPU (graphics processing unit) are both types of processors, but they are designed for different purposes and have different architectures.
 
 A microprocessor, also known as a CPU (central processing unit), is the "brain" of a computer. It is responsible for executing instructions for the operating system and software applications. A microprocessor typically has a small number of cores (1-16) that are optimized for sequential processing, and it is designed to handle a wide variety of tasks, from simple mathematical calculations to complex algorithms.

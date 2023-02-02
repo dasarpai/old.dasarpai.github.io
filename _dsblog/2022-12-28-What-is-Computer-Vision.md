@@ -158,7 +158,7 @@ Computer vision can be used as follows.
 - Parking Lot Detection    
 ![Parking-Lot-Detection](/assets/images/dspost/cv/Parking-Lot-Detection.png)   
    
-## Computer Vision In Healthcare   
+### Computer Vision In Healthcare   
 - Tumor Detection Application    
 - Medical Imaging Application    
 - Cancer Detection Application    
@@ -171,12 +171,12 @@ Computer vision can be used as follows.
 - Remote Patient Monitoring Application    
 - Lean Management in Healthcare     
    
-## Automotive Industry   
+### Automotive Industry   
 - Type: Automation systems, to conduct tasks otherwise carried out by human operators, reduce human error, as well as production line robots.    
 - Type: Intelligent systems, to generate insights, early-detect issues that lead to costly business interruptions, facilitate planning, monitor the shop floor and inventory to make better decisions faster.    
 - Type: Quality control systems, to automatically inspect possible production failures or part defects during assembly or in the final product.     
    
-## Computer Vision In Manufacturing   
+### Computer Vision In Manufacturing   
 - Pandemic Protective Measures Application    
 - Quality Inspection and Control Application    
 - Optimizing Supply Chains Application    
@@ -188,7 +188,7 @@ Computer vision can be used as follows.
 - Automated Product Assembly Application    
 - Maintaining Packaging Standards   
    
-## Logistics   
+### Logistics   
 - Traceability and tracking of objects Application    
 ![Tracking-People-and-Vehicles](/assets/images/dspost/cv/Tracking-People-and-Vehicles.jpg)  
 - Volumetric properties of goods Application    
@@ -205,8 +205,8 @@ Computer vision can be used as follows.
 ![Video-analytics-Warehouse](/assets/images/dspost/cv/Video-analytics-Warehouse.jpg)
 
 
-## Construction 
+### Construction 
 ![Construction](/assets/images/dspost/cv/Construction.png)
 
-# Conclusion
+## Conclusion
 Human vision is a very precious technology to navigate the world around us, communicate with others, and survive. Similarly, computer vision is an extremely powerful technology to communicate with humans, other machines, and robots. It can perform various tasks as mentioned above. State of the Art (SOTA) computer vision models like DALL-E started challenging human artists. Above mentioned applications are just the tip of the iceberg. You think about any task which you do with your eye-brain coordination and you can perform that with computer vision. In the future, you are going to see many more applications of this technology, and at the same time, this technology will be far superior with advanced algorithms, new hardware, and new application architectures.
