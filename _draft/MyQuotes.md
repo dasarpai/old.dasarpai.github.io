@@ -2922,7 +2922,9 @@ are going to see a big change.
 
 
 # Quotation257
+Emotional Machine
 
+People say AI and robots do not have emotions and do not feel like humans feel joy, love, suffering, and pleasure. It is not a question of whether we can create an emotional robot or not. After realizing that Maths and Statistics really work very well, we can create those machines. The real question is who will buy those robots, that throw tantrums like your partner, children, bosses, and subordinates throws? Are you not already fed up with biological machines that you want to invest in silicon machines and suffer?
 
 
   
