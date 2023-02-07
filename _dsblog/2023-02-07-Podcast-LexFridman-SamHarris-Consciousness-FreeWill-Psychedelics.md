@@ -4,27 +4,30 @@ id: 6050
 title: Podcast Lex Fridman Sam Harris Consciousness Free Will Psychedelics
 date: 2023-02-07
 permalink: '/dsblog/Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics'
-tags: [AI Podcast Summary] 
+tags: [AI Podcast Summary, Lex Fridman, Consciousness] 
 categories: 
 
 header:
     teaser: /assets/images/dspost/dsp6050-Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics.jpg
-author: Hari Thapliyaal 
-excerpt:
-share: true 
+author: Hari Thapliyaal   
+layout: single   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
 ---
 
-![Postcast Lex Fridman Sam Harris Consciousness FreeWill Psychedelics](/assets/images/dspost/dsp6050-Postcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics.jpg)
+![Postcast Lex Fridman Sam Harris Consciousness FreeWill Psychedelics](/assets/images/dspost/dsp6050-Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics.jpg)
 
 
 # Podcast : Lex Fridman Sam Harris Consciousness Free Will Psychedelics
 
-This is an interesting and deepdive discussion with between Lex Fridman and Sam Harris. In 3 hours 20 minute enchanting discussion they explore various topics like Consciousness, Free Will, Psychedelics, AI, UFOs etc.
+This is an interesting and deepdive discussion between Lex Fridman and Sam Harris. In 3 hours 20 minute enchanting discussion they explore various topics like Consciousness, Free Will, Psychedelics, AI, UFOs etc.
 
 **Title: Sam Harris-: Consciousness, Free Will, Psychedelics, AI, UFOs, and Meaning / Lex Fridman Podcast #185**
 
-If you have time and you are intersted in these kind of deep discussions you can watch the video in the link below.   
-[3 Hours 19 Minutes Full Podcast](https://www.youtube.com/watch?v=4dC_nRYIDZU)
+If you have time and you are intersted in this kind of deep discussion you can watch the video in the following link. [3 Hours 19 Minutes Full Podcast](https://www.youtube.com/watch?v=4dC_nRYIDZU)
 
 Here is the summary of the discussion.   
 

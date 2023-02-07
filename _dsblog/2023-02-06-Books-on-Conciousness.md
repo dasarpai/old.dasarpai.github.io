@@ -393,9 +393,10 @@ Eknath Easwaran, 2019
 
 Easwaran’s best-selling translation of the ancient wisdom texts called the Upanishads is reliable, readable, and profound.In the Upanishads, illumined sages share flashes of insight, the results of their investigation into consciousness itself. In extraordinary visions, they have direct experience of a transcendent Reality which is the essence, or Self, of each created being. They teach that each of us, each Self, is eternal, deathless, one with the power that created the universe. Easwaran’s translation of the principal Upanishads and five others includes an overview of the cultural and historical setting, with chapter introductions, notes, and a Sanskrit glossary. But it is Easwaran’s understanding of the wisdom of the Upanishads that makes this edition truly outstanding.
 
-## 79. Metahuman
-Unleashing Your Infinite Potential
+## 79. Metahuman : Unleashing Your Infinite Potential
 Deepak Chopra M.D., 2019
+
+Deepak Chopra argues that consciousness is the sole creator of self, mind, brain, body, and the universe, and provides a 31-day guide to becoming Metahuman. He suggests that we can break through a blinded and illusionary “virtual reality” and understand our non-physical experience that is beyond the physical and infinite. Chopra also provides a strategy to expand our consciousness in all that we think, say, and do, and to liberate ourselves from the conditioning and constructs that underlie anxiety, tension, and ego-driven demands.
 
 ## 80. Spiritual Science
 **Why Science Needs Spirituality to Make Sense of the World**   
