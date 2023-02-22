@@ -2,19 +2,19 @@
 mathjax: true
 id: 6051
 title: Cognitive Biases 
-date: 2023-01-28
+date: 2023-02-22
 permalink: '/dsblog/cognitive-biases'
 tags: [NLP, Deep Learning, ML Training, MLOps] 
 categories: 
 
 header:
-    teaser: /assets/images/dspost/dsp6051-cognitive-biases.jpg
+    teaser: /assets/images/dspost/dsp6051-Cognitive-Biases.jpg
 author: Hari Thapliyaal 
 excerpt:
 share: true 
 ---
 
-![Cognitive Bias](/assets/images/dspost/dsp6051-cognitive-biases.jpg)
+![Cognitive Bias](/assets/images/dspost/dsp6051-Cognitive-Biases.jpg)
 
 
 # Cognitive Biases
