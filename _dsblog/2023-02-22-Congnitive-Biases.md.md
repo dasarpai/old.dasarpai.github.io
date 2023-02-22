@@ -9,9 +9,13 @@ categories:
 
 header:
     teaser: /assets/images/dspost/dsp6051-Cognitive-Biases.jpg
-author: Hari Thapliyaal 
-excerpt:
-share: true 
+author: Hari Thapliyaal   
+layout: single   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
 ---
 
 ![Cognitive Bias](/assets/images/dspost/dsp6051-Cognitive-Biases.jpg)
@@ -19,13 +23,13 @@ share: true
 
 # Cognitive Biases
 
-Introduction:
+## Introduction
 
 Cognitive biases are the systematic errors that occur when individuals deviate from rational decision-making. These biases are a result of our brain's ability to process information, which can sometimes lead to irrational thinking and decision-making. As data science continues to advance, it is critical to understand how cognitive biases can impact AI, ML, NLP, deep learning, and robotics. Cognitive biases can lead to biased data collection, modeling, and decision-making processes, which can ultimately impact the accuracy and effectiveness of these technologies.
 
 One of the most significant challenges in data science is developing models that can accurately represent and predict complex human behaviors. However, cognitive biases can significantly impact the data used to train these models. For example, **confirmation bias** can lead to the selection of only certain data that confirms preconceived notions, while **availability bias** can lead to over-reliance on easily available data. As such, it is essential for data scientists to be aware of cognitive biases and take steps to mitigate their impact on the accuracy of their models.
 
-There are many books, blogs articles, youTube discussion and talk around on this topic. Recenlty I found some wikipages which disucsses this in great length. I am taking liberty for educating my audience to extract the text and summarise here.
+There are many books, blogs articles, youTube discussion and talk around on this topic. Recenlty I found some wikipages which disucsses this in a great length. I am taking liberty for educating my audience to extract the text and summarise here.
 
 ## Belief, decision-making and behavioral   
 These biases affect belief formation, reasoning processes, business and economic decisions, and human behavior in general.   
@@ -317,3 +321,6 @@ familiarity principle (in social psychology)** : The tendency to express undue l
 **von Restorff effect** : That an item that sticks out is more likely to be remembered than other items.   
 **Zeigarnik effect** : That uncompleted or interrupted tasks are remembered better than completed ones.   
    
+## Conclusion:
+
+In conclusion, cognitive biases can have a profound impact on the accuracy and effectiveness of AI, ML, NLP, deep learning, and robotics. To mitigate these biases, data scientists should be aware of their existence and actively work to counteract them. By identifying potential sources of bias and taking steps to prevent them, data scientists can ensure that their models accurately represent complex human behaviors and decision-making processes. This, in turn, will lead to more effective and accurate technologies that have the potential to revolutionize many areas of our lives.
