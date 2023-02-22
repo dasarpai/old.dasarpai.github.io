@@ -18,7 +18,7 @@ toc: true
 toc_sticky: true   
 ---   
    
-![Books-on-Conciousness](/assets/images/dspost/dsp6049-Books-on-Conciousness.jpg)   
+![Books-on-Conciousness](/assets/images/dspost/dsp6049-Books-on-Conciousness.jpg)
    
 # Books on Conciousness   
    

@@ -20,8 +20,7 @@ toc_sticky: true
 
 ![Postcast Lex Fridman Sam Harris Consciousness FreeWill Psychedelics](/assets/images/dspost/dsp6050-Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics.jpg)
 
-
-# Podcast Summary: Lex Fridman Sam Harris Consciousness Free Will Psychedelics
+# Podcast Summary: Lex Fridman Sam Harris Consciousness Free Will Psychedelics    
 
 This is an interesting and deepdive discussion between [Lex Fridman](https://en.wikipedia.org/wiki/Lex_Fridman) and [Sam Harris](https://en.wikipedia.org/wiki/Sam_Harris). In 3 hours 20 minute enchanting discussion they explore various topics like Consciousness, Free Will, Psychedelics, AI, UFOs etc.
 
