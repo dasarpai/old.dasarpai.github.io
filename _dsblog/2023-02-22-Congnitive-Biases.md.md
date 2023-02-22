@@ -19,6 +19,14 @@ share: true
 
 # Cognitive Biases
 
+Introduction:
+
+Cognitive biases are the systematic errors that occur when individuals deviate from rational decision-making. These biases are a result of our brain's ability to process information, which can sometimes lead to irrational thinking and decision-making. As data science continues to advance, it is critical to understand how cognitive biases can impact AI, ML, NLP, deep learning, and robotics. Cognitive biases can lead to biased data collection, modeling, and decision-making processes, which can ultimately impact the accuracy and effectiveness of these technologies.
+
+One of the most significant challenges in data science is developing models that can accurately represent and predict complex human behaviors. However, cognitive biases can significantly impact the data used to train these models. For example, **confirmation bias** can lead to the selection of only certain data that confirms preconceived notions, while **availability bias** can lead to over-reliance on easily available data. As such, it is essential for data scientists to be aware of cognitive biases and take steps to mitigate their impact on the accuracy of their models.
+
+There are many books, blogs articles, youTube discussion and talk around on this topic. Recenlty I found some wikipages which disucsses this in great length. I am taking liberty for educating my audience to extract the text and summarise here.
+
 ## Belief, decision-making and behavioral   
 These biases affect belief formation, reasoning processes, business and economic decisions, and human behavior in general.   
 ### Anchoring bias   
@@ -190,14 +198,14 @@ familiarity principle (in social psychology)** : The tendency to express undue l
 **Weber–Fechner law** : Difficulty in comparing small differences in large quantities.   
 **Women are wonderful effect** : A tendency to associate more positive attributes with women than with men.   
 
-## Social   
-### Association fallacy   
+### Social   
+#### Association fallacy   
  **Authority bias** , the tendency to attribute greater accuracy to the opinion of an authority figure (unrelated to its content) and be more influenced by that opinion.   
  **Cheerleader effect** , the tendency for people to appear more attractive in a group than in isolation.   
  **Halo effect** , the tendency for a person's positive or negative traits to "spill over" from one personality area to another in others' perceptions of them (see also physical attractiveness stereotype).   
    
    
-### Attribution bias   
+#### Attribution bias   
  **Actor-observer bias** , the tendency for explanations of other individuals' behaviors to overemphasize the influence of their personality and underemphasize the influence of their situation (see also Fundamental attribution error), and for explanations of one's own behaviors to do the opposite (that is, to overemphasize the influence of our situation and underemphasize the influence of our own personality).   
  **Defensive attribution hypothesis** , a tendency to attribute more blame to a harm-doer as the outcome becomes more severe or as personal or situational similarity to the victim increases.   
  **Extrinsic incentives bias** , an exception to the fundamental attribution error, where people view others as having (situational) extrinsic motivations and (dispositional) intrinsic motivations for oneself   
@@ -212,7 +220,7 @@ familiarity principle (in social psychology)** : The tendency to express undue l
  **Ultimate attribution error** , similar to the fundamental attribution error, in this error a person is likely to make an internal attribution to an entire group instead of the individuals within the group.   
    
    
-### Conformity   
+#### Conformity   
  **Availability cascade** , a self-reinforcing process in which a collective belief gains more and more plausibility through its increasing repetition in public discourse (or "repeat something long enough and it will become true"). See also availability heuristic.   
  **Bandwagon effect** , the tendency to do (or believe) things because many other people do (or believe) the same. Related to groupthink and herd behavior.   
  **Courtesy bias** , the tendency to give an opinion that is more socially correct than one's true opinion, so as to avoid offending anyone.   
@@ -222,12 +230,12 @@ familiarity principle (in social psychology)** : The tendency to express undue l
  **Truth bias** is people's inclination towards believing, to some degree, the communication of another person, regardless of whether or not that person is actually lying or being untruthful.   
    
    
-### Ingroup bias   
+#### Ingroup bias   
  **Not invented here** , an aversion to contact with or use of products, research, standards, or knowledge developed outside a group.   
  **Outgroup homogeneity bias** , where individuals see members of other groups as being relatively less varied than members of their own group.   
    
    
-### Other social biases   
+#### Other social biases   
 **Assumed similarity bias** : Where an individual assumes that others have more traits in common with them than those others actually do.   
 **Pygmalion effect** : The phenomenon whereby others' expectations of a target person affect the target person's performance.   
 **Reactance** : The urge to do the opposite of what someone wants one to do out of a need to resist a perceived attempt to constrain one's freedom of choice (see also Reverse psychology).   
