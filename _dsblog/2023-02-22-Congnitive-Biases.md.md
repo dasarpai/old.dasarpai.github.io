@@ -32,6 +32,7 @@ There are many books, blogs articles, youTube discussion and talk around on this
 
 ## Belief, decision-making and behavioral   
 These biases affect belief formation, reasoning processes, business and economic decisions, and human behavior in general.   
+
 ### Anchoring bias   
  **Common source bias** , the tendency to combine or compare research studies from the same source, or from sources that use the same methodologies or data.   
  **Conservatism bias** , the tendency to insufficiently revise one's belief when presented with new evidence.   
@@ -59,12 +60,13 @@ These biases affect belief formation, reasoning processes, business and economic
  **The Normalcy bias** , a form of cognitive dissonance, is the refusal to plan for, or react to, a disaster which has never happened before.   
  **Effort justification** is a person's tendency to attribute greater value to an outcome if they had to put effort into achieving it. This can result in more value being applied to an outcome than it actually has. An example of this is the IKEA effect, the tendency for people to place a disproportionately high value on objects that they partially assembled themselves, such as furniture from IKEA, regardless of the quality of the end product.   
  **Ben Franklin effect** , where a person who has performed a favor for someone is more likely to do another favor for that person than they would be if they had received a favor from that person.   
- **Confirmation bias   
+ 
+ ### Confirmation bias   
  **Backfire effect** , a tendency to react to disconfirming evidence by strengthening one's previous beliefs. The existence of this bias as a widespread phenomenon has been disputed in empirical studies.   
  **Congruence bias** , the tendency to test hypotheses exclusively through direct testing, instead of testing possible alternative hypotheses.   
  **Experimenter's or expectation bias** , the tendency for experimenters to believe, certify, and publish data that agree with their expectations for the outcome of an experiment, and to disbelieve, discard, or downgrade the corresponding weightings for data that appear to conflict with those expectations.   
  **Observer-expectancy effect** , when a researcher expects a given result and therefore unconsciously manipulates an experiment or misinterprets data in order to find it (see also subject-expectancy effect).   
- **Selective perception** , the tendency for expectations to affect perception.   
+ **Selective perception** , the tendency for expectations to affect perception.  
  **Semmelweis reflex** , the tendency to reject new evidence that contradicts a paradigm.   
    
    
@@ -140,17 +142,12 @@ These biases affect belief formation, reasoning processes, business and economic
  **Status quo bias** , the tendency to prefer things to stay relatively the same.   
  **System justification** , the tendency to defend and bolster the status quo. Existing social, economic, and political arrangements tend to be preferred, and alternatives disparaged, sometimes even at the expense of individual and collective self-interest.   
    
-   
-   
-   
 ### Self-assessment   
  **Dunning–Kruger effect** , the tendency for unskilled individuals to overestimate their own ability and the tendency for experts to underestimate their own ability.   
  **Hot-cold empathy gap** , the tendency to underestimate the influence of visceral drives on one's attitudes, preferences, and behaviors.   
  **Hard–easy effect** , the tendency to overestimate one's ability to accomplish hard tasks, and underestimate one's ability to accomplish easy tasks.   
  **Illusion of explanatory depth** , the tendency to believe that one understands a topic much better than one actually does. The effect is strongest for explanatory knowledge, whereas people tend to be better at self-assessments for procedural, narrative, or factual knowledge.   
- **Objectivity illusion** , the phenomena where people tend to believe that they are more objective and unbiased than others. This bias can apply to itself - where people are able to see when others are affected by the objectivity illusion, but unable to see it in themselves. See also bias blind spot.   
-   
-   
+ **Objectivity illusion** , the phenomena where people tend to believe that they are more objective and unbiased than others. This bias can apply to itself - where people are able to see when others are affected by the objectivity illusion, but unable to see it in themselves. See also bias blind spot.    
    
 ### Truthiness   
  **Belief bias** , an effect where someone's evaluation of the logical strength of an argument is biased by the believability of the conclusion.   
@@ -207,7 +204,6 @@ familiarity principle (in social psychology)** : The tendency to express undue l
  **Cheerleader effect** , the tendency for people to appear more attractive in a group than in isolation.   
  **Halo effect** , the tendency for a person's positive or negative traits to "spill over" from one personality area to another in others' perceptions of them (see also physical attractiveness stereotype).   
    
-   
 #### Attribution bias   
  **Actor-observer bias** , the tendency for explanations of other individuals' behaviors to overemphasize the influence of their personality and underemphasize the influence of their situation (see also Fundamental attribution error), and for explanations of one's own behaviors to do the opposite (that is, to overemphasize the influence of our situation and underemphasize the influence of our own personality).   
  **Defensive attribution hypothesis** , a tendency to attribute more blame to a harm-doer as the outcome becomes more severe or as personal or situational similarity to the victim increases.   
@@ -232,11 +228,9 @@ familiarity principle (in social psychology)** : The tendency to express undue l
  **Social desirability bias** , the tendency to over-report socially desirable characteristics or behaviours in oneself and under-report socially undesirable characteristics or behaviours. See also: § Courtesy bias.   
  **Truth bias** is people's inclination towards believing, to some degree, the communication of another person, regardless of whether or not that person is actually lying or being untruthful.   
    
-   
 #### Ingroup bias   
  **Not invented here** , an aversion to contact with or use of products, research, standards, or knowledge developed outside a group.   
  **Outgroup homogeneity bias** , where individuals see members of other groups as being relatively less varied than members of their own group.   
-   
    
 #### Other social biases   
 **Assumed similarity bias** : Where an individual assumes that others have more traits in common with them than those others actually do.   
@@ -274,7 +268,7 @@ familiarity principle (in social psychology)** : The tendency to express undue l
 **Egocentric bias** : Recalling the past in a self-serving manner, e.g., remembering one's exam grades as being better than they were, or remembering a caught fish as bigger than it really was.   
 **Euphoric recall** : The tendency of people to remember past experiences in a positive light, while overlooking negative experiences associated with that event.   
 **Fading affect bias** : A bias in which the emotion associated with unpleasant memories fades more quickly than the emotion associated with positive events.   
-**Generation effect (Self-generation effect)** : That self-generated information is remembered best. For instance, people are better able to recall memories of statements that they have generated than similar statements generated by others.   
+**Generation effect (Self-generation effect)** : That self-generated information is remembered best. For instance, people are better able to recall memories of statements that they have generated than similar statements generated by others. 
 **Gender differences in eyewitness memory** : The tendency for a witness to remember more details about someone of the same gender.   
 **Google effect** : The tendency to forget information that can be found readily online by using Internet search engines.   
 **Hindsight bias ("I-knew-it-all-along" effect)** : The inclination to see past events as being predictable.   
@@ -306,7 +300,7 @@ familiarity principle (in social psychology)** : The tendency to express undue l
 **Saying is believing effect** : Communicating a socially tuned message to an audience can lead to a bias of identifying the tuned message as one's own thoughts.   
 **Self-relevance effect** : That memories relating to the self are better recalled than similar information relating to others.   
 **Serial position effect** : That items near the end of a sequence are the easiest to recall, followed by the items at the beginning of a sequence; items in the middle are the least likely to be remembered. See also recency effect, primacy effect and suffix effect.   
-**Spacing effect** : That information is better recalled if exposure to it is repeated over a long span of time rather than a short one. See also lag effect.   
+**Spacing effect** : That information is better recalled if exposure to it is repeated over a long span of time rather than a short one. See also lag effect. 
 **Spotlight effect** : The tendency to overestimate the amount that other people notice one's appearance or behavior.   
 **Stereotype bias or stereotypical bias** : Memory distorted towards stereotypes (e.g., racial or gender).   
 **Suffix effect** : Diminishment of the recency effect because a sound item is appended to the list that the subject is not required to recall. A form of serial position effect. Cf. recency effect and primacy effect.   
