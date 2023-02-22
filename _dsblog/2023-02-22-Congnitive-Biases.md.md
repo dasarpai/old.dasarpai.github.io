@@ -20,7 +20,6 @@ toc_sticky: true
 
 ![Cognitive Bias](/assets/images/dspost/dsp6051-Cognitive-Biases.jpg)
 
-
 # Cognitive Biases
 
 ## Introduction

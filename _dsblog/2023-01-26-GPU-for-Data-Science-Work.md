@@ -8,19 +8,21 @@ tags: [GPU, Deep Learning]
 categories: 
 
 header:
-    teaser: /assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg
-author: Hari Thapliyaal 
-excerpt:
-share: true 
+   teaser: /assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg
+author: Hari Thapliyaal   
+layout: single   
+excerpt:   
+author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
 ---
 
 ![GPU for Data Science Work](/assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg)
 
 # GPU for Data Science Work  
 
-## What is the difference between microprocessor (CPU) and GPU?
+## What is the difference between microprocessor (CPU) and GPU?    
 
 A microprocessor and a GPU (graphics processing unit) are both types of processors, but they are designed for different purposes and have different architectures.
 
