@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 6052
-title: title 
+title: Types of Technologies 
 date: 2023-02-24
 permalink: '/dsblog/Types-of-Technologies'
 tags: [AI, ML, Technologies] 
