@@ -1,8 +1,6 @@
 ---
 id: 101    
 title: "Reinforcement Learning Git Repositories"
-layout: posts 
-
 permalink: /dsresources/rl-git-repo
 date: 2020-07-01
 categories:

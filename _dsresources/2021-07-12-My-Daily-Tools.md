@@ -1,8 +1,6 @@
 ---
 id: 112    
 title: "My Daily Tools"
-layout: posts 
-
 permalink: /dsresources/my-daily-tools
 date: 2021-07-12
 categories:

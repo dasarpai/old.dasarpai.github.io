@@ -1,8 +1,6 @@
 ---
 id: 104    
 title: "Mathematics for Data Scientist"
-layout: posts 
-
 permalink: /dsresources/maths-for-ds
 date: 2021-07-04
 categories:

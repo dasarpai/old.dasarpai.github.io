@@ -1,8 +1,6 @@
 ---
 id: 107    
 title: "Best YouTube Channels to Learn Data Science"
-layout: posts 
-
 permalink: /dsresources/best-youtube-channels-for-ds
 date: 2021-07-07
 categories:

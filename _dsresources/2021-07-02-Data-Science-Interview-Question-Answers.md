@@ -1,8 +1,6 @@
 ---
 id: 102    
 title: "Data Science Interview Question Answers"
-layout: posts 
-
 permalink: /dsresources/ds-ai-ml-interview-resources
 date: 2020-07-02
 categories:

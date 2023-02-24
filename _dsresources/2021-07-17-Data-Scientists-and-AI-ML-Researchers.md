@@ -1,8 +1,6 @@
 ---
 id: 117    
 title: "Data Scientists and AI, ML Researchers"
-layout: posts 
-
 permalink: /dsresources/ds-ai-ml-researchers
 date: 2021-07-17
 categories:

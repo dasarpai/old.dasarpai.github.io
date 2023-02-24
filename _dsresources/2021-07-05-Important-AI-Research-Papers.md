@@ -1,8 +1,6 @@
 ---
 id: 105    
 title: "Important AI Research Papers"
-layout: posts 
-
 permalink: /dsresources/important-ai-research-papers
 date: 2021-07-05
 categories:

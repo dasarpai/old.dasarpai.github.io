@@ -1,8 +1,6 @@
 ---
 id: 111    
 title: "My Favorite Chrome Extensions"
-layout: posts 
-
 permalink: /dsresources/myfab-chrome-extensions
 date: 2021-07-11
 categories:

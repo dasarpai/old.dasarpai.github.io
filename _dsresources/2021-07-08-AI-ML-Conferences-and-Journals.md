@@ -1,8 +1,6 @@
 ---
 id: 108    
 title: "AI, ML, Deep Learning, NLP Conferences & Journals"
-layout: posts 
-
 permalink: /dsresources/ai-ml-dl-nlp-conferences
 date: 2021-07-08
 categories:

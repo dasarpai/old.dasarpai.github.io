@@ -1,8 +1,6 @@
 ---
 id: 118    
 title: "Basic Statistics for Data Science"
-layout: posts 
-
 permalink: /dsresources/basic-statistics-for-data-science
 date: 2021-07-18
 categories:

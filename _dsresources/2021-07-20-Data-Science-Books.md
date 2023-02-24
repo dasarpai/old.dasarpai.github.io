@@ -1,8 +1,6 @@
 ---
 id: 120    
 title: "Data Science, AI, ML, eBooks, PDF Books"
-layout: posts 
-
 permalink: /dsresources/ds-ai-ml-books
 date: 2022-07-20
 categories:

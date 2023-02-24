@@ -1,7 +1,6 @@
 ---
 id: 103    
 title: "Data Science Cheatsheets"
-layout: posts 
 permalink: /dsresources/data-science-cheatsheets
 date: 2022-07-03
 categories:

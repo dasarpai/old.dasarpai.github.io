@@ -1,8 +1,6 @@
 ---
 id: 116    
 title: "Data Sources, Databases, ETL Tools"
-layout: posts 
-
 permalink: /dsresources/data-sources
 date: 2021-07-16
 categories:

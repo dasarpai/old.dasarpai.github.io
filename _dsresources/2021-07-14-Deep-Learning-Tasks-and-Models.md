@@ -1,8 +1,6 @@
 ---
 id: 114    
 title: "Deep Learning Tasks and Models"
-layout: posts 
-
 permalink: /dsresources/deep-learning-tasks-and-models
 date: 2021-07-14
 categories:
