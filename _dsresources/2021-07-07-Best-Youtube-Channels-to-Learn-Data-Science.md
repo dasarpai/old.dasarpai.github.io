@@ -30,7 +30,7 @@ Disclaimer: I am not associated with any of these channels. But based on my lear
 
 
 
-![ML YouTube Channels](/assets/dspost/dsr107-ML-YouTubeChannels.jpg)
+![ML YouTube Channels](/assets/images/dspost/dsr107-ML-YouTubeChannels.jpg)
 
 ## Data Science/AI Channels
 
