@@ -16474,7 +16474,7 @@ Yours Truly Hari
 # Article5219 :
 TS Eliot's The Wast Land
 
-# Article5220 : Summary> The Power of Intention
+# Article5220 : Book Summary : The Power of Intention
 Tags:   
 **REFINE IT**
 
@@ -16495,7 +16495,7 @@ Key Point from the "The Power of Intention" by Dr. Wayne W. Dyer
 13. Satsanga, community, surrounding oneself with positive and supportive people is very important.
 14. Live in the present moment and to let go of the past and the future.
 
-# Article5221 : summary> The Power of Your Subconscious Mind
+# Article5221 : Book Summary: The Power of Your Subconscious Mind
 Tags:   
 **REFINE IT**
 
@@ -16518,7 +16518,7 @@ Key Points from "The Power of Your Subconscious Mind" by Joseph Murphy
 7. Take action and be persistent in one's efforts to tap into the power of the subconscious mind.
 8. Let go of the past and the future.
 
-# Article5222 : Summary> "The Alchemist" by Paulo Coelho 
+# Article5222 : Book Summary: "The Alchemist" by Paulo Coelho 
 Tags:   
 **REFINE IT**
 
@@ -16559,5 +16559,99 @@ If there is one Apple on the table then do two people have same data in their mi
 For example a photo of living entity is data, recorded sound of living entity is data, smell coming from a living 
  
 
-# Article5224 :
+# Article5224 : Dream Body and Physical Action 
+**REFINE IT**
+
+Dream Body and Physical Action 
+
+When you are travelling in a moving bus or train or plane, your body feels a strong need to urinate, you go to the right place, you urinate, come back to your seat and still feel the same pain in your stomach which you were before urination. It means you haven't urinated. Why because you are dreaming and you are young body and trained mind. Your body knows demand of urination is coming from dream body therefore body doesn't cooperate on the bed and avoids making mess which you in your childhood. But in childhood or weak body this not possible that you want to urinate you to he place you release urine and you feel relax.
+
+In childhood it happens because mental and physical body is not trained. So they don't understand the difference between these two and even in dream act like they are acting in real world. In old age or too much sickness it happens because your body it too weak to communicate with others and handle itself. But you are aware what is happening.
+
+Human has many desires, wishes which he want to fulfill before he dies. To fulfill those he runs throughout his life. By accident or by chance or by too much travel and exertion or some Guru's timely training when people realise this is dream then their physical and mental body coordination happens properly and they don't do all the things all the things at all places because they know this world is a hundred years long dream. So their waken consciousness don't co-operate with their physical body and mental/dream body. If there is too much pain or not fullfilling some desire they do some act like dreaming people turn a other side while sleeping and manage the situation but they never urinate in the body. You can manage this for sometime but one day you have to wake up. Otherwise other people around you will suffer too much around you because of your act. Of course they also suffer in their dream because in their dream you and your actions are real for them.
+
+It is impossible to wake the entire humanity at once. We are any other animal on this planet just by reading books, having society and economy we never get the realisation that this is advance level of dream.
+
+Like I am writing this message in dream and you are reading in another dream. Technology developed to communicate these messages developed in dream and we are using the technology in dream. Technology development was possible because some smart people observed this dream world so well they found some tricks to manage the so called physical objects around.
+
+In reality physicality is our own creation in a field called space time. Consciousness is fundamental form which time space is projected. All the things around have some reality in space time but not that we we understand with our untrained dreamy mind. It is not that we haven't been trained. We have been trained a lot and know a lot but only about another kind of dream world called physicality is reality.
+
+
+# Article5224 : Dying is Painful?
+**REFINE IT**
+
+Dying is very painful for most of the people.
+
+We want to live healthy and never ready to die.
+
+Even if you live 1000 years of life what will you do here on this planet with old body, old memories, thousands of relatives friends and enemies? When you are youth you want to be super busy. You have same routine, make lots of money. After you retire you have lots of money same borring routine. To break the routine and boredom you go to picnic or foreign tour. If you have 1000 years life you will repeat same thing.
+
+Advancement in the Health system, ecosystem due to insurance companies and society doesn't allow a sick person to die. In the name of service to elders, poor, weak, due to God fear people feel bad when they need to let person drop 
+
+# Article5225 : How Do You Want to Live?
+
+tags:  [My Views, Life, Philosophy]
+
+## How Do You Want to Live?
+
+Birth and death are certain.
+Life is full of uncertainties.
+And this is the fun of life.
+
+You do something and you get something.
+This is how the process of life goes on.
+Sometimes the output of your process 
+meets your expectations and sometimes not.
+
+Sometimes you think things happen as per your wish.
+Sometimes you think it happens as per your karma.
+Sometimes you think you are chosen and blessed.
+Sometimes you think you are nothing in this cosmos.
+Perhaps the creator is not aware of 
+your existence in this vast phenomenal existence.
+Sometimes you want to rule the world 
+and sometimes you feel what is the use of living.
+Human moods are like this.
+
+What is the reality around us?
+All are speculations.
+Whatever we know that we know 
+through the prism of our colored mind.
+Hence, we see whatever is the emotional or energy state of mind.
+We don't know the truth.
+
+Normal people don't want to accept this ignorance and helplessness. 
+And keep speaking and working.
+Wise goes in silence and starts observing.
+
+Some want to live like a flower in a forest.
+When it came into existence and when it dies
+No one knows, only the flower knows.
+Life may be one day long or one month, 
+how does it matter? 
+Flower was life, it lived its life fully 
+under the sun, on the planet, around the air, 
+with water and fire within.
+
+Some want to live like an atom bomb.
+They think, when they die there should be 
+a huge storm and earthquake around. 
+Everyone around the world should know that Mr or Ms. X is no more. 
+Even the planet and star should weep for them.
+They want people should cry for them.
+This crying after is so important for some people 
+that they love the concept "who will cry when I die". 
+They write and read books on this topic.
+They create and watch movies around this topic.
+And they don't live in awareness.
+
+How you want to live.
+"Life" like a flower in silence or
+"Dead" like a bomb is your choice.
+A bomb may live 1000 years because it is never a life.
+A flower may live for 2 hours, it is a life.
+
+Hari Om Tat Sat
+Yours Truly Hari
+
 

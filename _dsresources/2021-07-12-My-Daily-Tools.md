@@ -20,4 +20,4 @@ share: true
 
 ![My Daily Tools](/assets/images/dspost/dsr112-My-Daily-Tools.jpg)
 
-[My Daily Tools](https://docs.google.com/spreadsheets/d/e/2PACX-1vRDBsF3sb-PGIRuoBcPFPvpdF6lujUFDLU3BsaX6hh1Al_4998Xabn7zWsbQ42_kym-NRXsUGIM_iNd/pubhtml?gid=1906838135&single=true). It is an excel sheet and I keep updating this, as and when I find some new tool.
+[My Daily Tools](https://docs.google.com/spreadsheets/d/e/2PACX-1vRacudPugSVa6duH45ABzFET-nWQP8yP0Wapo39Wr7NEv4Si1d_eVzTpm3OiJerfaP4ZVZ1Z_BCVjVS/pubhtml?gid=1881926989&single=true). It is an excel sheet and I keep updating this, as and when I find some new tool.

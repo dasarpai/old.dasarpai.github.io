@@ -30,6 +30,7 @@ This is a 390 page personal learning diary and it contains approx 1000 resources
 <object data="../assets/docs/Hari-Thapliyaal-AI-Diary.pdf" width="1000" height="1000" scroll=True type='application/pdf'></object>
 
 [Download Link to this Diary](../assets/docs/Hari-Thapliyaal-AI-Diary.pdf)
+[Live Diary is Here](https://docs.google.com/document/d/1f3nKBY7etsUAXj5ULqPHQV1vPCzDJl74gxcfGctyqsk/edit?usp=sharing)
 
 Table of Contents
 1. ITU-AI-ML-in-5g-challenge / GNN Challenge

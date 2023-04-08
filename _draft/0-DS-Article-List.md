@@ -49,4 +49,5 @@ dsp6047-Responsible-AI
 dsp6048-Application-of-AI-in-BFSI
 dsp6049-Books-on-Conciousness
 dsp6050-Postcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics
-dsp6051-cognitive-bias
+dsp6051-Cognitive-Biases
+dsp6052-Types-of-Technologies
