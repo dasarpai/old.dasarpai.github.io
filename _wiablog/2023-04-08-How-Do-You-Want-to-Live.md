@@ -25,7 +25,7 @@ And this is the fun of life.
     
 You do something and you get something.    
 This is how the process of life goes on.    
-Sometimes the output of your process
+Sometimes the output of your process    
 meets your expectations and sometimes not.    
     
 Sometimes you think things happen as per your wish.    
@@ -42,11 +42,13 @@ What is the reality around us?
 All are speculations.    
 Whatever we know that we know
 through the prism of our colored mind.    
-Hence, we see whatever is the emotional or energy state of mind.    
+Hence, we see whatever is the emotional 
+or energy state of our mind.    
 We don't know the truth.    
     
-Normal people don't want to accept this ignorance and helplessness.
-And keep speaking and working.    
+Normal people don't want to accept    
+this ignorance and helplessness.
+So they keep speaking and working.    
 Wise goes in silence and starts observing.    
     
 Some want to live like a flower in a forest.    
@@ -56,12 +58,17 @@ Life may be one day long or one month,
 how does it matter?
 Flower was life, it lived its life fully
 under the sun, on the planet, around the air,
-with water and fire within.    
+with water and fire within.   
+It becomes part of that system    
+from which it came in existence.    
+No fuss of feeling great, doing great,    
+becoming the greatest flower of all the time.
     
 Some want to live like an atom bomb.    
 They think, when they die there should be
 a huge storm and earthquake around.
-Everyone around the world should know that Mr or Ms. X is no more.
+Everyone around the world should know 
+that Mr or Ms. X is no more.
 Even the planet and star should weep for them.    
 They want people should cry for them.    
 This crying after is so important for some people
