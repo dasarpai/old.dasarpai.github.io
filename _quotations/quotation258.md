@@ -2,7 +2,7 @@
 mathjax: true
 id: 9258
 title: 'Quotation 258'
-date: 2023-02-03
+date: 2023-04-12
 permalink: '/quotations/Words-of-Socrates'
 tags: [WIA Quotations] 
 categories: 
