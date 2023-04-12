@@ -2926,6 +2926,26 @@ Emotional Machine
 
 People say AI and robots do not have emotions and do not feel like humans feel joy, love, suffering, and pleasure. It is not a question of whether we can create an emotional robot or not. After realizing that Maths and Statistics really work very well, we can create those machines. The real question is who will buy those robots, that throw tantrums like your partner, children, bosses, and subordinates throws? Are you not already fed up with biological machines that you want to invest in silicon machines and suffer?
 
+# Quotation258
 
-  
+## Words of Socrates
+Four Socratic Paradoxes
+No evil can happen to a good man.
+Man is not happen to have soul, but soul happens to have body.
+Knowledge is kind of virtue and virtue is kind of knowledge.
+Learnings is really remembering.
 
+## Important Quotes from  Socrates (469–399 BC)
+By all means marry; if you get a good wife, you’ll become happy; if you get a bad one, you’ll become a philosopher.
+The way to gain a good reputation is to endeavor to be what you desire to appear.
+The secret of happiness is not found in seeking more, but in developing the capacity to enjoy less.
+He who is not contented with what he has, would not be contented with what he would like to have.
+Thank not those faithful who praise all thy words and actions; but those who kindly reprove thy faults.
+I know you won't believe me, but the highest form of Human Excellence is to question oneself and others.
+Beware the barrenness of a busy life.
+Contentment is natural wealth, luxury is artificial poverty.
+You should eat to live; not live to eat.
+An honest man is always a child.
+The unexamined life is not worth living.
+Know thyself.
+To find yourself, think for yourself.
