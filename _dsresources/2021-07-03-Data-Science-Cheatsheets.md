@@ -19,7 +19,7 @@ share: true
 ---
 ![Data Science Cheatsheets](/assets/images/dspost/dsr103-Data-Science-Cheatsheets.jpg)
 
-All these cheat sheets are available to me and kept at <a href="https://drive.google.com/drive/u/1/folders/1dM-Xiz2Iclw0tWT7Uc8GYuWLLJ-e-4YH" target="_blank">this link</a>. 140+ cheatsheet on ML, DL, DE, DA, NLP, Algorithms, Pandas, Numpy, Dask, Bigdata, Statistics, Python, SQL, Docker, sklearn, git, GNN etc.
+All these cheat sheets are available to me and kept at <a href="https://drive.google.com/drive/folders/1o9vGm7CZnFL-ICR3yQURz0kEyX1P5VjU" target="_blank">this link</a>. 140+ cheatsheet on ML, DL, DE, DA, NLP, Algorithms, Pandas, Numpy, Dask, Bigdata, Statistics, Python, SQL, Docker, sklearn, git, GNN etc.
 
 1. 21 Types of SQL joins-CHEATSHEET.pdf
 2. 5W1H-DataScience-CHEATSHEET.jpg
