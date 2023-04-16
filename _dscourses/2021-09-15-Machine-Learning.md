@@ -28,7 +28,7 @@ share: true
 
 ![Machine Learning Course](/assets/images/dspost/dsc301-Machine-Learning.jpg)
 
-**Machine Learning Course**
+**Machine Learning Courses**
 
 A brief summary of the topics covered in this course is as below. This is 150 hours course, it is suggested to complete this course in 2 Months. Apart from my classroom course, you will be given exercises, and it will take another 100 hours in the course duration to complete these exercises.
 
