@@ -1,8 +1,8 @@
 ---                                
 id: 5218                                
 mathjax: true                                
-title:  The-Real-Hell-of-False-Ego                        
-date: "2023-01-19T08:33:00+05:30"                                
+title:  The Real Hell of False Ego                        
+date: "2023-01-26T08:33:00+05:30"                                
 permalink: /wiaposts/The-Real-Hell-of-False-Ego                          
 tags: [My Views, Life, Society]                       
                                 

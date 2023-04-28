@@ -219,6 +219,12 @@
 5218 : Read Hell of False Ego
 
 5219-The-Waste-Land.md
-
-5225-How-Do-You-Want-to-Live
+x5220-Book Summary : The Power of Intention
+x5221-Book Summary: The Power of Your Subconscious Mind
+x5222-Book Summary: "The Alchemist" by Paulo Coelho 
+x5223- Life and Data
+x5224-Dying is Painful?
+5225-How Do You Want to Live?
+5226-Dream Body and Physical Action 
+5227-How-Do-You-Want-to-Live
 
