@@ -1,9 +1,9 @@
 ---    
 id: 5221    
 mathjax: true    
-title:  Book Summary: The Power of Your Subconscious Mind      
+title:  "Book Summary: The Power of Your Subconscious Mind"     
 date: "2023-04-28T08:33:00+05:30"    
-permalink: /wiaposts/Importance-of-Skills-in-the-AI-Age    
+permalink: /wiaposts/Book-Summary-The-Power-of-Your-Subconscious-Mind   
 tags:  [Book Summary]     
     
 categories:    
