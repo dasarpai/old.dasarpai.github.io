@@ -18,7 +18,7 @@ share: true
     
 ![Book Summary : The Power of Your Subconscious Mind](/assets/images/wiapost/5221-Book-Summary-The-Power-of-Your-Subconscious-Mind.jpg)    
 
-# The Power of Your Subconscious Mind
+# Book Summary : The Power of Your Subconscious Mind
 
 Key Points from "The Power of Your Subconscious Mind" by Joseph Murphy
 
@@ -29,15 +29,15 @@ Key Points from "The Power of Your Subconscious Mind" by Joseph Murphy
 5. Have faith and trust in the power of the subconscious mind.
 6. To harness the power of the subconscious mind use positive thinking and the power of gratitude.
 6. Subconscious mind can be used 
-	A. To overcome Fears and phobias, 
-	B. To improve relationships, 
-	C. To aAchieve success in one's career.
-	D. To heal the body and improve physical health.
-	E. To overcome bad habits and addictions.
-	F. To increase memory, intelligence, and achieve greater success in life.
-	G. To improve their self-esteem and confidence
+	- To overcome Fears and phobias, 
+	- To improve relationships, 
+	- To aAchieve success in one's career.
+	- To heal the body and improve physical health.
+	- To overcome bad habits and addictions.
+	- To increase memory, intelligence, and achieve greater success in life.
+	- To improve their self-esteem and confidence
 7. Take action and be persistent in one's efforts to tap into the power of the subconscious mind.
 8. Let go of the past and the future.
 
-![Book Summary: The Power of Your Subconscious Mind](/assets/images/wiapost/5221-The-Power-of-Your-Subconscious-Mind.png)
+![Mind Map : The Power of Your Subconscious Mind](/assets/images/wiapost/5221-The-Power-of-Your-Subconscious-Mind.png)
 

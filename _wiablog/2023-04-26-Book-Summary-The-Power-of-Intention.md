@@ -18,7 +18,7 @@ share: true
     
 ![Book Summary : The Power of Intention](/assets/images/wiapost/5220-Book-Summary-The-Power-of-Intention.jpg)    
     
-# The Power of Intention
+# Book Summary : The Power of Intention
 
 Key Point from the "The Power of Intention" by Dr. Wayne W. Dyer   
 
