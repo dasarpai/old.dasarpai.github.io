@@ -16654,6 +16654,6 @@ Like I am writing this message in dream and you are reading in another dream. Te
 
 In reality physicality is our own creation in a field called space time. Consciousness is fundamental form which time space is projected. All the things around have some reality in space time but not that we we understand with our untrained dreamy mind. It is not that we haven't been trained. We have been trained a lot and know a lot but only about another kind of dream world called physicality is reality.
 
+# Article5227 : Importance of Skills in The AI Age 
 
-# Article5227 : Human Life and AI.
 
