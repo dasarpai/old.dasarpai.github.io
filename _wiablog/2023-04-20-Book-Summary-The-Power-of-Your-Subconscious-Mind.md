@@ -16,8 +16,9 @@ author_profile: true
 share: true    
 ---    
     
-![Book Summary: The Power of Your Subconscious Mind](/assets/images/wiapost/5221-Book-Summary-The-Power-of-Your-Subconscious-Mind.jpg)    
-    
+![Book Summary : The Power of Your Subconscious Mind](/assets/images/wiapost/5221-Book-Summary-The-Power-of-Your-Subconscious-Mind.jpg)    
+
+# The Power of Your Subconscious Mind
 
 Key Points from "The Power of Your Subconscious Mind" by Joseph Murphy
 
@@ -37,3 +38,6 @@ Key Points from "The Power of Your Subconscious Mind" by Joseph Murphy
 	G. To improve their self-esteem and confidence
 7. Take action and be persistent in one's efforts to tap into the power of the subconscious mind.
 8. Let go of the past and the future.
+
+![Book Summary: The Power of Your Subconscious Mind](/assets/images/wiapost/5221-The-Power-of-Your-Subconscious-Mind.png)
+
