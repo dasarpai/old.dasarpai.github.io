@@ -2949,3 +2949,12 @@ An honest man is always a child.
 The unexamined life is not worth living.
 Know thyself.
 To find yourself, think for yourself.
+
+
+# Quotation259
+
+## Learning Process
+
+If you learning you will not fail in life.
+
+But if you not failing it doesn't mean your learning. You may be just passing.
