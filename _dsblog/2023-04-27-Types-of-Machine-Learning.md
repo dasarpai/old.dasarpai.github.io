@@ -7,7 +7,6 @@ permalink: '/dsblog/Types-of-Machine-Learning'
 tags: [Machine-Learning]
 categories:
 
-
 header:
     teaser: /assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg
 author: Hari Thapliyaal  
@@ -22,11 +21,7 @@ toc_sticky: true
 
 ![Types of Machine Learning](/assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg)
 
-
-
-
 # Types of Machine Learning
-
 
 ## Introduction
 Machine learning is a field of artificial intelligence that focuses on developing algorithms that can learn from data and make predictions or decisions. There are several types of machine learning techniques, each with its strengths and weaknesses. In this post, we will explore some of the most commonly used machine learning techniques, including supervised learning, unsupervised learning, reinforcement learning, and more. This post is not about deep diving into these topics but to give you a oneliner understanding and the difference between these different techniques.
@@ -464,9 +459,12 @@ There are many models and techniques that fall under adaptive learning. Here are
 - Deep residual networks: These are deep neural networks that use residual connections to learn the difference between the input and the output, allowing for easier training and better performance.
 - Adaptive boosting (AdaBoost): This is an ensemble learning method that combines several weak learners to create a strong learner. The algorithm adapts the weight of the weak learners based on their performance. AdaBoost is commonly used in computer vision, speech recognition, and other applications.
 
+## 26. Federated learning 
+Federated learning is a machine learning approach that allows multiple devices or entities to collaboratively train a model without sharing their local data with each other or a central server. Instead, each entity trains the model on its local data and sends only the model parameters to a central server, which aggregates them to update the global model. This approach allows for privacy-preserving machine learning, as the raw data remains on the local devices and is not shared with any other parties.
+
+Federated learning has applications in various domains, including healthcare, finance, and Internet of Things (IoT) devices. For example, in healthcare, federated learning can be used to train a predictive model on patient data without compromising their privacy. Similarly, in finance, federated learning can be used to train models on transaction data from multiple banks without sharing sensitive information between them
 
 ## Conclusion
-
 
 Machine learning techniques are essential for solving many real-world problems, from image recognition and natural language processing to self-driving cars and medical diagnosis. Each method has its strengths and limitations, and the choice of technique depends on the specific problem and the available data. By understanding the different types of machine learning techniques, you can select the most appropriate method for your project and achieve better results. As the field of machine learning continues to evolve, we can expect to see new and more powerful techniques emerge, making it an exciting time for anyone interested in artificial intelligence.
 
