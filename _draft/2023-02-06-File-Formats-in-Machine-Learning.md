@@ -1,7 +1,7 @@
 replace nn, title, slug
 ---
 mathjax: true
-id: nn
+id: 6054
 title: File Formats in Machine Learning 
 date: 2023-01-28
 permalink: '/dsblog/File-Formats-in-Machine-Learning'
