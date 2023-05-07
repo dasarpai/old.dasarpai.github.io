@@ -9,9 +9,13 @@ categories:
 
 header:
     teaser: /assets/images/dspost/dsp6059-Business-Usecases-of-GPT.jpg
-author: Hari Thapliyaal 
-excerpt:
-share: true 
+author: Hari Thapliyaal   
+layout: single   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true
 ---
 
 ![Application of GPT](/assets/images/dspost/dsp6059-Business-Usecases-of-GPT.jpg)
@@ -53,7 +57,7 @@ Be-my-eyes is Image-to-text object recognition tool
  - AI-powered assistant that functions as both a virtual tutor for students and a classroom assistant for teachers.
  - To think about questions like, ‘Why did you answer that way? Why do you think that's true? What would happen if—?
  
- ## Duolingo (Language Edu)
+## Duolingo (Language Edu)
 Duolingo is teaching 100+ different language to people across the world.
 - Learners advance from simple vocabulary exercises to complicated sentence structures with taps and swipes on their phone. 
 - Previously, Duolingo attempted to “chat” with learners through scripted conversations incorporating classic scenarios like ordering food, meeting someone for the first time, or buying a plane ticket. But Bodge says what Duolingo needed was the ability to converse with learners in niche contexts and “immersively”
@@ -65,14 +69,14 @@ Yabble is AI-powered insights for smarter, quicker business strategy tool.
  - Yabble created a platform where organizations could easily analyze thousands of customer data points shared through surveys or customer feedback forms, and pull together clear, data-backed insights
 
  
- ## Inworld AI (Media & Entertainment)
+## Inworld AI (Media & Entertainment)
  - Inworld is making this next generation of characters more engaging.
  - Inworld was able to build out differentiated aspects of characters’ personalities including emotions, memory, and behaviors.
  - The rich characters who players befriend or battle are only as complex as the scripts created for them.
  - Using Inworld, creators can bring a non-playable character to life in minutes, commonly known as a NPC, using natural language to describe the character’s personality. They can also tailor elements of cognition and behavior, including the character’s goals, motivations, manners of speech, memories, and even voice.
  
  
- ## Government of Iceland
+## Government of Iceland
  - Icelanders cherish their language for its rich cultural heritage and connection to the nation’s identity.
  - The country’s government maintains a Language Planning Department that coins Icelandic terms for new ideas, rather than adopting so-called “loanwords” from other languages. A computer, for instance, is a tölva (“number prophetess”). Through these efforts, the language preserves its distinctive character and remains closely connected to its Old Norse roots.
  
@@ -80,7 +84,7 @@ Yabble is AI-powered insights for smarter, quicker business strategy tool.
  - Testers then select the best answer from the four responses and edit it to create an ideal completion. The data from this process is then used to further train GPT-4 to produce better responses in the future.
  - Prior to RLHF, the process of fine-tuning a model was labor and data-intensive. Þorsteinsson’s team attempted to fine-tune a GPT-3 model with 300,000 Icelandic language examples, but the results were disappointing.
  
- ## Waymark 
+## Waymark 
  - Waymark was perfecting their easy-to-use video creation platform. GPT-3 helped them consistently produce stronger, more relevant scripts.
  - Waymark has established itself as the leading platform to create TV commercials and digital video ads—one of the most powerful ways for businesses to introduce their products, services, and events. 
  - With an extensive library of professionally-produced templates that anyone can edit, regardless of technical background, Waymark reduces the barriers that prevent so many would-be advertisers from launching successful video campaigns.
@@ -88,7 +92,7 @@ Yabble is AI-powered insights for smarter, quicker business strategy tool.
  - Their copywriters had created industry-based video scripts for top industries, but they often proved too vague and required a lot of customer input. Waymark started to solve this problem with a proprietary script-writing feature, but the results were still too generic for many businesses. As Waymark’s business grew and their customer base diversified, the challenge only grew more complex.
  - Our power users were spending too much time editing scripts, and other users would simply give up altogether.
  
- ## Other Powerful Applications 
+## Other Powerful Applications 
  In General Other companies can use GPT for usecases like 
  1. Idea Generation and Brainstorming
  2. Simplifying long, complex documents
@@ -101,7 +105,7 @@ Yabble is AI-powered insights for smarter, quicker business strategy tool.
  9. Training and Development 
  10. Along with Wishper and DALL-E GPT can create multi-modal user interface to communicate with human.
  
- ## Conclusion
+## Conclusion
  
 This article discusses the various ways in which businesses are utilizing GPT technology in their day-to-day operations. GPT is capable of generating human-like text based on a given prompt. It has several advantages, including automating repetitive tasks, analyzing large amounts of data, and providing insights that would be difficult for humans to uncover on their own. The article provides examples of organizations, such as Morgan Stanley, Stripe, Be-my-eyes, and others, who are using GPT to automate tasks, enhance customer support, and provide personalized and immersive learning experiences to their users. The potential of GPT in enhancing business efficiency, improving customer experience, and driving innovation is evident from these examples, and more organizations are likely to adopt this technology to stay competitive.
  
