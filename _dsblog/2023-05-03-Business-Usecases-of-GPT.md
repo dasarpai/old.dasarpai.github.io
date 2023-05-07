@@ -1,22 +1,22 @@
 ---
 mathjax: true
 id: 6059
-title: Application and Business Usecases of GPT
+title: Business Usecases of GPT
 date: 2023-05-03
-permalink: '/dsblog/Application-and-Business-Usecases-of-GPT'
+permalink: '/dsblog/Business-Usecases-of-GPT'
 tags: [NLP, GAN, GPT, Deep Learning] 
 categories: 
 
 header:
-    teaser: /assets/images/dspost/dsp6059-Application-of-GPT.jpg
+    teaser: /assets/images/dspost/dsp6059-Business-Usecases-of-GPT.jpg
 author: Hari Thapliyaal 
 excerpt:
 share: true 
 ---
 
-![Application of GPT](/assets/images/dspost/dsp6059-Application-of-GPT.jpg)
+![Application of GPT](/assets/images/dspost/dsp6059-Business-Usecases-of-GPT.jpg)
 
-# Application and Business Usecases of GPT 
+# Business-Usecases-of-GPT
 
 ## Introduction 
 
