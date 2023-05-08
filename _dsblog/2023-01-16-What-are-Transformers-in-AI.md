@@ -29,13 +29,43 @@ Transformers are a type of neural network architecture that have several propert
 
 Precursor of Transformers were RNN, LSTM and GRU architecture. Transformers are based on the 2017 research paper ["Attention is All You Need"](https://arxiv.org/abs/1706.03762)
 
-Intially Transformers were used for NLP related task. Slowly researchers started exploring the power of the Transformer Architecters and as of 2023 it is used for hundreds of task in different AI domains of technologies like:
-- NLP, NLU, NLG
-- Computer Vision 
-- Audio Processing, Classification, Audio Generation 
+Intially Transformers were used for NLP related task. Slowly researchers started exploring the power of the Transformer Architecters and as of 2023 these are used for hundreds of task in different AI domains of technologies like:
+- Text Models (NLP, NLU, NLG)
+- Vision Models (Computer Vision)
+- Audio Models (Audio Processing, Classification, Audio Generation)
+- Reinforcement (RL) Models
+- Timeseries Models
 - Multimodal : OCR (extract informatation from scanned docments), video classification, visual QA, table data question answering 
+- Graph Models
 
 Starting the journey in 2017, as of now (2023) we have approx 200 Transformer based architectures proposed by various researchers for various purposes. Using these architecure and various benchmark datasets thousands of models has be created which gives SOTA performance on various tasks. Based on your need you choose what architure can help you meeting your project objective. There are high chances you will get some pretrained model which you can used without training (Zero-shot) or small finetuning (one shot or few shot) efforts. For that you need to explore [Huggingface](huggingface.co) and [PaperWithCode](https://paperswithcode.com/)
+
+## Tasks, which Transformer can do
+### Vision Tasks
+- Image classification
+- Semantic segmentation
+- Video classification
+- Object detection
+- Zero-shot object detection
+- Zero-shot image classification
+- Depth estimation
+### Multimodal Tasks
+- Image captioning
+- Document Question Answering
+### Audio Tasks
+- Audio classification
+- Automatic speech recognition
+### Text Tasks
+- Text classification
+- Token classification (NER, POS etc)
+- Question answering
+- Causal language modeling
+- Masked language modeling
+- Translation
+- Summarization
+- Multiple choice
+
+## Summary of 200+ Transformer
 
 Below is the table which summarises these approx 200 transformers.
 
@@ -255,7 +285,7 @@ Sno | Transformer | Date | Type | Researcher  |Paper | Author
 209 | [FLAVA](https://huggingface.co/docs/transformers/model_doc/flava) [Paper](https://arxiv.org/abs/2112.04482) | Apr, 2022 | Autoencoding | Facebook AI  |A Foundational Language And Vision Alignment Model | by Amanpreet Singh, Ronghang Hu, Vedanuj Goswami, Guillaume Couairon, Wojciech Galuba, Marcus Rohrbach, and Douwe Kiela.
 
 
-# Conclusion
+## Conclusion
 I hope this article gave you an idea about Transformer architecture, their variants, their types, their birth chronology and the creators. As we have seen, the Transformer architecture has been a game-changer in natural language processing and computer vision tasks. It has been instrumental in enabling breakthroughs in machine translation, language understanding, and image classification, among other fields.
 
 There are many types of Transformers, such as autoregressive models like GPT, autoencoding models like BERT and its variants, and hybrid models that combine the strengths of both. Additionally, there are many variants of the Transformer architecture, such as XLNet, RoBERTa, and T5, each with their unique contributions and improvements.
