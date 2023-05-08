@@ -39,7 +39,7 @@ Starting the journey in 2017, as of now (2023) we have approx 200 Transformer ba
 
 Below is the table which summarises these approx 200 transformers.
 
-**Note :** Name starting with are not Transformers, most of them are pretransformer age architectures.      
+**Note :** Name starting with * are not Transformers, most of them are pretransformer age architectures.      
 **Help Needed:** If you find any archive paper's link is incorrect then let me know via hari.prasad@vedavit-ps.com    
 
 Sno | Transformer | Date | Type | Researcher  |Paper | Author
