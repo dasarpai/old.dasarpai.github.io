@@ -25,20 +25,23 @@ toc_sticky: true
 ![Transformer](/assets/images/dspost/transformer/transformer-arch.jpg)
 
 ## Background
-Transformers are a type of neural network architecture that have several properties that make them effective for modeling data with long-range dependencies. They generally feature a combination of multi-headed attention mechanisms, residual connections, layer normalization, feedforward connections, and positional embeddings.
+Whether GPT, ChatGPT, DALL-E, Whisper, Satablity AI or whatever significant you see in the AI worlds nowdays it is because of Transformer Architecture. Transformers are a type of neural network architecture that have several properties that make them effective for modeling data with long-range dependencies. They generally feature a combination of multi-headed attention mechanisms, residual connections, layer normalization, feedforward connections, and positional embeddings.   
 
-Precursor of Transformers were RNN, LSTM and GRU architecture. Transformers are based on the 2017 research paper ["Attention is All You Need"](https://arxiv.org/abs/1706.03762)
+Precursors of Transformers were RNN, LSTM, and GRU architecture. Transformers are based on the 2017 research paper ["Attention is All You Need"](https://arxiv.org/abs/1706.03762)
 
-Intially Transformers were used for NLP related task. Slowly researchers started exploring the power of the Transformer Architecters and as of 2023 these are used for hundreds of task in different AI domains of technologies like:
+
+Initially, Transformers were used for NLP-related tasks. Slowly researchers started exploring the power of the Transformer Architectures and as of 2023 these are used for hundreds of tasks in different AI domains of technologies like:
 - Text Models (NLP, NLU, NLG)
 - Vision Models (Computer Vision)
 - Audio Models (Audio Processing, Classification, Audio Generation)
 - Reinforcement (RL) Models
-- Timeseries Models
-- Multimodal : OCR (extract informatation from scanned docments), video classification, visual QA, table data question answering 
+- Time-series Models
+- Multimodal: OCR (extract information from scanned documents), video classification, visual QA, table data question answering
 - Graph Models
 
-Starting the journey in 2017, as of now (2023) we have approx 200 Transformer based architectures proposed by various researchers for various purposes. Using these architecure and various benchmark datasets thousands of models has be created which gives SOTA performance on various tasks. Based on your need you choose what architure can help you meeting your project objective. There are high chances you will get some pretrained model which you can used without training (Zero-shot) or small finetuning (one shot or few shot) efforts. For that you need to explore [Huggingface](huggingface.co) and [PaperWithCode](https://paperswithcode.com/)
+Starting the journey in 2017, as of now (2023) we have approx 200 Transformer based architectures proposed by various researchers for various purposes. Using these architecture and various benchmark datasets thousands of models have been created which give SOTA performance on various tasks. Based on your need you choose which architecture can help you meet your project objective. There are high chances you will get some pre-trained models which you can use without training (Zero-shot) or small finetuning (one-shot or few-shot) efforts. For that you need to explore [Huggingface](huggingface.co) and [PaperWithCode](https://paperswithcode.com/)
+
+This articles list all the major Transformer related researcher paper, their creators, capability and date of release.
 
 ## Tasks, which Transformer can do
 ### Vision Tasks
@@ -49,12 +52,26 @@ Starting the journey in 2017, as of now (2023) we have approx 200 Transformer ba
 - Zero-shot object detection
 - Zero-shot image classification
 - Depth estimation
+
 ### Multimodal Tasks
 - Image captioning
 - Document Question Answering
+- Image to Text
+- Text to Video
+- Document Question Answering
+- Visual Question Answering 
+- Text to Image
+- Image to Image 
+- Image Generation
+
 ### Audio Tasks
 - Audio classification
 - Automatic speech recognition
+- Audio to Audio
+- Text to Speech
+- Voice Activity Detection
+- Audio Generation 
+
 ### Text Tasks
 - Text classification
 - Token classification (NER, POS etc)
@@ -64,6 +81,29 @@ Starting the journey in 2017, as of now (2023) we have approx 200 Transformer ba
 - Translation
 - Summarization
 - Multiple choice
+- Sentence Similarity
+- Table Question Answering
+- Fill in the black (Masking Filling)
+- Conversation
+
+## Frameworks Used for Writing Models
+As of May'2023 following frameworks are used for creating models.   
+- TensorFlow
+- Caffe
+- Caffe2
+- PyTorch
+- MXNet
+- Keras
+- Chainer
+- JAX
+
+## Number of Models in Model Repositories
+There are many model repositories but the most famous are as below. These model repositories host pre-trained models. You can download these models and use them for your project.   
+
+- [Huggingface](https://huggingface.co/models) : As of May, 2023, Huggingface has **196,000+ models** in the repository. As of Sep'2021, there were 10,000 models. You can see the exponential growth in the models in the Huggingface model repository.
+- Another model repository [tfhub](https://tfhub.dev/s?subtype=module,placeholder) has around **132,000+ models**. Tfhub hosts tensorflow-based models.  
+- [Keras Moel Zoo](https://modelzoo.co) hosts around 3500 models.  
+- [Pytorch Model Hub](https://pytorch.org/hub/research-models)  
 
 ## Summary of 200+ Transformer
 
