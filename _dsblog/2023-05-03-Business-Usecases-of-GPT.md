@@ -91,7 +91,24 @@ Yabble is AI-powered insights for smarter, quicker business strategy tool.
  - Waymark made video creation accessible and easy for anyone, their product research showed that two out of three people still struggled with what to say in those videos. 
  - Their copywriters had created industry-based video scripts for top industries, but they often proved too vague and required a lot of customer input. Waymark started to solve this problem with a proprietary script-writing feature, but the results were still too generic for many businesses. As Waymark’s business grew and their customer base diversified, the challenge only grew more complex.
  - Our power users were spending too much time editing scripts, and other users would simply give up altogether.
- 
+
+## MakemyTrip
+- MakeMyTrip is introducing voice-assisted booking in Indian languages. The feature has been embedded into the landing page of the platform and has to be activated before use.  For this, MakeMyTrip is adopting ChatGPT-like generative AI, for which it has collaborated with Microsoft.
+- GPT technology, will analyse specific user requirements and sift through thousands of options, to recommend, customize and book holiday packages
+
+## Koo - (India’s rival to Twitter) 
+- Integrated ChatPT on the platform to assist users in creating posts in different languages. 
+- Using ChatGPT internally, mostly on the back-end to “deeply integrate” some engineering practices
+- GPT will help in making things faster at a lower cost
+
+## Plum (Employee health insurance)
+- Rolled out 'PolicyGPT', an AI chatbot built atop OpenAI's GPT-3.5 API. 
+- It helps clients in getting a faster resolution for policy-related queries, eliminating the need for a customer service team. 
+- The company still has a smaller team of human agents for due diligence as the application is only 96.3 per cent accurate at the moment.
+
+## Securnonix 
+- Employing generative AI technologies like ChatGPT, as they can cut down on not just employee pay-cheques but also office space, transportation and social security benefits.
+
 ## Other Powerful Applications 
  In General Other companies can use GPT for usecases like 
  1. Idea Generation and Brainstorming
