@@ -15,7 +15,7 @@ layout: single
 author_profile: true
 ---
 
-![Domain Knowledge in Machine Learning](/assets/images/dspost/dsp6015-domain-knowledge-in-machine-learning.jpg)
+![Domain Knowledge in Machine Learning](/assets/images/dspost/dsp6015-domain-knowledge-in-machine-learning.jpg)   
 
 # Domain Knowledge in Machine Learning   
 

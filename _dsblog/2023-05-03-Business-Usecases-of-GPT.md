@@ -18,7 +18,7 @@ toc: true
 toc_sticky: true
 ---
 
-![Application of GPT](/assets/images/dspost/dsp6059-Business-Usecases-of-GPT.jpg)
+![Application of GPT](/assets/images/dspost/dsp6059-Business-Usecases-of-GPT.jpg)   
 
 # Business-Usecases-of-GPT   
 

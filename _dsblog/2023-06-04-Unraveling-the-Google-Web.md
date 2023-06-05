@@ -18,7 +18,7 @@ toc: true
 toc_sticky: true 
 ---
 
-![Unraveling the Google Web Exploring the Purpose of Google's Websites](/assets/images/dspost/dsp6060-Unraveling-the-Google-Web.jpg)
+![Unraveling the Google Web Exploring the Purpose of Google's Websites](/assets/images/dspost/dsp6060-Unraveling-the-Google-Web.jpg)   
 
 # Unraveling the Google Web Exploring the Purpose of Google's Websites   
 

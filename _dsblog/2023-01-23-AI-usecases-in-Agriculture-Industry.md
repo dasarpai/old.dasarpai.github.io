@@ -17,7 +17,7 @@ toc: true
 toc_sticky: true
 ---
 
-![AI Usecases in Agriculture Industry](/assets/images/dspost/dsp6037-AI-usecases-in-Agriculture-Industry.jpg)
+![AI Usecases in Agriculture Industry](/assets/images/dspost/dsp6037-AI-usecases-in-Agriculture-Industry.jpg)   
 
 # AI Usecases in Agriculture Industry   
 

@@ -14,7 +14,7 @@ excerpt_separator: "<!--more-->"
 excerpt:
 ---
 
-![Generalized AI Model for Prediction](/assets/images/dspost/dsp6009-Generalized-AI-Model-for-Prediction.jpg)
+![Generalized AI Model for Prediction](/assets/images/dspost/dsp6009-Generalized-AI-Model-for-Prediction.jpg)   
 
 Can we really Develop AI solutions that can predict human behavior? If you are not a technical person then don’t get overwhelmed by the next paragraph, you can read further, and it will make sense to you.
 

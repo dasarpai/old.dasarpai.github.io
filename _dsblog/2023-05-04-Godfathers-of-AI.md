@@ -18,7 +18,7 @@ toc: true
 toc_sticky: true 
 ---
 
-![God Fathers of AI](/assets/images/dspost/dsp6058-God-Fathers-of-AI.jpg)
+![God Fathers of AI](/assets/images/dspost/dsp6058-God-Fathers-of-AI.jpg)   
 
 # God Fathers of AI   
 

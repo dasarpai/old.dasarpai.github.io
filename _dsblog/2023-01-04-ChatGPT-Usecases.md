@@ -18,7 +18,7 @@ toc_sticky: true
 --- 
 
    
-![ChatGPT Usecases](/assets/images/dspost/dsp6019-ChatGPT-Usecases.jpg)
+![ChatGPT Usecases](/assets/images/dspost/dsp6019-ChatGPT-Usecases.jpg)   
 
 # What is ChatGPT?   
 ChatGPT is **general purpose** - "chat model" from OpenAI. It is a **language model**, which means if you type some text then it can understand and respond to you appropriately. At this point in time, it is not accepting voice commands, neither able to process images or videos. A **general-purpose model** means it can understand the question coming from any domain of life. A domain may be vertical or horizontal. A vertical domain means where a vendor is supplying a product or service for a specific type of customer. A horizontal domain is where a vendor supplies products or services for all types of customer.  Healthcare, banking, logistic, insurance, agriculture, philosophy, history, and economics are one kind of verticals whereas 

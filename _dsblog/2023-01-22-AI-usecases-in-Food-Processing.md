@@ -20,7 +20,7 @@ toc_sticky: true
 
 
 
-!["AI Use Cases in Food Processing](/assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg)
+!["AI Use Cases in Food Processing](/assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg)   
 
 # AI Use Cases in Food Processing   
 

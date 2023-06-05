@@ -25,7 +25,7 @@ toc_sticky: true
 * TOC
 {:toc}
 
-![EDA & Feature Engineering](/assets/images/dspost/dsp6008-EDA101.jpg)
+![EDA & Feature Engineering](/assets/images/dspost/dsp6008-EDA101.jpg)   
 
 ## What is EDA?   
 

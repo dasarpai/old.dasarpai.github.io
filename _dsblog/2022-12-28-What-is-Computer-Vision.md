@@ -17,7 +17,7 @@ toc: true
 toc_sticky: true
 --- 
    
-![What is Computer Vision](/assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg)
+![What is Computer Vision](/assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg)   
 
 # What is Computer vision?   
    

@@ -20,7 +20,7 @@ author_profile: true
 * TOC
 {:toc}
 
-![XAI](/assets/images/dspost/dsp6001-Dealing-with-Sensitive-Data.jpg)
+![XAI](/assets/images/dspost/dsp6001-Dealing-with-Sensitive-Data.jpg)   
 
 ## Introduction
 One of the biggest problems for a Data Science project team is to protect the data. We know, data is the basic raw material for building any supervised or unsupervised models. We cannot make a without data. Let’s assume you are working for an eCommerce retail company like Amazon; or in the health domain with some big hospital chain or government hospital; or in the banking industry with some big bank like Bank of America, Standard Charted, SBI, or ICICI Bank. They have huge data. That data can be used to develop ML models. These models can help them to serve their customers or other stakeholders in a better and efficient way. To develop these models, data should be given to the Data Science team. When the data is moving out from the production environment to the project environment, there is no guarantee that data will not fall in the wrong hands and will not be misused during the project or post the project completion. When the data is moving within the same company, there are lesser chances of this disaster. But when the company is giving data to third parties or vendors, then there are high chances.

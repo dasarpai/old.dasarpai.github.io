@@ -16,7 +16,7 @@ layout: single
 author_profile: true
 ---
 
-![XAI](/assets/images/dspost/dsp6003-XAI.jpg)
+![XAI](/assets/images/dspost/dsp6003-XAI.jpg)   
 
 ## XAI in Simple Language!
 

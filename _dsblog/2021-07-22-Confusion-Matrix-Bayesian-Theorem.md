@@ -20,7 +20,7 @@ layout: single
 author_profile: true
 ---
 
-![Confusion Matrix](/assets/images/dspost/dsp6006-Confusion-Matrix-Bayesian-Theorem.jpg)
+![Confusion Matrix](/assets/images/dspost/dsp6006-Confusion-Matrix-Bayesian-Theorem.jpg)   
 
 If you are like me then you must have struggled enough to understand the confusion matrix or still struggling to understand the metrics of this confusion matrix. A simple 2×2 actual vs predicted values matrix can be looked at and analyzed from different angles and hence we can have all different metrics from this. The beauty of all these metrics is different metrics are important for evaluating different kinds of models.
 

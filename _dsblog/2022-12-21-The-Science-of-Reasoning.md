@@ -19,7 +19,7 @@ toc_sticky: true
 
 # The Science of Reasoning   
 
-![The Science of Reasoning](/assets/images/dspost/dsp6017-The-Science-of-Reasoning.jpg)
+![The Science of Reasoning](/assets/images/dspost/dsp6017-The-Science-of-Reasoning.jpg)   
                            
 ## About Reasoning   
 

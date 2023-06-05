@@ -17,7 +17,7 @@ toc: true
 toc_sticky: true
 ---
 
-![What is NLP?](/assets/images/dspost/dsp6016-What-is-NLP.jpg)
+![What is NLP?](/assets/images/dspost/dsp6016-What-is-NLP.jpg)   
 
 ## What is NLP?   
 Humans interact with their surroundings using different kinds of inputs. Eyes deal with inputs of color, shape, and size. Ear deals with inputs of sound, voice, and noise. Similarly, the other 3 senses also deal with other kinds of inputs. When you write something you may be drawing some art or you may be drawing letters of some language. Language is what we use to speak, for example, English, Hindi, Kannada, Tamil, and French are languages. The script is a tool to write what we speak. There are many kinds of scripts and you can use those scripts to write words of the languages. Some scripts are good for some languages. You cannot write all the words of all the languages of the world using one script (without modifying the original letters of the script). The Roman script is good to write English languages but when you want to write any Indian language using Roman then you will make many mistakes when reading the scripts. Because you won't be able to produce the same sound as the original language was producing.

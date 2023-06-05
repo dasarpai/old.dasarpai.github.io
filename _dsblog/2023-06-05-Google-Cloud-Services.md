@@ -18,8 +18,7 @@ toc: true
 toc_sticky: true 
 ---
 
-![Google Cloud Service Catalog](/assets/images/dspost/dsp6061-Google-Cloud-Service-Catalog.jpg)
-
+![Google Cloud Service Catalog](/assets/images/dspost/dsp6061-Google-Cloud-Service-Catalog.jpg)    
 
 # Google Cloud Service Catalog    
 

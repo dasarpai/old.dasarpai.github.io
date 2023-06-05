@@ -18,7 +18,7 @@ toc: true
 toc_sticky: true 
 ---
 
-![Application-of-AI-in-BFSI](/assets/images/dspost/dsp6048-Application-of-AI-in-BFSI.jpg)
+![Application-of-AI-in-BFSI](/assets/images/dspost/dsp6048-Application-of-AI-in-BFSI.jpg)   
 
 # Application of AI in Banking, Finance, Security and Insurance (BFSI)   
 

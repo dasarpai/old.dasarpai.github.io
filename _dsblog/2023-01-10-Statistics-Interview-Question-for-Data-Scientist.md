@@ -18,7 +18,7 @@ toc_sticky: true
 ---
 
    
-![Statistics Interview Question for Data Scientist](/assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg)
+![Statistics Interview Question for Data Scientist](/assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg)   
 
 # Statistics Interview Question for Data Scientist   
 

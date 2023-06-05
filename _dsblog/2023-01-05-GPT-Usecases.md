@@ -18,7 +18,7 @@ toc_sticky: true
 --- 
 
    
-![GPT Usecases](/assets/images/dspost/dsp6020-GPT-Usecases.jpg)
+![GPT Usecases](/assets/images/dspost/dsp6020-GPT-Usecases.jpg)   
 
 # What is GPT?   
 

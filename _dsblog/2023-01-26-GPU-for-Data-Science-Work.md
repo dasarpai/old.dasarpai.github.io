@@ -18,7 +18,7 @@ toc: true
 toc_sticky: true 
 ---
 
-![GPU for Data Science Work](/assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg)
+![GPU for Data Science Work](/assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg)   
 
 # GPU for Data Science Work   
 

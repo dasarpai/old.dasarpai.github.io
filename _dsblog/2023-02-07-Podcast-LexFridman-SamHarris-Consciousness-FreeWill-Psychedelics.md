@@ -18,7 +18,7 @@ toc: true
 toc_sticky: true 
 ---
 
-![Postcast Lex Fridman Sam Harris Consciousness FreeWill Psychedelics](/assets/images/dspost/dsp6050-Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics.jpg)
+![Postcast Lex Fridman Sam Harris Consciousness FreeWill Psychedelics](/assets/images/dspost/dsp6050-Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics.jpg)   
 
 # Podcast Summary: Lex Fridman Sam Harris Consciousness Free Will Psychedelics      
 

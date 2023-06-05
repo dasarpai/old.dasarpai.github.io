@@ -18,7 +18,7 @@ toc: true
 toc_sticky: true
 ---   
    
-![Datalake vs Data Warehouse](/assets/images/dspost/dsp6040-Datalake-vs-Data-Warehouse.jpg)
+![Datalake vs Data Warehouse](/assets/images/dspost/dsp6040-Datalake-vs-Data-Warehouse.jpg)   
    
 # What is the difference between Data Lake and Data Warehouse?   
 

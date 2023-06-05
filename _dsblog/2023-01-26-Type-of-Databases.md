@@ -18,7 +18,7 @@ toc: true
 toc_sticky: true
 ---      
        
-![Type of Databases](/assets/images/dspost/dsp6041-Type-of-Databases.jpg)
+![Type of Databases](/assets/images/dspost/dsp6041-Type-of-Databases.jpg)    
        
 # What are the various types of databases?   
 

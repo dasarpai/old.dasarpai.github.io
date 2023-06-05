@@ -17,7 +17,7 @@ toc: true
 toc_sticky: true
 ---
 
-![What-are-Transformers-in-AI](/assets/images/dspost/dsp6031-What-are-Transformers-in-AI.jpg)
+![What-are-Transformers-in-AI](/assets/images/dspost/dsp6031-What-are-Transformers-in-AI.jpg)   
 
 # What Are Transformers in AI   
 

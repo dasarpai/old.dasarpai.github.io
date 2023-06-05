@@ -20,7 +20,7 @@ toc: true
 toc_sticky: true
 ---
 
-![Configuration Management](/assets/images/dspost/dsp6010-Directory-Strucutre-of-ML-Project.jpg)
+![Configuration Management](/assets/images/dspost/dsp6010-Directory-Strucutre-of-ML-Project.jpg)   
 
 **Directory Structure for ML Project** is critical for any serious data science project. What we learn from a technology college and institution is useful in a real-world business, but the problem is that environment is completely different, and it takes proper guidance to adapt to a real business environment. Many times traveling on this path is full of frustration without any proper guidance. Sometimes guidance is there, but it is like blind is leading blind. One has already navigated a lot with struggle, so she/he is trying to guide a new person. Data-science education is not any different from this. From universities and institutions, we learn many concepts, algorithms, art, and science of developing models, etc. but when our customer or management tells us a problem with a simplistic dataset then we don’t know how to proceed. Although there are many templates and frameworks to approach, yet there is no simple cookie-cutter solution for all kinds of problems. Depending upon project duration, resources (human + machine + software), client, and his/her need, the technology available at hand we can choose different approaches.
 

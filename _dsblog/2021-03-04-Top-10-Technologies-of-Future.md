@@ -17,7 +17,7 @@ author_profile: true
 ---
 
 
-![Future Technologies](/assets/images/dspost/dsp6004-Top-10-Future-Technologies.jpg)
+![Future Technologies](/assets/images/dspost/dsp6004-Top-10-Future-Technologies.jpg)   
 
 ## Top 10 Technologies of Future
 
