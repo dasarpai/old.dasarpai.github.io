@@ -24,8 +24,7 @@ author_profile: true
 
 [AI Projects Project Ideas](/assets/images/dspost/dsp6013-Data-Science-Project-Ideas.jpg)
 
-AI, Data Science, Machine Learning, Deep Learning, NLP Project Ideas
-======================================================================= 
+## AI, Data Science, Machine Learning, Deep Learning, NLP Project Ideas  
 
 Project Name/Idea | Type of Project
 ---|---

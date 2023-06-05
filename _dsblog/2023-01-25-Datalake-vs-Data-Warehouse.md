@@ -20,9 +20,9 @@ toc_sticky: true
    
 ![Datalake vs Data Warehouse](/assets/images/dspost/dsp6040-Datalake-vs-Data-Warehouse.jpg)
    
-# What is the difference between Data Lake and Data Warehouse?
+# What is the difference between Data Lake and Data Warehouse?   
 
-## Introduction
+## Introduction   
 A data warehouse is a system used for reporting and data analysis, and is considered a "single version of the truth." It typically includes a subset of an organization's data that is specifically structured for querying and reporting. A data lake, on the other hand, is a more flexible and general-purpose system for storing raw, unstructured data. Data in a lake can be stored in its original format and can be used for a variety of purposes, including reporting and analysis. Data warehouse is more structured while data lake is unstructured. Data warehouse is optimized for reporting and analytics while data lake is optimized for storing and processing large amount of raw data.
 
 ## Datalake vs Data Warehouse

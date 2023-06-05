@@ -20,7 +20,7 @@ toc_sticky: true
    
 ![GPT Usecases](/assets/images/dspost/dsp6020-GPT-Usecases.jpg)
 
-# What is GPT?
+# What is GPT?   
 
 GPT is a transformer. Don't confuse it with your electricity transformer! In Artificial Intelligence there are different kinds of neural network architectures to perform various tasks like classification, translation, segmentation, regression, etc. One of those architectures is transformer architecture. The Foundation of this architecture is based on another two architectures called encoder architecture and decoder architecture. There are lots of other technical complexity but for the business readers I am hiding that for that the time being, we will discuss that at some other place. In nutshell, GPT is a Transformer technology developed by OpenAI and it can perform several NLP tasks. NLP stands for natural language preprocessing. NLP tasks mean tasks like sentiment analysis of the text, text classification, topic modeling, translation, named entity recognition, and dozens of other tasks.
 

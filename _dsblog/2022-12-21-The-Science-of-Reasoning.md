@@ -17,11 +17,11 @@ toc: true
 toc_sticky: true
 ---
 
-# The Science of Reasoning 
+# The Science of Reasoning   
 
 ![The Science of Reasoning](/assets/images/dspost/dsp6017-The-Science-of-Reasoning.jpg)
                            
-## About Reasoning 
+## About Reasoning   
 
 Reasoning is a unique ability in humans. Whatever civilizational advancement we see, it is because of our ability to think, imagine and reason. We all give reasons and ask for reasons but most humans don't understand the fallacies of reasoning. Due to this sometimes we are putting forward a correct point but we are using the wrong reasoning. 
 

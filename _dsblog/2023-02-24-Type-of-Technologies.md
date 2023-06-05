@@ -20,10 +20,9 @@ toc_sticky: true
 
 ![Types of Technologies](/assets/images/dspost/dsp6052-Types-of-Technologies.jpg)
 
+# How Many Types of Technologies?   
 
-# How Many Types of Technologies?
-
-## Introduction
+## Introduction   
 Often we hear various jargon of different types of technologies and sometimes during the discussion, it becomes a mouthful of technologies to digest the meaning of these. Many times these technologies are overlapping each other but the speaker mentions that in a certain context. Today I thought let me list the possible technologies which we hear about very frequently. Nowadays AI balloon is flying everywhere and all over, it is impacting our society, business, government, social behavior, lifestyle, and whatnot. In light of this, we find many new technologies are popping up or modifying the way of doing existing businesses. In the interest of brevity, I am keeping a one-liner kind of definition. In the coming time, based on the need I will expand on each topic. Each technology mentioned below deserves a full-length article to understand the possibilities around that and its impact on our businesses, societies, etc.
 
 

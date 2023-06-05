@@ -27,7 +27,7 @@ toc_sticky: true
 
 ![EDA & Feature Engineering](/assets/images/dspost/dsp6008-EDA101.jpg)
 
-## What is EDA?
+## What is EDA?   
 
 EDA means Exploratory Data Analysis. The purpose of data analysis is to explore. Exploration means try to understand what kind of data I have in my hand. Using EDA we try to get the answer to the following questions.
 

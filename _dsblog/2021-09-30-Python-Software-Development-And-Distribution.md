@@ -24,7 +24,7 @@ toc_sticky: true
 
 ![Software Distribution](/assets/images/dspost/dsp6012-Python-Software-Development-and-Distribution.jpg)
 
-## Introduction
+## Introduction   
 We don’t develop any good and valuable piece of software from scratch. We use pieces of code written by others. This piece of code can be a service running on another machine or software written but kept in a repository. This service may be created by some other company, individual, our company, our team, or ourselves. So any software has two components, one, which is created by us, and we are responsible for the maintenance of that. Another component is a piece of software that is created by someone else, and we are not responsible for the maintenance of that.
 
 Whoever creates a piece of software, it is his to maintain that. Why maintenance is required? Because of continuous up-gradation in the operating system, networking, and hardware, the old piece of software can be a cause of security threats, performance issues, parameter mismatch, service depreciation, etc. Suppose your friend created a software MatMul and this program is consumed by you in your software CalcFunc. If there is some change in OS or hardware driver or programming language version upgrade and MatMul was using some of the function from OS, but your friend does not update his software, then your CalcFunc will also fail. This will affect your customer and your services. This is the reason we should keep updating our software. After your friend updated his software, then it is your responsibility to rebuild your software again and share it with your customer.

@@ -20,16 +20,12 @@ toc_sticky: true
 
 ![God Fathers of AI](/assets/images/dspost/dsp6058-God-Fathers-of-AI.jpg)
 
-
-
-# God Fathers of AI
-
+# God Fathers of AI   
 
 In other fields of studies or in religion, there is only one god or only one godfather. But in the field of AI, that is not the case. There are many pioneers or Godfathers who have done significant work in this field. Recently, the resignation of Dr. Geoffrey Hinton from Google raised eyebrows in the business world and in Governments the world over. Technology is good or bad, it depends upon whose hand it is. Geoffrey raised that concern and for that, he wants better controls in place. What will happen, we need to follow the progress and raise our voices around. In this article, I am mentioning some godfathers of AI, their workplaces, and their contributions. I am sure this will inspire many young minds.
 
 
 *Age as of May 2023
-
 
 1. **Arthur Samuel** (1901-1990, age 89)  **Worked at** : IBM. **His Contribution**: Developed the first machine learning program, which played checkers at a high level, and created the term "machine learning".
 1.  **Alan Turing** (1912-1954, age 41)  **Worked at** : University of Manchester, UK. **His Contribution** : Developed the concept of a universal machine, laid the theoretical groundwork for digital computing, and created the Turing test for determining whether a machine exhibits intelligent behavior. Turing made significant contributions to AI and computer programming during World War II.

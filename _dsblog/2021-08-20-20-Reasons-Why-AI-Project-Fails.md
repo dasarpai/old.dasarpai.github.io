@@ -23,8 +23,7 @@ author_profile: true
 
 ![Why AI Project Fails](/assets/images/dspost/dsp6007-Why-AI-Project-Fails.jpg)
 
-Why Does AI Project Fails?
---------------------------
+# Why Does AI Project Fails?   
 
 I have been in IT project management for 2+ decades. Being in the industry for quite a good time, I have been observing the rise and fall of project success trends of different industries. In the last couple of years, I have observed some trends in AI projects and their failure rate. Based on my understanding I am trying to summarize the reasons for AI project failure. I am sure many of the points will resonate with you. 
 

@@ -17,8 +17,7 @@ layout: single
 author_profile: true
 ---
 
-Important Statistical Terms
-===============================
+# Important Statistical Terms   
 
 ![300 Important Statistical Terms](/assets/images/dspost/dsp6011-300+Important-Statitical-Terms.jpg)
 

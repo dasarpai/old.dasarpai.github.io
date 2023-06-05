@@ -20,9 +20,9 @@ toc_sticky: true
 
 ![Application-of-AI-in-BFSI](/assets/images/dspost/dsp6048-Application-of-AI-in-BFSI.jpg)
 
-# Application of AI in Banking, Finance, Security and Insurance (BFSI)
+# Application of AI in Banking, Finance, Security and Insurance (BFSI)   
 
-## Introduction
+## Introduction   
 
 The banking, financial services, and insurance (BFSI) sector has been at the forefront of adopting cutting-edge technology to streamline operations, improve customer experience, and reduce costs. Machine learning (ML) has been one of the most promising technologies in this regard, offering numerous opportunities to automate manual processes, make accurate predictions, and provide real-time insights. ML algorithms can be used to analyze vast amounts of customer and transactional data, providing insights into customer behavior, fraud detection, and more. The implementation of ML in BFSI has been helping organizations to drive operational efficiency, reduce costs, and stay ahead of the competition.   
 

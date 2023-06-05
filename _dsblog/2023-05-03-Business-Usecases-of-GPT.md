@@ -20,9 +20,9 @@ toc_sticky: true
 
 ![Application of GPT](/assets/images/dspost/dsp6059-Business-Usecases-of-GPT.jpg)
 
-# Business-Usecases-of-GPT
+# Business-Usecases-of-GPT   
 
-## Introduction 
+## Introduction    
 
 You will not lose your job because of AI, but you may lose it because you didn't learn how to use AI in your job.
 

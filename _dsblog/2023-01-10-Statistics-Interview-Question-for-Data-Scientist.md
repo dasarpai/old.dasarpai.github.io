@@ -20,7 +20,7 @@ toc_sticky: true
    
 ![Statistics Interview Question for Data Scientist](/assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg)
 
-# Statistics Interview Question for Data Scientist
+# Statistics Interview Question for Data Scientist   
 
 > In this question-answer blog, I will try to answer that every question starts with an example rather than a theory or definition (some unavoidable variation may be possible). I firmly believe if examples are clear, then a human mind is smart enough in generalizing, creating theories and definitions.
 

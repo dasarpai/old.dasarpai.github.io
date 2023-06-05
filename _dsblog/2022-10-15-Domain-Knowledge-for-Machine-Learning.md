@@ -17,7 +17,7 @@ author_profile: true
 
 ![Domain Knowledge in Machine Learning](/assets/images/dspost/dsp6015-domain-knowledge-in-machine-learning.jpg)
 
-# Domain Knowledge in Machine Learning
+# Domain Knowledge in Machine Learning   
 
 Let’s say the domain is a restaurant kitchen. A dataset with 3 variables. Two predictors and one predicted. Predictor variables are flour in kilograms and water in liters.  A predicted variable is the number of roti/ bread. You know the model will be something like this.   
 
