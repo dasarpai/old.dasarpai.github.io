@@ -19,16 +19,16 @@ toc_sticky: true
 ---
 
 ![Google Cloud Service Catalog](/assets/images/dspost/dsp6061-Google-Cloud-Service-Catalog.jpg)    
-
+   
 # Google Cloud Service Catalog    
-
 **A Comprehensive Overview of 250+ Google Cloud Services**   
 All these services are availalbe at https://cloud.google.com    
-
+   
 ## Introduction   
-
+   
 In the ever-evolving landscape of cloud computing, Google Cloud entered recently compare to AWS and Azure. But it stands out as a prominent player, offering a vast array of services and solutions to empower businesses and developers. With over 250+ services available, navigating the expansive Google Cloud ecosystem can be a daunting task. However, understanding these services and their functionalities is crucial for harnessing the full potential of the platform and provide the right technical solution of any business problem. In this comprehensive guide, I will take you through the diverse landscape of Google Cloud services, shedding light on their purposes. Whether you are a seasoned cloud professional or new to the Google Cloud environment, this article aims to demystify the complexity and provide you with valuable insights into the extensive toolkit Google Cloud has to offer. You can bookmark this page for future reference.
 
+# Cloud Services
 ## [](#compute)Compute   
 1. App Engine: Managed app platform [Link](https://cloud.google.com/appengine/) [Doc](https://cloud.google.com/appengine/docs/)   
 1. Bare Metal Solution: Hardware for specialized workloads [Link](https://cloud.google.com/bare-metal)   
@@ -40,12 +40,14 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Shielded VMs: Hardened VMs [Link](https://cloud.google.com/shielded-vm/) [Doc](https://cloud.google.com/security/shielded-cloud/shielded-vm/)   
 1. Sole-tenant Nodes: Dedicated physical servers [Link](https://cloud.google.com/sole-tenant-nodes) [Doc](https://cloud.google.com/compute/docs/nodes)   
 1. VMware Engine: VMware as a service [Link](https://cloud.google.com/vmware-engine) [Doc](https://cloud.google.com/vmware-engine/docs)   
- ## [](#storage)Storage   
+
+## [](#storage)Storage   
 1. Cloud Filestore: Managed NFS server [Link](https://cloud.google.com/filestore/) [Doc](https://cloud.google.com/filestore/docs/)   
 1. Cloud Storage: Multi-class multi-region object storage[Link](https://cloud.google.com/storage/) [Doc](https://cloud.google.com/storage/docs/)   
 1. Local SSD: VM locally attached SSDs [Link](https://cloud.google.com/local-ssd) [Doc](https://cloud.google.com/compute/docs/disks/local-ssd)   
 1. Persistent Disk: Block storage for VMs [Link](https://cloud.google.com/persistent-disk/) [Doc](https://cloud.google.com/compute/docs/disks/)   
- ## [](#database)Database   
+
+## [](#database)Database   
 1. AlloyDB: Scalable & performant PostgreSQL-compatible DB [Link](https://cloud.google.com/alloydb)   
 1. Cloud Bigtable: Petabyte-scale, low-latency, non-relational [Link](https://cloud.google.com/bigtable/) [Doc](https://cloud.google.com/bigtable/docs/)   
 1. Cloud Firestore: Serverless NoSQL document database [Link](https://cloud.google.com/firestore/) [Doc](https://cloud.google.com/firestore/docs/)   
@@ -54,7 +56,8 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Cloud SQL Insights: SQL Inspector [Link](https://cloud.google.com/sql/docs/postgres/insights-overview) [Doc](https://cloud.google.com/sql/docs/postgres/using-insights)   
 1. Cloud SQL: Managed MySQL, PostgreSQL, SQL Server [Link](https://cloud.google.com/sql/) [Doc](https://cloud.google.com/sql/docs/)   
 1. Database Migration Service: Migrate to Cloud SQL [Link](https://cloud.google.com/database-migration) [Doc](https://cloud.google.com/database-migration/docs)   
- ## [](#data-analytics)Data Analytics   
+
+## [](#data-analytics)Data Analytics   
 1. BigQuery BI Engine: In-memory analytics engine [Doc](https://cloud.google.com/bi-engine/docs/)   
 1. BigQuery Data Transfer Service: Automated data ingestion service [Doc](https://cloud.google.com/bigquery-transfer/docs)   
 1. Automated data ingestion service [Link](https://cloud.google.com/bigquery/)   
@@ -73,7 +76,8 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Looker: Enterprise BI and analytics [Link](https://cloud.google.com/looker)   
 1. Pub/Sub: Global real-time messaging [Link](https://cloud.google.com/pubsub/) [Doc](https://cloud.google.com/pubsub/docs/)   
 1. Public Datasets: Hosted data in BigQuery[Doc](https://cloud.google.com/public-datasets)   
- ## [](#ai-and-ml)AI and ML   
+
+## [](#ai-and-ml)AI and ML   
 1. AutoML: Custom low-code models [Doc](https://cloud.google.com/vertex-ai/docs/training/training)   
 1. Cloud TPU: Hardware acceleration for ML [Link](https://cloud.google.com/tpu/) [Doc](https://cloud.google.com/tpu/docs/)   
 1. Cloud Translation: Language detection and translation [Link](https://cloud.google.com/translate/) [Doc](https://cloud.google.com/translate/docs/)   
@@ -101,7 +105,8 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Vertex Explainable AI: Understand ML model predictions [Link](https://cloud.google.com/vertex-ai/docs/explainable-ai/overview) [Doc](https://cloud.google.com/vertex-ai/docs/explainable-ai)   
 1. Vertex ML Metadata: Artifact, lineage, and execution tracking [Link](https://cloud.google.com/vertex-ai/docs/ml-metadata) [Doc](https://cloud.google.com/vertex-ai/docs/ml-metadata/introduction)   
 1. Vision Product Search: Visual search for products [Doc](https://cloud.google.com/vision/product-search/docs/)   
- ## [](#networking)Networking   
+
+## [](#networking)Networking   
 1. Anthos Service Mesh: Service-aware network management [Link](https://cloud.google.com/service-mesh/) [Doc](https://cloud.google.com/trace/docs/)   
 1. Carrier Peering: Peer through a carrier [Doc](https://cloud.google.com/interconnect/docs/how-to/carrier-peering)   
 1. DDoS protection and WAF   
@@ -128,14 +133,16 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Optimized files for delivery   
 1. Virtual Private Cloud: Software defined networking [Link](https://cloud.google.com/vpc/) [Doc](https://cloud.google.com/vpc/docs/)   
 1. VPC Service Controls: Security perimeters for API-based services [Link](https://cloud.google.com/vpc-service-controls/) [Doc](https://cloud.google.com/vpc-service-controls/)   
- ## [](#devops-cicd)DevOps CI/CD   
+
+## [](#devops-cicd)DevOps CI/CD   
 1. Artifact Registry: Universal package manager [Link](https://cloud.google.com/artifacts/) [Doc](https://cloud.google.com/artifacts/)   
 1. Cloud Build: Continuous integration/delivery platform [Link](https://cloud.google.com/cloud-build/) [Doc](https://cloud.google.com/cloud-build/docs/)   
 1. Cloud Deploy: Deployment pipeline for GKE [Link](https://cloud.google.com/deploy) [Doc](https://cloud.google.com/deploy/docs/)   
 1. Cloud Source Repositories: Hosted private git repos [Link](https://cloud.google.com/source-repositories/) [Doc](https://cloud.google.com/source-repositories/docs/)   
 1. Automated security scanning [](https://cloud.google.com/artifact-analysis/docs)   
 1. Container Registry: Private container registry/storage [Link](https://cloud.google.com/container-registry/) [Doc](https://cloud.google.com/container-registry/docs/)   
- ## [](#identity-and-security)Identity and Security   
+
+## [](#identity-and-security)Identity and Security   
 1. Access Context Manager: End-user attribute-based access control [Link](https://cloud.google.com/context-aware-access/) [Doc](https://cloud.google.com/iap/docs/cloud-iap-context-aware-access-howto/)   
 1. Access Transparency: Audit cloud provider access [Link](https://cloud.google.com/access-transparency/) [Doc](https://cloud.google.com/logging/docs/audit/access-transparency-overview/)   
 1. Assured Workloads: Workload compliance controls [Link](https://cloud.google.com/assured-workloads) [Doc](https://cloud.google.com/assured-workloads/docs)   
@@ -169,7 +176,8 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. VPC Service Controls: VPC data constraints [Link](https://cloud.google.com/vpc-service-controls/) [Doc](https://cloud.google.com/vpc-service-controls/docs/)   
 1. Web Security Scanner: App engine security scanner [Link](https://cloud.google.com/security-scanner/) [Doc](https://cloud.google.com/security-scanner/docs/)   
 1. Web Security Scanner: Identifies web-app security vulnerabilities [Doc](https://cloud.google.com/security-command-center/docs/concepts-web-security-scanner-overview)   
- ## [](#management-tools)Management Tools   
+
+## [](#management-tools)Management Tools   
 1. Cloud APIs: APIs for cloud services [Link](https://cloud.google.com/apis/) [Doc](https://cloud.google.com/apis/docs/)   
 1. Cloud Billing API: Programmatically manage Google Cloud billing [Doc](https://cloud.google.com/billing/docs/)   
 1. Cloud Billing: Billing and cost management tools [Link](https://cloud.google.com/billing/docs/) [Doc](https://cloud.google.com/billing/docs/docs/)   
@@ -184,9 +192,11 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Eventarc: Event-driven Cloud Run services [Link](https://cloud.google.com/eventarc/) [Doc](https://cloud.google.com/eventarc/docs/)   
 1. Pub/Sub: Global real-time messaging [Link](https://cloud.google.com/pubsub/) [Doc](https://cloud.google.com/pubsub/docs/)   
 1. Workflows: HTTP services orchestration [Link](https://cloud.google.com/workflows/) [Doc](https://cloud.google.com/workflows/docs/)   
- ## [](#gaming)Gaming   
+
+## [](#gaming)Gaming   
 1. Google Cloud Game Servers: Orchestrate Agones clusters [Link](https://cloud.google.com/game-servers)   
- ## [](#mobile-firebase)Mobile (Firebase)   
+
+## [](#mobile-firebase)Mobile (Firebase)   
 1. Cloud Firestore: Document store and sync [Link](https://firebase.google.com/products/firestore/)   
 1. Cloud Functions for Firebase: Event-driven serverless applications [Link](https://firebase.google.com/products/functions/)   
 1. Cloud Storage for Firebase: Object storage and serving [Link](https://firebase.google.com/products/storage/)   
@@ -206,7 +216,8 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Firebase Test Lab: Mobile testing device farm [Link](https://firebase.google.com/docs/test-lab/)   
 1. Google Analytics for Firebase: Mobile app analytics [Link](https://firebase.google.com/products/analytics/)   
 1. ML Kit for Firebase: ML APIs for mobile [Link](https://firebase.google.com/products/ml-kit/)   
- ## [](#workspace-platform)Workspace Platform   
+
+## [](#workspace-platform)Workspace Platform   
 1. Admin SDK: Manage Google Workspace resources [Link](https://developers.google.com/admin-sdk)   
 1. AMP for Email: Dynamic interactive email [Link](https://developers.google.com/gmail)   
 1. Apps Script: Extend and automate everything [Link](https://developers.google.com/apps-script/)   
@@ -227,7 +238,8 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Slides API: Create and edit presentations [Link](https://developers.google.com/slides/)   
 1. Task API: Search, read & update Tasks [Link](https://developers.google.com/tasks/)   
 1. Vault API: Manage your organization's eDiscovery [Link](https://developers.google.com/vault/)   
- ## [](#google-maps-platform)Google Maps Platform   
+
+## [](#google-maps-platform)Google Maps Platform   
 1. Directions API: Get directions between locations [Link](https://developers.google.com/maps/documentation/directions/)   
 1. Distance Matrix API: Multi-origin/destination travel times [Link](https://developers.google.com/maps/documentation/distance-matrix/intro)   
 1. Geocoding API: Convert address to/from coordinates [Link](https://developers.google.com/maps/documentation/geocoding/)   
@@ -247,7 +259,8 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Street View Service: Street view for JavaScript [Link](https://developers.google.com/maps/documentation/javascript/streetview/)   
 1. Street View Static API: Static street view images [Link](https://developers.google.com/maps/documentation/streetview/)   
 1. Time Zone API: Convert coordinates to timezone [Link](https://developers.google.com/maps/documentation/timezone/)   
- ## [](#hybrid-and-multi-cloud)Hybrid and multi-cloud   
+
+## [](#hybrid-and-multi-cloud)Hybrid and multi-cloud   
 1. Anthos clusters: Hybrid/on-premises GKE [Link](https://cloud.google.com/anthos/gke) [Doc](https://cloud.google.com/anthos/gke/docs/on-prem/)   
 1. Anthos Config Management:Policy and security automation [Link](https://cloud.google.com/anthos/config-management) [Doc](https://cloud.google.com/anthos-config-management/docs)   
 1. Anthos Service Mesh: Managed service mesh (Istio) [Link](https://cloud.google.com/anthos/service-mesh) [Doc](https://cloud.google.com/service-mesh/docs)   
@@ -258,7 +271,8 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Migrate for Anthos and GKE: Migrate VMs to GKE [Link](https://cloud.google.com/migrate/anthos/) [Doc](https://cloud.google.com/migrate/anthos/docs/getting-started)   
 1. Google Cloud's operations suite: Monitoring, logging, troubleshooting [Link](https://cloud.google.com/products/operations) [Doc](https://cloud.google.com/stackdriver/docs)   
 1. Traffic Director: Service mesh traffic management [Link](https://cloud.google.com/traffic-director/) [Doc](https://cloud.google.com/traffic-director/docs/)   
- ## [](#api-platform-and-ecosystems)API Platform and Ecosystems   
+
+## [](#api-platform-and-ecosystems)API Platform and Ecosystems   
 1. API Analytics: API metrics [Link](https://cloud.google.com/api-analytics/)   
 1. API Gateway: Fully managed API Gateway [Link](https://cloud.google.com/api-gateway)   
 1. API Monetization: Monetize APIs [Link](https://cloud.google.com/api-monetization/)   
@@ -269,18 +283,21 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Cloud Endpoints: Cloud API gateway [Link](https://cloud.google.com/endpoints/)   
 1. Developer Portal: API management portal [Link](https://cloud.google.com/developer-portal/)   
 1. Google Cloud Marketplace: Partner & open source marketplace [Link](https://cloud.google.com/marketplace/)   
- ## [](#healthcare)Healthcare   
+
+## [](#healthcare)Healthcare   
 1. Apigee Healthcare APIx: Healthcare system Google Cloud interoperability [Link](https://cloud.google.com/solutions/apigee-health-apix)   
 1. Cloud Healthcare API: Healthcare system Google Cloud interoperability [Link](https://cloud.google.com/healthcare-api/)   
 1. Cloud Life Sciences_\*: Manage, process, transform biomedical-data [Link](https://cloud.google.com/life-sciences)[Doc](https://cloud.google.com/life-sciences/docs)   
 1. Healthcare Natural Language AI: Real-time insights from media-text [Link](https://cloud.google.com/healthcare-api/docs/how-tos/nlp)   
- ## [](#operations--monitoring)Operations & Monitoring   
+
+## [](#operations--monitoring)Operations & Monitoring   
 1. Cloud Logging: Centralized logging [Link](https://cloud.google.com/logging/) [Doc](https://cloud.google.com/logging/docs/)   
 1. Cloud Monitoring: Infrastructure and application monitoring [Link](https://cloud.google.com/monitoring/) [Doc](https://cloud.google.com/monitoring/docs/)   
 1. Cloud Profiler: CPU and heap profiling [Link](https://cloud.google.com/profiler/) [Doc](https://cloud.google.com/profiler/docs/)   
 1. Cloud Trace: App latency insights [Link](https://cloud.google.com/trace/) [Doc](https://cloud.google.com/trace/docs/)   
 1. Error Reporting: App error reporting [Link](https://cloud.google.com/error-reporting/) [Doc](https://cloud.google.com/error-reporting/docs/)   
- ## [](#developer-tools)Developer Tools   
+
+## [](#developer-tools)Developer Tools   
 1. App Engine Plugins: Gradle/Maven App Engine plugin [Link](https://github.com/GoogleCloudPlatform/app-gradle-plugin)   
 1. Cloud Code for IntelliJ: IntelliJ Google Cloud tools [Link](https://cloud.google.com/intellij/)   
 1. Cloud Code for VS Code: VS Code Google Cloud tools [Link](https://cloud.google.com/code/docs/vscode/)   
@@ -289,11 +306,13 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Cloud Shell: Browser-based terminal/CLI [Link](https://cloud.google.com/shell/) [Doc](https://cloud.google.com/shell/docs/)   
 1. Cloud Tools for Eclipse: Eclipse Google Cloud tools [Link](https://cloud.google.com/eclipse/docs/)   
 1. Cloud Tools for Visual Studio: Visual Studio Google Cloud tools [Link](https://cloud.google.com/visual-studio/)   
- ## [](#retail)Retail   
+
+## [](#retail)Retail   
 1. Vision Product Search: Visual search for products [Doc](https://cloud.google.com/vision/product-search/docs/)   
 1. Recommendations AI: Create custom recommendations [Link](https://cloud.google.com/recommendations/) [Doc](https://cloud.google.com/recommendations-ai/docs/)   
 1. Visual Inspection AI: Train/deploy models to detect defects [Link](https://cloud.google.com/solutions/visual-inspection-ai)   
- ## [](#migration-to-google-cloud)Migration to Google Cloud   
+
+## [](#migration-to-google-cloud)Migration to Google Cloud   
 1. BigQuery Data Transfer Service: Bulk import analytics data [Link](https://cloud.google.com/bigquery/transfer/) [Doc](https://cloud.google.com/bigquery/transfer/docs/)   
 1. Cloud Data Transfer: Data migration tools/CLI [Link](https://cloud.google.com/products/data-transfer/)   
 1. Cloud Foundation Toolkit: Infrastructure as Code templates [Link](https://cloud.google.com/foundation-toolkit)   
