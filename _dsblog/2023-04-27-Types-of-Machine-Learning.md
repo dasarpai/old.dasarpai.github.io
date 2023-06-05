@@ -18,10 +18,10 @@ toc: true
 toc_sticky: true
 ---
 
-![Types of Machine Learning](/assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg)   
-
+![Types of Machine Learning](/assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg)     
+    
 # Types of Machine Learning    
-
+    
 ## Introduction   
 Machine learning is a field of artificial intelligence that focuses on developing algorithms that can learn from data and make predictions or decisions. There are several types of machine learning techniques, each with its strengths and weaknesses. In this post, we will explore some of the most commonly used machine learning techniques, including supervised learning, unsupervised learning, reinforcement learning, and more. This post is not about deep diving into these topics but to give you a oneliner understanding and the difference between these different techniques.
 
