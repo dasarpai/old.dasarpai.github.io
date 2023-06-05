@@ -133,12 +133,15 @@ Sno. | URL | Purpose
 1. | [https://domains.google/](https://domains.google/) | Provides domain registration services and management tools.
 2. | [https://www.blog.google/](https://www.blog.google/) | Provides official blog posts and news from Google.
 3. | [https://creators.google/](https://creators.google/) | Provides resources and tools for content creators and creative professionals.
-4. | [https://domains.google/get-started/ website-design/google-sites/](https://domains.google/get-started/website-design/google-sites/) | Guides users on designing websites using Google Sites.
+4. | [https://about.google/products/](https://about.google/products/) | All Google Products
 5. | [https://blog.google/outreach-initiatives/ grow-with-google/](https://blog.google/outreach-initiatives/grow-with-google/) | Highlights Google's initiatives and programs for personal and professional growth.
 6. | [https://built-in.google/cars/](https://built-in.google/cars/) | Showcases Google's automotive solutions and technologies.
 7. | [https://www.cloudskillsboost.google/ course_templates/266](https://www.cloudskillsboost.google/course_templates/266) | Offers course templates and resources for improving cloud computing skills.
+8. | [https://blog.google/intl/en-in/](https://blog.google/intl/en-in/) | Google India blog
+
 
 ## Other Google Websites/Products   
+
 Sno. | URL | Purpose
 --- | --- | ---
 1. | [https://growmystore.thinkwithgoogle.com/](https://growmystore.thinkwithgoogle.com/) | Provides resources and insights for growing and optimizing online stores.
