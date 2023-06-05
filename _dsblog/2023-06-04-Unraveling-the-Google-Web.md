@@ -31,7 +31,7 @@ Google has become synonym of search. Therefore when you want to search something
 Sno. | URL | Purpose
 --- | --- | ---
 1. | [http://ami.withgoogle.com/](http://ami.withgoogle.com/) | Features AMI (Art, Mind, Innovation) program content and initiatives.
-2. | [https://about.google/stories/ lena-rohou/](https://about.google/stories/lena-rohou/) | Shares a personal story or profile related to Lena Rohou (specific individual).
+2. | [https://webdesigner.withgoogle.com/](https://webdesigner.withgoogle.com/) | Offers tools and resources for web design and development.
 3. | [https://accessmars.withgoogle.com/](https://accessmars.withgoogle.com/) | Provides an interactive experience to explore Mars.
 4. | [https://athens.withgoogle.com/](https://athens.withgoogle.com/) | Organizes Google's internal event for technical discussions.
 5. | [https://atozofai.withgoogle.com/](https://atozofai.withgoogle.com/) | Offers an A to Z glossary of artificial intelligence terms.
@@ -88,7 +88,7 @@ Sno. | URL | Purpose
 56. | [https://teachablemachine.withgoogle.com/](https://teachablemachine.withgoogle.com/) | Allows users to create machine learning models without coding.
 57. | [https://techdevguide.withgoogle.com/](https://techdevguide.withgoogle.com/) | Provides resources and coding practice for developers.
 58. | [https://toontastic.withgoogle.com/](https://toontastic.withgoogle.com/) | Presents Toontastic, a creative storytelling app for kids.
-59. | [https://webdesigner.withgoogle.com/](https://webdesigner.withgoogle.com/) | Offers tools and resources for web design and development.
+
 
 ## Google.com Websites
 
@@ -124,7 +124,7 @@ Sno. | URL | Purpose
 28. | [https://translate.google.com/](https://translate.google.com/) | Offers Google Translate, a service for translating text and websites.
 29. | [https://trends.google.com/trends/](https://trends.google.com/trends/) | Offers Google Trends, a platform for analyzing search trends and data.
 30. | [https://workspace.google.com/](https://workspace.google.com/) | Showcases Google Workspace, a productivity and collaboration suite.
-31. | [https://www.google.com.co/](https://www.google.com.co/) | Redirects users to the Google homepage for Colombia.
+31. | [https://lookerstudio.google.com/](https://lookerstudio.google.com/) | Looker Studio, formerly Google Data Studio, is an online tool for converting data into customizable informative reports and dashboards
 
 ## Google Websites   
 
@@ -138,7 +138,10 @@ Sno. | URL | Purpose
 6. | [https://built-in.google/cars/](https://built-in.google/cars/) | Showcases Google's automotive solutions and technologies.
 7. | [https://www.cloudskillsboost.google/ course_templates/266](https://www.cloudskillsboost.google/course_templates/266) | Offers course templates and resources for improving cloud computing skills.
 8. | [https://blog.google/intl/en-in/](https://blog.google/intl/en-in/) | Google India blog
-
+9. | [https://lens.google/](https://lens.google/) | Google Lens
+10. | [https://opensource.google/](https://opensource.google/) | Google Open Source programs support open source projects through enabling new contributors, building mentorship, and supporting documentation.
+11. | [https://about.google](https://about.google) | About Google
+12. | [https://about.google/stories/](https://about.google/stories/) | Shares a personal story or profile related to Lena Rohou (specific individual).
 
 ## Other Google Websites/Products   
 
