@@ -1,8 +1,8 @@
 ---
 mathjax: true
 id: 6060
-title: Unraveling the Google Web : Exploring the Purpose of Google's Websites 
-date: 2023-01-28
+title: Unraveling the Google Web - Exploring the Purpose of Google's Websites 
+date: 2023-06-04
 permalink: '/dsblog/Unraveling-the-Google-Web'
 tags: [Google, Products] 
 categories: 
