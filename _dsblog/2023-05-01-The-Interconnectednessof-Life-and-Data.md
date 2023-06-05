@@ -22,7 +22,7 @@ toc_sticky: true
    
 # The Interconnectedness of Life and Data      
        
-# Introduction 
+## Introduction 
    
 While reading below keep your mind open. If you can keep your religious or even scientific information aside it would help you understand my thoughts. For many of you these may be hard ideas to digest, therefore reading multiple times and thinking over again and again will help. 
 

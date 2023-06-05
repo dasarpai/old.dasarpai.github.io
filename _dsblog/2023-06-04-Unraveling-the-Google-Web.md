@@ -33,20 +33,20 @@ Sno. | URL | Purpose
 3. | [https://accessmars.withgoogle.com/](https://accessmars.withgoogle.com/) | Provides an interactive experience to explore Mars.
 4. | [https://athens.withgoogle.com/](https://athens.withgoogle.com/) | Organizes Google's internal event for technical discussions.
 5. | [https://atozofai.withgoogle.com/](https://atozofai.withgoogle.com/) | Offers an A to Z glossary of artificial intelligence terms.
-6. | [https://beinternetawesome.withgoogle.com/ en_us/interland](https://beinternetawesome.withgoogle.com/en_us/interland) | Promotes online safety and digital citizenship for kids.
-7. | [https://buildyourfuture.withgoogle.com/](https://buildyourfuture.withgoogle.com/) | Provides career resources and guidance for job seekers.
+6. | [https://beinternetawesome. withgoogle.com/ en_us/interland](https://beinternetawesome.withgoogle.com/en_us/interland) | Promotes online safety and digital citizenship for kids.
+7. | [https://buildyourfuture. withgoogle.com/](https://buildyourfuture.withgoogle.com/) | Provides career resources and guidance for job seekers.
 8. | [https://cannes.withgoogle.com/](https://cannes.withgoogle.com/) | Showcases Google's presence and activities at the Cannes Lions International Festival of Creativity.
 9. | [https://careersonair.withgoogle.com/](https://careersonair.withgoogle.com/) | Offers insights, tips, and guidance for career development and job opportunities.
 10. | [https://chromebookapphub.withgoogle.com/](https://chromebookapphub.withgoogle.com/) | Offers educational apps and resources for Chromebook users.
 11. | [https://cloud.withgoogle.com/next](https://cloud.withgoogle.com/next) | Showcases Google Cloud technologies and provides insights.
 12. | [https://cloudonair.withgoogle.com/](https://cloudonair.withgoogle.com/) | Hosts webinars and virtual events on Google Cloud solutions.
-13. | [https://codingcompetitions.withgoogle.com/](https://codingcompetitions.withgoogle.com/) | Organizes coding competitions and challenges.
-14. | [https://csfirst.withgoogle.com/s/en/home](https://csfirst.withgoogle.com/s/en/home) | Provides resources and tools for teaching computer science.
-15. | [https://csp-evaluator.withgoogle.com/](https://csp-evaluator.withgoogle.com/) | Evaluates the effectiveness of Content Security Policy (CSP) implementations.
+13. | [https://codingcompetitions. withgoogle.com/](https://codingcompetitions.withgoogle.com/) | Organizes coding competitions and challenges.
+14. | [https://csfirst.withgoogle.com/ s/en/home](https://csfirst.withgoogle.com/s/en/home) | Provides resources and tools for teaching computer science.
+15. | [https://csp-evaluator. withgoogle.com/](https://csp-evaluator.withgoogle.com/) | Evaluates the effectiveness of Content Security Policy (CSP) implementations.
 16. | [https://devlibrary.withgoogle.com/](https://devlibrary.withgoogle.com/) | Provides a library of resources and guides for developers working with Google technologies.
 17. | [https://earthview.withgoogle.com/](https://earthview.withgoogle.com/) | Showcases curated satellite imagery and landscapes from Google Earth.
-18. | [https://edu.google.com/code-with-google/](https://edu.google.com/code-with-google/) | Promotes coding education for students and educators.
-19. | [https://emojiscavengerhunt.withgoogle.com/](https://emojiscavengerhunt.withgoogle.com/) | Provides an interactive game that uses AI to detect real-world objects.
+18. | [https://edu.google.com/ code-with-google/](https://edu.google.com/code-with-google/) | Promotes coding education for students and educators.
+19. | [https://emojiscavengerhunt. withgoogle.com/](https://emojiscavengerhunt.withgoogle.com/) | Provides an interactive game that uses AI to detect real-world objects.
 20. | [https://events.withgoogle.com/ digitalgaragewebinars/](https://events.withgoogle.com/digitalgaragewebinars/) | Hosts webinars and virtual events as part of the Digital Garage training program.
 21. | [https://experiments.withgoogle.com/](https://experiments.withgoogle.com/) | Showcases creative and innovative web experiments.
 22. | [https://federated.withgoogle.com/](https://federated.withgoogle.com/) | Discusses federated learning, a privacy-preserving machine learning approach.
@@ -56,7 +56,7 @@ Sno. | URL | Purpose
 26. | [https://grow.google/intl/en_in/](https://grow.google/intl/en_in/) | Offers resources and training for small businesses.
 27. | [https://growonair.withgoogle.com/](https://growonair.withgoogle.com/) | Hosts live webinars and virtual events for business growth.
 28. | [https://hotelinsights.withgoogle.com/](https://hotelinsights.withgoogle.com/) | Offers insights and data for the hospitality industry to make informed business decisions.
-29. | [https://howwemakemoney.withgoogle.com/](https://howwemakemoney.withgoogle.com/) | Explores Google's business model and revenue generation strategies.
+29. | [https://howwemakemoney. withgoogle.com/](https://howwemakemoney.withgoogle.com/) | Explores Google's business model and revenue generation strategies.
 30. | [https://iamremarkable.withgoogle.com/](https://iamremarkable.withgoogle.com/) | Promotes diversity and empowerment through workshops on self-promotion skills.
 31. | [https://inthecloud.withgoogle.com/ training-discount/register.html](https://inthecloud.withgoogle.com/training-discount/register.html) | Provides training discounts for Google Cloud.
 32. | [https://labs.withgoogle.com/](https://labs.withgoogle.com/) | Presents various Google research projects and experiments.
@@ -116,7 +116,7 @@ Sno. | URL | Purpose
 24. | [https://sites.google.com/](https://sites.google.com/) | Provides Google Sites, a platform for creating and hosting websites.
 25. | [https://store.google.com/?hl=en-GB](https://store.google.com/?hl=en-GB) | Allows users to browse and purchase Google products.
 26. | [https://store.google.com/product/ chromecast_google_tv](https://store.google.com/product/chromecast_google_tv) | Provides information and allows users to purchase Google Chromecast with Google TV.
-27. | [https://store.google.com/us/product/google_nest_hub_max?hl=en-US](https://store.google.com/us/product/google_nest_hub_max?hl=en-US) | Provides information and allows users to purchase Google Nest Hub Max.
+27. | [https://store.google.com/us/product/ google_nest_hub_max?hl=en-US](https://store.google.com/us/product/google_nest_hub_max?hl=en-US) | Provides information and allows users to purchase Google Nest Hub Max.
 28. | [https://translate.google.com/](https://translate.google.com/) | Offers Google Translate, a service for translating text and websites.
 29. | [https://trends.google.com/trends/](https://trends.google.com/trends/) | Offers Google Trends, a platform for analyzing search trends and data.
 30. | [https://workspace.google.com/](https://workspace.google.com/) | Showcases Google Workspace, a productivity and collaboration suite.
