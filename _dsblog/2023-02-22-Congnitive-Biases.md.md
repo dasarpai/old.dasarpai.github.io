@@ -17,11 +17,11 @@ share: true
 toc: true   
 toc_sticky: true 
 ---
-
+   
 ![Cognitive Bias](/assets/images/dspost/dsp6051-Cognitive-Biases.jpg)   
-
+   
 # Cognitive Biases   
-
+   
 ## Introduction   
 
 Cognitive biases are the systematic errors that occur when individuals deviate from rational decision-making. These biases are a result of our brain's ability to process information, which can sometimes lead to irrational thinking and decision-making. As data science continues to advance, it is critical to understand how cognitive biases can impact AI, ML, NLP, deep learning, and robotics. Cognitive biases can lead to biased data collection, modeling, and decision-making processes, which can ultimately impact the accuracy and effectiveness of these technologies.

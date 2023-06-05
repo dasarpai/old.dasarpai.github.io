@@ -19,7 +19,7 @@ toc_sticky: true
 ---   
    
 ![The Interconnectedness of Life and Data](/assets/images/dspost/dsp6057-The-Interconnectedness-of-Life-and-Data.jpg)       
-   
+    
 # The Interconnectedness of Life and Data      
        
 ## Introduction 

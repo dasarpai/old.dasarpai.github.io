@@ -19,9 +19,9 @@ toc_sticky: true
 ---
 
 ![God Fathers of AI](/assets/images/dspost/dsp6058-God-Fathers-of-AI.jpg)   
-
+   
 # God Fathers of AI   
-
+   
 In other fields of studies or in religion, there is only one god or only one godfather. But in the field of AI, that is not the case. There are many pioneers or Godfathers who have done significant work in this field. Recently, the resignation of Dr. Geoffrey Hinton from Google raised eyebrows in the business world and in Governments the world over. Technology is good or bad, it depends upon whose hand it is. Geoffrey raised that concern and for that, he wants better controls in place. What will happen, we need to follow the progress and raise our voices around. In this article, I am mentioning some godfathers of AI, their workplaces, and their contributions. I am sure this will inspire many young minds.
 
 

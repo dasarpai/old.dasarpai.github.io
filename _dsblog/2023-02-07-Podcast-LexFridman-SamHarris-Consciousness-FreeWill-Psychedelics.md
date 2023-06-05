@@ -17,11 +17,11 @@ share: true
 toc: true   
 toc_sticky: true 
 ---
-
+   
 ![Postcast Lex Fridman Sam Harris Consciousness FreeWill Psychedelics](/assets/images/dspost/dsp6050-Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics.jpg)   
-
+   
 # Podcast Summary: Lex Fridman Sam Harris Consciousness Free Will Psychedelics      
-
+   
 This is an interesting and deepdive discussion between [Lex Fridman](https://en.wikipedia.org/wiki/Lex_Fridman) and [Sam Harris](https://en.wikipedia.org/wiki/Sam_Harris). In 3 hours 20 minute enchanting discussion they explore various topics like Consciousness, Free Will, Psychedelics, AI, UFOs etc.
 
 **Title: Sam Harris-: Consciousness, Free Will, Psychedelics, AI, UFOs, and Meaning / Lex Fridman Podcast #185**
@@ -39,6 +39,7 @@ Here is the summary of the discussion.
    - (Sam) I'm agnostic on the spectrum between panpsychism, where consciousness is fundamental to reality, and the idea that consciousness is a useful hack for humans to survive. Because it may be unfalsifiable and the concepts we use to divide consciousness and matter may be part of our problem.
    - It is possible to experience more than language-structured consciousness, as demonstrated by psychedelic experiences and other altered states.
    - Many people report seeing "machine elves" when taking [DMT](https://www.healthline.com/health/what-is-dmt), which is an intense and short-acting psychedelic, and lucid dreaming can show the mind's ability to create compelling simulacrums of others.
+
 - Exploring consciousness & Free will
    - Exploring consciousness can reveal truths about ourselves and free us from hatred, showing that reality may be far from what we perceive.
    - Reality may be far from what we perceive, and psychedelics may offer insight into alternate versions of reality.
@@ -54,6 +55,7 @@ Here is the summary of the discussion.
    - Meditation helps us to become aware of our thoughts and feelings, and to recognize that we are not always in control of our actions.
    - Thoughts and intentions arise from a combination of genetics and environmental influences, and the idea of free will is unraveled by realizing that we have no control over these factors.
    - We follow cultural norms without consciously inventing them, and we notice when they are violated.
+
 - Free will 
    - Free will is an illusion as decisions are made without conscious awareness.
    - We can make choices and have intentions, but the feeling of free will is an illusion as causation cannot make sense of it.
@@ -62,6 +64,7 @@ Here is the summary of the discussion.
    - Taking time to create a circumstance where free will can be experienced is necessary to make it most robust.
    - Decisions are made without a sense of free will, as something simply emerges from the darkness and can be predicted before the conscious agent is aware.
    - Lex is moving to Austin after considering Miami.
+
 - Handling Human Emotions
    - Realizing life is finite, equanimity in difficult situations, treating mistakes lightly, and having a sense of humor can help us navigate turbulent passages without fear and worry.
    - Hatred is toxic and ultimately useless, and anger can be a signal of salience that there is a problem to be solved.
@@ -69,6 +72,7 @@ Here is the summary of the discussion.
    - Realizing that life is finite helps us prioritize and live each day to the fullest.
    - You want to treat mistakes lightly, extract the actionable information, and have a sense of humor to avoid the gravitational pull of self-absorption.
    - Police violence episodes vary and cannot be generalized as just another racist maniac on the police force killing someone based on racism.
+
 - Cooperations & Survival
    - We must learn to cooperate and use our power wisely to survive the potential of engineered pandemics and the emergence of superhuman AI.
    - The biggest threat to the survival of the human species is our inability to agree on what the threats are and how to respond to them.
@@ -77,6 +81,7 @@ Here is the summary of the discussion.
    - AI will need to be deeply integrated with human society and aligned with us in order to achieve super intelligence.
    - Humans must supervise autonomous systems to ensure they are aligned with our values and do not cause unintended consequences.
    - Our egocentric, short-term interests limit our ability to use our power wisely, as evidenced by the competition between James Watson and Linus Pauling in cracking the structure of DNA.
+   
 - Seeking truth
    - Seeking truth and authenticity, people are looking for evidence-based understanding, open-minded communication, and self-defense skills.
    - We can be honest about not believing traditional religious beliefs and still find useful wisdom in them without deceiving ourselves or others.

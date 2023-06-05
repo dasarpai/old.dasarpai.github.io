@@ -23,7 +23,7 @@ toc_sticky: true
 # Business-Usecases-of-GPT   
 
 ## Introduction    
-
+   
 You will not lose your job because of AI, but you may lose it because you didn't learn how to use AI in your job.
 
 Artificial Intelligence (AI) has become increasingly prevalent in the modern workplace, and one of the most promising applications of AI is the use of Generative Pre-trained Transformer (GPT) models. GPT is a type of deep learning model that is capable of generating human-like text based on a given prompt. It has been used in a wide range of applications, from language translation and sentiment analysis to chatbots and content generation.

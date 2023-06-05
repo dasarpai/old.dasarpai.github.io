@@ -19,8 +19,7 @@ toc_sticky: true
 ---    
     
 ![Linux OS Directories](/assets/images/dspost/dsp6055-Linux-OS-Directories.jpg)    
-    
-    
+        
 # Linux OS Directories    
     
 **Linux OS Folders and the purpose.**    
