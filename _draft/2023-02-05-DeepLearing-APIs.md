@@ -1,7 +1,7 @@
 replace nn, title, slug
 ---
 mathjax: true
-id: nn
+id: 6053
 title: title 
 date: 2023-01-28
 permalink: '/dsblog/slug'
