@@ -186,7 +186,8 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Cloud Mobile App: iOS/Android Google Cloud manager app [Link](https://cloud.google.com/console-app/)   
 1. Private Catalog: Internal Solutions Catalog [Link](https://cloud.google.com/private-catalog/) [Doc](https://cloud.google.com/private-catalog/docs/)   
 1. VM Manager: Manage OS VM Fleets [Doc](https://cloud.google.com/compute/docs/vm-manager)   
- ## [](#application-integration)Application Integration   
+
+## [](#application-integration)Application Integration   
 1. Cloud Scheduler: Managed cron job service [Link](https://cloud.google.com/scheduler/) [Doc](https://cloud.google.com/scheduler/docs/)   
 1. Cloud Tasks: Asynchronous task execution [Link](https://cloud.google.com/tasks/) [Doc](https://cloud.google.com/tasks/docs/)   
 1. Eventarc: Event-driven Cloud Run services [Link](https://cloud.google.com/eventarc/) [Doc](https://cloud.google.com/eventarc/docs/)   
@@ -409,3 +410,6 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Ruby: [Doc](https://cloud.google.com/ruby/docs/)
 1. PHP: [Doc](https://cloud.google.com/php/docs/)
 1. .NET/C#: [Doc](https://cloud.google.com/dotnet/docs/)
+
+## References
+- [Reference Cheatsheet](https://googlecloudcheatsheet.withgoogle.com/)
