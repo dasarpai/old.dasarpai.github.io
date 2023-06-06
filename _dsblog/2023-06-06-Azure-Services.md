@@ -22,7 +22,7 @@ toc_sticky: true
    
 # Unlocking the Power of Azure     
 **Exploring 300+ Cloud Services and Their Purposes**   
-All these services are availalbe at https://azure.microsoft.com/en-in/products/    
+All these services are availalbe at [Link](https://azure.microsoft.com/en-in/products/)    
    
 ## Introduction   
 Embracing the cloud has become an integral part of modern businesses, and Microsoft Azure stands out as a leading player in the realm of cloud computing. With a staggering portfolio of over 300+ cloud services, Azure offers a rich and diverse ecosystem to meet the ever-evolving needs of organizations across the globe. However, navigating through this extensive array of services can be a daunting task, as it is often challenging to grasp the purpose and potential of each offering. In this comprehensive guide, we aim to unravel the mysteries of Azure and shed light on the vast landscape of its cloud services. Join me on a journey of discovery as we explore, demystify, and showcase the range of Azure's offerings, empowering you to make informed decisions and harness the full power of the Azure.
