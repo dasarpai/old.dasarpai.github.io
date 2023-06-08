@@ -2,7 +2,7 @@
 id: 703    
 title: Data Science Blog
 layout: collection
-permalink: /datascience-blog
+permalink: /dsblog
 collection: dsblog
 entries_layout: grid
 author_profile: true
