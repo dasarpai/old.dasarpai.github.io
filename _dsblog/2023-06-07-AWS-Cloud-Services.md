@@ -301,11 +301,13 @@ This paragraph introduces AWS and its purpose, and it provides a brief overview 
 
 # Resources
 -  [AWS Skill Builder](https://aws.amazon.com/training/digital/?trk=81ad3c91-d1b1-4a75-90af-b3c48ab4fe43&sc_channel=ps&ef_id=CjwKCAjwsvujBhAXEiwA_UXnAOARSkJ8VOGqcMpAOLvUm734gK03BlTghYw_6aoz4NHN6-DrZ3G5LRoC2PsQAvD_BwE:G:s&s_kwcid=AL!4422!3!513156956526!p!!g!!aws%20course!11363780097!110903191426)
+
 - YouTube
-    - [4 Hours: AWS Certified Cloud Practitioner Training 2020 - Full Course | FreeCodeCamp](https://www.youtube.com/watch?v=3hLmDS179YE&t=27s)
-    - [Approx 4 Hours: AWS Certified Cloud Practitioner 2022 FULL COURSE for Beginners (2019 Course Updated) | ClayDesktop](https://www.youtube.com/watch?v=SpfO55NPhx8&t=12s)
-    - [4 Hours: AWS Cloud Practitioner | AWS Certified Cloud Practitioner - Full Course | AWS Training | Edureka ](https://www.youtube.com/watch?v=XjPUyGKRjZs&t=2s)
-    - [12 Hours: AWS Cloud Practitioner Training | AWS Cloud Practitioner Essentials | AWS Full Course | Simplillearn](https://www.youtube.com/watch?v=35JSBXkjuhk&t=2s)
+    - [4 Hours: AWS Certified Cloud Practitioner Training 2020 - Full Course > FreeCodeCamp](https://www.youtube.com/watch?v=3hLmDS179YE&t=27s)
+    - [Approx 4 Hours: AWS Certified Cloud Practitioner 2022 FULL COURSE for Beginners (2019 Course Updated) > ClayDesktop](https://www.youtube.com/watch?v=SpfO55NPhx8&t=12s)
+    - [4 Hours: AWS Cloud Practitioner + AWS Certified Cloud Practitioner - Full Course + AWS Training > Edureka ](https://www.youtube.com/watch?v=XjPUyGKRjZs&t=2s)
+    - [12 Hours: AWS Cloud Practitioner Training + AWS Cloud Practitioner Essentials + AWS Full Course > Simplillearn](https://www.youtube.com/watch?v=35JSBXkjuhk&t=2s)
+
 - Telegram Group
     - [AWS Exam Preparation Group](https://t.me/aws_exam)
     - [AWS Certification Preparation and dumps](https://t.me/awscertifications)
