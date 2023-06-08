@@ -36,13 +36,14 @@ sidebar:
 	Technology helps creating solution for myself and people around.  
 		
 ## Summary About Me: 
-Hari Thapliyal is a vivid blogger on various subjects including Data Science, AI, Machine Learning, Project Management, Process Automation, PMO, Advait-Vedanta Philosophy, and Indian Culture. He has Master's degrees in Computers, Business Management, Data Science, and Economics. He is pursuing his Doctorate in AI (NLP) from the Swiss School of Business Management (Geneva, Switzerland). Hari has around 3 decades of experience in management & leadership, training, consulting, and coaching in technology. 16+ years in all phases of software product development. 10+ years in course design, training, coaching, and consulting on Project Management. 3+ years experience in course development, exploring, experimenting, training, coaching, and mentoring hundreds of professionals in Data Science, AI, CV, NLP, complex machine learning algorithms, statistical modeling, identifying patterns, and extracting valuable insights. He has diverse experience in planning & executing multiple projects and liaising with key stakeholders to identify & resolve business problems and deliver excellent results. In his spare time, he loves to track long-distance, meditate in some secluded place or in nature.
+Hari Thapliyal is a vivid blogger on various subjects including Data Science, AI, Machine Learning, Project Management, Process Automation, PMO, Advait-Vedanta Philosophy, and Indian Culture. He has Master's degrees in Computers, Business Management, Data Science, and Economics. He is pursuing his Doctorate in AI (NLP) from the Swiss School of Business Management (Geneva, Switzerland). Hari has around 3 decades of experience in management & leadership, training, consulting, and coaching in technology. 16+ years in all phases of software product development. 10+ years in course design, training, coaching, and consulting on Project Management. 4+ years experience in course development, exploring, experimenting, training, coaching, and mentoring hundreds of professionals in Data Science, AI, CV, NLP, complex machine learning algorithms, statistical modeling, identifying patterns, and extracting valuable insights. He has diverse experience in planning & executing multiple projects and liaising with key stakeholders to identify & resolve business problems and deliver excellent results. In his spare time, he loves to track long-distance, meditate in some secluded place or in nature.
 
 
 ## Resources to Learn Everything about Data Science, AI, Machine Learning, Deep Learning and NLP.
    [Resources to Learning Everything of AI](/dsblog/all-resources-to-learn-data-science)
 
-## [Jump to AI/ML Articles](/dsblog)
+## AI/ ML Blogs
+   [Jump to AI/ML Articles](/dsblog)
 
 To have one-on-one coaching, counselling, mentoring session with me, you can reach me via buymeacofee (BMC) link. I conduct sessions on Data Science, AI Technologies and Project Management. 30 min life coaching sessions are free.
 
