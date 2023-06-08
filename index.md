@@ -53,6 +53,8 @@ Hari Thapliyal is a vivid blogger on various subjects including Data Science, AI
 ## AI/ ML Blogs
    [Jump to AI/ML Articles](/dsblog)
 
+<hr>
+
 To have one-on-one coaching, counselling, mentoring session with me, you can reach me via buymeacofee (BMC) link. I conduct sessions on Data Science, AI Technologies and Project Management. 30 min life coaching sessions are free.
 
 <a href="https://www.buymeacoffee.com/harithapliyal" rel="nofolloaw"><img src="https://camo.githubusercontent.com/c3f856bacd5b09669157ed4774f80fb9d8622dd45ce8fdf2990d3552db99bd27/68747470733a2f2f7777772e6275796d6561636f666665652e636f6d2f6173736574732f696d672f637573746f6d5f696d616765732f6f72616e67655f696d672e706e67" alt="Buy Me A Coffee" style="height: 41px; width: 174px; max-width: 100%;" data-canonical-src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"></a>
