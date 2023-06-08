@@ -17,7 +17,7 @@ excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmlogy/Exceptional-Performance-min.jpg)
+![](/assets/images/pmlogy/Exceptional-Performance-min.jpg)  
 
 ## Behaviour that leads to Exceptional performance
 

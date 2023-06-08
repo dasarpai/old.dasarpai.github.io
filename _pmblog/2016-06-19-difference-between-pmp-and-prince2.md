@@ -18,7 +18,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/PMP-PRINCE2-min.png)
+![](/assets/images/pmlogy/PMP-PRINCE2-min.png)   
 
 
 ## Difference between PMP and PRINCE2

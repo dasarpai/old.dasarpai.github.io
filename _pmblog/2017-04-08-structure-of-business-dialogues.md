@@ -18,7 +18,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Structure-of-Dialogue-min.png)
+![](/assets/images/pmlogy/Structure-of-Dialogue-min.png)   
 
 ## Introduction
 

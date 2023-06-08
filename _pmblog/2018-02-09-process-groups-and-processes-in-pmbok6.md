@@ -18,7 +18,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/PMBOK6.jpg)
+![](/assets/images/pmlogy/PMBOK6.jpg)   
 
 # Process Groups and Processes in PMBOK 6
 

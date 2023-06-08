@@ -21,7 +21,7 @@ toc: true
 toc_sticky: true
 ---
 
-[](/assets/images/pmlogy/ZED-V1.jpg)
+[](/assets/images/pmlogy/ZED-V1.jpg)   
 
 # ZED Best Practices Based on Version 2
 

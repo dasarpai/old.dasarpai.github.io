@@ -20,7 +20,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Why-APM-is-Popular-min.png)
+![](/assets/images/pmlogy/Why-APM-is-Popular-min.png)   
 
 
 # Agile Project Management  

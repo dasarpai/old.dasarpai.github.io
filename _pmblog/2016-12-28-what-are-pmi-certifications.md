@@ -16,7 +16,7 @@ excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmlogy/PMI-Certification-min.jpg)
+![](/assets/images/pmlogy/PMI-Certification-min.jpg)   
 
 # All PMI Certifications at a glance
 

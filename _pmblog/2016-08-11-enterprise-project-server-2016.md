@@ -16,7 +16,7 @@ excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmlogy/MicrosoftProject-Security.jpg)
+![](/assets/images/pmlogy/MicrosoftProject-Security.jpg)   
 
 
 # Enterprise Project Server 2016

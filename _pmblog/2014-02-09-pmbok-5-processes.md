@@ -16,7 +16,7 @@ excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmlogy/PMBOK5.jpg)
+![](/assets/images/pmlogy/PMBOK5.jpg)   
 
 
 # PMBOK 5 Processes &amp; Process Groups

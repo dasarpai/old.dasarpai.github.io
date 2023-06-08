@@ -18,7 +18,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/PMI-ACP-Scrum-min.png)
+![](/assets/images/pmlogy/PMI-ACP-Scrum-min.png)   
 
 # PMI-ACP Vs. Scrum Master Certification
 

@@ -20,7 +20,7 @@ toc: true
 toc_sticky: true
 ---
 
-![Managing Virtual Teams](/assets/images/pmlogy/Virtual-Team-min.jpg){: width="768"}
+![Managing Virtual Teams](/assets/images/pmlogy/Virtual-Team-min.jpg){: width="768"}   
 ## Tips of Effective Communication
 
 # Introduction

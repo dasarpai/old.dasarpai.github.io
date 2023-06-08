@@ -17,7 +17,7 @@ author_profile: true
 share: true
 ---
 
-![PMBOK 6 Processes](/assets/images/pmlogy/PMBOK6.jpg)
+![PMBOK 6 Processes](/assets/images/pmlogy/PMBOK6.jpg)   
 
 # PMBOK 6 Processes &amp; Process Groups
 

@@ -20,7 +20,7 @@ toc: true
 toc_sticky: true
 ---
 
-![What is Six Sigma?](/assets/images/pmlogy/pmlogy-post.jpg)
+![What is Six Sigma?](/assets/images/pmlogy/pmlogy-post.jpg)   
 
 # What is Six Sigma?
 

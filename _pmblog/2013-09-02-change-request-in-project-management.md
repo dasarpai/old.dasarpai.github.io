@@ -18,7 +18,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/ChangeRequestManagement.jpg)
+![](/assets/images/pmlogy/ChangeRequestManagement.jpg)   
 
 # Change Request Management 
 

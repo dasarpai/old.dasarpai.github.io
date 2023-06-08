@@ -17,7 +17,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Project-management-terms-with-Construction.jpg)
+![](/assets/images/pmlogy/Project-management-terms-with-Construction.jpg)   
 
 **Disclosure**: This is a complete made case with made-up numbers. The only purpose of this article is to help readers (non-technical, non-project professionals, beginner) understand key concepts of a project. This is a very simplistic view of the project therefore take it as a pinch of salt and do not assume that project management is so simple. I am not from the construction industry but this is a domain where most of us can relate to a greater extent and hoping most of the readers will be able to relate to the concepts. In the project life cycle, we come across many terminologies which are confusing for many of the beginners. I wish I could make some of these concepts clear to the readers of this article.
 

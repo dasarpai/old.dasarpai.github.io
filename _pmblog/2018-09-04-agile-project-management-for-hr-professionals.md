@@ -18,7 +18,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![Agile Project Management for HR Professionals](/assets/images/pmlogy/Agile-HR-min.png)
+![Agile Project Management for HR Professionals](/assets/images/pmlogy/Agile-HR-min.png)   
 
 # Agile HR
 

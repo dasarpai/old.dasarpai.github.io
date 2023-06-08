@@ -17,7 +17,7 @@ excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmlogy/Time-Waste-min.png)
+![](/assets/images/pmlogy/Time-Waste-min.png)   
 
 ## 30 Ways of Conducting a Bad Business Meeting
 

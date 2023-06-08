@@ -19,10 +19,10 @@ share: true
 
 ---
 
-![](/assets/images/pmlogy/pmlogy-post.jpg)
+![](/assets/images/pmlogy/pmlogy-post.jpg)   
 
 
-## Why 6sigmastudy Certification?
+## Why 6sigmastudy Certification?   
 
 | | 6sigmastudy<sup>™</sup> Six Sigma Certifications | Other Six Sigma Certifications |
 |---|---|---|

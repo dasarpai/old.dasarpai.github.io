@@ -20,7 +20,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/IT-PM-Best-Practices-min.png)
+![](/assets/images/pmlogy/IT-PM-Best-Practices-min.png)   
 
 # 40 Commandments of Project Management
 

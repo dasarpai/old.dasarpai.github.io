@@ -17,7 +17,7 @@ excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmlogy/PMI-ACP-Exam-Prep-min.png)
+![](/assets/images/pmlogy/PMI-ACP-Exam-Prep-min.png)   
 
 ## PMI-ACP Exam Preparation Books
 

@@ -21,7 +21,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Customer-Vendor-Relation.jpg)
+![](/assets/images/pmlogy/Customer-Vendor-Relation.jpg)   
 
 # Settling Superiority of Customer Vendor Relationship
 

@@ -18,7 +18,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/pmbok.png)
+![](/assets/images/pmlogy/pmbok.png)   
 
 # Project Management with PMBOK
 

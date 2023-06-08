@@ -19,7 +19,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Challenge-Team-min.jpg)
+![](/assets/images/pmlogy/Challenge-Team-min.jpg)   
 
 # Challenging Your Team
 

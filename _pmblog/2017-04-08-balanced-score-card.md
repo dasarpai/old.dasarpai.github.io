@@ -20,7 +20,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Balance-Scorecard-min.jpg)
+![](/assets/images/pmlogy/Balance-Scorecard-min.jpg)   
 
 # Balanced Score Card
 

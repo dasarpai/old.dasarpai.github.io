@@ -20,7 +20,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Software-Bug-min.png)
+![](/assets/images/pmlogy/Software-Bug-min.png)   
 
 # Software Testing Confusing Terms
 

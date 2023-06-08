@@ -19,7 +19,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/PMI-ACP-Exam-Prep-min.png)
+![](/assets/images/pmlogy/PMI-ACP-Exam-Prep-min.png)   
 
 # Workshop Topics of PMI-ACP Exam
 

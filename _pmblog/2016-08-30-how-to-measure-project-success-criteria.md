@@ -18,7 +18,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Project_Success_Criteria.jpg)
+![](/assets/images/pmlogy/Project_Success_Criteria.jpg)   
 
 # Project Success Criteria
 

@@ -4,16 +4,20 @@ title: "United Nations 17 Sustainable Development Goals?"
 date: '2021-08-28T12:14:08+00:00'
 author: 'Hari Thapliyaal'
 permalink: /pmblog/United-Nations-17-Sustainable-Development-Goals
+tags: 
+    - 'General Project Management'
+    - 'Climate Change'
+    - 'Sustainable Development'
 header:
  teaser: /assets/images/pmlogy/SustaintableDevelopmentGoal.png
 tags:
     - General
 ---
 
-![](/assets/images/pmlogy/SustaintableDevelopmentGoal.png)
+![](/assets/images/pmlogy/SustaintableDevelopmentGoal.png)   
 #  Sustainable Development Goals 
 
-## What are the United Nations 17 Sustainable Development Goals (SDG)? 
+## What are the United Nations 17 Sustainable Development Goals (SDG)?    
 
 1. **No Poverty** – Economic growth must be inclusive to provide sustainable jobs and promote equality.
 2. **Zero Hunger** – The food and agriculture sector offers key solutions for development, and is central for hunger and poverty eradication.

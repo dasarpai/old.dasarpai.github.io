@@ -19,7 +19,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Agile-Waterfall-min.png)
+![](/assets/images/pmlogy/Agile-Waterfall-min.png)   
 
 # Agile and Waterfall
 

@@ -20,7 +20,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Killing-a-Project-min.png)
+![](/assets/images/pmlogy/Killing-a-Project-min.png)   
 
 
 # When to Kill a Project?

@@ -17,7 +17,7 @@ excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmlogy/Softskills-Project-Manger-min.jpg)
+![](/assets/images/pmlogy/Softskills-Project-Manger-min.jpg)   
 
 ## Nontechnical skills every project manager needs
 

@@ -16,7 +16,7 @@ excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmlogy/ChaosReport.png)
+![](/assets/images/pmlogy/ChaosReport.png)   
 
 The data points below are related to Software Development State of Art in America. You can imagine what may be happening in other part of the world.
 

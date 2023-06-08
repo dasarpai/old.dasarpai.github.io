@@ -17,7 +17,7 @@ excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmlogy/SEI-CMMI.jpg)
+![](/assets/images/pmlogy/SEI-CMMI.jpg)   
 
 
 # CMMI Version 1.3 (Summary)

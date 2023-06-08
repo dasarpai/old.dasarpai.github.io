@@ -18,7 +18,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Responsibilties-of-Project-Manager-min.jpg)
+![](/assets/images/pmlogy/Responsibilties-of-Project-Manager-min.jpg)   
 
 # Project Manager Responsibilities &amp; Skills Required  
 
