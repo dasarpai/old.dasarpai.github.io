@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id:  6063
-title:  A Comprehensive Guide to AWS Services 
+title:  A Comprehensive Guide to 210+ AWS Services 
 date: 2023-06-06
 permalink: '/dsblog/AWS-Cloud-Service-Catalog'
 tags: [Cloud, AWS] 
@@ -20,7 +20,7 @@ toc_sticky: true
 
 ![AWS Cloud Service Catalog](/assets/images/dspost/dsp6063-AWS-Cloud-Service-Catalog.jpg)    
    
-# A Comprehensive Guide to AWS Services     
+# A Comprehensive Guide to 210+ AWS Services     
 **Exploring 210+ Cloud Services and Their Purposes**   
 All these services are availalbe at [Link](https://us-east-1.console.aws.amazon.com/console/services?region=us-east-1)   
    
