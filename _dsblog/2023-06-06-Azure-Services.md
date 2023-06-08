@@ -28,6 +28,7 @@ All these services are availalbe at [Link](https://azure.microsoft.com/en-in/pro
 Embracing the cloud has become an integral part of modern businesses, and Microsoft Azure stands out as a leading player in the realm of cloud computing. With a staggering portfolio of over 300+ cloud services, Azure offers a rich and diverse ecosystem to meet the ever-evolving needs of organizations across the globe. However, navigating through this extensive array of services can be a daunting task, as it is often challenging to grasp the purpose and potential of each offering. In this comprehensive guide, we aim to unravel the mysteries of Azure and shed light on the vast landscape of its cloud services. Join me on a journey of discovery as we explore, demystify, and showcase the range of Azure's offerings, empowering you to make informed decisions and harness the full power of the Azure.
 
 ## AI + Machine Learning :Create the next generation of applications using artificial intelligence capabilities for any developer and any scenario [Link](https://azure.microsoft.com/en-in/overview/ai-platform/). **:**  
+
 1. **Anomaly Detector:** https://azure.microsoft.com/en-in/products/cognitive-services/anomaly-detector/ Easily add anomaly detection capabilities to your apps.
 2. **Azure Bot Service:** https://azure.microsoft.com/en-in/products/bot-services/ Build conversational AI experiences for your customers
 3. **Azure Cognitive Search:** https://azure.microsoft.com/en-in/products/search/ Enterprise scale search for app development
@@ -58,7 +59,8 @@ Embracing the cloud has become an integral part of modern businesses, and Micros
 28. **Azure Applied AI Services:** https://aka.ms/ScalerHomepage Specialised services that enable organisations to accelerate time to value in applying AI to solve common scenarios
 29. **Azure OpenAI Service:** https://azure.microsoft.com/en-in/products/cognitive-services/openai-service/ Apply advanced coding and language models to a variety of use cases
 30. **Azure Cognitive Services for Vision:** https://azure.microsoft.com/en-in/products/cognitive-services/vision-services/ Unlock insights from image and video content with AI
-## Analytics :Gather, store, process, analyse and visualise data of any variety, volume or velocity [Link](https://azure.microsoft.com/en-in/products/category/analytics/). **:**  
+
+## Analytics :Gather, store, process, analyse and visualise data of any variety, volume or velocity [Link](https://azure.microsoft.com/en-in/products/category/analytics/)  
 1. **Azure Analysis Services:** https://azure.microsoft.com/en-in/products/analysis-services/ Enterprise-grade analytics engine as a service
 2. **Azure Data Explorer:** https://azure.microsoft.com/en-in/products/data-explorer/ Fast and highly scalable data exploration service
 3. **Data Factory:** https://azure.microsoft.com/en-in/products/data-factory/ Hybrid data integration at enterprise scale, made easy
@@ -79,7 +81,8 @@ Embracing the cloud has become an integral part of modern businesses, and Micros
 18. **Azure Chaos Studio:** https://azure.microsoft.com/en-in/products/chaos-studio/ Improve application resilience by introducing faults and simulating outages
 19. **Azure Operator Insights:** https://azure.microsoft.com/en-in/products/operator-insights/ Remove data silos and deliver business insights from massive datasets
 20. **Azure Operator Service Manager:** https://azure.microsoft.com/en-in/products/operator-service-manager/ Simplify the deployment, upgrade, and management of complex operator services
-## Databases :Support rapid growth and innovate faster with secure, enterprise-grade and fully managed database services [Link](https://azure.microsoft.com/en-in/products/category/databases/). **:**  
+
+## Databases :Support rapid growth and innovate faster with secure, enterprise-grade and fully managed database services [Link](https://azure.microsoft.com/en-in/products/category/databases/).  
 1. **Azure Cache for Redis:** https://azure.microsoft.com/en-in/products/cache/ Accelerate applications with high-throughput, low-latency data caching
 2. **Azure Cosmos DB:** https://azure.microsoft.com/en-in/products/cosmos-db/ Fast NoSQL database with open APIs for any scale
 3. **Data Factory:** https://azure.microsoft.com/en-in/products/data-factory/ Hybrid data integration at enterprise scale, made easy
@@ -95,7 +98,8 @@ Embracing the cloud has become an integral part of modern businesses, and Micros
 13. **Table Storage:** https://azure.microsoft.com/en-in/products/storage/tables/ NoSQL key-value store using semi-structured datasets
 14. **Azure Managed Instance for Apache Cassandra:** https://azure.microsoft.com/en-in/services/managed-instance-apache-cassandra/ Cloud Cassandra with flexibility, control and scale
 15. **Microsoft Azure Confidential Ledger:** https://azure.microsoft.com/en-in/products/azure-confidential-ledger/ Easily use a REST API managed service to store your unstructured metadata in a blockchain structure
-## Developer Tools :Build, manage and continuously deliver cloud applications—using any platform or language [Link](https://azure.microsoft.com/en-in/products/category/developer-tools/). **:**  
+
+## Developer Tools :Build, manage and continuously deliver cloud applications—using any platform or language [Link](https://azure.microsoft.com/en-in/products/category/developer-tools/)  
 1. **App Configuration:** https://azure.microsoft.com/en-in/products/app-configuration/ Fast, scalable parameter storage for app configuration
 2. **Azure DevOps:** https://azure.microsoft.com/en-in/products/devops/ Services for teams to share code, track work and ship software
 3. **Azure DevTest Labs:** https://azure.microsoft.com/en-in/products/devtest-lab/ Quickly create environments using reusable templates and artifacts
@@ -106,7 +110,8 @@ Embracing the cloud has become an integral part of modern businesses, and Micros
 8. **Azure Load Testing:** https://azure.microsoft.com/en-in/products/load-testing/ Optimize app performance with high-scale load testing
 9. **Microsoft Dev Box:** https://azure.microsoft.com/en-in/services/dev-box/ Streamline development with secure, ready-to-code workstations in the cloud
 10. **Azure Deployment Environments:** https://azure.microsoft.com/en-in/services/deployment-environments/ Quickly spin up app infrastructure environments with project-based templates
-## Containers :Develop and manage your containerised applications faster with integrated tools [Link](https://azure.microsoft.com/en-in/products/category/containers/). **:**  
+
+## Containers :Develop and manage your containerised applications faster with integrated tools [Link](https://azure.microsoft.com/en-in/products/category/containers/)  
 1. **App Configuration:** https://azure.microsoft.com/en-in/products/app-configuration/ Fast, scalable parameter storage for app configuration
 2. **Azure Kubernetes Service (AKS):** https://azure.microsoft.com/en-in/products/kubernetes-service/ Build and scale with managed Kubernetes
 3. **Azure Kubernetes Fleet Manager:** https://azure.microsoft.com/en-in/products/kubernetes-fleet-manager/ Seamlessly manage Kubernetes clusters at scale
@@ -118,7 +123,8 @@ Embracing the cloud has become an integral part of modern businesses, and Micros
 9. **Service Fabric:** https://azure.microsoft.com/en-in/products/service-fabric/ Develop microservices and orchestrate containers on Windows or Linux
 10. **Container Registry:** https://azure.microsoft.com/en-in/products/container-registry/ Store and manage container images across all types of deployments
 11. **Azure Container Storage:** https://azure.microsoft.com/en-in/products/container-storage/ Manage persistent volumes for stateful container applications
-# DevOps :Deliver innovation faster with simple, reliable tools for continuous delivery [Link](https://azure.microsoft.com/en-in/products/category/devops/). **:**  
+
+# DevOps :Deliver innovation faster with simple, reliable tools for continuous delivery [Link](https://azure.microsoft.com/en-in/products/category/devops/)  
 1. **Azure Artifacts:** https://azure.microsoft.com/en-in/products/devops/artifacts/ Create, host and share packages with your team
 2. **Azure Boards:** https://azure.microsoft.com/en-in/products/devops/boards/ Plan, track and discuss work across your teams
 3. **Azure DevOps:** https://azure.microsoft.com/en-in/products/devops/ Services for teams to share code, track work and ship software
@@ -133,7 +139,8 @@ Embracing the cloud has become an integral part of modern businesses, and Micros
 12. **Microsoft Dev Box:** https://azure.microsoft.com/en-in/services/dev-box/ Streamline development with secure, ready-to-code workstations in the cloud
 13. **Azure Deployment Environments:** https://azure.microsoft.com/en-in/services/deployment-environments/ Quickly spin up app infrastructure environments with project-based templates
 14. **GitHub Advanced Security for Azure DevOps:** https://azure.microsoft.com/en-in/products/devops/github-advanced-security/ Develop securely from inception to ship
-## Hybrid + multicloud :Get Azure innovation everywhere—bring the agility and innovation of cloud computing to your on-premises workloads [Link](https://azure.microsoft.com/en-in/solutions/hybrid-cloud-app/). **:**  
+
+## Hybrid + multicloud :Get Azure innovation everywhere—bring the agility and innovation of cloud computing to your on-premises workloads [Link](https://azure.microsoft.com/en-in/solutions/hybrid-cloud-app/) 
 1. **Azure Active Directory:** https://azure.microsoft.com/en-in/products/active-directory/ Synchronise on-premises directories and enable single sign-on
 2. **Azure Arc:** https://azure.microsoft.com/en-in/services/azure-arc/ Extend Azure management and services anywhere
 3. **Azure Database for PostgreSQL:** https://azure.microsoft.com/en-in/products/postgresql/ Fully managed, intelligent and scalable PostgreSQL
@@ -152,12 +159,14 @@ Embracing the cloud has become an integral part of modern businesses, and Micros
 16. **Azure Operator Insights:** https://azure.microsoft.com/en-in/products/operator-insights/ Remove data silos and deliver business insights from massive datasets
 17. **Azure Operator Service Manager:** https://azure.microsoft.com/en-in/products/operator-service-manager/ Simplify the deployment, upgrade, and management of complex operator services
 18. **Azure Operator Nexus:** https://azure.microsoft.com/en-in/products/operator-nexus/ Discover a hybrid platform built for mission-critical mobile network applications and can support deployment of both containerized and virtualized network functions
-## Identity :Manage user identities and access to protect against advanced threats across devices, data, apps, and infrastructure [Link](https://azure.microsoft.com/en-in/products/category/identity/). **:**  
+
+## Identity :Manage user identities and access to protect against advanced threats across devices, data, apps, and infrastructure [Link](https://azure.microsoft.com/en-in/products/category/identity/).  
 1. **Azure Active Directory:** https://azure.microsoft.com/en-in/products/active-directory/ Synchronise on-premises directories and enable single sign-on
 2. **Azure Active Directory Domain Services:** https://azure.microsoft.com/en-in/products/active-directory/ds/ Join Azure virtual machines to a domain without domain controllers
 3. **Azure Information Protection:** https://azure.microsoft.com/en-in/services/information-protection/ Better protect your sensitive information—anytime, anywhere
 4. **Azure Active Directory External Identities:** https://azure.microsoft.com/en-in/products/active-directory/external-identities/ Consumer identity and access management in the cloud
-## Integration :Seamlessly integrate on-premises and cloud-based applications, data and processes across your enterprise [Link](https://azure.microsoft.com/en-in/products/category/integration/. **:**  
+
+## Integration :Seamlessly integrate on-premises and cloud-based applications, data and processes across your enterprise [Link](https://azure.microsoft.com/en-in/products/category/integration/.  
 1. **API Management:** https://azure.microsoft.com/en-in/products/api-management/ Publish APIs to developers, partners, and employees securely and at scale
 2. **Azure Healthcare APIs:** https://azure.microsoft.com/en-in/products/health-data-services/ A unified solution that helps protect and combine health data in the cloud and generates healthcare insights with analytics
 3. **Event Grid:** https://azure.microsoft.com/en-in/products/event-grid/ Reliable event delivery at massive scale
@@ -166,7 +175,8 @@ Embracing the cloud has become an integral part of modern businesses, and Micros
 6. **Azure Web PubSub:** https://azure.microsoft.com/en-in/products/web-pubsub/ Easily build real-time messaging web applications using WebSockets and the publish-subscribe pattern
 7. **Azure Data Manager for Energy:** https://azure.microsoft.com/en-in/products/data-manager-for-energy/ Fully managed enterprise-grade OSDU™ Data Platform
 8. **Microsoft Azure Data Manager for Agriculture:** https://azure.microsoft.com/en-in/products/data-manager-for-agriculture/ Azure Data Manager for Agriculture extends the Microsoft Intelligent Data Platform with industry-specific data connectors and capabilities to bring together farm data from disparate sources, enabling organizations to leverage high quality datasets and accelerate the development of digital agriculture solutions
-## Internet of Things :Bring IoT to any device and any platform, without changing your infrastructure [Link](https://azure.microsoft.com/en-in/overview/iot/). **:**  
+
+## Internet of Things :Bring IoT to any device and any platform, without changing your infrastructure [Link](https://azure.microsoft.com/en-in/overview/iot/)  
 1. **API Management:** https://azure.microsoft.com/en-in/products/api-management/ Publish APIs to developers, partners, and employees securely and at scale
 2. **Azure Cosmos DB:** https://azure.microsoft.com/en-in/products/cosmos-db/ Fast NoSQL database with open APIs for any scale
 3. **Azure Digital Twins:** https://azure.microsoft.com/en-in/products/digital-twins/ Build next-generation IoT solutions that model entire environments in real time
@@ -187,7 +197,8 @@ Embracing the cloud has become an integral part of modern businesses, and Micros
 18. **Windows 10 IoT Core Services:** https://azure.microsoft.com/en-in/products/windows-10-iot-core/ Long-term OS support and services to manage device updates and assess device health
 19. **Windows IoT Enterprise:** https://azure.microsoft.com/en-in/products/windows-iot/ Build intelligent edge solutions with world-class developer tools, long-term support and enterprise-grade security.
 20. **Azure Functions:** https://azure.microsoft.com/en-in/products/functions/ Process events with serverless code
-## Management and Governance :Simplify, automate and optimise the management and compliance of your cloud resources [Link](https://azure.microsoft.com/en-in/products/category/management/). **:**  
+
+## Management and Governance :Simplify, automate and optimise the management and compliance of your cloud resources [Link](https://azure.microsoft.com/en-in/products/category/management/) 
 1. **Automation:** https://azure.microsoft.com/en-in/products/automation/ Simplify cloud management with process automation
 2. **Azure Advisor:** https://azure.microsoft.com/en-in/products/advisor/ Your personalised Azure best practices recommendation engine
 3. **Defender External Attack Surface Management:** https://azure.microsoft.com/en-in/products/defender-external-attack-surface-management/ Safeguard the digital experience by discovering all internet-exposed resources with Microsoft Defender External Attack Surface Management (EASM)
@@ -214,26 +225,30 @@ Embracing the cloud has become an integral part of modern businesses, and Micros
 24. **Azure Chaos Studio:** https://azure.microsoft.com/en-in/products/chaos-studio/ Improve application resilience by introducing faults and simulating outages
 25. **Azure Managed Grafana:** https://azure.microsoft.com/en-in/services/managed-grafana/ Deploy Grafana dashboards as a fully managed Azure service
 26. **Update Management Center GA:** https://azure.microsoft.com/en-in/services/azure-update-management-center/ A unified approach to managing updates at scale, in the cloud
-## Media :Deliver high-quality video content anywhere, any time and on any device. **:**  
+
+## Media :Deliver high-quality video content anywhere, any time and on any device  
 1. **Azure Media Player:** https://azure.microsoft.com/en-in/services/media-services/media-player/ A single player for all your playback needs
 2. **Content Delivery Network:** https://azure.microsoft.com/en-in/products/cdn/ Ensure secure, reliable content delivery with broad global reach
 3. **Content Protection:** https://azure.microsoft.com/en-in/services/media-services/content-protection/ Securely deliver content using AES, PlayReady, Widevine and Fairplay
 4. **Encoding:** https://azure.microsoft.com/en-in/services/media-services/encoding/ Studio grade encoding at cloud scale
 5. **Live and On-Demand Streaming:** https://azure.microsoft.com/en-in/services/media-services/live-on-demand/ Deliver content to virtually all devices with scale to meet business needs
 6. **Media Services:** https://azure.microsoft.com/en-in/services/media-services/ Encode, store, and stream video and audio at scale
-## Migration :Simplify and accelerate your migration to the cloud with guidance, tools and resources [Link](https://azure.microsoft.com/en-in/migration/). **:**  
+
+## Migration :Simplify and accelerate your migration to the cloud with guidance, tools and resources [Link](https://azure.microsoft.com/en-in/migration/)  
 1. **Azure Database Migration Service:** https://azure.microsoft.com/en-in/products/database-migration/ Simplify on-premises database migration to the cloud
 2. **Azure Migrate:** https://azure.microsoft.com/en-in/services/azure-migrate/ Discover, assess, right-size, and migrate your on-premises virtual machines (VMs) to Azure
 3. **Azure Site Recovery:** https://azure.microsoft.com/en-in/products/site-recovery/ Keep your business running with built-in disaster recovery service
 4. **Azure Cost Management and Billing:** https://azure.microsoft.com/en-in/products/cost-management/ Manage your cloud spending with confidence
 5. **Data Box:** https://azure.microsoft.com/en-in/products/databox/ Appliances and solutions for data transfer to Azure and edge compute
-## Mixed Reality :Blend your physical and digital worlds to create immersive, collaborative experiences [Link](https://azure.microsoft.com/en-in/topic/mixed-reality/). **:**  
+
+## Mixed Reality :Blend your physical and digital worlds to create immersive, collaborative experiences [Link](https://azure.microsoft.com/en-in/topic/mixed-reality/)  
 1. **Azure Digital Twins:** https://azure.microsoft.com/en-in/products/digital-twins/ Build next-generation IoT solutions that model entire environments in real time
 2. **Kinect DK:** https://azure.microsoft.com/en-in/products/kinect-dk/ Build computer vision and speech models using a developer kit with advanced AI sensors
 3. **Azure Remote Rendering:** https://azure.microsoft.com/en-in/products/remote-rendering/ Render high-quality, interactive 3D content and stream it to your devices in real time
 4. **Spatial Anchors:** https://azure.microsoft.com/en-in/products/spatial-anchors/ Create multi-user, spatially aware mixed reality experiences
 5. **Object Anchors:** https://azure.microsoft.com/en-in/services/object-anchors/ Automatically align and anchor 3D content to objects in the physical world
-## Mobile :Build and deploy cross-platform and native apps for any mobile device [Link](https://azure.microsoft.com/en-in/products/category/mobile/). **:**  
+
+## Mobile :Build and deploy cross-platform and native apps for any mobile device [Link](https://azure.microsoft.com/en-in/products/category/mobile/) 
 1. **API Management:** https://azure.microsoft.com/en-in/products/api-management/ Publish APIs to developers, partners, and employees securely and at scale
 2. **App Configuration:** https://azure.microsoft.com/en-in/products/app-configuration/ Fast, scalable parameter storage for app configuration
 3. **App Service:** https://azure.microsoft.com/en-in/products/app-service/ Quickly create powerful cloud apps for web and mobile
@@ -245,7 +260,8 @@ Embracing the cloud has become an integral part of modern businesses, and Micros
 9. **Visual Studio App Centre:** https://azure.microsoft.com/en-in/products/app-center/ Continuously build, test, release and monitor your mobile and desktop apps
 10. **Xamarin:** https://azure.microsoft.com/en-in/features/xamarin/ Create cloud-powered mobile apps faster
 11. **Azure Communication Services:** https://azure.microsoft.com/en-in/products/communication-services/ Build rich communication experiences with the same secure platform capabilities used by Microsoft Teams
-## Networking :Connect cloud and on-premises infrastructure and services to provide your customers and users the best possible experience [Link](https://azure.microsoft.com/en-in/products/category/networking/). **:**  
+
+## Networking :Connect cloud and on-premises infrastructure and services to provide your customers and users the best possible experience [Link](https://azure.microsoft.com/en-in/products/category/networking/)  
 1. **Application Gateway:** https://azure.microsoft.com/en-in/products/application-gateway/ Build secure, scalable and highly available web front ends in Azure
 2. **Azure Bastion:** https://azure.microsoft.com/en-in/services/azure-bastion/ Private and fully managed RDP and SSH access to your virtual machines
 3. **Azure DDoS Protection:** https://azure.microsoft.com/en-in/products/ddos-protection/ Protect your applications from Distributed Denial of Service (DDoS) attacks
@@ -270,7 +286,8 @@ Embracing the cloud has become an integral part of modern businesses, and Micros
 22. **Azure Network Function Manager:** https://azure.microsoft.com/en-in/products/azure-network-function-manager/ Extend Azure management for deploying 5G and SD-WAN network functions on edge devices
 23. **Azure Private 5G Core:** https://azure.microsoft.com/en-in/products/private-5g-core/ Rapidly deploy and manage private 5G networks at the enterprise edge
 24. **Azure Communications Gateway:** https://azure.microsoft.com/en-in/products/communications-gateway/ Rapidly connect your fixed and mobile networks with Microsoft Teams
-## Storage :Get secure, massively scalable cloud storage for your data, apps and workloads [Link](https://azure.microsoft.com/en-in/products/category/storage/). **:**  
+
+## Storage :Get secure, massively scalable cloud storage for your data, apps and workloads [Link](https://azure.microsoft.com/en-in/products/category/storage/)  
 1. **Archive Storage:** https://azure.microsoft.com/en-in/services/storage/archive/ Industry leading price point for storing rarely accessed data
 2. **Avere vFXT for Azure:** https://azure.microsoft.com/en-in/products/storage/avere-vfxt/ Run high-performance, file-based workloads in the cloud
 3. **Azure Backup:** https://azure.microsoft.com/en-in/services/backup/ Simplify data protection and protect against ransomware
@@ -291,7 +308,8 @@ Embracing the cloud has become an integral part of modern businesses, and Micros
 18. **Azure Elastic SAN:** https://azure.microsoft.com/en-in/products/storage/elastic-san/ Elastic SAN is a cloud-native storage area network (SAN) service built on Azure. Gain access to an end-to-end experience like your on-premises SAN
 19. **Azure Managed Lustre:** https://azure.microsoft.com/en-in/products/managed-lustre/ Azure Managed Lustre is a fully managed, cloud based parallel file system that enables customers to run their high performance computing (HPC) workloads in the cloud
 20. **Azure Container Storage:** https://azure.microsoft.com/en-in/products/container-storage/ Manage persistent volumes for stateful container applications
-## Compute :Access cloud compute capacity and scale on demand—and only pay for the resources you use [Link](https://azure.microsoft.com/en-in/products/category/compute/). **:**  
+
+## Compute :Access cloud compute capacity and scale on demand—and only pay for the resources you use [Link](https://azure.microsoft.com/en-in/products/category/compute/) 
 1. **App Service:** https://azure.microsoft.com/en-in/products/app-service/ Quickly create powerful cloud apps for web and mobile
 2. **Azure CycleCloud:** https://azure.microsoft.com/en-in/features/azure-cyclecloud/ Create, manage, operate and optimise HPC and big compute clusters of any scale
 3. **Azure Quantum:** https://azure.microsoft.com/en-in/products/quantum/ Experience quantum impact today on Azure
@@ -314,7 +332,8 @@ Embracing the cloud has become an integral part of modern businesses, and Micros
 20. **Azure Functions:** https://azure.microsoft.com/en-in/products/functions/ Process events with serverless code
 21. **Container Instances:** https://azure.microsoft.com/en-in/products/container-instances/ Easily run containers on Azure without managing servers
 22. **Service Fabric:** https://azure.microsoft.com/en-in/products/service-fabric/ Develop microservices and orchestrate containers on Windows or Linux
-## Security :Protect your enterprise from advanced threats across hybrid cloud workloads [Link](https://azure.microsoft.com/en-in/products/category/security/). **:**  
+
+## Security :Protect your enterprise from advanced threats across hybrid cloud workloads [Link](https://azure.microsoft.com/en-in/products/category/security/)  
 1. **App Configuration:** https://azure.microsoft.com/en-in/products/app-configuration/ Fast, scalable parameter storage for app configuration
 2. **Application Gateway:** https://azure.microsoft.com/en-in/products/application-gateway/ Build secure, scalable and highly available web front ends in Azure
 3. **Azure Active Directory:** https://azure.microsoft.com/en-in/products/active-directory/ Synchronise on-premises directories and enable single sign-on
@@ -334,7 +353,8 @@ Embracing the cloud has become an integral part of modern businesses, and Micros
 17. **Web Application Firewall:** https://azure.microsoft.com/en-in/products/web-application-firewall/ A cloud-native web application firewall (WAF) service that provides powerful protection for web apps
 18. **Microsoft Azure Attestation:** https://azure.microsoft.com/en-in/products/azure-attestation/ A unified solution for remotely verifying the trustworthiness of a platform and integrity of the binaries running inside it
 19. **Microsoft Azure Confidential Ledger:** https://azure.microsoft.com/en-in/products/azure-confidential-ledger/ Easily use a REST API managed service to store your unstructured metadata in a blockchain structure
-## Web :Build, deploy, and scale powerful web applications quickly and efficiently [Link](https://azure.microsoft.com/en-in/products/category/web/). **:**  
+
+## Web :Build, deploy, and scale powerful web applications quickly and efficiently [Link](https://azure.microsoft.com/en-in/products/category/web/).  
 1. **API Management:** https://azure.microsoft.com/en-in/products/api-management/ Publish APIs to developers, partners, and employees securely and at scale
 2. **App Configuration:** https://azure.microsoft.com/en-in/products/app-configuration/ Fast, scalable parameter storage for app configuration
 3. **App Service:** https://azure.microsoft.com/en-in/products/app-service/ Quickly create powerful cloud apps for web and mobile
@@ -349,7 +369,8 @@ Embracing the cloud has become an integral part of modern businesses, and Micros
 12. **Azure Fluid Relay:** https://azure.microsoft.com/en-in/products/fluid-relay/ Easily add real-time collaborative experiences to your apps with Fluid Framework
 13. **Azure Container Apps:** https://azure.microsoft.com/en-in/products/container-apps/ Build and deploy modern apps and microservices using serverless containers
 14. **Web App for Containers:** https://azure.microsoft.com/en-in/products/app-service/containers/ Easily deploy and run containerized web apps on Windows and Linux
-## Windows Virtual Desktop :The best virtual desktop experience, delivered on Azure.. **:**  
+
+## Windows Virtual Desktop :The best virtual desktop experience, delivered on Azure  
 1. **Azure Lab Services:** https://azure.microsoft.com/en-in/products/lab-services/ Set up labs for classrooms, trials, development and testing and other scenarios
 2. **Azure Virtual Desktop:** https://azure.microsoft.com/en-in/products/virtual-desktop/ Enable a secure, remote desktop experience from anywhere
 3. **VMware Horizon Cloud on Microsoft Azure:** https://azure.microsoft.com/en-in/services/virtual-desktop/vmware-horizon-cloud/ Provision Windows desktops and apps with VMware and Azure Virtual Desktop
