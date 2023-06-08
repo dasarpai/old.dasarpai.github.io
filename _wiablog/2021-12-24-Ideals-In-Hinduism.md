@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Ideals in Hinduism](/assets/images/wiapost/5176-Ideals-In-Hinduism.jpg)
+![Ideals in Hinduism](/assets/images/wiapost/5176-Ideals-In-Hinduism.jpg)     
 
 ## Ideals in Hinduism
 

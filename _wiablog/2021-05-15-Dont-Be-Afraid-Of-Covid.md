@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Don't Be Afraid Of Covid](/assets/images/wiapost/5122-Dont-Be-Afraid-Of-Covid.jpg)
+![Don't Be Afraid Of Covid](/assets/images/wiapost/5122-Dont-Be-Afraid-Of-Covid.jpg)     
 
 ## Don't Be Afraid Of Covid
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Learning From The Nature](/assets/images/wiapost/5053-Learning-From-The-Nature.jpg)
+![Learning From The Nature](/assets/images/wiapost/5053-Learning-From-The-Nature.jpg)     
 
 ## Learning From The Nature
 

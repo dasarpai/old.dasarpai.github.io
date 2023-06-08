@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![What Is CSR](/assets/images/wiapost/5056-What-Is-Csr.jpg)
+![What Is CSR](/assets/images/wiapost/5056-What-Is-Csr.jpg)     
 
 ## What Is CSR
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Self Realization](/assets/images/wiapost/5106-Self-Realization.jpg)
+![Self Realization](/assets/images/wiapost/5106-Self-Realization.jpg)     
 
 ## Self Realization
 

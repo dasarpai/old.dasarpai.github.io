@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![The Purpose Of Motions](/assets/images/wiapost/5068-The-Purpose-Of-Motions.jpg)
+![The Purpose Of Motions](/assets/images/wiapost/5068-The-Purpose-Of-Motions.jpg)     
 
 ## The Purpose Of Motions
 

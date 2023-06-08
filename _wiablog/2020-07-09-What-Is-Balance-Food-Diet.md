@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![What Is Balance Food Diet?](/assets/images/wiapost/5131-What-Is-Balance-Food-Diet.jpg)
+![What Is Balance Food Diet?](/assets/images/wiapost/5131-What-Is-Balance-Food-Diet.jpg)     
 
 ## What Is Balance Food Diet?
 

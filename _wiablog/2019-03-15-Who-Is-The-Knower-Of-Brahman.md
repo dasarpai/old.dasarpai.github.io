@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Who Is The Knower Of Brahman?](/assets/images/wiapost/5093-Who-Is-The-Knower-Of-Brahman.jpg)
+![Who Is The Knower Of Brahman?](/assets/images/wiapost/5093-Who-Is-The-Knower-Of-Brahman.jpg)     
 
 ## Who Is The Knower Of Brahman?
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Bondage of the World](/assets/images/wiapost/5168-Bondage-Of-The-World.jpg)
+![Bondage of the World](/assets/images/wiapost/5168-Bondage-Of-The-World.jpg)     
 
 ## Bondage of the World   
 

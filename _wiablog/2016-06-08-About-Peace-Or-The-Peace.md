@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![About Peace Or The Peace](/assets/images/wiapost/5020-About-Peace-Or-The-Peace.jpg)
+![About Peace Or The Peace](/assets/images/wiapost/5020-About-Peace-Or-The-Peace.jpg)     
 
 ## About Peace Or The Peace
 

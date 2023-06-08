@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![About Astika](/assets/images/wiapost/5019-About-Astika.jpg)
+![About Astika](/assets/images/wiapost/5019-About-Astika.jpg)     
 
 ## About Astika
 

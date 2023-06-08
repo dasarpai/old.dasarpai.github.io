@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Choose Your Attitude](/assets/images/wiapost/5132-Choose-Your-Attitude.jpg)
+![Choose Your Attitude](/assets/images/wiapost/5132-Choose-Your-Attitude.jpg)     
 
 ## Choose Your Attitude
 

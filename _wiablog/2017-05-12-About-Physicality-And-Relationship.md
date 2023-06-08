@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![About Physicality And Relationship](/assets/images/wiapost/5048-About-Physicality-And-Relationship.jpg)
+![About Physicality And Relationship](/assets/images/wiapost/5048-About-Physicality-And-Relationship.jpg)     
 
 ## About Physicality And Relationship
 

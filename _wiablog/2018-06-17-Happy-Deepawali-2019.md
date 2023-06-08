@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Happy Deepawali 2019](/assets/images/wiapost/5075-Happy-Deepawali-2019.jpg)
+![Happy Deepawali 2019](/assets/images/wiapost/5075-Happy-Deepawali-2019.jpg)     
 
 ## Happy Deepawali 2019
 

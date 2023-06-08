@@ -16,7 +16,7 @@ author_profile: true
 share: true    
 ---    
     
-![The Way of Learning ](/assets/images/wiapost/5208-The-Way-of-Learning.jpg)    
+![The Way of Learning ](/assets/images/wiapost/5208-The-Way-of-Learning.jpg)         
     
 # The Way of Learning   
     

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Labeling Good and Bad](/assets/images/wiapost/5163-Labeling-Good-And-Bad.jpg)
+![Labeling Good and Bad](/assets/images/wiapost/5163-Labeling-Good-And-Bad.jpg)     
 
 ## Labeling Good and Bad
 

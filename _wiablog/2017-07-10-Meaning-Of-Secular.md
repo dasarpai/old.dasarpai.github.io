@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Meaning Of Secular](/assets/images/wiapost/5052-Meaning-Of-Secular.jpg)
+![Meaning Of Secular](/assets/images/wiapost/5052-Meaning-Of-Secular.jpg)     
 
 ## Meaning Of Secular
 

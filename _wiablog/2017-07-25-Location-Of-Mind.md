@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Location Of Mind](/assets/images/wiapost/5054-Location-Of-Mind.jpg)
+![Location Of Mind](/assets/images/wiapost/5054-Location-Of-Mind.jpg)     
 
 ## Location Of Mind
 

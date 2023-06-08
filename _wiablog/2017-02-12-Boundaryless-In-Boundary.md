@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Boundaryless In Boundary](/assets/images/wiapost/5039-Boundaryless-In-Boundary.jpg)
+![Boundaryless In Boundary](/assets/images/wiapost/5039-Boundaryless-In-Boundary.jpg)     
 
 ## Boundaryless In Boundary
 

@@ -16,10 +16,10 @@ author_profile: true
 share: true    
 ---    
     
-![Book Summary: The Alchemist by Paulo Coelho](/assets/images/wiapost/5222-Book-Summary-The-Alchemist-by-Paulo-Coelho.jpg)    
-
-# Book Summary: The Alchemist by Paulo Coelho
-
+![Book Summary: The Alchemist by Paulo Coelho](/assets/images/wiapost/5222-Book-Summary-The-Alchemist-by-Paulo-Coelho.jpg)         
+   
+# Book Summary: The Alchemist by Paulo Coelho   
+   
 1. Story of a young shepherd named Santiago who embarks on a journey to fulfill his personal legend and discover his true purpose in life.
 2. He has a recurring dream about a hidden treasure waiting for him at the base of the Egyptian pyramids.
 3. Along the way, Santiago meets an alchemist who teaches him

@@ -16,7 +16,7 @@ author_profile: true
 share: true                            
 ---                            
                             
-![The Logic of Entangled Mind](/assets/images/wiapost/5219-The-Waste-Land.jpg)                            
+![The Logic of Entangled Mind](/assets/images/wiapost/5219-The-Waste-Land.jpg)                                 
                
 T.S. Eliot's "The Waste Land" is heavily influenced by Indian Vedanta philosophy. The poem references the Upanishads, a collection of ancient Indian texts that are a central part of Vedanta philosophy, and incorporates elements of Hindu and Buddhist myths and symbols. Eliot's use of these references and symbols serves to convey the theme of spiritual and cultural decay in the modern world.
 

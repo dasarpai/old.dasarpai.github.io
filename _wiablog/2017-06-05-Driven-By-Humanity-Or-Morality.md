@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Driven By Humanity Or Morality](/assets/images/wiapost/5050-Driven-By-Humanity-Or-Morality.jpg)
+![Driven By Humanity Or Morality](/assets/images/wiapost/5050-Driven-By-Humanity-Or-Morality.jpg)     
 
 ## Driven By Humanity Or Morality
 

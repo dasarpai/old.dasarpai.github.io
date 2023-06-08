@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Role Of Leftists In The Indian Society](/assets/images/wiapost/5049-Role-Of-Leftists-In-The-Indian-Society.jpg)
+![Role Of Leftists In The Indian Society](/assets/images/wiapost/5049-Role-Of-Leftists-In-The-Indian-Society.jpg)     
 
 ## Role Of Leftists In The Indian Society
 

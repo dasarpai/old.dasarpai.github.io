@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![No Universal Teachings](/assets/images/wiapost/5044-No-Universal-Teachings.jpg)
+![No Universal Teachings](/assets/images/wiapost/5044-No-Universal-Teachings.jpg)     
 
 ## No Universal Teachings
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Human Is Rotating Or Travelling](/assets/images/wiapost/5063-Human-Is-Rotating-Or-Travelling.jpg)
+![Human Is Rotating Or Travelling](/assets/images/wiapost/5063-Human-Is-Rotating-Or-Travelling.jpg)     
 
 ## Human Is Rotating Or Travelling
 

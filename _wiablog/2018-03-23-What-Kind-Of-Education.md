@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![What Kind Of Education?](/assets/images/wiapost/5070-What-Kind-Of-Education.jpg)
+![What Kind Of Education?](/assets/images/wiapost/5070-What-Kind-Of-Education.jpg)     
 
 ## What Kind Of Education?
 

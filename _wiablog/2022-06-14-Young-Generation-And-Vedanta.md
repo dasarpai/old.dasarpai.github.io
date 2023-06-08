@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Young Generation and Vedanta](/assets/images/wiapost/5191-Young-Generation-And-Vedanta.jpg)
+![Young Generation and Vedanta](/assets/images/wiapost/5191-Young-Generation-And-Vedanta.jpg)     
 
 ## Young Generation and Vedanta
 

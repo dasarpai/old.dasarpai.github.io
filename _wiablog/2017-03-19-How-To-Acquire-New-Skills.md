@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![How To Acquire New Skills](/assets/images/wiapost/5043-How-To-Acquire-New-Skills.jpg)
+![How To Acquire New Skills](/assets/images/wiapost/5043-How-To-Acquire-New-Skills.jpg)     
 
 ## How To Acquire New Skills
 

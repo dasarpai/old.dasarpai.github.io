@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Cause Of Pain And Suffering](/assets/images/wiapost/5124-Cause-Of-Pain-And-Suffering.jpg)
+![Cause Of Pain And Suffering](/assets/images/wiapost/5124-Cause-Of-Pain-And-Suffering.jpg)     
 
 ## Cause Of Pain And Suffering
 

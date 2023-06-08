@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Thirukkural In Hindi](/assets/images/wiapost/5002-Thirukkural-In-Hindi.jpg)
+![Thirukkural In Hindi](/assets/images/wiapost/5002-Thirukkural-In-Hindi.jpg)     
 
 ## Thirukkural In Hindi
 

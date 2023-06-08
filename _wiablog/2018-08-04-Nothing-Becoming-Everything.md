@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Nothing Becoming Everything](/assets/images/wiapost/5077-Nothing-Becoming-Everything.jpg)
+![Nothing Becoming Everything](/assets/images/wiapost/5077-Nothing-Becoming-Everything.jpg)     
 
 ## Nothing Becoming Everything
 

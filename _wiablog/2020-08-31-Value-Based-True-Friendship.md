@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Value Based True Friendship](/assets/images/wiapost/5135-Value-Based-True-Friendship.jpg)
+![Value Based True Friendship](/assets/images/wiapost/5135-Value-Based-True-Friendship.jpg)     
 
 ## Value Based True Friendship
 

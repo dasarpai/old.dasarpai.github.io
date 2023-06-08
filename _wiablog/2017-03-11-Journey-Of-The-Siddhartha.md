@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Journey Of The Siddhartha](/assets/images/wiapost/5041-Journey-Of-The-Siddhartha.jpg)
+![Journey Of The Siddhartha](/assets/images/wiapost/5041-Journey-Of-The-Siddhartha.jpg)     
 
 ## Journey Of The Siddhartha
 

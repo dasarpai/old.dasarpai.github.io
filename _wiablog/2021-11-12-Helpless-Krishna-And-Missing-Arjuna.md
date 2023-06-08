@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Helpless Krishna and Missing Arjuna](/assets/images/wiapost/5173-Helpless-Krishna-And-Missing-Arjuna.jpg)
+![Helpless Krishna and Missing Arjuna](/assets/images/wiapost/5173-Helpless-Krishna-And-Missing-Arjuna.jpg)     
 
 ## Helpless Krishna and Missing Arjuna
 

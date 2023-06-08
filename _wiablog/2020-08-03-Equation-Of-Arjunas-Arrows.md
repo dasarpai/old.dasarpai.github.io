@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Equation Of Arjunas Arrows](/assets/images/wiapost/5133-Equation-Of-Arjunas-Arrows.jpg)
+![Equation Of Arjunas Arrows](/assets/images/wiapost/5133-Equation-Of-Arjunas-Arrows.jpg)     
 
 ## Equation Of Arjunas Arrows
 

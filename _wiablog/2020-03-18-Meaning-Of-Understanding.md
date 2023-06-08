@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Meaning Of Understanding](/assets/images/wiapost/5121-Meaning-Of-Understanding.jpg)
+![Meaning Of Understanding](/assets/images/wiapost/5121-Meaning-Of-Understanding.jpg)     
 
 ## Meaning Of Understanding
 

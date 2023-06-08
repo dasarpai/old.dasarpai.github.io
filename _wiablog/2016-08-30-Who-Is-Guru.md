@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Who Is Guru](/assets/images/wiapost/5029-Who-Is-Guru.jpg)
+![Who Is Guru](/assets/images/wiapost/5029-Who-Is-Guru.jpg)     
 
 ## Who Is Guru
 

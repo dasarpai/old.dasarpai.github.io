@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![What Is Death?](/assets/images/wiapost/5154-What-Is-Death.jpg)
+![What Is Death?](/assets/images/wiapost/5154-What-Is-Death.jpg)     
 
 ## What Is Death?
 

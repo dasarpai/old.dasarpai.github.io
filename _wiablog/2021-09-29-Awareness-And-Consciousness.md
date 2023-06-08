@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Awareness and Consciousness](/assets/images/wiapost/5171-Awareness-And-Consciousness.jpg)
+![Awareness and Consciousness](/assets/images/wiapost/5171-Awareness-And-Consciousness.jpg)     
 
 ## Awareness and Consciousness
 

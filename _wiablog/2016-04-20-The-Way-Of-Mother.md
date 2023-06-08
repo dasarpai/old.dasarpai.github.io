@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![The Way Of Mother](/assets/images/wiapost/5016-The-Way-Of-Mother.jpg)
+![The Way Of Mother](/assets/images/wiapost/5016-The-Way-Of-Mother.jpg)     
 
 ## The Way Of Mother
 

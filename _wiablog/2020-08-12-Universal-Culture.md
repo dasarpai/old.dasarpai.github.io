@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Universal Culture](/assets/images/wiapost/5134-Universal-Culture.jpg)
+![Universal Culture](/assets/images/wiapost/5134-Universal-Culture.jpg)     
 
 ## Universal Culture
 

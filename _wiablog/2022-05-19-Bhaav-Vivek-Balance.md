@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Bhaav-Vivek Balance](/assets/images/wiapost/5189-Bhaav-Vivek-Balance.jpg)
+![Bhaav-Vivek Balance](/assets/images/wiapost/5189-Bhaav-Vivek-Balance.jpg)     
 
 ## Bhaav-Vivek Balance
 

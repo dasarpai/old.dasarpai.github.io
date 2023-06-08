@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![A Mirage Of Happiness](/assets/images/wiapost/5108-A-Mirage-Of-Happiness.jpg)
+![A Mirage Of Happiness](/assets/images/wiapost/5108-A-Mirage-Of-Happiness.jpg)     
 
 ## A Mirage Of Happiness
 

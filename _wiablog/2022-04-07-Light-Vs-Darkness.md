@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Light vs Darkness](/assets/images/wiapost/5184-Light-Vs-Darkness.jpg)
+![Light vs Darkness](/assets/images/wiapost/5184-Light-Vs-Darkness.jpg)     
 
 ## Light vs Darkness
 

@@ -16,10 +16,10 @@ author_profile: true
 share: true    
 ---    
     
-![Book Summary : The Power of Intention](/assets/images/wiapost/5220-Book-Summary-The-Power-of-Intention.jpg)    
+![Book Summary : The Power of Intention](/assets/images/wiapost/5220-Book-Summary-The-Power-of-Intention.jpg)         
     
-# Book Summary : The Power of Intention
-
+# Book Summary : The Power of Intention   
+   
 Key Point from the "The Power of Intention" by Dr. Wayne W. Dyer   
 
 1. It is on the power of positive thinking and how to use it to manifest one's desires and achieve success.

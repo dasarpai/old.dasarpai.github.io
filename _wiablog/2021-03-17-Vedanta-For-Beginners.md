@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Vedanta For Beginners](/assets/images/wiapost/5149-Vedanta-For-Beginners.jpg)
+![Vedanta For Beginners](/assets/images/wiapost/5149-Vedanta-For-Beginners.jpg)     
 
 ## Vedanta For Beginners
 

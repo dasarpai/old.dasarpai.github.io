@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![The Biggest Mistake](/assets/images/wiapost/5162-The-Biggest-Mistake.jpg)
+![The Biggest Mistake](/assets/images/wiapost/5162-The-Biggest-Mistake.jpg)     
 
 ## The Biggest Mistake
 

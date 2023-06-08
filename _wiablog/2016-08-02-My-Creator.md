@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![My Creator](/assets/images/wiapost/5025-My-Creator.jpg)
+![My Creator](/assets/images/wiapost/5025-My-Creator.jpg)     
 
 ## My Creator
 

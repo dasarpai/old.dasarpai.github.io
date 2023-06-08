@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Meditation Perspective Of A Practitioner](/assets/images/wiapost/5058-Meditation-Perspective-Of-A-Practitioner.jpg)
+![Meditation Perspective Of A Practitioner](/assets/images/wiapost/5058-Meditation-Perspective-Of-A-Practitioner.jpg)     
 
 ## Meditation Perspective Of A Practitioner
 

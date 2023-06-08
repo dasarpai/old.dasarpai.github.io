@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Where Are Todays Rishis](/assets/images/wiapost/5083-Where-Are-Todays-Rishis.jpg)
+![Where Are Todays Rishis](/assets/images/wiapost/5083-Where-Are-Todays-Rishis.jpg)     
 
 ## Where Are Todays Rishis
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Hinduism And Celibacy](/assets/images/wiapost/5140-Hinduism-And-Celibacy.jpg)
+![Hinduism And Celibacy](/assets/images/wiapost/5140-Hinduism-And-Celibacy.jpg)     
 
 ## Hinduism And Celibacy
 

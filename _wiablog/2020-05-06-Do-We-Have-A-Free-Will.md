@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Do We Have A Free Will](/assets/images/wiapost/5125-Do-We-Have-A-Free-Will.jpg)
+![Do We Have A Free Will](/assets/images/wiapost/5125-Do-We-Have-A-Free-Will.jpg)     
 
 ## Do We Have A Free Will
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![The Root Of Body Mass](/assets/images/wiapost/5069-The-Root-Of-Body-Mass.jpg)
+![The Root Of Body Mass](/assets/images/wiapost/5069-The-Root-Of-Body-Mass.jpg)     
 
 ## The Root Of Body Mass
 

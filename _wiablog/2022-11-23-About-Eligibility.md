@@ -16,7 +16,7 @@ author_profile: true
 share: true     
 ---    
     
-![About Eligibility](/assets/images/wiapost/5203-About-Eligibility.jpg)    
+![About Eligibility](/assets/images/wiapost/5203-About-Eligibility.jpg)         
     
 # About Eligibility    
     

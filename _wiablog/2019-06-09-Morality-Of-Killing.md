@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Morality Of Killing](/assets/images/wiapost/5099-Morality-Of-Killing.jpg)
+![Morality Of Killing](/assets/images/wiapost/5099-Morality-Of-Killing.jpg)     
 
 ## Morality Of Killing
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![About Silence And Listening](/assets/images/wiapost/5031-About-Silence-And-Listening.jpg)
+![About Silence And Listening](/assets/images/wiapost/5031-About-Silence-And-Listening.jpg)     
 
 ## About Silence And Listening
 

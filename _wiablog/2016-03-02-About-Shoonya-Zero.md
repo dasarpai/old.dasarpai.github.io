@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![About Shoonya Zero](/assets/images/wiapost/5012-About-Shoonya-Zero.jpg)
+![About Shoonya Zero](/assets/images/wiapost/5012-About-Shoonya-Zero.jpg)     
 
 ## About Shoonya Zero
 

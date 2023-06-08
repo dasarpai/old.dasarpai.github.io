@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Training of the mind](/assets/images/wiapost/5161-Training-Of-The-Mind.jpg)
+![Training of the mind](/assets/images/wiapost/5161-Training-Of-The-Mind.jpg)     
 
 ## Training of the mind
 

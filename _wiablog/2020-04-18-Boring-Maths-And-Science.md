@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Boring Maths and Science](/assets/images/wiapost/5123-Boring-Maths-And-Science.jpg)
+![Boring Maths and Science](/assets/images/wiapost/5123-Boring-Maths-And-Science.jpg)     
 
 ## Boring Maths and Science
 

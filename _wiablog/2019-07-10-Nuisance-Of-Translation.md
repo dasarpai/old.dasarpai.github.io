@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Nuisance Of Translation](/assets/images/wiapost/5101-Nuisance-Of-Translation.jpg)
+![Nuisance Of Translation](/assets/images/wiapost/5101-Nuisance-Of-Translation.jpg)     
 
 ## Nuisance Of Translation
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Limitations Of Logic](/assets/images/wiapost/5141-Limitations-Of-Logic.jpg)
+![Limitations Of Logic](/assets/images/wiapost/5141-Limitations-Of-Logic.jpg)     
 
 ## Limitations Of Logic
 

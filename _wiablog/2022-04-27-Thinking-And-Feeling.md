@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Thinking and Feeling](/assets/images/wiapost/5186-Thinking-And-Feeling.jpg)
+![Thinking and Feeling](/assets/images/wiapost/5186-Thinking-And-Feeling.jpg)     
 
 ## Thinking and Feeling
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Solution of a Problem](/assets/images/wiapost/5196-Solution-Of-A-Problem.jpg)
+![Solution of a Problem](/assets/images/wiapost/5196-Solution-Of-A-Problem.jpg)        
 
 ## Solution of a Problem
 

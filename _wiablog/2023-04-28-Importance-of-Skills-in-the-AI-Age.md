@@ -16,7 +16,7 @@ author_profile: true
 share: true    
 ---    
     
-![Importance of Skills in AI Age](/assets/images/wiapost/5227-Importance-of-Skills-in-the-AI-Age.jpg)    
+![Importance of Skills in AI Age](/assets/images/wiapost/5227-Importance-of-Skills-in-the-AI-Age.jpg)         
     
 # Importance of Skills in The AI Age    
     

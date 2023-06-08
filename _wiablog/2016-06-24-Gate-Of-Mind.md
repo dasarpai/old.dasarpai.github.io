@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Gate Of Mind](/assets/images/wiapost/5021-Gate-Of-Mind.jpg)
+![Gate Of Mind](/assets/images/wiapost/5021-Gate-Of-Mind.jpg)     
 
 ## Gate Of Mind
 

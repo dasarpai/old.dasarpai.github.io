@@ -16,7 +16,7 @@ author_profile: true
 share: true                    
 ---                    
                     
-![The Logic of Entangled Mind](/assets/images/wiapost/5213-Yours-Value-System-and-Contradictions.jpg)                    
+![The Logic of Entangled Mind](/assets/images/wiapost/5213-Yours-Value-System-and-Contradictions.jpg)                         
                        
 # Yours Value System and Contradictions    
     

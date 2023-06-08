@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Play on your Strength](/assets/images/wiapost/5172-Play-On-Your-Strength.jpg)
+![Play on your Strength](/assets/images/wiapost/5172-Play-On-Your-Strength.jpg)     
 
 ## Play on your Strength
 

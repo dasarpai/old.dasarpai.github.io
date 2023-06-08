@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Business of Quotations](/assets/images/wiapost/5177-Business-Of-Quotations.jpg)
+![Business of Quotations](/assets/images/wiapost/5177-Business-Of-Quotations.jpg)     
 
 ## Business of Quotations
 

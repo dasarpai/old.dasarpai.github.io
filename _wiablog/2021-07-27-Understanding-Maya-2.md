@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Understanding Maya 2](/assets/images/wiapost/5166-Understanding-Maya-2.jpg)
+![Understanding Maya 2](/assets/images/wiapost/5166-Understanding-Maya-2.jpg)     
 
 ## Understanding Maya 2
 

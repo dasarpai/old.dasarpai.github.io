@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![The Concept Of Yoga](/assets/images/wiapost/5067-The-Concept-Of-Yoga.jpg)
+![The Concept Of Yoga](/assets/images/wiapost/5067-The-Concept-Of-Yoga.jpg)     
 
 ## The Concept Of Yoga
 

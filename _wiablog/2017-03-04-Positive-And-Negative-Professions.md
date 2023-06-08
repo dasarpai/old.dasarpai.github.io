@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Positive And Negative Professions](/assets/images/wiapost/5040-Positive-And-Negative-Professions.jpg)
+![Positive And Negative Professions](/assets/images/wiapost/5040-Positive-And-Negative-Professions.jpg)     
 
 ## Positive And Negative Professions
 

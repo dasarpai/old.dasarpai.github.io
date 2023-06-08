@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Who Is The Doer?](/assets/images/wiapost/5009-Who-Is-The-Doer.jpg)
+![Who Is The Doer?](/assets/images/wiapost/5009-Who-Is-The-Doer.jpg)     
 
 ## Who Is The Doer?
 

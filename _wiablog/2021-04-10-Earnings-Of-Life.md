@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Earnings Of Life](/assets/images/wiapost/5151-Earnings-Of-Life.jpg)
+![Earnings Of Life](/assets/images/wiapost/5151-Earnings-Of-Life.jpg)     
 
 ## Earnings Of Life
 

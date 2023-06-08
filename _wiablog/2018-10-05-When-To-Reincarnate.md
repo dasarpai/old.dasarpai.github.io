@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![When To Reincarnate?](/assets/images/wiapost/5081-When-To-Reincarnate.jpg)
+![When To Reincarnate?](/assets/images/wiapost/5081-When-To-Reincarnate.jpg)     
 
 ## When To Reincarnate?
 

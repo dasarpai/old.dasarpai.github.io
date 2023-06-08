@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Characteristics Of A Divinely Person](/assets/images/wiapost/5042-Characteristics-Of-A-Divinely-Person.jpg)
+![Characteristics Of A Divinely Person](/assets/images/wiapost/5042-Characteristics-Of-A-Divinely-Person.jpg)     
 
 ## Characteristics Of A Divinely Person
 

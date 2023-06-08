@@ -16,7 +16,7 @@ author_profile: true
 share: true   
 ---   
    
-![The Logic of Entangled Mind](/assets/images/wiapost/5214-Continuum-of-life.jpg)   
+![The Logic of Entangled Mind](/assets/images/wiapost/5214-Continuum-of-life.jpg)        
    
 # Continuum of life   
    

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Greetings For New Year 2016](/assets/images/wiapost/5005-Greetings-For-New-Year-2016.jpg)
+![Greetings For New Year 2016](/assets/images/wiapost/5005-Greetings-For-New-Year-2016.jpg)     
 
 ## Greetings For New Year 2016
 

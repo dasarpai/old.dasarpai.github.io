@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![The Way To Learn](/assets/images/wiapost/5033-The-Way-To-Learn.jpg)
+![The Way To Learn](/assets/images/wiapost/5033-The-Way-To-Learn.jpg)     
 
 ## The Way To Learn
 

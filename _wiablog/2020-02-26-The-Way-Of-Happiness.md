@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![The Way Of Happiness](/assets/images/wiapost/5119-The-Way-Of-Happiness.jpg)
+![The Way Of Happiness](/assets/images/wiapost/5119-The-Way-Of-Happiness.jpg)     
 
 ## The Way Of Happiness
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Three ways of living conscious life](/assets/images/wiapost/5199-Three-Ways-Of-Living-Conscious-Life.jpg)
+![Three ways of living conscious life](/assets/images/wiapost/5199-Three-Ways-Of-Living-Conscious-Life.jpg)        
 
 # Three ways of living conscious life
 

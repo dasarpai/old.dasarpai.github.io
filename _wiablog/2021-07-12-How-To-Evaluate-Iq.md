@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![How to Evaluate IQ](/assets/images/wiapost/5165-How-To-Evaluate-Iq.jpg)
+![How to Evaluate IQ](/assets/images/wiapost/5165-How-To-Evaluate-Iq.jpg)     
 
 ## How to Evaluate IQ   
 

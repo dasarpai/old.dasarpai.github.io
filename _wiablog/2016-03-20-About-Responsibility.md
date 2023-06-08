@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![About Responsibility](/assets/images/wiapost/5013-About-Responsibility.jpg)
+![About Responsibility](/assets/images/wiapost/5013-About-Responsibility.jpg)     
 
 ## About Responsibility
 

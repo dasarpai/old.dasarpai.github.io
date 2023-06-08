@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Mind And Pleasure](/assets/images/wiapost/5015-Mind-And-Pleasure.jpg)
+![Mind And Pleasure](/assets/images/wiapost/5015-Mind-And-Pleasure.jpg)     
 
 ## Mind And Pleasure
 

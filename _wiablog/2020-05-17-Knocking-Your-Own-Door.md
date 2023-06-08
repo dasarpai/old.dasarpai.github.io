@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Knocking Your Own Door](/assets/images/wiapost/5127-Knocking-Your-Own-Door.jpg)
+![Knocking Your Own Door](/assets/images/wiapost/5127-Knocking-Your-Own-Door.jpg)     
 
 ## Knocking Your Own Door
 

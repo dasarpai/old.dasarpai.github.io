@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![The Process Of Cultural Digestion](/assets/images/wiapost/5078-The-Process-Of-Cultural-Digestion.jpg)
+![The Process Of Cultural Digestion](/assets/images/wiapost/5078-The-Process-Of-Cultural-Digestion.jpg)     
 
 ## The Process Of Cultural Digestion
 

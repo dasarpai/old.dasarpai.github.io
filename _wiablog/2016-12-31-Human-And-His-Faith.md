@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Human And His Faith](/assets/images/wiapost/5035-Human-And-His-Faith.jpg)
+![Human And His Faith](/assets/images/wiapost/5035-Human-And-His-Faith.jpg)     
 
 ## Human And His Faith
 

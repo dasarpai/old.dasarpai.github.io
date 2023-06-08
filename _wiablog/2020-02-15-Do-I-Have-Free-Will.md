@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Do I Have Free Will?](/assets/images/wiapost/5118-Do-I-Have-Free-Will.jpg)
+![Do I Have Free Will?](/assets/images/wiapost/5118-Do-I-Have-Free-Will.jpg)     
 
 ## Do I Have Free Will?
 

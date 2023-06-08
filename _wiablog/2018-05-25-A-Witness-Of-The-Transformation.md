@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![A Witness Of The Transformation](/assets/images/wiapost/5074-A-Witness-Of-The-Transformation.jpg)
+![A Witness Of The Transformation](/assets/images/wiapost/5074-A-Witness-Of-The-Transformation.jpg)     
 
 ## A Witness Of The Transformation
 

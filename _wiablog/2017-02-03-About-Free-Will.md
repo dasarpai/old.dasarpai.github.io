@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![About Free Will](/assets/images/wiapost/5038-About-Free-Will.jpg)
+![About Free Will](/assets/images/wiapost/5038-About-Free-Will.jpg)     
 
 ## About Free Will
 

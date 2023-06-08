@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![AI And Free Soul](/assets/images/wiapost/5148-Ai-And-Free-Soul.jpg)
+![AI And Free Soul](/assets/images/wiapost/5148-Ai-And-Free-Soul.jpg)     
 
 ## AI And Free Soul
 

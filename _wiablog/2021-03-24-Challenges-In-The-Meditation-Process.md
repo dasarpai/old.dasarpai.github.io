@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Challenges In The Meditation Process](/assets/images/wiapost/5150-Challenges-In-The-Meditation-Process.jpg)
+![Challenges In The Meditation Process](/assets/images/wiapost/5150-Challenges-In-The-Meditation-Process.jpg)     
 
 ## Challenges In The Meditation Process
 

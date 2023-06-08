@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![The Nature Of Karma Fala](/assets/images/wiapost/5114-The-Nature-Of-Karma-Fala.jpg)
+![The Nature Of Karma Fala](/assets/images/wiapost/5114-The-Nature-Of-Karma-Fala.jpg)     
 
 ## The Nature Of Karma Fala
 

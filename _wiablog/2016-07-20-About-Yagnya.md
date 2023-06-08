@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![About Yagnya](/assets/images/wiapost/5023-About-Yagnya.jpg)
+![About Yagnya](/assets/images/wiapost/5023-About-Yagnya.jpg)     
 
 ## About Yagnya
 

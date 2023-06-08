@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![About Indian Secularism](/assets/images/wiapost/5088-About-Indian-Secularism.jpg)
+![About Indian Secularism](/assets/images/wiapost/5088-About-Indian-Secularism.jpg)     
 
 ## About Indian Secularism
 

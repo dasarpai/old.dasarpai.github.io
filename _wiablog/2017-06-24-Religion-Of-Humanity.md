@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Religion Of Humanity](/assets/images/wiapost/5051-Religion-Of-Humanity.jpg)
+![Religion Of Humanity](/assets/images/wiapost/5051-Religion-Of-Humanity.jpg)     
 
 ## Religion Of Humanity
 

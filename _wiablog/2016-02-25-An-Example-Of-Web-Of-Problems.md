@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![An Example Of Web Of Problems](/assets/images/wiapost/5011-An-Example-Of-Web-Of-Problems.jpg)
+![An Example Of Web Of Problems](/assets/images/wiapost/5011-An-Example-Of-Web-Of-Problems.jpg)     
 
 ## An Example Of Web Of Problems
 

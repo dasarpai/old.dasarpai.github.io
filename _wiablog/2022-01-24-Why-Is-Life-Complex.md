@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Why is life complex?](/assets/images/wiapost/5179-Why-Is-Life-Complex.jpg)
+![Why is life complex?](/assets/images/wiapost/5179-Why-Is-Life-Complex.jpg)     
 
 ## Why is life complex?
 

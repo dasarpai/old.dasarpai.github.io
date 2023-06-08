@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Jeevan Mukta](/assets/images/wiapost/5200-Jeevan-Mukta.jpg)
+![Jeevan Mukta](/assets/images/wiapost/5200-Jeevan-Mukta.jpg)        
 
 # Jeevan Mukta
     

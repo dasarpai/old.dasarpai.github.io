@@ -16,7 +16,7 @@ author_profile: true
 share: true     
 ---    
     
-![Classical Literature](/assets/images/wiapost/5207-Are-You-Feeling-Stuck-in-Life.jpg)    
+![Classical Literature](/assets/images/wiapost/5207-Are-You-Feeling-Stuck-in-Life.jpg)         
     
 # Are You Feeling Stuck in Life?    
     

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Mirror, Image and Face](/assets/images/wiapost/5169-Mirror-Image-And-Face.jpg)
+![Mirror, Image and Face](/assets/images/wiapost/5169-Mirror-Image-And-Face.jpg)     
 
 ## Mirror, Image and Face
 

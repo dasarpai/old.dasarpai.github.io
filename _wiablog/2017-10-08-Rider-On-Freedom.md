@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Rider On Freedom](/assets/images/wiapost/5060-Rider-On-Freedom.jpg)
+![Rider On Freedom](/assets/images/wiapost/5060-Rider-On-Freedom.jpg)     
 
 ## Rider On Freedom
 

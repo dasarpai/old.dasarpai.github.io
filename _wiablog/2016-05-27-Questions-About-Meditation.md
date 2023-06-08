@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Questions About Meditation](/assets/images/wiapost/5018-Questions-About-Meditation.jpg)
+![Questions About Meditation](/assets/images/wiapost/5018-Questions-About-Meditation.jpg)     
 
 ## Questions About Meditation
 

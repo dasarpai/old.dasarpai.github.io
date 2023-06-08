@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Indian Technological Advancement with Zero connection to Past](/assets/images/wiapost/5198-Indian-Technological-Advancement-With-Zero-Connection-To-Past.jpg)
+![Indian Technological Advancement with Zero connection to Past](/assets/images/wiapost/5198-Indian-Technological-Advancement-With-Zero-Connection-To-Past.jpg)        
 
 # Indian Technological Advancement with Zero connection to Past
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Managing Source Of Energy](/assets/images/wiapost/5076-Managing-Source-Of-Energy.jpg)
+![Managing Source Of Energy](/assets/images/wiapost/5076-Managing-Source-Of-Energy.jpg)     
 
 ## Managing Source Of Energy
 

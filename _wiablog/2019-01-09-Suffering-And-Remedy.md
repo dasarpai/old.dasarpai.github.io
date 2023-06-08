@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Suffering And Remedy](/assets/images/wiapost/5089-Suffering-And-Remedy.jpg)
+![Suffering And Remedy](/assets/images/wiapost/5089-Suffering-And-Remedy.jpg)     
 
 ## Suffering And Remedy
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true                        
 ---                        
                         
-![The Logic of Entangled Mind](/assets/images/wiapost/5215-The-Art-Of-Missing-Life.jpg)                        
+![The Logic of Entangled Mind](/assets/images/wiapost/5215-The-Art-Of-Missing-Life.jpg)                             
                            
 # The Art Of Missing Life     
     

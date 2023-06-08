@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Leadership In Troubled Time](/assets/images/wiapost/5061-Leadership-In-Troubled-Time.jpg)
+![Leadership In Troubled Time](/assets/images/wiapost/5061-Leadership-In-Troubled-Time.jpg)     
 
 ## Leadership In Troubled Time
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Desire Renunciation And A Limited Self](/assets/images/wiapost/5104-Desire-Renunciation-And-A-Limited-Self.jpg)
+![Desire Renunciation And A Limited Self](/assets/images/wiapost/5104-Desire-Renunciation-And-A-Limited-Self.jpg)     
 
 ## Desire Renunciation And A Limited Self
 

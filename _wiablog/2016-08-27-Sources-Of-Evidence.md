@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Sources Of Evidence](/assets/images/wiapost/5028-Sources-Of-Evidence.jpg)
+![Sources Of Evidence](/assets/images/wiapost/5028-Sources-Of-Evidence.jpg)     
 
 ## Sources Of Evidence
 

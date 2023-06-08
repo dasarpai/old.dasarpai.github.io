@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Human Peace](/assets/images/wiapost/5164-Human-Peace.jpg)
+![Human Peace](/assets/images/wiapost/5164-Human-Peace.jpg)     
 
 ## Human Peace   
 

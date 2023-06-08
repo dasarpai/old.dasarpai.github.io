@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Product Focus Vs Process Focus](/assets/images/wiapost/5072-Product-Focus-Vs-Process-Focus.jpg)
+![Product Focus Vs Process Focus](/assets/images/wiapost/5072-Product-Focus-Vs-Process-Focus.jpg)     
 
 ## Product Focus Vs Process Focus
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Four Ways Or One Way](/assets/images/wiapost/5092-Four-Ways-Or-One-Way.jpg)
+![Four Ways Or One Way](/assets/images/wiapost/5092-Four-Ways-Or-One-Way.jpg)     
 
 ## Four Ways Or One Way
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Effect of Maya](/assets/images/wiapost/5187-Effect-Of-Maya.jpg)
+![Effect of Maya](/assets/images/wiapost/5187-Effect-Of-Maya.jpg)     
 
 ## Effect of Maya
 

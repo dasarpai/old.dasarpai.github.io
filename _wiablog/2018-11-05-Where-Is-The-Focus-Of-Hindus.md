@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Where Is The Focus Of Hindus?](/assets/images/wiapost/5085-Where-Is-The-Focus-Of-Hindus.jpg)
+![Where Is The Focus Of Hindus?](/assets/images/wiapost/5085-Where-Is-The-Focus-Of-Hindus.jpg)     
 
 ## Where Is The Focus Of Hindus?
 

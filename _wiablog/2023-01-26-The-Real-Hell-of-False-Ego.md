@@ -16,7 +16,7 @@ author_profile: true
 share: true                                
 ---                                
                                 
-![The-Real-Hell-of-False-Ego](/assets/images/wiapost/5218-The-Real-Hell-of-False-Ego.jpg)                                
+![The-Real-Hell-of-False-Ego](/assets/images/wiapost/5218-The-Real-Hell-of-False-Ego.jpg)                                     
                    
 # The Real Hell of False Ego    
     

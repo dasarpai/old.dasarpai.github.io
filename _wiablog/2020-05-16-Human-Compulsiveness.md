@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Human Compulsiveness](/assets/images/wiapost/5126-Human-Compulsiveness.jpg)
+![Human Compulsiveness](/assets/images/wiapost/5126-Human-Compulsiveness.jpg)     
 
 ## Human Compulsiveness
 

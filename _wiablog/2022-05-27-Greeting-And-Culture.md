@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Greeting and Culture](/assets/images/wiapost/5190-Greeting-And-Culture.jpg)
+![Greeting and Culture](/assets/images/wiapost/5190-Greeting-And-Culture.jpg)     
 
 ## Greeting and Culture
 

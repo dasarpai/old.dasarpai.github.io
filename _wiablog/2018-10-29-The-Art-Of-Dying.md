@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![The Art Of Dying](/assets/images/wiapost/5084-The-Art-Of-Dying.jpg)
+![The Art Of Dying](/assets/images/wiapost/5084-The-Art-Of-Dying.jpg)     
 
 ## The Art Of Dying
 

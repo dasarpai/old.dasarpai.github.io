@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![The Mind Is Friend Or Enemy](/assets/images/wiapost/5022-The-Mind-Is-Friend-Or-Enemy.jpg)
+![The Mind Is Friend Or Enemy](/assets/images/wiapost/5022-The-Mind-Is-Friend-Or-Enemy.jpg)     
 
 ## The Mind Is Friend Or Enemy
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![The Meaning of Nishkam Karma](/assets/images/wiapost/5195-The-Meaning-Of-Nishkam-Karma.jpg)
+![The Meaning of Nishkam Karma](/assets/images/wiapost/5195-The-Meaning-Of-Nishkam-Karma.jpg)        
 
 ## The Meaning of Nishkam Karma
 

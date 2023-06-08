@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Prisoner Of The Mind](/assets/images/wiapost/5014-Prisoner-Of-The-Mind.jpg)
+![Prisoner Of The Mind](/assets/images/wiapost/5014-Prisoner-Of-The-Mind.jpg)     
 
 ## Prisoner Of The Mind
 

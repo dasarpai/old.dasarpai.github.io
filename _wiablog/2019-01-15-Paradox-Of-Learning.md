@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Paradox Of Learning](/assets/images/wiapost/5090-Paradox-Of-Learning.jpg)
+![Paradox Of Learning](/assets/images/wiapost/5090-Paradox-Of-Learning.jpg)     
 
 ## Paradox Of Learning
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![God Is My Savior](/assets/images/wiapost/5080-God-Is-My-Savior.jpg)
+![God Is My Savior](/assets/images/wiapost/5080-God-Is-My-Savior.jpg)     
 
 ## God Is My Savior
 

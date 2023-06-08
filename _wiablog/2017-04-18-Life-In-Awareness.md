@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Life In Awareness](/assets/images/wiapost/5047-Life-In-Awareness.jpg)
+![Life In Awareness](/assets/images/wiapost/5047-Life-In-Awareness.jpg)     
 
 ## Life In Awareness
 

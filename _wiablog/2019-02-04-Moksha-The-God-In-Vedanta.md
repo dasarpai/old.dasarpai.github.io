@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Moksha The God In Vedanta](/assets/images/wiapost/5091-Moksha-The-God-In-Vedanta.jpg)
+![Moksha The God In Vedanta](/assets/images/wiapost/5091-Moksha-The-God-In-Vedanta.jpg)     
 
 ## Moksha The God In Vedanta
 

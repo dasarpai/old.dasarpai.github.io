@@ -33,6 +33,9 @@ Just pay attention to the silence, listen to the flow of the breeze, see up deep
 
 Wisdom exists in the awareness or we can say awareness itself is wisdom. Reading, studying, contemplation, reflecting, meditating, asking, explaining, listening are the interim steps to improve the quality of awareness.
 
+## [Go to Wisdom in Awareness Blog](/wia-blog)   
+
+
 **Remain in touch.**
 
 **Until Next Time**

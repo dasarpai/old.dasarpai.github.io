@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Love As A Service](/assets/images/wiapost/5109-Love-As-A-Service.jpg)
+![Love As A Service](/assets/images/wiapost/5109-Love-As-A-Service.jpg)     
 
 ## Love As A Service
 

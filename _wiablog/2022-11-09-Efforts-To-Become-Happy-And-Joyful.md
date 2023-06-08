@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Efforts to Become Happy and Joyful](/assets/images/wiapost/5202-Efforts-To-Become-Happy-And-Joyful.jpg)
+![Efforts to Become Happy and Joyful](/assets/images/wiapost/5202-Efforts-To-Become-Happy-And-Joyful.jpg)        
 
 # Efforts to Become Happy and Joyful
    

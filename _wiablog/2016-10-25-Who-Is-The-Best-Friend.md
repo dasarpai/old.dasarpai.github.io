@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Who Is The Best Friend?](/assets/images/wiapost/5032-Who-Is-The-Best-Friend.jpg)
+![Who Is The Best Friend?](/assets/images/wiapost/5032-Who-Is-The-Best-Friend.jpg)     
 
 ## Who Is The Best Friend?
 

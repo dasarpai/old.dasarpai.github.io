@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![How to Engage for Imparting Knowledge](/assets/images/wiapost/5193-How-To-Engage-For-Imparting-Knowledge.jpg)
+![How to Engage for Imparting Knowledge](/assets/images/wiapost/5193-How-To-Engage-For-Imparting-Knowledge.jpg)     
 
 ## How to Engage for Imparting Knowledge
 

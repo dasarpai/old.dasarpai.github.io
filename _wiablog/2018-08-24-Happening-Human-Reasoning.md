@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Happening Human Reasoning](/assets/images/wiapost/5079-Happening-Human-Reasoning.jpg)
+![Happening Human Reasoning](/assets/images/wiapost/5079-Happening-Human-Reasoning.jpg)     
 
 ## Happening Human Reasoning
 

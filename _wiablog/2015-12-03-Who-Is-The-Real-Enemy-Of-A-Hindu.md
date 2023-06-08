@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Who Is The Real Enemy Of A Hindu](/assets/images/wiapost/5003-Who-Is-The-Real-Enemy-Of-A-Hindu.jpg)
+![Who Is The Real Enemy Of A Hindu](/assets/images/wiapost/5003-Who-Is-The-Real-Enemy-Of-A-Hindu.jpg)     
 
 ## Who Is The Real Enemy Of A Hindu
 

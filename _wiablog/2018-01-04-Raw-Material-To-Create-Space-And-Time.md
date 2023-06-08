@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Raw Material To Create Space And Time](/assets/images/wiapost/5065-Raw-Material-To-Create-Space-And-Time.jpg)
+![Raw Material To Create Space And Time](/assets/images/wiapost/5065-Raw-Material-To-Create-Space-And-Time.jpg)     
 
 ## Raw Material To Create Space And Time
 

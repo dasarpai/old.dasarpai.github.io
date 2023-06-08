@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Earlier Hindu Institutions and Today's Society](/assets/images/wiapost/5175-Earlier-Hindu-Institutions-And-Todays-Society.jpg)
+![Earlier Hindu Institutions and Today's Society](/assets/images/wiapost/5175-Earlier-Hindu-Institutions-And-Todays-Society.jpg)     
 
 ## Earlier Hindu Institutions and Today's Society
 

@@ -16,9 +16,9 @@ author_profile: true
 share: true    
 ---    
     
-![Book Summary : The Power of Your Subconscious Mind](/assets/images/wiapost/5221-Book-Summary-The-Power-of-Your-Subconscious-Mind.jpg)    
-
-# Book Summary : The Power of Your Subconscious Mind
+![Book Summary : The Power of Your Subconscious Mind](/assets/images/wiapost/5221-Book-Summary-The-Power-of-Your-Subconscious-Mind.jpg)         
+   
+# Book Summary : The Power of Your Subconscious Mind   
 
 Key Points from "The Power of Your Subconscious Mind" by Joseph Murphy
 

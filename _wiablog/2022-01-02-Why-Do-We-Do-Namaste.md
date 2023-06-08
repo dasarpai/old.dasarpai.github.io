@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Why Do We Do Namaste?](/assets/images/wiapost/5178-Why-Do-We-Do-Namaste.jpg)
+![Why Do We Do Namaste?](/assets/images/wiapost/5178-Why-Do-We-Do-Namaste.jpg)     
 
 ## Why Do We Do Namaste?
 

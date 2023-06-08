@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Learning Process](/assets/images/wiapost/5152-Learning-Process.jpg)
+![Learning Process](/assets/images/wiapost/5152-Learning-Process.jpg)     
 
 ## Learning Process
 

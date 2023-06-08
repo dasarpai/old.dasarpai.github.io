@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Most Prayer Worthy Self Mind](/assets/images/wiapost/5064-Most-Prayer-Worthy-Self-Mind.jpg)
+![Most Prayer Worthy Self Mind](/assets/images/wiapost/5064-Most-Prayer-Worthy-Self-Mind.jpg)     
 
 ## Most Prayer Worthy Self Mind
 

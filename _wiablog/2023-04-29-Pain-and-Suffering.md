@@ -16,7 +16,7 @@ author_profile: true
 share: true        
 ---        
         
-![Pain and Suffering ](/assets/images/wiapost/5228-Pain-and-Suffering.jpg)        
+![Pain and Suffering ](/assets/images/wiapost/5228-Pain-and-Suffering.jpg)             
         
 # Pain and Suffering     
     

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![The Power For Prayer](/assets/images/wiapost/5055-The-Power-For-Prayer.jpg)
+![The Power For Prayer](/assets/images/wiapost/5055-The-Power-For-Prayer.jpg)     
 
 ## The Power For Prayer
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Greetings For New Year 2013](/assets/images/wiapost/5001-Greetings-For-New-Year-2013.jpg)
+![Greetings For New Year 2013](/assets/images/wiapost/5001-Greetings-For-New-Year-2013.jpg)     
 
 ## Greetings For New Year 2013
 

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![About Friendship](/assets/images/wiapost/5167-About-Friendship.jpg)
+![About Friendship](/assets/images/wiapost/5167-About-Friendship.jpg)     
 
 ## About Friendship
 

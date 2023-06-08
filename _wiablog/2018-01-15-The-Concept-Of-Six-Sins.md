@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![The Concept Of Six Sins](/assets/images/wiapost/5066-The-Concept-Of-Six-Sins.jpg)
+![The Concept Of Six Sins](/assets/images/wiapost/5066-The-Concept-Of-Six-Sins.jpg)     
 
 ## The Concept Of Six Sins
 

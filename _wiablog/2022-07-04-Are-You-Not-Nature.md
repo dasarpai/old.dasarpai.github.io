@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Are you not Nature?](/assets/images/wiapost/5192-Are-You-Not-Nature.jpg)
+![Are you not Nature?](/assets/images/wiapost/5192-Are-You-Not-Nature.jpg)     
 
 ## Are you not Nature?
 

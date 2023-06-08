@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Understanding The Reality Of The World](/assets/images/wiapost/5006-Understanding-The-Reality-Of-The-World.jpg)
+![Understanding The Reality Of The World](/assets/images/wiapost/5006-Understanding-The-Reality-Of-The-World.jpg)     
 
 ## Understanding The Reality Of The World
 

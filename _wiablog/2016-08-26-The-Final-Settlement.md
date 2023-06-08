@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![The Final Settlement](/assets/images/wiapost/5027-The-Final-Settlement.jpg)
+![The Final Settlement](/assets/images/wiapost/5027-The-Final-Settlement.jpg)     
 
 ## The Final Settlement
 

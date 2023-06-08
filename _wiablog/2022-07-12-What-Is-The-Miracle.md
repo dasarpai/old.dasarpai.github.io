@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![What is the Miracle?](/assets/images/wiapost/5194-What-Is-The-Miracle.jpg)
+![What is the Miracle?](/assets/images/wiapost/5194-What-Is-The-Miracle.jpg)        
 
 ## What is the Miracle?
 

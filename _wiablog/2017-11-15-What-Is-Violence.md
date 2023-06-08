@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![What Is Violence](/assets/images/wiapost/5062-What-Is-Violence.jpg)
+![What Is Violence](/assets/images/wiapost/5062-What-Is-Violence.jpg)     
 
 ## What Is Violence
 

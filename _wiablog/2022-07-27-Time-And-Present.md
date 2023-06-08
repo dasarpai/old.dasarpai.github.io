@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Time and Present](/assets/images/wiapost/5197-Time-And-Present.jpg)
+![Time and Present](/assets/images/wiapost/5197-Time-And-Present.jpg)        
 
 ## Time and Present
 

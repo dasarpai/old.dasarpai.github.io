@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Thinking In Human Vs Computers](/assets/images/wiapost/5128-Thinking-In-Human-Vs-Computers.jpg)
+![Thinking In Human Vs Computers](/assets/images/wiapost/5128-Thinking-In-Human-Vs-Computers.jpg)     
 
 ## Thinking In Human Vs Computers
 
