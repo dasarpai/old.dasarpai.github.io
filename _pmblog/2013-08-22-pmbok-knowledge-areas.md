@@ -16,7 +16,7 @@ excerpt: #
 author_profile: true
 share: true
 ---
-![MBOK Knowledge Areas](/assets/images/pmlogy/PMBOK-KA-min.jpg)   
+![PMBOK Knowledge Areas](/assets/images/pmlogy/PMBOK-KA-min.jpg)   
 
 ## Who uses PMBOK?
 
