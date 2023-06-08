@@ -2,7 +2,7 @@
 id: 121   
 title: "AI ML Resources from My Diary"
 date: '2022-12-16T15:50:00+05:30'
-permalink: /dsblog/AI-ML-Resources-from-My-Diary
+permalink: /dsresources/AI-ML-Resources-from-My-Diary
 categories:
 
 tags: [Machine Learning Resources]
@@ -27,10 +27,9 @@ Whatever I was/am getting I keep adding into this, mostly towards the end but no
 
 This is a 390 page personal learning diary and it contains approx 1000 resources. List of the resources available in this file are mentioned below.
 
-<object data="../assets/docs/Hari-Thapliyaal-AI-Diary.pdf" width="1000" height="1000" scroll=True type='application/pdf'></object>
+<object data="../assets/docs/Hari-Thapliyaal-AI-Diary1-by-15-Dec-22.pdf" width="1000" height="1000" scroll=True type='application/pdf'></object>
 
-[Download Link to this Diary](../assets/docs/Hari-Thapliyaal-AI-Diary.pdf)
-[Live Diary is Here](https://docs.google.com/document/d/1f3nKBY7etsUAXj5ULqPHQV1vPCzDJl74gxcfGctyqsk/edit?usp=sharing)
+[Download Link to this Diary](../assets/docs/Hari-Thapliyaal-AI-Diary1-by-15-Dec-22.pdf)
 
 Table of Contents
 1. ITU-AI-ML-in-5g-challenge / GNN Challenge
