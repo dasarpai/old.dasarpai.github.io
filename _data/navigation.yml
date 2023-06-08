@@ -4,7 +4,7 @@ main:
   - title: "My Work & Courses"
     url: "/services" 
   - title: "AI Blogs"
-    url: "/datascience-blog"
+    url: "/dsblog"
   - title: "Project Management"
     url: "/pmlogy-home"
   - title: "Spiritual Drop"
@@ -34,7 +34,7 @@ docs:
   - title: "Data Science"
     children:   
       - title: "Data Science Blog"
-        url: "datascience-blog"
+        url: "dsblog"
       - title: "DS Resources"
         url: "/datascience-resources"       
       - title: "Data Science-Books"
