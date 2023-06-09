@@ -125,22 +125,32 @@ Sno. | URL | Purpose
 30. | [https://workspace.google.com/](https://workspace.google.com/) | Showcases Google Workspace, a productivity and collaboration suite.
 31. | [https://lookerstudio.google.com/](https://lookerstudio.google.com/) | Looker Studio, formerly Google Data Studio, is an online tool for converting data into customizable informative reports and dashboards
 
+## Google Blogs
+
+1. | [https://blog.google/outreach-initiatives/ grow-with-google/](https://blog.google/outreach-initiatives/
+1. | [https://blog.google/intl/en-in/](https://blog.google/intl/en-in/) | Google India blog
+1. | [https://www.blog.google/](https://www.blog.google/) | Provides official blog posts and news from Google.
+1. | https://blog.google/products/search/ | News about Google Search
+1. | https://blog.google/technology/ai/ | Stories and updates on the cutting-edge work Google is doing in artificial intelligence and machine learning.
+1. | https://blog.google/technology/ | Our approach to technology across products, from AI to security. AI + Area 120 + Design + Developers + Families + Health + Next Billion Users + Research + Safety & Security
+1. | https://blog.google/products/ | Google products.
+1. | https://ai.googleblog.com/ | | The latest research from Google
+1. | https://www.deepmind.com/blog | deepmind.com/blog
+
 ## Google Websites   
 
 Sno. | URL | Purpose
 --- | --- | ---
 1. | [https://domains.google/](https://domains.google/) | Provides domain registration services and management tools.
-2. | [https://www.blog.google/](https://www.blog.google/) | Provides official blog posts and news from Google.
 3. | [https://creators.google/](https://creators.google/) | Provides resources and tools for content creators and creative professionals.
 4. | [https://about.google/products/](https://about.google/products/) | All Google Products
-5. | [https://blog.google/outreach-initiatives/ grow-with-google/](https://blog.google/outreach-initiatives/grow-with-google/) | Highlights Google's initiatives and programs for personal and professional growth.
+grow-with-google/) | Highlights Google's initiatives and programs for personal and professional growth.
 6. | [https://built-in.google/cars/](https://built-in.google/cars/) | Showcases Google's automotive solutions and technologies.
 7. | [https://www.cloudskillsboost.google/ course_templates/266](https://www.cloudskillsboost.google/course_templates/266) | Offers course templates and resources for improving cloud computing skills.
-8. | [https://blog.google/intl/en-in/](https://blog.google/intl/en-in/) | Google India blog
 9. | [https://lens.google/](https://lens.google/) | Google Lens
 10. | [https://opensource.google/](https://opensource.google/) | Google Open Source programs support open source projects through enabling new contributors, building mentorship, and supporting documentation.
 11. | [https://about.google](https://about.google) | About Google
-12. | [https://about.google/stories/](https://about.google/stories/) | Shares a personal story or profile related to Lena Rohou (specific individual).
+12. | [https://about.google/stories/](https://about.google/stories/) | Shares a personal story or profile related to people (specific individual).
 
 ## Other Google Websites/Products   
 

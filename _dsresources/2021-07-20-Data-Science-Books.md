@@ -23,7 +23,7 @@ share: true
 
 # DS, AI, ML, Books/ Guide/ Reports/ Presentations Available
 
-All these books are available in pdf format at <a href="https://drive.google.com/drive/u/1/folders/1-MS9U-q8PESnrn2UXa4YA7w-0GyGG6r3" target="_blank"> this link</a>. I update this page less frequently but keep adding books in the repo. The list below may not contain the name you are looking for. Therefore, it is suggested to visit the link mentioned earlier. This link contains excellent presentations Book, (PPT), Handbook, Report, Articles (ARTC), Book, Booklet, eBook, Notebook, Notes, PAPER, GUIDE, TOC, Syllabus, LINKS, Handbook, Chapter, Tool, BROC – Broacher on Machine Learning, Deep Learning, NLP, Statistics, Reinforcement Learning, GAN. Approx 800 pdf files which inclues 350+ books. 
+All these books are available in pdf format at <a href="https://drive.google.com/drive/folders/1UlzxVnrpeu8Qhe1FFPB0XAM6tBEAE14F?usp=sharing" target="_blank"> this link</a>. I update this page less frequently but keep adding books in the repo. The list below may not contain the name you are looking for. Therefore, it is suggested to visit the link mentioned earlier. This link contains excellent presentations Book, (PPT), Handbook, Report, Articles (ARTC), Book, Booklet, eBook, Notebook, Notes, PAPER, GUIDE, TOC, Syllabus, LINKS, Handbook, Chapter, Tool, BROC – Broacher on Machine Learning, Deep Learning, NLP, Statistics, Reinforcement Learning, GAN. Approx 800 pdf files which inclues 350+ books. 
 
 If you want to search all the books on above link then in the search box at above link you can enter "Book". Similarly if you looking for research paper you can type Paper". This repository also has some important AI/ML research paper.
 
