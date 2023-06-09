@@ -91,22 +91,6 @@ This paragraph introduces AWS and its purpose, and it provides a brief overview 
 1. [RDS](https://us-east-1.console.aws.amazon.com/rds/home?region=us-east-1) : Managed Relational Database Service
 1. [Amazon Timestream](https://us-east-1.console.aws.amazon.com/timestream/home?region=us-east-1) : Amazon Timestream is a fast, scalable, and serverless time series database for IoT and operational applications.
 
-## Business Applications: 
-1. [Amazon Chime SDK](https://us-east-1.console.aws.amazon.com/chime-sdk/home?region=us-east-1) : Real-time communication for your applications
-1. [Amazon Chime](https://chime.aws.amazon.com) : Amazon Chime is a communications service that transforms online meetings
-1. [Amazon Connect](https://us-east-1.console.aws.amazon.com/connect/home?region=us-east-1) : Amazon Connect is a contact center that enables engagement at any scale.
-1. [Amazon Honeycode](https://us-east-1.console.aws.amazon.com/honeycode/home?region=us-east-1) : Build mobile and web apps without programming
-1. [Amazon Pinpoint](https://us-east-1.console.aws.amazon.com/pinpoint/home?region=us-east-1) : Engage Users via Email, SMS, Push & Analytics
-1. [Amazon Simple Email Service](https://us-east-1.console.aws.amazon.com/ses/home?region=us-east-1) : Email Sending and Receiving Service
-1. [AWS Supply Chain](https://us-east-1.console.aws.amazon.com/scn/home?region=us-east-1) : Supply chain management application to manage your supply chain systems.
-1. [AWS Wickr](https://us-east-1.console.aws.amazon.com/wickr/home?region=us-east-1) : Secure communication with end-to-end encryption
-1. [Amazon WorkDocs](https://us-east-1.console.aws.amazon.com/zocalo/home?region=us-east-1) : Secure Enterprise Storage and Sharing Service
-1. [Amazon WorkMail](https://us-east-1.console.aws.amazon.com/workmail/v2/home?region=us-east-1) : Secure Email and Calendaring Service
-
-## End User Computing : 
-1. [AppStream 2.0](https://us-east-1.console.aws.amazon.com/appstream2/home?region=us-east-1) : Stream desktop applications securely to any web browser
-1. [WorkSpaces Web](https://us-east-1.console.aws.amazon.com/workspaces-web/home?region=us-east-1) : Cloud-native secure web access
-1. [WorkSpaces](https://us-east-1.console.aws.amazon.com/workspaces/v2/home?region=us-east-1) : Desktops in the Cloud
 
 ## Developer Tools : 
 1. [AWS AppConfig](https://us-east-1.console.aws.amazon.com/systems-manager/appconfig/home?region=us-east-1) : Use feature flags, operational flags, and other runtime configuration to make changes quickly and safely on production
@@ -124,15 +108,19 @@ This paragraph introduces AWS and its purpose, and it provides a brief overview 
 1. [AWS FIS](https://us-east-1.console.aws.amazon.com/fis/home?region=us-east-1) : Improve resiliency and performance with controlled experiments.
 1. [X-Ray](https://us-east-1.console.aws.amazon.com/xray/home?region=us-east-1) : Analyze and Debug Your Applications
 
-## Application Integration : 
-1. [Amazon AppFlow](https://us-east-1.console.aws.amazon.com/appflow/home?region=us-east-1) : Amazon AppFlow integrates apps and automates data flows without code.
-1. [Amazon EventBridge](https://us-east-1.console.aws.amazon.com/events/home?region=us-east-1) : Serverless service for building event-driven applications.
-1. [Amazon MQ](https://us-east-1.console.aws.amazon.com/amazon-mq/home?region=us-east-1) : Managed message broker service for Apache ActiveMQ and RabbitMQ
-1. [Managed Apache Airflow](https://us-east-1.console.aws.amazon.com/mwaa/home?region=us-east-1) : Run Apache Airflow without provisioning or managing servers.
-1. [Simple Notification Service](https://us-east-1.console.aws.amazon.com/sns/home?region=us-east-1) : SNS managed message topics for Pub/Sub
-1. [Simple Queue Service](https://us-east-1.console.aws.amazon.com/sqs/home?region=us-east-1) : SQS Managed Message Queues
-1. [Step Functions](https://us-east-1.console.aws.amazon.com/states/home?region=us-east-1) : Coordinate Distributed Applications
-1. [SWF](https://us-east-1.console.aws.amazon.com/swf/v2/home?region=us-east-1) : Workflow Service for Coordinating Application Components
+## Internet of Things : 
+1. [FreeRTOS](https://us-east-1.console.aws.amazon.com/freertos/home?region=us-east-1) : FreeRTOS is an IoT Operating System for Microcontrollers
+1. [IoT 1-Click](https://us-east-1.console.aws.amazon.com/iot1click/home?region=us-east-1) : Trigger AWS Lambda functions from simple devices
+1. [IoT Analytics](https://us-east-1.console.aws.amazon.com/iotanalytics/home?region=us-east-1) : Collect, preprocess, store, analyze and visualize data of IoT devices
+1. [IoT Core](https://us-east-1.console.aws.amazon.com/iot/home?region=us-east-1) : Connect Devices to the Cloud
+1. [IoT Device Defender](https://us-east-1.console.aws.amazon.com/devicedefender/home?region=us-east-1) : Secure your fleet of connected IoT devices
+1. [IoT Device Management](https://us-east-1.console.aws.amazon.com/iotdm/home?region=us-east-1) : Securely Manage Fleets as Small as One Device, or as Broad as Millions of Devices
+1. [IoT Events](https://us-east-1.console.aws.amazon.com/iotevents/home?region=us-east-1) : Detect and respond to events from IoT sensors and Industrial IoT equipment
+1. [AWS IoT FleetWise](https://us-east-1.console.aws.amazon.com/iotfleetwise/home?region=us-east-1) : Easily collect, organize, and transfer vehicle data to the cloud at scale.
+1. [IoT Greengrass](https://us-east-1.console.aws.amazon.com/greengrass/home?region=us-east-1) : Deploy and run code on your devices
+1. [IoT RoboRunner](https://us-east-1.console.aws.amazon.com/iotroborunner/home?region=us-east-1) : Optimize robotics automation
+1. [IoT SiteWise](https://us-east-1.console.aws.amazon.com/iotsitewise/home?region=us-east-1) : Data driven decisions in Industrial operations
+1. [IoT TwinMaker](https://us-east-1.console.aws.amazon.com/iottwinmaker/home?region=us-east-1) : Easily create digital twins of real-world systems to optimize operations
 
 ## Compute : 
 1. [AWS App Runner](https://us-east-1.console.aws.amazon.com/apprunner/home?region=us-east-1) : Build and run production web applications at scale
@@ -155,6 +143,69 @@ This paragraph introduces AWS and its purpose, and it provides a brief overview 
 1. [S3](https://s3.console.aws.amazon.com/s3/home?region=us-east-1) : Scalable Storage in the Cloud
 1. [Storage Gateway](https://us-east-1.console.aws.amazon.com/storagegateway/home?region=us-east-1) : Hybrid Storage Integration
 
+## Networking & Content Delivery : 
+1. [API Gateway](https://us-east-1.console.aws.amazon.com/apigateway/home?region=us-east-1) : Build, Deploy and Manage APIs
+1. [AWS App Mesh](https://us-east-1.console.aws.amazon.com/appmesh/home?region=us-east-1) : Easily monitor and control microservices
+1. [AWS Cloud Map](https://us-east-1.console.aws.amazon.com/cloudmap/home?region=us-east-1) : Build a dynamic map of your cloud
+1. [CloudFront](https://us-east-1.console.aws.amazon.com/cloudfront/v3/home?region=us-east-1) : Global Content Delivery Network
+1. [Direct Connect](https://us-east-1.console.aws.amazon.com/directconnect/v2/home?region=us-east-1) : Dedicated Network Connection to AWS
+1. [Global Accelerator](https://us-west-2.console.aws.amazon.com/globalaccelerator/home?region=us-east-1) : Improve your application’s availability and performance using the AWS Global Network
+1. [AWS Private 5G](https://us-east-1.console.aws.amazon.com/private-networks/home?region=us-east-1) : Deploy and scale private mobile networks on-premises
+1. [Route 53 Application Recovery Controller](https://us-west-2.console.aws.amazon.com/route53recovery/home?region=us-east-1) : Monitor application recovery readiness and manage failovers
+1. [Route 53](https://us-east-1.console.aws.amazon.com/route53/home?region=us-east-1) : Scalable DNS and Domain Name Registration
+1. [VPC](https://us-east-1.console.aws.amazon.com/vpc/home?region=us-east-1) : Isolated Cloud Resources
+
+## Security, Identity, & Compliance : 
+1. [AWS Artifact](https://us-east-1.console.aws.amazon.com/artifact/home?region=us-east-1) : Security compliance reports and agreements
+1. [AWS Audit Manager](https://us-east-1.console.aws.amazon.com/auditmanager/home?region=us-east-1) : Continuously assess controls for risk and compliance
+1. [Certificate Manager](https://us-east-1.console.aws.amazon.com/acm/home?region=us-east-1) : Provision, Manage, and Deploy SSL/TLS Certificates
+1. [CloudHSM](https://us-east-1.console.aws.amazon.com/cloudhsm/home?region=us-east-1) : Managed Hardware Security Modules in the Cloud
+1. [Cognito](https://us-east-1.console.aws.amazon.com/cognito/home?region=us-east-1) : Consumer Identity Management and AWS Credentials for Federated Identities
+1. [Detective](https://us-east-1.console.aws.amazon.com/detective/home?region=us-east-1) : Investigate and analyze potential security issues
+1. [Directory Service](https://us-east-1.console.aws.amazon.com/directoryservicev2/home?region=us-east-1) : Host and Manage Active Directory
+1. [AWS Firewall Manager](https://us-east-1.console.aws.amazon.com/wafv2/fmsv2/home?region=us-east-1) : Central management of firewall rules
+1. [GuardDuty](https://us-east-1.console.aws.amazon.com/guardduty/home?region=us-east-1) : Intelligent Threat Detection to Protect Your AWS Accounts and Workloads
+1. [IAM Identity Center (successor to AWS Single Sign-On)](https://us-east-1.console.aws.amazon.com/singlesignon/home?region=us-east-1) : Manage workforce user access to multiple AWS accounts and cloud applications
+1. [IAM](https://us-east-1.console.aws.amazon.com/iam/home?region=us-east-1) : Manage access to AWS resources
+1. [Amazon Inspector](https://us-east-1.console.aws.amazon.com/inspector/v2/home?region=us-east-1) : Continual vulnerability management at scale
+1. [Key Management Service](https://us-east-1.console.aws.amazon.com/kms/home?region=us-east-1) : Securely Generate and Manage AWS Encryption Keys
+1. [Amazon Macie](https://us-east-1.console.aws.amazon.com/macie/home?region=us-east-1) : Amazon Macie classifies and secures your business-critical content.
+1. [AWS Private Certificate Authority](https://us-east-1.console.aws.amazon.com/acm-pca/home?region=us-east-1) : Managed private certificate authority service
+1. [Resource Access Manager](https://us-east-1.console.aws.amazon.com/ram/home?region=us-east-1) : Share AWS resources with other accounts or AWS Organizations
+1. [Secrets Manager](https://us-east-1.console.aws.amazon.com/secretsmanager/home?region=us-east-1) : Easily rotate, manage, and retrieve secrets throughout their lifecycle
+1. [Security Hub](https://us-east-1.console.aws.amazon.com/securityhub/home?region=us-east-1) : AWS Security Hub is AWS’s security and compliance center
+1. [Security Lake](https://us-east-1.console.aws.amazon.com/securitylake/home?region=us-east-1) : Automatically centralize all your security data with a few clicks
+1. [AWS Signer](https://us-east-1.console.aws.amazon.com/signer/home?region=us-east-1) : Ensuring trust and integrity of your code
+1. [Amazon Verified Permissions](https://us-east-1.console.aws.amazon.com/verifiedpermissions/home?region=us-east-1) : Manage, analyze and enforce permissions across your applications
+1. [WAF & Shield](https://us-east-1.console.aws.amazon.com/wafv2/home?region=us-east-1) : Protects Against DDoS Attacks and Malicious Web Traffic
+
+## Business Applications: 
+1. [Amazon Chime SDK](https://us-east-1.console.aws.amazon.com/chime-sdk/home?region=us-east-1) : Real-time communication for your applications
+1. [Amazon Chime](https://chime.aws.amazon.com) : Amazon Chime is a communications service that transforms online meetings
+1. [Amazon Connect](https://us-east-1.console.aws.amazon.com/connect/home?region=us-east-1) : Amazon Connect is a contact center that enables engagement at any scale.
+1. [Amazon Honeycode](https://us-east-1.console.aws.amazon.com/honeycode/home?region=us-east-1) : Build mobile and web apps without programming
+1. [Amazon Pinpoint](https://us-east-1.console.aws.amazon.com/pinpoint/home?region=us-east-1) : Engage Users via Email, SMS, Push & Analytics
+1. [Amazon Simple Email Service](https://us-east-1.console.aws.amazon.com/ses/home?region=us-east-1) : Email Sending and Receiving Service
+1. [AWS Supply Chain](https://us-east-1.console.aws.amazon.com/scn/home?region=us-east-1) : Supply chain management application to manage your supply chain systems.
+1. [AWS Wickr](https://us-east-1.console.aws.amazon.com/wickr/home?region=us-east-1) : Secure communication with end-to-end encryption
+1. [Amazon WorkDocs](https://us-east-1.console.aws.amazon.com/zocalo/home?region=us-east-1) : Secure Enterprise Storage and Sharing Service
+1. [Amazon WorkMail](https://us-east-1.console.aws.amazon.com/workmail/v2/home?region=us-east-1) : Secure Email and Calendaring Service
+
+## End User Computing : 
+1. [AppStream 2.0](https://us-east-1.console.aws.amazon.com/appstream2/home?region=us-east-1) : Stream desktop applications securely to any web browser
+1. [WorkSpaces Web](https://us-east-1.console.aws.amazon.com/workspaces-web/home?region=us-east-1) : Cloud-native secure web access
+1. [WorkSpaces](https://us-east-1.console.aws.amazon.com/workspaces/v2/home?region=us-east-1) : Desktops in the Cloud
+
+## Application Integration : 
+1. [Amazon AppFlow](https://us-east-1.console.aws.amazon.com/appflow/home?region=us-east-1) : Amazon AppFlow integrates apps and automates data flows without code.
+1. [Amazon EventBridge](https://us-east-1.console.aws.amazon.com/events/home?region=us-east-1) : Serverless service for building event-driven applications.
+1. [Amazon MQ](https://us-east-1.console.aws.amazon.com/amazon-mq/home?region=us-east-1) : Managed message broker service for Apache ActiveMQ and RabbitMQ
+1. [Managed Apache Airflow](https://us-east-1.console.aws.amazon.com/mwaa/home?region=us-east-1) : Run Apache Airflow without provisioning or managing servers.
+1. [Simple Notification Service](https://us-east-1.console.aws.amazon.com/sns/home?region=us-east-1) : SNS managed message topics for Pub/Sub
+1. [Simple Queue Service](https://us-east-1.console.aws.amazon.com/sqs/home?region=us-east-1) : SQS Managed Message Queues
+1. [Step Functions](https://us-east-1.console.aws.amazon.com/states/home?region=us-east-1) : Coordinate Distributed Applications
+1. [SWF](https://us-east-1.console.aws.amazon.com/swf/v2/home?region=us-east-1) : Workflow Service for Coordinating Application Components
+
 ## Media Services : 
 1. [Elastic Transcoder](https://us-east-1.console.aws.amazon.com/elastictranscoder/home?region=us-east-1) : Easy-to-Use Scalable Media Transcoding
 1. [Elemental Appliances & Software](https://us-east-1.console.aws.amazon.com/elemental-appliances-software/home?region=us-east-1) : On-premises solutions for video processing and delivery
@@ -173,20 +224,6 @@ This paragraph introduces AWS and its purpose, and it provides a brief overview 
 1. [AWS AppSync](https://us-east-1.console.aws.amazon.com/appsync/home?region=us-east-1) : Real-Time Data Sync Using GraphQL for Mobile & Web Apps, Online or Offline
 1. [Device Farm](https://us-west-2.console.aws.amazon.com/devicefarm/home?region=us-east-1) : Test Android, iOS, and Web Apps on Real Devices in the Cloud
 1. [Amazon Location Service](https://us-east-1.console.aws.amazon.com/location/home?region=us-east-1) : Securely and easily add location data to applications.
-
-## Internet of Things : 
-1. [FreeRTOS](https://us-east-1.console.aws.amazon.com/freertos/home?region=us-east-1) : FreeRTOS is an IoT Operating System for Microcontrollers
-1. [IoT 1-Click](https://us-east-1.console.aws.amazon.com/iot1click/home?region=us-east-1) : Trigger AWS Lambda functions from simple devices
-1. [IoT Analytics](https://us-east-1.console.aws.amazon.com/iotanalytics/home?region=us-east-1) : Collect, preprocess, store, analyze and visualize data of IoT devices
-1. [IoT Core](https://us-east-1.console.aws.amazon.com/iot/home?region=us-east-1) : Connect Devices to the Cloud
-1. [IoT Device Defender](https://us-east-1.console.aws.amazon.com/devicedefender/home?region=us-east-1) : Secure your fleet of connected IoT devices
-1. [IoT Device Management](https://us-east-1.console.aws.amazon.com/iotdm/home?region=us-east-1) : Securely Manage Fleets as Small as One Device, or as Broad as Millions of Devices
-1. [IoT Events](https://us-east-1.console.aws.amazon.com/iotevents/home?region=us-east-1) : Detect and respond to events from IoT sensors and Industrial IoT equipment
-1. [AWS IoT FleetWise](https://us-east-1.console.aws.amazon.com/iotfleetwise/home?region=us-east-1) : Easily collect, organize, and transfer vehicle data to the cloud at scale.
-1. [IoT Greengrass](https://us-east-1.console.aws.amazon.com/greengrass/home?region=us-east-1) : Deploy and run code on your devices
-1. [IoT RoboRunner](https://us-east-1.console.aws.amazon.com/iotroborunner/home?region=us-east-1) : Optimize robotics automation
-1. [IoT SiteWise](https://us-east-1.console.aws.amazon.com/iotsitewise/home?region=us-east-1) : Data driven decisions in Industrial operations
-1. [IoT TwinMaker](https://us-east-1.console.aws.amazon.com/iottwinmaker/home?region=us-east-1) : Easily create digital twins of real-world systems to optimize operations
 
 ## Containers : 
 1. [Elastic Container Registry](https://us-east-1.console.aws.amazon.com/ecr/home?region=us-east-1) : Fully-managed Docker container registry : Share and deploy container software, publicly or privately
@@ -246,42 +283,6 @@ This paragraph introduces AWS and its purpose, and it provides a brief overview 
 1. [AWS Migration Hub](https://us-east-1.console.aws.amazon.com/migrationhub/home?region=us-east-1) : Simplify and accelerate the migration of your data centers to AWS
 1. [AWS Snow Family](https://us-east-1.console.aws.amazon.com/snowfamily/home?region=us-east-1) : Large Scale Data Transport
 1. [AWS Transfer Family](https://us-east-1.console.aws.amazon.com/transfer/home?region=us-east-1) : Fully managed support for SFTP, FTPS and FTP
-
-## Networking & Content Delivery : 
-1. [API Gateway](https://us-east-1.console.aws.amazon.com/apigateway/home?region=us-east-1) : Build, Deploy and Manage APIs
-1. [AWS App Mesh](https://us-east-1.console.aws.amazon.com/appmesh/home?region=us-east-1) : Easily monitor and control microservices
-1. [AWS Cloud Map](https://us-east-1.console.aws.amazon.com/cloudmap/home?region=us-east-1) : Build a dynamic map of your cloud
-1. [CloudFront](https://us-east-1.console.aws.amazon.com/cloudfront/v3/home?region=us-east-1) : Global Content Delivery Network
-1. [Direct Connect](https://us-east-1.console.aws.amazon.com/directconnect/v2/home?region=us-east-1) : Dedicated Network Connection to AWS
-1. [Global Accelerator](https://us-west-2.console.aws.amazon.com/globalaccelerator/home?region=us-east-1) : Improve your application’s availability and performance using the AWS Global Network
-1. [AWS Private 5G](https://us-east-1.console.aws.amazon.com/private-networks/home?region=us-east-1) : Deploy and scale private mobile networks on-premises
-1. [Route 53 Application Recovery Controller](https://us-west-2.console.aws.amazon.com/route53recovery/home?region=us-east-1) : Monitor application recovery readiness and manage failovers
-1. [Route 53](https://us-east-1.console.aws.amazon.com/route53/home?region=us-east-1) : Scalable DNS and Domain Name Registration
-1. [VPC](https://us-east-1.console.aws.amazon.com/vpc/home?region=us-east-1) : Isolated Cloud Resources
-
-## Security, Identity, & Compliance : 
-1. [AWS Artifact](https://us-east-1.console.aws.amazon.com/artifact/home?region=us-east-1) : Security compliance reports and agreements
-1. [AWS Audit Manager](https://us-east-1.console.aws.amazon.com/auditmanager/home?region=us-east-1) : Continuously assess controls for risk and compliance
-1. [Certificate Manager](https://us-east-1.console.aws.amazon.com/acm/home?region=us-east-1) : Provision, Manage, and Deploy SSL/TLS Certificates
-1. [CloudHSM](https://us-east-1.console.aws.amazon.com/cloudhsm/home?region=us-east-1) : Managed Hardware Security Modules in the Cloud
-1. [Cognito](https://us-east-1.console.aws.amazon.com/cognito/home?region=us-east-1) : Consumer Identity Management and AWS Credentials for Federated Identities
-1. [Detective](https://us-east-1.console.aws.amazon.com/detective/home?region=us-east-1) : Investigate and analyze potential security issues
-1. [Directory Service](https://us-east-1.console.aws.amazon.com/directoryservicev2/home?region=us-east-1) : Host and Manage Active Directory
-1. [AWS Firewall Manager](https://us-east-1.console.aws.amazon.com/wafv2/fmsv2/home?region=us-east-1) : Central management of firewall rules
-1. [GuardDuty](https://us-east-1.console.aws.amazon.com/guardduty/home?region=us-east-1) : Intelligent Threat Detection to Protect Your AWS Accounts and Workloads
-1. [IAM Identity Center (successor to AWS Single Sign-On)](https://us-east-1.console.aws.amazon.com/singlesignon/home?region=us-east-1) : Manage workforce user access to multiple AWS accounts and cloud applications
-1. [IAM](https://us-east-1.console.aws.amazon.com/iam/home?region=us-east-1) : Manage access to AWS resources
-1. [Amazon Inspector](https://us-east-1.console.aws.amazon.com/inspector/v2/home?region=us-east-1) : Continual vulnerability management at scale
-1. [Key Management Service](https://us-east-1.console.aws.amazon.com/kms/home?region=us-east-1) : Securely Generate and Manage AWS Encryption Keys
-1. [Amazon Macie](https://us-east-1.console.aws.amazon.com/macie/home?region=us-east-1) : Amazon Macie classifies and secures your business-critical content.
-1. [AWS Private Certificate Authority](https://us-east-1.console.aws.amazon.com/acm-pca/home?region=us-east-1) : Managed private certificate authority service
-1. [Resource Access Manager](https://us-east-1.console.aws.amazon.com/ram/home?region=us-east-1) : Share AWS resources with other accounts or AWS Organizations
-1. [Secrets Manager](https://us-east-1.console.aws.amazon.com/secretsmanager/home?region=us-east-1) : Easily rotate, manage, and retrieve secrets throughout their lifecycle
-1. [Security Hub](https://us-east-1.console.aws.amazon.com/securityhub/home?region=us-east-1) : AWS Security Hub is AWS’s security and compliance center
-1. [Security Lake](https://us-east-1.console.aws.amazon.com/securitylake/home?region=us-east-1) : Automatically centralize all your security data with a few clicks
-1. [AWS Signer](https://us-east-1.console.aws.amazon.com/signer/home?region=us-east-1) : Ensuring trust and integrity of your code
-1. [Amazon Verified Permissions](https://us-east-1.console.aws.amazon.com/verifiedpermissions/home?region=us-east-1) : Manage, analyze and enforce permissions across your applications
-1. [WAF & Shield](https://us-east-1.console.aws.amazon.com/wafv2/home?region=us-east-1) : Protects Against DDoS Attacks and Malicious Web Traffic
 
 ## Game Development : 
 1. [Amazon GameLift](https://us-east-1.console.aws.amazon.com/gamelift/home?region=us-east-1) : Deploy and Scale Session-based Multiplayer Games

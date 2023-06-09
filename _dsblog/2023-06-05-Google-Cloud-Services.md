@@ -28,55 +28,6 @@ All these services are availalbe at [Link](https://cloud.google.com)
    
 In the ever-evolving landscape of cloud computing, Google Cloud entered recently compare to AWS and Azure. But it stands out as a prominent player, offering a vast array of services and solutions to empower businesses and developers. With over 250+ services available, navigating the expansive Google Cloud ecosystem can be a daunting task. However, understanding these services and their functionalities is crucial for harnessing the full potential of the platform and provide the right technical solution of any business problem. In this comprehensive guide, I will take you through the diverse landscape of Google Cloud services, shedding light on their purposes. Whether you are a seasoned cloud professional or new to the Google Cloud environment, this article aims to demystify the complexity and provide you with valuable insights into the extensive toolkit Google Cloud has to offer. You can bookmark this page for future reference.
 
-# Cloud Services
-## [](#compute)Compute   
-1. App Engine: Managed app platform [Link](https://cloud.google.com/appengine/) [Doc](https://cloud.google.com/appengine/docs/)   
-1. Bare Metal Solution: Hardware for specialized workloads [Link](https://cloud.google.com/bare-metal)   
-1. Cloud Functions: Event-driven serverless functions [Link](https://cloud.google.com/functions/) [Doc](https://cloud.google.com/functions/docs/)   
-1. Cloud Run: Serverless for containerized applications [Link](https://cloud.google.com/run/) [Doc](https://cloud.google.com/run/docs/)   
-1. Compute Engine: VMs, GPUs, TPUs, Disks [Link](https://cloud.google.com/compute/) [Doc](https://cloud.google.com/compute/docs/)   
-1. Google Kubernetes Engine (GKE): Managed Kubernetes/containers [Link](https://cloud.google.com/kubernetes-engine/) [Doc](https://cloud.google.com/kubernetes-engine/docs/)   
-1. Preemptible VMs: Short-lived compute instances [Link](https://cloud.google.com/preemptible-vms) [Doc](https://cloud.google.com/compute/docs/instances/preemptible)   
-1. Shielded VMs: Hardened VMs [Link](https://cloud.google.com/shielded-vm/) [Doc](https://cloud.google.com/security/shielded-cloud/shielded-vm/)   
-1. Sole-tenant Nodes: Dedicated physical servers [Link](https://cloud.google.com/sole-tenant-nodes) [Doc](https://cloud.google.com/compute/docs/nodes)   
-1. VMware Engine: VMware as a service [Link](https://cloud.google.com/vmware-engine) [Doc](https://cloud.google.com/vmware-engine/docs)   
-
-## [](#storage)Storage   
-1. Cloud Filestore: Managed NFS server [Link](https://cloud.google.com/filestore/) [Doc](https://cloud.google.com/filestore/docs/)   
-1. Cloud Storage: Multi-class multi-region object storage[Link](https://cloud.google.com/storage/) [Doc](https://cloud.google.com/storage/docs/)   
-1. Local SSD: VM locally attached SSDs [Link](https://cloud.google.com/local-ssd) [Doc](https://cloud.google.com/compute/docs/disks/local-ssd)   
-1. Persistent Disk: Block storage for VMs [Link](https://cloud.google.com/persistent-disk/) [Doc](https://cloud.google.com/compute/docs/disks/)   
-
-## [](#database)Database   
-1. AlloyDB: Scalable & performant PostgreSQL-compatible DB [Link](https://cloud.google.com/alloydb)   
-1. Cloud Bigtable: Petabyte-scale, low-latency, non-relational [Link](https://cloud.google.com/bigtable/) [Doc](https://cloud.google.com/bigtable/docs/)   
-1. Cloud Firestore: Serverless NoSQL document database [Link](https://cloud.google.com/firestore/) [Doc](https://cloud.google.com/firestore/docs/)   
-1. Cloud Memorystore: Managed Redis and Memcached [Link](https://cloud.google.com/memorystore/) [Doc](https://cloud.google.com/memorystore/docs/)   
-1. Cloud Spanner: Horizontally scalable relational database [Link](https://cloud.google.com/spanner/) [Doc](https://cloud.google.com/spanner/docs/)   
-1. Cloud SQL Insights: SQL Inspector [Link](https://cloud.google.com/sql/docs/postgres/insights-overview) [Doc](https://cloud.google.com/sql/docs/postgres/using-insights)   
-1. Cloud SQL: Managed MySQL, PostgreSQL, SQL Server [Link](https://cloud.google.com/sql/) [Doc](https://cloud.google.com/sql/docs/)   
-1. Database Migration Service: Migrate to Cloud SQL [Link](https://cloud.google.com/database-migration) [Doc](https://cloud.google.com/database-migration/docs)   
-
-## [](#data-analytics)Data Analytics   
-1. BigQuery BI Engine: In-memory analytics engine [Doc](https://cloud.google.com/bi-engine/docs/)   
-1. BigQuery Data Transfer Service: Automated data ingestion service [Doc](https://cloud.google.com/bigquery-transfer/docs)   
-1. Automated data ingestion service [Link](https://cloud.google.com/bigquery/)   
-1. BigQuery GIS: BigQuery geospatial functions/support [Doc](https://cloud.google.com/bigquery/docs/gis)   
-1. BigQuery ML: BigQuery model training/serving [Doc](https://cloud.google.com/bigquery-ml/docs/)   
-1. BigQuery: Data warehouse and analytics [Link](https://cloud.google.com/bigquery/) [Doc](https://cloud.google.com/bigquery/docs/)   
-1. Cloud Composer: Managed workflow orchestration service [Link](https://cloud.google.com/composer/) [Doc](https://cloud.google.com/composer/docs/)   
-1. Cloud Data Fusion: Graphically manage data pipelines [Link](https://cloud.google.com/data-fusion/) [Doc](https://cloud.google.com/data-fusion/docs/)   
-1. Connected Sheets: Spreadsheet interface for (big)data [Doc](https://cloud.google.com/bigquery/docs/connected-sheets)   
-1. Data Catalog: Metadata management service [Link](https://cloud.google.com/data-catalog/) [Doc](https://cloud.google.com/data-catalog/docs/)   
-1. Dataflow: Stream/batch data processing [Link](https://cloud.google.com/dataflow/) [Doc](https://cloud.google.com/dataflow/docs/)   
-1. Dataprep by Trifacta: Visual data wrangling [Link](https://cloud.google.com/dataprep/) [Doc](https://cloud.google.com/dataprep/docs/)   
-1. Dataproc: Managed Spark and Hadoop [Link](https://cloud.google.com/dataproc/) [Doc](https://cloud.google.com/dataproc/docs/)   
-1. Datastream: Change data capture/replication service [Link](https://cloud.google.com/datastream) [Doc](https://cloud.google.com/datastream/docs)   
-1. Google Data Studio: Collaborative data exploration/dashboarding [Link](https://datastudio.google.com/overview) [Doc](https://datastudio.google.com/overviewdocs/)   
-1. Looker: Enterprise BI and analytics [Link](https://cloud.google.com/looker)   
-1. Pub/Sub: Global real-time messaging [Link](https://cloud.google.com/pubsub/) [Doc](https://cloud.google.com/pubsub/docs/)   
-1. Public Datasets: Hosted data in BigQuery[Doc](https://cloud.google.com/public-datasets)   
-
 ## [](#ai-and-ml)AI and ML   
 1. AutoML: Custom low-code models [Doc](https://cloud.google.com/vertex-ai/docs/training/training)   
 1. Cloud TPU: Hardware acceleration for ML [Link](https://cloud.google.com/tpu/) [Doc](https://cloud.google.com/tpu/docs/)   
@@ -104,7 +55,73 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Vertex AI Workbench:Jupyter-based environment for Data Science [Link](https://cloud.google.com/vertex-ai-workbench) [Doc](https://cloud.google.com/vertex-ai/docs/workbench)   
 1. Vertex Explainable AI: Understand ML model predictions [Link](https://cloud.google.com/vertex-ai/docs/explainable-ai/overview) [Doc](https://cloud.google.com/vertex-ai/docs/explainable-ai)   
 1. Vertex ML Metadata: Artifact, lineage, and execution tracking [Link](https://cloud.google.com/vertex-ai/docs/ml-metadata) [Doc](https://cloud.google.com/vertex-ai/docs/ml-metadata/introduction)   
-1. Vision Product Search: Visual search for products [Doc](https://cloud.google.com/vision/product-search/docs/)   
+1. Vision Product Search: Visual search for products [Doc](https://cloud.google.com/vision/product-search/docs/)  
+
+## [](#data-analytics)Data Analytics   
+1. BigQuery BI Engine: In-memory analytics engine [Doc](https://cloud.google.com/bi-engine/docs/)   
+1. BigQuery Data Transfer Service: Automated data ingestion service [Doc](https://cloud.google.com/bigquery-transfer/docs)   
+1. Automated data ingestion service [Link](https://cloud.google.com/bigquery/)   
+1. BigQuery GIS: BigQuery geospatial functions/support [Doc](https://cloud.google.com/bigquery/docs/gis)   
+1. BigQuery ML: BigQuery model training/serving [Doc](https://cloud.google.com/bigquery-ml/docs/)   
+1. BigQuery: Data warehouse and analytics [Link](https://cloud.google.com/bigquery/) [Doc](https://cloud.google.com/bigquery/docs/)   
+1. Cloud Composer: Managed workflow orchestration service [Link](https://cloud.google.com/composer/) [Doc](https://cloud.google.com/composer/docs/)   
+1. Cloud Data Fusion: Graphically manage data pipelines [Link](https://cloud.google.com/data-fusion/) [Doc](https://cloud.google.com/data-fusion/docs/)   
+1. Connected Sheets: Spreadsheet interface for (big)data [Doc](https://cloud.google.com/bigquery/docs/connected-sheets)   
+1. Data Catalog: Metadata management service [Link](https://cloud.google.com/data-catalog/) [Doc](https://cloud.google.com/data-catalog/docs/)   
+1. Dataflow: Stream/batch data processing [Link](https://cloud.google.com/dataflow/) [Doc](https://cloud.google.com/dataflow/docs/)   
+1. Dataprep by Trifacta: Visual data wrangling [Link](https://cloud.google.com/dataprep/) [Doc](https://cloud.google.com/dataprep/docs/)   
+1. Dataproc: Managed Spark and Hadoop [Link](https://cloud.google.com/dataproc/) [Doc](https://cloud.google.com/dataproc/docs/)   
+1. Datastream: Change data capture/replication service [Link](https://cloud.google.com/datastream) [Doc](https://cloud.google.com/datastream/docs)   
+1. Google Data Studio: Collaborative data exploration/dashboarding [Link](https://datastudio.google.com/overview) [Doc](https://datastudio.google.com/overviewdocs/)   
+1. Looker: Enterprise BI and analytics [Link](https://cloud.google.com/looker)   
+1. Pub/Sub: Global real-time messaging [Link](https://cloud.google.com/pubsub/) [Doc](https://cloud.google.com/pubsub/docs/)   
+1. Public Datasets: Hosted data in BigQuery[Doc](https://cloud.google.com/public-datasets)   
+
+## [](#database)Database   
+1. AlloyDB: Scalable & performant PostgreSQL-compatible DB [Link](https://cloud.google.com/alloydb)   
+1. Cloud Bigtable: Petabyte-scale, low-latency, non-relational [Link](https://cloud.google.com/bigtable/) [Doc](https://cloud.google.com/bigtable/docs/)   
+1. Cloud Firestore: Serverless NoSQL document database [Link](https://cloud.google.com/firestore/) [Doc](https://cloud.google.com/firestore/docs/)   
+1. Cloud Memorystore: Managed Redis and Memcached [Link](https://cloud.google.com/memorystore/) [Doc](https://cloud.google.com/memorystore/docs/)   
+1. Cloud Spanner: Horizontally scalable relational database [Link](https://cloud.google.com/spanner/) [Doc](https://cloud.google.com/spanner/docs/)   
+1. Cloud SQL Insights: SQL Inspector [Link](https://cloud.google.com/sql/docs/postgres/insights-overview) [Doc](https://cloud.google.com/sql/docs/postgres/using-insights)   
+1. Cloud SQL: Managed MySQL, PostgreSQL, SQL Server [Link](https://cloud.google.com/sql/) [Doc](https://cloud.google.com/sql/docs/)   
+1. Database Migration Service: Migrate to Cloud SQL [Link](https://cloud.google.com/database-migration) [Doc](https://cloud.google.com/database-migration/docs)  
+
+## [](#developer-tools)Developer Tools   
+1. App Engine Plugins: Gradle/Maven App Engine plugin [Link](https://github.com/GoogleCloudPlatform/app-gradle-plugin)   
+1. Cloud Code for IntelliJ: IntelliJ Google Cloud tools [Link](https://cloud.google.com/intellij/)   
+1. Cloud Code for VS Code: VS Code Google Cloud tools [Link](https://cloud.google.com/code/docs/vscode/)   
+1. Cloud Code: Cloud native IDE extensions [Link](https://cloud.google.com/code/) [Doc](https://cloud.google.com/code/docs/)   
+1. Cloud SDK: CLI for Google Cloud [Link](https://cloud.google.com/sdk/) [Doc](https://cloud.google.com/sdk/docs/)   
+1. Cloud Shell: Browser-based terminal/CLI [Link](https://cloud.google.com/shell/) [Doc](https://cloud.google.com/shell/docs/)   
+1. Cloud Tools for Eclipse: Eclipse Google Cloud tools [Link](https://cloud.google.com/eclipse/docs/)   
+1. Cloud Tools for Visual Studio: Visual Studio Google Cloud tools [Link](https://cloud.google.com/visual-studio/)   
+
+## [](#devops-cicd)DevOps CI/CD   
+1. Artifact Registry: Universal package manager [Link](https://cloud.google.com/artifacts/) [Doc](https://cloud.google.com/artifacts/)   
+1. Cloud Build: Continuous integration/delivery platform [Link](https://cloud.google.com/cloud-build/) [Doc](https://cloud.google.com/cloud-build/docs/)   
+1. Cloud Deploy: Deployment pipeline for GKE [Link](https://cloud.google.com/deploy) [Doc](https://cloud.google.com/deploy/docs/)   
+1. Cloud Source Repositories: Hosted private git repos [Link](https://cloud.google.com/source-repositories/) [Doc](https://cloud.google.com/source-repositories/docs/)   
+1. Automated security scanning [](https://cloud.google.com/artifact-analysis/docs)   
+1. Container Registry: Private container registry/storage [Link](https://cloud.google.com/container-registry/) [Doc](https://cloud.google.com/container-registry/docs/) 
+
+## [](#compute)Compute   
+1. App Engine: Managed app platform [Link](https://cloud.google.com/appengine/) [Doc](https://cloud.google.com/appengine/docs/)   
+1. Bare Metal Solution: Hardware for specialized workloads [Link](https://cloud.google.com/bare-metal)   
+1. Cloud Functions: Event-driven serverless functions [Link](https://cloud.google.com/functions/) [Doc](https://cloud.google.com/functions/docs/)   
+1. Cloud Run: Serverless for containerized applications [Link](https://cloud.google.com/run/) [Doc](https://cloud.google.com/run/docs/)   
+1. Compute Engine: VMs, GPUs, TPUs, Disks [Link](https://cloud.google.com/compute/) [Doc](https://cloud.google.com/compute/docs/)   
+1. Google Kubernetes Engine (GKE): Managed Kubernetes/containers [Link](https://cloud.google.com/kubernetes-engine/) [Doc](https://cloud.google.com/kubernetes-engine/docs/)   
+1. Preemptible VMs: Short-lived compute instances [Link](https://cloud.google.com/preemptible-vms) [Doc](https://cloud.google.com/compute/docs/instances/preemptible)   
+1. Shielded VMs: Hardened VMs [Link](https://cloud.google.com/shielded-vm/) [Doc](https://cloud.google.com/security/shielded-cloud/shielded-vm/)   
+1. Sole-tenant Nodes: Dedicated physical servers [Link](https://cloud.google.com/sole-tenant-nodes) [Doc](https://cloud.google.com/compute/docs/nodes)   
+1. VMware Engine: VMware as a service [Link](https://cloud.google.com/vmware-engine) [Doc](https://cloud.google.com/vmware-engine/docs)   
+
+## [](#storage)Storage   
+1. Cloud Filestore: Managed NFS server [Link](https://cloud.google.com/filestore/) [Doc](https://cloud.google.com/filestore/docs/)   
+1. Cloud Storage: Multi-class multi-region object storage[Link](https://cloud.google.com/storage/) [Doc](https://cloud.google.com/storage/docs/)   
+1. Local SSD: VM locally attached SSDs [Link](https://cloud.google.com/local-ssd) [Doc](https://cloud.google.com/compute/docs/disks/local-ssd)   
+1. Persistent Disk: Block storage for VMs [Link](https://cloud.google.com/persistent-disk/) [Doc](https://cloud.google.com/compute/docs/disks/)   
 
 ## [](#networking)Networking   
 1. Anthos Service Mesh: Service-aware network management [Link](https://cloud.google.com/service-mesh/) [Doc](https://cloud.google.com/trace/docs/)   
@@ -132,15 +149,7 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Traffic Director: Service mesh traffic management [Link](https://cloud.google.com/traffic-director/) [Doc](https://cloud.google.com/traffic-director/docs/)   
 1. Optimized files for delivery   
 1. Virtual Private Cloud: Software defined networking [Link](https://cloud.google.com/vpc/) [Doc](https://cloud.google.com/vpc/docs/)   
-1. VPC Service Controls: Security perimeters for API-based services [Link](https://cloud.google.com/vpc-service-controls/) [Doc](https://cloud.google.com/vpc-service-controls/)   
-
-## [](#devops-cicd)DevOps CI/CD   
-1. Artifact Registry: Universal package manager [Link](https://cloud.google.com/artifacts/) [Doc](https://cloud.google.com/artifacts/)   
-1. Cloud Build: Continuous integration/delivery platform [Link](https://cloud.google.com/cloud-build/) [Doc](https://cloud.google.com/cloud-build/docs/)   
-1. Cloud Deploy: Deployment pipeline for GKE [Link](https://cloud.google.com/deploy) [Doc](https://cloud.google.com/deploy/docs/)   
-1. Cloud Source Repositories: Hosted private git repos [Link](https://cloud.google.com/source-repositories/) [Doc](https://cloud.google.com/source-repositories/docs/)   
-1. Automated security scanning [](https://cloud.google.com/artifact-analysis/docs)   
-1. Container Registry: Private container registry/storage [Link](https://cloud.google.com/container-registry/) [Doc](https://cloud.google.com/container-registry/docs/)   
+1. VPC Service Controls: Security perimeters for API-based services [Link](https://cloud.google.com/vpc-service-controls/) [Doc](https://cloud.google.com/vpc-service-controls/)     
 
 ## [](#identity-and-security)Identity and Security   
 1. Access Context Manager: End-user attribute-based access control [Link](https://cloud.google.com/context-aware-access/) [Doc](https://cloud.google.com/iap/docs/cloud-iap-context-aware-access-howto/)   
@@ -297,16 +306,6 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Cloud Profiler: CPU and heap profiling [Link](https://cloud.google.com/profiler/) [Doc](https://cloud.google.com/profiler/docs/)   
 1. Cloud Trace: App latency insights [Link](https://cloud.google.com/trace/) [Doc](https://cloud.google.com/trace/docs/)   
 1. Error Reporting: App error reporting [Link](https://cloud.google.com/error-reporting/) [Doc](https://cloud.google.com/error-reporting/docs/)   
-
-## [](#developer-tools)Developer Tools   
-1. App Engine Plugins: Gradle/Maven App Engine plugin [Link](https://github.com/GoogleCloudPlatform/app-gradle-plugin)   
-1. Cloud Code for IntelliJ: IntelliJ Google Cloud tools [Link](https://cloud.google.com/intellij/)   
-1. Cloud Code for VS Code: VS Code Google Cloud tools [Link](https://cloud.google.com/code/docs/vscode/)   
-1. Cloud Code: Cloud native IDE extensions [Link](https://cloud.google.com/code/) [Doc](https://cloud.google.com/code/docs/)   
-1. Cloud SDK: CLI for Google Cloud [Link](https://cloud.google.com/sdk/) [Doc](https://cloud.google.com/sdk/docs/)   
-1. Cloud Shell: Browser-based terminal/CLI [Link](https://cloud.google.com/shell/) [Doc](https://cloud.google.com/shell/docs/)   
-1. Cloud Tools for Eclipse: Eclipse Google Cloud tools [Link](https://cloud.google.com/eclipse/docs/)   
-1. Cloud Tools for Visual Studio: Visual Studio Google Cloud tools [Link](https://cloud.google.com/visual-studio/)   
 
 ## [](#retail)Retail   
 1. Vision Product Search: Visual search for products [Doc](https://cloud.google.com/vision/product-search/docs/)   
