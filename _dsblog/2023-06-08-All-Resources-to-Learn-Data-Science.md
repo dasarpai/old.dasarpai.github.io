@@ -32,7 +32,7 @@ Welcome to the AI ML Resources category page, where you'll find a wealth of know
 1. **[Data Science-Books.md](/dsresources/ds-ai-ml-books "Data-Science-Books.md")** : This link contains excellent presentations Book, (PPT), Handbook, Report, Articles (ARTC), Book, Booklet, eBook, Notebook, Notes, GUIDE, TOC, Syllabus, LINKS, Handbook, Chapter, Tool, BROC – Broacher on Machine Learning, Deep Learning, NLP, Statistics, Reinforcement Learning, GAN. **550+ pdf files, 400+ books**.
 1. **[Data Science Cheatsheets.md](/dsresources/data-science-cheatsheets "Data-Science-Cheatsheets.md")** : **140+ cheatsheets** on ML, DL, DE, DA, NLP, Algorithms, Pandas, Numpy, Dask, Bigdata, Statistics, Python, SQL, Docker, sklearn, git, GNN etc.
 1. **[AI ML Conferences and Journals.md](/dsresources/ai-ml-dl-nlp-conferences "AI-ML-Conferences-and-Journals.md")** : A list of **30+ AI conferences and journals** related to AI, NLP, Deep Learning. Almost all major happening in the world of AI/ML is presented in these conferences and published in these magazines.
-1. **[Best Resources to Learn Python.md](/dsresources/best-resources-to-learn-python "Best-Resources-to-Learn-Python.md")** : 60+ github repository to learn Reinforcement learning.
+1. **[Best Resources to Learn Python.md](/dsresources/best-resources-to-learn-python "Best-Resources-to-Learn-Python.md")** : Many resource including books, jupyter notebooks, github repos, python libraries, websites/blogs.
 1. **[Data Scientists and AI ML Researchers.md](/dsresources/ds-ai-ml-researchers "Data-Scientists-and-AI-ML-Researchers.md")** : 100+ world class researchers in AI/ML, they are working with different Universities and Corporations.
 1. **[DS AI ML Online Course Tutorial Videos.md](/dsresources/data-science-tutorial-video-resources "DS-AI-ML-Online-Course-Tutorial-Videos.md")** : Hundreds of courses, tutorial, video lecture series to learn Data Science, AI, ML topics online
 1. **[Reinforcement Learning Repositories.md](/dsresources/rl-git-repo "Reinforcement-Learning-Repositories.md")**
@@ -52,4 +52,5 @@ Welcome to the AI ML Resources category page, where you'll find a wealth of know
 1. **[Datasets.md](/dsresources/datasets "Datasets.md")** :  **200+ dataset sources and important dataset** for Classical Machine Learning, Computer Vision, NLP/NLU, Audio Processing, Time Series related projects.
 1. **[Deep Learning Tasks and Models.md](/dsresources/deep-learning-tasks-and-models "Deep-Learning-Tasks-and-Models.md")** : Deep Learning, NLP Tasks related model and datasets.
 1. **[AI Conference.md](/dsresources/ai-conferences "AI Conference.md")**
+1. **[Github Repos for Data Science](/dsresources/Github-Repos-for-DataScience "Github Repos for Data Science")**
 
