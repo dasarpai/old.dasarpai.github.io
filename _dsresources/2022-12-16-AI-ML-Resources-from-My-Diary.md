@@ -1,21 +1,23 @@
 ---
 id: 121   
 title: "AI ML Resources from My Diary"
-date: '2022-12-16T15:50:00+05:30'
 permalink: /dsresources/AI-ML-Resources-from-My-Diary
-categories:
-
-tags: [Machine Learning Resources]
+date: '2022-12-16T15:50:00+05:30'
+tags: [AI Diary, Data Science Resources] 
+categories: 
 
 header:
-  teaser: "/assets/images/dspost/dsr121-AI-ML-Resources-from-My-Diary.jpg"
-  
-
-layout: single
-author_profile: true
+   teaser: "/assets/images/dspost/dsr121-AI-ML-Resources-from-My-Diary.jpg"
+author: Hari Thapliyaal   
+layout: single   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
 ---
 
-![AI ML Resources from My Diary](/assets/images/dspost/dsr121-AI-ML-Resources-from-My-Diary.jpg)
+![AI ML Resources from My Diary](/assets/images/dspost/dsr121-AI-ML-Resources-from-My-Diary.jpg)   
 
 This is my personal diary which contains resources, which I know, learned or people have told me
 to experiment with. I started writing this diary in Mar’ 2019. This diary is related to my work/learning

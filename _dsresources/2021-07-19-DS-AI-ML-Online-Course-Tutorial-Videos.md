@@ -18,7 +18,7 @@ mathjax: "true"
 share: true
 ---
 
-![DS, AI, ML Online Course, Tutorial, Videos](/assets/images/dspost/dsr119-DS-AI-ML-Online-Course-Tutorial-Videos.jpg)
+![DS, AI, ML Online Course, Tutorial, Videos](/assets/images/dspost/dsr119-DS-AI-ML-Online-Course-Tutorial-Videos.jpg)   
 
 ## Courses
 1.  [Machine Learning – Stanford](https://class.coursera.org/ml-005) by Andrew Ng in Coursera (2010-2014)

@@ -1,18 +1,21 @@
 ---
 id: 122   
 title: "Github Repos for Data Science"
-date: '2022-06-09T15:50:00+05:30'
 permalink: /dsresources/Github-Repos-for-DataScience
-categories:
-
-tags: [Machine Learning Resources]
+date: '2022-06-09T15:50:00+05:30'
+tags: [Github Repos, Data Science Resources] 
+categories: 
 
 header:
-  teaser: "/assets/images/dspost/dsr122-Github-Repos-to-Learn-DataScience.jpg"
-  
-
-layout: single
-author_profile: true
+   teaser: "/assets/images/dspost/dsr122-Github-Repos-to-Learn-DataScience.jpg"
+author: Hari Thapliyaal   
+layout: single   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+---
 ---
 
 ![Github Repos for Data Science](/assets/images/dspost/dsr122-Github-Repos-to-Learn-DataScience.jpg)   

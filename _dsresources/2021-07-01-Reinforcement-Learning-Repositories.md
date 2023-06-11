@@ -3,17 +3,18 @@ id: 101
 title: "Reinforcement Learning Git Repositories"
 permalink: /dsresources/rl-git-repo
 date: 2020-07-01
-categories:
-  - Blog
-  - dsresources
-tags: [RL Git Repositories, Reinforcement Learning]
-header:
-  teaser: /assets/images/dspost/dsr101-Reinforcement-Learning-Git-Repositories.jpg
+tags: [Data Science Resource, Reinforcment Learning, RL Git Repositories] 
+categories: 
 
-author_profile: true
-last_modified_at: 2022-05-14T15:46:43-04:00
-mathjax: "true"
-share: true
+header:
+    teaser:  /assets/images/dspost/dsr101-Reinforcement-Learning-Git-Repositories.jpg
+author: Hari Thapliyaal   
+layout: single   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
 ---
 
 ![Reinforcement Learning Git Repositories](/assets/images/dspost/dsr101-Reinforcement-Learning-Git-Repositories.jpg)

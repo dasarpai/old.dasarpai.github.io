@@ -18,8 +18,7 @@ mathjax: "true"
 share: true
 ---
 
-![DS, AI, ML, Books Available](/assets/images/dspost/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg)
-
+![DS, AI, ML, Books Available](/assets/images/dspost/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg)   
 
 # DS, AI, ML, Books/ Guide/ Reports/ Presentations Available
 
