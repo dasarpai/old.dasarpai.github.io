@@ -147,7 +147,7 @@ Sno. | URL | Purpose
 |2. | [https://creators.google/](https://creators.google/) | Provides resources and tools for content creators and creative professionals.
 |3. | [https://about.google/products/](https://about.google/products/) | All Google Products
 |4. | [https://built-in.google/cars/](https://built-in.google/cars/) | Showcases Google's automotive solutions and technologies.
-|5. | [https://www.cloudskillsboost.google/ course_templates/266](https://www.cloudskillsboost.google/course_templates/266) | Offers course templates and resources for improving cloud computing skills.
+|5. | [https://www.cloudskillsboost.google/catalog](https://www.cloudskillsboost.google/catalog) | Offers dozens of courses with cloud resources for various roles to improve your cloud computing skills.
 |6. | [https://lens.google/](https://lens.google/) | Google Lens
 |7. | [https://opensource.google/](https://opensource.google/) | Google Open Source programs support open source projects through enabling new contributors, building mentorship, and supporting documentation.
 |8. | [https://about.google](https://about.google) | About Google
