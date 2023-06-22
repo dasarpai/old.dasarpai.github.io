@@ -8,16 +8,21 @@ tags: [DS Resources, Basic Statistics, Statistics for Data Science]
 
 header:
   teaser: /assets/images/dspost/dsr118-Basic-Statistics-for-Data-Science.jpg
-
-
-author_profile: true
 last_modified_at: 2021-06-02T15:46:43-04:00
-mathjax: "true
-share: true"
+author: Hari Thapliyaal   
+mathjax: "true"
+share: true
+excerpt:   
+layout: single   
+author_profile: true   
+toc: true   
+toc_sticky: true
 ---
 ![Basic Statistics for Data Science](/assets/images/dspost/dsr118-Basic-Statistics-for-Data-Science.jpg)   
+   
+# Basic Statistics for Data Science   
 
-## Important Webpages on Statistics
+## Important Webpages on Statistics   
 
 1.  [Statistical Inference – an overview - ScienceDirect Topics](https://www.sciencedirect.com/topics/neuroscience/statistical-inference)
 2.  [Welcome – The Data Journalism Handbook](https://datajournalismhandbook.org/1.0/en/index.html)

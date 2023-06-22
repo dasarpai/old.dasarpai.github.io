@@ -8,12 +8,15 @@ tags: [DS Resources, YouTube Channels for Data Scientist, YouTube Channels for A
 
 header:
   teaser:  /assets/images/dspost/dsr107-Best-YouTube-Channels-to-Learn-Data-Science.jpg
-
-layout: single
-author_profile: true
 last_modified_at: 2021-07-28T15:46:43-04:00
+author: Hari Thapliyaal   
 mathjax: "true"
 share: true
+excerpt:   
+layout: single   
+author_profile: true   
+toc: true   
+toc_sticky: true
 ---
 
 ![Best YouTube Channels to Learn Data Science](/assets/images/dspost/dsr107-Best-YouTube-Channels-to-Learn-Data-Science.jpg)

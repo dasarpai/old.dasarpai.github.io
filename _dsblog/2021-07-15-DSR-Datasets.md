@@ -6,14 +6,15 @@ date: 2021-07-15
 tags: [DS Resources, Data Science Datasets] 
 categories: 
 header:
-    teaser:  /assets/images/dspost/dsr115-Datasets.jpg
+    teaser:  /assets/images/dspost/dsr115-Datasets.jpg  
 author: Hari Thapliyaal   
-layout: single   
+mathjax: "true"
+share: true
 excerpt:   
+layout: single   
 author_profile: true   
-share: true   
 toc: true   
-toc_sticky: true 
+toc_sticky: true
 ---
 ![Datasets](/assets/images/dspost/dsr115-Datasets.jpg)    
    

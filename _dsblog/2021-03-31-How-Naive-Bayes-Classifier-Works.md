@@ -11,10 +11,14 @@ tags:
   - Recommendation
 header:
   teaser: "/assets/images/dspost/dsp6005-How-Naive-Bayes-Work-for-Recommendation.jpg"
-excerpt_separator: "<!--more-->"
-excerpt:
-layout: single
-author_profile: true
+author: Hari Thapliyaal   
+mathjax: "true"
+share: true
+excerpt:   
+layout: single   
+author_profile: true   
+toc: true   
+toc_sticky: true
 ---
 
 ![Naive Bayes](/assets/images/dspost/dsp6005-How-Naive-Bayes-Work-for-Recommendation.jpg)   

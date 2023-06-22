@@ -9,11 +9,15 @@ tags: [DS Resources, AI Blogs]
 header:
   teaser:  /assets/images/dspost/dsr109-AI-ML-DL-Blogs-Sites.jpg
 
-
-author_profile: true
 last_modified_at: 2021-07-02T15:46:43-04:00
+author: Hari Thapliyaal   
 mathjax: "true"
 share: true
+excerpt:   
+layout: single   
+author_profile: true   
+toc: true   
+toc_sticky: true
 ---
 
 ![AI, ML, DL Blogs Sites](/assets/images/dspost/dsr109-AI-ML-DL-Blogs-Sites.jpg)

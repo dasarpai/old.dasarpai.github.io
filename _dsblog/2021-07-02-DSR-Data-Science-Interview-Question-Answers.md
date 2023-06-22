@@ -8,11 +8,15 @@ tags: [DS Resources, AI Interview Questions, Data Science Interview Questions, M
 
 header:
   teaser: /assets/images/dspost/dsr102-Data-Science-Interview-Question-Answers.jpg
-
-author_profile: true
 last_modified_at: 2022-09-09T15:46:43-04:00
+author: Hari Thapliyaal   
 mathjax: "true"
 share: true
+excerpt:   
+layout: single   
+author_profile: true   
+toc: true   
+toc_sticky: true
 ---
 
 ![Data Science Interview Question Answers](/assets/images/dspost/dsr102-Data-Science-Interview-Question-Answers.jpg)

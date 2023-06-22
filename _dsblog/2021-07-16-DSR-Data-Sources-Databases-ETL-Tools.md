@@ -9,10 +9,11 @@ categories:
 header:
    teaser: /assets/images/dspost/dsr116-Data-Sources-Databases-ETL-Tools.jpg
 author: Hari Thapliyaal   
-layout: single   
+mathjax: "true"
+share: true
 excerpt:   
+layout: single   
 author_profile: true   
-share: true   
 toc: true   
 toc_sticky: true 
 ---

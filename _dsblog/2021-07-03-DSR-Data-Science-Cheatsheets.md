@@ -8,12 +8,15 @@ tags: [DS Resources, DS Cheatsheet]
 
 header:
   teaser: /assets/images/dspost/dsr103-Data-Science-Cheatsheets.jpg
-
-author_profile: true
 last_modified_at: 2022-09-11T15:46:43-04:00
-toc: false
+author: Hari Thapliyaal   
 mathjax: "true"
 share: true
+excerpt:   
+layout: single   
+author_profile: true   
+toc: false   
+toc_sticky: true
 ---
 ![Data Science Cheatsheets](/assets/images/dspost/dsr103-Data-Science-Cheatsheets.jpg)   
 

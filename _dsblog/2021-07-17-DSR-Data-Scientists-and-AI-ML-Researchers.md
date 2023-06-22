@@ -8,15 +8,21 @@ tags: [DS Resources, AI Researchers, ML Researchers, NLP Researchers]
 
 header:
   teaser: /assets/images/dspost/dsr117-Data-Scientists-and-AI-ML-Researchers.jpg
-
-author_profile: true
 last_modified_at: 2021-06-15T15:46:43-04:00
+author: Hari Thapliyaal   
 mathjax: "true"
 share: true
+excerpt:   
+layout: single   
+author_profile: true   
+toc: true   
+toc_sticky: true
 ---
 
-![Data Scientists and AI, ML Researchers](/assets/images/dspost/dsr117-Data-Scientists-and-AI-ML-Researchers.jpg)
+![Data Scientists and AI, ML Researchers](/assets/images/dspost/dsr117-Data-Scientists-and-AI-ML-Researchers.jpg)   
 
+# Data Scientists and AI, ML Researchers   
+   
 For the initial list, I have taken content from [github](https://github.com/datasciencescoop/awesome-deep-learning). I have expanded this and will keep updating this in the future. If you know any, please feel free to put the name in the comment box.
 
 1. [Aaron Courville](https://aaroncourville.wordpress.com/)

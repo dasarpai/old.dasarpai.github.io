@@ -8,11 +8,15 @@ tags: [DS Resources, Mathematics for Data Scientist]
 
 header:
   teaser: /assets/images/dspost/dsr106-High-School-Maths-for-Data-Science.jpg
-
-author_profile: true
 last_modified_at: 2021-08-28T15:46:43-04:00
+author: Hari Thapliyaal   
 mathjax: "true"
 share: true
+excerpt:   
+layout: single   
+author_profile: true   
+toc: true   
+toc_sticky: true
 ---
 
 ![High School Maths for Data Science](/assets/images/dspost/dsr106-High-School-Maths-for-Data-Science.jpg)   

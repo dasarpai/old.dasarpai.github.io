@@ -8,11 +8,15 @@ tags: [DS Resources, Mathematics for Data Scientist]
 
 header:
   teaser: /assets/images/dspost/dsr104-Mathematics-for-Data-Scientist.jpg
-
-author_profile: true
 last_modified_at: 2021-09-28T15:46:43-04:00
+author: Hari Thapliyaal   
 mathjax: "true"
 share: true
+excerpt:   
+layout: single   
+author_profile: true   
+toc: true   
+toc_sticky: true
 ---
 
 ![Mathematics for Data Scientist](/assets/images/dspost/dsr104-Mathematics-for-Data-Scientist.jpg)   

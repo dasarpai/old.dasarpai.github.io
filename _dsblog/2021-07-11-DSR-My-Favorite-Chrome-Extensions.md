@@ -7,12 +7,15 @@ categories:
 tags: [DS Resources, Chrome Tools, Chrome Extensions]
 header:
   teaser:  /assets/images/dspost/dsr111-My-Favorite-Chrome-Extensions.jpg
-
-
-author_profile: true
 last_modified_at: 2022-09-08T15:46:43-04:00
+author: Hari Thapliyaal   
 mathjax: "true"
 share: true
+excerpt:   
+layout: single   
+author_profile: true   
+toc: true   
+toc_sticky: true
 ---
 
 ![My Favorite Chrome Extensions](/assets/images/dspost/dsr111-My-Favorite-Chrome-Extensions.jpg)
