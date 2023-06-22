@@ -15,8 +15,10 @@ toc: false
 mathjax: "true"
 share: true
 ---
-![Data Science Cheatsheets](/assets/images/dspost/dsr103-Data-Science-Cheatsheets.jpg)
+![Data Science Cheatsheets](/assets/images/dspost/dsr103-Data-Science-Cheatsheets.jpg)   
 
+# Data Science Cheatsheets   
+   
 All these cheat sheets are available to me and kept at <a href="https://drive.google.com/drive/folders/1fy5eofa6IQXgK0uAo_dI7i_QeK8tNHcE?usp=sharing" target="_blank">this link</a>. 140+ cheatsheet on ML, DL, DE, DA, NLP, Algorithms, Pandas, Numpy, Dask, Bigdata, Statistics, Python, SQL, Docker, sklearn, git, GNN etc.
 
 1. 21 Types of SQL joins-CHEATSHEET.pdf

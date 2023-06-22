@@ -15,8 +15,10 @@ mathjax: "true"
 share: true
 ---
 
-![Important AI Research Papers](/assets/images/dspost/dsr105-Important-AI-Research-Papers.jpg)
-
+![Important AI Research Papers](/assets/images/dspost/dsr105-Important-AI-Research-Papers.jpg)   
+   
+# Important AI Research Papers   
+   
 By this time there are thousands, if not millions, papers in AI and related technologies but I found following papers of specific interest for any serious Data Scientist.
 
 1. A Comprehensive Survey on Graph Neural  Networks-PAPER.pdf

@@ -15,9 +15,10 @@ share: true
 toc: true   
 toc_sticky: true 
 ---
-
 ![AI ML Resources from My Diary](/assets/images/dspost/dsr121-AI-ML-Resources-from-My-Diary.jpg)   
-
+   
+# AI ML Resources from My Diary   
+   
 This is my personal diary which contains resources, which I know, learned or people have told me
 to experiment with. I started writing this diary in Mar’ 2019. This diary is related to my work/learning
 in data science, AI, ML, NLP, DL, GNN, GAN, Statistics, etc. A few links related to Software

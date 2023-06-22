@@ -15,8 +15,10 @@ mathjax: "true"
 share: true
 ---
 
-![Mathematics for Data Scientist](/assets/images/dspost/dsr104-Mathematics-for-Data-Scientist.jpg)
-
+![Mathematics for Data Scientist](/assets/images/dspost/dsr104-Mathematics-for-Data-Scientist.jpg)   
+   
+# Mathematics for Data Scientist   
+   
 To excel in the field of data science, especially as a data scientist, I would recommend you have good command over the topics mentioned below. These are the topics from mathematics and statistics. There are many YouTube channels that you can use for this purpose. Because this is 10+2 level mathematics, and it is just a matter of revision. So I am not offering any course unless there is a specific need for some group, organization.
 
 ## Linear Algebra
