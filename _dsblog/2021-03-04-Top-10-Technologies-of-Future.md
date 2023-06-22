@@ -21,9 +21,11 @@ toc_sticky: true
 ---
 
 ![Future Technologies](/assets/images/dspost/dsp6004-Top-10-Future-Technologies.jpg)   
-
-## Top 10 Technologies of Future
-
+   
+# Top 10 Technologies of Future   
+   
+## Top 10 Technologies of Future   
+   
 1.  Augmented Reality :  
     Helps surgeons see inside their patients  
     Help workers operating in dangerous conditions

@@ -20,10 +20,11 @@ toc: true
 toc_sticky: true
 ---
 
-![Best Resources to Learn Python](/assets/images/dspost/dsr110-Best-Resources-to-Learn-Python.jpg)
+![Best Resources to Learn Python](/assets/images/dspost/dsr110-Best-Resources-to-Learn-Python.jpg)   
 
-## Best Python Resources
-
+# Best Resources to Learn Python   
+   
+## Best Python Resources  
 
 1.  [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 2.  [Python Practice Book — Python Practice Book](https://anandology.com/python-practice-book/index.html)
@@ -52,7 +53,6 @@ toc_sticky: true
 
 ## Best Numpy Resources
 
-
 1.  [arrays – What are the advantages of NumPy over regular Python lists? – Stack Overflow](https://stackoverflow.com/questions/993984/what-are-the-advantages-of-numpy-over-regular-python-lists)
 2.  [python – Why are NumPy arrays so fast? – Stack Overflow](https://stackoverflow.com/questions/8385602/why-are-numpy-arrays-so-fast)
 3.  [Numpy and Scipy Documentation – Numpy and Scipy documentation](https://docs.scipy.org/doc/)
@@ -60,7 +60,6 @@ toc_sticky: true
 5.  [Overview – NumPy v1.16 Manual](https://docs.scipy.org/doc/numpy/)
 
 ## Best Pandas Resources
-
 
 1.  [pandas](https://pandas.pydata.org/)
 2.  [DataFrame – pandas 0.24.2 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/frame.html)
@@ -73,7 +72,6 @@ toc_sticky: true
 
 ## Python Visualization Resources
 
-
 1.  [Seaborn](https://seaborn.pydata.org/api.html)
 2.  [rougier/matplotlib-tutorial: Matplotlib tutorial for beginner](https://github.com/rougier/matplotlib-tutorial)
 3.  [A step-by-step guide for creating advanced Python data visualizations with Seaborn / Matplotlib](https://towardsdatascience.com/a-step-by-step-guide-for-creating-advanced-python-data-visualizations-with-seaborn-matplotlib-1579d6a1a7d0)
@@ -82,7 +80,6 @@ toc_sticky: true
 
 ## Other Resources
 
-
 1.  [Contests - Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/all/)
 2.  [Working With Text Data — scikit-learn 0.20.3 documentation](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html#loading-the-20-newsgroups-dataset)
 3.  [Python RegEx](https://www.w3schools.com/python/python_regex.asp)
@@ -90,7 +87,6 @@ toc_sticky: true
 5.  [FakeNewsDetection/FakeBuster: Fake News Detection with Machine Learning](https://github.com/FakeNewsDetection/FakeBuster)
 
 ## Websites to learn Python
-
 
 1.  [https://interactivepython.org](https://interactivepython.org/)
 2.  [https://inventwithpython.com](https://inventwithpython.com/)

@@ -19,11 +19,13 @@ toc: true
 toc_sticky: true
 ---
 
-![Data Science Interview Question Answers](/assets/images/dspost/dsr102-Data-Science-Interview-Question-Answers.jpg)
+![Data Science Interview Question Answers](/assets/images/dspost/dsr102-Data-Science-Interview-Question-Answers.jpg)     
 
+# Data Science Interview Question Answers   
+    
 Thousands of interview questions on various topic related to Machine Learning, Deep Learning, Computer Vision, NLP, AWS, GCP, MLOPS, Data Analytics, SQL, Python & Statistics. These questions are related to technology, architectures and solving business problem. [This gdrive link](https://drive.google.com/drive/folders/1UR041sOfesIEjQUoveDzXTypfHThtH5J?usp=sharing) has 51 pdf files which contains the questions and answers.
 
-301-smart-answers-to-tough-interview-questions-vicky-oliver-INTQ.pdf   
+1. 301-smart-answers-to-tough-interview-questions-vicky-oliver-INTQ.pdf   
 1. 800 Data Science Questions-INTQ.pdf   
 1. A Beginner's Guide to Getting your first Data Science Job-INTQ.pdf   
 1. Agile Interview Questions and Answers-INTQ.pdf   

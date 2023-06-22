@@ -19,13 +19,14 @@ toc: true
 toc_sticky: true
 ---
 
-![AI, ML, Deep Learning, NLP Conferences & Journals](/assets/images/dspost/dsr108-AI-ML-Deep-Learning-NLP-Conferences-Journals.jpg)
+![AI, ML, Deep Learning, NLP Conferences & Journals](/assets/images/dspost/dsr108-AI-ML-Deep-Learning-NLP-Conferences-Journals.jpg)   
 
-#### Content on this page keeps changing. These links are taken from my chrome browser favorites.
+# AI, ML, Deep Learning, NLP Conferences & Journals   
 
-
+**Content on this page keeps changing. These links are taken from my chrome browser favorites.**
+   
 A list of 30+ AI conferences and journals related to AI, NLP, Deep Learning. Almost all major happening in the world of AI/ML is presented in these conferences and published in these magazines.
-
+   
 1. [AAAI – Association for the Advancement of Artificial Intelligence](https://www.aaai.org/)
 2. [AAMAS – International Joint Conference on Autonomous Agents and Multiagent Systems](https://celweb.vuse.vanderbilt.edu/aamas18/)
 3. [ACL Member Portal – The Association for Computational Linguistics Member Portal](https://www.aclweb.org/portal/)

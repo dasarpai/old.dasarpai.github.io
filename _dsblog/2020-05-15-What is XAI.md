@@ -20,10 +20,12 @@ toc: true
 toc_sticky: true
 ---
 
-![XAI](/assets/images/dspost/dsp6003-XAI.jpg)   
-
-## XAI in Simple Language!
-
+![XAI](/assets/images/dspost/dsp6003-XAI.jpg)    
+   
+# What is XAI?    
+   
+## XAI in Simple Language!   
+   
 The disciple of Data Science and AI has brought many terms in the boardroom for discussion, which looks complicated. In reality, many of these terms are so simple and obvious from a natural intelligence perspective that once we know it we feel it is very simple. But from the technology perspective, they are really complicated. To understand the XAI we will use one example below.
 
 All AI or ML-based systems need some data to train. After the system has been trained it works for us and answers us based on the given input data. What it has learned depends upon what algorithm has been used, what data has been given, how much data has been given, what hyperparameter used, and many other factors.

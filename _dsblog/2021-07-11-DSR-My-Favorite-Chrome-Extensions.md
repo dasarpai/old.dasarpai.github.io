@@ -18,8 +18,10 @@ toc: true
 toc_sticky: true
 ---
 
-![My Favorite Chrome Extensions](/assets/images/dspost/dsr111-My-Favorite-Chrome-Extensions.jpg)
-
+![My Favorite Chrome Extensions](/assets/images/dspost/dsr111-My-Favorite-Chrome-Extensions.jpg)   
+    
+# My Favorite Chrome Extensions   
+   
 | # | Name | Purpose |
 | --- | --------------- | ---------------------------- |
 | 1 | Grammar & Spell Checker — LanguageTool | Check your texts for spelling and grammar problems everywhere on the web |

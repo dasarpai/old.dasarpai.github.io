@@ -20,13 +20,12 @@ author_profile: true
 toc: true   
 toc_sticky: true
 ---
-
 ![Naive Bayes](/assets/images/dspost/dsp6005-How-Naive-Bayes-Work-for-Recommendation.jpg)   
-
-# How Naive Bayes Classifier Works?
-
-## Naive Bayes classifier example
-
+   
+# How Naive Bayes Classifier Works?   
+   
+## Naive Bayes classifier example    
+   
 In this presentation, I am not going into the depth of the Naive Bayes algorithm. I am assuming you have heard this term many times but are not able to visualize it mentally or struggling to comprehend this. If that is the case, then you are on the right page.
 
 How does Naive Bayes Classifier work in Machine Learning? There are many good explanations, many ways to explain the conditional probability formula but many times even after many reading, and memorizing the formula it does not help. In this presentation, I am trying to explain How the Naive Bayes Classifier works with a simple example and calculations.

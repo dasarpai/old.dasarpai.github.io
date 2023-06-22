@@ -20,7 +20,7 @@ toc_sticky: true
 ---
 
 ![High School Maths for Data Science](/assets/images/dspost/dsr106-High-School-Maths-for-Data-Science.jpg)   
-
+    
 # High School Maths for Data Science   
    
 ## [Algebra I](https://www.varsitytutors.com/high_school_math-help/algebra-i)

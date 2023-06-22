@@ -19,8 +19,12 @@ toc: true
 toc_sticky: true
 ---
 
-![Best YouTube Channels to Learn Data Science](/assets/images/dspost/dsr107-Best-YouTube-Channels-to-Learn-Data-Science.jpg)
+![Best YouTube Channels to Learn Data Science](/assets/images/dspost/dsr107-Best-YouTube-Channels-to-Learn-Data-Science.jpg)   
 
+# Best YouTube Channels to Learn Data Science   
+
+## Introduction    
+      
 The way we are learning new technologies has hugely changed in the last 5 years. Many educators, researchers, voices for quality education for all have come to create their educational videos and share those with community members, peers, and learners from industries. Many subjects and topics like Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement Learning have gained has huge popularity in the market because they have brought disruption in the existing businesses and knowledge is openly available in the market. If you have time and money, then it makes sense to join some full-time or part-time course from some good university and learn these subjects systematically in depth and detail. But, if time or/and money is the issue, and you know what you want to learn, then there are many YouTube channels. From there you can learn everything you need to become a good ML Engineer, Data Scientist, Data Engineer, DL Engineer, NLP Engineer, etc.
 
 During my Masters in Data Science and post that, I have benefited hugely from many such YouTube channels. I am compiling a list of approx 80 channels in the section below. I am sure this list will help many people to start and become experts in the fields of AI. From Statistics, Probability, Algebra, Calculus, Programming, Data Cleaning, Feature Engineering, Model Building to Deployment everything can be learned through these channels. This list is sorted in descending order of the number of videos available on these channels.
@@ -170,7 +174,3 @@ Other useful YouTube channels for WordPress Designer/Developer, Physics &amp; Sc
 |Engineering|31|<a href="https://www.youtube.com/user/stanfordonline" rel="nofollow noopener" target="_blank">stanfordonline</a>|1,377|240.0K|Stanford Online is Stanford’s online learning provider, offering learners access to Stanford’s extended education and lifelong learning opportunities. Our robust catalog of credit-bearing, professional, and free and open content provides a variety of ways to expand your learning, advance your career, and enhance your life. Stanford Online is operated and managed by the Stanford Center for Professional Development, a leader in online and extended education.|
 |Engineering|32|<a href="https://www.youtube.com/user/stanfordeng" rel="nofollow noopener" target="_blank">Stanford University School of Engineering</a>|462|140.0K|The Stanford School of Engineering has been at the forefront of innovation for nearly a century, creating pivotal technologies that have transformed the worlds of information technology, communications, medicine, energy, business and beyond. The faculty, students and alumni of Stanford Engineering have established thousands of companies and laid the technological and business foundations for Silicon Valley. Founded in 1925, the school has a tradition of pursuing multidisciplinary collaboration aimed at solving the most pressing global problems.|
 |Engineering|33|<a href="https://www.youtube.com/user/LearnEngineeringTeam" rel="nofollow noopener" target="_blank">Learn Engineering</a>|159|4330.0K|This channel was founded by Sabin Mathew, an IIT Delhi post graduate in 2012. At Learn Engineering, we aim to provide quality engineering education. Our videos are designed to clear misconceptions, create a passion for engineering and explain complicated technologies in a simple way.|
-
-
-
-
