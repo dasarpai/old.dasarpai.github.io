@@ -1,7 +1,7 @@
 ---
 id: 119    
 title: "DS, AI, ML Online Course, Tutorial, Videos"
-permalink: /dsresources/data-science-tutorial-video-resources
+permalink: /dsblog/data-science-tutorial-video-resources
 date: 2020-07-02
 categories:
 tags: [DS Resources, AI, Data Science, Machine Learning, Online Tutorial, Online Video]

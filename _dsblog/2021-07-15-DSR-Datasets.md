@@ -1,7 +1,7 @@
 ---
 id: 115    
 title: "Datasets"
-permalink: /dsresources/datasets
+permalink: /dsblog/datasets
 date: 2021-07-15
 tags: [DS Resources, Data Science Datasets] 
 categories: 

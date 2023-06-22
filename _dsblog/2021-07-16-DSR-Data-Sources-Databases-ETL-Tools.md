@@ -1,7 +1,7 @@
 ---
 id: 116    
 title: "Navigating the Data Landscape: Exploring Data Sources, Databases, and ETL Tools for Machine Learning Projects"
-permalink: /dsresources/navigating-the-data=landscape
+permalink: /dsblog/navigating-the-data=landscape
 date: 2021-07-16
 tags: [DS Resources, Data Sources, Databases, ETL Tools] 
 categories: 

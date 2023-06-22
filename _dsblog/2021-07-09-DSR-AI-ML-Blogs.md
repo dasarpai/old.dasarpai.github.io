@@ -1,7 +1,7 @@
 ---
 id: 109    
 title: "AI, ML, DL Blogs Sites"
-permalink: /dsresources/ai-ml-blogs
+permalink: /dsblog/ai-ml-blogs
 date: 2021-07-12
 categories:
 tags: [DS Resources, AI Blogs]

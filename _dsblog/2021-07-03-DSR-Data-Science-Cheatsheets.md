@@ -1,7 +1,7 @@
 ---
 id: 103    
 title: "Data Science Cheatsheets"
-permalink: /dsresources/data-science-cheatsheets
+permalink: /dsblog/data-science-cheatsheets
 date: 2022-07-03
 categories:
 tags: [DS Resources, DS Cheatsheet]

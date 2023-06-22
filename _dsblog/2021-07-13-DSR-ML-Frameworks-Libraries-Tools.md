@@ -1,7 +1,7 @@
 ---
 id: 113    
 title: "Machine Learning Framework, Library, Tools"
-permalink: /dsresources/ml-frameworks-libraries-tools
+permalink: /dsblog/ml-frameworks-libraries-tools
 date: 2021-07-13
 categories:
 tags: [DS Resources, Machine Learning Framework, Library, Tools]

@@ -1,7 +1,7 @@
 ---
 id: 106    
 title: "High School Maths for Data Science"
-permalink: /dsresources/high-school-maths-for-ds
+permalink: /dsblog/high-school-maths-for-ds
 date: 2021-07-06
 categories:
 tags: [DS Resources, Mathematics for Data Scientist]

@@ -1,4 +1,3 @@
-replace nn, title, slug
 ---
 mathjax: true
 id: 6047
@@ -58,3 +57,51 @@ Societal impact: The deployment of AI must consider the potential impact on soci
 ## Conclusion:
 
 The development and deployment of AI has the potential to bring about significant benefits to society, but it also presents risks and challenges that must be carefully managed. Responsible AI involves considering the potential consequences of AI systems and taking steps to minimize harm and maximize benefits. By ensuring that AI systems are ethical, safe, transparent, and accountable, we can build a future in which AI works for the good of all and helps to create a better world for everyone. The principles of responsible AI must be integrated into the design and deployment of AI systems from the very beginning, and must be continuously monitored and improved over time.
+
+## Resources
+
+You can find all these books, reports, presentations at my [google drive](https://drive.google.com/drive/folders/1UcXNEOZND7GdoaV7k93lNH21DoJAFZMz?usp=sharing)   
+
+1. 10 Keys to AI Success in 2021-by-DataRobot-PPT.pdf
+1. 19 Slides on AI, AI-Ethics, and XAI - Murat Durmus-PPT.pdf
+1. 8 Ethics in Data Science_ Ensuring Responsible Data Use-Guide.pdf
+1. 9 Best practices every Data Science leader should follow-PPT.pdf
+1. A Collection of 10 free ‘Springer’ Books-LINKS.pdf
+1. A Framework For The Ethical Use Of Advanced Data Science in Humanitarian Sector-GUIDE.pdf
+1. A Guide for Ethical Data Science-GUIDE.pdf
+1. A guide to using AI in the public sector-GUIDE.pdf
+1. AI An Introduction to the Legal, Policy _ Ethical Issues-REPORT.pdf
+1. AI for Everyone-eBook.pdf
+1. AI, Human Rights, Democracy, and the Rule of Law-REPORT.pdf
+1. An Introduction to AI for Federal judges-eBook.pdf
+1. Artificial Intelligence for a Better Future- An Ecosystem Perspective on the Ethics of AI-BOOK.pdf
+1. Data Governance Clinic-REPORT.pdf
+1. Data Science Course for beginners-eBOOK.pdf
+1. Ethical Considerations and Statistical Analysis of Industry Involvement in ML Research-REPORT.pdf
+1. Ethics of Artificial Intelligence-CaseStudies.pdf
+1. Ethics _ Governance of Artificial Intelligence for Health by WHO-GUIDE.pdf
+1. Generative AI_ Perspectives from Stanford HAI-REPORT.pdf
+1. HAI_AI-Index-Report-2023_CHAPTER_1-Research-and-Development-REPORT.pdf
+1. HAI_AI-Index-Report-2023_CHAPTER_2-Technical-Performance-REPORT.pdf
+1. HAI_AI-Index-Report-2023_CHAPTER_3-Technical-AI-Ethics-REPORT.pdf
+1. HAI_AI-Index-Report-2023_CHAPTER_4-The-Economy-REPORT.pdf
+1. HAI_AI-Index-Report-2023_CHAPTER_5-Education-REPORT.pdf
+1. HAI_AI-Index-Report-2023_CHAPTER_6-1-Policy-and-Governance-REPORT.pdf
+1. HAI_AI-Index-Report-2023_CHAPTER_7-Diversity-REPORT.pdf
+1. HAI_AI-Index-Report-2023_CHAPTER_8-Public-Opinion-REPORT.pdf
+1. HAI_AI-Index-Report_2022-Master-REPORT.pdf
+1. Machine Learning Observability Checklist-REPORT.pdf
+1. Mindful-AI-Reflections-on-AI-Report.pdf
+1. National AI Strategies and Human Rights- A Review-REPORT.pdf
+1. National Artificial Intelligence Advisory Committee (NAIAC)-Report.pdf
+1. Policy Guide on AI for Children-GUIDE.pdf
+1. Problem Solving and Critical Thinking-GUIDE.pdf
+1. Regulate to Innovate-REPORT.pdf
+1. Responsible_Artificial_Intelligence-The_Cambridge_Handbook.pdf
+1. State of AI Report-PPT.pdf
+1. The AI Thought Book by Murat Durmus-PPT.pdf
+1. The Data Revolution_Big Data Open Data Infrastructures and Their Consequences-BOOK.pdf
+1. The Product Manager Handbook-BOOK.pdf
+1. Towards_Responsible_Data_Practices_for_Machine_Learning_in_India-Health_and_Agriculture-REPORT.pdf
+1. Understanding artificial intelligence ethics and safety-BOOK.pdf
+1. Understanding bias in facial recognition technologies-REPORT.pdf

@@ -1,7 +1,7 @@
 ---
 id: 102    
 title: "Data Science Interview Question Answers"
-permalink: /dsresources/ds-ai-ml-interview-resources
+permalink: /dsblog/ds-ai-ml-interview-resources
 date: 2020-07-02
 categories:
 tags: [DS Resources, AI Interview Questions, Data Science Interview Questions, Machine Learning Interview Questions, Interview Questions]

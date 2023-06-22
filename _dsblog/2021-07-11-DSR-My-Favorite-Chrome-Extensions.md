@@ -1,7 +1,7 @@
 ---
 id: 111    
 title: "My Favorite Chrome Extensions"
-permalink: /dsresources/myfab-chrome-extensions
+permalink: /dsblog/myfab-chrome-extensions
 date: 2021-07-11
 categories:
 tags: [DS Resources, Chrome Tools, Chrome Extensions]

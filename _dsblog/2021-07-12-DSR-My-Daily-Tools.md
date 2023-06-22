@@ -1,7 +1,7 @@
 ---
 id: 112    
 title: "My Daily Tools"
-permalink: /dsresources/my-daily-tools
+permalink: /dsblog/my-daily-tools
 date: 2021-07-12
 categories:
 tags: [DS Resources, Daily Tools, Soft Tools, PM Tools, Design Tools, SEO Tools, AI Tools]

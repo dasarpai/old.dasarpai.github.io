@@ -1,7 +1,7 @@
 ---
 id: 110    
 title: "Best Resources to Learn Python"
-permalink: /dsresources/best-resources-to-learn-python
+permalink: /dsblog/best-resources-to-learn-python
 date: 2021-07-10
 categories:
 tags: [DS Resources, Resource for Python Learning, Python Resources]
