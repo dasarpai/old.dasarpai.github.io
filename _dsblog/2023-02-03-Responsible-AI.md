@@ -14,11 +14,11 @@ excerpt:
 share: true 
 ---
 ![Responsible-AI](/assets/images/dspost/dsp6047-Responsible-AI.jpg)   
-
+   
 # Responsible AI   
    
 ## Introduction:   
-
+   
 Artificial Intelligence (AI) is rapidly transforming the way we live, work, and interact with the world around us. As AI systems become increasingly sophisticated and ubiquitous, it is more important than ever to ensure that they are developed and deployed in a responsible and ethical manner. Responsible AI refers to the principles and practices of developing and using AI in a way that is safe, transparent, accountable, and aligned with human values. In this blog post, we will explore the different aspects of responsible AI, including ethics, safety, transparency, accountability, and societal impact.
 
 ## Salient Features of Responsible AI.
