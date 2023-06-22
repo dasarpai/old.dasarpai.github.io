@@ -15,12 +15,9 @@ share: true
 toc: true   
 toc_sticky: true 
 ---
----
-
 ![Github Repos for Data Science](/assets/images/dspost/dsr122-Github-Repos-to-Learn-DataScience.jpg)   
    
-# Github-Repos-for-DataScience
-
+# Github-Repos-for-DataScience   
 Sno. | Repo Name | Repo Description | Language | Starred| Fork
 --- | --- | --- | ---| --- | ---
 1 | [Link](https://github.com/abacaj/awesome-transformers) | A curated list of awesome transformer models. |  | 504| 35

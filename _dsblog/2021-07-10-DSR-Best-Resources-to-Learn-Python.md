@@ -21,11 +21,10 @@ toc_sticky: true
 ---
 
 ![Best Resources to Learn Python](/assets/images/dspost/dsr110-Best-Resources-to-Learn-Python.jpg)   
-
+   
 # Best Resources to Learn Python   
    
 ## Best Python Resources  
-
 1.  [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 2.  [Python Practice Book — Python Practice Book](https://anandology.com/python-practice-book/index.html)
 3.  [Making Games with Python & Pygame](https://inventwithpython.com/pygame/chapters/)

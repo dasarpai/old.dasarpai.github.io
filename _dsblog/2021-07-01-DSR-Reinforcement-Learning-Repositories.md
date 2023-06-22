@@ -5,7 +5,6 @@ permalink: /dsblog/rl-git-repo
 date: 2020-07-01
 tags: [DS Resources, Reinforcment Learning, RL Git Repositories] 
 categories: 
-
 header:
     teaser:  /assets/images/dspost/dsr101-Reinforcement-Learning-Git-Repositories.jpg
 author: Hari Thapliyaal   
@@ -20,7 +19,6 @@ toc_sticky: true
 ![Reinforcement Learning Git Repositories](/assets/images/dspost/dsr101-Reinforcement-Learning-Git-Repositories.jpg)    
    
 # Reinforcement Learning Git Repositories    
-   
 | Sno. | URL | Description  |
 | --- | --- | -- |
 | 1 | https://github.com/openai/baselines | OpenAI Baselines: high-quality implementations of reinforcement learning algorithms  |
