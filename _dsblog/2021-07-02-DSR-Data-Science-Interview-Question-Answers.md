@@ -20,7 +20,7 @@ toc_sticky: true
 ---
 
 ![Data Science Interview Question Answers](/assets/images/dspost/dsr102-Data-Science-Interview-Question-Answers.jpg)     
-
+   
 # Data Science Interview Question Answers   
     
 Thousands of interview questions on various topic related to Machine Learning, Deep Learning, Computer Vision, NLP, AWS, GCP, MLOPS, Data Analytics, SQL, Python & Statistics. These questions are related to technology, architectures and solving business problem. [This gdrive link](https://drive.google.com/drive/folders/1UR041sOfesIEjQUoveDzXTypfHThtH5J?usp=sharing) has 51 pdf files which contains the questions and answers.

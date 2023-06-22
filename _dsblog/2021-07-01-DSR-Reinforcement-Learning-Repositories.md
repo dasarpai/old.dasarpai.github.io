@@ -17,10 +17,9 @@ author_profile: true
 toc: true   
 toc_sticky: true
 ---
-
-![Reinforcement Learning Git Repositories](/assets/images/dspost/dsr101-Reinforcement-Learning-Git-Repositories.jpg)   
-
-# Reinforcement Learning Git Repositories   
+![Reinforcement Learning Git Repositories](/assets/images/dspost/dsr101-Reinforcement-Learning-Git-Repositories.jpg)    
+   
+# Reinforcement Learning Git Repositories    
    
 | Sno. | URL | Description  |
 | --- | --- | -- |
