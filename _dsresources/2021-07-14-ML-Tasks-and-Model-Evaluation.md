@@ -74,10 +74,10 @@ XTREME has gained significant attention and has been instrumental in driving pro
 - https://arxiv.org/abs/2003.11080
 - https://paperswithcode.com/dataset/xtreme
 
-# NLP and Deep Learning Tasks
+## NLP and Deep Learning Tasks
 Below is list of different NLP and Deep Learning tasks for which different benchmark datasets are created and model's perormance is measured against those tasks.
 
-## GLUE & SuperGLUE tasks
+### GLUE & SuperGLUE tasks
 
 Sno|Task|Corpus|Paper|GLUE|SuperGLUE
 ---|--- | --- | --- | --- | ---
