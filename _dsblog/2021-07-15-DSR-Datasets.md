@@ -189,7 +189,28 @@ In this article, I am publishing a curated collection of datasets sourced from o
 |153. | [IMF Datasets](https://www.imf.org/en/Data)  | 
 |154. | [Worldbank Datasets](https://data.worldbank.org/) | 
 |155. | [Reuter Finance News Dataset Title Only](https://www.kaggle.com/datasets/harithapliyal/reuters-85m-titles) |
-{156. | [Bloomberg + Reuter Finance News Dataset](https://www.kaggle.com/datasets/harithapliyal/bloomberg-reuter-financial-news-dataset) | 
+|156. | [Bloomberg + Reuter Finance News Dataset](https://www.kaggle.com/datasets/harithapliyal/bloomberg-reuter-financial-news-dataset) | 
+|157. | [Enron Email Dataset](https://www.cs.cmu.edu/~enron/) |  It has more than 500K emails of over 150 users. The size of the data is around 432Mb. Out of 150 users, most of the users are the senior management of Enron.
+|158. | [Chatbot Intents Dataset](https://github.com/katanaml/katana-assistant/blob/master/mlbackend/intents.json) | The dataset for a chatbot is a JSON file that has disparate tags like goodbye, greetings, pharmacy_search, hospital_search, etc. Every tag has a list of patterns that a user can ask, and the chatbot will respond according to that pattern. The dataset is perfect for understanding how chatbot data works.
+|159. | [Parkinson Dataset](https://archive.ics.uci.edu/ml/datasets/parkinsons) | Parkinson dataset contains biomedical measurements, 195 records of people with 23 different attributes. This data is used to differentiate healthy people and people with Parkinson’s disease.
+|160. | [Mall Customers Dataset](https://www.kaggle.com/shwetabh123/mall-customers) | The Mall customers dataset holds the details about people visiting the mall. The dataset has an age, customer id, gender, annual income, and spending score. It gains insights from the data and divides the customers into different groups based on their behaviors.
+|161. | [Google Trends Data Portal](https://trends.google.com/trends/) | Google trends data can be used to examine and analyze the data visually. We can find out what’s trending and what people are searching for.
+|162. | [Recommender Systems and Personalization Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets.html) | This is a portal to a collection of rich datasets that were used in lab research projects at UCSD. It contains various datasets from popular websites like Goodreads book reviews, Amazon product reviews, bartending data, data from social media, etc that are used in building a recommender system.
+|163. | [GTSRB (German traffic sign recognition benchmark) Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) | Build a model using a deep learning framework that classifies traffic signs and also recognizes the bounding box of signs. The traffic sign classification is also useful in autonomous vehicles for identifying signs and then taking appropriate actions.   
+|164. | [Cityscapes Dataset](https://www.cityscapes-dataset.com/) | It contains high-quality pixel-level annotations of video sequences taken in 50 different city streets. The dataset is useful in semantic segmentation and training deep neural networks to understand the urban scene.
+|165. | [Kinetics Dataset](https://deepmind.com/research/open-source/kinetics) | There are three different datasets for Kinetics: Kinetics 400, Kinetics 600, and Kinetics 700 dataset. This is a large scale dataset that contains a URL link to around 6.5 million high-quality videos. Build a human action recognition model and detect the action of a human. 
+|166. | [IMDB-Wiki dataset](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/) | The IMDB-Wiki dataset is one of the largest open-source datasets for face images with labeled gender and age. The images are collected from IMDB and Wikipedia. It has 5 million-plus labeled images.
+|167. | [Color Detection Dataset](https://github.com/codebrainz/color-names/blob/master/output/colors.csv) | The dataset contains a CSV file that has 865 color names with their corresponding RGB (red, green, and blue) values of the color.
+|168. | [Librispeech Dataset](http://www.openslr.org/12) | This dataset contains a large number of English speeches that are derived from the LibriVox project. It has 1000 hours of English-read speech in various accents. The objective of speech recognition is to automatically identify what is being said in the audio.
+|169. | [Breast Histopathology Images Dataset](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images) | This dataset contains 2,77,524 images of size 50×50 extracted from 162 mount slide images of breast cancer specimens scanned at 40x. There are 1,98,738 negative tests and 78,786 positive tests with IDC.
+|170. | [youtube-8M analytics](https://www.kaggle.com/code/ayoubchebbi/youtube-8m-analytics) | 
+|171. | [Temporal concept localization within video - YouTube-8M](https://www.kaggle.com/competitions/youtube8m-2019/data), [Link2](https://research.google.com/youtube8m/)| The YouTube-8M Segments dataset is an extension of the YouTube-8M dataset with human-verified segment annotations. In addition to annotating videos, we would like to temporally localize the entities in the videos, i.e., find out when the entities occur.
+|172. | [CodaLab](https://codalab.lisn.upsaclay.fr/my/) | Hundreds of interesting datasets.
+|173. | [Hate Speech Dataset in Devnagari](https://www.kaggle.com/datasets/harithapliyal/hate-speech-in-hindi) | 
+|174. | []() | 
+
+
+
 
 ## Conclusion:
 
