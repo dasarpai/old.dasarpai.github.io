@@ -3,7 +3,7 @@ mathjax: true
 id: 6068
 title: 'A Guide to Model Fine Tuning with OpenAI API'
 date: 2023-07-02
-permalink: '/dsblog/Capabilities-of-AI-Transformers'
+permalink: '/dsblog/Model-Fine-Tuning-with-OpenAI-API'
 tags: [NLP, AI Transformers, Deep Learning, OpenAI] 
 categories: 
 
