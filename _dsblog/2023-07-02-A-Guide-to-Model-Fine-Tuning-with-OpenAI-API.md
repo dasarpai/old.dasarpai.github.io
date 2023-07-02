@@ -17,8 +17,8 @@ toc: true
 toc_sticky: true
 ---
 
-![A Guide to Model Fine Tuning with OpenAI API](/assets/images/dspost/dsp6068-A-Guide-to-Model-Fine-Tuning-with-OpenAI-API.jpg) 
-
+![A Guide to Model Fine Tuning with OpenAI API](/assets/images/dspost/dsp6068-A-Guide-to-Model-Fine-Tuning-with-OpenAI-API.jpg)    
+   
 # A Guide to Model Fine Tuning with OpenAI API
 
 ## Account Setup and API Key Generation
@@ -36,8 +36,9 @@ import openai
 ```
 
 ## Data Preperation 
+
 ### Guidelines : 
-https://platform.openai.com/docs/guides/fine-tuning/preparing-your-dataset
+- https://platform.openai.com/docs/guides/fine-tuning/preparing-your-dataset
 
 ### Create train and validation dataset from your jsonl file:
 ```python
@@ -119,6 +120,7 @@ training_loss: loss on the training batch
 - training_token_accuracy: the percentage of tokens in the training batch that were correctly predicted by the model. For example, with a batch_size of 3, if your data contains the completions [[1, 2], [0, 5], [4, 2]] and the model predicted [[1, 1], [0, 5], [4, 2]], this accuracy will be 5/6 = 0.83
 
 ## Hyperparameters
+
 - model: "ada", "babbage", "curie", or "davinci". 
 - n_epochs - defaults to 4.
 - batch_size - defaults to ~0.2%
@@ -126,11 +128,13 @@ training_loss: loss on the training batch
 - compute_classification_metrics - defaults to False. If True, for fine-tuning for classification tasks, computes classification-specific metrics (accuracy, F-1 score, etc) on the validation set at the end of every epoch.
 
 ## Delete finetuned model
+
 ```python
 !openai.Model.delete(FINE_TUNED_MODEL)
 ```
 
 ## Create Embedding 
+
 ### example1
 
 ```python
@@ -142,6 +146,7 @@ embeddings = response['data'][0]['embedding']
 ```
 
 ### example2 
+
 ```python
 def get_embedding(text, model="text-embedding-ada-002"):
    text = text.replace("\n", " ")
@@ -152,10 +157,13 @@ df.to_csv('output/embedded_1k_reviews.csv', index=False)
 ```
 
 ## Pricing 
+
 ### Embedding Price 
+
 Usage is priced per input token, at a rate of $0.0004 per 1000 tokens, or about ~3,000 pages per US dollar (assuming ~800 tokens per page):
 
 ### Usage & Charges
+
 - [Usage](https://platform.openai.com/account/usage)
 - [Rate Limits](https://platform.openai.com/account/rate-limits)
 

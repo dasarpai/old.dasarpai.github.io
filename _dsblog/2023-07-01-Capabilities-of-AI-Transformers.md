@@ -21,9 +21,6 @@ toc_sticky: true
 
 # Capabilities of AI Transformers
 
-## Transformer Architecture   
-![Transformer](/assets/images/dspost/transformer/transformer-arch.jpg)
-
 ## Background
 Whether GPT, ChatGPT, DALL-E, Whisper, Satablity AI or whatever significant you see in the AI worlds nowdays it is because of Transformer Architecture. Transformers are a type of neural network architecture that have several properties that make them effective for modeling data with long-range dependencies. They generally feature a combination of multi-headed attention mechanisms, residual connections, layer normalization, feedforward connections, and positional embeddings.   
 

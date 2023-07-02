@@ -17,11 +17,12 @@ toc: true
 toc_sticky: true
 ---
 
-![What is GAN Architecture?](/assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg) 
-
-# What is GAN Architecture?
-
+![What is GAN Architecture?](/assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg)    
+   
+# What is GAN Architecture?  
+   
 ## GAN Paper Summary 
+
 | # | GAN | Date | Architecture Type | Research Organization  |Paper | Author Name
 | --- | --- | --- | --- | ---  |--- | ---
 1 | [AAE]() [Paper](https://arxiv.org/abs/1511.05644) | Jul, 1905 | GAN | University of Montreal  |Adversarial Autoencoder | Alireza Makhzani et al.
@@ -41,8 +42,9 @@ toc_sticky: true
 15 | [text-to-image]() [Paper](https://arxiv.org/abs/1605.05396) | Jul, 1905 | GAN | University of Michigan  |Generative Adversarial Text-to-Image Synthesis | Scott Reed et al.
 16 | [WGAN]() [Paper](https://arxiv.org/abs/1701.07875) | Jul, 1905 | GAN | New York University  |Wasserstein GAN | Martin Arjovsky et al.
 
-## GAN Capabilities
-| # | GAN | Objective | Summary | NLP Tasks | CV Tasks
+## GAN Capabilities   
+   
+| # | GAN | Objective | Summary | NLP Tasks | CV Tasks   
 | --- | --- | --- | --- | --- | ---
 1 | AAE | Adversarial Autoencoder | A type of autoencoder that combines generative and discriminative models through an adversarial process. | - | Image Generation
 2 | cGANs | Conditional Generative Adversarial Networks | A generative model that can generate samples conditioned on specific input conditions or labels. | - | Image Generation, Image-to-Image Translation
