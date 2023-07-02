@@ -40,6 +40,8 @@ Starting the journey in 2017, as of now (2023) we have approx 200 Transformer ba
 
 This articles list all the major Transformer related researcher paper, their object, and capabilities.
 
+**Note :** Name starting with * are not Transformers, most of them are pretransformer age architectures.      
+
 ## Capabilities of AI Transformers
 
 | Sno | Transformer | Objective | Summary | NLP Tasks | CV Tasks

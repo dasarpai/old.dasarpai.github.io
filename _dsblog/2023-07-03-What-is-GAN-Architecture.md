@@ -25,22 +25,22 @@ toc_sticky: true
 
 | # | GAN | Date | Architecture Type | Research Organization  |Paper | Author Name
 | --- | --- | --- | --- | ---  |--- | ---
-1 | [AAE]() [Paper](https://arxiv.org/abs/1511.05644) | Jul, 1905 | GAN | University of Montreal  |Adversarial Autoencoder | Alireza Makhzani et al.
-2 | [cGANs]() [Paper](https://arxiv.org/abs/1411.1784) | Jul, 1905 | GAN | University of Montreal  |Conditional GAN | Mehdi Mirza and Simon Osindero
-3 | [CycleGAN]() [Paper](https://arxiv.org/abs/1703.10593) | Jul, 1905 | GAN | University of California, Berkeley  |Cycle-Consistent GAN | Jun-Yan Zhu et al.
-4 | [DCGAN]() [Paper](https://arxiv.org/abs/1511.06434) | Jul, 1905 | GAN | OpenAI  |Deep Convolutional GAN | Alec Radford et al.
-5 | [DiscoGAN]() [Paper](https://arxiv.org/abs/1703.05192) | Jul, 1905 | GAN | Seoul National University  |DiscoGAN | Taeksoo Kim et al.
-6 | [EGAN]() [Paper](https://arxiv.org/pdf/1803.00657) | Jul, 1905 | GAN | The Chinese University of Hong Kong  |Energy-Based GAN | Zhaoxin Li et al.
-7 | [GAN]() [Paper](https://arxiv.org/abs/1406.2661) | Jul, 1905 | GAN | University of Montreal  |Generative Adversarial Network | Ian Goodfellow et al.
-8 | [IsGAN]() [Paper](https://arxiv.org/abs/1702.04482) | Jul, 1905 | GAN | Carnegie Mellon University  |Improved-Synthesis GAN | Zhiting Hu et al.
-9 | [Large Scale GAN]() [Paper](https://arxiv.org/abs/1809.11096) | Jul, 1905 | GAN | University of Edinburgh  |Large Scale GAN Training for High Fidelity Natural Image Synthesis | Andrew Brock et al.
-10 | [LSGAN]() [Paper](https://arxiv.org/abs/1611.04076) | Jul, 1905 | GAN | University of California, Berkeley  |Least Squares GAN | Xudong Mao et al.
-11 | [PGAN]() [Paper](https://arxiv.org/abs/1710.10196) | Jul, 1905 | GAN | NVIDIA  |Progressive Growing of GANs | Tero Karras et al.
-12 | [pixelRNN]() [Paper](https://arxiv.org/abs/1601.06759) | Jul, 1905 | GAN | Google DeepMind  |Pixel Recurrent Neural Networks | Aaron van den Oord et al.
-13 | [StackGAN]() [Paper](https://arxiv.org/abs/1612.03242) | Jul, 1905 | GAN | Carnegie Mellon University  |StackGAN | Han Zhang et al.
-14 | [StyleGAN]() [Paper](https://arxiv.org/abs/1812.04948) | Jul, 1905 | GAN | NVIDIA  |StyleGAN | Tero Karras et al.
-15 | [text-to-image]() [Paper](https://arxiv.org/abs/1605.05396) | Jul, 1905 | GAN | University of Michigan  |Generative Adversarial Text-to-Image Synthesis | Scott Reed et al.
-16 | [WGAN]() [Paper](https://arxiv.org/abs/1701.07875) | Jul, 1905 | GAN | New York University  |Wasserstein GAN | Martin Arjovsky et al.
+1 | AAE [Paper](https://arxiv.org/abs/1511.05644) | 2016 | GAN | University of Montreal  |Adversarial Autoencoder | Alireza Makhzani et al.
+2 | cGANs [Paper](https://arxiv.org/abs/1411.1784) | 2014 | GAN | University of Montreal  |Conditional GAN | Mehdi Mirza and Simon Osindero
+3 | CycleGAN [Paper](https://arxiv.org/abs/1703.10593) | 2017 | GAN | University of California, Berkeley  |Cycle-Consistent GAN | Jun-Yan Zhu et al.
+4 | DCGAN [Paper](https://arxiv.org/abs/1511.06434) | 2015 | GAN | OpenAI  |Deep Convolutional GAN | Alec Radford et al.
+5 | DiscoGAN [Paper](https://arxiv.org/abs/1703.05192) | 2017 | GAN | Seoul National University  |DiscoGAN | Taeksoo Kim et al.
+6 | EGAN [Paper](https://arxiv.org/pdf/1803.00657) | 2018 | GAN | The Chinese University of Hong Kong  |Energy-Based GAN | Zhaoxin Li et al.
+7 | GAN [Paper](https://arxiv.org/abs/1406.2661) | 2014 | GAN | University of Montreal  |Generative Adversarial Network | Ian Goodfellow et al.
+8 | IsGAN [Paper](https://arxiv.org/abs/1702.04482) | 2017 | GAN | Carnegie Mellon University  |Improved-Synthesis GAN | Zhiting Hu et al.
+9 | Large Scale GAN [Paper](https://arxiv.org/abs/1809.11096) | 2018 | GAN | University of Edinburgh  |Large Scale GAN Training for High Fidelity Natural Image Synthesis | Andrew Brock et al.
+10 | LSGAN [Paper](https://arxiv.org/abs/1611.04076) | 2017 | GAN | University of California, Berkeley  |Least Squares GAN | Xudong Mao et al.
+11 | PGAN [Paper](https://arxiv.org/abs/1710.10196) | 2017 | GAN | NVIDIA  |Progressive Growing of GANs | Tero Karras et al.
+12 | pixelRNN [Paper](https://arxiv.org/abs/1601.06759) | 2016 | GAN | Google DeepMind  |Pixel Recurrent Neural Networks | Aaron van den Oord et al.
+13 | StackGAN [Paper](https://arxiv.org/abs/1612.03242) | 2017 | GAN | Carnegie Mellon University  |StackGAN | Han Zhang et al.
+14 | StyleGAN [Paper](https://arxiv.org/abs/1812.04948) | 2019 | GAN | NVIDIA  |StyleGAN | Tero Karras et al.
+15 | text-to-image [Paper](https://arxiv.org/abs/1605.05396) | 2016 | GAN | University of Michigan  |Generative Adversarial Text-to-Image Synthesis | Scott Reed et al.
+16 | WGAN [Paper](https://arxiv.org/abs/1701.07875) | 2017 | GAN | New York University  |Wasserstein GAN | Martin Arjovsky et al.
 
 ## GAN Capabilities   
    
