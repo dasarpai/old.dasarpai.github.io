@@ -1,24 +1,24 @@
 ---        
 id: 7006        
 mathjax: true        
-title: Constitution of India : Summary        
+title: Constitution of India - Summary        
 date: "2023-07-06T08:33:00+05:30"        
 permalink: /gk/Constitution-of-India-Summary        
 tags: [Education, Law]        
-
+        
 categories:        
 header:        
     teaser: /assets/images/gk/7006-Constitution-of-India-Summary.jpg        
-author: Hari Thapliyaal               
+author: Hari Thapliyaal        
 layout: single        
 excerpt:        
-author_profile: true   
-toc: true  
-toc_sticky: true     
+author_profile: true        
 share: true        
+toc: true  
+toc_sticky: true    
 ---        
         
-![Constitution of India : Summary](/assets/images/gk/7006-Constitution-of-India-Summary.jpg)       
+![Constitution of India - Summary](/assets/images/gk/7006-Constitution-of-India-Summary.jpg)        
 
 # Constitution of India : Summary
 
