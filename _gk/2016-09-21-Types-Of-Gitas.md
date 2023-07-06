@@ -16,16 +16,16 @@ author_profile: true
 share: true 
 ---
 
-![Types Of Gitas](/assets/images/gk/7001-Types-Of-Gitas.jpg)
-
-## Types Of Gitas
-
+![Types Of Gitas](/assets/images/gk/7001-Types-Of-Gitas.jpg)   
     
+# Types Of Gitas   
+
+## Introduction   
 When we see so many version of the Gita in the market the first question comes in the mind is **“What are the different types of Gita?”**    
     
 Gita or Geeta means song. In the wisdom traditions, these are the songs of knowledge, wisdom, oneness, self-realization. Most of the time there are two people conversing in these songs. One is Guru (who is imparting wisdom) and another one is Shishya (who has sought the wisdom). There are many kinds of Gita and I thought let me compile them and share them with you today. Informal relationships between Guru &amp; Shishya may be of friends, brother, father-son, husband-wife, son-mother, mother-son.    
     
-### List of All Gitas from Mahabharat    
+## List of All Gitas from Mahabharat    
     
 1. Bhagavad Gita – The popular one, a conversation between Krishna (Guru) and Arjuna in the early hours of the Mahabharata war. It is part of Mahabharat.    
 2. Anu Gita – Conversation between Lord Krishna (Guru) and Arjuna. When Arjuna asks Lord Krishna to repeat to him the original Bhagavad Gita, as he had forgotten the same. Krishna says it is not possible to repeat in the same sequence. However, you have asked, so, I will tell you something which is important for today.    
@@ -49,7 +49,7 @@ Gita or Geeta means song. In the wisdom traditions, these are the songs of knowl
 20. Sampaka Gita – Sampaka, a learned and pious Brahmin gives the message that one can attain everlasting happiness only through renunciation. It is a conversation between Bhishma (Guru) and Yudhishthira It is part of Shanti Parva of The Mahabharata.    
 21. Pandava Gita / Prapanna Gita– Collection of Various prayers offered by different devotees to the Supreme Lord (Narayana). This Gita is referred as the song of surrender. It is a collection of beautiful verses taken from different sources. These hymns described in this Gita were sung by the Pandavas. It is considered that it liberates the sinful mind for Moksha.    
     
-### List of Gitas from Srimad Bhagvatam    
+## List of Gitas from Srimad Bhagvatam    
     
 22. Gopi Gita – Sung by Gopis on separation from Sri Krishna. This Gita is the highest kind of devotion to the supreme Lord. It is part of The Srimad Bhagavatam.    
 23. Venu Gita – It contains the confidential talks of the Gopis in their deep emotional turmoil upon hearing the sound of Sri Krishna’s flute (Venu). It is part of The Srimad Bhagavatam.    
@@ -62,7 +62,7 @@ Gita or Geeta means song. In the wisdom traditions, these are the songs of knowl
 30. Yugala Gita – The Gopis’ description of the glory of Sri Krishna. It is described in The Srimad Bhagavatam.    
 31. Bharata Gita – Glories of the Lord and explains the pitfalls that a seeker faces if the mind is uncontrolled. A story of Bharata is narrated here. It is part of Srimad Bhagavat.    
     
-### Rama / Ramayana Based Geeta    
+## Rama / Ramayana Based Geeta    
     
 32. Rama Gita-I – Conversation between Sri Rama (Rugu) and his brother Sri Lakshmana. It expounds the Advaita-Vedanta with its different principles of Jiva, Avidya, Isvara, Maya, etc. and the process of the realization of the Brahman. It is part of Adhyatma Ramayana.    
 33. Rama Gita-II – Conversation between Sri Rama (Guru) and Lord Hanuman. It is a scripture of the Anubhava-Dvaitins and stresses upon acquirement of knowledge, and not retirement from the world. It is part of Tattva Sarayana.    
@@ -72,7 +72,7 @@ Gita or Geeta means song. In the wisdom traditions, these are the songs of knowl
 37. Siddha Gita – Song is sung by many Siddhas near the palace of King Janaka. Its gist is that – the expansion of consciousness into infinity is effected through self-control and the negation of the subject-object relationship. It is part of Upashanti-Prakarana of the Yoga-Vasishtha.    
 38. Vasishtha Gita – Instruction of Sage Vasishtha to Sri Rama on the eternal truths. It is described in the Nirvana-Prakarana of Yoga-Vasishtha.    
     
-### Other Purana Based Geeta    
+## Other Purana Based Geeta    
     
 39. Guru Gita – Conversation between Lord Shiva (Guru) and Goddess Parvati. It stresses the need for and the importance of seeking a Spiritual Teacher (Guru) and extols his greatness. It is part of Skanda Purana.    
 40. Janaka Gita – A self-dialogue of King Janaka after he hears the song sung by the Siddhas near his palace.    
@@ -93,7 +93,7 @@ Gita or Geeta means song. In the wisdom traditions, these are the songs of knowl
 55. Rudra Gita – Hymns in praise of Lord Vishnu expounded by Rudra for Moksha. It describes the identity of Brahma, Vishnu, and Shiva as given by Rudra including a hymn on Vishnu. It is part of Varaha Purana.    
 56. Uttara Gita – It is a supplement to the Bhagavad Gita. It is part of Brahmanda Purana.    
     
-### Recent Geeta / Geeta of Modern Age    
+## Recent Geeta / Geeta of Modern Age    
     
 57. Vallabh Gita – It is also referred to as Shodasha Granthas (collection of sixteen works of Shri Vallabhacharya). He taught his disciples to seek the true goal of life, which is moksha.    
 58. Moksha Gita – Song of liberation written by Swami Sivananda.    

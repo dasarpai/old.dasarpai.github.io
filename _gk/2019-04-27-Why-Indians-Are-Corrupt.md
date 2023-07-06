@@ -16,16 +16,14 @@ author_profile: true
 share: true 
 ---
 
-![Why Indians Are Corrupt](/assets/gk/7002-Why-Indians-Are-Corrupt.jpg)
-
-## Why Indians Are Corrupt
-
+![Why Indians Are Corrupt](/assets/gk/7002-Why-Indians-Are-Corrupt.jpg)    
     
-### A Rebuttal "Why Indians are corrupt?"    
+# Why Indians Are Corrupt      
+## A Rebuttal "Why Indians are corrupt?"    
     
-Title of the Original Article    
+**Title & Text of the Original Article**    
     
-### Why Indians are corrupt? What’s wrong with their attitude?**    
+## Why Indians are corrupt? What’s wrong with their attitude?**    
     
 **Points raised in the original articles are numbered below and their rebuttal is available under them.**    
     
@@ -235,7 +233,7 @@ When some truth is mixed with opinion and fed by a lazy, irrational mind then th
     
 Finally those cultures, societies, and governments like Switzerland, New Zealand, USA, etc which put Indian culture in a bad light and think Indians are corrupt, why they allow corrupt Indians to live in their country and take deposit of their money in their country? Are you any less party in corruption? If any Indian is corrupt in your country then it is because you have a tax haven for them. Just because you are a more wealthy nation you do not have the authority and the right to tag Indian culture as a corrupt culture!    
     
-### Original Article which I received on my Whatsapp    
+## Original Article which I received on my Whatsapp    
     
 ** Start of Message **    
 Why Indians r corrupt? What’s wrong with their attitude?    

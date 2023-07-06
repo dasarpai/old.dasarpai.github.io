@@ -8,11 +8,13 @@ tags: [Education, Law]
         
 categories:        
 header:        
-    teaser: /assets/images/gk/7006-Constitution-of-India-Summary.jpg        
+    teaser: "/assets/images/gk/7006-Constitution-of-India-Summary.jpg"        
 author: Hari Thapliyaal        
 layout: single        
 excerpt:        
-author_profile: true        
+author_profile: true   
+toc: true  
+toc_sticky: true     
 share: true        
 ---        
         

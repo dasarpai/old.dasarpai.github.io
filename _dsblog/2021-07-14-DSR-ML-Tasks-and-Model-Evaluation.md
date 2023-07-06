@@ -54,6 +54,13 @@ It's important to note that the SuperGLUE benchmark, while providing more challe
 - https://super.gluebenchmark.com/leaderboard
 - https://paperswithcode.com/dataset/superglue
 
+## What is BLEU Benchmark?
+The BLEU (Bilingual Evaluation Understudy) score and the GLUE (General Language Understanding Evaluation) score are two different evaluation metrics used in the field of natural language processing (NLP), but they serve different purposes and evaluate different aspects of NLP models.
+
+BLEU is a metric commonly used to evaluate the **quality of machine translation** systems. It measures the similarity between the machine-generated translations and reference translations provided by human translators. BLEU score is **based on n-gram precision**, where it compares the n-gram sequences (typically up to 4-grams) between the machine-generated output and the reference translations. It assigns a score between 0 and 1, with a higher score indicating better translation quality.
+
+GLUE is a benchmark evaluation metric designed to evaluate the performance of general language understanding models. It consists of a **collection of diverse NLP tasks, including question answering, sentiment analysis, text classification, translation, and others. The GLUE score measures the average performance of a model across these tasks. Models are trained on a subset of the GLUE benchmark tasks and evaluated based on their performance on the remaining tasks. The higher the GLUE score, the better the overall performance of the model on various NLP tasks.
+
 ## What is XTREME Benchmark?
 The XTREME (Cross-lingual TRansfer Evaluation of Multilingual Encoders) benchmark is a comprehensive evaluation framework **introduced in 2020** for assessing the performance of multilingual models in natural language understanding (NLU) tasks across multiple languages. It aims to evaluate the generalization and transfer capabilities of models in cross-lingual settings.
 

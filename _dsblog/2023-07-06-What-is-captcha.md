@@ -13,7 +13,7 @@ excerpt_separator: "<!--more-->"
 excerpt:  
 layout: single  
 author_profile: true  
-toc: true  
+toc: false  
 toc_sticky: true
 ---
 
@@ -32,7 +32,7 @@ CAPTCHAs can take various forms, such as
 - Audio challenges: What is said,
 - Audio challenges: What is not said,
 - Audio challenges: whose voice is that.
-- audio challenges: Is it bird, child or animal voice.
+- Audio challenges: Is it bird, child or animal voice.
 - Identify image spoken
 - Image Challenge: Identify image for which text is typed in disorted form
 - Image Challenge: Locate an object in an image 

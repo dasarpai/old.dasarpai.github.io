@@ -17,11 +17,11 @@ share: true
 ---   
    
 ![Classical Literature](/assets/images/gk/7003-Classical-Literature.jpg)   
-
+   
 # Classical Literature  
-
+    
 ## What is Classical Literature?
-
+    
 The main body of classical Sanskrit literature consists of the sacred Hindu collections of poems and hymns known as the Vedas; the commentaries on the Vedas in the Brahmanas, the Aranyakas, and the Upanishads; epic poetry and wisdom literature; and poetry in a style called kavya. In the western sense, the term, usually spelled “classical,” is also used for the literature of any language in a period notable for the excellence and enduring quality of its writers' works. My education and upbringing have been in Indian Government schools and Indian villages, therefore, my practical exposure and a natural interest in Bhartiya Classical Literature is much more compared to Western, Arabic, and Chinese literature. During my study, I came across many ebooks and I thought to keep these with me in some shared drive for a quick reference. If you are looking for any of these books you can access them from the link mentioned below. It is a collection of approx 600 books (I keep adding and removing books in this eLibrary). It is approx 7 GB in size.
 
 Below is a list of literature from Hinduism, Buddhism, Sikhism, Judaism, Christianity, and Islam. This also includes the work of individuals and organizations, Philosophers, Social workers, and Reformers like Swami Vivekananda, Maharshi Arvind, Rumi, Shankar Matham, Ramkrishna Mission, Arya Samaj, Rabindranath Tagore, Osho, Swami Shivananda, Gayatri Parivar and Swami Ramdev. 
