@@ -37,10 +37,12 @@ import openai
 
 ## Data Preperation 
 
-### Guidelines : 
-- https://platform.openai.com/docs/guides/fine-tuning/preparing-your-dataset
+- [Guidelines](https://platform.openai.com/docs/guides/fine-tuning/preparing-your-dataset)
 
 ### Create train and validation dataset from your jsonl file:
+Your data must be a JSONL document, where each line is a prompt-completion pair corresponding to a training example.
+
+Command below will create train and validation dataset from the JSONL file.
 ```python
 openai tools fine_tunes.prepare_data -f <LOCAL_FILE>
 ```
@@ -58,19 +60,19 @@ openai tools fine_tunes.prepare_data -f <LOCAL_FILE>
 - To get class log probabilities you can specify logprobs=5 (for 5 classes) when using your model
 Ensure that the dataset used for finetuning is very similar in structure and type of task as what the model will be used for
 
-#### example1
+#### Prompt Example1
 - {"prompt":"Company: BHFF insurance\nProduct: allround insurance\nAd:One stop shop for all your insurance needs!\nSupported:", "completion":" yes"}   
 - {"prompt":"Company: Loft conversion specialists\nProduct: -\nAd:Straight teeth in weeks!\nSupported:", "completion":" no"}
 
-#### example2
+#### Prompt Example2
 - {"prompt":"Overjoyed with the new iPhone! ->", "completion":" positive"}   
 - {"prompt":"@lakers disappoint for a third straight night https://t.co/38EFe43 ->", "completion":" negative"}
 
-#### example3 
+#### Prompt Example3 
 - {"prompt":"Subject: <email_subject>\nFrom:<customer_name>\nDate:<date>\nContent:<email_body>\n\n###\n\n", "completion":" <numerical_category>"}   
 - {"prompt":"Subject: Update my address\nFrom:Joe Doe\nTo:support@ourcompany.com\nDate:2021-06-03\nContent:Hi,\nI would like to update my billing address to match my delivery address.\n\nPlease let me know once done.\n\nThanks,\nJoe\n\n###\n\n", "completion":" 4"}
 
-### Prompt Design for Conditional generation
+### Prompt Design for Conditional Generation
 Conditional generation is a problem where the content needs to be generated given some kind of input. This includes paraphrasing, summarizing, entity extraction, product description writing given specifications, chatbots and many others. For this type of problem we recommend:
 
 - Use a separator at the end of the prompt, e.g. \n\n###\n\n. Remember to also append this separator when you eventually make requests to your model.
@@ -82,29 +84,29 @@ Conditional generation is a problem where the content needs to be generated give
 - Ensure that the dataset used for finetuning is very similar in structure and type of task as what the model will be used for
 - Using Lower learning rate and only 1-2 epochs tends to work better for these use cases
 
-#### example1
+#### Prompt Example1
 - {"prompt":"<Product Name>\n<Wikipedia description>\n\n###\n\n", "completion":" <engaging ad> END"}   
 - {"prompt":"Samsung Galaxy Feel\nThe Samsung Galaxy Feel is an Android smartphone developed by Samsung Electronics exclusively for the Japanese market. The phone was released in June 2017 and was sold by NTT Docomo. It runs on Android 7.0 (Nougat), has a 4.7 inch display, and a 3000 mAh battery.\nSoftware\nSamsung Galaxy Feel runs on Android 7.0 (Nougat), but can be later updated to Android 8.0 (Oreo).\nHardware\nSamsung Galaxy Feel has a 4.7 inch Super AMOLED HD display, 16 MP back facing and 5 MP front facing cameras. It has a 3000 mAh battery, a 1.6 GHz Octa-Core ARM Cortex-A53 CPU, and an ARM Mali-T830 MP1 700 MHz GPU. It comes with 32GB of internal storage, expandable to 256GB via microSD. Aside from its software and hardware specifications, Samsung also introduced a unique a hole in the phone's shell to accommodate the Japanese perceived penchant for personalizing their mobile phones. The Galaxy Feel's battery was also touted as a major selling point since the market favors handsets with longer battery life. The device is also waterproof and supports 1seg digital broadcasts using an antenna that is sold separately.\n\n###\n\n", "completion":"Looking for a smartphone that can do it all? Look no further than Samsung Galaxy Feel! With a slim and sleek design, our latest smartphone features high-quality picture and video capabilities, as well as an award winning battery life. END"}
 
-#### example2
+#### Prompt Example2
 - {"prompt":"<any text, for example news article>\n\n###\n\n", "completion":" <list of entities, separated by a newline> END"}
 - {"prompt":"Portugal will be removed from the UK's green travel list from Tuesday, amid rising coronavirus cases and concern over a \"Nepal mutation of the so-called Indian variant\". It will join the amber list, meaning holidaymakers should not visit and returnees must isolate for 10 days...\n\n###\n\n", "completion":" Portugal\nUK\nNepal mutation\nIndian variant END"}
 
-#### example3
+#### Prompt Example3
 - {"prompt":"Summary: <summary of the interaction so far>\n\nSpecific information:<for example order details in natural language>\n\n###\n\nCustomer: <message1>\nAgent: <response1>\nCustomer: <message2>\nAgent:", "completion":" <response2>\n"}
 - {"prompt":"Summary: <summary of the interaction so far>\n\nSpecific information:<for example order details in natural language>\n\n###\n\nCustomer: <message1>\nAgent: <response1>\nCustomer: <message2>\nAgent: <response2>\nCustomer: <message3>\nAgent:", "completion":" <response3>\n"}
 
-#### example4 
+#### Prompt Example4 
 - {"prompt":"Item=handbag, Color=army_green, price=$99, size=S->", "completion":" This stylish small green handbag will add a unique touch to your look, without costing you a fortune."}
 - {"prompt":"Item is a handbag. Colour is army green. Price is midrange. Size is small.->", "completion":" This stylish small green handbag will add a unique touch to your look, without costing you a fortune."}
 
 ## Customize your model name 
-- Customize your model or Fine-tune the fine-tuned model
+Whether you want to create a custom model for the NLP task in your hand or you want to further refine the existing customized model. You can use the command below.
 
-## Create Finetuned model 
 ```python
 !openai api fine_tunes.create -t test.jsonl -m ada --suffix "custom model name"
 ```
+"custom model name" can be "ada", "babbage", "curie", or "davinci". If you already have created a customized model like "ft-some-customized-model" then you can name that instead of davinci, ada etc.
 
 ## Analyse Finetuned model 
 ```python
@@ -135,8 +137,10 @@ training_loss: loss on the training batch
 
 ## Create Embedding 
 
-### example1
+You can use OpenAI api to create embedding. For this you can use "ada" model.
 
+### Python Example1
+To get the the embedding of a sentence.
 ```python
 response = openai.Embedding.create(
     input="Your text string goes here",
@@ -145,7 +149,8 @@ response = openai.Embedding.create(
 embeddings = response['data'][0]['embedding']
 ```
 
-### example2 
+### Python Example2 
+To create an embedding for the entire dataset.
 
 ```python
 def get_embedding(text, model="text-embedding-ada-002"):
@@ -167,3 +172,5 @@ Usage is priced per input token, at a rate of $0.0004 per 1000 tokens, or about 
 - [Usage](https://platform.openai.com/account/usage)
 - [Rate Limits](https://platform.openai.com/account/rate-limits)
 
+## Conclusion
+Hope this quick tutorial will help you in your Prompt Engineering and model finetuning using OpenAI API.

@@ -20,6 +20,15 @@ toc_sticky: true
 ![What is GAN Architecture?](/assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg)    
    
 # What is GAN Architecture?  
+Generative Adversarial Networks (GANs) are a powerful class of neural networks that are used for unsupervised learning. It was developed and introduced by Ian J. Goodfellow in 2014. It is a type of artificial intelligence (AI) model that consists of two neural networks: a generator and a discriminator. GANs are used for generative tasks, such as creating realistic images, videos, or even audio.
+
+The generator network in a GAN generates synthetic data, such as images, based on random input or noise. Its goal is to generate samples that resemble the real data it was trained on. Initially, the generator produces low-quality samples, but as it learns, it improves its output.
+
+The discriminator network acts as a judge and tries to distinguish between real and generated samples. It is trained on real data from a specific domain and learns to classify whether an input is real or fake. The discriminator provides feedback to the generator by indicating how well its generated samples resemble the real data. The generator adjusts its parameters weights based on this feedback, aiming to fool the discriminator by generating increasingly realistic samples.
+
+The generator and discriminator are trained together in a competitive manner, where they both learn from each other. The generator learns to produce better samples, while the discriminator learns to become more accurate in distinguishing between real and fake data. This adversarial process continues until the generator becomes proficient at generating highly realistic samples that can fool the discriminator.
+
+GANs have found applications in various domains, including computer vision, image synthesis, style transfer, text-to-image synthesis, and more. They have demonstrated impressive capabilities in generating highly realistic and creative content, making them a popular research area in AI.
    
 ## GAN Paper Summary 
 
