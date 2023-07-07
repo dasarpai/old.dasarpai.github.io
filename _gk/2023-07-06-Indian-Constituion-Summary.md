@@ -34,13 +34,13 @@ LIBERTY of thought, expression, belief, faith and worship;
 EQUALITY of status and of opportunity; and to promote among them all    
 FRATERNITY assuring the dignity of the individual and the unity and integrity of the nation;    
 IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.    
-## PART I: THE UNION AND ITS TERRITORY    
+## PART 1: THE UNION AND ITS TERRITORY    
  1 Name and territory of the Union.    
  2 Admission or establishment of new States.    
  2A [Repealed.]    
  3 Formation of new States and alteration of areas, boundaries or names of existing States.    
  4 Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters.    
-## PART II: CITIZENSHIP    
+## PART 2: CITIZENSHIP    
  5 Citizenship at the commencement of the Constitution.    
  6 Rights of citizenship of certain persons who have migrated to India from Pakistan.    
  7 Rights of citizenship of certain migrants to Pakistan.    
@@ -48,7 +48,8 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
  9 Persons voluntarily acquiring citizenship of a foreign State not to be citizens.    
  10 Continuance of the rights of citizenship.    
  11 Parliament to regulate the right of citizenship by law.    
-## PART III : FUNDAMENTAL RIGHTS    
+## PART 3 : FUNDAMENTAL RIGHTS    
+
 #### General    
  12 Definition.    
  13 Laws inconsistent with or in derogation of the fundamental rights.    
@@ -87,7 +88,7 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
  33 Power of Parliament to modify the rights conferred by this Part in their application to Forces, etc.    
  34 Restriction on rights conferred by this Part while martial law is in force in any area.    
  35 Legislation to give effect to the provisions of this Part.    
-## PART IV: DIRECTIVE PRINCIPLES OF STATE POLICY    
+## PART 4: DIRECTIVE PRINCIPLES OF STATE POLICY    
  36 Definition.    
  37 Application of the principles contained in this Part.    
  38 State to secure a social order for the promotion of the welfare of the people.    
@@ -108,10 +109,12 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
  49 Protection of monuments and places and objects of national importance.    
  50 Separation of judiciary from the executive.    
  51 Promotion of international peace and security.    
-## PART IVA: FUNDAMENTAL DUTIES    
+## PART 4A: FUNDAMENTAL DUTIES    
  51A Fundamental duties.    
-## PART V: THE UNION    
-### CHAPTER I: THE EXECUTIVE    
+## PART 5: THE UNION    
+
+### CHAPTER 1: THE EXECUTIVE    
+
 #### The President and Vice-President    
  52 The President of India.    
  53 The executive power of the Union.    
@@ -143,7 +146,8 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
 #### Conduct of Government Business    
  77 Conduct of business of the Government of India.    
  78 Duties of Prime Minister as respects the furnishing of information to the President, etc.    
-### CHAPTER II: PARLIAMENT    
+### CHAPTER 2: PARLIAMENT    
+
 #### General    
  79 Constitution of Parliament.    
  80 Composition of the Council of States.    
@@ -196,9 +200,9 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
  120 Language to be used in Parliament.    
  121 Restriction on discussion in Parliament.    
  122 Courts not to inquire into proceedings of Parliament.    
-### CHAPTER III: LEGISLATIVE POWERS OF THE PRESIDENT    
+### CHAPTER 3: LEGISLATIVE POWERS OF THE PRESIDENT    
  123 Power of President to promulgate Ordinances during recess of Parliament.    
-### CHAPTER IV: THE UNION JUDICIARY    
+### CHAPTER 4: THE UNION JUDICIARY    
  124 Establishment and constitution of Supreme Court.    
  124A National Judicial Appointments Commission. (Declared unconstitutional by the Supreme Court, however not repealed by the Parliament)    
  124B Functions of Commission.    
@@ -230,12 +234,14 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
  145 Rules of Court, etc.    
  146 Officers and servants and the expenses of the Supreme Court.    
  147 Interpretation.    
-### CHAPTER V: COMPTROLLER AND AUDITOR-GENERAL OF INDIA    
+### CHAPTER 5: COMPTROLLER AND AUDITOR-GENERAL OF INDIA    
  148 Comptroller and Auditor-General of India.    
  149 Duties and powers of the Comptroller and Auditor-General.    
  150 Form of accounts of the Union and of the States.    
  151 Audit reports.    
-## PART VI: THE STATES    
+
+## PART 6: THE STATES  
+  
 ### CHAPTER I: GENERAL    
  152 Definition.    
 ### CHAPTER II: THE EXECUTIVE    
@@ -343,9 +349,9 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
  235 Control over subordinate courts.    
  236 Interpretation.    
  237 Application of the provisions of this Chapter to certain class or classes of magistrates.    
-## PART VII: THE STATES IN PART B OF THE FIRST SCHEDULE    
+## PART 7: THE STATES IN PART B OF THE FIRST SCHEDULE    
  238 [Repealed.]    
-## PART VIII: THE UNION TERRITORIES    
+## PART 8: THE UNION TERRITORIES    
  239 Administration of Union territories.    
  239A Creation of local Legislatures or Council of Ministers or both for certain Union territories.    
  239AA Special provisions with respect to Delhi.    
@@ -354,7 +360,7 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
  240 Power of President to make regulations for certain Union territories.    
  241 High Courts for Union territories.    
  242 [Repealed.]    
-## PART IX: THE PANCHAYATS    
+## PART 9: THE PANCHAYATS    
  243 Definitions.    
  243A Gram Sabha.    
  243B Constitution of Panchayats.    
@@ -371,7 +377,7 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
  243M Part not to apply to certain areas.    
  243N Continuance of existing laws and Panchayats.    
  243-O Bar to interference by courts in electoral matters.    
-## PART IXA: THE MUNICIPALITIES    
+## PART 9A: THE MUNICIPALITIES    
  243P Definitions.    
  243Q Constitution of Municipalities.    
  243R Composition of Municipalities.    
@@ -390,7 +396,7 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
  243ZE Committee for Metropolitan planning.    
  243ZF Continuance of existing laws and Municipalities.    
  243ZG Bar to interference by Courts in electoral matters.    
-## PART IXB: THE CO-OPERATIVE SOCIETIES    
+## PART 9B: THE CO-OPERATIVE SOCIETIES    
  243ZH Definitions    
  243ZI Incorporation of co-operative societies    
  243ZJ Number and term of members of the board and its office bearers.    
@@ -404,10 +410,10 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
  243ZR Application to multi-state co-operative societies.    
  243ZS Application to Union Territories.    
  243ZT Continuance of existing laws.    
-## PART X: THE SCHEDULED AND TRIBAL AREAS    
+## PART 10: THE SCHEDULED AND TRIBAL AREAS    
  244 Administration of Scheduled Areas and Tribal Areas.    
  244A Formation of an autonomous State comprising certain tribal areas in Assam and creation of local Legislature or Council of Ministers or both therefor.    
-## PART XI: RELATIONS BETWEEN THE UNION AND THE STATES    
+## PART 11: RELATIONS BETWEEN THE UNION AND THE STATES    
 ### CHAPTER I: LEGISLATIVE RELATIONS    
 #### Distribution of Legislative Powers    
  245 Extent of laws made by Parliament and by the Legislatures of States.    
@@ -436,8 +442,8 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
  262 Adjudication of disputes relating to waters of inter-State rivers or river valleys.    
 #### Co-ordination between States    
  263 Provisions with respect to an inter-State Council.    
-## PART XII: FINANCE, PROPERTY, CONTRACTS AND SUITS    
-### CHAPTER I: FINANCE    
+## PART 12: FINANCE, PROPERTY, CONTRACTS AND SUITS    
+### CHAPTER 1: FINANCE    
 #### General    
  264 Interpretation.    
  265 Taxes not to be imposed save by authority of law.    
@@ -473,10 +479,10 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
  290 Adjustment in respect of certain expenses and pensions.    
  290A Annual payment to certain Devaswom Funds.    
  291 [Repealed.]    
-### CHAPTER II: BORROWING    
+### CHAPTER 2: BORROWING    
  292 Borrowing by the Government of India.    
  293 Borrowing by States.    
-### CHAPTER III: PROPERTY, CONTRACTS, RIGHTS, LIABILITIES, OBLIGATIONS AND SUITS    
+### CHAPTER 3: PROPERTY, CONTRACTS, RIGHTS, LIABILITIES, OBLIGATIONS AND SUITS    
  294 Succession to property, assets, rights, liabilities and obligations in certain cases.    
  295 Succession to property, assets, rights, liabilities and obligations in other cases.    
  296 Property accruing by escheat or laps or as bona vacantia.    
@@ -484,13 +490,136 @@ IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY AD
  298 Power to carry on trade, etc.    
  299 Contracts.    
  300 Suits and proceedings.    
-### CHAPTER IV: RIGHT TO PROPERTY    
+### CHAPTER 4: RIGHT TO PROPERTY    
  300A Persons not to be deprived of property save by authority of law.    
-## PART XIII: TRADE, COMMERCE AND INTERCOURSE WITHIN THE TERRITORY OF INDIA    
+## PART 13: TRADE, COMMERCE AND INTERCOURSE WITHIN THE TERRITORY OF INDIA    
  301 Freedom of trade, commerce and intercourse.    
  302 Power of Parliament to impose restrictions on trade, commerce and intercourse.    
  303 Restrictions on the legislative powers of the Union and of the States with regard to trade and commerce.    
  304 Restrictions on trade, commerce and intercourse among States.    
  305 Saving of existing laws and laws providing for State monopolies.    
  306 [Repealed.]    
- 307 Appointment of authority for carrying out the purposes of articles 301 to 304.       
+ 307 Appointment of authority for carrying out the purposes of articles 301 to 304.    
+## Part 14: Services under the Union and the States    
+ 308: Interpretation    
+ 309: Recruitment and conditions of service of persons serving the Union or a State    
+ 310: Tenure of office of persons serving the Union or a State    
+ 311: Dismissal, removal or reduction in rank of persons employed in civil capacities under the Union or a State    
+ 312: All India Services    
+ 313: Transitional provisions    
+ 314: Special provision as to certain classes    
+ 315: Public Service Commissions for the Union and for the States    
+ 316: Appointment and term of office of members    
+ 317: Removal and suspension of a member of a Public Service Commission    
+ 318: Power to make regulations as to conditions of service of members and staff of the Commission    
+ 319: Prohibition as to the holding of offices by members of Commission on ceasing to be such members    
+ 320: Functions of Public Service Commissions    
+ 321: Power to extend functions of Public Service Commissions    
+ 322: Expenses of Public Service Commissions    
+## Part 14A: Tribunals    
+ 323: Reports of Public Service Commissions    
+ 323A: Administrative tribunals    
+ 323B: Tribunals for other matters    
+## Part 15: Elections    
+ 324: Superintendence, direction, and control of elections to be vested in an Election Commission    
+ 325: No person to be ineligible for inclusion in, or to claim to be included in a special, electoral roll on grounds of religion, race, caste, or sex    
+ 326: Elections to the House of the People and to the Legislative Assemblies of States to be on the basis of adult suffrage    
+ 327: Power of Parliament to make provision with respect to elections to Legislatures    
+ 328: Power of Legislature of a State to make provision with respect to elections to such Legislature    
+ 329: Bar to interference by courts in electoral matters    
+## Part 16: Special Provisions Relating to Certain Classes    
+ 330: Reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People    
+ 331: Representation of the Anglo-Indian community in the House of the People    
+ 332: Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies of the States    
+ 333: Representation of the Anglo-Indian community in the Legislative Assemblies of the States    
+ 334: Reservation of seats and special representation to cease after certain period    
+ 335: Claims of Scheduled Castes and Scheduled Tribes to services and posts    
+ 336: Special provision for Anglo-Indian community in certain services    
+ 337: Special provision with respect to educational grants for the benefit of Anglo-Indian community    
+ 338: National Commission for Scheduled Castes    
+ 339: Control of the Union over the administration of Scheduled Areas and the welfare of Scheduled Tribes    
+ 340: Appointment of a Commission to investigate the conditions of backward classes    
+ 341: Scheduled Castes    
+ 342: Scheduled Tribes    
+## Part 17: Official Language    
+ 343: Official language of the Union    
+ 344: Commission and Committee of Parliament on official language    
+ 345: Official language or languages of a State    
+ 346: Official language for communication between one State and another or between a State and the Union    
+ 347: Special provision relating to language spoken by a section of the population of a State    
+ 348: Language to be used in the Supreme Court and in the High Courts and for Acts, Bills, etc.    
+ 349: Special procedure for enactment of certain laws relating to language    
+ 350: Language to be used in representations for redress of grievances    
+ 350A: Facilities for instruction in mother-tongue at primary stage    
+ 350B: Special Officer for linguistic minorities    
+ 351: Directive for the development of the Hindi language    
+## Part 18: Emergency Provisions    
+ 352: Proclamation of Emergency    
+ 353: Effect of Proclamation of Emergency    
+ 354: Application of provisions relating to distribution of revenues while a Proclamation of Emergency is in operation    
+ 355: Duty of the Union to protect States against external aggression and internal disturbance    
+ 356: Provisions in case of failure of constitutional machinery in States    
+ 357: Exercise of legislative powers under Proclamation issued under 356    
+ 358: Suspension of provisions of 19 during emergencies    
+ 359: Suspension of the enforcement of the rights conferred by Part III during emergencies    
+ 360: Provisions as to financial emergency    
+## Part 19: Miscellaneous    
+ 361: Protection of President and Governors and Rajpramukhs    
+ 361A: Protection of publication of proceedings of Parliament and State Legislatures    
+ 361B: Disqualification for appointment on remunerative political post    
+ 362: Rights, authority, privileges, and immunities of the Houses of Parliament and of the Members and Committees thereof, and of Members of Parliament in respect of speeches and votes    
+ 363: Bar to interference by courts in disputes arising out of certain treaties, agreements, etc.    
+ 363A: Recognition granted to Rulers of Indian States to cease and privy purses to be abolished    
+ 364: Special provision as to duration of Andhra Pradesh Legislative Assembly    
+ 365: Effect of failure to comply with, or to give effect to, directions given by the Union    
+ 366: Definitions    
+ 366A: Special provision for State of Gujarat    
+ 366B: Special provision for State of Maharashtra    
+ 366C: Special provision for States of Nagaland and Meghalaya    
+ 367: Interpretation    
+## Part 20: Amendment of the Constitution    
+ 368: Power of Parliament to amend the Constitution and procedure thereof    
+## Part 21: Temporary, Transitional, and Special Provisions    
+ 369: Temporary power to Parliament to make laws with respect to certain matters in the State List as if they were matters in the Concurrent List    
+ 370: Temporary provisions with respect to the State of Jammu and Kashmir    
+ 371-I: Special provision with respect to the State of Goa    
+ 371: Special provisions with respect to the States of Maharashtra and Gujarat    
+ 371A: Special provision with respect to the State of Nagaland    
+ 371B: Special provision with respect to the State of Assam    
+ 371C: Special provision with respect to the State of Manipur    
+ 371D: Special provisions with respect to the State of Andhra Pradesh    
+ 371E: Establishment of Central University in Andhra Pradesh    
+ 371F: Special provisions with respect to the State of Sikkim    
+ 371G: Special provision with respect to the State of Mizoram    
+ 371H: Special provision with respect to the State of Arunachal Pradesh    
+ 371J: Special status for Hyderabad-Karnataka region in Karnataka    
+ 371K: Special provision with respect to the State of Himachal Pradesh    
+ 371L: Special provision with respect to the State of Uttarakhand    
+ 371M: Establishment of Legislative Assembly for Union territory of Puducherry    
+ 372: Continuance in force of existing laws and their adaptation    
+ 372A: Power of the President to adapt laws    
+ 373: Power of President to make order in relation to Public Services    
+ 374: Provisions as to Judges of the Federal Court and proceedings pending in the Federal Court or before His Majesty in Council    
+ 375: Courts, authorities, and officers to continue to function subject to the provisions of the Constitution    
+ 376: Provisions as to Judges of the Supreme Court    
+ 377: Provisions as to Comptroller and Auditor-General of India    
+ 378: Provisions as to Public Service Commissions    
+ 379: Removal or suspension of a member of a Public Service Commission    
+ 379A: Special provision relating to language spoken by a section of the population of a State    
+ 380: Power of Governor to grant pardons, etc., and to suspend, remit or commute sentences in certain cases    
+ 381: Power of President to consult Supreme Court    
+ 382: Power of President to make rules as to procedure    
+ 383: Recommendations of the Finance Commission    
+ 384: Continuance in force of existing laws    
+ 385: States to have powers to make laws as to taxes on professions, trades, etc.    
+ 386: Restrictions as to imposition of tax on the sale or purchase of goods    
+ 387: Interpretation    
+ 388: Continuance of existing laws and their adaptation    
+ 389: Oath or affirmation by judges of the Supreme Court and Comptroller and Auditor-General    
+ 390: Duration of Parliament    
+ 391: Bar to interference by courts in disputes arising out of certain treaties, agreements, etc.    
+ 392: Power of the President to give effect to recommendations of Public Service Commission    
+## Part 22: Short Title, Commencement, Authoritative Text in Hindi, and Repeals    
+ 393: Short title    
+ 394: Repeals    
+ 395: Repeals and savings         
