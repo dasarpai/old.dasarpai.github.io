@@ -22,24 +22,25 @@ toc_sticky: true
 
 # Constitution of India : Summary
 
+## Introduction
 Constitution of India contains 395 articles in 22 parts. Additional articles and parts are inserted later through various amendments. There are also 12 schedules in the Indian Constitution.
 
-Titles are mentioned for all articles from 1-395, separated under various parts and chapters. Preamble and Repealed articles or parts are specially mentioned.
+Titles are mentioned for all articles from 1-395, separated under various parts and chapters. Preamble and Repealed articles or parts are specially mentioned. Indian constitution starts with "Preamble". 
 
-### PREAMBLE    
-### WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN, SOCIALIST, SECULAR, DEMOCRATIC, REPUBLIC and to secure to all its citizens:    
-### JUSTICE, social, economic and political;    
-### LIBERTY of thought, expression, belief, faith and worship;    
-### EQUALITY of status and of opportunity; and to promote among them all    
-### FRATERNITY assuring the dignity of the individual and the unity and integrity of the nation;    
-### IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.    
-# PART I: THE UNION AND ITS TERRITORY    
+## PREAMBLE    
+WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN, SOCIALIST, SECULAR, DEMOCRATIC, REPUBLIC and to secure to all its citizens:    
+JUSTICE, social, economic and political;    
+LIBERTY of thought, expression, belief, faith and worship;    
+EQUALITY of status and of opportunity; and to promote among them all    
+FRATERNITY assuring the dignity of the individual and the unity and integrity of the nation;    
+IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.    
+## PART I: THE UNION AND ITS TERRITORY    
  1 Name and territory of the Union.    
  2 Admission or establishment of new States.    
  2A [Repealed.]    
  3 Formation of new States and alteration of areas, boundaries or names of existing States.    
  4 Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters.    
-# PART II: CITIZENSHIP    
+## PART II: CITIZENSHIP    
  5 Citizenship at the commencement of the Constitution.    
  6 Rights of citizenship of certain persons who have migrated to India from Pakistan.    
  7 Rights of citizenship of certain migrants to Pakistan.    
@@ -47,47 +48,46 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  9 Persons voluntarily acquiring citizenship of a foreign State not to be citizens.    
  10 Continuance of the rights of citizenship.    
  11 Parliament to regulate the right of citizenship by law.    
-     
-# PART III : FUNDAMENTAL RIGHTS    
-### General    
+## PART III : FUNDAMENTAL RIGHTS    
+#### General    
  12 Definition.    
  13 Laws inconsistent with or in derogation of the fundamental rights.    
-### Right to Equality    
+#### Right to Equality    
  14 Equality before law.    
  15 Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.    
  16 Equality of opportunity in matters of public employment.    
  17 Abolition of Untouchability.    
  18 Abolition of titles.    
-### Right to Freedom    
+#### Right to Freedom    
  19 Protection of certain rights regarding freedom of speech, etc.    
  20 Protection in respect of conviction for offences.    
  21 Protection of life and personal liberty.    
  21A Right to education    
  22 Protection against arrest and detention in certain cases.    
-### Right against Exploitation    
+#### Right against Exploitation    
  23 Prohibition of traffic in human beings and forced labour.    
  24 Prohibition of employment of children in factories, etc.    
-### Right to Freedom of Religion    
+#### Right to Freedom of Religion    
  25 Freedom of conscience and free profession, practice and propagation of religion.    
  26 Freedom to manage religious affairs.    
  27 Freedom as to payment of taxes for promotion of any particular religion.    
  28 Freedom as to attendance at religious instruction or religious worship in certain educational institutions.    
-### Cultural and Educational Rights    
+#### Cultural and Educational Rights    
  29 Protection of interests of minorities.    
  30 Right of minorities to establish and administer educational institutions.    
  31 [Repealed.]    
-### Saving of Certain Laws    
+#### Saving of Certain Laws    
  31A Saving of Laws providing for the acquisition of estates, etc.    
  31B Validation of certain Acts and Regulations.    
  31C Saving of laws giving effect to certain directive principles.    
  31D [Repealed.]    
-### Right to Constitutional Remedies    
+#### Right to Constitutional Remedies    
  32 Remedies for enforcement of rights conferred by this Part.    
  32A [Repealed.]    
  33 Power of Parliament to modify the rights conferred by this Part in their application to Forces, etc.    
  34 Restriction on rights conferred by this Part while martial law is in force in any area.    
  35 Legislation to give effect to the provisions of this Part.    
-# PART IV: DIRECTIVE PRINCIPLES OF STATE POLICY    
+## PART IV: DIRECTIVE PRINCIPLES OF STATE POLICY    
  36 Definition.    
  37 Application of the principles contained in this Part.    
  38 State to secure a social order for the promotion of the welfare of the people.    
@@ -108,11 +108,11 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  49 Protection of monuments and places and objects of national importance.    
  50 Separation of judiciary from the executive.    
  51 Promotion of international peace and security.    
-# PART IVA: FUNDAMENTAL DUTIES    
+## PART IVA: FUNDAMENTAL DUTIES    
  51A Fundamental duties.    
-# PART V: THE UNION    
-## CHAPTER I: THE EXECUTIVE    
-### The President and Vice-President    
+## PART V: THE UNION    
+### CHAPTER I: THE EXECUTIVE    
+#### The President and Vice-President    
  52 The President of India.    
  53 The executive power of the Union.    
  54 Election of President.    
@@ -135,16 +135,16 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  71 Matters relating to, or connected with, the election of a President or Vice-President.    
  72 Power of President to grant pardons, etc., and to suspend, remit or commute sentences in certain cases.    
  73 The extent of executive power of the Union.    
-### Council of Ministers    
+#### Council of Ministers    
  74 Council of Ministers to aid and advise the President.    
  75 Other provisions as to Ministers.    
-### The Attorney-General for India    
+#### The Attorney-General for India    
  76 Attorney-General for India.    
-### Conduct of Government Business    
+#### Conduct of Government Business    
  77 Conduct of business of the Government of India.    
  78 Duties of Prime Minister as respects the furnishing of information to the President, etc.    
-## CHAPTER II: PARLIAMENT    
-### General    
+### CHAPTER II: PARLIAMENT    
+#### General    
  79 Constitution of Parliament.    
  80 Composition of the Council of States.    
  81 Composition of the House of the People.    
@@ -155,7 +155,7 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  86 Right of President to address and send messages to Houses.    
  87 Special address by the President.    
  88 Rights of Ministers and Attorney-General as respects Houses.    
-### Officers of Parliament    
+#### Officers of Parliament    
  89 The Chairman and Deputy Chairman of the Council of States.    
  90 Vacation and resignation of, and removal from, the office of Deputy Chairman.    
  91 Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman.    
@@ -166,39 +166,39 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  96 The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is under consideration.    
  97 Salaries and allowances of the Chairman and Deputy Chairman and the Speaker and Deputy Speaker.    
  98 Secretariat of Parliament.    
-### Conduct of Business    
+#### Conduct of Business    
  99 Oath or affirmation by members.    
  100 Voting in Houses, power of Houses to act notwithstanding vacancies and quorum.    
-### Disqualifications of Members    
+#### Disqualifications of Members    
  101 Vacation of seats.    
  102 Disqualifications for membership.    
  103 Decision on questions as to disqualifications of members.    
  104 Penalty for sitting and voting before making oath or affirmation under article 99 or when not qualified or when disqualified.    
-### Powers, Privileges and Immunities of Parliament and its Members    
+#### Powers, Privileges and Immunities of Parliament and its Members    
  105 Powers, privileges, etc., of the Houses of Parliament and of the members and committees thereof.    
  106 Salaries and allowances of members.    
-### Legislative Procedure    
+#### Legislative Procedure    
  107 Provisions as to introduction and passing of Bills.    
  108 Joint sitting of both Houses in certain cases.    
  109 Special procedure in respect of Money Bills.    
  110 Definition of “Money Bills”.    
  111 Assent to Bills.    
-### Procedure in Financial Matters    
+#### Procedure in Financial Matters    
  112 Annual financial statement.    
  113 Procedure in Parliament with respect to estimates.    
  114 Appropriation Bills.    
  115 Supplementary, additional or excess grants.    
  116 Votes on account, votes of credit and exceptional grants.    
  117 Special provisions as to financial Bills.    
-### Procedure Generally    
+#### Procedure Generally    
  118 Rules of procedure.    
  119 Regulation by law of procedure in Parliament in relation to financial business.    
  120 Language to be used in Parliament.    
  121 Restriction on discussion in Parliament.    
  122 Courts not to inquire into proceedings of Parliament.    
-## CHAPTER III: LEGISLATIVE POWERS OF THE PRESIDENT    
+### CHAPTER III: LEGISLATIVE POWERS OF THE PRESIDENT    
  123 Power of President to promulgate Ordinances during recess of Parliament.    
-## CHAPTER IV: THE UNION JUDICIARY    
+### CHAPTER IV: THE UNION JUDICIARY    
  124 Establishment and constitution of Supreme Court.    
  124A National Judicial Appointments Commission. (Declared unconstitutional by the Supreme Court, however not repealed by the Parliament)    
  124B Functions of Commission.    
@@ -230,19 +230,16 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  145 Rules of Court, etc.    
  146 Officers and servants and the expenses of the Supreme Court.    
  147 Interpretation.    
-     
-     
-     
-## CHAPTER V: COMPTROLLER AND AUDITOR-GENERAL OF INDIA    
+### CHAPTER V: COMPTROLLER AND AUDITOR-GENERAL OF INDIA    
  148 Comptroller and Auditor-General of India.    
  149 Duties and powers of the Comptroller and Auditor-General.    
  150 Form of accounts of the Union and of the States.    
  151 Audit reports.    
-# PART VI: THE STATES    
-## CHAPTER I: GENERAL    
+## PART VI: THE STATES    
+### CHAPTER I: GENERAL    
  152 Definition.    
-## CHAPTER II: THE EXECUTIVE    
-### The Governor    
+### CHAPTER II: THE EXECUTIVE    
+#### The Governor    
  153 Governors of States.    
  154 Executive power of State.    
  155 Appointment of Governor.    
@@ -253,16 +250,16 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  160 Discharge of the functions of the Governor in certain contingencies.    
  161 Power of Governor to grant pardons, etc., and to suspend, remit or commute sentences in certain cases.    
  162 Extent of executive power of State.    
-### Council of Ministers    
+#### Council of Ministers    
  163 Council of Ministers to aid and advise Governor.    
  164 Other provisions as to Ministers.    
-### The Advocate-General for the State    
+#### The Advocate-General for the State    
  165 Advocate-General for the State.    
-### Conduct of Government Business    
+#### Conduct of Government Business    
  166 Conduct of business of the Government of a State.    
  167 Duties of Chief Minister as respects the furnishing of information to Governor, etc.    
-## CHAPTER III: THE STATE LEGISLATURE    
-### General    
+### CHAPTER III: THE STATE LEGISLATURE    
+#### General    
  168 Constitution of Legislatures in States.    
  169 Abolition or creation of Legislative Councils in States.    
  170 Composition of the Legislative Assemblies.    
@@ -273,7 +270,7 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  175 Right of Governor to address and send messages to the House or Houses.    
  176 Special address by the Governor.    
  177 Rights of Ministers and Advocate-General as respects the Houses.    
-### Officers of the State Legislature    
+#### Officers of the State Legislature    
  178 The Speaker and Deputy Speaker of the Legislative Assembly.    
  179 Vacation and resignation of, and removal from, the offices of Speaker and Deputy Speaker.    
  180 Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker.    
@@ -284,40 +281,40 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  185 The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration.    
  186 Salaries and allowances of the Speaker and Deputy Speaker and the Chairman and Deputy Chairman.    
  187 Secretariat of State Legislature.    
-### Conduct of Business    
+#### Conduct of Business    
  188 Oath or affirmation by members.    
  189 Voting in Houses, power of Houses to act notwithstanding vacancies and quorum.    
-### Disqualifications of Members    
+#### Disqualifications of Members    
  190 Vacation of seats.    
  191 Disqualifications for membership.    
  192 Decision on questions as to disqualifications of members.    
  193 Penalty for sitting and voting before making oath or affirmation under article 188 or when not qualified or when disqualified.    
-### Powers, privileges and immunities of State Legislatures and their Members    
+#### Powers, privileges and immunities of State Legislatures and their Members    
  194 Powers, privileges, etc., of the Houses of Legislatures and of the members and committees thereof.    
  195 Salaries and allowances of members.    
-### Legislative Procedure    
+#### Legislative Procedure    
  196 Provisions as to introduction and passing of Bills.    
  197 Restriction on powers of Legislative Council as to Bills other than Money Bills.    
  198 Special procedure in respect of Money Bills.    
  199 Definition of “Money Bills”.    
  200 Assent to Bills.    
  201 Bills reserved for consideration.    
-### Procedure in Financial Matters    
+#### Procedure in Financial Matters    
  202 Annual financial statement.    
  203 Procedure in Legislature with respect to estimates.    
  204 Appropriation Bills.    
  205 Supplementary, additional or excess grants.    
  206 Votes on account, votes of credit and exceptional grants.    
  207 Special provisions as to financial Bills.    
-### Procedure Generally    
+#### Procedure Generally    
  208 Rules of procedure.    
  209 Regulation by law of procedure in the Legislature of the State in relation to financial business.    
  210 Language to be used in the Legislature.    
  211 Restriction on discussion in the Legislature.    
  212 Courts not to inquire into proceedings of the Legislature.    
-## CHAPTER IV : LEGISLATIVE POWER OF THE GOVERNOR    
+### CHAPTER IV : LEGISLATIVE POWER OF THE GOVERNOR    
  213 Power of Governor to promulgate Ordinances during recess of Legislature.    
-## CHAPTER V: THE HIGH COURTS IN THE STATES    
+### CHAPTER V: THE HIGH COURTS IN THE STATES    
  214 High Courts for States.    
  215 High Courts to be courts of record.    
  216 Constitution of High Courts.    
@@ -339,17 +336,16 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  229 Officers and servants and the expenses of High Courts.    
  230 Extension of jurisdiction of High Courts to Union territories.    
  231 Establishment of a common High Court for two or more States.    
-## CHAPTER VI : SUBORDINATE COURTS    
+### CHAPTER VI : SUBORDINATE COURTS    
  233 Appointment of district judges.    
  233A Validation of appointments of, and judgments, etc., delivered by, certain district judges.    
  234 Recruitment of persons other than district judges to the judicial service.    
  235 Control over subordinate courts.    
  236 Interpretation.    
  237 Application of the provisions of this Chapter to certain class or classes of magistrates.    
-     
-# PART VII: THE STATES IN PART B OF THE FIRST SCHEDULE    
+## PART VII: THE STATES IN PART B OF THE FIRST SCHEDULE    
  238 [Repealed.]    
-# PART VIII: THE UNION TERRITORIES    
+## PART VIII: THE UNION TERRITORIES    
  239 Administration of Union territories.    
  239A Creation of local Legislatures or Council of Ministers or both for certain Union territories.    
  239AA Special provisions with respect to Delhi.    
@@ -358,7 +354,7 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  240 Power of President to make regulations for certain Union territories.    
  241 High Courts for Union territories.    
  242 [Repealed.]    
-# PART IX: THE PANCHAYATS    
+## PART IX: THE PANCHAYATS    
  243 Definitions.    
  243A Gram Sabha.    
  243B Constitution of Panchayats.    
@@ -372,10 +368,10 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  243J Audit of accounts of Panchayats.    
  243K Elections to the Panchayats.    
  243L Application to Union territories.    
-# 243M Part not to apply to certain areas.    
+ 243M Part not to apply to certain areas.    
  243N Continuance of existing laws and Panchayats.    
  243-O Bar to interference by courts in electoral matters.    
-# PART IXA: THE MUNICIPALITIES    
+## PART IXA: THE MUNICIPALITIES    
  243P Definitions.    
  243Q Constitution of Municipalities.    
  243R Composition of Municipalities.    
@@ -394,7 +390,7 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  243ZE Committee for Metropolitan planning.    
  243ZF Continuance of existing laws and Municipalities.    
  243ZG Bar to interference by Courts in electoral matters.    
-# PART IXB: THE CO-OPERATIVE SOCIETIES    
+## PART IXB: THE CO-OPERATIVE SOCIETIES    
  243ZH Definitions    
  243ZI Incorporation of co-operative societies    
  243ZJ Number and term of members of the board and its office bearers.    
@@ -408,12 +404,12 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  243ZR Application to multi-state co-operative societies.    
  243ZS Application to Union Territories.    
  243ZT Continuance of existing laws.    
-# PART X: THE SCHEDULED AND TRIBAL AREAS    
+## PART X: THE SCHEDULED AND TRIBAL AREAS    
  244 Administration of Scheduled Areas and Tribal Areas.    
  244A Formation of an autonomous State comprising certain tribal areas in Assam and creation of local Legislature or Council of Ministers or both therefor.    
-# PART XI: RELATIONS BETWEEN THE UNION AND THE STATES    
-## CHAPTER I: LEGISLATIVE RELATIONS    
-### Distribution of Legislative Powers    
+## PART XI: RELATIONS BETWEEN THE UNION AND THE STATES    
+### CHAPTER I: LEGISLATIVE RELATIONS    
+#### Distribution of Legislative Powers    
  245 Extent of laws made by Parliament and by the Legislatures of States.    
  246 Subject-matter of laws made by Parliament and by the Legislatures of States.    
  246A Special provision with respect to goods and services tax.    
@@ -426,8 +422,8 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  253 Legislation for giving effect to international agreements.    
  254 Inconsistency between laws made by Parliament and laws made by the Legislatures of States.    
  255 Requirements as to recommendations and previous sanctions to be regarded as matters of procedure only.    
-## CHAPTER II : ADMINISTRATIVE RELATIONS    
-### General    
+### CHAPTER II : ADMINISTRATIVE RELATIONS    
+#### General    
  256 Obligation of States and the Union.    
  257 Control of the Union over States in certain cases.    
  257A [Repealed.]    
@@ -436,18 +432,18 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  259 [Repealed.]    
  260 Jurisdiction of the Union in relation to territories outside India.    
  261 Public acts, records and judicial proceedings.    
-### Disputes relating to Waters    
+#### Disputes relating to Waters    
  262 Adjudication of disputes relating to waters of inter-State rivers or river valleys.    
-### Co-ordination between States    
+#### Co-ordination between States    
  263 Provisions with respect to an inter-State Council.    
-# PART XII: FINANCE, PROPERTY, CONTRACTS AND SUITS    
-## CHAPTER I: FINANCE    
-### General    
+## PART XII: FINANCE, PROPERTY, CONTRACTS AND SUITS    
+### CHAPTER I: FINANCE    
+#### General    
  264 Interpretation.    
  265 Taxes not to be imposed save by authority of law.    
  266 Consolidated Funds and public accounts of India and of the States.    
  267 Contingency Fund.    
-### Distribution of Revenues between the Union and the States    
+#### Distribution of Revenues between the Union and the States    
  268 Duties levied by the Union but collected and appropriated by the State.    
  268A [Repealed.]    
  269 Taxes levied and collected by the Union but assigned to the States.    
@@ -465,7 +461,7 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  279A Goods and Services Tax Council.    
  280 Finance Commission.    
  281 Recommendations of the Finance Commission.    
-### Miscellaneous financial provisions    
+#### Miscellaneous financial provisions    
  282 Expenditure defrayable by the Union or a State out of its revenues.    
  283 Custody, etc., of Consolidated Funds, Contingency Funds and moneys credited to the public accounts.    
  284 Custody of suitors’ deposits and other moneys received by public servants and courts.    
@@ -477,10 +473,10 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  290 Adjustment in respect of certain expenses and pensions.    
  290A Annual payment to certain Devaswom Funds.    
  291 [Repealed.]    
-## CHAPTER II: BORROWING    
+### CHAPTER II: BORROWING    
  292 Borrowing by the Government of India.    
  293 Borrowing by States.    
-## CHAPTER III: PROPERTY, CONTRACTS, RIGHTS, LIABILITIES, OBLIGATIONS AND SUITS    
+### CHAPTER III: PROPERTY, CONTRACTS, RIGHTS, LIABILITIES, OBLIGATIONS AND SUITS    
  294 Succession to property, assets, rights, liabilities and obligations in certain cases.    
  295 Succession to property, assets, rights, liabilities and obligations in other cases.    
  296 Property accruing by escheat or laps or as bona vacantia.    
@@ -488,13 +484,13 @@ Titles are mentioned for all articles from 1-395, separated under various parts 
  298 Power to carry on trade, etc.    
  299 Contracts.    
  300 Suits and proceedings.    
-## CHAPTER IV: RIGHT TO PROPERTY    
+### CHAPTER IV: RIGHT TO PROPERTY    
  300A Persons not to be deprived of property save by authority of law.    
-# PART XIII: TRADE, COMMERCE AND INTERCOURSE WITHIN THE TERRITORY OF INDIA    
+## PART XIII: TRADE, COMMERCE AND INTERCOURSE WITHIN THE TERRITORY OF INDIA    
  301 Freedom of trade, commerce and intercourse.    
  302 Power of Parliament to impose restrictions on trade, commerce and intercourse.    
  303 Restrictions on the legislative powers of the Union and of the States with regard to trade and commerce.    
  304 Restrictions on trade, commerce and intercourse among States.    
  305 Saving of existing laws and laws providing for State monopolies.    
  306 [Repealed.]    
- 307 Appointment of authority for carrying out the purposes of articles 301 to 304.    
+ 307 Appointment of authority for carrying out the purposes of articles 301 to 304.       
