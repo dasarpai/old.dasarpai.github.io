@@ -4,7 +4,7 @@ id: 6071
 title: Sorting Algorithm A Summary
 date: 2023-07-10
 permalink: '/dsblog/Sorting-Algorithm-A-Summary'
-tags: [Programming] 
+tags: [Programming, Algorithms] 
 categories: 
 
 header:
@@ -59,44 +59,45 @@ By the end of this article, you will have gained a comprehensive understanding o
 For understanding the working of all four important algorithms we will take following array:    
 Array = [9, 5, 89, 1, 4, 77, 3, 9]   
 
-## How Merge Sorting Works:
+### How Merge Sorting Works:
 - Divide: Divide the array into two equal-sized subarrays.
 - Conquer: Recursively divide and sort.
 - Merge: Merge all the subarrays.
 
 Array = [9, 5, 89, 1, 4, 77, 3, 9*]   
 Divide 1:    
-	Subarray 1: [9, 5, 89, 1]   
-	Subarray 2: [4, 77, 3, 9]   
+Subarray 1: [9, 5, 89, 1]   
+Subarray 2: [4, 77, 3, 9]   
 
 Divide 2:   
-	Subarray 1.1: [9, 5] => [5,9]   
-	Subarray 1.2: [89, 1] => [1,89]   
-	Merge1: [1,5,9,89]   
-      
-	Subarray 2.1: [4, 77,] => [4, 77]   
-	Subarray 2.2: [3, 9] => [3,9]   
-	Merge2: [3,4,9,77]    
+Subarray 1.1: [9, 5] => [5,9]   
+Subarray 1.2: [89, 1] => [1,89]   
+Merge1: [1,5,9,89]     
+
+
+Subarray 2.1: [4, 77,] => [4, 77]   
+Subarray 2.2: [3, 9] => [3,9]   
+Merge2: [3,4,9,77]    
 	
-final Merge:    
+Final Merge:    
 [1,3,4,5,9,9,77,89]
 
-## How Quick Sorting Works:  
+### How Quick Sorting Works:  
 
 - Select: Select a pivot element from the array. In this example, we'll choose the last element, 9, as the pivot.
 - Partition: Rearrange the array so that all elements smaller than the pivot are placed before it, and all elements greater than the pivot are placed after it. 
 - Recurssion: on the subarray
 
-Array = [9, 5, 89, 1, 4, 77, 3, 9*]
-Itr1: [5, 1, 4, 3, *9, 77, 89, 9]
-subarray: [5, 1, 4, *3], [9, 77, 89, *9]
-
-Itr2:[1, 3*, 5, 4], [*9, 9, 77, 89]
-Subarry: [1,3], [5,4], [9, 9], [77, 89]
-
-Itr3: [1,3], [4,5], [9, 9], [77, 89]
-
-Final: [1,3,4,5,9,9,77,89]
+Array = [9, 5, 89, 1, 4, 77, 3, 9*]    
+Itr1: [5, 1, 4, 3, *9, 77, 89, 9]    
+subarray: [5, 1, 4, *3], [9, 77, 89, *9]    
+    
+Itr2:[1, 3*, 5, 4], [*9, 9, 77, 89]    
+Subarry: [1,3], [5,4], [9, 9], [77, 89]    
+    
+Itr3: [1,3], [4,5], [9, 9], [77, 89]    
+    
+Final: [1,3,4,5,9,9,77,89]    
 
 ##Selection sorting : 
 It works by repeatedly finding the minimum element from the unsorted part of the array and placing it at the end of the sorted part. Select a pivot element from the array. In this example, we'll choose the last element, 9, as the pivot.
@@ -112,7 +113,7 @@ Itr3: [1, 3, 4,] : [5, 89, 9, 77, 9]
 Itr4: [1, 3, 4, 5,] : [89, 9, 77, 9]   
 Itr5: .....
 
-## How Insertion Sort Works :  
+### How Insertion Sort Works :  
 It works by dividing the array into a sorted and an unsorted part. The sorted part is initially empty, and the algorithm iterates through the unsorted part, taking each element and inserting it into its correct position in the sorted part.   
 Array = [9, 5, 89, 1, 4, 77, 3, 9]   
 Sorted Part :  Unsorted Part   
@@ -126,7 +127,7 @@ Itr5: [1, 4, 5, 9,  89,]  : [77, 3, 9]
 Itr5: .....
 
 
-## Time and Space Compexity of Sorting Algorithms:
+### Time and Space Compexity of Sorting Algorithms:
 
 - Merge Sort:
 	- Time Complexity: The time complexity of merge sort is **O(n log n)** in **all cases**. It consistently divides the input array into halves and merges them back together, resulting in a logarithmic factor.
