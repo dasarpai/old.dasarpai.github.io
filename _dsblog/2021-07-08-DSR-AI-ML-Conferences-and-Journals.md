@@ -60,6 +60,7 @@ A list of 30+ AI conferences and journals related to AI, NLP, Deep Learning. Alm
 31. [Signal, Image and Video Processing: Springer](https://link.springer.com/journal/11760/volumes-and-issues)
 32. [Transactions of the Association for Computational Linguistics](https://transacl.org/index.php/tacl/issue/view/17)
 33. [WikiCFP : Call For Papers of Conferences, Workshops and Journals](https://www.wikicfp.com/cfp/)
+34. [Indian journal of Computer Science and Engineering](https://www.ijcse.com/aim-and-scope.html)
 
 [AI, NLP, DL Conferences](https://docs.google.com/spreadsheets/d/e/2PACX-1vRDBsF3sb-PGIRuoBcPFPvpdF6lujUFDLU3BsaX6hh1Al_4998Xabn7zWsbQ42_kym-NRXsUGIM_iNd/pubhtml?gid=1837800554&single=true)
 
