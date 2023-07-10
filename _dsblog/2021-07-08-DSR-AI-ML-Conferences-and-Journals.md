@@ -15,7 +15,7 @@ share: true
 excerpt:   
 layout: single   
 author_profile: true   
-toc: true   
+toc: false   
 toc_sticky: true
 ---
 
@@ -31,7 +31,8 @@ A list of 30+ AI conferences and journals related to AI, NLP, Deep Learning. Alm
 2. [AAMAS – International Joint Conference on Autonomous Agents and Multiagent Systems](https://celweb.vuse.vanderbilt.edu/aamas18/)
 3. [ACL Member Portal – The Association for Computational Linguistics Member Portal](https://www.aclweb.org/portal/)
 4. [ACL SIGDAT – SIGDAT](https://sigdat.org/)
-5. [ArXiv:cs.LG](https://arxiv.org/list/cs.LG/recent)
+5. [ArXiv: Machine Learning -
+Authors and titles for recent submissions](https://arxiv.org/list/cs.LG/recent)
 6. [Association for the Advancement of Artificial Intelligence](https://www.aaai.org/)
 7. [CoNLL – SIGNLL](https://www.signll.org/conll/)
 8. [CVPR – IEEE Conference on Computer Vision and Pattern Recognition](https://cvpr2018.thecvf.com/)
@@ -40,8 +41,8 @@ A list of 30+ AI conferences and journals related to AI, NLP, Deep Learning. Alm
 11. [EMNLP 2020](https://2020.emnlp.org/)
 12. [ICCV – International Conference on Computer Vision](https://iccv2017.thecvf.com/)
 13. [ICDM – International Conference on Data Mining](https://www.waset.org/conference/2018/07/istanbul/ICDM)
-14. [ICML](https://www.wikiwand.com/en/International_Conference_on_Machine_Learning)
-15. [ICML – International Conference on Machine Learning](https://icml.cc/)
+14. [Indian journal of Computer Science and Engineering](https://www.ijcse.com/aim-and-scope.html)
+15. [ICML – International Conference on Machine Learning](https://icml.cc/), [ICML Wikiband](https://www.wikiwand.com/en/International_Conference_on_Machine_Learning)
 16. [IJCAI – International Joint Conference on Artificial Intelligence](https://www.ijcai-18.org/)
 17. [International Conference on Computational Linguistics](https://www.degruyter.com/view/journals/stuf/18/1-6/article-p589.xml)
 18. [International Conference on Data Mining](https://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=98130&copyownerid=52097)
@@ -60,7 +61,3 @@ A list of 30+ AI conferences and journals related to AI, NLP, Deep Learning. Alm
 31. [Signal, Image and Video Processing: Springer](https://link.springer.com/journal/11760/volumes-and-issues)
 32. [Transactions of the Association for Computational Linguistics](https://transacl.org/index.php/tacl/issue/view/17)
 33. [WikiCFP : Call For Papers of Conferences, Workshops and Journals](https://www.wikicfp.com/cfp/)
-34. [Indian journal of Computer Science and Engineering](https://www.ijcse.com/aim-and-scope.html)
-
-[AI, NLP, DL Conferences](https://docs.google.com/spreadsheets/d/e/2PACX-1vRDBsF3sb-PGIRuoBcPFPvpdF6lujUFDLU3BsaX6hh1Al_4998Xabn7zWsbQ42_kym-NRXsUGIM_iNd/pubhtml?gid=1837800554&single=true)
-
