@@ -169,4 +169,6 @@ class Test:
     result: int=0  # No spaces around equality sign
 ```
 	
+## References
+- https://peps.python.org/pep-0008/#programming-recommendations
 
