@@ -38,15 +38,26 @@ tkinter.Toplevel(master, class_='ClassName')
 # Programming Recommendations
 ## Use "is not" operator
 - Correct:
+
+```python
 if foo is not None:
+```
+
 - Wrong:
+```python 
 if not foo is None:
+```
 
 ## Always use a def statement
 - Correct:
+```python 
 def f(x): return 2*x
+```
+
 - Wrong:
+```python 
 f = lambda x: 2*x
+```
 
 ## all try/except clauses
 - Correct:
@@ -79,6 +90,7 @@ with conn.begin_transaction():
 ```
 
 - Wrong:
+
 ```python 
 with conn:
     do_stuff_in_transaction(conn)
@@ -127,15 +139,17 @@ if isinstance(obj, int):
 - Wrong:
 if type(obj) is type(1):
 
-## sequences, (strings, lists, tuples)
+## Sequences, (strings, lists, tuples)
 -For sequences, (strings, lists, tuples), use the fact that empty sequences are false:
 
 - Correct:
+
 ```python
 if not seq:
 	if seq:
 ```
 - Wrong:
+
 ```python
 if len(seq):
 	if not len(seq):
