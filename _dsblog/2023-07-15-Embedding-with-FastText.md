@@ -21,8 +21,8 @@ toc_sticky: true
 
 # Embedding with FastText
 
-[What is Embedding?](/what-is-nlp#what-is-embedding)    
-[What are Different Types of Embedding](/what-is-nlp#what-are-different-embedding-types)   
+[What is Embedding?](/dsblog/what-is-nlp#what-is-embedding)    
+[What are Different Types of Embedding](/dsblog/what-is-nlp#what-are-different-embedding-types)   
 
 ## What is FastText?
 FastText is an open-source library for efficient learning of word representations and sentence classification developed by Facebook AI Research. It is designed to handle large-scale text data and provides tools for **training** and **using word embeddings**.
