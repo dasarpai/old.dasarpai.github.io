@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 6073
-title: PEmbedding with FastText
+title: Embedding with FastText
 date: 2023-07-15
 permalink: '/dsblog/Embedding-with-FastText'
 tags: [NLP, Embedding, FastText] 
@@ -13,16 +13,16 @@ excerpt_separator: "<!--more-->"
 excerpt:  
 layout: single  
 author_profile: true  
-toc: false  
+toc: true  
 toc_sticky: true
 ---
 
-![Python Naming Convention](/assets/images/dspost/dsp6073-Embedding-with-FastText.jpg)   
+![Embedding with FastText](/assets/images/dspost/dsp6073-Embedding-with-FastText.jpg)   
 
 # Embedding with FastText
 
-[What is Embedding?](dsblog/what-is-nlp#what-is-embedding)
-[What are Different Types of Embedding](dsblog/what-is-nlp#what-are-different-embedding-types)
+[What is Embedding?](dsblog/what-is-nlp#what-is-embedding)    
+[What are Different Types of Embedding](dsblog/what-is-nlp#what-are-different-embedding-types)   
 
 ## What is FastText?
 FastText is an open-source library for efficient learning of word representations and sentence classification developed by Facebook AI Research. It is designed to handle large-scale text data and provides tools for **training** and **using word embeddings**.
