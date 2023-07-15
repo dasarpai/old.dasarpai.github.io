@@ -28,7 +28,6 @@ share: true
 
 ![Natural Language Processing](/assets/images/dspost/dsc303-Natural-Language-Processing.jpg)
 
-![Natural Language Processing]()
 
 **Natural Language Processing (NLP)**
 
