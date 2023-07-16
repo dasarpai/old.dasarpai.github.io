@@ -2,7 +2,7 @@
 id: 121   
 title: "AI ML Resources from My Diary"
 permalink: /dsblog/AI-ML-Resources-from-My-Diary
-date: '2022-12-16T15:50:00+05:30'
+date: '2021-07-21T15:50:00+05:30'
 categories: 
 tags: [DS Resources, AI Diary] 
 header:

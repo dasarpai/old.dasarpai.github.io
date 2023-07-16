@@ -1,7 +1,7 @@
 ---
 id: 6006    
 title: "Confusion Matrix Bayesian Theorem"
-date: '2022-07-22T15:50:00+05:30'
+date: '2022-08-22T15:50:00+05:30'
 permalink: /dsblog/Confusion-Matrix-Bayesian-Theorem
 categories:
   - Blog

@@ -2,7 +2,7 @@
 id: 122   
 title: "Github Repos for Data Science"
 permalink: /dsblog/Github-Repos-for-DataScience
-date: '2022-06-09T15:50:00+05:30'
+date: '2021-07-22T15:50:00+05:30'
 categories: 
 tags: [DS Resources, Github Repos] 
 header:
