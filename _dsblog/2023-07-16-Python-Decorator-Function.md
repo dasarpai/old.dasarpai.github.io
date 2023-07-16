@@ -31,7 +31,7 @@ To define a decorator, you use the @decorator_name syntax above the function you
 
 Here's a simple example of a decorator:
 
-## Decorator Example 1
+## Decorator Simple Example 1
 
 ```python
 def my_decorator(func):
@@ -70,14 +70,17 @@ Let's understand this with one more practical senerio.
 You are working on an banking application. Bank pays interest to to depositors. To calculate the inerest you already have 'Calculate_Interest' function in place. Now you want to add two more functionality in this function.  1- If there is notice from the Income tax department then do not pay them interest. 2- To deduct the TDS on the interest paid. You want to achieve this without modifying the original function. The reason for this may be. 1- Interest calculation function does not change. 2- Business and regulatory requirments around interest calculation keep changing from time to time. Here is the way you will implement it using decorator.
 
 ## Decorator Example 2
+Decorator function is without parameter.
 
 ```python 
 import random 
 
 def calculate_interest_with_rules(func):
+    someothervar = random.randint(1,5)
+
     def get_incometax_notified_account_list():
-        # python code to get the list
-        notified_list = {1, 2}  # Use curly braces for a set
+        # python code to get the notified account list
+        notified_list = {1, 2} 
         return notified_list
 
     def calculate_tds(interest, start_date, end_date):
@@ -89,12 +92,15 @@ def calculate_interest_with_rules(func):
         # Your code to calculate TDS should be here
         return tds  # Return the tds dictionary with TDS information
 
-    def wrapper(accounts, start_date, end_date):  # Add correct parameters to the wrapper
+    def wrapper(someothervar, accounts, start_date, end_date): 
+        #you can use someothervar here to some other logic
+
         notified_accounts = get_incometax_notified_account_list()
         clean_accounts = set(accounts).difference(notified_accounts)
 
-        interest = func(clean_accounts, start_date, end_date)  # Pass correct parameters to the func
-        tds = calculate_tds(interest, start_date, end_date)  # You need to define param1 and param2
+        interest = func(clean_accounts, start_date, end_date)
+
+        tds = calculate_tds(interest, start_date, end_date)  
 
         return interest, tds  # Return both interest and tds
 
@@ -123,4 +129,69 @@ print("TDS:", tds)  # Display the TDS information as well
 #output
 Interest: {3: 8400, 4: 14400, 5: 5000, 6: 22800}
 TDS: {3: 840.0, 4: 1440.0, 5: 500.0, 6: 2280.0}
+```
+
+## Dectorator Example 3
+In this example decorator function is also having parameter.
+
+```python 
+import random 
+
+def calculate_interest_with_rules(FOR_NRI_ACCOUNTS):  # Add param1 as a parameter to the decorator
+    def get_incometax_notified_account_list():
+        # python code to get the list
+        notified_list = {1, 2}  # Use curly braces for a set
+        return notified_list
+
+    def calculate_tds(interest, start_date, end_date):
+        # python code to calculate tds
+        tds = {}  # Initialize an empty dictionary
+        for k,v in interest.items():
+          tds[k] = v*0.1
+          
+        # Your code to calculate TDS should be here
+        return tds  # Return the tds dictionary with TDS information
+
+    def decorator_wrapper(func):  # Wrap the decorator with another function to pass param1
+        def wrapper(accounts, start_date, end_date):  # Add correct parameters to the wrapper
+            if FOR_NRI_ACCOUNTS: #if the account we are processing is NRI account then only
+              notified_accounts = get_incometax_notified_account_list()
+              clean_accounts = set(accounts).difference(notified_accounts)
+
+              interest = func(clean_accounts, start_date, end_date)  # Pass correct parameters to the func
+              tds = calculate_tds(interest, start_date, end_date)  # Use the decorator's param1
+            else:
+              interest={}
+              tds={}
+
+            return interest, tds  # Return both interest and tds
+
+        return wrapper  # Return the wrapper function
+
+    return decorator_wrapper  # Return the decorator wrapper function
+
+FOR_NRI_ACCOUNTS=True
+@calculate_interest_with_rules(FOR_NRI_ACCOUNTS)  # Add param1 when applying the decorator
+def calculate_interest(accounts, start_date, end_date):  # Add missing parameters
+    # python code to read the data
+    # calculate the interest
+    # and inform the interest has been calculated successfully.
+    interest = {}
+    for account in accounts:
+        interest[account] = 200 * account * random.randint(2, 20)
+
+    return interest
+
+# call the calculate interest function.
+
+start_date = '01-01-23'
+end_date = '31-03-23'
+accounts = [1, 2, 3, 4, 5, 6]
+interest, tds = calculate_interest(accounts, start_date, end_date)
+print("Interest:", interest)
+print("TDS:", tds)
+
+output
+Interest: {3: 12000, 4: 9600, 5: 18000, 6: 19200}
+TDS: {3: 1200.0, 4: 960.0, 5: 1800.0, 6: 1920.0}
 ```
