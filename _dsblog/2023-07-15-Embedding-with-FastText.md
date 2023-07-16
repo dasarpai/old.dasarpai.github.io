@@ -58,7 +58,9 @@ FastText is primarily designed for generating word embeddings, but it can also b
 
 Here's a Python code example using the fasttext library to generate sentence embeddings:
 
-```Python
+
+
+```python 
 import fasttext
 
 # Load the pre-trained FastText model
