@@ -1,14 +1,14 @@
 ---
 mathjax: true
-id: 6074
-title: Python Decorator Function
-date: 2023-07-15
-permalink: '/dsblog/Python-Decorator-Function'
-tags: [Python, Programming] 
+id: 6077
+title: Introduction to ML Model Deployement
+date: 2023-07-19
+permalink: '/dsblog/Introduction-to-ML-Model-Deployement'
+tags: [MLOps, AI Deployment, Model Deployment] 
 categories: 
 
 header:
-    teaser: /assets/images/dspost/dsp6074-Python-Decorator-Function.jpg
+    teaser: /assets/images/dspost/dsp6077-Introduction-to-ML-Model-Deployement.jpg
 excerpt_separator: "<!--more-->"  
 excerpt:  
 layout: single  
@@ -17,13 +17,39 @@ toc: true
 toc_sticky: true
 ---
 
-![Python Decorator Function](/assets/images/dspost/dsp6074-Python-Decorator-Function.jpg)  
+![Introduction to AI Model Deployement](/assets/images/dspost/dsp6077-Introduction-to-ML-Model-Deployement.jpg)  
 
+# Introduction to AI Model Deployement
 
 Amazon SageMaker is Cloud is Machine Learning Platform from AWS Cloud.
 Amazon SageMaker can host any ML model.
 
 
+LlaMa is a family of state-of-the-art open-access large language models released by Meta. Recently Meta releaseed LlaMa. 
+
+```python
+!pip install "sagemaker==2.163.0" --upgrade --quiet
+
+import sagemaker
+import boto3
+sess = sagemaker.Session()
+
+sagemaker_session_bucket=None
+if sagemaker_session_bucket is None and sess is not None:
+    # set to default bucket if a bucket name is not given
+    sagemaker_session_bucket = sess.default_bucket()
+
+try:
+    role = sagemaker.get_execution_role()
+except ValueError:
+    iam = boto3.client('iam')
+    role = iam.get_role(RoleName='sagemaker_execution_role')['Role']['Arn']
+
+sess = sagemaker.Session(default_bucket=sagemaker_session_bucket)
+
+print(f"sagemaker role arn: {role}")
+print(f"sagemaker session region: {sess.boto_region_name}")
+```
 
 ## Model Installation Locaion
 - Local Machine

@@ -169,6 +169,7 @@ Sno. | URL | Purpose
 |9. | [https://play.google.com/store/ games?pli=1](https://play.google.com/store/games?pli=1) | Offers a platform for discovering and downloading games from the Google Play Store.
 |10. | [https://waze.com](https://waze.com) | Offers Waze, a community-based navigation and traffic app.
 |11. | [https://feedburner.com](https://feedburner.com) | Provides feed management and RSS services for bloggers and podcasters.
+|12. | [https://www.googlecloudpresscorner.com/](https://www.googlecloudpresscorner.com/) | Google Press Corner.
 
 ## Country Specific Websites    
 
