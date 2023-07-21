@@ -4,7 +4,7 @@ id: 6079
 title: Database and Analytics Product Services from Google Azure AWS
 date: 2023-07-21
 permalink: '/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS'
-tags: [AWS, Google, Azure, Cloud, AutoML, AI Products] 
+tags: [AWS, Google, Azure, Cloud, AutoML, Data Analytics, Databases] 
 categories: 
 
 header:
