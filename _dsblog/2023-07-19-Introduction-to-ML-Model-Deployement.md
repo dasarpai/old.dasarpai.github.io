@@ -39,11 +39,11 @@ toc_sticky: true
     - Today (Jul'23) Azure Machine Learning has has most of the capabilites than any other player's AI product.
     - Azure Machine Learning was launched Feb'14
 
-# What is GenAI?
+## What is GenAI?
 There are many kinds of AI models like classifier models, regressor models, clustering models, reinforcement models, etc. An AI model which has the ability to generate text, images, video, and music is called GenAI. They all take inspiration from the human brain, therefore they all have neural network (NN) architecture. There are dozens (if not hundreds) types of NN architecture that can be used to create different kinds of AI models. The type of NN architecture depends upon the data which is used for developing the model and the problem which we want to solve using AI model. Researchers in universities or big corporations like Google, Facebook, Amazon, and Microsoft keep developing new architecture, and using these architectures they develop the foundational models. Once foundational models are developed, they release a research paper. In this, they inform the world what architecture they used, what data they used, what parameters (weights & biases) the model has learned, what are the results of their product and compare that with other existing models. They can develop these foundational models with one set of hyperparameters, and they can release these foundational models of different sizes (it depends upon the number of parameters used). AI product builders pick up these foundational models and fine-tune these based on the exact business problem in their hands. Which foundational model do they choose, it also depends upon the size of the model, the kind of data it has used to create those foundational models, and what was the performance of the model on a similar task which the product developer want to solve.
 
 
-## What is Large Language Model?
+### What is Large Language Model?
 Large Language Models or LLM are the foundational models developed by researchers. They are very big in the size. For example, GPT3 was a 175 bn parameter model, PaLM was 540 bn parameter model. You cannot load these models on a normal machine for the prediction, forget about fine-tuning or customization. Therefore, most of the time you will find these LLMs are made available as service from the cloud providers like AWS SageMaker, Azure Machine Learning, VertexAI etc.
 
 
@@ -53,7 +53,7 @@ Large Language Models or LLM are the foundational models developed by researcher
 https://huggingface.co/google
 
 
-## What is Foundational Model?
+### What is Foundational Model?
 A foundational model is developed by researchers using a huge corpus of different types of data. They are built of unique architecture. These can use fine-tuned for many kinds of downstream tasks like classification, generation, translation, etc.
 
 
@@ -62,9 +62,9 @@ A foundational model is developed by researchers using a huge corpus of differen
 - **Foundational Models of Google:** bert, bert2bert, bigbird, bit, byt5, canine, ddpm, deeplabv3, deplot, efficientnet, electra, flan, fnet, long, matcha, maxim, mobilebert, mobilenet, mt5, multiberts, muril, music, ncsnpp, owlvit, pegasus, pix2struct, realm, reformer, rembert, roberta2roberta, switch, t5, tapas, ul2, umt5, vit, vivit
 - **Foundational Models Developed by Meta:** bart, blenderbot, contriever, convnext, convnextv2, data2vec, deformable, deit, detr, dino, dinov2, DiT, dpr, dragon, encodec, esm, esm1b, esm1v, esm2, esmfold, FairBERTa, fastspeech2, fasttext, flava, galactica, genre, hubert, ic-gan, incoder, levit, m2m100, mask2former, maskformer, mbart, mcontriever, mgenre, MMS, muppet, musicgen, nllb, npm, opt, perturber, rag, regnet, roberta, roscoe, s2t, sam, spar, stylenerf, tart, textless, timesformer, tts-transformer, unit-hifigan, vc1, vit, wav2vec2, wmt19, wmt21, xglm, xlm, xm, xmod
 
-## Deploying a LLM on SageMaker
+### Deploying a LLM on SageMaker
 
-### 1. Library Installation and Setup
+#### 1. Library Installation and Setup
 ```python
 !pip install "sagemaker==2.163.0" --upgrade --quiet
 
@@ -89,7 +89,7 @@ print(f"sagemaker role arn: {role}")
 print(f"sagemaker session region: {sess.boto_region_name}")
 ```
 
-### 2. Retrieve the necessary SageMaker container for TGI deployment
+#### 2. Retrieve the necessary SageMaker container for TGI deployment
 
 ```python 
 from sagemaker.huggingface import get_huggingface_llm_image_uri
@@ -104,7 +104,7 @@ llm_image = get_huggingface_llm_image_uri(
 print(f"llm image uri: {llm_image}")
 ```
 
-### 3. Load the Model
+#### 3. Load the Model
 ```python
 import json
 from sagemaker.huggingface import HuggingFaceModel
@@ -118,7 +118,7 @@ config = {
 }
 ```
 
-### 4. Create HuggingFaceModel with the image uri
+#### 4. Create HuggingFaceModel with the image uri
 ```python
 llm_model = HuggingFaceModel(
   role=role,
@@ -127,7 +127,7 @@ llm_model = HuggingFaceModel(
 )
 ```
 
-### 5. Deploy the Model on SageMaker Instance (Creating Endpoint)
+#### 5. Deploy the Model on SageMaker Instance (Creating Endpoint)
 ```python
 instance_type = "ml.g5.12xlarge"
 number_of_gpu = 4
@@ -140,14 +140,14 @@ llm = llm_model.deploy(
 )
 ```
 
-### 6. Test your deployment
+#### 6. Test your deployment
 ```python
 llm.predict({
     "inputs": "My name is Hari Thapliyal and I am Data Scientist.",
 })
 ```
 
-## Model Installation Locaion
+### Model Installation Locaion
 Model can be installed on Local machine or on Public cloud or private cloud. Model can deployed on Linux, MacOS, Andorid, iPhone, or Windows Machine
 
 - Local Machine
@@ -163,7 +163,7 @@ Model can be installed on Local machine or on Public cloud or private cloud. Mod
     - VertexAI
     - Azure AI
 
-## Open-Source Deep Learning Model Development Frameworks
+### Open-Source Deep Learning Model Development Frameworks
 - **PyTorch** deep learning framework developed by Facebook's AI Research (FAIR) lab. It has gained significant popularity among researchers and developers due to its flexibility, dynamic computation graph, and intuitive API. PyTorch is known for its ease of use and strong support for custom operations and dynamic neural networks. It is good for quick AI model development, fast prototyping is possible.
 - **TensorFlow 2.0+**: TensorFlow, underwent significant changes with the release of TensorFlow 2.0. It now includes eager execution by default, making it more intuitive and Pythonic. TensorFlow's updated version has better integration with Keras, simplifying the process of building and training models.
 - **Keras** deep learning API written in Python that acts as a high-level interface to other deep learning frameworks, including TensorFlow, Pytorch and Microsoft Cognitive Toolkit (CNTK). It provides a simple and user-friendly interface for building and training neural networks, making it a popular choice for beginners and quick prototyping.
@@ -174,7 +174,7 @@ Model can be installed on Local machine or on Public cloud or private cloud. Mod
 - **Deep Java Library (DJL)** is an open-source, high-level, engine-agnostic Java framework for deep learning.
 - **[ParlAI](https://parl.ai/docs/zoo.html)** : ParlAI (pronounced “par-lay”) is a python framework for sharing, training and testing dialogue models, from open-domain chitchat, to task-oriented dialogue, to visual question answering.
 
-## Format Used for Representing Deep Learning Models.
+### Format Used for Representing Deep Learning Models.
 - **ONNX** (Open Neural Network Exchange): It allows interoperability between different deep learning frameworks, enabling users to move models between frameworks without rebuilding them from scratch. ONNX is joint effort of Microsoft, AWS, FAIR and IBM.
 - **TensorFlow SavedModel** is a format specific to TensorFlow, and it is used for saving and restoring TensorFlow models. It includes the model's architecture, weights, and metadata, making it easy to save a trained model and load it later for inference or further training.
 - **PyTorch JIT** (Just-In-Time) compilation allows users to export their models in a serialized format that can be later loaded and executed without the need for the original Python code. The JIT-compiled model can be used in production without requiring the entire PyTorch framework to be present.
@@ -184,7 +184,7 @@ Model can be installed on Local machine or on Public cloud or private cloud. Mod
 - **Computation Graph Configuration** is developed by Deeplearning4j (DL4J). It  is a deep learning framework for Java, and it uses a specific configuration format for serializing its computation graphs, making it portable across different platforms.
 
 
-## Deep Learning Model Inference Libraries 
+### Deep Learning Model Inference Libraries 
 There are several products and libraries designed to accelerate deep learning inference and optimize model performance on specific hardware. These products and libraries focus on optimizing and accelerating deep learning inference on specific hardware platforms, allowing developers to deploy their models with improved performance and efficiency on target devices. Depending on the hardware architecture and deployment environment, choosing the right product or library can significantly impact the inference speed and overall user experience.
 
 - **OpenVINO** (Open Visual Inference & Neural Network Optimization) is an open-source toolkit developed by **Intel** that provides hardware-accelerated deep learning inference for Intel CPUs, integrated GPUs, and other hardware accelerators. It optimizes pre-trained models from various deep learning frameworks and deploys them efficiently on Intel-powered devices.
@@ -199,7 +199,7 @@ There are several products and libraries designed to accelerate deep learning in
 - **Huggingface Text Generation Interface (TGI)**
 - [**Amazon SageMaker JumpStart**](https://aws.amazon.com/sagemaker/jumpstart/getting-started) : Built-in algorithms with pretrained models from model hubs, pretrained foundation models, and prebuilt solutions to solve common use cases
 
-## AI Model Zoos
+### AI Model Zoos
 - [ParlAI](https://parl.ai/docs/zoo.html) or https://github.com/facebookresearch/ParlAI
 - [Google Model Garden](https://cloud.google.com/model-garden)
 - [Huggingface](https://huggingface.co/?trending=model)
