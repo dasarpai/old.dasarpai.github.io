@@ -21,12 +21,50 @@ toc_sticky: true
 
 # Introduction to AI Model Deployement
 
-Amazon SageMaker is Cloud is Machine Learning Platform from AWS Cloud.
-Amazon SageMaker can host any ML model.
+## Big Players
+- Amazon
+    - Amazon has many products and one of their product is **AWS Cloud**. Under this product they sell IT infrastructure (storage, memory, network, VM, webhosting etc.) 
+    - **Amazon SageMaker** is Cloud based Machine Learning Platform, and this is one of the product under AWS Cloud.
+    - Amazon SageMaker can be used to train AI model, host AI model, monitor the model and hosts many other services which any Data Science project need from data gathering to model serving.
+    - AWS is oldest cloud service provider in the market.
+    - AWS Sagemaker was launched in Nov'17.
+- Google
+    - Google has hundreds of products like gmail, youtube, google drive etc. One of their product is called **Google Cloud**. Under this product they sell IT infrastrcture like Amazon sells under AWS.
+    - **VertexAI** is Cloud based Machine Learning platform of Google. VertexAI is part of Google Cloud.
+    - VertexAI can be used to train AI Model,host AI model, monitor the model etc.
+    - VertexAI was launched in Jun'21
+- Microsoft
+    - Like Amazon's cloud platform which is called AWS Cloud, Microsoft's cloud plateform is called **Azure**.
+    - Microsoft's AI product is called **Azure Machine Learning**.
+    - Today (Jul'23) Azure Machine Learning has has most of the capabilites than any other player's AI product.
+    - Azure Machine Learning was launched Feb'14
+
+# What is GenAI?
+There are many kinds of AI models like classifier models, regressor models, clustering models, reinforcement models, etc. An AI model which has the ability to generate text, images, video, and music is called GenAI. They all take inspiration from the human brain, therefore they all have neural network (NN) architecture. There are dozens (if not hundreds) types of NN architecture that can be used to create different kinds of AI models. The type of NN architecture depends upon the data which is used for developing the model and the problem which we want to solve using AI model. Researchers in universities or big corporations like Google, Facebook, Amazon, and Microsoft keep developing new architecture, and using these architectures they develop the foundational models. Once foundational models are developed, they release a research paper. In this, they inform the world what architecture they used, what data they used, what parameters (weights & biases) the model has learned, what are the results of their product and compare that with other existing models. They can develop these foundational models with one set of hyperparameters, and they can release these foundational models of different sizes (it depends upon the number of parameters used). AI product builders pick up these foundational models and fine-tune these based on the exact business problem in their hands. Which foundational model do they choose, it also depends upon the size of the model, the kind of data it has used to create those foundational models, and what was the performance of the model on a similar task which the product developer want to solve.
 
 
-LlaMa is a family of state-of-the-art open-access large language models released by Meta. Recently Meta releaseed LlaMa. 
+## What is Large Language Model?
+Large Language Models or LLM are the foundational models developed by researchers. They are very big in the size. For example, GPT3 was a 175 bn parameter model, PaLM was 540 bn parameter model. You cannot load these models on a normal machine for the prediction, forget about fine-tuning or customization. Therefore, most of the time you will find these LLMs are made available as service from the cloud providers like AWS SageMaker, Azure Machine Learning, VertexAI etc.
 
+
+- LLaMa (Large Language Model Meta AI) is LLM family of state-of-the-art open-access large language models released by Meta. It is 65 bn parameter model. Other Models at Meta are [Meta Models at HuggingFace](https://huggingface.co/facebook)
+- GPT is LLM family of state-of-art model language models developed by OpenAI. ChatGPT (OpenAI's very famous Product) is based on GPT3.5 model. Other models of OpenAI are [OpenAI Models at HuggingFace](https://huggingface.co/openai)
+- PaLM is LLM family state of the art model from Google. Other Models at google are [VertexAI Model Garden](/dsblog/model-garden-of-vertexai)
+https://huggingface.co/google
+
+
+## What is Foundational Model?
+A foundational model is developed by researchers using a huge corpus of different types of data. They are built of unique architecture. These can use fine-tuned for many kinds of downstream tasks like classification, generation, translation, etc.
+
+
+- **Foundational Models Developed by OpenAI:** clip-vit, diffusers-cd, diffusers-ct, imagegpt, gpt, jukebox, shap-e, shap, whisper
+- **Foundational Models Developed by Microsoft:** amos, beit, BioGPT, BiomedCLIP, BiomedNLP, BiomedVLP, bloom, ClimaX, cocolm, codebert, codeexecutor, CodeGPT, codereviewer, conditional, cvt, deberta, DialoGPT, DialogRPT, dit, dolly, focalnet, git, GODEL, graphcodebert, infoxlm, layoutlm, layoutlmv2, layoutlmv3, layoutxlm, longcoder, lts, markuplm, mdeberta, MiniLM, mpnet, Multilingual, Promptist, prophetnet, reacc, resnet, speecht5, SportsBERT, ssr, swin, swinv2, table, tapex, trocr, unihanlm, unilm, unispeech, unixcoder, vq, wavlm, xclip, xdoc, xlm, xprophetnet, xtremedistil
+- **Foundational Models of Google:** bert, bert2bert, bigbird, bit, byt5, canine, ddpm, deeplabv3, deplot, efficientnet, electra, flan, fnet, long, matcha, maxim, mobilebert, mobilenet, mt5, multiberts, muril, music, ncsnpp, owlvit, pegasus, pix2struct, realm, reformer, rembert, roberta2roberta, switch, t5, tapas, ul2, umt5, vit, vivit
+- **Foundational Models Developed by Meta:** bart, blenderbot, contriever, convnext, convnextv2, data2vec, deformable, deit, detr, dino, dinov2, DiT, dpr, dragon, encodec, esm, esm1b, esm1v, esm2, esmfold, FairBERTa, fastspeech2, fasttext, flava, galactica, genre, hubert, ic-gan, incoder, levit, m2m100, mask2former, maskformer, mbart, mcontriever, mgenre, MMS, muppet, musicgen, nllb, npm, opt, perturber, rag, regnet, roberta, roscoe, s2t, sam, spar, stylenerf, tart, textless, timesformer, tts-transformer, unit-hifigan, vc1, vit, wav2vec2, wmt19, wmt21, xglm, xlm, xm, xmod
+
+## Deploying a LLM on SageMaker
+
+### 1. Library Installation and Setup
 ```python
 !pip install "sagemaker==2.163.0" --upgrade --quiet
 
@@ -51,7 +89,67 @@ print(f"sagemaker role arn: {role}")
 print(f"sagemaker session region: {sess.boto_region_name}")
 ```
 
+### 2. Retrieve the necessary SageMaker container for TGI deployment
+
+```python 
+from sagemaker.huggingface import get_huggingface_llm_image_uri
+
+# retrieve the llm image uri
+llm_image = get_huggingface_llm_image_uri(
+  "huggingface",
+  version="0.8.2"
+)
+
+# print ecr image uri
+print(f"llm image uri: {llm_image}")
+```
+
+### 3. Load the Model
+```python
+import json
+from sagemaker.huggingface import HuggingFaceModel
+
+# Define Model and Endpoint configuration parameter
+config = {
+  'HF_MODEL_ID': "decapoda-research/llama-7b-hf", # model_id from hf.co/models
+  'SM_NUM_GPUS': json.dumps(number_of_gpu), # Number of GPU used per replica
+  'MAX_INPUT_LENGTH': json.dumps(1024),  # Max length of input text
+  'MAX_TOTAL_TOKENS': json.dumps(2048),  # Max length of the generation (including input text)
+}
+```
+
+### 4. Create HuggingFaceModel with the image uri
+```python
+llm_model = HuggingFaceModel(
+  role=role,
+  image_uri=llm_image,
+  env=config
+)
+```
+
+### 5. Deploy the Model on SageMaker Instance (Creating Endpoint)
+```python
+instance_type = "ml.g5.12xlarge"
+number_of_gpu = 4
+health_check_timeout = 300
+
+llm = llm_model.deploy(
+  initial_instance_count=1,
+  instance_type=instance_type,
+  container_startup_health_check_timeout=health_check_timeout,
+)
+```
+
+### 6. Test your deployment
+```python
+llm.predict({
+    "inputs": "My name is Hari Thapliyal and I am Data Scientist.",
+})
+```
+
 ## Model Installation Locaion
+Model can be installed on Local machine or on Public cloud or private cloud. Model can deployed on Linux, MacOS, Andorid, iPhone, or Windows Machine
+
 - Local Machine
     - Linux
     - MacOS
@@ -101,21 +199,21 @@ There are several products and libraries designed to accelerate deep learning in
 - **Huggingface Text Generation Interface (TGI)**
 - [**Amazon SageMaker JumpStart**](https://aws.amazon.com/sagemaker/jumpstart/getting-started) : Built-in algorithms with pretrained models from model hubs, pretrained foundation models, and prebuilt solutions to solve common use cases
 
-## AI Model Zoo
-- https://parl.ai/docs/zoo.html or https://github.com/facebookresearch/ParlAI
-- https://cloud.google.com/model-garden
-- https://huggingface.co/?trending=model
-- https://tfhub.dev/
-- https://github.com/tensorflow/models/tree/master/official
-- https://paperswithcode.com/
-- https://github.com/openvinotoolkit/open_model_zoo
-- https://deci.ai/resources/videos/tutorial-infery/
-- https://www.elinux.org/Jetson_Zoo#Model_Zoo
-- https://modelzoo.co/
-- https://google.github.io/mediapipe/
-- https://github.com/magenta/magenta/tree/main/magenta/models
-- https://github.com/likedan/Awesome-CoreML-Models
-- https://github.com/PINTO0309/PINTO_model_zoo
-- https://github.com/onnx/models
-- https://www.catalyzex.com/
+## AI Model Zoos
+- [ParlAI](https://parl.ai/docs/zoo.html) or https://github.com/facebookresearch/ParlAI
+- [Google Model Garden](https://cloud.google.com/model-garden)
+- [Huggingface](https://huggingface.co/?trending=model)
+- [TF Hub](https://tfhub.dev/)
+- [Tensorflow on Git](https://github.com/tensorflow/models/tree/master/official)
+- [PaperwithCode](https://paperswithcode.com/)
+- [OpenVino Toolkit](https://github.com/openvinotoolkit/open_model_zoo)
+- [Deci.ai](https://deci.ai/resources/videos/tutorial-infery/)
+- [Jetson Zoo](https://www.elinux.org/Jetson_Zoo#Model_Zoo)
+- [Modelzoo](https://modelzoo.co/)
+- [Mediapipe on github](https://google.github.io/mediapipe/)
+- [Magenta on github](https://github.com/magenta/magenta/tree/main/magenta/models)
+- [Awesome CoreML on github](https://github.com/likedan/Awesome-CoreML-Models)
+- [Pinto Model zoo on github](https://github.com/PINTO0309/PINTO_model_zoo)
+- [ONNX](https://github.com/onnx/models)
+- [CatalyZex](https://www.catalyzex.com/)
 
