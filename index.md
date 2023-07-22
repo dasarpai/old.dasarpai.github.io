@@ -33,9 +33,20 @@ In my experience, it is trying to see the world with one eye if you are making t
 - Time to respond, 
 - Well-defined business requirements.
 
-About data science I think, sometimes data is dying in the harddisk in dark storeroom, othertimes data it is screaming before us. But we don't want to listen other than we we like. Dying without water is one problem but dying/struggling at the bank of river is problem of many organizations. Time has come when organization need to bring their data value to their balance sheets and use this assets  otherwise its is liablity to maintain those storage devices.
+About data science I think, sometimes data is dying in the harddisk in dark storeroom, othertimes data it is screaming before us. But we don't want to listen other than what we like. Dying without water is one problem but dying/struggling at the bank of river is problem of many organizations. Time has come when organization need to bring their data value to their balancesheets and use this assets otherwise its is liablity to maintain those storage devices.
 
-AI is great and changing everything in and around our businesses, but we need to ask the project in hand is AI project or simple process automation. Due diligence to apply AI technologies is a must.
+AI is great and it is changing everything in and around our businesses, but we need to ask the project in hand is AI project or simple process automation. Due diligence to apply AI technologies is a must. Don't ask questions like how AI can help our business, or what AI tool can be used. It is like putting cart before the horse. Business does not run for technology but technology should help us doing business in efficient way. Therefore ask the question, can we do better using existing resources, technologies and processes? What is the meaning of better for us? The definition of better may be
+- Reducing cost
+- Reduinng time
+- Improving quality
+- Improving customer experience
+- Reducing turn around time
+- Reducing waste
+- Removing last moment surprises
+- Improving compliance
+- Improve brand value
+- Inreasing sales
+- or any other metrics which is important for your team, department, organization or business vertical. 
 
 About Data Science Project I think, AI is also software, but AI projects are not like typical software project. They have completely different pipelines and project lifecycle, and hence need different methodologies and tools to manage AI projects.
 

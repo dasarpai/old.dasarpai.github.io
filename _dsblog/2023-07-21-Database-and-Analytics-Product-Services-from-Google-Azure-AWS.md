@@ -41,6 +41,7 @@ toc_sticky: true
 | 14. |[AWS Database Migration Service : Migrate databases with minimal downtime](https://aws.amazon.com/dms/?nc2=h_ql_prod_db_dbm) |  | 
 
 ## Data Analytics Tools/Services
+
 |Sno| Amazon | Azure | Microsoft
 |---|---|---|---
 | 1. |[Amazon Athena : Query data in S3 using SQL](https://aws.amazon.com/athena/?nc2=h_ql_prod_an_ath) | [BigQuery : Data warehouse for business agility and insights.](https://console.cloud.google.com/alloydb?authuser=3&project=test-project-gcp-360004) | [Azure Synapse Analytics : Limitless analytics with unmatched time to insight](https://azure.microsoft.com/en-us/products/synapse-analytics/)
