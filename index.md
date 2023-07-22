@@ -18,14 +18,26 @@ sidebar:
 }
 </style>
 
-## Ek Kendra for Data Science
-One place to learn everything about Data Science, AI, Machine Learning, Deep Learning, GAN, NLP, RL. This blog contains my 3 decades experience around Project Management, IT Technology, Software Development, Process Automation, Business Analytics in diverse domains like Logistic, BFSI, Health, Education, Staffing, and NGO. In various roles like Programmer, Architect, Business Analyst, Data Analyst, Product Manager, Project Manager, Program Manager, Delivery Head, Trainer, Coach, Consultant, Mentors with different companies. I gained a deeper understanding about the businesses and how technology can help businesses in making better and timely decisions which can maximize the stakeholder engagement and more business. 
+## AI/ ML Blogs
+   [Jump to AI/ML Articles](/dsblog)
 
-In my experience, making the business decision ignoring any of these factors like technical capabilities of the organization, market competition, future growth, current business need, project budget, time to respond, well-defined business requirements. It is trying to see the world with one eye.
+## Ek Kendra for Data Science
+One place to learn everything about Data Science, AI, Machine Learning, Deep Learning, GAN, NLP, RL. This blog contains my 3 decades experience around Data Science, Project Management, AI/ML, IT Technology, Software Development, Process Automation, Business Analytics in diverse domains like Logistic, BFSI, Health, Education, Staffing, and NGO. In various roles like Programmer, Architect, Business Analyst, Data Analyst, Product Manager, Project Manager, Program Manager, Delivery Head, Trainer, Coach, Consultant, Mentors with different companies. I gained a deeper understanding about the businesses and how technology can help businesses in making better and timely decisions which can maximize the stakeholder engagement and more business. 
+
+In my experience, it is trying to see the world with one eye if you are making the business decision ignoring any of these factors like 
+- Technical capabilities of the organization, 
+- Market competition, 
+- Future growth, 
+- Current business need, 
+- Project budget, 
+- Time to respond, 
+- Well-defined business requirements.
+
+About data science I think, sometimes data is dying in the harddisk in dark storeroom, othertimes data it is screaming before us. But we don't want to listen other than we we like. Dying without water is one problem but dying/struggling at the bank of river is problem of many organizations. Time has come when organization need to bring their data value to their balance sheets and use this assets  otherwise its is liablity to maintain those storage devices.
 
 AI is great and changing everything in and around our businesses, but we need to ask the project in hand is AI project or simple process automation. Due diligence to apply AI technologies is a must.
 
-AI is software, but AI projects are not like typical software project. They have completely different pipelines and project lifecycle, and hence need different methodologies and tools to manage AI projects.
+About Data Science Project I think, AI is also software, but AI projects are not like typical software project. They have completely different pipelines and project lifecycle, and hence need different methodologies and tools to manage AI projects.
 
  <script src="https://gist.github.com/dasarpai/6dea9df613fc708b258dbca6446759bb.js"></script>
  
@@ -46,13 +58,6 @@ AI is software, but AI projects are not like typical software project. They have
 		
 ## Summary About Me: 
 Hari Thapliyal is a vivid blogger on various subjects including Data Science, AI, Machine Learning, Project Management, Process Automation, PMO, Advait-Vedanta Philosophy, and Indian Culture. He has Master's degrees in Computers, Business Management, Data Science, and Economics. He is pursuing his Doctorate in AI (NLP) from the Swiss School of Business Management (Geneva, Switzerland). Hari has around 3 decades of experience in management & leadership, training, consulting, and coaching in technology. 16+ years in all phases of software product development. 10+ years in course design, training, coaching, and consulting on Project Management. 4+ years experience in course development, exploring, experimenting, training, coaching, and mentoring hundreds of professionals in Data Science, AI, CV, NLP, complex machine learning algorithms, statistical modeling, identifying patterns, and extracting valuable insights. He has diverse experience in planning & executing multiple projects and liaising with key stakeholders to identify & resolve business problems and deliver excellent results. In his spare time, he loves to track long-distance, meditate in some secluded place or in nature.
-
-
-## Resources to Learn Everything about Data Science, AI, Machine Learning, Deep Learning and NLP.
-   [Resources to Learning Everything of AI](/dsblog/all-resources-to-learn-data-science)
-
-## AI/ ML Blogs
-   [Jump to AI/ML Articles](/dsblog)
 
 <hr>
 
