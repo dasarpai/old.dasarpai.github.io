@@ -3,7 +3,7 @@ mathjax: true
 id: 6080
 title: Introduction to Prompt Engineering
 date: 2023-07-24
-permalink: '/dsblog/dsp6080-Introduction-to-Prompt-Engineering'
+permalink: '/dsblog/Introduction-to-Prompt-Engineering'
 tags: [AWS, Google, Azure, Cloud, AutoML, Data Analytics, Databases] 
 categories: 
 
@@ -21,7 +21,7 @@ toc_sticky: true
 
 # Introduction to Prompt Best Engineering 
 
-Prompts can contain questions, instructions, contextual information, examples, and partial input for the model to complete or continue. After the model receives a prompt, depending on the type of model being used, it can generate text, embeddings, code, images, videos, music, and more.
+Prompts can contain questions, instructions, contextual information, examples, and partial input for the model to complete or continue. After the model receives a prompt, depending on the type of model being used, it can generate text, embeddings, code, images, videos, music, and more. Below are **14 examples of good prompts**.
 
 ## Example 1 (Entity input)
 ```
@@ -297,8 +297,8 @@ The answer is:
 	- Use with care on math and logic problems.
 	
 ## References 
-- https://developers.generativeai.google/guide/prompt_best_practices
-- https://dasarpai.com/dsblog/chatgpt-usecases
-- https://dasarpai.com/dsblog/gpt-usecases
-- https://dasarpai.com/dsblog/business-usecases-of-gpt
-- https://dasarpai.com/dsblog/will-ai-replace-human
+- [Prompt Best Practices by Google](https://developers.generativeai.google/guide/prompt_best_practices)
+- [Chatgpt Usecases by Hari Thapliyaal](https://dasarpai.com/dsblog/chatgpt-usecases)
+- [GPT Usecases by by Hari Thapliyaal](https://dasarpai.com/dsblog/gpt-usecases)
+- [Business Usecase of GPT by Hari Thapliyaal](https://dasarpai.com/dsblog/business-usecases-of-gpt)
+- [Will AI Replace Human by Hari Thapliyaal](https://dasarpai.com/dsblog/will-ai-replace-human)
