@@ -83,23 +83,26 @@ cloud-samples-data/ai-platform/generative_ai/headline_classification.jsonl
 	- Train steps: Enter the number of steps to run for model tuning. 1000 steps will take 2-3 hours to complete tuning.
 	- Learning rate: Control the step size at which a model updates its weights during training. Default: 3.
 	- Working directory: Enter the URI of the bucket to store the tuned model. If don't have one, you can create a new bucket.
+
 ### After tuning
-	- To check the status of your model tuning job, go to the Pipelines page. The status of your pipeline can be found in the Runs section.
-	- To view your tuned models in the Google Cloud console, go to the Vertex AI Model Registry page.
+- To check the status of your model tuning job, go to the Pipelines page. The status of your pipeline can be found in the Runs section.
+- To view your tuned models in the Google Cloud console, go to the Vertex AI Model Registry page.
+
 ### Use the tuned model
-	- To use your tuned models with new prompts, go to the Language page.
-	- Click Text prompt.
-	- In the Model drop down, select the tuned model that you have created.
-	- Copy the sample prompt and submit to view the results.
-	```
-	Multi-choice problem: What is the topic of this text?
-	- business
-	- entertainment
-	- health
-	- sports
-	- technology
-	- politics
-	Text: What is a large language model (LLM)?
-	The answer is:
-	```
+- To use your tuned models with new prompts, go to the Language page.
+- Click Text prompt.
+- In the Model drop down, select the tuned model that you have created.
+- Copy the sample prompt and submit to view the results.
+
+```
+Multi-choice problem: What is the topic of this text?
+- business
+- entertainment
+- health
+- sports
+- technology
+- politics
+Text: What is a large language model (LLM)?
+The answer is:
+```
 	
