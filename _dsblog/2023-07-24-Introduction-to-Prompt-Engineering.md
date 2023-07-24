@@ -4,7 +4,7 @@ id: 6080
 title: Introduction to Prompt Engineering
 date: 2023-07-24
 permalink: '/dsblog/Introduction-to-Prompt-Engineering'
-tags: [AWS, Google, Azure, Cloud, AutoML, Data Analytics, Databases] 
+tags: [LLM, Prompt Engineering, Google Cloud, AWS Cloud, Auzre Cloud, Language Models] 
 categories: 
 
 header:
