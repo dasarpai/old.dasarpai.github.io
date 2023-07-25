@@ -207,8 +207,10 @@ In this article, I am publishing a curated collection of datasets sourced from o
 |171. | [Temporal concept localization within video - YouTube-8M](https://www.kaggle.com/competitions/youtube8m-2019/data), [Link2](https://research.google.com/youtube8m/)| The YouTube-8M Segments dataset is an extension of the YouTube-8M dataset with human-verified segment annotations. In addition to annotating videos, we would like to temporally localize the entities in the videos, i.e., find out when the entities occur.
 |172. | [CodaLab](https://codalab.lisn.upsaclay.fr/my/) | Hundreds of interesting datasets.
 |173. | [Hate Speech Dataset in Devnagari](https://www.kaggle.com/datasets/harithapliyal/hate-speech-in-hindi) | 
-|174. | []() | 
-
+|174. | [Stanford Speech Dataset](https://web.stanford.edu/class/cs224s/datasets/) | 
+|175. | [TED-LIUM corpus release 3](https://www.openslr.org/51) | 
+|176. | [40 Open Source Audio Datasets](https://towardsdatascience.com/40-open-source-audio-datasets-for-ml-59dc39d48f06)
+|177. | [Microsoft Dataset](https://www.microsoft.com/en-us/research/tools/?) |
 
 
 
