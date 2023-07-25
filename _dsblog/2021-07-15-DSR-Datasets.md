@@ -18,7 +18,7 @@ toc_sticky: true
 ---
 ![Datasets](/assets/images/dspost/dsr115-Datasets.jpg)    
    
-# Machine Learning Datasets   
+# 150+ Machine Learning Datasets   
    
 ## Introduction:   
    
@@ -28,7 +28,11 @@ Without Data there is no Machine Learning, no AI, no Deep Learning. Because of h
 Thus, machine learning rely heavily on high-quality datasets for training and evaluation. These datasets serve as the foundation for developing robust and accurate models across various AI domains, including classical machine learning, computer vision, natural language processing (NLP), audio processing, and time series analysis. Access to diverse and comprehensive datasets is crucial for researchers and practitioners to tackle real-world problems and advance the field of machine learning.
 
 
-In this article, I am publishing a curated collection of datasets sourced from over 150 data sources. These datasets and data sources have been carefully selected to cover a wide range of domains, ensuring their relevance to different machine learning applications. Whether you are working on a NLP/text project, CV/image project, audio project, or time series forecasting, or classical machine learning, you'll find valuable datasets to support your research and development efforts. Let's dive into the world of machine learning datasets and discover the wealth of resources available to fuel your projects. If you dig each link, you will find hundreds, if not thousands of datasets under many of the links shared. I hope you will get benefitted from this work. These links I got from chrome bookmarks. At the time of writing this article, I have validated the link. If you find any link is not work / wrongly pointing / wrongly describing then please help me in improving this article. You can write to me at hari.prasad @ vedavit-ps .com.
+In this article, I am publishing a curated collection of datasets sourced from over 150 data sources. These datasets and data sources have been carefully selected to cover a wide range of domains, ensuring their relevance to different machine learning applications. Whether you are working on a NLP/text project, CV/image project, audio project, or time series forecasting, or classical machine learning, you'll find valuable datasets to support your research and development efforts. Let's dive into the world of machine learning datasets and discover the wealth of resources available to fuel your projects. If you dig each link, you will find hundreds, if not thousands of datasets under many of the links shared. I hope you will get benefitted from this work. 
+
+**Note:** These links I got from chrome bookmarks. At the time of writing this article, I have validated the link. If you find any link is not work / wrongly pointing / wrongly describing then please help me in improving this article. You can write to me at hari.prasad @ vedavit-ps .com.   
+
+**Note:** If you want to search image dataset on this page search "image", for speech search "speech"
 
 ## List of Datasets and Data Sources
 
@@ -55,8 +59,8 @@ In this article, I am publishing a curated collection of datasets sourced from o
 |19. | [Annotated face, hand, cardiac & meat images](https://www.cs.cmu.edu/~cil/v-images.html) |Annotated face, hand, cardiac & meat images – Most images & annotations are supplemented by various ASM/AAM analyses using the AAM-API. (Formats: bmp,asf)
 |20. | [Apigee](https://apigee.com/providers) |Apigee: explore dozens of popular APIs
 |21. | [apilist.fun](https://apilist.fun/) |API List: A public list of free APIs for programmers
-|22. | [AT&T Laboratories Cambridge face database](https://www.kaggle.com/datasets/kasikrit/att-database-of-faces) |AT&T Laboratories Cambridge face database
-|23. | [AVHRR Pathfinder](https://www.ncei.noaa.gov/products/avhrr-pathfinder-sst) |AVHRR Pathfinder
+|22. | [AT&T Laboratories Cambridge face database - Images](https://www.kaggle.com/datasets/kasikrit/att-database-of-faces) |AT&T Laboratories Cambridge face database
+|23. | [AVHRR Pathfinder](https://www.ncei.noaa.gov/products/avhrr-pathfinder-sst) |National Centre for Environment Information
 |24. | [Awesome Deep Learning Database](https://github.com/ChristosChristofidis/awesome-deep-learning#datasets) |Densely Sampled View Spheres – Densely sampled view spheres – upper half of the view sphere of two toy objects with 2500 images each. (Formats: tiff)
 |25. | [Awesome Public Dataset](https://github.com/awesomedata/awesome-public-datasets) |
 |26. | [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) |Awesome Public Datasets: Well-organized and frequently updated
@@ -88,16 +92,16 @@ In this article, I am publishing a curated collection of datasets sourced from o
 |52. | [DataInnovation Dataset Blog](http://www.datainnovation.org/category/publications/data-set-blog/) |Center for Data Innovation: blog posts about interesting, recently-released data sets.
 |53. | [Dataverse.org](http://dataverse.org/) |Dataverse Project: searchable archive of research data
 |54. | [DC Open Data Catalog](http://data.dc.gov/) |DC Open Data Catalog / OpenDataDC
-|55. | [Deep Fashion](https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) |Large-scale Fashion (DeepFashion) Database – Contains over 800,000 diverse fashion images. Each image in this dataset is labeled with 50 categories, 1,000 descriptive attributes, bounding box and clothing landmarks
-|56. | [Devanagari Handwritten Character Dataset](https://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Dataset) |
+|55. | [Deep Fashion - Images](https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) |Large-scale Fashion (DeepFashion) Database – Contains over 800,000 diverse fashion images. Each image in this dataset is labeled with 50 categories, 1,000 descriptive attributes, bounding box and clothing landmarks
+|56. | [Devanagari Handwritten Character Dataset - Images](https://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Dataset) |
 |57. | [Donor Choose](http://data.donorschoose.org/open-data/overview/) |Donors Choose: data related to their projects
 |58. | [Face and Gesture images and image sequences](https://paperswithcode.com/datasets?task=pose-estimation&mod=images) |Face and Gesture images and image sequences – Several image datasets of faces and gestures that are ground truth annotated for benchmarking http://www.fg-net.org/
 |59. | [FG-NET Facial Aging Database](https://paperswithcode.com/dataset/fg-net) |FG-NET Facial Aging Database – Database contains 1002 face images showing subjects at different ages. (Formats: jpg)
-|60. | [Finding Datasets](http://www.inside-r.org/howto/finding-data-internet) |inside-R
-|61. | [Flickr 30k](https://www.kaggle.com/datasets/adityajn105/flickr30k) |Flickr 30k
-|62. | [Flickr 8k](https://www.kaggle.com/datasets/adityajn105/flickr8k) |Flickr 8k
-|63. | [Flickr Data 100 Million Yahoo dataset](https://datainnovation.org/2014/07/100-million-flickr-images-for-download/) |Flickr Data 100 Million Yahoo dataset
-|64. | [FVC2000 Fingerprint Databases](http://bias.csr.unibo.it/fvc2000/) |FVC2000 Fingerprint Databases - FVC2000 is the First International Competition for Fingerprint Verification Algorithms. Four fingerprint databases constitute the FVC2000 benchmark (3520 fingerprints in all).
+|60. | [Finding Datasets from inside-r.org](http://www.inside-r.org/howto/finding-data-internet) |inside-R
+|61. | [Flickr 30k, Images with Caption](https://www.kaggle.com/datasets/adityajn105/flickr30k) |Flickr 30k
+|62. | [Flickr 8k, Images with Caption](https://www.kaggle.com/datasets/adityajn105/flickr8k) |Flickr 8k
+|63. | [Flickr Data 100 Million Yahoo dataset, Images](https://datainnovation.org/2014/07/100-million-flickr-images-for-download/) |Flickr Data 100 Million Yahoo dataset
+|64. | [FVC2000 Fingerprint Databases, Images](http://bias.csr.unibo.it/fvc2000/) |FVC2000 Fingerprint Databases - FVC2000 is the First International Competition for Fingerprint Verification Algorithms. Four fingerprint databases constitute the FVC2000 benchmark (3520 fingerprints in all).
 |65. | [Gapminder Data](https://www.gapminder.org/data/) |
 |66. | [German Fingerspelling Database](https://mldta.com/dataset/german-fingerspelling-database/) |German Fingerspelling Database – The database contains 35 gestures and consists of 1400 image sequences that contain gestures of 20 different persons recorded under non-uniform daylight lighting conditions. http://www-i6.informatik.rwth-aachen.de/~dreuw/database.html
 |67. | [Getting Stock Data](https://pypi.org/project/GoogleNews/) |
@@ -201,16 +205,18 @@ In this article, I am publishing a curated collection of datasets sourced from o
 |165. | [Kinetics Dataset](https://deepmind.com/research/open-source/kinetics) | There are three different datasets for Kinetics: Kinetics 400, Kinetics 600, and Kinetics 700 dataset. This is a large scale dataset that contains a URL link to around 6.5 million high-quality videos. Build a human action recognition model and detect the action of a human. 
 |166. | [IMDB-Wiki dataset](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/) | The IMDB-Wiki dataset is one of the largest open-source datasets for face images with labeled gender and age. The images are collected from IMDB and Wikipedia. It has 5 million-plus labeled images.
 |167. | [Color Detection Dataset](https://github.com/codebrainz/color-names/blob/master/output/colors.csv) | The dataset contains a CSV file that has 865 color names with their corresponding RGB (red, green, and blue) values of the color.
-|168. | [Librispeech Dataset](http://www.openslr.org/12) | This dataset contains a large number of English speeches that are derived from the LibriVox project. It has 1000 hours of English-read speech in various accents. The objective of speech recognition is to automatically identify what is being said in the audio.
+|168. | [Libri Speech Dataset](http://www.openslr.org/12) | This dataset contains a large number of English speeches that are derived from the LibriVox project. It has 1000 hours of English-read speech in various accents. The objective of speech recognition is to automatically identify what is being said in the audio.
 |169. | [Breast Histopathology Images Dataset](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images) | This dataset contains 2,77,524 images of size 50×50 extracted from 162 mount slide images of breast cancer specimens scanned at 40x. There are 1,98,738 negative tests and 78,786 positive tests with IDC.
 |170. | [youtube-8M analytics](https://www.kaggle.com/code/ayoubchebbi/youtube-8m-analytics) | 
 |171. | [Temporal concept localization within video - YouTube-8M](https://www.kaggle.com/competitions/youtube8m-2019/data), [Link2](https://research.google.com/youtube8m/)| The YouTube-8M Segments dataset is an extension of the YouTube-8M dataset with human-verified segment annotations. In addition to annotating videos, we would like to temporally localize the entities in the videos, i.e., find out when the entities occur.
 |172. | [CodaLab](https://codalab.lisn.upsaclay.fr/my/) | Hundreds of interesting datasets.
-|173. | [Hate Speech Dataset in Devnagari](https://www.kaggle.com/datasets/harithapliyal/hate-speech-in-hindi) | 
+|173. | [Hate Speech Dataset in Devnagari from Kaggle](https://www.kaggle.com/datasets/harithapliyal/hate-speech-in-hindi) | 
 |174. | [Stanford Speech Dataset](https://web.stanford.edu/class/cs224s/datasets/) | 
 |175. | [TED-LIUM corpus release 3](https://www.openslr.org/51) | 
 |176. | [40 Open Source Audio Datasets](https://towardsdatascience.com/40-open-source-audio-datasets-for-ml-59dc39d48f06)
-|177. | [Microsoft Dataset](https://www.microsoft.com/en-us/research/tools/?) |
+|177. | [Microsoft Datasets](https://www.microsoft.com/en-us/research/tools/?) |
+|178. | [9 Voice Datasets from cmwire](https://www.cmswire.com/digital-asset-management/9-voice-datasets-you-should-know-about/)
+
 
 
 
