@@ -173,3 +173,29 @@ If you are using AI API services, then the price depends on what specific AI ser
 - Web Detection Operations
 - Product Search Metadata Storage
 
+
+## Important Google Cloud Commands
+- $gcloud help - Displays help for a specific gcloud command.
+- $gcloud --help - Displays a list of all available gcloud commands.
+- $gcloud --version - Displays the version of the gcloud CLI.
+- $gcloud init - Initializes the gcloud CLI and sets your default project.
+- $gcloud projects list - Lists all of your Google Cloud projects.
+- $gcloud compute instances create - Creates a new Compute Engine virtual machine instance.
+- $gcloud compute instances list - Lists all of your Compute Engine virtual machine instances.
+- $gcloud compute instances start - Starts a Compute Engine virtual machine instance.
+- $gcloud compute instances stop - Stops a Compute Engine virtual machine instance.
+- $gcloud compute instances delete - Deletes a Compute Engine virtual machine instance.
+- $gcloud compute firewall-rules create - Creates a new Compute Engine firewall rule.
+- $gcloud compute firewall-rules list - Lists all of your Compute Engine firewall rules.
+- $gcloud compute firewall-rules delete - Deletes a Compute Engine firewall rule.
+- $ gcloud iam service-accounts create SERVICE_ACCOUNT_NAME
+- $ gcloud projects add-iam-policy-binding PROJECT_ID
+- $ gcloud auth application-default login
+- $ gcloud services enable pubsub.googleapis.com
+- $ gcloud services disable pubsub.googleapis.com
+
+## Reference
+- [cloud.google.com/pricing/list](https://cloud.google.com/pricing/list)
+- [Cheatsheet of Google Cloud Commands](https://cloud.google.com/sdk/docs/cheatsheet)
+- [API Libraries in Different Languages](https://cloud.google.com/apis/docs/cloud-client-libraries)
+- [Python Library of API on Github](https://github.com/googleapis/google-cloud-python)
