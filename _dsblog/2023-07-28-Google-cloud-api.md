@@ -22,21 +22,23 @@ toc_sticky: true
 # Google Cloud APIs
 
 ## Introduction
-There are hundreds of services from google which are available to consumer as API. Every API has certain purpose. Over the period of time google keep clubbing these API endpoints (a url/place where service is available), cleaning their code and improving capabilites of these services. Therefore sometimes it looks endpoint or pip package is same but its API name is different. Recently when google clubbed their many AI APIs they are moved under VertexAI and API endpoint changed to aiplatform.googleapi.com. To bring some clarity for my own sake and some of you may life this, I wrote this article.
+Hundreds of services from Google are available to consumers as API. Every API has a specific purpose. Over a period of time, google keeps clubbing these API endpoints (a url/place where a service is available), cleaning their code and improving the capabilities of these services. Therefore, sometimes it looks endpoint or pip package is the same, but its API name is different. Recently when google clubbed their many AI APIs they are moved under VertexAI and API endpoint changed to aiplatform.googleapi.com. To bring some clarity for my own sake and some of you may like this, I wrote this article.
 
-If you want to try these API services from your local machine or on premise machine. You need to do the following.
+
+Suppose you want to try these API services from your local machine or on premise machine. You need to do the following.
 1. You need to install google cloud SDK on the machine.
-2. use gcloud command to connect google project. Because when you use google cloud API they will charge you for that. And all the charges are against some resources (service api, virtual machine, storage, processing etc). These resources are managed under a google project. You can set budget for these services at project level. Thus it becomes easy to track your expenses and budget.
-3. create virtual environment using python virtualenv command or conda command
-4. Activate the conda environment
-5. pip install the package in that environment (for this you can refere the table below)
-6. Write you code in python to consume the API service.
+2. Use gcloud command to connect google project. Because when you use google cloud API, Google will charge you for that. And all the charges are against some resources (service API, virtual machine, storage, processing etc). These resources are managed under a Google project. You can set budget for these services at project level. Thus, it becomes easy to track your expenses and budget.
+3. Create virtual environment using python virtualenv command or conda command
+4. Activate the virtual environment.
+5. pip install the package in that environment (for this you can refer the table below)
+6. Write your code in python to consume the API service.
 6. Execute the code on the command prompt.
 
-At the GCP end you need to 
-1. Enable the corrosponding API.
+
+At the GCP (cloud.google.com) end, you need to
+1. Enable the corresponding API.
 2. Create the API key. Sometimes you may access the service with API key.
-3. Create an user and authorise this API service to use that service
+3. Create a service user and authorize this service user to access that API service.
 
 ## Google API List and Endpoints
 
@@ -139,10 +141,12 @@ At the GCP end you need to
 | 95. | Cloud Workflows API | workflows.googleapis.com | pip install google-cloud-workflows | Allows building, deploying, and managing workflows.
 
 ## Price of the API Services
-Price for each of these API services is different. You can know that using following link.
-https://console.cloud.google.com/apis/library/{API-Endpoint} API-Endpoint you can refer from the table below. Then you can get the price information from price tab. For example https://console.cloud.google.com/apis/library/vision.googleapis.com you can the price of vision service.
+The price for each of these API services is different. You can know that using the following link.
+https://console.cloud.google.com/apis/library/{API-Endpoint} API-Endpoint you can refer to the table below. Then you can get the price information from the price tab. For example https://console.cloud.google.com/apis/library/vision.googleapis.com you can the price of the vision service.
 
-If you are using AI API services then the price depends what specific AI service you are using. For example.
+
+If you are using AI API services, then the price depends on what specific AI service you are using. For example.
+
 - AutoML Human Labeled Images With 1 Rater
 - AutoML Human Labeled Images With 3 Raters
 - AutoML Image Classification Batch Prediction for AutoML Vision or Vertex AI
