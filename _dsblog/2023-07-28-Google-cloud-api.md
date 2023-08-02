@@ -144,6 +144,7 @@ At the GCP (cloud.google.com) end, you need to
 The price for each of these API services is different. You can know that using the following link.
 https://console.cloud.google.com/apis/library/{API-Endpoint} API-Endpoint you can refer to the table below. Then you can get the price information from the price tab. For example https://console.cloud.google.com/apis/library/vision.googleapis.com you can the price of the vision service.
 
+- [cloud.google.com/pricing/list](https://cloud.google.com/pricing/list)
 
 If you are using AI API services, then the price depends on what specific AI service you are using. For example.
 
@@ -194,8 +195,14 @@ If you are using AI API services, then the price depends on what specific AI ser
 - $ gcloud services enable pubsub.googleapis.com
 - $ gcloud services disable pubsub.googleapis.com
 
-## Reference
-- [cloud.google.com/pricing/list](https://cloud.google.com/pricing/list)
+## Google Cloud SDK: Tools for all languages	
 - [Cheatsheet of Google Cloud Commands](https://cloud.google.com/sdk/docs/cheatsheet)
-- [API Libraries in Different Languages](https://cloud.google.com/apis/docs/cloud-client-libraries)
-- [Python Library of API on Github](https://github.com/googleapis/google-cloud-python)
+- "Google Cloud CLI" lets you manage resources and services from the command line. It also contains service and data emulators to speed up local development.
+- "Cloud Shell" lets you code or use a terminal directly in the web-browser.
+- "Cloud Code" provides IDE extensions for VSCode and IntelliJ.
+
+## Google Cloud Libraries
+- [Google Cloud API Libraries in Different Languages](https://cloud.google.com/apis/docs/cloud-client-libraries)
+- [Google Cloud Python Library of API on Github](https://github.com/googleapis/google-cloud-python)
+- [API Library List](https://cloud.google.com/python/docs/reference)
+

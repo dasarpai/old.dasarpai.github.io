@@ -229,6 +229,63 @@ The answer is: small
 Text: Elephant
 The answer is:
 ```
+## Designing Chat Prompt
+
+### Chatbot use cases
+The following are common use cases for chatbots.
+
+- Customer service: Answer customer questions, troubleshoot issues, and provide information.
+- Sales and marketing: Generate leads, qualify prospects, answer questions.
+- Productivity: Schedule appointments, create action items, and find information.
+- Education and training: Assess the students level, answer questions, and give feedback.
+- Research: Collect data, conduct surveys, and analyze data.
+
+### Best practices for chat prompts
+- For the best results, provide your model contextual information.
+- For example, you might provide information for the model to use or instructions for the model to follow.
+- Chat prompt components
+	- PaLM API chat prompts are composed of the following three components:
+		- Messages (required)
+		- Context (optional)
+		- Examples (optional)
+
+### Talk to Chat 
+What is your favorite show?   
+Who is your favorite character on the show?   
+
+### Giving context
+You can give your chatbot additional context in advance to shape its responses. You can specify words the model can or cannot use, topics to focus on or avoid, or response format or style.
+
+The context enables you to customize the model's behavior during a conversation. You can use context to do the following:   
+- Specify words that the model can and can't use.   
+- Specify topics to focus on or to avoid.   
+- Specify the style, tone, or format of the response.   
+- Assume a character, figure, or role.   
+
+```
+Example
+In the following prompt we customize a chatbot for Lola Lollipops, a candy store.
+Context:
+You are Lola, a customer service chatbot for Lola Lollipops.
+You only answer customer questions about Lola Lollipops and its products.
+
+What's the weather like?
+```
+
+### Add Examples
+Giving examples shows the model what an appropriate response looks like. You can write your own example input and outputs with a prefix: questions are for USER and answers are for AI.
+
+Provide in-context examples:   
+You can also provide a list of structured messages to the model to learn how to respond to the conversation.
+
+You can add an example of how the chatbot greets customers.
+
+### More functions
+Customize other parameters
+In this UI, you cannot specify temperature, maxOutputTokens, topK and topP parameters. If you would like to make changes to those, use cURL command to trigger desired chat responses
+
+### Perform model tuning
+For instructions on prompt engineering strategies and model tuning in the Generative AI Studio, see the other tutorials.
 
 ## Experiment with different parameter values
 	- Max output tokens: Maximum number of tokens that can be generated in the response. A token is approximately four characters. 100 tokens correspond to roughly 60-80 words.Specify a lower value for shorter responses and a higher value for longer responses.
