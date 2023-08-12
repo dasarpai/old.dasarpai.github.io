@@ -4,7 +4,7 @@ title: "Machine Learning Tasks and Model Evaluation"
 permalink: /dsblog/ml-tasks-and-model-evaluation
 date: 2021-07-14
 categories:
-tags: [DS Resources, Model Evaluation, Machine Learning Tasks]
+tags: [DS Resources, Model Evaluation, Machine Learning Tasks, NLP Tasks, NLP Model Evaluation]
 header:
   teaser:  /assets/images/dspost/dsr114-ml-tasks-and-model-evaluation.jpg
 last_modified_at: 2021-06-15T15:46:43-04:00
@@ -25,7 +25,7 @@ Machine learning is a subject where we study how to create & evaluate machine le
 
 
 ## What is GLUE Benchmark?
-The GLUE (General Language Understanding Evaluation) benchmark is a collection of diverse natural language processing (NLP) tasks designed to evaluate and compare the performance of various machine learning models and techniques in understanding and processing human language. It serves as a standard evaluation framework for assessing the general language understanding capabilities of different models.
+The **GLUE (General Language Understanding Evaluation)** benchmark is a collection of diverse natural language processing (NLP) tasks designed to evaluate and compare the performance of various machine learning models and techniques in understanding and processing human language. It serves as a standard evaluation framework for assessing the general language understanding capabilities of different models.
 
 The GLUE benchmark was **introduced in 2018** and consists of a set of **nine different NLP tasks**, covering a wide range of language understanding tasks including sentence classification, sentence similarity, natural language inference, and question answering. Some of the tasks included in GLUE are the Stanford Sentiment Treebank, Multi-Genre Natural Language Inference, and the Recognizing Textual Entailment dataset.
 
@@ -55,11 +55,31 @@ It's important to note that the SuperGLUE benchmark, while providing more challe
 - https://paperswithcode.com/dataset/superglue
 
 ## What is BLEU Benchmark?
-The BLEU (Bilingual Evaluation Understudy) score and the GLUE (General Language Understanding Evaluation) score are two different evaluation metrics used in the field of natural language processing (NLP), but they serve different purposes and evaluate different aspects of NLP models.
+The **BLEU (Bilingual Evaluation Understudy)** score and the GLUE (General Language Understanding Evaluation) score are two different evaluation metrics used in the field of natural language processing (NLP), but they serve different purposes and evaluate different aspects of NLP models.
 
 BLEU is a metric commonly used to evaluate the **quality of machine translation** systems. It measures the similarity between the machine-generated translations and reference translations provided by human translators. BLEU score is **based on n-gram precision**, where it compares the n-gram sequences (typically up to 4-grams) between the machine-generated output and the reference translations. It assigns a score between 0 and 1, with a higher score indicating better translation quality.
 
 GLUE is a benchmark evaluation metric designed to evaluate the performance of general language understanding models. It consists of a **collection of diverse NLP tasks, including question answering, sentiment analysis, text classification, translation, and others. The GLUE score measures the average performance of a model across these tasks. Models are trained on a subset of the GLUE benchmark tasks and evaluated based on their performance on the remaining tasks. The higher the GLUE score, the better the overall performance of the model on various NLP tasks.
+
+## What is METEOR Score?
+**METEOR (Metric for Evaluation of Translation with Explicit ORdering)** is a popular automatic evaluation metric used in the field of Natural Language Processing (NLP) to assess the quality of machine translation outputs. METEOR is designed to measure the overall similarity and alignment between a generated translation and a reference (human-generated) translation, taking into account multiple levels of linguistic analysis.
+
+Unlike simpler metrics such as BLEU (Bilingual Evaluation Understudy), which primarily focus on measuring n-gram overlaps between the generated and reference translations, METEOR incorporates more sophisticated linguistic features and alignments to provide a more comprehensive evaluation.
+
+Key features of the METEOR metric include:
+
+- Tokenization and Stemming: METEOR tokenizes and stems both the generated and reference translations to handle variations in word forms and improve alignment.
+- Exact Matching and Stem Matching: METEOR calculates the precision and recall of exact word matches as well as matches based on stemmed forms of words, considering synonyms and related words.
+- Alignment and Synonymy: METEOR uses a paraphrase database to identify synonyms and related words, which helps in capturing semantically equivalent terms.
+- Word Order: METEOR explicitly considers word order and alignment between words in the generated and reference translations.
+- Chunk-based Matching: METEOR evaluates matches at the chunk level, which allows for partial credit for translations that have word-level differences but still capture the same meaning.
+- Punctuation and Function Words: METEOR takes into account punctuation and function words and their alignment, as they play a role in overall sentence coherence.
+- Precision and Recall: METEOR calculates precision and recall scores for each of the above components and combines them to compute the final metric.
+- Normalization and Penalty: METEOR applies normalization to the precision and recall scores and incorporates penalty terms to balance precision and recall contributions.
+
+The final METEOR score is a combination of these individual components, reflecting the quality of the generated translation in terms of semantic content, syntax, word choice, and alignment with the reference translation. METEOR is designed to address some of the limitations of BLEU and provide a more holistic evaluation of translation quality, considering linguistic variations and nuances.
+
+METEOR has been widely used in machine translation research and competitions, serving as an important tool for comparing and benchmarking different translation systems and approaches. It provides a more comprehensive and linguistically informed perspective on translation quality, making it a valuable addition to the arsenal of NLP evaluation metrics.
 
 ## What is XTREME Benchmark?
 The XTREME (Cross-lingual TRansfer Evaluation of Multilingual Encoders) benchmark is a comprehensive evaluation framework **introduced in 2020** for assessing the performance of multilingual models in natural language understanding (NLU) tasks across multiple languages. It aims to evaluate the generalization and transfer capabilities of models in cross-lingual settings.
