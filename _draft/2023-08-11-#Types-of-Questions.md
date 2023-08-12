@@ -108,3 +108,6 @@ Leading questions subtly guide respondents toward a particular answer, often by 
 ### Probing Questions:
 
 Probing questions are used to delve deeper into a topic, encouraging respondents to provide more extensive answers.
+
+## Resources 
+https://www.indeed.com/career-advice/career-development/types-of-questions
