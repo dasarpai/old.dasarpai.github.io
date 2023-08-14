@@ -8,7 +8,7 @@ tags: [Google Cloud, APIs]
 categories: 
 
 header:
-    teaser: /assets/images/dspost/
+    teaser: /assets/images/dspost/dsp6083-Types-of-Questions.jpg
 excerpt_separator: "<!--more-->"  
 excerpt:  
 layout: single  
@@ -17,7 +17,7 @@ toc: True
 toc_sticky: true
 ---
 
-![Google Cloud APIs](/assets/images/dspost/)
+![Types of Questions](/assets/images/dspost/dsp6083-Types-of-Questions.jpg)
 
 # Types of Questions
 

@@ -8,7 +8,7 @@ tags: [RDBMS, Database Joins]
 categories: 
 
 header:
-    teaser: /assets/images/dspost/
+    teaser: /assets/images/dspost/dsp6084-Relational-Algebra.jpg
 excerpt_separator: "<!--more-->"  
 excerpt:  
 layout: single  
@@ -17,6 +17,7 @@ toc: True
 toc_sticky: true
 ---
 
+![Relational Algebra]( /assets/images/dspost/dsp6084-Relational-Algebra.jpg)
 
 # SQL and Relational Algebra
 
@@ -24,7 +25,7 @@ Relational algebra (RA) is considered as a procedural query language where the u
 
 Relational algebra notions can be implemtned via any any SQL language like PL/SQL, TSQL commans in any databases like MySQL, PostgreSQL, Oracle, SQLServer SQL server.
 
-![Tables](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*0OyX0b7yj516YRZ0Qkr5Dw.png)
+![Tables]( /assets/images/dspost/dsp6084-table.webp)
 
 ## 1. SELECT (σ) - Where clause
 $σ_p(r)$
