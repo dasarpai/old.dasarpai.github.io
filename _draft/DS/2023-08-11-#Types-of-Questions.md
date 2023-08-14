@@ -3,7 +3,7 @@ mathjax: true
 id: 6083
 title: Types of Questions
 date: 2023-08-11
-permalink: '/dsblog/Google-Cloud-APIS'
+permalink: '/dsblog/types-of-questions'
 tags: [Google Cloud, APIs] 
 categories: 
 
