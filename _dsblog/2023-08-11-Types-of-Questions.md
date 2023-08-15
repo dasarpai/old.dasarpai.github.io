@@ -20,7 +20,11 @@ toc_sticky: true
 ![Types of Questions](/assets/images/dspost/dsp6083-Types-of-Questions.jpg)
 
 # Types of Questions
+
+## Introduction
 Question-Answering task is one of the tasks in NLP-Task. To create a high-performing AI system that can understand the question correctly and answer appropriately, we need to train a model. And to train a model, we need to have a good-quality dataset in place. Without understanding what are the different formats of questions and answers, we cannot create a dataset. In our day-to-day life we never pay attention to this minute detail but to create an AI system that can perform QA tasks, we need to understand the different formats of questions. In this article, I am creating a list of these different types of questions. To create an AI system that can perform all these kinds of QA tasks, we need to craft the dataset very carefully. Although, we see lots of data around, but to create an NLP-Task specific dataset is tedious task.
+
+## 23 Types of Questions
 
 1. Closed-ended Questions:   
 
