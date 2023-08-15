@@ -23,27 +23,33 @@ toc_sticky: true
 
 Relational algebra (RA) is considered as a procedural query language where the user tells the system to carry out a set of operations to obtain the desired results. i.e. The user tells what data should be retrieved from the database and how to retrieve it.
 
-Relational algebra notions can be implemtned via any any SQL language like PL/SQL, TSQL commans in any databases like MySQL, PostgreSQL, Oracle, SQLServer SQL server.
+Relational algebra notions can be implemtned via any any SQL language like PL/SQL, TSQL, SQLite SQL, DB2 SQL, MariaDB SQL, FireBird SQL, PSQL, ANSI SQL commands in any databases like MySQL, PostgreSQL, Oracle, SQLServer SQL server.
 
 ![Tables]( /assets/images/dspost/dsp6084-table.webp)
 
 ## 1. SELECT (σ) - Where clause
-$σ_p(r)$
+Used for selecting/filtering rows/tuples/records.
+
+$$ σ_p(r)$$
 σ is the predicate
 r stands for relation which is the name of the table
 
 p is prepositional logic
 
-$σ_{topic = 'Database'}(Tutorials)$   
-$σ_{topic = 'Database' and author = 'Hari'}( Tutorials)$   
-$σ_{sales > 50000} (Customers)$   
+$$ σ_{topic = 'Database'}(Tutorials) $$   
+$$ σ_{topic = 'Database' and author = 'Hari'}( Tutorials) $$   
+$$ σ_{sales > 50000} (Customers) $$   
 
 
 ## 2. Projection(π) - Select Attributes
-$Π_{CustomerName, Status} (Customers)$
+Used for selecting columns/attributes/features. 
+
+$$ Π_{CustomerName, Status} (Customers) $$
 
 ## 3. Rename (ρ)
 ρ (a/b)R will rename the attribute 'b' of relation by 'a'.
+
+$$ ρ (EmpName/EmployeeName)R $$
 
 ## 4. Union operation (υ)
 A ∪ B
@@ -72,7 +78,7 @@ It should be defined relation consisting of the tuples that are in relation A, a
 
 The example shows all rows from relation A and B whose column 2 has value 1
 
-$σ_{column 2 = '1'} (A X B)$
+$$ σ_{column 2 = '1'} (A X B) $$
 
 ## 8. Join Operations
 Join operation is essentially a cartesian product followed by a selection criterion.
@@ -83,10 +89,10 @@ Join operation denoted by ⋈.
 In an inner join, only those tuples that satisfy the matching criteria are included, while the rest are excluded   
 
 #### 8.1 Theta: A ⋈θ B      
-- $A ⋈ _{A.column 2 >  B.column 2} (B)$   
+- $$ A ⋈ _{A.column 2 >  B.column 2} (B) $$   
 
 #### 8.2 EQUI join   
-- $A ⋈ _{A.column 2 =  B.column 2} (B)$   
+- $$ A ⋈ _{A.column 2 =  B.column 2} (B)$$   
 
 #### 8.3 Natural join : 
 Natural join can only be performed if there is a common attribute between the relations   
