@@ -110,7 +110,8 @@ __*__ Keep in mind Summary in a Summary column should NOT be more than 1500 char
 - When writing MS Dissertation, it runs around 17000 words (approx 70 double-spaced pages).
 - PhD research thesis should be around 70,000 words (280 double-spaced pages),
 - DBA research thesis around 40000 words (approx 160 double-spaced pages).
-
+- For MS research citations should be around 40. Therefore select around 60 papers.
+- For Ph.D. / DBA citations should be around 80. Therefore select around 100 papers.
 
 All these numbers of pages are without appendices and references.
 
