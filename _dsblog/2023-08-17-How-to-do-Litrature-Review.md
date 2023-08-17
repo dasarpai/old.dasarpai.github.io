@@ -84,8 +84,8 @@ Keep in mind, LR is not only about the process but also about good tools. Withou
     - Blank - Not opened the paper
     - "WIP" - Started reading the abstract.
     - "Dropped" in the status column, if paper is dropped.
-    - "AbsSummarised" When the summary is done. Abstract Summarized
-    - "LRSummarised" When Summary is done. LR is Summarized.
+    - "AbsSummarized" When the summary is done. Abstract Summarized
+    - "LRSummarized" When Summary is done. LR is Summarized.
     - "Done" when every important notes from all the different section are summarised and noted.
     - "??" if it is confusing but may be interesting
 - Filter those papers from the excel sheet where status="Summarised"
@@ -100,7 +100,6 @@ Keep in mind, LR is not only about the process but also about good tools. Withou
 - Based on the content of summary column update the theme column.
 - Group similar theme together and organize them in the order of year.
 - Copy the conent of the summary column in LaTex. Litrature Review is complete.    
-
 
 
 
