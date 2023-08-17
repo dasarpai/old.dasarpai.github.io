@@ -3,13 +3,13 @@ mathjax: true
 id: 6086
 title: How to do Literature Review
 date: 2023-08-17
-permalink: '/dsblog/How-To-Literature-Review'
+permalink: '/dsblog/How-To-Do-Litrature-Review'
 tags: [Literature Review, Research Paper]
 categories:
 
 
 header:
-    teaser: /assets/images/dspost/dsp6086-How-To-Literature-Review.jpg
+    teaser: /assets/images/dspost/dsp6086-How-To-Do-Litrature-Review.jpg
 excerpt_separator: "<!--more-->"  
 excerpt:  
 layout: single  
@@ -19,7 +19,7 @@ toc_sticky: true
 ---
 
 
-![How to do Literature Review]( /assets/images/dspost/dsp6086-How-To-Literature-Review.jpg)
+![How to do Literature Review]( /assets/images/dspost/dsp6086-How-To-Do-Litrature-Review.jpg)
 
 
 # How to Conduct Literature Review?
