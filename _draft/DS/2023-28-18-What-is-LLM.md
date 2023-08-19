@@ -218,7 +218,7 @@ Another way to get around this limitation is to use a smaller model. The GPT-3 S
 
 If you are looking for a way to use the GPT-3 Medium model without a GPU machine, your best option is to use a cloud computing service. This will allow you to get the performance you need without having to invest in a new machine.
 
-## What is the need of VRAM for LLM?
+## What Kind of VRAM is need for LLM?
 VRAM stands for Video Random Access Memory. It is a type of memory that is used by graphics cards to store the data that is needed to render images on a display. VRAM is much faster than regular RAM, which is why it is used for graphics processing.
 
 VRAM stores the image data that is being displayed on the screen, as well as the data that is being processed by the GPU. This data includes things like textures, shaders, and geometry. VRAM also stores the results of the GPU's calculations, which are then displayed on the screen.

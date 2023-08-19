@@ -56,6 +56,10 @@ According to the paper **GShard: Scaling Giant Models with Conditional Computati
 - 128 shards, each with 64 experts, for a total of 8192 experts.
 - 256 shards, each with 256 experts, for a total of 65536 experts.
 
+
+Gopher (280B)
+ Jurassic-1 (178B)
+
 ## What is the difference between LLM and Transformer Model
 LLM model can be built either using Transformer Architecture or non-Tranformer architecture. When we use huge data to train a model then whatever model is output from the training process that is called LLM. When we are training a Transformer or any other neural network model only small amount of data then output model is not called LLM. LLM can work upon Text, Images, Video, Audio. Some LLMs can accept only text data for example GPT3, some can accept only with image data, some can accpet different kind of data i.e. text, image, audio for example GPT4. Some LLM takes text input and generate text output. Some LLM takes text input generate image output for example DALL-E.
 
@@ -66,7 +70,9 @@ Transformer architecture is highly parallelizable and can capture long-range dep
 
 * **LaMDA:** Developed by Google AI, LaMDA is an LLM that is designed to be informative and comprehensive. It has **137 billion parameters** and can be used to answer questions, write different kinds of creative content, and translate languages.
 
-* **Turing NLG:** Developed by Google AI, Turing NLG is an LLM that is designed to be creative and engaging. It has **137 billion parameters** and can be used to generate different creative text formats,  like poems, code, scripts, musical pieces, email, letters, etc.
+* **Turing NLG:** Developed by Google AI, Turing NLG is an LLM that is designed to be creative and engaging. It has **17 billion parameters** and can be used to generate different creative text formats,  like poems, code, scripts, musical pieces, email, letters, etc.
+
+Megatron-Turing NLG (530B) - by NVIDIA
 
 * **Bard:** Developed by Google AI, Bard is a factual language model from Google AI, trained on a massive dataset of text and code. It has **137 billion parameters** can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way.
 
@@ -82,7 +88,7 @@ Transformer architecture is highly parallelizable and can capture long-range dep
 
 * **Flaubert:** Developed by Facebook AI, Flaubert is a language model that is trained on a large corpus of French text. It has **137 billion parameters** and can be used for a variety of tasks, including natural language understanding, natural language generation, and machine translation.
 
-* **Gopher:** Developed by Google AI, Gopher is a language model that is trained on a dataset of code and natural language. It has **146 billion parameters** and can be used for a variety of tasks, including natural language understanding, natural language generation, and code generation.
+* **Gopher:** Developed by Google AI, Gopher is a language model that is trained on a dataset of code and natural language. It has **280 billion parameters** and can be used for a variety of tasks, including natural language understanding, natural language generation, and code generation.
 
 * **CodeBERT:** Developed by Google AI, CodeBERT is a language model that is trained on a dataset of code and natural language. It has **100 million parameters** and can be used for a variety of tasks, including natural language understanding, natural language generation, and code generation.
 
@@ -218,7 +224,7 @@ Another way to get around this limitation is to use a smaller model. The GPT-3 S
 
 If you are looking for a way to use the GPT-3 Medium model without a GPU machine, your best option is to use a cloud computing service. This will allow you to get the performance you need without having to invest in a new machine.
 
-## What Kind of VRAM is need for LLM?
+## What is the Need of VRAM for LLM?
 VRAM stands for Video Random Access Memory. It is a type of memory that is used by graphics cards to store the data that is needed to render images on a display. VRAM is much faster than regular RAM, which is why it is used for graphics processing.
 
 VRAM stores the image data that is being displayed on the screen, as well as the data that is being processed by the GPU. This data includes things like textures, shaders, and geometry. VRAM also stores the results of the GPU's calculations, which are then displayed on the screen.
