@@ -323,6 +323,7 @@ Below is the table which summarises these approx 200 transformers.
 | 207. | [FLAVA](https://huggingface.co/docs/transformers/model_doc/flava) [Paper](https://arxiv.org/abs/2112.04482) | A Foundational Language And Vision Alignment Model | Autoencoding | Apr-2022 | Facebook AI
 
 ## Authors of Above Papers
+
 | Sno. | Paper | Author
 | --- | --- | ---
 | 1. | [*AlexNet](https://huggingface.co/alexnet) [Paper](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) | Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton
