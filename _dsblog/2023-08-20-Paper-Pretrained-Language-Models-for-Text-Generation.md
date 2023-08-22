@@ -3,12 +3,12 @@ mathjax: true
 id: 6088
 title: Paper-Summary: A Survey Paper# Pretrained Language Models for Text Generation
 date: 2023-08-18
-permalink: '/dsblog/what-is-llm'
+permalink: '/dsblog/rps-Pretrained-Language-Models-for-Text-Generation'
 tags: [AI Paper, NLP, Pretrained Model]
 categories:
 
 header:
-    teaser: /assets/images/dspost/dsp6088-dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg
+    teaser: /assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg
 excerpt_separator: "<!--more-->"  
 excerpt:  
 layout: single  
@@ -20,11 +20,11 @@ toc_sticky: true
 ![Pretrained Language Models for Text Generation]( /assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg)
 
   
-**Paper Name:- Pretrained Language Models for Text Generation: A Survey**  
+**Paper Name :- Pretrained Language Models for Text Generation: A Survey**  
 Typer of Paper:- Survey Paper     
 [Paper URL](https://arxiv.org/abs/2105.10311)    
 
-# Paper Summary:- Pretrained Language Models for Text Generation
+# Paper Summary :- Pretrained Language Models for Text Generation
 
 ## Ideas from the Paper
 
