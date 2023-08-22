@@ -56,12 +56,12 @@ attribute-based generation.  X plays the role of guiding the text generation. [K
     - T5 [Raffel2020](/dsblog/aip#raffel2020)
     - BART [Lewis2020](/dsblog/aip#lewis2020) 
 - Decoder-only Transformer. Employ a single Transformer decoder blocks. They apply unidirectional self-attention masking that each token can only attend to previous tokens. 
-    - GPT [Radfordet2019][/dsblog/aip#radfordet2019]; [Brown2020][/dsblog/aip#brown2020]
+    - GPT [Radfordet2019](/dsblog/aip#radfordet2019); [Brown2020](/dsblog/aip#brown2020)
     - CTRL [Keskar2019]
 
 ## Modeling Different Data Types from Input
 
-Considering this challenge, Zhang et al. [2019b] and Xu et al. [2020b] proposed hierarchical BERT to learn interactions between sentences with self-attention for document encoding. 
+- Hierarchical BERT to learn interactions between sentences with self-attention for document encoding. [Zhang2019b] and [Xu2020b]
 - Capturing intersentential relations, DiscoBERT [Xu2020a] stacked graph convolutional network (GCN) on top of BERT to model structural discourse graphs. 
 By directly operating on the discourse units, DiscoBERT retains capacities to include more concepts or contexts, leading to more concise and informative output text. 
 
