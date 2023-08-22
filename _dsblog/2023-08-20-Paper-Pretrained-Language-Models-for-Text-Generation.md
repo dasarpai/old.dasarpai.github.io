@@ -45,11 +45,175 @@ attribute-based generation.  X plays the role of guiding the text generation. [K
 - If X is structured data like knowledge graph or table, this task will be considered as KG-to-text or table-to-text generation (generate descriptive text about structured data), called data-to-text generation [Li2021c].
 - If X is multimedia input such as image, the task becomes image caption [Xia2020] 
 - If X is multimedia input such as speech, the task become speech recognition [Fan2019]. 
-- The most common form of X is also a text sequence, and there exist several applications such as machine translation,
-summarization and dialogue system. 
+- If X text sequence (most common form), there are several applications such as machine translation, summarization and dialogue system. 
 - Machine translation aims to translate text from one language into another language automatically [Conneau2019]
 - Generating condensed summary of a long document [Zhang2019b]
 - Dialogue system to converse with humans using natural language. [Wolf2019]
+
+## Architectures for Text Generation
+- Encoder-decoder Transformer. It is two stacks of Transformer blocks. The encoder is fed with an input sequence, while the decoder aims to generate the output sequence based on encoder-decoder self-attention mechanism.
+    - MASS [Song2019](/dsblog/Important-AI-Paper-List/song2019) 
+    - T5 [Raffel2020](/dsblog/Important-AI-Paper-List/raffel2020)
+    - BART [Lewis2020](/dsblog/Important-AI-Paper-List/lewis2020) 
+- Decoder-only Transformer. Employ a single Transformer decoder blocks. They apply unidirectional self-attention masking that each token can only attend to previous tokens. 
+    - GPT [Radfordet2019][/dsblog/Important-AI-Paper-List/radfordet2019]; [Brown2020][/dsblog/Important-AI-Paper-List/brown2020]
+    - CTRL [Keskar2019]
+
+## Modeling Different Data Types from Input
+
+Considering this challenge, Zhang et al. [2019b] and Xu et al. [2020b] proposed hierarchical BERT to learn interactions between sentences with self-attention for document encoding. 
+- Capturing intersentential relations, DiscoBERT [Xu2020a] stacked graph convolutional network (GCN) on top of BERT to model structural discourse graphs. 
+By directly operating on the discourse units, DiscoBERT retains capacities to include more concepts or contexts, leading to more concise and informative output text. 
+
+
+
+- Cross-lingual language models (XLMs) for multilingual language understanding. [Conneau2019]
+- Text generation models can obtain effective input word embeddings even in a low-resource language [Wada and Iwata, 2018].
+
+
+
+and show excellent few-shot capabilities
+in many tasks. Motivated by this, Chen et al. [2020b] and
+Gong et al. [2020] explored incorporating PLMs for data-totext
+generation, especially in few-shot settings.
+When applying PLMs to structured data, a major challenge
+is how to feed structured data into PLMs, which are originally
+designed for sequential text. To adapt to the sequential nature
+of PLMs, Ribeiro et al. [2020] and Mager et al. [2020] linearized
+input knowledge graph (KG) and abstract meaning
+representation (AMR) graph into a sequence of triples, Li et
+al. [2021b] introduced an additional graph encoder to encode
+the input KG, and Gong et al. [2020] employed a templatebased
+method to serialize input table into text sequence. For
+example, the attribute-value pair “name: jack reynolds” will
+be serialized as a sentence “name is jack reynolds”. However,
+direct linearization will lose the structural information
+of original data, which may lead to generating unfaithful text
+about data. Thus, in addition to generating faithful text, Gong
+et al. [2020] proposed an auxiliary reconstruction task for recovering
+the structural information of input data, which can
+enhance the capacity of modeling structural information.
+In general, the output text should retain as much as important
+information from structured data. Therefore, to generate
+high-fidelity text adhereing to input, the pointer generator
+mechanism [See2017] is adopted to copy words
+from input knowledge data [Chen2020b]. Through
+grounding PLMs on external knowledge, it is likely to endow
+a generative model with both rich knowledge and good generalization
+ability. Besides, Gong et al. [2020] proposed a
+content matching loss for measuring the distance between the
+information in input data and the output text.
+4.3 Multimedia Input
+In addition to the above textual data, several attempts have
+been made to take as input multimedia data (e.g., image,
+video, and speech) such as image caption and speech recognition.
+Both VideoBERT [Sun2019b] and CBT [Sun
+et al., 2019a] conducted pretraining for the video caption
+task. While, they performed pretraining only for the BERTbased
+encoder to learn bidirectional joint distributions over
+sequences of visual and linguistic tokens. So they have
+to train a separate video-to-text decoder, which tends to
+cause a pretrain-finetune discrepancy. In contrast, Unified
+VLP [Zhou2020] used a shared multi-layer Transformer
+network for both encoding and decoding. Following
+UniLM [Dong2019], they pretrained the model on two
+masked language modeling (MLM) tasks, like cloze tasks designed
+for sequence-to-sequence LM. Inspired by generative
+pretraining objectives in GPT, Xia et al. [2020] proposed a
+cross-modal pretrained model (XGPT) by taking images as
+inputs and using the image caption task as the basic generative
+task in the pretraining stage. Besides image and video, speech recognition is also hungry
+for human-transcripted supervised data. So a number of
+unsupervised and semi-supervised methods are developed to
+integrate PLMs for weakly-supervised learning. For example,
+Fan et al. [2019] proposed an unsupervised approach to
+pretraining encoder-decoder model with unpaired speech and
+transcripts. Two pretraining stages are used to extract acoustic
+and linguistic information with speech and transcripts,
+which is useful for downstream speech recognition task.
+
+## Satisfying Special Properties for Output Text
+
+Generated text should satisfy several key properties like. relevance, faithfulness, and order-preservation.
+
+Relevance. According to the linguistic literatures [Li et al.,
+2021c], in text generation, relevance refers that the topics
+in output text is highly related to the input text. A representative
+example is the task of dialogue systems, which requires
+the generated response to be relevant to the input dialogue
+history. In addition to the dialogue history, a condition
+corresponding to the type of response might be also
+provided as an external input such as the topic of response
+and the persona of speaker. The generated responses should
+also be relevant to the condition. Recently, due to the absence
+of long-term memory, RNN-based models still tend to
+generate irrelevant output text and lack consistency with input.
+Therefore, through applying PLMs to the task of dialogue
+systems, TransferTransfo [Wolf2019] and DialoGPT
+[Zhang2020] were able to generate more relevant
+and context-consistent responses than traditional RNNbased
+models. Furthermore, to generalize to various types
+of conditions, Zeng and Nie [2020] utilized elaborated condition
+blocks to incorporate external conditions. They used
+BERT for both encoder and decoder by utilizing different input
+representations and self-attention masks to distinguish the
+source and target sides of dialogue. On the target (generation)
+side, a new attention routing mechanism is adopted to generate
+context-related words. Similar approaches have been used
+in non-conditioned dialogue [Bao2020].
+Faithfulness. Similarly, faithfulness is also a critical property
+of text, which means the content in generated text should
+not contradict the facts in input text. Sometimes, it further
+means the generated text is in accord with the world facts.
+A representative example is the task of text summarization,
+which aims to generate faithful text representing the most important
+information within the original content. Pretrained
+on large collections of text, PLMs are potentially beneficial
+to generate faithful text by utilizing background knowledge.
+Rothe et al. [2020] experimented with a large number of settings
+to initialize the encoder and decoder with three outstanding
+PLMs, i.e., BERT, GPT and RoBERTa. With pretraining,
+the models are more aware of the domain characteristics
+and less prone to language model vulnerabilities. Consequently,
+they are more confident in predicting tokens from
+the document, hence, improving faithfulness. To improve the
+
+level of faithfulness of summary, Kryscinski et al. [2018] proposed
+to decompose the decoder into a contextual network
+that retrieves relevant parts of the source document and a
+PLM that incorporates prior knowledge about language generation.
+Also, to generate faithful text in different target domains,
+Yang et al. [2020b] fine-tuned PLMs on target domains
+through theme modeling loss. The role of the theme
+modeling module is to make the generated summary semantically
+close to the original article.
+Order-preservation. In NLP area, order-preservation denotes
+that the order of semantic units (word, phrase, etc.)
+in both input and output text is consistent. The most representative
+example is the task of machine translation. When
+translating from source language to target language, keeping
+the order of phrases consistent in source language and
+target language will ensure the accuracy of the translation
+results to some extent. One line of research to achieve
+the order-preservation property is to perform semantic alignment
+in machine translation. Yang et al. [2020a] proposed
+Code-Switching Pre-training (CSP) for machine translation.
+They extracted the word-pair alignment information from the
+source and target language, and then applied the extracted
+alignment information to enhance order-preserving. Besides,
+it is more common to perform translation across multiple
+languages, called multilingual machine translation [Conneau
+and Lample, 2019]. However, little work can effectively enhance
+order-preservation for any pairs of languages. Thus,
+Lin et al. [2020] proposed mRASP, an approach to pretraining
+a universal multilingual machine translation model. The
+key to mRASP is the technique of randomly aligned substitution,
+which enforces words and phrases with similar meanings
+across multiple languages to be aligned in the representation
+space. Also, Wada and Iwata [2018] focused on aligning
+word representations of each language, making it possible to
+preserve the word order consistent cross multiple languages.
+
 
 ## Paper Outcome
 - General task deﬁnition
@@ -74,7 +238,6 @@ state-of-the-art results.
 - PLMs can encode a large amount of linguistic knowledge from corpus and induce universal representations of language. 
 - PLMs are generally beneﬁcial for downstream tasks and can avoid training a new model from scratch [Brown2020]. 
 -  A synthesis to the research on some text generation subtasks. Zaib et al. [2020], and Guan et al. [2020]
-
 
 ## Conclusion & Future Recommendations
 
@@ -113,60 +276,4 @@ Ethical Concern:
 - Identifying threats and potential impacts and assessing likelihood. Ross [2012]
 - The text generated by PLMs might be prejudiced, which is in line with the bias in training data along the dimensions of gender, race, and religion [Brown2020].
 
-## Citations
 
-1. [Bahdanau2015], Neural machine translation by jointly learning to align and translate. In ICLR, 2015.
-1. [Bao2020], PLATO-2: towards building an open- domain chatbot via curriculum learning. arXiv preprint arXiv:2006.16779, 2020.
-1. [Brown2020], Language models are few-shot learners. In NeurIPS, 2020.
-1. [Chen2020a], Distilling knowledge learned in BERT for text generation. In ACL, 2020.
-1. [Chen2020b], Few-shot NLG with pre-trained language model. In ACL, 2020.
-1. [Conneau2019], Cross-lingual language model pretraining. In NeurIPS, 2019.
-1. [Devlin2019], BERT: pre-training of deep bidirectional transformers for language understanding. In NAACL-HLT, 2019.
-1. [Dong2019], Unified language model pretraining for natural language understanding and generation. In NeurIPS, 2019.
-1. [Fan2019], Unsupervised pre-training for sequence to sequence speech recognition. CoRR, arXiv preprint arXiv:1910.12418, 2019.
-1. [Gehring2017], Convolutional sequence to sequence learning. In ICML, 2017.
-1. [Gong2020], Tablegpt: Few-shot table-to-text generation with table structure reconstruction and content matching. In COLING, 2020.
-1. [Gu2020], A tailored pre-training model for task-oriented dialog generation. arXiv preprint arXiv:2004.13835, 2020.
-1. [Guan2020], Survey on automatic text summarization and transformer models applicability. In CCRIS, 2020.
-1. [Hendrycks2020], Pretrained transformers improve out-of- distribution robustness. In ACL, 2020.
-1. [Keskar2019], CTRL: A conditional transformer language model for controllable generation. arXiv preprint arXiv:1909.05858, 2019.
-1. [Kryscinski2018], Improving abstraction in text summarization. In EMNLP, 2018.
-1. [Lan2020], ALBERT: A lite BERT for self-supervised learning of language representations. In ICLR, 2020.
-1. [Lewis2020], BART: denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension. In ACL, 2020.
-1. [Li2019], Generating long and informative reviews with aspect-aware coarse-to-fine decoding. In ACL, pages 1969–1979, 2019.
-1. [Li2020], Knowledge-enhanced personalized review generation with capsule graph neural network. In CIKM, pages 735–744, 2020.
-1. [Li2021a], TextBox: A unified, modularized, and extensible framework for text generation. In ACL, 2021.
-1. [Li2021b], Few-shot knowledge graph-to-text generation with pretrained language models. In Findings of ACL, 2021.
-1. [Li2021c], Knowledge-based review generation by coherence enhanced text planning. In SIGIR, 2021.
-1. [Lin2020], Pretraining multilingual neural machine translation by leveraging alignment information. In EMNLP, 2020.
-1. [Liu2019], Text summarization with pretrained encoders. In EMNLP, 2019.
-1. [Mager2020], GPT-too: A language-model-first approach for AMR-to-text generation. In ACL, 2020.
-1. [Peters2018], Deep contextualized word representations. In NAACL-HLT, 2018.
-1. [Qiu2020], Pre-trained models for natural language processing: A survey. arXiv preprint arXiv:2003.08271, 2020.
-1. [Radford2019], Language models are unsupervised multitask learners. OpenAI blog, 1(8):9, 2019.
-1. [Raffel2020], Exploring the limits of transfer learning with a unified text-to-text transformer. JMLR, 2020.
-1. [Ribeiro2020], Investigating pretrained language models for graph-to-text generation. arXiv preprint arXiv:2007.08426, 2020.
-1. [Ross, 2012], Guide for conducting risk assessments. In NIST Special Publication, 2012.
-1. [Rothe2020], Leveraging pre-trained checkpoints for sequence generation tasks. TACL, 2020.
-1. [Sanh2019], Distilbert, a distilled version of BERT: smaller, faster, cheaper and lighter. arXiv preprint arXiv:1910.01108, 2019.
-1. [See2017], Get to the point: Summarization with pointer-generator networks. In ACL, 2017.
-1. [Song2019], MASS: masked sequence to sequence pre-training for language generation. In ICML, 2019.
-1. [Sun2019a], Contrastive bidirectional transformer for temporal representation learning. arXiv preprint arXiv:1906.05743, 2019.
-1. [Sun2019b], Videobert: A joint model for video and language representation learning. In ICCV, 2019.
-1. [Vaswani2017], Attention is all you need. In NIPS, 2017.
-1. [Wada2018], Unsupervised cross-lingual word embedding by multilingual neural language models. arXiv preprint arXiv:1809.02306, 2018.
-1. [Wolf2019], Transfertransfo: A transfer learning approach for neural network based conversational agents. arXiv preprint arXiv:1901.08149, 2019.
-1. [Xia2020], XGPT: cross-modal generative pre-training for image captioning. arXiv preprint arXiv:2003.01473, 2020.
-1. [Xu2020a], Discourse-aware neural extractive text summarization. In ACL, 2020.
-1. [Xu2020b], Unsupervised extractive summarization by pre-training hierarchical transformers. In EMNLP, 2020.
-1. [Yang2020a], CSP: code-switching pre-training for neural machine translation. In EMNLP, 2020.
-1. [Yang2020b], TED: A pretrained unsupervised summarization model with theme modeling and denoising. In EMNLP (Findings), 2020.
-1. [Zaib2020], A short survey of pre-trained language models for conversational AI-A new age in NLP. In ACSW, 2020.
-1. [Zeng2020], Generalized conditioned dialogue generation based on pre-trained language model. arXiv preprint arXiv:2010.11140, 2020.
-1. [Zhang2019a], Pretraining-based natural language generation for text summarization. In CoNLL, 2019.
-1. [Zhang2019b], HIBERT: document level pre-training of hierarchical bidirectional transformers for document summarization. In ACL, 2019.
-1. [Zhang2019c]{#Zhang2019c}, ERNIE: enhanced language representation with informative entities. In ACL, 2019.
-1. [Zhang2020], DIALOGPT : Largescale generative pre-training for conversational response generation. In ACL, 2020.
-1. [Zhao2020], Knowledge-grounded dialogue generation with pretrained language models. In EMNLP, 2020.
-1. [Zheng2019], Sentence centrality revisited for unsupervised summarization. In ACL, 2019.
-1. [Zhou2020], Unified vision-language pre-training for image captioning and VQA. In AAAI, 2020
