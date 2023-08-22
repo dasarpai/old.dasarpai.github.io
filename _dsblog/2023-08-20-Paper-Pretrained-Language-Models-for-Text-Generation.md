@@ -21,9 +21,16 @@ toc_sticky: true
   
 **Paper Name :- Pretrained Language Models for Text Generation: A Survey**  
 Typer of Paper:- Survey Paper     
-[Paper URL](https://arxiv.org/abs/2105.10311)    
+[Paper URL](https://arxiv.org/abs/2105.10311)   
+Paper title of the citations mentioned can be found at [AI Papers with Heading](/dsblog/aip). Use citation code to locate.    
 
 # Paper Summary :- Pretrained Language Models for Text Generation
+
+## Paper Outcome
+- General task deﬁnition
+- Describe the mainstream architectures of PLMs for text generation. 
+- How to adapt existing PLMs to model different input data and satisfy special properties in the generated text. 
+- Summarize several important ﬁne-tuning strategies for text generation. 
 
 ## Ideas from the Paper
 
@@ -36,7 +43,7 @@ Typer of Paper:- Survey Paper
 - Neural generation model are deep learning models
 - Pretrained language models (PLMs) are neural generation model
 
-### Tasks and Typical Applications
+### Task Types and Typical Applications
 - In most cases, text generation is conditioned on input data, such as attributes, text and structured data, which is denoted as X. Formally, the text generation task can be described as: P(YjX ) = P(y1; : : : ; yj ; : : : ; ynjX )
 - If X is not provided or a random noise vector z, this task will degenerate into language modeling or unconditional
 generation task(generate text without any constraint) [Radford2019](/dsblog/aip#radford2019)
@@ -60,166 +67,55 @@ attribute-based generation.  X plays the role of guiding the text generation. [K
     - CTRL [Keskar2019]
 
 ## Modeling Different Data Types from Input
-
+### Unstructured Input
 - Hierarchical BERT to learn interactions between sentences with self-attention for document encoding. [Zhang2019b] and [Xu2020b]
-- Capturing intersentential relations, DiscoBERT [Xu2020a] stacked graph convolutional network (GCN) on top of BERT to model structural discourse graphs. 
-By directly operating on the discourse units, DiscoBERT retains capacities to include more concepts or contexts, leading to more concise and informative output text. 
-
-
-
+- Capturing intersentential relations, DiscoBERT stacked graph convolutional network (GCN) on top of BERT to model structural discourse graphs. [Xu2020a]
 - Cross-lingual language models (XLMs) for multilingual language understanding. [Conneau2019]
-- Text generation models can obtain effective input word embeddings even in a low-resource language [Wada and Iwata, 2018].
+- Text generation models can obtain effective input word embeddings even in a low-resource language [Wada2018].
 
+### Structured Input
+- PLMs are not designed for structured or tabular data but for sequential text/data.
+- Incorporating PLMs for data-to text generation, especially in few-shot settings. [Chen2020b] and [Gong2020]
+- To adapt to the sequential nature of PLMs linearized input knowledge graph (KG) and abstract meaning representation (AMR) graph into a sequence of triples. [Ribeiro2020] and [Mager2020]
+- Introduced an additional graph encoder to encode the input KG. [Li2021b] 
+- Template based method to serialize input table into text sequence.  [Gong2020]
+    - For example, the attribute-value pair “name: jack reynolds” will be serialized as a sentence “name is jack reynolds”. However, direct linearization will lose the structural information of original data, which may lead to generating unfaithful text about data. 
+- Auxiliary reconstruction task for recovering the structural information of input data, which can enhance the capacity of modeling structural information. [Gong2020]
+- The pointer generator mechanism is adopted to copy words from input knowledge data. [See2017] [Chen2020b]. 
+- Content matching loss for measuring the distance between the information in input data and the output text. [Gong2020]
 
-
-and show excellent few-shot capabilities
-in many tasks. Motivated by this, Chen et al. [2020b] and
-Gong et al. [2020] explored incorporating PLMs for data-totext
-generation, especially in few-shot settings.
-When applying PLMs to structured data, a major challenge
-is how to feed structured data into PLMs, which are originally
-designed for sequential text. To adapt to the sequential nature
-of PLMs, Ribeiro et al. [2020] and Mager et al. [2020] linearized
-input knowledge graph (KG) and abstract meaning
-representation (AMR) graph into a sequence of triples, Li et
-al. [2021b] introduced an additional graph encoder to encode
-the input KG, and Gong et al. [2020] employed a templatebased
-method to serialize input table into text sequence. For
-example, the attribute-value pair “name: jack reynolds” will
-be serialized as a sentence “name is jack reynolds”. However,
-direct linearization will lose the structural information
-of original data, which may lead to generating unfaithful text
-about data. Thus, in addition to generating faithful text, Gong
-et al. [2020] proposed an auxiliary reconstruction task for recovering
-the structural information of input data, which can
-enhance the capacity of modeling structural information.
-In general, the output text should retain as much as important
-information from structured data. Therefore, to generate
-high-fidelity text adhereing to input, the pointer generator
-mechanism [See2017] is adopted to copy words
-from input knowledge data [Chen2020b]. Through
-grounding PLMs on external knowledge, it is likely to endow
-a generative model with both rich knowledge and good generalization
-ability. Besides, Gong et al. [2020] proposed a
-content matching loss for measuring the distance between the
-information in input data and the output text.
-4.3 Multimedia Input
-In addition to the above textual data, several attempts have
-been made to take as input multimedia data (e.g., image,
-video, and speech) such as image caption and speech recognition.
-Both VideoBERT [Sun2019b] and CBT [Sun
-et al., 2019a] conducted pretraining for the video caption
-task. While, they performed pretraining only for the BERTbased
-encoder to learn bidirectional joint distributions over
-sequences of visual and linguistic tokens. So they have
-to train a separate video-to-text decoder, which tends to
-cause a pretrain-finetune discrepancy. In contrast, Unified
-VLP [Zhou2020] used a shared multi-layer Transformer
-network for both encoding and decoding. Following
-UniLM [Dong2019], they pretrained the model on two
-masked language modeling (MLM) tasks, like cloze tasks designed
-for sequence-to-sequence LM. Inspired by generative
-pretraining objectives in GPT, Xia et al. [2020] proposed a
-cross-modal pretrained model (XGPT) by taking images as
-inputs and using the image caption task as the basic generative
-task in the pretraining stage. Besides image and video, speech recognition is also hungry
-for human-transcripted supervised data. So a number of
-unsupervised and semi-supervised methods are developed to
-integrate PLMs for weakly-supervised learning. For example,
-Fan et al. [2019] proposed an unsupervised approach to
-pretraining encoder-decoder model with unpaired speech and
-transcripts. Two pretraining stages are used to extract acoustic
-and linguistic information with speech and transcripts,
-which is useful for downstream speech recognition task.
+### Multimedia Input
+- Conducted pretraining for the video caption task. VideoBERT [Sun2019b] and CBT [Sun2019a] 
+- Used a shared multi-layer Transformer network for both encoding and decoding. Unified VLP [Zhou2020]
+- Pretrained the model on two masked language modeling (MLM) tasks, like cloze tasks designed for sequence-to-sequence LM. UniLM [Dong2019]
+- Cross-modal pretrained model (XGPT) by taking images as inputs and using the image caption task as the basic generative task in the pretraining stage. Xia2020
+- Image, video, speech recognition is hungry for human-transcripted supervised data. 
+- Integrate PLMs for weakly-supervised learning. For example,
+    - Unsupervised approach to pretraining encoder-decoder model with unpaired speech and transcripts. [Fan2019]
+- Two pretraining stages are used to extract acoustic and linguistic information with speech and transcripts, which is useful for downstream speech recognition task.
 
 ## Satisfying Special Properties for Output Text
-
-Generated text should satisfy several key properties like. relevance, faithfulness, and order-preservation.
-
-Relevance. According to the linguistic literatures [Li et al.,
-2021c], in text generation, relevance refers that the topics
-in output text is highly related to the input text. A representative
-example is the task of dialogue systems, which requires
-the generated response to be relevant to the input dialogue
-history. In addition to the dialogue history, a condition
-corresponding to the type of response might be also
-provided as an external input such as the topic of response
-and the persona of speaker. The generated responses should
-also be relevant to the condition. Recently, due to the absence
-of long-term memory, RNN-based models still tend to
-generate irrelevant output text and lack consistency with input.
-Therefore, through applying PLMs to the task of dialogue
-systems, TransferTransfo [Wolf2019] and DialoGPT
-[Zhang2020] were able to generate more relevant
-and context-consistent responses than traditional RNNbased
-models. Furthermore, to generalize to various types
-of conditions, Zeng and Nie [2020] utilized elaborated condition
-blocks to incorporate external conditions. They used
-BERT for both encoder and decoder by utilizing different input
-representations and self-attention masks to distinguish the
-source and target sides of dialogue. On the target (generation)
-side, a new attention routing mechanism is adopted to generate
-context-related words. Similar approaches have been used
-in non-conditioned dialogue [Bao2020].
-Faithfulness. Similarly, faithfulness is also a critical property
-of text, which means the content in generated text should
-not contradict the facts in input text. Sometimes, it further
-means the generated text is in accord with the world facts.
-A representative example is the task of text summarization,
-which aims to generate faithful text representing the most important
-information within the original content. Pretrained
-on large collections of text, PLMs are potentially beneficial
-to generate faithful text by utilizing background knowledge.
-Rothe et al. [2020] experimented with a large number of settings
-to initialize the encoder and decoder with three outstanding
-PLMs, i.e., BERT, GPT and RoBERTa. With pretraining,
-the models are more aware of the domain characteristics
-and less prone to language model vulnerabilities. Consequently,
-they are more confident in predicting tokens from
-the document, hence, improving faithfulness. To improve the
-
-level of faithfulness of summary, Kryscinski et al. [2018] proposed
-to decompose the decoder into a contextual network
-that retrieves relevant parts of the source document and a
-PLM that incorporates prior knowledge about language generation.
-Also, to generate faithful text in different target domains,
-Yang et al. [2020b] fine-tuned PLMs on target domains
-through theme modeling loss. The role of the theme
-modeling module is to make the generated summary semantically
-close to the original article.
-Order-preservation. In NLP area, order-preservation denotes
-that the order of semantic units (word, phrase, etc.)
-in both input and output text is consistent. The most representative
-example is the task of machine translation. When
-translating from source language to target language, keeping
-the order of phrases consistent in source language and
-target language will ensure the accuracy of the translation
-results to some extent. One line of research to achieve
-the order-preservation property is to perform semantic alignment
-in machine translation. Yang et al. [2020a] proposed
-Code-Switching Pre-training (CSP) for machine translation.
-They extracted the word-pair alignment information from the
-source and target language, and then applied the extracted
-alignment information to enhance order-preserving. Besides,
-it is more common to perform translation across multiple
-languages, called multilingual machine translation [Conneau
-and Lample, 2019]. However, little work can effectively enhance
-order-preservation for any pairs of languages. Thus,
-Lin et al. [2020] proposed mRASP, an approach to pretraining
-a universal multilingual machine translation model. The
-key to mRASP is the technique of randomly aligned substitution,
-which enforces words and phrases with similar meanings
-across multiple languages to be aligned in the representation
-space. Also, Wada and Iwata [2018] focused on aligning
-word representations of each language, making it possible to
-preserve the word order consistent cross multiple languages.
-
-
-## Paper Outcome
-- General task deﬁnition
-- Describe the mainstream architectures of PLMs for text generation. 
-- How to adapt existing PLMs to model different input data and satisfy special properties in the generated text. 
-- Summarize several important ﬁne-tuning strategies for text generation. 
+- Generated text should satisfy several key properties like. relevance, faithfulness, and order-preservation.
+- Relevance. Relevance refers that the topics in output text is highly related to the input text. The generated responses should
+also be relevant to the condition. RNN-based models still tend to generate irrelevant output text and lack consistency with input.
+    - When applying PLMs to the task of dialogue systems, TransferTransfo  and DialoGPT were able to generate more relevant responses than  RNNbased models. [Wolf2019] [Zhang2020]
+    - Utilize elaborated condition blocks to incorporate external conditions. They used BERT for both encoder and decoder by utilizing different input
+    representations and self-attention masks to distinguish the source and target sides of dialogue. On the target (generation) side, a new attention routing mechanism is adopted to generate context-related words. [Zeng2020] 
+    - Approach for non-conditioned dialogue [Bao2020].
+- Faithfulness. Means the content in generated text should not contradict the facts in input text. 
+    - PLMs are potentially beneficial to generate faithful text by utilizing background knowledge.
+    - Initialize the encoder and decoder with three outstanding PLMs, i.e., BERT, GPT and RoBERTa. [Rothe2020]
+    - With pretraining, the models are more aware of the domain characteristics and less prone to language model vulnerabilities. 
+    - Decompose the decoder into a contextual network that retrieves relevant parts of the source document and a PLM that incorporates prior knowledge about language generation. [Kryscinski2018]
+    - Generate faithful text in different target domains, fine-tuned PLMs on target domains through theme modeling loss. [Yang2020b] 
+- Order-preservation. Order-preservation denotes that the order of semantic units (word, phrase, etc.) in both input and output text is consistent. 
+    - When translating from source language to target language, keeping the order of phrases consistent in source language and target language will ensure the accuracy of the translation. 
+    - Code-Switching Pre-training (CSP) for machine translation. [Yang2020a]
+        - Extracted the word-pair alignment information from the source and target language, 
+        - Aplied the extracted alignment information to enhance order-preserving. 
+        - Translation across multiple languages, called multilingual machine translation [Conneau2019]. 
+        - mRASP (technique of randomly aligned substitution), an approach to pretraining a universal multilingual machine translation model. [Lin2020] 
+        - Aligning word representations of each language, making it possible to preserve the word order consistent cross multiple languages. Wada2018
 
 ## Introduction 
 - Researchers have developed numerous techniques for a wide range of applications of text generation [Li2021a].
@@ -245,7 +141,7 @@ Model Extension.
 - Discrepancies between pretraining and downstream generation tasks. For example, the “[MASK]” token in pretraining stage will not be used in
 ﬁne-tuning stage, which further aggravates the pretraining ﬁnetuning discrepancy. 
 - Design an appropriate pretraining paradigm for text generation. 
-- Incorporating external knowledge into PLMs during pretraining has been shown to be effective [Zhang2019c](#Zhang2019c)
+- Incorporating external knowledge into PLMs during pretraining has been shown to be effective [Zhang2019c](/dsblog/aip#zhang2019c)
 
 Controllable Generation. 
 - Controlling some attributes of the generated text has many useful applications such as generating positive response to patients with depression in dialogue systems. 
