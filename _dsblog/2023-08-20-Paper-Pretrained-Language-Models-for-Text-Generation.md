@@ -39,24 +39,24 @@ Typer of Paper:- Survey Paper
 ### Tasks and Typical Applications
 - In most cases, text generation is conditioned on input data, such as attributes, text and structured data, which is denoted as X. Formally, the text generation task can be described as: P(YjX ) = P(y1; : : : ; yj ; : : : ; ynjX )
 - If X is not provided or a random noise vector z, this task will degenerate into language modeling or unconditional
-generation task(generate text without any constraint) [Radford2019]
+generation task(generate text without any constraint) [Radford2019](/dsblog/aip#radford2019)
 - If X is a set of discrete attributes (e.g., topic words, sentiment labels), the task becomes topic-to-text generation or
-attribute-based generation.  X plays the role of guiding the text generation. [Keskar2019]. 
-- If X is structured data like knowledge graph or table, this task will be considered as KG-to-text or table-to-text generation (generate descriptive text about structured data), called data-to-text generation [Li2021c].
-- If X is multimedia input such as image, the task becomes image caption [Xia2020] 
-- If X is multimedia input such as speech, the task become speech recognition [Fan2019]. 
+attribute-based generation.  X plays the role of guiding the text generation. [Keskar2019](/dsblog/aip#Keskar2019). 
+- If X is structured data like knowledge graph or table, this task will be considered as KG-to-text or table-to-text generation (generate descriptive text about structured data), called data-to-text generation [Li2021c](/dsblog/aip#Li2021c).
+- If X is multimedia input such as image, the task becomes image caption [Xia2020](/dsblog/aip#Xia2020) 
+- If X is multimedia input such as speech, the task become speech recognition [Fan2019](/dsblog/aip#Fan2019). 
 - If X text sequence (most common form), there are several applications such as machine translation, summarization and dialogue system. 
-- Machine translation aims to translate text from one language into another language automatically [Conneau2019]
-- Generating condensed summary of a long document [Zhang2019b]
-- Dialogue system to converse with humans using natural language. [Wolf2019]
+- Machine translation aims to translate text from one language into another language automatically [Conneau2019](/dsblog/aip#Conneau2019)
+- Generating condensed summary of a long document [Zhang2019b](/dsblog/aip#Zhang2019b)
+- Dialogue system to converse with humans using natural language. [Wolf2019](/dsblog/aip#Wolf2019)
 
 ## Architectures for Text Generation
 - Encoder-decoder Transformer. It is two stacks of Transformer blocks. The encoder is fed with an input sequence, while the decoder aims to generate the output sequence based on encoder-decoder self-attention mechanism.
-    - MASS [Song2019](/dsblog/Important-AI-Paper-List/song2019) 
-    - T5 [Raffel2020](/dsblog/Important-AI-Paper-List/raffel2020)
-    - BART [Lewis2020](/dsblog/Important-AI-Paper-List/lewis2020) 
+    - MASS [Song2019](/dsblog/aip#song2019) 
+    - T5 [Raffel2020](/dsblog/aip#raffel2020)
+    - BART [Lewis2020](/dsblog/aip#lewis2020) 
 - Decoder-only Transformer. Employ a single Transformer decoder blocks. They apply unidirectional self-attention masking that each token can only attend to previous tokens. 
-    - GPT [Radfordet2019][/dsblog/Important-AI-Paper-List/radfordet2019]; [Brown2020][/dsblog/Important-AI-Paper-List/brown2020]
+    - GPT [Radfordet2019][/dsblog/aip#radfordet2019]; [Brown2020][/dsblog/aip#brown2020]
     - CTRL [Keskar2019]
 
 ## Modeling Different Data Types from Input

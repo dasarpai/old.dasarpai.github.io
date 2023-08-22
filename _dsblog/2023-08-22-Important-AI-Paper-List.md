@@ -3,7 +3,7 @@ mathjax: true
 id: 6090
 title: Important AI Paper List
 date: 2023-08-22
-permalink: '/dsblog/Important-AI-Paper-List'
+permalink: '/dsblog/aip'
 tags: [LLM, Transformer, Encoder, Decoder, Encoder-Decoder, Machine Learning, NLP]
 categories:
 
