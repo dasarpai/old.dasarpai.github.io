@@ -23,6 +23,7 @@ toc_sticky: true
 # Comprehensive Glossary of LLM
 I am developing this Glossary slowly at my own pace. Content on this page keep changing. Better definition, better explaination are part of my learing, my evolution and advancement in the field of Deep Learning and Machine Learning. As of Aug'23 the terms are not in any order therefore if you are look for any specific term you can search on the page. When I will have 50+ terms on this page then I will try to sort them on some attribute of these terms.
 
+## Learning Types
 **Transfer Learning:** Transfer learning refers to the process of training a model on one task and then transferring its knowledge to a related task. In the context of NLP/Deep Learning, this typically involves training a large language model (LM) on a massive amount of text data using a self-supervised learning approach. Self-supervised learning involves training the model to predict missing words in sentences or other similar tasks without requiring explicit labels for the entire dataset. The result is a model that learns a rich representation of language and its underlying patterns.
 
 Once this pre-training is done, the learned knowledge can be transferred to various downstream tasks by fine-tuning the pre-trained model. Transfer learning is highly effective because it allows the model to leverage the general language understanding it has gained from a diverse range of data. This often results in significant improvements in performance compared to training models from scratch for each specific task.
@@ -51,6 +52,10 @@ Fine-tuning typically involves training the top layers of the pre-trained model 
 **Unsupervised Learning:** Unsupervised learning involves training a model on data without explicit labels. Pre-training a language model using self-supervised learning falls under this category, where the model learns from the inherent structure of the data.
 
 **Semi-Supervised Learning:** This refers to training a model using a combination of labeled and unlabeled data. Pre-trained models can also benefit from this approach when fine-tuning on smaller labeled datasets.
+
+**Supervised Learning:** In this learning machine learns the patters from the given data samples (X) and their predefined lables (y).
+
+## Transformers
 
 **Tokenization:** A process of breaking a sentence or bigger words into smaller words. Generally 750 words = 1000 tokens.
 Sentence: "I love reading philosophyical literature"

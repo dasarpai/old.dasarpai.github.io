@@ -26,10 +26,13 @@ Typer of Paper:- Survey Paper
 
 # Paper Summary:- Pretrained Language Models for Text Generation
 
-## Key Ideas from the Paper
+## Ideas from the Paper
 
+### Main Ideas
 - This paper discusses "major advances achieved in the topic of PLMs for text generation"
 - This survey aims to provide "text generation researchers a synthesis" and pointer to related research.
+
+### General Ideas
 - Text generation has become one of the most important yet challenging tasks in natural language processing (NLP). 
 - Neural generation model are deep learning models
 - Pretrained language models (PLMs) are neural generation model
@@ -45,10 +48,19 @@ Typer of Paper:- Survey Paper
 - Machine translation generates text in a different language based on the source text [Yang et al., 2020a];
 - Summarization generates an abridged version of the source text to include salient information [Guan et al., 2020].
 - Text generation tasks based on 
-- Recurrent neural networks (RNN) [Li et al., 2019], 
-- Convolutional neural networks (CNN) [Gehring et al., 2017], 
-- Graph neural networks (GNN) [Li et al., 2020], 
-- Attention mechanism [Bahdanau et al., 2015]. 
+    - Recurrent neural networks (RNN) [Li et al., 2019], 
+    - Convolutional neural networks (CNN) [Gehring et al., 2017], 
+    - Graph neural networks (GNN) [Li et al., 2020], 
+    - Attention mechanism [Bahdanau et al., 2015]. 
+- One of the advantages of these neural models is that they enable end-to-end learning of semantic mappings from input to output in text generation.
+- Neural models are able to learn low-dimensional, dense vectors to implicitly represent linguistic features of text, which is also useful to alleviate data sparsity.
+- Deep neural networks usually have a large number of parameters to learn, which are likely to overﬁt on these small datasets and do not generalize well in practice.
+- The idea behind PLMs is to ﬁrst pretrain the models in large-scale corpus and then ﬁnetune these models in various downstream tasks to achieve
+state-of-the-art results. 
+- PLMs can encode a large amount of linguistic knowledge from corpus and induce universal representations of language. 
+- PLMs are generally beneﬁcial for downstream tasks and can avoid training a new model from scratch [Brown et al., 2020]. 
+-  A synthesis to the research on some text generation subtasks. Zaib et al. [2020], and Guan et al. [2020]
+
 
 ## Conclusion & Future Recommendations
 

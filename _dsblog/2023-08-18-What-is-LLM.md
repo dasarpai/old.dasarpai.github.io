@@ -64,7 +64,9 @@ Gopher (280B)
 LLM model can be built either using Transformer Architecture or non-Tranformer architecture. When we use huge data to train a model then whatever model is output from the training process that is called LLM. When we are training a Transformer or any other neural network model only small amount of data then output model is not called LLM. LLM can work upon Text, Images, Video, Audio. Some LLMs can accept only text data for example GPT3, some can accept only with image data, some can accpet different kind of data i.e. text, image, audio for example GPT4. Some LLM takes text input and generate text output. Some LLM takes text input generate image output for example DALL-E.
 
 ## Examples of Transformer Based LLM
-Transformer architecture is highly parallelizable and can capture long-range dependencies in text, making it effective for tasks like machine translation, text generation, and more
+Transformer architecture is highly parallelizable and can capture long-range dependencies in text, making it effective for tasks like machine translation, text generation, and more. The greatness of any LLM depends upon 
+- How less resources (compute, memory, and harddisk) they need for finetuning, inferencing on the downstream tasks.
+- How good those finetuned model performs.
 
 Model Name | Company Name | Parameters | Year of release | Model Capabilities
 --- | --- | --- | --- | ---
@@ -79,7 +81,7 @@ FaluBert (Falu Language Model) | Falu AI team. | 24 million | 2020 | Chinese lan
 Gopher (Go Programming language HelpER) model | OpenAI team. | 125 million | 2020 | Code generation for Go programming language
 CodeBERT (Code BERT) model | Microsoft Research Asia team. | 400 million | 2020 | Code generation for multiple programming languages
 Chinchilla model | OpenAI team. | 350 million | 2020 | Multilingual contextual representations
-DialogGPT | DialogGPT | 345 million | 2019 | Open-domain conversational agent
+DialogGPT | Microsoft | 345 million | 2019 | Open-domain conversational agent. Trained on 147M conversation-like exchanges extracted from Reddit comment chains over a period spanning from 2005 through 2017
 
 ## Example of Pathway Based LLM
 * **PaLM:** Developed by Google AI, PaLM is a large language model with 540 billion parameters. It is designed to be informative and comprehensive, and it can be used for a variety of tasks, including natural language understanding, natural language generation, and machine translation.
