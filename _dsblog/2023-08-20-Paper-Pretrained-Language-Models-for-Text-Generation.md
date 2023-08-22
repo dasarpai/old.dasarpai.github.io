@@ -8,7 +8,7 @@ tags: [AI Paper, NLP, Pretrained Model]
 categories:
 
 header:
-    teaser: /assets/images/dspost/dsp6088-Pretrained-Language-Models-for-Text-Generation.jpg
+    teaser: /assets/images/dspost/dsp6088-dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg
 excerpt_separator: "<!--more-->"  
 excerpt:  
 layout: single  
@@ -17,7 +17,7 @@ toc: True
 toc_sticky: true
 ---
 
-![Pretrained Language Models for Text Generation]( /assets/images/dspost/dsp6088-Pretrained-Language-Models-for-Text-Generation.jpg)
+![Pretrained Language Models for Text Generation]( /assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg)
 
   
 **Paper Name:- Pretrained Language Models for Text Generation: A Survey**  
@@ -37,6 +37,21 @@ Typer of Paper:- Survey Paper
 - Neural generation model are deep learning models
 - Pretrained language models (PLMs) are neural generation model
 
+### Tasks and Typical Applications
+- In most cases, text generation is conditioned on input data, such as attributes, text and structured data, which is denoted as X. Formally, the text generation task can be described as: P(YjX ) = P(y1; : : : ; yj ; : : : ; ynjX )
+- If X is not provided or a random noise vector z, this task will degenerate into language modeling or unconditional
+generation task(generate text without any constraint) [Radford2019]
+- If X is a set of discrete attributes (e.g., topic words, sentiment labels), the task becomes topic-to-text generation or
+attribute-based generation.  X plays the role of guiding the text generation. [Keskar2019]. 
+• If X is structured data like knowledge graph or table, this task will be considered as KG-to-text or table-to-text generation (generate descriptive text about structured data), called data-to-text generation [Li2021c].
+• If X is multimedia input such as image, the task becomes image caption [Xia2020] 
+• If X is multimedia input such as speech, the task become speech recognition [Fan2019]. 
+• The most common form of X is also a text sequence, and there exist several applications such as machine translation,
+summarization and dialogue system. 
+- Machine translation aims to translate text from one language into another language automatically [Conneau2019]
+- Generating condensed summary of a long document [Zhang2019b]
+- Dialogue system to converse with humans using natural language. [Wolf2019]
+
 ## Paper Outcome
 - General task deﬁnition
 - Describe the mainstream architectures of PLMs for text generation. 
@@ -44,21 +59,21 @@ Typer of Paper:- Survey Paper
 - Summarize several important ﬁne-tuning strategies for text generation. 
 
 ## Introduction 
-- Researchers have developed numerous techniques for a wide range of applications of text generation [Li et al., 2021a].
-- Machine translation generates text in a different language based on the source text [Yang et al., 2020a];
-- Summarization generates an abridged version of the source text to include salient information [Guan et al., 2020].
+- Researchers have developed numerous techniques for a wide range of applications of text generation [Li2021a].
+- Machine translation generates text in a different language based on the source text [Yang2020a];
+- Summarization generates an abridged version of the source text to include salient information [Guan2020].
 - Text generation tasks based on 
-    - Recurrent neural networks (RNN) [Li et al., 2019], 
-    - Convolutional neural networks (CNN) [Gehring et al., 2017], 
-    - Graph neural networks (GNN) [Li et al., 2020], 
-    - Attention mechanism [Bahdanau et al., 2015]. 
+    - Recurrent neural networks (RNN) [Li2019], 
+    - Convolutional neural networks (CNN) [Gehring2017], 
+    - Graph neural networks (GNN) [Li2020], 
+    - Attention mechanism [Bahdanau2015]. 
 - One of the advantages of these neural models is that they enable end-to-end learning of semantic mappings from input to output in text generation.
 - Neural models are able to learn low-dimensional, dense vectors to implicitly represent linguistic features of text, which is also useful to alleviate data sparsity.
 - Deep neural networks usually have a large number of parameters to learn, which are likely to overﬁt on these small datasets and do not generalize well in practice.
 - The idea behind PLMs is to ﬁrst pretrain the models in large-scale corpus and then ﬁnetune these models in various downstream tasks to achieve
 state-of-the-art results. 
 - PLMs can encode a large amount of linguistic knowledge from corpus and induce universal representations of language. 
-- PLMs are generally beneﬁcial for downstream tasks and can avoid training a new model from scratch [Brown et al., 2020]. 
+- PLMs are generally beneﬁcial for downstream tasks and can avoid training a new model from scratch [Brown2020]. 
 -  A synthesis to the research on some text generation subtasks. Zaib et al. [2020], and Guan et al. [2020]
 
 
@@ -106,7 +121,7 @@ Ethical Concern:
 1. [Brown2020], Language models are few-shot learners. In NeurIPS, 2020.
 1. [Chen2020a], Distilling knowledge learned in BERT for text generation. In ACL, 2020.
 1. [Chen2020b], Few-shot NLG with pre-trained language model. In ACL, 2020.
-1. [Conneau and Lample, 2019], Cross-lingual language model pretraining. In NeurIPS, 2019.
+1. [Conneau2019], Cross-lingual language model pretraining. In NeurIPS, 2019.
 1. [Devlin2019], BERT: pre-training of deep bidirectional transformers for language understanding. In NAACL-HLT, 2019.
 1. [Dong2019], Unified language model pretraining for natural language understanding and generation. In NeurIPS, 2019.
 1. [Fan2019], Unsupervised pre-training for sequence to sequence speech recognition. CoRR, arXiv preprint arXiv:1910.12418, 2019.
@@ -125,7 +140,7 @@ Ethical Concern:
 1. [Li2021b], Few-shot knowledge graph-to-text generation with pretrained language models. In Findings of ACL, 2021.
 1. [Li2021c], Knowledge-based review generation by coherence enhanced text planning. In SIGIR, 2021.
 1. [Lin2020], Pretraining multilingual neural machine translation by leveraging alignment information. In EMNLP, 2020.
-1. [Liu and Lapata, 2019], Text summarization with pretrained encoders. In EMNLP, 2019.
+1. [Liu2019], Text summarization with pretrained encoders. In EMNLP, 2019.
 1. [Mager2020], GPT-too: A language-model-first approach for AMR-to-text generation. In ACL, 2020.
 1. [Peters2018], Deep contextualized word representations. In NAACL-HLT, 2018.
 1. [Qiu2020], Pre-trained models for natural language processing: A survey. arXiv preprint arXiv:2003.08271, 2020.
@@ -140,7 +155,7 @@ Ethical Concern:
 1. [Sun2019a], Contrastive bidirectional transformer for temporal representation learning. arXiv preprint arXiv:1906.05743, 2019.
 1. [Sun2019b], Videobert: A joint model for video and language representation learning. In ICCV, 2019.
 1. [Vaswani2017], Attention is all you need. In NIPS, 2017.
-1. [Wada and Iwata, 2018], Unsupervised cross-lingual word embedding by multilingual neural language models. arXiv preprint arXiv:1809.02306, 2018.
+1. [Wada2018], Unsupervised cross-lingual word embedding by multilingual neural language models. arXiv preprint arXiv:1809.02306, 2018.
 1. [Wolf2019], Transfertransfo: A transfer learning approach for neural network based conversational agents. arXiv preprint arXiv:1901.08149, 2019.
 1. [Xia2020], XGPT: cross-modal generative pre-training for image captioning. arXiv preprint arXiv:2003.01473, 2020.
 1. [Xu2020a], Discourse-aware neural extractive text summarization. In ACL, 2020.
@@ -148,11 +163,11 @@ Ethical Concern:
 1. [Yang2020a], CSP: code-switching pre-training for neural machine translation. In EMNLP, 2020.
 1. [Yang2020b], TED: A pretrained unsupervised summarization model with theme modeling and denoising. In EMNLP (Findings), 2020.
 1. [Zaib2020], A short survey of pre-trained language models for conversational AI-A new age in NLP. In ACSW, 2020.
-1. [Zeng and Nie, 2020], Generalized conditioned dialogue generation based on pre-trained language model. arXiv preprint arXiv:2010.11140, 2020.
+1. [Zeng2020], Generalized conditioned dialogue generation based on pre-trained language model. arXiv preprint arXiv:2010.11140, 2020.
 1. [Zhang2019a], Pretraining-based natural language generation for text summarization. In CoNLL, 2019.
 1. [Zhang2019b], HIBERT: document level pre-training of hierarchical bidirectional transformers for document summarization. In ACL, 2019.
 1. [Zhang2019c]{#Zhang2019c}, ERNIE: enhanced language representation with informative entities. In ACL, 2019.
 1. [Zhang2020], DIALOGPT : Largescale generative pre-training for conversational response generation. In ACL, 2020.
 1. [Zhao2020], Knowledge-grounded dialogue generation with pretrained language models. In EMNLP, 2020.
-1. [Zheng and Lapata, 2019], Sentence centrality revisited for unsupervised summarization. In ACL, 2019.
+1. [Zheng2019], Sentence centrality revisited for unsupervised summarization. In ACL, 2019.
 1. [Zhou2020], Unified vision-language pre-training for image captioning and VQA. In AAAI, 2020
