@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 6088
-title: Paper-Summary: A Survey Paper# Pretrained Language Models for Text Generation
+title: Paper-Summary- A Survey Paper# Pretrained Language Models for Text Generation
 date: 2023-08-18
 permalink: '/dsblog/rps-Pretrained-Language-Models-for-Text-Generation'
 tags: [AI Paper, NLP, Pretrained Model]
@@ -17,8 +17,7 @@ toc: True
 toc_sticky: true
 ---
 
-![Pretrained Language Models for Text Generation]( /assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg)
-
+![Pretrained Language Models for Text Generation](/assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg)
   
 **Paper Name :- Pretrained Language Models for Text Generation: A Survey**  
 Typer of Paper:- Survey Paper     
@@ -43,10 +42,10 @@ Typer of Paper:- Survey Paper
 generation task(generate text without any constraint) [Radford2019]
 - If X is a set of discrete attributes (e.g., topic words, sentiment labels), the task becomes topic-to-text generation or
 attribute-based generation.  X plays the role of guiding the text generation. [Keskar2019]. 
-• If X is structured data like knowledge graph or table, this task will be considered as KG-to-text or table-to-text generation (generate descriptive text about structured data), called data-to-text generation [Li2021c].
-• If X is multimedia input such as image, the task becomes image caption [Xia2020] 
-• If X is multimedia input such as speech, the task become speech recognition [Fan2019]. 
-• The most common form of X is also a text sequence, and there exist several applications such as machine translation,
+- If X is structured data like knowledge graph or table, this task will be considered as KG-to-text or table-to-text generation (generate descriptive text about structured data), called data-to-text generation [Li2021c].
+- If X is multimedia input such as image, the task becomes image caption [Xia2020] 
+- If X is multimedia input such as speech, the task become speech recognition [Fan2019]. 
+- The most common form of X is also a text sequence, and there exist several applications such as machine translation,
 summarization and dialogue system. 
 - Machine translation aims to translate text from one language into another language automatically [Conneau2019]
 - Generating condensed summary of a long document [Zhang2019b]
