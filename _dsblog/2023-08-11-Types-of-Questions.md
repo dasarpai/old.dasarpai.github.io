@@ -133,15 +133,15 @@ Question-Answering task is one of the tasks in NLP-Task. To create a high-perfor
 
     Probing questions are used to delve deeper into a topic, encouraging respondents to provide more extensive answers.
     
-    Clarifying questions: Clarifying questions help teachers or leaders ensure group members understand the current material. They also help teachers understand what a student is trying to convey through a statement or question, such as asking, "What do you mean by the term 'unfair'?"
+    23.1 Clarifying questions: Clarifying questions help teachers or leaders ensure group members understand the current material. They also help teachers understand what a student is trying to convey through a statement or question, such as asking, "What do you mean by the term 'unfair'?"
 
-    Critical awareness questions: Critical awareness questions require listeners to understand and apply information analytically to reach a conclusion. For example, a teacher can ask, "What details do you have to support your answer?"
+    23.2 Critical awareness questions: Critical awareness questions require listeners to understand and apply information analytically to reach a conclusion. For example, a teacher can ask, "What details do you have to support your answer?"
 
-    Refocusing questions: Group leaders or managers may use refocusing questions to help members return to the point of the discussion if answers are becoming unrelated or incorrect. For instance, you could ask, "If that answer is true, how could it affect the future?"
+    23.3 Refocusing questions: Group leaders or managers may use refocusing questions to help members return to the point of the discussion if answers are becoming unrelated or incorrect. For instance, you could ask, "If that answer is true, how could it affect the future?"
 
-    Prompting questions: Prompting refers to helping learners reach the right answer with additional clues or context. For instance, if a group member cannot answer your question about how many product lines your snack company produces, you might interject by asking how many pantry items you sell, followed by how many refrigerated items.
+    23.4 Prompting questions: Prompting refers to helping learners reach the right answer with additional clues or context. For instance, if a group member cannot answer your question about how many product lines your snack company produces, you might interject by asking how many pantry items you sell, followed by how many refrigerated items.
 
-    Redirection questions: Teachers can involve more participants and help others think critically about information by allowing other group members to add to, object to or clarify another member's answer. For instance, if Sharon only remembers two of your company's five core values, you could redirect the discussion by saying something like, "Andrew, can you add to Sharon's answer?"
+    23.5 Redirection questions: Teachers can involve more participants and help others think critically about information by allowing other group members to add to, object to or clarify another member's answer. For instance, if Sharon only remembers two of your company's five core values, you could redirect the discussion by saying something like, "Andrew, can you add to Sharon's answer?"
 
-## Resources 
-https://www.indeed.com/career-advice/career-development/types-of-questions
+## References 
+- [15 Tyeps of Questions](https://www.indeed.com/career-advice/career-development/types-of-questions)
