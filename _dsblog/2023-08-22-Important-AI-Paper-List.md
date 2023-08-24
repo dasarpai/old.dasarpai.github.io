@@ -26,6 +26,9 @@ In almost all citations it becomes very difficult to read the title of research 
 
 ## Citations
 
+> Pretrained Language Models for Text Generation: A Survey
+
+
 ###### [Bahdanau2015]
 Neural machine translation by jointly learning to align and translate. In ICLR, 2015.
 ###### [Bao2020]
@@ -88,7 +91,7 @@ Language models are unsupervised multitask learners. OpenAI blog, 1(8):9, 2019.
 Exploring the limits of transfer learning with a unified text-to-text transformer. JMLR, 2020.
 ###### [Ribeiro2020]
 Investigating pretrained language models for graph-to-text generation. arXiv preprint arXiv:2007.08426, 2020.
-###### [Ross2012]
+###### [Ross, 2012]
 Guide for conducting risk assessments. In NIST Special Publication, 2012.
 ###### [Rothe2020]
 Leveraging pre-trained checkpoints for sequence generation tasks. TACL, 2020.
@@ -136,13 +139,14 @@ Knowledge-grounded dialogue generation with pretrained language models. In EMNLP
 Sentence centrality revisited for unsupervised summarization. In ACL, 2019.
 ###### [Zhou2020]
 Unified vision-language pre-training for image captioning and VQA. In AAAI, 2020
+> Survey on Automatic Text Summarization and Transformer Models Applicability
 
 ###### [CohanA2018]
 A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents. In Proceedings of the 2018 Conference of the North American Chapter ofthe Association for Computational Linguistics: Human Language Technologies. 615–621.
 ###### [NenkovaA2007]
 The pyramid method: Incorporating human content selection variation in summarization evaluation. ACM Transactions on Speech and Language Processing 4, 2 (2007).
 ###### [RadfordA]
-Improving language understanding by generative pre-training. www.cs.ubc.ca/~amuham01/LING530/papers/adford2018improving.pdf
+Improving language understanding by generative pre-training. www.cs.ubc.ca/~amuham01/LING530/ papers/radford2018improving.pdf
 ###### [RasimMA2013]
 Multiple documents summarization based on evolutionary optimization algorithm. Expert Systems with Applications 40, 5 (2013), 1675–1689.
 ###### [RasimMA]
@@ -194,7 +198,7 @@ English Gigaword. https://catalog.ldc.upenn.edu/LDC2011T07
 ###### [ChopraS2016]
 Abstractive sentence summarization with attentive recurrent neural networks. In Proceedings ofthe 2016 Conference ofthe North American Chapter ofthe Association for Computational Linguistics: Human Language Technologies. 93–98.
 ###### [EvanS2008]
-The New York Times Annotated Corpus. https://catalog.ldc.upenn.edu/LDC2008T19
+The New York Times Annotated Corpus. https://catalog.ldc.upenn. edu/LDC2008T19
 ###### [EdunovS2019]
 Pre-trained language model representations for language generation. In Proceedings ofthe 2019 Conference ofthe North American Chapter ofthe Association for Computational Linguistics. 4052–4059.
 ###### [NarayanS2018]
@@ -215,6 +219,171 @@ Transformer- XL: Attentive Language Models beyond a Fixed-Length Context. In Pro
 Albert: A lite bert for self-supervised learning of language representations. arXiv:1909.11942 (2019).
 ###### [YangZ2019]
 Xlnet: Generalized autoregressive pretraining for language understanding. Advances in neural information processing systems (2019), 5754–5764.
+
+> Ctrl: A Conditional Transformer Language Model For Controllable Generation
+
+###### [Mart2016]
+Tensorflow: A system for large-scale machine learning. In 12th {USENIX} Symposium on Operating Systems Design and Imple-mentation ({OSDI} 16), pp. 265–283, 2016.
+###### [Rohan2019]
+Memory-efficient adaptive optimiza-tion for large-scale learning. arXiv preprint arXiv:1901.11150, 2019.
+###### [Martin2017]
+Wasserstein generative adversarial networks. ´In International conference on machine learning, pp. 214–223, 2017.
+###### [Matthew2017]
+Factsheets: Increasing trust in AI servicesthrough supplier’s declarations of conformity, August 2018. arXiv:1808.07261 [cs.CY].Mikel Artetxe, Gorka Labaka, Eneko Agirre, and Kyunghyun Cho. Unsupervised neural machinetranslation. arXiv preprint arXiv:1710.11041, 2017.
+###### [Jimmy2016]
+Layer normalization. CoRR, abs/1607.06450,2016.
+###### [Lo2019]
+Findings of the2019 conference on machine translation (wmt19). In Proceedings of the Fourth Conference onMachine Translation (Volume 2: Shared Task Papers, Day 1), pp. 1–61, 2019.
+###### [Yoshua2003]
+A neural probabilistic ´language model. Journal of machine learning research, 3(Feb):1137–1155, 2003.
+###### [Thorsten2007]
+Large language models in machine translation. In Proceedings of the 2007 Joint Conference on Empirical Methods inNatural Language Processing and Computational Natural Language Learning (EMNLP-CoNLL),pp. 858–867, 2007.
+###### [Miles2016]
+Artificial intelligence and responsible innovation. In Vincent C. Muller (ed.), ¨Fundamental Issues of Artificial Intelligence, pp. 543–554. Springer, 2016.
+###### [Miles2019]
+The malicious use of artificial intelligence: Forecasting,prevention, and mitigation, February 2019. arXiv:1802.07228 [cs.AI].Isaac Caswell, Ciprian Chelba, and David Grangier. Tagged back-translation. arXiv preprintarXiv:1906.06442, 2019.
+###### [Xi2016]
+Infogan:Interpretable representation learning by information maximizing generative adversarial nets. InAdvances in neural information processing systems, pp. 2172–2180, 2016.
+###### [Rewon2019]
+Generating long sequences with sparsetransformers. arXiv preprint arXiv:1904.10509, 2019.
+###### [Ronan2008]
+A unified architecture for natural language processing: Deepneural networks with multitask learning. In Proceedings of the 25th international conference onMachine learning, pp. 160–167. ACM, 2008.
+###### [Ronan2011]
+Natural language processing (almost) from scratch. Journal of machine learning research,12(Aug):2493–2537, 2011.
+###### [Ruth1987]
+The consumption junction: A proposal for research strategies in the sociol-ogy of technology. In Wiebe E. Bijker, Thomas P. Hughes, and Trevor J. Pinch (eds.), The SocialConstruction of Technological Systems, pp. 261–280. MIT Press, Cambridge, MA, USA, 1987.
+###### [Andrew2015]
+Semi-supervised sequence learning. In Advances in neural infor-mation processing systems, pp. 3079–3087, 2015.
+###### [Zihang2019]
+Transformer-xl: Attentive language models beyond a fixed-length context. arXivpreprint arXiv:1901.02860, 2019.
+###### [Jacob2018]
+Bert: Pre-training of deepbidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805, 2018.
+###### [John2011]
+Adaptive subgradient methods for online learning andstochastic optimization. Journal of Machine Learning Research, 12(Jul):2121–2159, 2011.
+###### [Matthew2017]
+Searchqa: A new q&a dataset augmented with context from a search engine. arXiv preprintarXiv:1704.05179, 2017.
+###### [Angela2018]
+Hierarchical neural story generation. arXiv preprintarXiv:1805.04833, 2018.
+###### [Angela2019]
+Eli5:Long form question answering. arXiv preprint arXiv:1907.09190, 2019.
+###### [Boris2019]
+Stochastic gradient methods with layer-wise adaptive moments for training of deep networks. arXiv preprint arXiv:1905.11286, 2019.
+###### [Ian2014]
+Generative adversarial nets. In Advances in neural infor-mation processing systems, pp. 2672–2680, 2014.
+###### [Max2016]
+Newsroom: A dataset of 1.3 million summaries with diverse extractive strategies. In Proceedings of the 2018 Conference of the North AmericanChapter of the Association for Computational Linguistics: Human Language Technologies, pp.708–719, New Orleans, Louisiana, June 2018.
+###### [Kaiming2016]
+Deep residual learning for image recog-nition. In Proceedings of the IEEE conference on computer vision and pattern recognition, pp.770–778, 2016.
+###### [Karl2015]
+Teaching machines to read and comprehend. In Advances inneural information processing systems, pp. 1693–1701, 2015.
+###### [Ari2019]
+The curious case of neural text degener-ation. arXiv preprint arXiv:1904.09751, 2019.
+###### [Jeremy2018]
+Universal language model fine-tuning for text classification.arXiv preprint arXiv:1801.06146, 2018.
+###### [Hakan2016]
+Tying word vectors and word classifiers: Aloss framework for language modeling. arXiv preprint arXiv:1611.01462, 2016.
+###### [Melvin2017]
+Googles multilingual neural ´machine translation system: Enabling zero-shot translation. Transactions of the Association forComputational Linguistics, 5:339–351, 2017.
+###### [Mandar2017]
+Triviaqa: A large scale distantly supervised challenge dataset for reading comprehension. arXiv preprint arXiv:1705.03551, 2017.
+###### [David2017]
+Self-censorship is not enough. Nature, 492(7429):345–347,December 2012. doi: 10.1038/492345a.
+###### [Lukasz2017]
+One model to learn them all. arXiv preprint arXiv:1706.05137, 2017.
+###### [Łukasz2018]
+Fast decoding in sequence models using discrete latent variables. arXiv preprintarXiv:1803.03382, 2018.
+###### [Nitish2019]
+Unifying questionanswering and text classification via span extraction. arXiv preprint arXiv:1904.09286, 2019.
+###### [Diederik2014]
+Adam: A method for stochastic optimization. arXiv preprintarXiv:1412.6980, 2014.
+###### [Diederik2013]
+Auto-encoding variational bayes. arXiv preprintarXiv:1312.6114, 2013.
+###### [Ryan2015]
+Skip-thought vectors. In Advances in neural information processingsystems, pp. 3294–3302, 2015.
+###### [Catherine2016]
+Senellart. Domain control for neural machine translation.arXiv preprint arXiv:1612.06140, 2016.
+###### [Wojciech2019]
+Neural text summarization: A critical evaluation. arXiv preprint arXiv:1908.08960, 2019.
+###### [Tom2019]
+Natural questions: abenchmark for question answering research. Transactions of the Association for ComputationalLinguistics, 7:453–466, 2019.
+###### [Guillaume2019]
+Cross-lingual language model pretraining. arXiv preprintarXiv:1901.07291, 2019.
+###### [Guillaume2019]
+Large memory layers with product keys. ´ arXiv preprint arXiv:1907.05242, 2019.
+###### [Hector2012]
+The winograd schema challenge. In Thir-teenth International Conference on the Principles of Knowledge Representation and Reasoning,2012.
+###### [Patrick2019]
+Unsupervised question answering by clozetranslation. arXiv preprint arXiv:1906.04980, 2019.
+###### [Minh-Thang2015]
+Multi-task sequence to sequence learning. arXiv preprint arXiv:1511.06114, 2015.
+###### [Julian2015]
+Image-based rec-ommendations on styles and substitutes. In Proceedings of the 38th International ACM SIGIRConference on Research and Development in Information Retrieval, pp. 43–52. ACM, 2015.
+###### [Bryan6294]
+Learned in translation:Contextualized word vectors. In Advances in Neural Information Processing Systems, pp. 6294.
+###### [Bryan2018]
+The natural language decathlon: Multitask learning as question answering. arXiv preprint arXiv:1806.08730, 2018.
+###### [15Stephen2017]
+Regularizing and optimizing lstm lan-guage models. arXiv preprint arXiv:1708.02182, 2017.
+###### [Tomas2013]
+Distributed represen-tations of words and phrases and their compositionality. In Advances in neural information pro-cessing systems, pp. 3111–3119, 2013.
+###### [Margaret7596]
+Model cards for model reporting. InProceedings of the Conference on Fairness, Accountability, and Transparency (FAT* ’19), Jan-uary 2019. doi: 10.1145/3287560.3287596.
+###### [Amit2019]
+Filling gender & number gaps in neural ma-chine translation with black-box context injection. arXiv preprint arXiv:1903.03467, 2019.
+###### [Vinod2010]
+Rectified linear units improve restricted boltzmann machines. InProceedings of the 27th International Conference on Machine Learning (ICML-10), pp. 807–814,2010.
+###### [Ramesh2016]
+Abstractive text summarizationusing sequence-to-sequence rnns and beyond. arXiv preprint arXiv:1602.06023, 2016.
+###### [Matthew2018]
+Deep contextualized word representations. arXiv preprint arXiv:1802.05365,2018.
+###### [Carol1979]
+Constraints on language mixing: intra sentential code-switching and borrowing inspanish/english. Language, pp. 291–318, 1979.
+###### [Shana1980]
+Sometimes ill start a sentence in spanish y termino en espanol: toward a typologyof code-switching1. Linguistics, 18(7-8):581–618, 1980.
+###### [Ofir2016]
+Using the output embedding to improve language models. arXiv preprintarXiv:1608.05859, 2016.
+###### [Alec2018]
+Improving language under-standing by generative pre-training. URL https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/languageunsupervised/language understanding paper.pdf, 2018.
+###### [Alec2019]
+Language models are unsupervised multitask learners. URLhttps://d4mucfpksywv.cloudfront.net/better-language-models/language models are unsupervised multitask learners.pdf, 2019.
+###### [Nazneen2019]
+Explain yourself! leveraging language models for commonsense reasoning. arXiv preprint arXiv:1906.02361, 2019.
+###### [Pranav2016]
+Squad: 100,000+ questionsfor machine comprehension of text. arXiv preprint arXiv:1606.05250, 2016.
+###### [Alexander2015]
+A neural attention model for abstractivesentence summarization. arXiv preprint arXiv:1509.00685, 2015.
+###### [Evan2008]
+The new york times annotated corpus. Linguistic Data Consortium, Philadelphia,6(12):e26752, 2008.
+###### [Thomas2019]
+Answers unite!unsupervised metrics for reinforced summarization models. arXiv preprint arXiv:1909.01610,2019.
+###### [Abigail2017]
+Get to the point: Summarization with pointer-generator networks. In Proceedings of the 55th Annual Meeting of the Association for Computa-tional Linguistics (Volume 1: Long Papers), volume 1, pp. 1073–1083, 2017.
+###### [Rico2015]
+Neural machine translation of rare words with subword units. arXiv preprint arXiv:1508.07909, 2015.
+###### [Noam2018]
+Adafactor: Adaptive learning rates with sublinear memory cost.arXiv preprint arXiv:1804.04235, 2018.
+###### [Jack008]
+Developing a framework for responsible inno-vation. Research Policy, 42(9):1568–1580, November 2013. doi: 10.1016/j.respol.2013.05.008.
+###### [Ilya2014]
+Sequence to sequence learning with neural networks. In Advances in neural information processing systems, pp. 3104–3112, 2014.
+###### [Trieu2018]
+A simple method for commonsense reasoning. arXiv preprintarXiv:1806.02847, 2018.
+###### [Adam2016]
+A machine comprehension dataset. arXiv preprint arXiv:1611.09830,2016.
+###### [Lav6008]
+Pretrained AI models: Performativity,mobility, and change, September 2019. arXiv:1909.03290 [cs.CY].
+###### [Curran2018]
+Glue:A multi-task benchmark and analysis platform for natural language understanding. arXiv preprintarXiv:1804.07461, 2018.
+###### [Sean2019]
+Neural text generation with unlikelihood training. arXiv preprint arXiv:1908.04319, 2019.
+###### [Yonghui2016]
+Google’s neural machine trans-lation system: Bridging the gap between human and machine translation. arXiv preprintarXiv:1609.08144, 2016.
+###### [Stratos2019]
+Sumqe: a bert-based summary quality estimation model. arXiv preprint arXiv:1909.00578, 2019.
+###### [Zhilin2018]
+Hotpotqa: A dataset for diverse, explainable multi-hop questionanswering. arXiv preprint arXiv:1809.09600, 2018.
+###### [Rowan 2019]
+Defending against neural fake news. arXiv preprint arXiv:1905.12616, 2019
 
 ## NLP Papers Available on my Google Drive 
 You can download these papers from [link](https://drive.google.com/drive/folders/1UiDwP2EwhQCl6O9t_PCCtNmouLNwTav7?usp=sharing)
