@@ -77,4 +77,73 @@ Encoding: 1001, 2005, 2230, 1, etc. As many tokens than many encoding. We get th
 **Decoder:** When we want to predicting next word from previous words, this is called decoding. It is a kind of Transformer. GPT transformer is Decoder transformer.	
 
 **Encoder-Decoder:** When we want to predicting corresponding word in language 2 from a parallel sentence in language 1. This is called encoding-decoing. This is also cal sequence2sequence or seq2seq task. This kind of transformer is called encoder-decoder transformer.
-	
+
+## AI Experiments
+
+**What is playground mode in Colab?:** Playground mode is essentially just a pre-configured notebook that’s optimized for quick experimentation. Colaboratory sets up a Python environment with a bunch of commonly-used machine learning libraries already installed, including TensorFlow, Scikit-learn, and PyTorch. If somebody shares code with you need not to worry about pip install. Just run the code. Without configuration or pip install, code will run. Nothing can be saved in playground mode. [More...](https://saturncloud.io/blog/what-is-playground-mode-in-googles-colaboratory/)
+
+## NLP Tasks Types and NLP Tasks
+- Single-sentence tasks like CoLA and SST-2
+- Similarity and paraphrasing tasks like MRPC, STS-B and QQP
+- Natural language inference tasks MNLI, QNLI, RTE and WNLI
+
+## GLUE 
+General Language Understanding Evaluation (GLUE) benchmark is a collection of resources for training, evaluating, and analyzing natural language understanding systems.
+
+- It is a benchmark of nine tasks 
+- Each task has corresponding dataset.
+- Dataset and task both are known by the same name.
+= These are sentence or sentence-pair language understanding tasks 
+- It is built on established existing datasets and selected to cover a diverse range of dataset sizes, text genres, and degrees of difficulty.
+- A diagnostic dataset **designed to evaluate and analyze model performance** with respect to a wide range of linguistic phenomena found in natural language
+- A **public leaderboard for tracking performance** on the benchmark and a dashboard for visualizing the performance of models on the diagnostic set.
+
+## Single Sentence Tasks
+
+### CoLA 
+This is single sentence NLP task. CoLA or Corpus of Linguistic Acceptability. The corresponding dataset consists of English acceptability judgments drawn from books and journal articles on linguistic theory. The goal of the CoLA task is to assess a model's ability to determine whether a given sentence is grammatically and semantically correct or not. Given a sentence, the task is to predict whether the sentence is linguistically acceptable or if it contains grammatical errors or awkward phrasing that makes it unacceptable. "Matthews correlation coefficient" is used to measure this task. It's value range between -1 to 1.
+
+### SST2
+This is single sentence NLP task. SST-2 The Stanford Sentiment Treebank. The corresponding dataset consists of sentences from movie reviews and human annotations of their sentiment. The task is to predict the sentiment of a given sentence. Accuracy is metrics.
+
+## Similarity and Paraphrase Tasks
+
+### MRPC 
+The Microsoft Research Paraphrase Corpus [Dolan2005]. A corpus of sentence pairs automatically extracted from online news sources, with human annotations for whether the sentences in the pair are semantically equivalent. Acc and F1 score are metrics.
+
+### QQP 
+QQP The Quora Question Pairs.  It is a collection of question pairs from the community question-answering website Quora. The task is to determine whether a pair of questions are semantically equivalent. It is a paraphrasing task. Acc and F1 score are metrics.
+
+### STS-B 
+The Semantic Textual Similarity [Cer2017] dataset is a collection of sentence pairs drawn from news headlines, video and image captions, and natural language inference data. Each pair is human-annotated with a similarity score from 1 to 5. Pearson and Spearman correlation coefficients metrics are used to measure the task performance.
+
+## Inference Tasks
+
+### MNLI 
+The Multi-Genre Natural Language Inference Corpus [Williams2018]. A crowdsourced collection of sentence pairs with textual entailment annotations. Given a premise sentence and a hypothesis sentence, the task is to predict whether the premise entails the hypothesis (entailment), contradicts the hypothesis (contradiction), or neither (neutral).  The premise sentences are gathered from ten different sources, including transcribed speech, fiction, and government reports. Matched, Unmatched Accuracy is metrics.
+
+### QNLI 
+The Question-Answering Natural Language Inference Dataset [Rajpurkar2016].  It consists of question-paragraph pair. Where one of the sentences in the paragraph (drawn from Wikipedia) contains the answer to the corresponding question (written by an annotator). The task is to determine whether the context sentence contains the answer to the question. Accuracy is metrics.
+
+### RTE 
+The Recognizing Textual Entailment (RTE) dataset come from a series of annual textual entailment challenges. Two classes are entailment, not_entailment. Accuracy is metrics.    
+RTE1 [Dagan2006], RTE2 [Bar2006], RTE3 [Giampiccolo2007], and RTE5 [Bentivogli2009]. 
+
+### WNLI 
+The Winograd Schema Challenge [Levesque2011] is a reading comprehension task in which a system must read a sentence with a pronoun and select the referent of that pronoun from a list of choices. The examples are manually constructed to foil simple statistical methods: Each one is contingent on contextual information provided by a single word or phrase in the sentence. Accuracy is metrics.
+
+## NLP Tasks Based on Granularity
+- Coarse-Grained Categories 
+	- Lexical Semantics 
+	- Predicate-Argument Structure
+	- Logic 
+	- Knowledge
+- Fine-Grained Categories
+	- Lexical Entailment, Morphological Negation, Factivity, Symmetry/Collectivity, Redundancy, Named Entities, Quantifiers
+	- Core Arguments, Prepositional Phrases, Ellipsis/Implicits, Anaphora/Coreference Active/Passive, Nominalization, Genitives/Partitives, Datives, Relative Clauses,
+	Coordination Scope, Intersectivity, Restrictivity
+	- Negation, Double Negation, Intervals/Numbers, Conjunction, Disjunction, Conditionals, Universal, - Existential, Temporal, Upward Monotone, Downward Monotone, Non-Monotone
+	- Common Sense, World Knowledge
+
+## BIG-Bench
+BIG-Bench is a collaborative benchmark intended to probe large language models and extrapolate their future capabilities. It is a diverse evaluation suite that focuses on tasks believed to be beyond the capabilities of current language models. [214 tasks](https://dasarpai.com/dsblog/nlp-tasks#214-nlp-tasks-from-big-benchmark) included in BIG-bench are summarized by keyword.
