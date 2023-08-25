@@ -37,7 +37,7 @@ It's worth noting that since the introduction of the GLUE benchmark, other bench
 - https://gluebenchmark.com/
 - https://gluebenchmark.com/leaderboard
 - https://paperswithcode.com/dataset/glue
-- [What is glue benchmark](/dsblog/ml-tasks-and-model-evaluation#what-is-glue-benchmark)
+
 
 ## What is SuperGLUE Benchmark?
 The SuperGLUE (Super General Language Understanding Evaluation) benchmark is an enhanced version of the GLUE benchmark introduced to address its limitations and provide more challenging language understanding tasks for evaluating and comparing the performance of natural language processing (NLP) models. SuperGLUE builds upon the success of GLUE and aims to push the boundaries of NLP research further.
@@ -54,7 +54,7 @@ It's important to note that the SuperGLUE benchmark, while providing more challe
 - https://super.gluebenchmark.com/
 - https://super.gluebenchmark.com/leaderboard
 - https://paperswithcode.com/dataset/superglue
-- [What is superglue benchmark?](/dsblog/ml-tasks-and-model-evaluation#what-is-superglue-benchmark)
+
 
 ## What is BLEU Benchmark?
 The **BLEU (Bilingual Evaluation Understudy)** score and the GLUE (General Language Understanding Evaluation) score are two different evaluation metrics used in the field of natural language processing (NLP), but they serve different purposes and evaluate different aspects of NLP models.

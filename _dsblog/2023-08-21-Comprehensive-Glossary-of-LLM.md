@@ -103,7 +103,6 @@ https://gem-benchmark.com/
 
 ### What is GLUE?
 General Language Understanding Evaluation (GLUE) benchmark is a collection of resources for training, evaluating, and analyzing natural language understanding systems.    
-https://www.tensorflow.org/datasets/catalog/glue
 
 - It is a benchmark of nine tasks 
 - Each task has corresponding dataset.
@@ -112,6 +111,9 @@ https://www.tensorflow.org/datasets/catalog/glue
 - It is built on established existing datasets and selected to cover a diverse range of dataset sizes, text genres, and degrees of difficulty.
 - A diagnostic dataset **designed to evaluate and analyze model performance** with respect to a wide range of linguistic phenomena found in natural language
 - A **public leaderboard for tracking performance** on the benchmark and a dashboard for visualizing the performance of models on the diagnostic set.
+- More Links
+	- https://www.tensorflow.org/datasets/catalog/glue
+	- [What is glue benchmark](/dsblog/ml-tasks-and-model-evaluation#what-is-glue-benchmark)
 
 ### NLP Tasks Types and NLP Tasks in GLUE
 - Single-sentence tasks like CoLA and SST-2
@@ -151,6 +153,11 @@ RTE1 [Dagan2006], RTE2 [Bar2006], RTE3 [Giampiccolo2007], and RTE5 [Bentivogli20
 
 #### WNLI 
 The Winograd Schema Challenge [Levesque2011] is a reading comprehension task in which a system must read a sentence with a pronoun and select the referent of that pronoun from a list of choices. The examples are manually constructed to foil simple statistical methods: Each one is contingent on contextual information provided by a single word or phrase in the sentence. Evaluation Metrics: Accuracy.
+
+## SuperGLUE
+The SuperGLUE (Super General Language Understanding Evaluation) benchmark is an enhanced version of the GLUE benchmark introduced to address its limitations and provide more challenging language understanding tasks for evaluating and comparing the performance of natural language processing (NLP) models. SuperGLUE builds upon the success of GLUE and aims to push the boundaries of NLP research further.
+
+- [What is superglue benchmark?](/dsblog/ml-tasks-and-model-evaluation#what-is-superglue-benchmark)
 
 ## NLP Tasks Based on Granularity
 - Coarse-Grained Categories 
