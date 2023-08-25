@@ -677,3 +677,6 @@ toc_sticky: true
 1. Aug-NeRF: Training Stronger Neural Radiance Fields With Triple-Level Physically-Grounded Augmentations 
 1. Semantic-Shape Adaptive Feature Modulation for Semantic Image Synthesis 
 1. Day-to-Night Image Synthesis for Training Nighttime Neural ISPs Literature ~Highlight: To address this problem, we propose a method that synthesizes nighttime images from daytime images.
+
+## References
+- https://www.paperdigest.org/2022/06/cvpr-2022-papers-with-code-data/
