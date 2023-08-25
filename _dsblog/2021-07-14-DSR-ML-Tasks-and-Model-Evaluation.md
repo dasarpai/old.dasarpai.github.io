@@ -24,6 +24,37 @@ toc_sticky: true
 Machine learning is a subject where we study how to create & evaluate machine learning models. To create these models, we need different types of data. We build models which can help us do various kinds of tasks. There are hundreds of model building techniques and researchers keep adding new techniques, and architectures as when need arises. But, the question is how do you evaluate these models which are output of the model trainings? To evaluate the performance of a model on structured data, or classification/regression/clustering models, we require one kind of metrics. But this becomes complicated when we are dealing with voice, text and audio data. How do you evaluate ten models which are responsible for translation, or locating an object in the image, transcribing voice into text, captioning an image? To solve this problem, standard databases are created and everyone needs to demonstrate the performance of their model, architecture, or approach against that dataset. But, even if you have a baseline dataset, how will you evaluate various NLP or deep learning tasks? For that GLUE, SuperGLUE benchmarks are created.
 
 
+## What is BLEU Benchmark?
+BLEU (Bilingual Evaluation Understudy) is a metric used to evaluate the quality of machine translation. It is based on the n-gram precision between the machine translation and the reference translation.
+
+BLEU-1 measures the unigram precision, which is the fraction of unigrams in the machine translation that also appear in the reference translation. A BLEU-1 score of 1 means that the machine translation is a perfect match for the reference translation.
+
+BLEU-1 is a simple and easy-to-understand metric, but it can be biased towards shorter translations. For example, a machine translation that is twice as long as the reference translation will have a lower BLEU-1 score, even if it is more accurate.
+
+To address this, BLEU-n metrics were developed, which measure the n-gram precision for n>1. BLEU-4 is the most commonly used BLEU-n metric. A BLEU-4 score of 1 means that the machine translation is a perfect match for the reference translation. However, BLEU-4 scores are typically much lower than 1, and a score of 0.5 or higher is considered to be good.
+
+BLEU-4 is a simple and easy-to-understand metric, but it can be biased towards shorter translations. For example, a machine translation that is twice as long as the reference translation will have a lower BLEU-4 score, even if it is more accurate.
+
+Steps to calculate BlLEU score are as following.
+1. Step1: Calculate N-gram Precision: BLEU calculates precision scores based on matching n-grams (sequences of n words) between the candidate translation and the reference translations. It computes precision scores for 1-gram (unigram), 2-gram (bigram), 3-gram, and 4-gram matches.
+2. Step2: Brevity Penalty: BLEU also takes into account the length of the candidate translation compared to the reference translations. This is because shorter translations tend to have an advantage in n-gram matching, but they might not convey the full meaning of the source text. BLEU applies a brevity penalty to avoid favoring overly short translations.
+3. Step3: Compute Geometric Mean: BLEU combines the precision scores of different n-gram matches using a geometric mean. This is done to give a balanced consideration to different n-gram orders. This metric helps in capturing both local and global translation quality.
+4. Step4: Score Calculation: The BLEU score is calculated by multiplying the geometric mean of the n-gram precisions by the brevity penalty. The result is a value between 0 and 1, where a higher score indicates a better match between the candidate translation and the reference translations.
+
+It's important to note that while BLEU is widely used for evaluating machine translation systems, it has some limitations. For instance, BLEU relies solely on n-gram matching and does not capture higher-level semantic or syntactic aspects of translation quality. As a result, it may not always align well with human judgments of translation quality, especially when dealing with creative or complex translations.
+
+Despite its limitations, BLEU remains a widely used and easily computable metric for quick and automated evaluation of machine translation outputs. Researchers often combine BLEU with other metrics or use it as a starting point for evaluation, but more advanced metrics have been developed over time to address its limitations.
+
+Advantages of using BLEU score:
+- It is a simple and easy-to-understand metric.
+- It is relatively insensitive to changes in word order.
+- It has been shown to be effective in evaluating the performance of machine translation.
+
+Disadvantages of using BLEU score:
+- It can be biased towards shorter translations.
+- It does not take into account the semantic similarity between the machine translation and the reference translation.
+- It can be difficult to interpret the results of BLEU score for different tasks.
+
 ## What is GLUE Benchmark?
 The **GLUE (General Language Understanding Evaluation)** benchmark is a collection of diverse natural language processing (NLP) tasks designed to evaluate and compare the performance of various machine learning models and techniques in understanding and processing human language. It serves as a standard evaluation framework for assessing the general language understanding capabilities of different models.
 
@@ -38,6 +69,20 @@ It's worth noting that since the introduction of the GLUE benchmark, other bench
 - https://gluebenchmark.com/leaderboard
 - https://paperswithcode.com/dataset/glue
 
+The GLUE benchmark is used by companies to evaluate the performance of their NLU models. For example, Google uses the GLUE benchmark to evaluate the performance of its BERT model. The higher the GLUE score, the better the overall performance of the model on various NLP tasks.
+
+## What are the Tasks of GLUE Benchmark?
+
+The current version of the GLUE benchmark includes the following 9 tasks
+- CoLA: A sentence-level grammaticality task.
+- SST-2: A binary sentiment classification task.
+- MRPC: A sentence-pair similarity task.
+- STS-B: A sentence-pair similarity task that measures the semantic relatedness of two sentences.
+- QQP: A question-answering task.
+- MNLI: A natural language inference task that measures whether a sentence entails another sentence.
+- QNLI: A natural language inference task that measures whether a sentence entails a question.
+- RTE: A natural language inference task that measures whether a sentence contradicts another sentence.
+- WNLI: A word similarity task that measures the similarity between two words.
 
 ## What is SuperGLUE Benchmark?
 The SuperGLUE (Super General Language Understanding Evaluation) benchmark is an enhanced version of the GLUE benchmark introduced to address its limitations and provide more challenging language understanding tasks for evaluating and comparing the performance of natural language processing (NLP) models. SuperGLUE builds upon the success of GLUE and aims to push the boundaries of NLP research further.
@@ -56,12 +101,36 @@ It's important to note that the SuperGLUE benchmark, while providing more challe
 - https://paperswithcode.com/dataset/superglue
 
 
-## What is BLEU Benchmark?
-The **BLEU (Bilingual Evaluation Understudy)** score and the GLUE (General Language Understanding Evaluation) score are two different evaluation metrics used in the field of natural language processing (NLP), but they serve different purposes and evaluate different aspects of NLP models.
+## GLUE & SuperGLUE tasks
+
+Below is list of different NLP and Deep Learning tasks for which different benchmark datasets are created and model's perormance is measured against those tasks.
+
+Sno|Task|Corpus|Paper|GLUE|SuperGLUE
+---|--- | --- | --- | --- | ---
+1 | Sentence acceptability judgment | [CoLA (Corpus of Linguistic Acceptability)](https://nyu-mll.github.io/CoLA/) | [CoLA Warstadt et al., 2018](https://arxiv.org/abs/1805.12471) |Yes | No
+2 | Sentiment analysis | [SST-2 (Stanford Sentiment Treebank)](https://nlp.stanford.edu/sentiment/index.html) | [SST-2 Socher et al., 2013](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf) |Yes | No
+3 | Paraphrasing/sentence similarity | [MRPC (Microsoft Research Paraphrase Corpus)](https://www.microsoft.com/en-us/download/details.aspx?id=52398) | [MRPC Dolan and Brockett, 2005](https://aclanthology.org/I05-5002) |Yes | No
+4 |  | [STS-B (Semantic Textual Similarity Benchmark)](http://ixa2.si.ehu.eus/stswiki/index.php/STSbenchmark) | [STS-B Ceret al., 2017](https://arxiv.org/abs/1708.00055) |Yes | No
+5 |  | [QQP (Quora Question Pairs)](https://quoradata.quora.com/First-Quora-Dataset-Release-Question-Pairs) | [QQP Iyer et al., 2017](https://quoradata.quora.com/First-Quora-Dataset-Release-Question-Pairs) |Yes | No
+6 | Natural language inference | [MNLI (Multi-Genre Natural Language Inference)](https://arxiv.org/abs/1704.05426) | [MNLI Williams et al., 2017](https://arxiv.org/abs/1704.05426) |Yes | No
+7 |  | [QNLI (Question-answering Natural Language Inference)](https://rajpurkar.github.io/SQuAD-explorer/) | [QNLI Rajpurkar et al.,2016](https://arxiv.org/abs/1606.05250) |Yes | No
+8 |  | [RTE (Recognizing Textual Entailment)](https://aclweb.org/aclwiki/Recognizing_Textual_Entailment) | [RTE Dagan et al., 2005](https://link.springer.com/chapter/10.1007/11736790_9) |Yes | Yes
+9 |  | [CB (CommitmentBank)](https://github.com/mcdm/CommitmentBank) | [CB De Marneff et al., 2019](https://semanticsarchive.net/Archive/Tg3ZGI2M/Marneffe.pdf) |No | Yes
+10 | Sentence completion | [COPA (Choice of Plausible Alternatives)](https://people.ict.usc.edu/~gordon/copa.html) | [COPA Roemmele et al., 2011](https://www.researchgate.net/publication/221251392_Choice_of_Plausible_Alternatives_An_Evaluation_of_Commonsense_Causal_Reasoning) |No | Yes
+11 | Word sense disambiguation | [WiC (Word-in-Context)](https://pilehvar.github.io/wic/) | [WIC Pilehvar and Camacho-Collados, 2018](https://arxiv.org/abs/1808.09121) |No | Yes
+12 |  | [WNLI (Winograd Natural Language Inference)](https://cs.nyu.edu/~davise/papers/WinogradSchemas/WS.html) | []() |Yes | No
+13 | Question answering | [MultiRC (Multi-sentence Reading Comprehension)](https://cogcomp.org/multirc/) | [MultiRC Khashabi et al., 2018](https://aclanthology.org/N18-1023) |No | Yes
+14 |  | [ReCoRD (Reading Comprehension with Commonsense Reasoning Dataset)](https://sheng-z.github.io/ReCoRD-explorer/) | [ReCoRD Zhang et al., 2018](https://arxiv.org/abs/1810.12885) |No | Yes
+15 |  | [BoolQ (Boolean Questions)](https://github.com/google-research-datasets/boolean-questions) | [BoolQ Clark et al., 2019](https://arxiv.org/abs/1905.10044) |No | Yes
+16 | Common Sense Reasoning | [WSC (Winograd Schema Challenge)](https://cs.nyu.edu/~davise/papers/WinogradSchemas/WS.html) | [](https://cs.nyu.edu/~davise/papers/WinogradSchemas/WS.html) |No | Yes
+17 |  | [AX-b : Broadcoverage Diagnostic - Mathew's Corr]() | []() |No | Yes
+18 |  | [AX-g : Winogender Shema Diagnostic Gender Parity - Accuracy]() | []() |No | Yes
+
+### What is the difference between BLEU and GLUE
+
+The **BLEU (Bilingual Evaluation Understudy)** score and the **GLUE (General Language Understanding Evaluation)** score are two different evaluation metrics used in the field of natural language processing (NLP), and they serve different purposes and evaluate different aspects of NLP models.
 
 BLEU is a metric commonly used to evaluate the **quality of machine translation** systems. It measures the similarity between the machine-generated translations and reference translations provided by human translators. BLEU score is **based on n-gram precision**, where it compares the n-gram sequences (typically up to 4-grams) between the machine-generated output and the reference translations. It assigns a score between 0 and 1, with a higher score indicating better translation quality.
-
-GLUE is a benchmark evaluation metric designed to evaluate the performance of general language understanding models. It consists of a **collection of diverse NLP tasks, including question answering, sentiment analysis, text classification, translation, and others. The GLUE score measures the average performance of a model across these tasks. Models are trained on a subset of the GLUE benchmark tasks and evaluated based on their performance on the remaining tasks. The higher the GLUE score, the better the overall performance of the model on various NLP tasks.
 
 ## What is METEOR Score?
 **METEOR (Metric for Evaluation of Translation with Explicit ORdering)** is a popular automatic evaluation metric used in the field of Natural Language Processing (NLP) to assess the quality of machine translation outputs. METEOR is designed to measure the overall similarity and alignment between a generated translation and a reference (human-generated) translation, taking into account multiple levels of linguistic analysis.
@@ -131,33 +200,11 @@ Disadvantages of using ROUGE score:
 - It can be biased towards longer summaries.
 - It can be difficult to interpret the results of ROUGE score for different tasks.
 
-# NLP and Deep Learning Tasks
-Below is list of different NLP and Deep Learning tasks for which different benchmark datasets are created and model's perormance is measured against those tasks.
-
-## GLUE & SuperGLUE tasks
-
-Sno|Task|Corpus|Paper|GLUE|SuperGLUE
----|--- | --- | --- | --- | ---
-1 | Sentence acceptability judgment | [CoLA (Corpus of Linguistic Acceptability)](https://nyu-mll.github.io/CoLA/) | [CoLA Warstadt et al., 2018](https://arxiv.org/abs/1805.12471) |Yes | No
-2 | Sentiment analysis | [SST-2 (Stanford Sentiment Treebank)](https://nlp.stanford.edu/sentiment/index.html) | [SST-2 Socher et al., 2013](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf) |Yes | No
-3 | Paraphrasing/sentence similarity | [MRPC (Microsoft Research Paraphrase Corpus)](https://www.microsoft.com/en-us/download/details.aspx?id=52398) | [MRPC Dolan and Brockett, 2005](https://aclanthology.org/I05-5002) |Yes | No
-4 |  | [STS-B (Semantic Textual Similarity Benchmark)](http://ixa2.si.ehu.eus/stswiki/index.php/STSbenchmark) | [STS-B Ceret al., 2017](https://arxiv.org/abs/1708.00055) |Yes | No
-5 |  | [QQP (Quora Question Pairs)](https://quoradata.quora.com/First-Quora-Dataset-Release-Question-Pairs) | [QQP Iyer et al., 2017](https://quoradata.quora.com/First-Quora-Dataset-Release-Question-Pairs) |Yes | No
-6 | Natural language inference | [MNLI (Multi-Genre Natural Language Inference)](https://arxiv.org/abs/1704.05426) | [MNLI Williams et al., 2017](https://arxiv.org/abs/1704.05426) |Yes | No
-7 |  | [QNLI (Question-answering Natural Language Inference)](https://rajpurkar.github.io/SQuAD-explorer/) | [QNLI Rajpurkar et al.,2016](https://arxiv.org/abs/1606.05250) |Yes | No
-8 |  | [RTE (Recognizing Textual Entailment)](https://aclweb.org/aclwiki/Recognizing_Textual_Entailment) | [RTE Dagan et al., 2005](https://link.springer.com/chapter/10.1007/11736790_9) |Yes | Yes
-9 |  | [CB (CommitmentBank)](https://github.com/mcdm/CommitmentBank) | [CB De Marneff et al., 2019](https://semanticsarchive.net/Archive/Tg3ZGI2M/Marneffe.pdf) |No | Yes
-10 | Sentence completion | [COPA (Choice of Plausible Alternatives)](https://people.ict.usc.edu/~gordon/copa.html) | [COPA Roemmele et al., 2011](https://www.researchgate.net/publication/221251392_Choice_of_Plausible_Alternatives_An_Evaluation_of_Commonsense_Causal_Reasoning) |No | Yes
-11 | Word sense disambiguation | [WiC (Word-in-Context)](https://pilehvar.github.io/wic/) | [WIC Pilehvar and Camacho-Collados, 2018](https://arxiv.org/abs/1808.09121) |No | Yes
-12 |  | [WNLI (Winograd Natural Language Inference)](https://cs.nyu.edu/~davise/papers/WinogradSchemas/WS.html) | []() |Yes | No
-13 | Question answering | [MultiRC (Multi-sentence Reading Comprehension)](https://cogcomp.org/multirc/) | [MultiRC Khashabi et al., 2018](https://aclanthology.org/N18-1023) |No | Yes
-14 |  | [ReCoRD (Reading Comprehension with Commonsense Reasoning Dataset)](https://sheng-z.github.io/ReCoRD-explorer/) | [ReCoRD Zhang et al., 2018](https://arxiv.org/abs/1810.12885) |No | Yes
-15 |  | [BoolQ (Boolean Questions)](https://github.com/google-research-datasets/boolean-questions) | [BoolQ Clark et al., 2019](https://arxiv.org/abs/1905.10044) |No | Yes
-16 | Common Sense Reasoning | [WSC (Winograd Schema Challenge)](https://cs.nyu.edu/~davise/papers/WinogradSchemas/WS.html) | [](https://cs.nyu.edu/~davise/papers/WinogradSchemas/WS.html) |No | Yes
-17 |  | [AX-b : Broadcoverage Diagnostic - Mathew's Corr]() | []() |No | Yes
-18 |  | [AX-g : Winogender Shema Diagnostic Gender Parity - Accuracy]() | []() |No | Yes
+## What is BIG-Bench?
+BIG-Bench is a collaborative benchmark intended to probe large language models and extrapolate their future capabilities. It is a diverse evaluation suite that focuses on tasks believed to be beyond the capabilities of current language models. [214 tasks](https://dasarpai.com/dsblog/nlp-tasks#214-nlp-tasks-from-big-benchmark) included in BIG-bench are summarized by keyword.
 
 ## Deep Learning Tasks & Models on Huggingface (100K Models)
+There are many tasks like below for different modalities. And there are different metrics to measure the performance of a model against those tasks. In future I will expend this article, which will contain the metrics for the tasks mentioned below.
 
 ### [Computer Vision Models](https://huggingface.co/models?pipeline_tag=translation), 6000+ Models    
 1 [Depth Estimation](https://huggingface.co/tasks/depth-estimation)    

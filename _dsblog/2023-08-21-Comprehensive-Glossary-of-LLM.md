@@ -309,6 +309,7 @@ A measure of how difficult it is to predict the next word in a sequence.
 
 ### BLEU score: 
 A measure of the similarity between the generated text and the reference text.
+[BLEU More..](/dsblog/ml-tasks-and-model-evaluation#what-is-blue-benchmark)
 
 ### Intersection over union (IoU): 
 A measure of the overlap between two regions. It is typically used in object detection and segmentation tasks.
