@@ -26,7 +26,7 @@ In almost all citations it becomes very difficult to read the title of research 
 
 ## Citations
 
-> Pretrained Language Models for Text Generation: A Survey
+> **Pretrained Language Models for Text Generation: A Survey**
 
 
 ###### [Bahdanau2015]
@@ -139,7 +139,9 @@ Knowledge-grounded dialogue generation with pretrained language models. In EMNLP
 Sentence centrality revisited for unsupervised summarization. In ACL, 2019.
 ###### [Zhou2020]
 Unified vision-language pre-training for image captioning and VQA. In AAAI, 2020
-> Survey on Automatic Text Summarization and Transformer Models Applicability
+
+
+> **Survey on Automatic Text Summarization and Transformer Models Applicability**
 
 ###### [CohanA2018]
 A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents. In Proceedings of the 2018 Conference of the North American Chapter ofthe Association for Computational Linguistics: Human Language Technologies. 615–621.
@@ -220,7 +222,7 @@ Albert: A lite bert for self-supervised learning of language representations. ar
 ###### [YangZ2019]
 Xlnet: Generalized autoregressive pretraining for language understanding. Advances in neural information processing systems (2019), 5754–5764.
 
-> Ctrl: A Conditional Transformer Language Model For Controllable Generation
+> **Ctrl: A Conditional Transformer Language Model For Controllable Generation**
 
 ###### [Mart2016]
 Tensorflow: A system for large-scale machine learning. In 12th {USENIX} Symposium on Operating Systems Design and Imple-mentation ({OSDI} 16), pp. 265–283, 2016.
@@ -384,6 +386,7 @@ Sumqe: a bert-based summary quality estimation model. arXiv preprint arXiv:1909.
 Hotpotqa: A dataset for diverse, explainable multi-hop questionanswering. arXiv preprint arXiv:1809.09600, 2018.
 ###### [Rowan 2019]
 Defending against neural fake news. arXiv preprint arXiv:1905.12616, 2019
+
 
 ## NLP Papers Available on my Google Drive 
 You can download these papers from [link](https://drive.google.com/drive/folders/1UiDwP2EwhQCl6O9t_PCCtNmouLNwTav7?usp=sharing)
@@ -648,3 +651,4 @@ You can download these papers from [link](https://drive.google.com/drive/folders
 1. Very Deep Convolutional Networks for Large Scale Image Recognition-PAPER.pdf
 1. XGBoost A Scalable Tree Boosting System-PAPER.pdf
 1. XGBoost Reliable Large-scale Tree Boosting System-PAPER.pdf
+

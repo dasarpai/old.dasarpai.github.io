@@ -92,10 +92,18 @@ Encoding: 1001, 2005, 2230, 1, etc. As many tokens than many encoding. We get th
  - Unconditional generation
  - Conditional generation. 
 
+## GEM 
+GEM (Generation, Evaluation, and Metrics) is a benchmark environment for Natural Language Generation with a focus on its Evaluation, both through human annotations and automated Metrics. Measure NLG progress across 13 datasets spanning many NLG tasks and languages.
+
+https://gem-benchmark.com/
+
+## MLM (masked language modeling)
+
 ## GLUE
 
 ### What is GLUE?
-General Language Understanding Evaluation (GLUE) benchmark is a collection of resources for training, evaluating, and analyzing natural language understanding systems.
+General Language Understanding Evaluation (GLUE) benchmark is a collection of resources for training, evaluating, and analyzing natural language understanding systems.    
+https://www.tensorflow.org/datasets/catalog/glue
 
 - It is a benchmark of nine tasks 
 - Each task has corresponding dataset.
@@ -205,7 +213,8 @@ The fraction of actual positive samples that are predicted positive.
 The harmonic mean of precision and recall.
 
 ### Hit@1: 
-The percentage of queries for which the correct document is ranked first.
+- The percentage of queries for which the correct document is ranked first.
+- The percentage of images for which the correct class is in the top k predictions. It is also used in image classification tasks.
 
 ### Hit@5: 
 The percentage of queries for which the correct document is ranked among the top 5 documents.
@@ -303,8 +312,7 @@ A measure of the average precision over a range of IoU thresholds. It is also us
 ### Top-5 error rate: 
 The percentage of images for which the correct class is not in the top 5 predictions. It is typically used in image classification tasks.
 
-### Hit@k: 
-The percentage of images for which the correct class is in the top k predictions. It is also used in image classification tasks.
+
 
 ## Loss function: 
 A function that measures the error between the predicted and actual values. It is used to train the deep learning model.
