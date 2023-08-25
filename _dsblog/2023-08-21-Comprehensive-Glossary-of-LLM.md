@@ -312,6 +312,16 @@ A measure of the average precision over a range of IoU thresholds. It is also us
 ### Top-5 error rate: 
 The percentage of images for which the correct class is not in the top 5 predictions. It is typically used in image classification tasks.
 
+## EM - Exact Match 
+EM used in NLP task evaluation, particularly in tasks like question answering and text generation. The EM metric measures the percentage of predictions that exactly match the ground truth or reference answers.
+
+If the model's answer matches the reference answer word-for-word, then the EM score for that particular instance is 1. If the answers do not match exactly, the EM score is 0. The EM score is then calculated as the ratio of instances where the model's answer matches the reference answer exactly to the total number of instances in the evaluation dataset.
+
+## ROUGE 
+ROUGE (Recall-Oriented Understudy for Gisting Evaluation): ROUGE is another metric used for evaluating text summarization and generation tasks. It measures the overlap of n-grams between the generated text and the reference text. [ROUGE More..](/dsblog/ml-tasks-and-model-evaluation#what-is-rouge-score)
+
+## METEOR 
+Metric for Evaluation of Translation with Explicit ORdering: METEOR is a metric that combines multiple measures including precision, recall, stemming, and synonymy. It aims to provide a balanced evaluation of machine translation quality.[METEOR More..](/dsblog/ml-tasks-and-model-evaluation#what-is-meteor-score)
 
 
 ## Loss function: 

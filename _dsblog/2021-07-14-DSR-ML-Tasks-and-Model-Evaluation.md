@@ -37,6 +37,7 @@ It's worth noting that since the introduction of the GLUE benchmark, other bench
 - https://gluebenchmark.com/
 - https://gluebenchmark.com/leaderboard
 - https://paperswithcode.com/dataset/glue
+- [What is glue benchmark](/dsblog/ml-tasks-and-model-evaluation#what-is-glue-benchmark)
 
 ## What is SuperGLUE Benchmark?
 The SuperGLUE (Super General Language Understanding Evaluation) benchmark is an enhanced version of the GLUE benchmark introduced to address its limitations and provide more challenging language understanding tasks for evaluating and comparing the performance of natural language processing (NLP) models. SuperGLUE builds upon the success of GLUE and aims to push the boundaries of NLP research further.
@@ -53,6 +54,7 @@ It's important to note that the SuperGLUE benchmark, while providing more challe
 - https://super.gluebenchmark.com/
 - https://super.gluebenchmark.com/leaderboard
 - https://paperswithcode.com/dataset/superglue
+- [What is superglue benchmark?](/dsblog/ml-tasks-and-model-evaluation#what-is-superglue-benchmark)
 
 ## What is BLEU Benchmark?
 The **BLEU (Bilingual Evaluation Understudy)** score and the GLUE (General Language Understanding Evaluation) score are two different evaluation metrics used in the field of natural language processing (NLP), but they serve different purposes and evaluate different aspects of NLP models.
@@ -100,6 +102,34 @@ XTREME has gained significant attention and has been instrumental in driving pro
 - https://sites.research.google/xtreme
 - https://arxiv.org/abs/2003.11080
 - https://paperswithcode.com/dataset/xtreme
+
+## What is ROUGE Score? 
+Recall-Oriented Understudy for Gisting Evaluation is a set of metrics for evaluating the quality of automatic summaries and machine translation. It measures the similarity between a machine-generated summary and a reference summary using overlapping n-grams, word sequences that appear in both the machine-generated summary and the reference summary.
+
+The most common n-grams used are unigrams, bigrams, and trigrams. ROUGE score calculates the recall of n-grams in the machine-generated summary by comparing them to the reference summaries.
+
+Formula for calculating ROUGE-N:
+
+ROUGE-N = $\frac{\sum_{i=1}^{m} |S_i \cap R_i|}{\sum_{i=1}^{m} |R_i|}$
+
+where:
+
+$S_i$ is the set of n-grams in the machine-generated summary   
+$R_i$ is the set of n-grams in the reference summary
+
+m is the maximum n-gram length
+
+For example, ROUGE-1 measures the overlap of unigrams, ROUGE-2 measures the overlap of bigrams, and ROUGE-L measures the longest common subsequence of the machine-generated summary and the reference summary.
+
+Advantages of using ROUGE score:
+- It is a simple and easy-to-understand metric.
+- It is relatively insensitive to changes in word order.
+- It has been shown to be effective in evaluating the performance of automatic summaries and machine translation.
+
+Disadvantages of using ROUGE score:
+- It does not take into account the semantic similarity between the machine-generated summary and the reference summary.
+- It can be biased towards longer summaries.
+- It can be difficult to interpret the results of ROUGE score for different tasks.
 
 # NLP and Deep Learning Tasks
 Below is list of different NLP and Deep Learning tasks for which different benchmark datasets are created and model's perormance is measured against those tasks.
