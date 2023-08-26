@@ -56,41 +56,32 @@ According to the paper **GShard: Scaling Giant Models with Conditional Computati
 - 128 shards, each with 64 experts, for a total of 8192 experts.
 - 256 shards, each with 256 experts, for a total of 65536 experts.
 
+
+Gopher (280B)
+ Jurassic-1 (178B)
+
 ## What is the difference between LLM and Transformer Model
 LLM model can be built either using Transformer Architecture or non-Tranformer architecture. When we use huge data to train a model then whatever model is output from the training process that is called LLM. When we are training a Transformer or any other neural network model only small amount of data then output model is not called LLM. LLM can work upon Text, Images, Video, Audio. Some LLMs can accept only text data for example GPT3, some can accept only with image data, some can accpet different kind of data i.e. text, image, audio for example GPT4. Some LLM takes text input and generate text output. Some LLM takes text input generate image output for example DALL-E.
 
 ## Examples of Transformer Based LLM
-Transformer architecture is highly parallelizable and can capture long-range dependencies in text, making it effective for tasks like machine translation, text generation, and more
+Transformer architecture is highly parallelizable and can capture long-range dependencies in text, making it effective for tasks like machine translation, text generation, and more. The greatness of any LLM depends upon 
+- How less resources (compute, memory, and harddisk) they need for finetuning, inferencing on the downstream tasks.
+- How good those finetuned model performs.
 
-* **GPT-3:** Developed by OpenAI, GPT-3 (Generative Pre-trained Transformer) is one of the most powerful LLMs in the world. It has **175 billion parameters** and can be used for a variety of tasks, including natural language understanding, natural language generation, and machine translation.
-
-* **LaMDA:** Developed by Google AI, LaMDA is an LLM that is designed to be informative and comprehensive. It has **137 billion parameters** and can be used to answer questions, write different kinds of creative content, and translate languages.
-
-* **Turing NLG:** Developed by Google AI, Turing NLG is an LLM that is designed to be creative and engaging. It has **137 billion parameters** and can be used to generate different creative text formats,  like poems, code, scripts, musical pieces, email, letters, etc.
-
-* **Bard:** Developed by Google AI, Bard is a factual language model from Google AI, trained on a massive dataset of text and code. It has **137 billion parameters** can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way.
-
-* **Text-to-Text Transfer Transformer (T5):** Developed by Google AI, T5 is a text-to-text transfer transformer that can be used for a variety of tasks, including natural language translation, question answering, and summarization. It has **117 billion parameters**.
-
-* **XLNet:** Developed by Carnegie Mellon University and Google AI, XLNet is a language model that is trained on a masked language modeling objective. It has **117 billion parameters** and can be used for a variety of tasks, including natural language understanding, natural language generation, and machine translation.
-
-* **RoBERTa:** Developed by Facebook AI, RoBERTa is a language model that is trained on a masked language modeling objective with a special attention mechanism. It has **1.5 billion parameters** and can be used for a variety of tasks, including natural language understanding, natural language generation, and machine translation.
-
-* **ALBERT:** Developed by Google AI, ALBERT is a language model that is trained on a masked language modeling objective with a smaller number of parameters. It has **117 million parameters** and can be used for a variety of tasks, including natural language understanding, natural language generation, and machine translation.
-
-* **ELECTRA:** Developed by Google AI, ELECTRA is a language model that is trained on a discriminative objective. It has **1.37 billion parameters** and can be used for a variety of tasks, including natural language understanding, natural language generation, and machine translation.
-
-* **Flaubert:** Developed by Facebook AI, Flaubert is a language model that is trained on a large corpus of French text. It has **137 billion parameters** and can be used for a variety of tasks, including natural language understanding, natural language generation, and machine translation.
-
-* **Gopher:** Developed by Google AI, Gopher is a language model that is trained on a dataset of code and natural language. It has **146 billion parameters** and can be used for a variety of tasks, including natural language understanding, natural language generation, and code generation.
-
-* **CodeBERT:** Developed by Google AI, CodeBERT is a language model that is trained on a dataset of code and natural language. It has **100 million parameters** and can be used for a variety of tasks, including natural language understanding, natural language generation, and code generation.
-
-* **Chinchilla:** Developed by Google AI, Chinchilla is a language model that is trained on a dataset of text and code. It has **175 billion parameters** and can be used for a variety of tasks, including natural language understanding, natural language generation, and code generation.
-
-* **ICLR-NLP-2023:** This is a collection of large language models that were released in 2023. The models are trained on a variety of datasets and have different numbers of parameters.
-
-* **DialoGPT:** This is a conversational AI chatbot trained to be informative and comprehensive. It is developed by OpenAI and is also trained on a massive dataset of text and code. DialoGPT is not based on the transformer architecture, but it uses a different neural network architecture called the generative pre-trained transformer (GPT).  It has **1.3 billion parameters** and can be used to generate different creative text formats, like poems, code, scripts, musical pieces, email, letters, etc.
+Model Name | Company Name | Parameters | Year of release | Model Capabilities
+--- | --- | --- | --- | ---
+LaMDA | Google | 1.6 billion | 2021 | Conversational AI
+Turing NLG 17B | NVIDIA and Microsoft Research | 17 billion | 2020 | Natural Language Generation
+Megatron NLG 530B (MT-NLG) | NVIDIA and Microsoft Research | 530 billion | 2021 | Natural Language Generation
+Bard (BART) | Facebook AI Research (FAIR) and University College London (UCL) researchers. | 406 million | 2019 | Summarization, Translation, Question Answering
+RoBERTa (Robustly Optimized BERT Pretraining Approach) | Facebook AI Research (FAIR), University of Washington and New York University. | 355 million | 2019 | Natural Language Understanding
+ALBERT (A Lite BERT) | Google Research Team. | 12 million | 2019 | Natural Language Understanding
+ELECTRA (Efficiently Learning an Encoder that Classifies Token Replacements Accurately) | Google Research Team. | 110 million | 2020 | Natural Language Understanding
+FaluBert (Falu Language Model) | Falu AI team. | 24 million | 2020 | Chinese language understanding
+Gopher (Go Programming language HelpER) model | OpenAI team. | 125 million | 2020 | Code generation for Go programming language
+CodeBERT (Code BERT) model | Microsoft Research Asia team. | 400 million | 2020 | Code generation for multiple programming languages
+Chinchilla model | OpenAI team. | 350 million | 2020 | Multilingual contextual representations
+DialogGPT | Microsoft | 345 million | 2019 | Open-domain conversational agent. Trained on 147M conversation-like exchanges extracted from Reddit comment chains over a period spanning from 2005 through 2017
 
 ## Example of Pathway Based LLM
 * **PaLM:** Developed by Google AI, PaLM is a large language model with 540 billion parameters. It is designed to be informative and comprehensive, and it can be used for a variety of tasks, including natural language understanding, natural language generation, and machine translation.
@@ -218,7 +209,7 @@ Another way to get around this limitation is to use a smaller model. The GPT-3 S
 
 If you are looking for a way to use the GPT-3 Medium model without a GPU machine, your best option is to use a cloud computing service. This will allow you to get the performance you need without having to invest in a new machine.
 
-## What Kind of VRAM is need for LLM?
+## What is the Need of VRAM for LLM?
 VRAM stands for Video Random Access Memory. It is a type of memory that is used by graphics cards to store the data that is needed to render images on a display. VRAM is much faster than regular RAM, which is why it is used for graphics processing.
 
 VRAM stores the image data that is being displayed on the screen, as well as the data that is being processed by the GPU. This data includes things like textures, shaders, and geometry. VRAM also stores the results of the GPU's calculations, which are then displayed on the screen.

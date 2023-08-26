@@ -24,6 +24,20 @@ toc_sticky: true
 ## Introduction
 Question-Answering task is one of the tasks in NLP-Task. To create a high-performing AI system that can understand the question correctly and answer appropriately, we need to train a model. And to train a model, we need to have a good-quality dataset in place. Without understanding what are the different formats of questions and answers, we cannot create a dataset. In our day-to-day life we never pay attention to this minute detail but to create an AI system that can perform QA tasks, we need to understand the different formats of questions. In this article, I am creating a list of these different types of questions. To create an AI system that can perform all these kinds of QA tasks, we need to craft the dataset very carefully. Although, we see lots of data around, but to create an NLP-Task specific dataset is tedious task.
 
+## Why we ask quesions?
+In today's hitech environment there are many ways to learn. Virtual classes, virtual conferences, youtube channels, recorded classroom sessions are just a few out of many learning methods added recently. Asking question is the only way to know whether learner understood the concept correctly or not. As per the [Bloom's Taxonomy](https://tips.uark.edu/using-blooms-taxonomy/#:~:text=What%20Is%20Bloom's%20Taxonomy), learning process has following 6 levels. Therefore the purpose of asking questions is to check whether a learner can do following. These steps goes in sequence without jumping over any of the step.
+
+- Remembering: Retrieving, recognizing, and recalling relevant knowledge from long‐term memory.
+- Understanding: Constructing meaning from oral, written, and graphic messages through interpreting, exemplifying, classifying, summarizing, inferring, comparing, and explaining.
+- Applying: Carrying out or using a procedure for executing, or implementing.
+- Analyzing: Breaking material into constituent parts, determining how the parts relate to one another and to an overall structure or purpose through differentiating, organizing, and attributing.
+- Evaluating: Making judgments based on criteria and standards through checking and critiquing.
+- Creating: Putting elements together to form a coherent or functional whole; reorganizing elements into a new pattern or structure through generating, planning, or producing.
+
+**Acronym: Remember Understanding means Applying, Analysing, Evaluating ideas and Creating solutions.**
+
+Keeping above goals and learning process in mind we can creating many kinds of questions.
+
 ## 23 Types of Questions
 
 1. Closed-ended Questions:   

@@ -125,23 +125,11 @@ A measure of the ranking performance of a model.
 ## Precision at k (P@k): 
 The percentage of the top k predictions that are correct.
 
-The percentage of predicted positive samples that are ranked among the top k predictions.     
-Precision@k = (# of relevant items retrieved among top-k recommendations) / (# of total predicted relevant items)
-
-For example, if a system retrieves 5 relevant items among the top-10 recommendations out of a total of 25 predicted relevant items, then the recall@10 would be 0.20 or 20%.
-
-In other words, precision@k measures how well the system performs in predicting relevant items among the top-k recommendations. It is useful when we are interested in evaluating the ranking quality of recommendations rather than their absolute number.
-
 ## Recall at k (R@k): 
-The percentage of actual positive samples that are ranked among the top k predictions.   
-Recall@k = (# of relevant items retrieved among top-k recommendations) / (# of total relevant items)
-
-For example, if a system retrieves 5 relevant items among the top-10 recommendations out of a total of 20 relevant items, then the recall@10 would be 0.25 or 25%.
-
-In other words, recall@k measures how well the system performs in retrieving relevant items among the top-k recommendations. It is useful when we are interested in evaluating the ranking quality of recommendations rather than their absolute number.
+The percentage of actual positive samples that are ranked among the top k predictions.
 
 ## F1-score at k (F1@k): 
-The harmonic mean of precision at k and recall at k.
+The harmonic mean of precision and recall at k.
 
 ## Interpretability: 
 A measure of how easy it is to understand and explain the predictions of a model.
