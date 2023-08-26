@@ -331,6 +331,57 @@ ROUGE (Recall-Oriented Understudy for Gisting Evaluation): ROUGE is another metr
 ## METEOR 
 Metric for Evaluation of Translation with Explicit ORdering: METEOR is a metric that combines multiple measures including precision, recall, stemming, and synonymy. It aims to provide a balanced evaluation of machine translation quality.[METEOR More..](/dsblog/ml-tasks-and-model-evaluation#what-is-meteor-score)
 
+# HEQD
+HEQD stands for Hierarchical Edit Distance. It is a metric used to evaluate the quality of text summarization. It is based on the edit distance between the ground truth summary and the generated summary, taking into account the hierarchical structure of the summary.
+
+The HEQD metric is calculated as follows:
+
+HEQD = 1 - (ED / L)
+where
+
+ED is the edit distance between the ground truth summary and the generated summary.  
+L is the length of the ground truth summary.  
+The HEQD metric is a more accurate measure of the quality of text summarization than the BLEU metric, as it takes into account the hierarchical structure of the summary.   
+
+Example:
+
+Ground truth summary:
+
+* The cat is on the mat.
+* The dog is chasing the ball.
+
+Generated summary:
+
+* The cat and the dog are playing.
+
+The HEQD metric for this example would be:
+
+HEQD = 1 - (2 / 2) = 0.5
+
+This means that the generated summary is 50% similar to the ground truth summary.
+
+The HEQD metric is a relatively new metric, and it is not yet as widely used as the BLEU metric. However, it is a promising metric for evaluating the quality of text summarization.
+
+## Perplexity
+In NLP and machine learning, perplexity is a measure of how well a language model predicts the next word in a sequence. It is calculated as the inverse of the probability of the model's predictions. A lower perplexity indicates that the model is better at predicting the next word.
+
+The perplexity is calculated as follows:
+
+Perplexity = $exp( \frac{-1}{N * \sum(log(p(w_i)))})$   
+where
+
+N is the number of words in the test set.   
+$w_i$ is the i-th word in the test set.   
+p(w_i) is the probability of the model predicting word $w_i$.
+
+The perplexity metric is a more robust measure of the quality of a language model than the accuracy metric. This is because the accuracy metric only measures how well the model predicts the correct word, while the perplexity metric also takes into account the probability of the model's predictions.
+
+Here is an example of how the perplexity metric can be used to evaluate the quality of a language model:
+
+Let's say we have a language model that is trained on a corpus of text. We want to evaluate the quality of the model by using the perplexity metric. We take a test set of text and calculate the perplexity of the model's predictions on the test set. If the perplexity is low, then the model is good at predicting the next word. If the perplexity is high, then the model is not good at predicting the next word.
+
+The perplexity metric is a useful tool for evaluating the quality of language models. It is a more robust measure of quality than the accuracy metric, and it can be used to compare the performance of different language models.
+
 ## Distance Functions in Machine Learning
 Every sample, record, word, sentence, object, image etc in the Machine learning language is called vector. If we want to measure the similarity or dissimilarity between two data points then we need distance function.
 
