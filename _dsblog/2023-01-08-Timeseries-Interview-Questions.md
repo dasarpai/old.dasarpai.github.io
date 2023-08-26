@@ -20,6 +20,8 @@ mathjax: "true"
 
 ![Timeseries Interview Questions](/assets/images/dspost/dsp6023-Timeseries-Interview-Questions.jpg)   
 
+# Timeseries Interview Questions
+
 ## What are the characterstics of  time series data?   
 Time series data is a series of data points collected over time. Some characteristics of time series data include:
 
