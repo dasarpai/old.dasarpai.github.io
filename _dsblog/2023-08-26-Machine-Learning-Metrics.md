@@ -212,12 +212,12 @@ In NLP and machine learning, perplexity is a measure of how well a language mode
 
 The perplexity is calculated as follows:
 
-Perplexity = $exp( \frac{-1}{N * \sum(log(p(w_i)))})$   
+Perplexity = $$exp( \frac{-1}{N * \sum(log(p(w_i)))})$$   
 where
 
 N is the number of words in the test set.   
-$w_i$ is the i-th word in the test set.   
-p(w_i) is the probability of the model predicting word $w_i$.
+$$w_i$$ is the i-th word in the test set.   
+p(w_i) is the probability of the model predicting word $$w_i$$.
 
 The perplexity metric is a more robust measure of the quality of a language model than the accuracy metric. This is because the accuracy metric only measures how well the model predicts the correct word, while the perplexity metric also takes into account the probability of the model's predictions.
 

@@ -220,27 +220,27 @@ The "maximum likelihood estimation" (MLE) is a method to find the set of paramet
 
 maximum likelihood estimation (MLE) method is given by:
 
-$\hat{\theta} = argmax_{\theta} L(\theta;x)$
+$$\hat{\theta} = argmax_{\theta} L(\theta;x)$$
 
 Means maximum values of θ(p,d,q) parameters for the given data. 
 
 Where:
 
-$\hat{\theta}$ is the maximum likelihood estimate of the parameter vector
-$\theta$ is the parameter vector
-$L(\theta;x)$ is the likelihood function, which is a function of the parameters and the data
-$x$ is the data
+$$\hat{\theta}$$ is the maximum likelihood estimate of the parameter vector
+$$\theta$$ is the parameter vector
+$$L(\theta;x)$$ is the likelihood function, which is a function of the parameters and the data
+$$x$$ is the data
 The likelihood function is typically defined as the product of the probability densities of the observations, given the parameters of the model:
 
-$L(\theta;x) = f(x|\theta) = \prod_{i=1}^{n} f(x_i|\theta)$
+$$L(\theta;x) = f(x|\theta) = \prod_{i=1}^{n} f(x_i|\theta)$$
 
 where:
 
-$f(x_i|\theta)$ is the probability density function of the i-th observation given the parameters
-$n$ is the number of observations
+$$f(x_i|\theta)$$ is the probability density function of the i-th observation given the parameters
+$$n$$ is the number of observations
 Note that logarithm of the likelihood function is taken in practice as the product of large number of small numbers can cause floating point underflow.
 
-$log (L(\theta;x)) = log(\prod_{i=1}^{n} f(x_i|\theta)) = \sum_{i=1}^{n} log(f(x_i|\theta))$
+$$log (L(\theta;x)) = log(\prod_{i=1}^{n} f(x_i|\theta)) = \sum_{i=1}^{n} log(f(x_i|\theta))$$
 
 And then maximizing the logarithm of the likelihood function is the same as maximizing the likelihood function.
 
