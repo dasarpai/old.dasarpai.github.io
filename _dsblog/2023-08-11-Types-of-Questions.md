@@ -27,6 +27,8 @@ Question-Answering task is one of the tasks in NLP-Task. To create a high-perfor
 ## Why we ask quesions?
 In today's hitech environment there are many ways to learn. Virtual classes, virtual conferences, youtube channels, recorded classroom sessions are just a few out of many learning methods added recently. Asking question is the only way to know whether learner understood the concept correctly or not. As per the [Bloom's Taxonomy](https://tips.uark.edu/using-blooms-taxonomy/#:~:text=What%20Is%20Bloom's%20Taxonomy), learning process has following 6 levels. Therefore the purpose of asking questions is to check whether a learner can do following. These steps goes in sequence without jumping over any of the step.
 
+![Blooms_Taxonomy_pyramid](/assets/images/dspost/6083-Blooms_Taxonomy_pyramid.jpg)
+
 - Remembering: Retrieving, recognizing, and recalling relevant knowledge from long‐term memory.
 - Understanding: Constructing meaning from oral, written, and graphic messages through interpreting, exemplifying, classifying, summarizing, inferring, comparing, and explaining.
 - Applying: Carrying out or using a procedure for executing, or implementing.
@@ -36,7 +38,7 @@ In today's hitech environment there are many ways to learn. Virtual classes, vir
 
 **Acronym: Remember Understanding means Applying, Analysing, Evaluating ideas and Creating solutions.**
 
-Keeping above goals and learning process in mind we can creating many kinds of questions.
+Keeping above goals and learning process in mind we should create many kinds of questions to ensure that learning is properly happening.
 
 ## 23 Types of Questions
 
