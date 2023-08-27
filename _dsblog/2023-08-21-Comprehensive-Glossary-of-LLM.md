@@ -23,6 +23,10 @@ toc_sticky: true
 # Comprehensive Glossary of LLM
 I am developing this Glossary slowly at my own pace. Content on this page keep changing. Better definition, better explaination are part of my learing, my evolution and advancement in the field of Deep Learning and Machine Learning. As of Aug'23 the terms are not in any order therefore if you are look for any specific term you can search on the page. When I will have 50+ terms on this page then I will try to sort them on some attribute of these terms.
 
+## See also [Distances in Machine Learning](/dsblog/Distances-in-Machine-Learning)
+
+## See Also [Machine Learning Metrics](/dsblog/Machine-Learning-Metrics)
+
 ## Learning Types
 **Transfer Learning:** Transfer learning refers to the process of training a model on one task and then transferring its knowledge to a related task. In the context of NLP/Deep Learning, this typically involves training a large language model (LM) on a massive amount of text data using a self-supervised learning approach. Self-supervised learning involves training the model to predict missing words in sentences or other similar tasks without requiring explicit labels for the entire dataset. The result is a model that learns a rich representation of language and its underlying patterns.
 

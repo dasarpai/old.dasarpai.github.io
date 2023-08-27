@@ -239,3 +239,12 @@ Let's say we have a language model that is trained on a corpus of text. We want 
 
 The perplexity metric is a useful tool for evaluating the quality of language models. It is a more robust measure of quality than the accuracy metric, and it can be used to compare the performance of different language models.
 
+## Pass@100
+
+The Pass@100 metric is calculated by measuring the percentage of queries for which the correct answer is among the top 100 candidates retrieved by the foundation language model (FLM) from a large corpus of documents. It reflects the ability of the FLM to retrieve relevant information from a large-scale knowledge source, which is essential for downstream tasks such as question answering, summarization, and dialogue. The higher the Pass@100 score, the better the FLM is at retrieving knowledge 1.
+
+If you are interested in calculating Pass@100 for your own data, you can use binomial distribution. The formula for calculating Pass@100 using binomial distribution is as follows:
+
+$$P(X >= k) = 1 - \sum_{i=0}^{k-1} [nCi * p^i * (1-p)^(n-i)]$$
+
+where X is a binomial random variable representing the number of correct answers in the top 100 candidates, n is the total number of queries, p is the probability of getting a correct answer in one query, and k is the minimum number of correct answers required to achieve Pass@100.

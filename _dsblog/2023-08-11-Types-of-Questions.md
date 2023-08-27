@@ -161,3 +161,4 @@ Keeping above goals and learning process in mind we should create many kinds of 
 
 ## References 
 - [15 Tyeps of Questions](https://www.indeed.com/career-advice/career-development/types-of-questions)
+- [What is Bloom’s Taxonomy](https://tips.uark.edu/using-blooms-taxonomy/)
