@@ -424,7 +424,6 @@ You can download these papers from [link](https://drive.google.com/drive/folders
 1. Automatic satire detection Are you having a laugh.pdf
 1. Bag of tricks for efficient text classification.pdf
 1. Baselines and bigrams Simple, good sentiment and topic classification.pdf
-1. Baselines and Bigrams- Simple, Good Sentiment and Topic Classification.pdf
 1. BERT Explained - A list of Frequently Asked Questions.pdf
 1. BERT Pre-training of deep bidirectional transformers for language understanding.pdf
 1. BHAAV- A Text Corpus for Emotion Analysis from Hindi Stories.pdf

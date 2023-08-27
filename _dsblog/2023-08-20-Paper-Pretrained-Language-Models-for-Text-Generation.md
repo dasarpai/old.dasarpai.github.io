@@ -117,7 +117,7 @@ also be relevant to the condition. RNN-based models still tend to generate irrel
         - mRASP (technique of randomly aligned substitution), an approach to pretraining a universal multilingual machine translation model. [Lin2020] 
         - Aligning word representations of each language, making it possible to preserve the word order consistent cross multiple languages. Wada2018
 
-## Introduction 
+## Summary from Introduction 
 - Researchers have developed numerous techniques for a wide range of applications of text generation [Li2021a].
 - Machine translation generates text in a different language based on the source text [Yang2020a];
 - Summarization generates an abridged version of the source text to include salient information [Guan2020].
