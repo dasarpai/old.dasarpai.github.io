@@ -386,7 +386,13 @@ Sumqe: a bert-based summary quality estimation model. arXiv preprint arXiv:1909.
 Hotpotqa: A dataset for diverse, explainable multi-hop questionanswering. arXiv preprint arXiv:1809.09600, 2018.
 ###### [Rowan 2019]
 Defending against neural fake news. arXiv preprint arXiv:1905.12616, 2019
-
+###### [Fangxiaoyu2022]
+[Language-agnostic BERT Sentence Embedding - LaBSE](https://arxiv.org/abs/2007.01852)
+- BERT is an effective method for learning monolingual sentence embeddings for semantic similarity and embedding based transfer learning 
+- BERT based cross-lingual sentence embeddings is explored in this paper.
+- It explored combining the best methods for learning monolingual and cross-lingual representations including: masked language modeling (MLM), translation language modeling (TLM)
+- Introducing a pre-trained multilingual language model dramatically reduces the amount of parallel training data required to achieve good performance
+- It produces a model that achieves high bi-text retrieval accuracy over 112 languages 
 
 ## NLP Papers Available on my Google Drive 
 You can download these papers from [link](https://drive.google.com/drive/folders/1UiDwP2EwhQCl6O9t_PCCtNmouLNwTav7?usp=sharing)
