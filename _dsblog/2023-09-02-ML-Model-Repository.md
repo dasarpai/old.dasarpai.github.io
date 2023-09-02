@@ -39,7 +39,7 @@ Using AI we can solve many kinds of tasks for this input can be text, structured
 - TF-TRT = ensorFlow-Tensor Run Time	
 - ONNX = Open Neural Network Exchange
 
-### [](#1-image-classification)1\. Image Classification
+## [](#1-image-classification)1\. Image Classification
 
 Number in the tables below is from the main [repository](https://github.com/PINTO0309/PINTO_model_zoo)
 
@@ -72,7 +72,7 @@ Number in the tables below is from the main [repository](https://github.com/PINT
 346|[facial\_expression\_recognition\_mobilefacenet](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/346_facial_expression_recognition_mobilefacenet)|✔️|✔️|✔️|✔️|✔️|||||
 379|[PP-LCNetV2](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/379_PP-LCNetV2)|✔️|✔️||||||||
 
-### [](#2-2d-object-detection)2\. 2D Object Detection
+## [](#2-2d-object-detection)2\. 2D Object Detection
 
 |No.|Model Name|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX
 |---|---|---|---|---|---|---|---|---|---|---|---|---
@@ -137,7 +137,7 @@ Number in the tables below is from the main [repository](https://github.com/PINT
 376|[RT-DETR](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/376_RT-DETR)||||||||||
 386|[naruto\_handsign\_detection](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/386_naruto_handsign_detection)|✔️|✔️|✔️|✔️||||||
 
-### [](#3-3d-object-detection)3\. 3D Object Detection
+## [](#3-3d-object-detection)3\. 3D Object Detection
 
 |No.|Model Name|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX
 |---|---|---|---|---|---|---|---|---|---|---|---|---
@@ -148,7 +148,7 @@ Number in the tables below is from the main [repository](https://github.com/PINT
 321|[DID-M3D](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/321_DID-M3D)||||||||||
 363|[YOLO-6D-Pose](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/363_YOLO-6D-Pose)|✔️|✔️||||||||
 
-### [](#4-2d3d-face-detection)4\. 2D/3D Face Detection
+## [](#4-2d3d-face-detection)4\. 2D/3D Face Detection
 
 |No.|Model Name|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX
 |---|---|---|---|---|---|---|---|---|---|---|---|---
@@ -187,7 +187,7 @@ Number in the tables below is from the main [repository](https://github.com/PINT
 399|[RetinaFace\_MobileNetv2](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/399_RetinaFace_MobileNetv2)||||||||||
 410|[FaceMeshV2](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/410_FaceMeshV2)|✔️|✔️|✔️|✔️|✔️|||||
 
-### [](#5-2d3d-hand-detection)5\. 2D/3D Hand Detection
+## [](#5-2d3d-hand-detection)5\. 2D/3D Hand Detection
 
 |No.|Model Name|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX
 |---|---|---|---|---|---|---|---|---|---|---|---|---
@@ -196,7 +196,7 @@ Number in the tables below is from the main [repository](https://github.com/PINT
 94|[hand\_recrop](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/094_hand_recrop)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️|
 403|[trt\_pose\_hand](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/)||||||||||
 
-### [](#6-2d3d-humananimal-pose-estimation)6\. 2D/3D Human/Animal Pose Estimation
+## [](#6-2d3d-humananimal-pose-estimation)6\. 2D/3D Human/Animal Pose Estimation
 
 |No.|Model Name|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX
 |---|---|---|---|---|---|---|---|---|---|---|---|---
@@ -226,7 +226,7 @@ Number in the tables below is from the main [repository](https://github.com/PINT
 402|[trt\_pose](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/402_trt_pose)||||||||||
 412|[pytorch\_cpn](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/412_pytorch_cpn)|✔️|✔️||||||||
 
-### [](#7-depth-estimation-from-monocularstereo-images)7\. Depth Estimation from Monocular/Stereo Images
+## [](#7-depth-estimation-from-monocularstereo-images)7\. Depth Estimation from Monocular/Stereo Images
 
 |No.|Model Name|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX
 |---|---|---|---|---|---|---|---|---|---|---|---|---
@@ -281,7 +281,7 @@ Number in the tables below is from the main [repository](https://github.com/PINT
 384|[TCMonoDepth](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/384_TCMonoDepth)||||||||||
 397|[MiDaSv3.1](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/397_MiDaSv3.1)||||||||||
 
-### [](#8-semantic-segmentation)8\. Semantic Segmentation
+## [](#8-semantic-segmentation)8\. Semantic Segmentation
 
 |No.|Model Name|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX
 |---|---|---|---|---|---|---|---|---|---|---|---|---
@@ -324,14 +324,14 @@ Number in the tables below is from the main [repository](https://github.com/PINT
 391|[MagicTouch](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/391_MagicTouch)|✔️|✔️|✔️|||||||
 405|[Ear\_Segmentation](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/405_Ear_Segmentation)||||||||||
 
-### [](#9-anomaly-detection)9\. Anomaly Detection
+## [](#9-anomaly-detection)9\. Anomaly Detection
 
 |No.|Model Name|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX
 |---|---|---|---|---|---|---|---|---|---|---|---|---
 5|[One\_Class\_Anomaly\_Detection](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/005_one_class_anomaly_detection)|✔️|✔️|✔️|||||||
 99|[Efficientnet\_Anomaly\_Detection\_Segmentation](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/099_efficientnet_anomaly_detection_segmentation)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️||
 
-### [](#10-artistic)10\. Artistic
+## [](#10-artistic)10\. Artistic
 
 |No.|Model Name|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX
 |---|---|---|---|---|---|---|---|---|---|---|---|---
@@ -347,7 +347,7 @@ Number in the tables below is from the main [repository](https://github.com/PINT
 161|[EigenGAN-Tensorflow](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/161_EigenGAN-Tensorflow)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️||
 193|[CoCosNet](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/193_CoCosNet)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|||
 
-### [](#11-super-resolution)11\. Super Resolution
+## [](#11-super-resolution)11\. Super Resolution
 
 |No.|Model Name|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX
 |---|---|---|---|---|---|---|---|---|---|---|---|---
@@ -432,7 +432,7 @@ Number in the tables below is from the main [repository](https://github.com/PINT
 409|[nighttime\_dehaze](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/409_nighttime_dehaze)||||||||||
 411|[UDR-S2Former\_deraining](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/411_UDR-S2Former_deraining)||||||||||
 
-### [](#12-sound-classifier)12\. Sound Classifier
+## [](#12-sound-classifier)12\. Sound Classifier
 
 |No.|Model Name|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX
 |---|---|---|---|---|---|---|---|---|---|---|---|---
@@ -445,7 +445,7 @@ Number in the tables below is from the main [repository](https://github.com/PINT
 381|[Whisper](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/381_Whisper)||||||||||
 382|[Light-SERNet](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/382_Light-SERNet)|✔️|✔️||||||||
 
-### [](#13-natural-language-processing)13\. Natural Language Processing
+## [](#13-natural-language-processing)13\. Natural Language Processing
 
 |No.|Model Name|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX
 |---|---|---|---|---|---|---|---|---|---|---|---|---
@@ -453,7 +453,7 @@ Number in the tables below is from the main [repository](https://github.com/PINT
 121|[GPT2/DistillGPT2](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/121_GPT2_DistillGPT2)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|||
 122|[DistillBert](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/122_DistillBert)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|||
 
-### [](#14-text-recognition)14\. Text Recognition
+## [](#14-text-recognition)14\. Text Recognition
 
 |No.|Model Name|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX
 |---|---|---|---|---|---|---|---|---|---|---|---|---
@@ -461,7 +461,7 @@ Number in the tables below is from the main [repository](https://github.com/PINT
 55|[Handwritten\_Japanese\_Recognition](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/055_Handwritten_Japanese_Recognition)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|||
 93|[ocr\_japanese](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/093_ocr_japanese)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️||
 
-### [](#15-action-recognition)15\. Action Recognition
+## [](#15-action-recognition)15\. Action Recognition
 
 |No.|Model Name|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX
 |---|---|---|---|---|---|---|---|---|---|---|---|---
@@ -469,7 +469,7 @@ Number in the tables below is from the main [repository](https://github.com/PINT
 247|[PoseC3D](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/247_PoseC3D)||||||||||
 248|[MS-G3D](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/248_MS-G3D)||||||||||
 
-### [](#16-inpainting)16\. Inpainting
+## [](#16-inpainting)16\. Inpainting
 
 |No.|Model Name|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX
 |---|---|---|---|---|---|---|---|---|---|---|---|---
@@ -478,20 +478,20 @@ Number in the tables below is from the main [repository](https://github.com/PINT
 273|[OPN(Onion-Peel Networks)](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/273_OPN)||||||||||
 274|[DeepFillv2](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/274_DeepFillv2)|✔️|✔️|✔️|✔️|✔️|||||
 
-### [](#17-gan)17\. GAN
+## [](#17-gan)17\. GAN
 
 |No.|Model Name|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX
 |---|---|---|---|---|---|---|---|---|---|---|---|---
 105|[MobileStyleGAN](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/105_MobileStyleGAN)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|✔️||
 310|[attentive-gan-derainnet](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/310_attentive-gan-derainnet)|✔️|✔️|✔️|✔️|✔️|✔️|✔️|||
 
-### [](#18-transformer)18\. Transformer
+## [](#18-transformer)18\. Transformer
 
 |No.|Model Name|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX
 |---|---|---|---|---|---|---|---|---|---|---|---|---
 127|[dino](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/127_dino)|✔️|✔️|✔️|✔️|✔️|✔️||||
 
-### [](#19-others)19\. Others
+## [](#19-others)19\. Others
 
 |No.|Model Name|FP32|FP16|INT8|TPU|DQ|WQ|OV|CM|TFJS|TF-TRT|ONNX
 |---|---|---|---|---|---|---|---|---|---|---|---|---
@@ -544,7 +544,7 @@ Number in the tables below is from the main [repository](https://github.com/PINT
 413|[DocShadow](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/413_DocShadow)|✔️|||||||||
 
 
-### [](#4-reference-articles)4\. Reference articles
+## [](#4-reference-articles)4\. Reference articles
 1. [Pinto Model Zoo](https://github.com/PINTO0309/PINTO_model_zoo)
 1.  **[\[deeplab\] what's the parameters of the mobilenetv3 pretrained model?](https://github.com/tensorflow/models/issues/7911)**
 1.  **[When you want to fine-tune DeepLab on other datasets, there are a few cases](https://github.com/tensorflow/models/issues/3730#issuecomment-380168917)**
