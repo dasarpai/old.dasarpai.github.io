@@ -41,11 +41,12 @@ N is the total number of queries or questions.
 rank_i is the position of the correct result for the i-th query.
 
 ### mrr_at_1
+### mrr_at_3
+### mrr_at_5
 ### mrr_at_10
 ### mrr_at_100
 ### mrr_at_1000
-### mrr_at_3
-### mrr_at_5
+
 
 ## MAP 
 MAP stands for "Mean Average Precision". MAP focuses on evaluating the effectiveness of ranking algorithms or systems

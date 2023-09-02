@@ -216,7 +216,7 @@ In this article, I am publishing a curated collection of datasets sourced from o
 |176. | [40 Open Source Audio Datasets](https://towardsdatascience.com/40-open-source-audio-datasets-for-ml-59dc39d48f06)
 |177. | [Microsoft Datasets](https://www.microsoft.com/en-us/research/tools/?) |
 |178. | [9 Voice Datasets from cmwire](https://www.cmswire.com/digital-asset-management/9-voice-datasets-you-should-know-about/)
-
+|179. | [BBC Datasets](http://mlg.ucd.ie/datasets/bbc.html) | Consists of 2225 documents from the BBC news website corresponding to stories in five topical areas from 2004-2005. Class Labels: 5 (business, entertainment, politics, sport, tech)
 
 
 
