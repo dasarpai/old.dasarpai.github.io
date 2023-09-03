@@ -2,7 +2,7 @@
 mathjax: true
 id: 6095
 title: ML Model Respository from Pinto0309
-date: 2023-09-02
+date: 2023-09-01
 permalink: /dsblog/ML-Model-Repository-from-Pinto0309
 tags: [ML Models, Pretrained Models, Deep Learning, NLP, Computer Vision]
 categories:
