@@ -199,3 +199,30 @@ A function that measures the error between the predicted and actual values. It i
 Regularization: A technique used to prevent the deep learning model from overfitting the training data.
 Early stopping: A technique used to stop the training of the deep learning model when it is no longer improving.
 
+## What is Vector search?
+Are the characters overlap in the strings between the "search query" and "document text"? You may have even heard technical terms like Hamming distance or Levenshtein distance, these are metrics for describing the similarity (or dissimilarity) of strings. For more complicated datasets, it’s also possible to make use of metrics like these. This is where vector search shines. Regardless of the types of objects we’re searching through, we use “vectors” or “vector embeddings” to convert the data we’re analyzing into simpler representations. Objects may be tabular data, pdf file, text file, image, audio, video, sensor data etc.
+
+## What is Vector Embedding?
+Vector embeddings are really just a simplified numerical representation of complex data (news article, email, voice recording, image etc), used to make it easier to run generic machine-learning algorithms on sets of that data. By taking real-world objects and translating them to vector embeddings — numerical representations — those numbers can be fed into machine learning algorithms to determine semantic similarity. For text data we know a very popular embedding called word2vec (from Google), another is GloVe (from MIT) 
+
+## What is pinecone?
+[Introduction to Vector Search for Developers](https://www.pinecone.io/learn/vector-search-basics/). Pinecone is a managed vector database that provides vector search (or “similarity search”) for developers with a straightforward API and usage-based pricing. (And it’s free to try.)
+
+## What is [FlowiseAI](https://flowiseai.com/)?
+Open source UI visual tool to build your customized LLM flow using LangchainJS, written in Node Typescript/Javascript. Open source is the core of Flowise, and it will always free for commercial and personal usage (as per them).  It supports:
+- Language translation using LLM Chain with a Chat Prompt Template and Chat Model
+- QnA using conversational retrieval QA chain
+- Conversational agent for a chat model which utilize chat specific prompts and buffer memory
+
+npm way to run.
+
+```
+npm install -g flowise
+nnpx flowise start
+```
+
+docker way to create.
+
+```
+docker-compose up -d
+```

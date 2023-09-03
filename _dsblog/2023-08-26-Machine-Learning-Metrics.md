@@ -21,6 +21,9 @@ toc_sticky: true
 ![Comprehensive Glossary of LLM](/assets/images/dspost/dsp6092-Machine-Learning-Metrics.jpg)
 
 # Machine Learning Metrics
+
+## Introduction
+
 In Machine Learning projects whether classical machine learning, deep learning, computer vision, speech processing, NLP, or any other ML project we keep building different models with different datasets. But how to know that for a particular problem model X is the best one? For that, we need to evaluate these models against certain metrics. What metrics we pick, depends upon the problem statement, data imbalance, type of data, etc. In this article, we will explore an exhaustive list of ML Metrics.
 
 From various sources, benchmarking platforms, and research papers, I have noted 330+ metrics for evaluating Machine Learning models. I keep working on this page, expanding and defining these terms on a regular basis. Some of these metrics go over my head but I am keeping it here on this page because they have been used by the practitioners in some of their projects. After experimenting with those I will expand them here. Some of the metrics are obvious to Data Scientists. But, even if you are new to Data science it gives you an idea about these metrics.

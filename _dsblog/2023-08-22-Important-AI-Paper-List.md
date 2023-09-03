@@ -222,7 +222,7 @@ Albert: A lite bert for self-supervised learning of language representations. ar
 ###### [YangZ2019]
 Xlnet: Generalized autoregressive pretraining for language understanding. Advances in neural information processing systems (2019), 5754–5764.
 
-> **Ctrl: A Conditional Transformer Language Model For Controllable Generation**
+> **CTRL: A Conditional Transformer Language Model For Controllable Generation**
 
 ###### [Mart2016]
 Tensorflow: A system for large-scale machine learning. In 12th {USENIX} Symposium on Operating Systems Design and Imple-mentation ({OSDI} 16), pp. 265–283, 2016.
