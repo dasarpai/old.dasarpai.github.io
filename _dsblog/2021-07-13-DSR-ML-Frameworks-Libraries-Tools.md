@@ -15,7 +15,7 @@ share: true
 excerpt:   
 layout: single   
 author_profile: true   
-toc: true   
+toc: false   
 toc_sticky: true
 ---
 
@@ -24,6 +24,7 @@ toc_sticky: true
 # Machine Learning Framework, Library, Tools
 
 ## Introduction
+
 As of 2022, Data Science, AI, and Machine Learning are very fast-evolving domains. In the last 5 years, it has picked up momentum. Every day a new library, framework, and tools pops out before eyes. Many of these are very interesting and some are just duplicates with little value addition. I am listing below some tools that I came across during my work. The purpose of this listing is not to describe every tool but to provide a link and just put them in sorted order. There are so many jargons, and we use to forget these. Sometimes, it becomes difficult to recall them. It was useful for me and I hope some of you will find this useful.
 
 ## List of Libraries, Frameworks, Pretrained Models
