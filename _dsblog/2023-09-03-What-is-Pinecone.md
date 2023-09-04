@@ -83,14 +83,11 @@ Let's assume we have three vectors as following A(1,2,3), B(4,5,9), C(1,9,3)
     - A is closer to C than to B.
 
 
-## What is Vector search?
-It is a characters overlap in the strings between the "search query" and "document text". You may have even heard technical terms like Hamming distance or Levenshtein distance, these are metrics for describing the similarity (or dissimilarity) of strings. For more complicated datasets, it’s also possible to make use of metrics like these. This is where vector search shines. Regardless of the types of objects we’re searching through, we use “vectors” or “vector embeddings” to convert the data we’re analyzing into simpler representations. Objects may be tabular data, PDF file, text file, image, audio, video, sensor data, etc.
-
+## What is Vector Search or Semantic Search?
+Typical search works on character overlap between the "search query" and "document text". You may have even heard technical terms like Hamming distance or Levenshtein distance, these are metrics for describing the similarity (or dissimilarity) of strings. This search doesn't work when we are looking for something based on the meaning. For example, you are looking for a sentence "Benefits of the Yoga" in a health-related article and it doesn't have any word "Yoga" there. But, it has a section called "Spiritual Gains of Long Meditation". Based on the similar semantic meaning can we pick up the text under this heading and display it to the user? This is where vector search shines. Regardless of the types of objects we’re searching through, we use “vectors” or “vector embeddings” to convert the data we’re analyzing into simpler representations. Objects may be tabular data, PDF file, text file, image, audio, video, sensor data, etc. How close is the answer to the question asked we use metrics like cosine similarity, euclidean distance, and dot product.
 
 ## What is Vector Embedding?
 Vector embeddings are really just a simplified numerical representation of complex data (news articles, emails, voice recordings, images, etc.), used to make it easier to run generic machine-learning algorithms on sets of that data. By taking real-world objects and translating them to vector embeddings — numerical representations — those numbers can be fed into machine learning algorithms to determine semantic similarity. For text data, we know a very popular embedding called word2vec (from Google), and another is GloVe (from MIT)
-
-
 
 
 ## How does vector search happen in Pinecone?

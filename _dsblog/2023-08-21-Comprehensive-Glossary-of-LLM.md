@@ -36,6 +36,7 @@ Once this pre-training is done, the learned knowledge can be transferred to vari
 
 Fine-tuning typically involves training the top layers of the pre-trained model while keeping the lower layers, which capture more general language features, frozen. This is because the lower layers have already learned useful representations of language that are likely to be relevant across different tasks.
 
+When you take the foundational model or base model and don't touch most of the weights it has already learned. But you provide some task-specific data, adjust a few weights, or create a new layer and train the weights in the new layer so that this new task can be done. You are not giving any new knowledge to the model. This is called Transfer Learning with finetuning. There are many kinds of transfer learning, for example.
 
 **Pre-trained Models:** These are large neural network models that have been trained on massive amounts of data to learn general language patterns. Examples include GPT-3, BERT, RoBERTa, and more. These models serve as the basis for transfer learning and fine-tuning.
 
@@ -50,6 +51,8 @@ Fine-tuning typically involves training the top layers of the pre-trained model 
 **Multi-Task Learning:** Multi-task learning involves training a model to perform multiple tasks simultaneously. This can help improve the model's generalization abilities by leveraging shared knowledge across tasks.
 
 **Zero-Shot Learning:** Zero-shot learning is a scenario where a pre-trained model can perform a task it has never been explicitly trained on. It can achieve this by using its general language understanding to reason and infer solutions based on provided prompts or instructions.
+
+**One-shot transfer learning:** When you give one sample or one example and ask the model to solve all the problems in a similar way.
 
 **Few-Shot Learning:** Few-shot learning extends zero-shot learning by allowing the model to see a small number of examples (few shots) from a new task before making predictions. This approach is useful when you have limited task-specific labeled data.
 
@@ -226,3 +229,26 @@ docker way to create.
 ```
 docker-compose up -d
 ```
+
+## What is the difference between NLP, NLU and NLG.
+When you are processing text for tasks like NER, Sentiment Analysis, and Token Classification you need libraries like Spacy, GloVe, and NLTK. This kind of work is called NLP.
+
+
+When you need to understand the semantic meaning of the text then NLP doesn't work. For example, you are looking for a sentence "Benefits of the Yoga" in a health-related article and it doesn't have any word "Yoga" there. But, it has a section called "Spiritual Gains of Long Meditation". Based on the similar semantic meaning can we pick up the text under this heading and display it to the user? You need a different technology like NLU. LLM (Large Language Models) are good in this task.
+
+
+When you need to generate new text or answer of question after analysing then it is much more complicated. You can put some common sense questions like Ram is standing in front of Mohan, Ram takes a left turn, and walks 200 meters. After that, he moved 20 degrees towards the west and walked 50 meters. How far is Ram from Mohan and what direction is his face? You cannot solve this kind of question by NLP or NLU. You need more sophisticated technology to do this work. This is called NLG. LLM models like ChatGPT, GPT4, PaLM, and BARD are good in NLG tasks.
+
+## What is disadvantage of LLM Finetuning?
+- On LLM it is very expensive.
+- There are many weights and learning doesn't happens enough.
+- Semantic search is better than finetuning.
+- Finetuning doesn't work for QA task for specific corpus. Rather use semantic search.
+
+## What is Confabulation or Hallucination?
+When a model gives an answer that looks logically correct or convincing but is factually wrong, completely cooked-up answer. This is called hallucination. If you don't understand the domain or don't remember the facts there are chances you won't know that model is hallucinating you.
+
+Sometimes the facts given are correct, logic is correct but the model is trying to connect some completely unrelated stuff without knowing that these ideas are completely unrelated. For example, Rabindranath Tagore who got the Nobel Prize for literature had a very good understanding of Vedanta. Kabirdaas was a great saint and his works reflect his deep understanding of Vedanta. Therefore model says Kabirdaas appreciated the work of Rabindranath Tagore. It is confabulation.
+
+
+
