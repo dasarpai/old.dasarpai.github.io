@@ -2,7 +2,7 @@
 id: 5220    
 mathjax: true    
 title:  "Book Summary : The Power of Intention"      
-date: "2023-04-26T08:33:00+05:30"    
+date: "2023-04-17T08:33:00+05:30"    
 permalink: /wiaposts/Book-Summary-The-Power-of-Intention     
 tags:  [Book Summary]     
     

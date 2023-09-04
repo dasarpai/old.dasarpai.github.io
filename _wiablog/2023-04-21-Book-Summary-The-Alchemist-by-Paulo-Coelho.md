@@ -2,7 +2,7 @@
 id: 5222    
 mathjax: true    
 title:  "Book Summary: The Alchemist by Paulo Coelho"       
-date: "2023-04-28T08:33:00+05:30"    
+date: "2023-04-21T08:33:00+05:30"    
 permalink: /wiaposts/Book-Summary-The-Alchemist-by-Paulo-Coelho     
 tags:  [Book Summary]     
     
