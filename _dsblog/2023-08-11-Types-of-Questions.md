@@ -40,7 +40,7 @@ In today's hitech environment there are many ways to learn. Virtual classes, vir
 
 Keeping above goals and learning process in mind we should create many kinds of questions to ensure that learning is properly happening.
 
-## 23 Types of Questions
+## 24 Types of Questions
 
 1. Closed-ended Questions:   
 
@@ -114,9 +114,6 @@ Keeping above goals and learning process in mind we should create many kinds of 
 16. Interview Questions:
 
     These questions are used in interviews to gather information about a person's background, skills, experiences, or opinions.
-    Survey Questions:
-
-    Survey questions are used in research and data collection to gather specific information from respondents.
 
 17. Explanatory Questions:
 
@@ -145,19 +142,23 @@ Keeping above goals and learning process in mind we should create many kinds of 
 
     How might you improve our current onboarding process of new employees?
 
-23. Probing Questions:   
+23. Survey Questions:
+
+    Survey questions are used in research and data collection to gather specific information from respondents.
+
+24. Probing Questions:   
 
     Probing questions are used to delve deeper into a topic, encouraging respondents to provide more extensive answers.
     
-    23.1 Clarifying questions: Clarifying questions help teachers or leaders ensure group members understand the current material. They also help teachers understand what a student is trying to convey through a statement or question, such as asking, "What do you mean by the term 'unfair'?"
+    24.1 Clarifying questions: Clarifying questions help teachers or leaders ensure group members understand the current material. They also help teachers understand what a student is trying to convey through a statement or question, such as asking, "What do you mean by the term 'unfair'?"
 
-    23.2 Critical awareness questions: Critical awareness questions require listeners to understand and apply information analytically to reach a conclusion. For example, a teacher can ask, "What details do you have to support your answer?"
+    24.2 Critical awareness questions: Critical awareness questions require listeners to understand and apply information analytically to reach a conclusion. For example, a teacher can ask, "What details do you have to support your answer?"
 
-    23.3 Refocusing questions: Group leaders or managers may use refocusing questions to help members return to the point of the discussion if answers are becoming unrelated or incorrect. For instance, you could ask, "If that answer is true, how could it affect the future?"
+    24.3 Refocusing questions: Group leaders or managers may use refocusing questions to help members return to the point of the discussion if answers are becoming unrelated or incorrect. For instance, you could ask, "If that answer is true, how could it affect the future?"
 
-    23.4 Prompting questions: Prompting refers to helping learners reach the right answer with additional clues or context. For instance, if a group member cannot answer your question about how many product lines your snack company produces, you might interject by asking how many pantry items you sell, followed by how many refrigerated items.
+    24.4 Prompting questions: Prompting refers to helping learners reach the right answer with additional clues or context. For instance, if a group member cannot answer your question about how many product lines your snack company produces, you might interject by asking how many pantry items you sell, followed by how many refrigerated items.
 
-    23.5 Redirection questions: Teachers can involve more participants and help others think critically about information by allowing other group members to add to, object to or clarify another member's answer. For instance, if Sharon only remembers two of your company's five core values, you could redirect the discussion by saying something like, "Andrew, can you add to Sharon's answer?"
+    24.5 Redirection questions: Teachers can involve more participants and help others think critically about information by allowing other group members to add to, object to or clarify another member's answer. For instance, if Sharon only remembers two of your company's five core values, you could redirect the discussion by saying something like, "Andrew, can you add to Sharon's answer?"
 
 ## References 
 - [15 Tyeps of Questions](https://www.indeed.com/career-advice/career-development/types-of-questions)

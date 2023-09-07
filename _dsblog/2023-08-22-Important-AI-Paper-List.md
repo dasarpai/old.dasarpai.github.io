@@ -657,3 +657,8 @@ You can download these papers from [link](https://drive.google.com/drive/folders
 1. XGBoost A Scalable Tree Boosting System-PAPER.pdf
 1. XGBoost Reliable Large-scale Tree Boosting System-PAPER.pdf
 
+## Recent Papers
+1. [Detecting Signs of Disease from External Images of the Eye](https://blog.research.google/2022/03/detecting-signs-of-disease-from.html), THURSDAY, MARCH 24, 2022
+2. [Deep-learning models for the detection and incidence prediction of chronic kidney disease and type 2 diabetes from retinal fundus images](https://www.nature.com/articles/s41551-021-00745-6), 15 June 2021
+3. [Detection of anaemia from retinal fundus images via deep learning](https://www.nature.com/articles/s41551-019-0487-z), 23 December 2019
+3. [Assessing Cardiovascular Risk Factors with Computer Vision](https://blog.research.google/2018/02/assessing-cardiovascular-risk-factors.html), MONDAY, FEBRUARY 19, 2018
