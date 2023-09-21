@@ -28,6 +28,7 @@ In Machine Learning projects whether classical machine learning, deep learning, 
 
 From various sources, benchmarking platforms, and research papers, I have noted 330+ metrics for evaluating Machine Learning models. I keep working on this page, expanding and defining these terms on a regular basis. Some of these metrics go over my head but I am keeping it here on this page because they have been used by the practitioners in some of their projects. After experimenting with those I will expand them here. Some of the metrics are obvious to Data Scientists. But, even if you are new to Data science it gives you an idea about these metrics.
 
+_____
 
 ## MRR 
 MRR stands for "Mean Reciprocal Rank," and it is a metric commonly used in information retrieval and evaluation tasks, including those in natural language processing (NLP). MRR is used to assess the effectiveness of ranking algorithms or systems in presenting relevant information to users. MRR is often applied to tasks such as question answering, search engines, and recommendation systems. A higher MRR indicates that relevant results tend to appear higher in the ranked lists, which suggests better user experience.
@@ -50,6 +51,7 @@ rank_i is the position of the correct result for the i-th query.
 ### mrr_at_100
 ### mrr_at_1000
 
+_____
 
 ## MAP 
 MAP stands for "Mean Average Precision". MAP focuses on evaluating the effectiveness of ranking algorithms or systems
@@ -80,6 +82,8 @@ A measure of the average precision over a range of IoU thresholds. It is also us
 ## mAP@IoU thresholds 
 The mean average precision over a range of intersection over union (IoU) thresholds.
 
+_____
+
 ## Accuracy: 
 The percentage of test samples that are correctly classified.
 
@@ -96,6 +100,8 @@ The percentage of test samples that are correctly classified.
 ### accuracy_tweet_eval/offensive
 ### accuracy_tweet_eval/sentiment
 
+_____
+
 ## Precision: 
 The fraction of predicted positive samples that are actually positive.
 
@@ -107,6 +113,8 @@ The fraction of predicted positive samples that are actually positive.
 ### precision_at_100
 ### precision_at_1000
 ### precision_macro
+
+_____
 
 ## Recall: 
 The fraction of actual positive samples that are predicted positive.
@@ -120,6 +128,26 @@ The fraction of actual positive samples that are predicted positive.
 ### recall_at_1000
 ### recall_macro
 
+_____
+
+## R@P
+"R@P" stands for "Recall at Precision." It's a metric used to evaluate the performance of information retrieval systems, such as search engines or question-answering models, in terms of their ability to retrieve relevant documents or answers.
+
+R@P is a combination of recall and precision. It evaluates how well a system can maintain a specified precision level while retrieving relevant items. It's typically expressed as "R@X," where "X" represents the desired precision level.
+
+For example, R@5 measures the recall when precision is equal to 0.5 (50%). It calculates the percentage of relevant items retrieved when the system is limited to a precision level of 50%.
+
+Mathematically, R@X is calculated by finding the recall at the point where precision reaches the specified level X. This is done by examining the retrieved items in descending order of relevance until the desired precision level is achieved.
+
+R@P is a useful metric in tasks where both recall (finding all relevant items) and precision (avoiding irrelevant items) are important. It provides insights into how well a system balances these two aspects when retrieving information.
+
+### R@P=50
+
+### R@P=75
+
+### R@P=90
+
+_____
 ## F1 score: 
 The harmonic mean of precision and recall.
 
@@ -137,6 +165,8 @@ The harmonic mean of precision and recall.
 ### f1neg 
 ### f1pos 
 
+_____
+
 ## Hit@n
 ### Hit@1: 
 - The percentage of queries for which the correct document is ranked first.
@@ -144,6 +174,8 @@ The harmonic mean of precision and recall.
 
 ### Hit@5: 
 The percentage of queries for which the correct document is ranked among the top 5 documents.
+
+_____
 
 ## Log-loss: 
 The negative log likelihood of the predicted labels.
@@ -234,15 +266,23 @@ A measure of the diversity and quality of the generated text by a language model
 ## Perplexity: 
 A measure of how difficult it is to predict the next word in a sequence.
 
+_____
+
 ## BLEU score: 
 A measure of the similarity between the generated text and the reference text.
 [BLEU More..](/dsblog/ml-tasks-and-model-evaluation#what-is-blue-benchmark)
 
 ### bleu4 
+
 ### bleu4_answer_extraction
+
 ### bleu4_question_answer_generation
+
 ### bleu4_question_answering
+
 ### bleu4_question_generation
+
+_____
 
 ## Intersection over union (IoU): 
 A measure of the overlap between two regions. It is typically used in object detection and segmentation tasks.
@@ -255,24 +295,37 @@ EM used in NLP task evaluation, particularly in tasks like question answering an
 
 If the model's answer matches the reference answer word-for-word, then the EM score for that particular instance is 1. If the answers do not match exactly, the EM score is 0. The EM score is then calculated as the ratio of instances where the model's answer matches the reference answer exactly to the total number of instances in the evaluation dataset.
 
+_____
+
 ## ROUGE 
 ROUGE (Recall-Oriented Understudy for Gisting Evaluation): ROUGE is another metric used for evaluating text summarization and generation tasks. It measures the overlap of n-grams between the generated text and the reference text. [ROUGE More..](/dsblog/ml-tasks-and-model-evaluation#what-is-rouge-score)
 
 ### rouge-l
+
 ### rouge-2
+
 ### rouge-lsum
+
 ### rouge_l_answer_extraction
+
 ### rouge_l_question_answer_generation
+
 ### rouge_l_question_answering
+
 ### rouge_l_question_generation
+_____
 
 ## METEOR 
 Metric for Evaluation of Translation with Explicit ORdering: METEOR is a metric that combines multiple measures including precision, recall, stemming, and synonymy. It aims to provide a balanced evaluation of machine translation quality.[METEOR More..](/dsblog/ml-tasks-and-model-evaluation#what-is-meteor-score)
 
 ### meteor_answer_extraction
+
 ### meteor_question_answer_generation
+
 ### meteor_question_answering
+
 ### meteor_question_generation
+
 
 
 ## HEQD
@@ -326,9 +379,14 @@ Let's say we have a language model that is trained on a corpus of text. We want 
 
 The perplexity metric is a useful tool for evaluating the quality of language models. It is a more robust measure of quality than the accuracy metric, and it can be used to compare the performance of different language models.
 
-## pass@n
+_____
+
+## Pass@n
+
 ### pass@1
+
 ### pass@10
+
 ### Pass@100
 
 The Pass@100 metric is calculated by measuring the percentage of queries for which the correct answer is among the top 100 candidates retrieved by the foundation language model (FLM) from a large corpus of documents. It reflects the ability of the FLM to retrieve relevant information from a large-scale knowledge source, which is essential for downstream tasks such as question answering, summarization, and dialogue. The higher the Pass@100 score, the better the FLM is at retrieving knowledge 1.
@@ -339,245 +397,406 @@ $$P(X >= k) = 1 - \sum_{i=0}^{k-1} [nCi * p^i * (1-p)^(n-i)]$$
 
 where X is a binomial random variable representing the number of correct answers in the top 100 candidates, n is the total number of queries, p is the probability of getting a correct answer in one query, and k is the minimum number of correct answers required to achieve Pass@100.
 
-## answer_exact 
+_____
+
+## Answer Exact 
+
 ### answer_exact_match_answer_extraction
+
 ### answer_exact_match_question_answering
 
-## answer_f1 
+_____
+
+## Answer F1 
+
 ### answer_f1_score__answer_extraction
+
 ### answer_f1_score__question_answering
 
+_____
 
-## bertscore 
+## Bert Score 
+
 ### bertscore
+
 ### bertscore_answer_extraction
+
 ### bertscore_question_answer_generation
+
 ### bertscore_question_answering
+
 ### bertscore_question_generation
 
-## code 
+_____
+
+## Code 
+
 ### code_eval
+
 ### code_eval_outputs
 
-## cos 
+_____
+
+## Cosine 
+
 ### cos_sim_accuracy
+
 ### cos_sim_ap
+
 ### cos_sim_f1
+
 ### cos_sim_pearson
+
 ### cos_sim_precision
+
 ### cos_sim_recall
+
 ### cos_sim_spearman
+_____
 
-## dot 
+## Dot 
+
 ### dot_accuracy
+
 ### dot_ap
+
 ### dot_f1
+
 ### dot_pearson
+
 ### dot_precision
+
 ### dot_recall
+
 ### dot_spearman
+_____
 
-## euclidean 
+## Euclidean 
+
 ### euclidean_accuracy
+
 ### euclidean_ap
+
 ### euclidean_f1
+
 ### euclidean_pearson
+
 ### euclidean_precision
+
 ### euclidean_recall
+
 ### euclidean_spearman
+_____
 
-## eval 
+## Eval 
+
 ### eval_accuracy
+
 ### eval_exact
+
 ### eval_f1
+
 ### eval_hasans_exact
+
 ### eval_hasans_f1
+
 ### eval_noans_exact
+
 ### eval_noans_f1
+
 ### eval_precision
+
 ### eval_recall
+_____
 
-## exact 
+## Exact 
+
 ### exact
-### exact_match
 
-## gen 
+### exact_match
+_____
+
+## Gen 
+
 ### gen_len
+
 ### gen-length
 
-## joint goal accuracy 
+_____
+
+## Joint Goal Accuracy 
+
 ### joint goal accuracy
+
 ### joint goal expected calibration error
 
-## manhattan 
+_____
+
+## Manhattan 
+
 ### manhattan_accuracy
+
 ### manhattan_ap
+
 ### manhattan_f1
+
 ### manhattan_precision
+
 ### manhattan_recall
+
 ### manhattan_spearman
+
 ### manhattan_pearson
 
-## matthews 
-### matthews_correlation
+_____
 
-## max 
+## Max 
+
 ### max_accuracy
+
 ### max_ap
+
 ### max_f1
 
 ## mean 
+
 ### mean_reciprocal_rank
+
 ### mean_reward
 
-## macro 
+------
+
+## Macro 
+
 ### macro_f1
+
 ### macro_precision
+
 ### macro_recall
 
-## micro 
-### micro_precision
-### micro_recall
-### micro_f1
-### micro_f1_cardiffnlp
-### micro_f1_tweet_eval/emoji
-### micro_f1_tweet_eval/emotion
-### micro_f1_tweet_eval/hate
-### micro_f1_tweet_eval/irony
-### micro_f1_tweet_eval/offensive
-### micro_f1_tweet_eval/sentiment
+_____
 
-## moverscore 
+## Micro 
+
+### micro_precision
+
+### micro_recall
+
+### micro_f1
+
+### micro_f1_cardiffnlp
+
+### micro_f1_tweet_eval/emoji
+
+### micro_f1_tweet_eval/emotion
+
+### micro_f1_tweet_eval/hate
+
+### micro_f1_tweet_eval/irony
+
+### micro_f1_tweet_eval/offensive
+
+### micro_f1_tweet_eval/sentiment
+_____
+
+## Mover Score 
+
 ### moverscore_answer_extraction
+
 ### moverscore_question_answer_generation
+
 ### moverscore_question_answering
+
 ### moverscore_question_generation
 
-## ndcg_at_n 
+_____
+
+## NDCG@n
+
 ### ndcg_at_1
-### ndcg_at_10
-### ndcg_at_100
-### ndcg_at_1000
+
 ### ndcg_at_3
+
 ### ndcg_at_5
 
-## pearson 
-### pearson
+### ndcg_at_10
+
+### ndcg_at_100
+
+### ndcg_at_1000
+
+_____
+
+## Pearson 
+
 ### pearson_correlation
+
 ### pearson's r (distress)
+
 ### pearson's r (empathy)
 
-## qa_aligned_f1 
+_____
+
+## QA Aligned F1 
+
 ### qa_aligned_f1_score_bertscore_question_answer_generation
+
 ### qa_aligned_f1_score_bertscore_question_answer_generation_gold_answer
+
 ### qa_aligned_f1_score_bertscore_question_answer_generation_with_gold_answer
+
 ### qa_aligned_f1_score_bertscore_question_answer_generation_with_gold_answer_gold_answer
+
 ### qa_aligned_f1_score_moverscore_question_answer_generation
+
 ### qa_aligned_f1_score_moverscore_question_answer_generation_gold_answer
+
 ### qa_aligned_f1_score_moverscore_question_answer_generation_with_gold_answer
+
 ### qa_aligned_f1_score_moverscore_question_answer_generation_with_gold_answer_gold_answer
 
-## qa_aligned_precision 
+_____
+
+## QA Aligned Precision 
+
 ### qa_aligned_precision_bertscore_question_answer_generation
+
 ### qa_aligned_precision_bertscore_question_answer_generation_gold_answer
+
 ### qa_aligned_precision_bertscore_question_answer_generation_with_gold_answer
+
 ### qa_aligned_precision_bertscore_question_answer_generation_with_gold_answer_gold_answer
+
 ### qa_aligned_precision_moverscore_question_answer_generation
+
 ### qa_aligned_precision_moverscore_question_answer_generation_gold_answer
+
 ### qa_aligned_precision_moverscore_question_answer_generation_with_gold_answer
+
 ### qa_aligned_precision_moverscore_question_answer_generation_with_gold_answer_gold_answer
 
-## qa_aligned_recall 
+_____
+
+## QA Aligned Recall 
+
 ### qa_aligned_recall_bertscore_question_answer_generation
+
 ### qa_aligned_recall_bertscore_question_answer_generation_gold_answer
+
 ### qa_aligned_recall_bertscore_question_answer_generation_with_gold_answer
+
 ### qa_aligned_recall_bertscore_question_answer_generation_with_gold_answer_gold_answer
+
 ### qa_aligned_recall_moverscore_question_answer_generation
+
 ### qa_aligned_recall_moverscore_question_answer_generation_gold_answer
+
 ### qa_aligned_recall_moverscore_question_answer_generation_with_gold_answer
+
 ### qa_aligned_recall_moverscore_question_answer_generation_with_gold_answer_gold_answer
 
-## squad 
+_____
+
+## SQUAD 
 ### squad
 ### squad_v2
 
-## top-n accuracy 
+_____
+
+## Top-n Accuracy 
+
 ### top-1 accuracy
+
 ### top-5 accuracy
 
-## validation 
+_____
+
+## Validation 
+
 ### validation_accuracy
+
 ### validation loss
 
-## weighted 
+_____
+
+## Weighted 
 ### weighted_f1
 ### weighted_precision
 ### weighted_recall
 
-## wer 
-### wer
-### wer_without_norm
-### were 
+_____
 
-## accuracy-radius-1 
-## act_dcf-p=0.01
-## avgrank 
-## byte_perplexity
-## cer 
-## cher 
-## chrf 
-## cider 
-## codebleu 
-## conll 
-## coval 
-## cver 
-## der 
-## dialog acts accuracy 
-## dialog acts f1 
-## diffbleu 
-## dvitel/codebleu 
-## eer 
-## em 
-## empos 
-## fid 
-## hamming score 
-## jaccard error rate 
-## lambada 
-## language model loss 
-## las 
-## loss 
-## mer 
-## nuclearity 
-## ovrl 
-## per 
-## perplexity 
-## pesq 
-## ppl 
-## qwk 
+## WER
+
+### wer_without_norm
+
+
+_____
+
+## Matthews 
+
+### matthews_correlation
+
+_____
+
+## Accuracy-radius-1 
+## Act_dcf-p=0.01
+## Avgrank 
+## Byte_perplexity
+## Cer 
+## Cher 
+## Chrf 
+## Cider 
+## Codebleu 
+## Conll 
+## Coval 
+## Cver 
+## Der 
+## Bialog acts accuracy 
+## Dialog acts f1 
+## Diffbleu 
+## Dvitel/codebleu 
+## EER 
+## EM 
+## Empos 
+## Fid 
+## Hamming score 
+## Jaccard error rate 
+## Lambada 
+## Language model loss 
+## Las 
+## Loss 
+## MER 
+## Nuclearity 
+## OVRL 
+## PER 
+## Perplexity 
+## PESQ 
+## PPL 
+## QWK 
 ## re+ macro f1 
-## relation 
-## roc_auc
-## sacrebleu 
-## sari 
-## ser 
-## si-sdri 
-## si-snri 
-## sig 
-## slot error rate 
-## slot f1 
-## span 
-## spearmanr 
-## spice 
-## spider 
-## ter 
-## text-image-similarity 
-## training loss 
-## trueskill 
-## uas 
-## wikitext 
-## wil 
-## wip 
-## zero-shot transfer 
+## ROC AUC
+## Sacrebleu 
+## Sari 
+## SER 
+## Si-sdri 
+## Si-snri 
+## SIG 
+## Slot error rate 
+## Slot f1 
+## Span 
+## Spearmanr 
+## Spice 
+## Spider 
+## TER 
+## Text-image-similarity 
+## Training loss 
+## Trueskill 
+## UAS 
+## Wikitext 
+## WIL 
+## WIP 
+## Zero-shot transfer 
 
 ## Resources
 - [Metrics at Huggingface](https://huggingface.co/spaces/autoevaluate/leaderboards?dataset=-any-&only_verified=0&task=-any-&metric=exact_match)
