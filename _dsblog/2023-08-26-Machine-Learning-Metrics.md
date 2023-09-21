@@ -393,7 +393,7 @@ The Pass@100 metric is calculated by measuring the percentage of queries for whi
 
 If you are interested in calculating Pass@100 for your own data, you can use binomial distribution. The formula for calculating Pass@100 using binomial distribution is as follows:
 
-$$P(X >= k) = 1 - \sum_{i=0}^{k-1} [nCi * p^i * (1-p)^(n-i)]$$
+$$P(X >= k) = 1 - \sum_{i=0}^{k-1} [nCi * p^i * (1-p)^{n-i}]$$
 
 where X is a binomial random variable representing the number of correct answers in the top 100 candidates, n is the total number of queries, p is the probability of getting a correct answer in one query, and k is the minimum number of correct answers required to achieve Pass@100.
 
@@ -564,7 +564,7 @@ _____
 
 ### mean_reward
 
-------
+_____
 
 ## Macro 
 
@@ -641,8 +641,6 @@ _____
 
 ### qa_aligned_f1_score_bertscore_question_answer_generation
 
-### qa_aligned_f1_score_bertscore_question_answer_generation_gold_answer
-
 ### qa_aligned_f1_score_bertscore_question_answer_generation_with_gold_answer
 
 ### qa_aligned_f1_score_bertscore_question_answer_generation_with_gold_answer_gold_answer
@@ -651,9 +649,6 @@ _____
 
 ### qa_aligned_f1_score_moverscore_question_answer_generation_gold_answer
 
-### qa_aligned_f1_score_moverscore_question_answer_generation_with_gold_answer
-
-### qa_aligned_f1_score_moverscore_question_answer_generation_with_gold_answer_gold_answer
 
 _____
 
@@ -661,15 +656,11 @@ _____
 
 ### qa_aligned_precision_bertscore_question_answer_generation
 
-### qa_aligned_precision_bertscore_question_answer_generation_gold_answer
-
 ### qa_aligned_precision_bertscore_question_answer_generation_with_gold_answer
 
 ### qa_aligned_precision_bertscore_question_answer_generation_with_gold_answer_gold_answer
 
 ### qa_aligned_precision_moverscore_question_answer_generation
-
-### qa_aligned_precision_moverscore_question_answer_generation_gold_answer
 
 ### qa_aligned_precision_moverscore_question_answer_generation_with_gold_answer
 
@@ -681,15 +672,11 @@ _____
 
 ### qa_aligned_recall_bertscore_question_answer_generation
 
-### qa_aligned_recall_bertscore_question_answer_generation_gold_answer
-
 ### qa_aligned_recall_bertscore_question_answer_generation_with_gold_answer
 
 ### qa_aligned_recall_bertscore_question_answer_generation_with_gold_answer_gold_answer
 
 ### qa_aligned_recall_moverscore_question_answer_generation
-
-### qa_aligned_recall_moverscore_question_answer_generation_gold_answer
 
 ### qa_aligned_recall_moverscore_question_answer_generation_with_gold_answer
 
@@ -743,7 +730,7 @@ _____
 ## Act_dcf-p=0.01
 ## Avgrank 
 ## Byte_perplexity
-## Cer 
+## CER 
 ## Cher 
 ## Chrf 
 ## Cider 
@@ -751,7 +738,7 @@ _____
 ## Conll 
 ## Coval 
 ## Cver 
-## Der 
+## DER 
 ## Bialog acts accuracy 
 ## Dialog acts f1 
 ## Diffbleu 
@@ -759,12 +746,12 @@ _____
 ## EER 
 ## EM 
 ## Empos 
-## Fid 
+## FID 
 ## Hamming score 
 ## Jaccard error rate 
 ## Lambada 
 ## Language model loss 
-## Las 
+## LAS 
 ## Loss 
 ## MER 
 ## Nuclearity 
@@ -774,7 +761,7 @@ _____
 ## PESQ 
 ## PPL 
 ## QWK 
-## re+ macro f1 
+## RE+ macro f1 
 ## ROC AUC
 ## Sacrebleu 
 ## Sari 
