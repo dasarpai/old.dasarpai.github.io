@@ -440,16 +440,63 @@ _____
 ## Cosine 
 
 ### cos_sim_accuracy
+```
+threshold = 0.9  # Define your threshold
+
+true_positives = 0
+false_positives = 0
+false_negatives = 0
+
+for question in questions:
+    predicted_answer = model.predict(question)
+    reference_answer = get_reference_answer(question)
+
+    cosine_similarity = calculate_cosine_similarity(predicted_answer, reference_answer)
+
+    if cosine_similarity >= threshold:
+        if predicted_answer == reference_answer:
+            true_positives += 1
+        else:
+            false_positives += 1
+    else:
+        if predicted_answer == reference_answer:
+            true_negative += 1
+		else: 
+		    false_negatives += 1 
+
+cos_sim_precision = true_positives / (true_positives + false_positives)
+cos_sim_recall = true_positives / (true_positives + false_negatives)
+cos_sim_accuracy = (true_positive + true_negative)/len(quetions)
+cos_sim_f1 = 2 * cos_sim_precision * cos_sim_recall / (cos_sim_precision +cos_sim_recall)
+
+```
+**Example Data**   
+Threshold : 0.65
+
+Actual | Predicted Cosine | Pred>Threshold | Pred>Threshold =Actual | Prediction_Type | Remark
+--- | --- | --- | --- | --- | ---
+TRUE | 0.98 | TRUE | TRUE | TP | Pred Cosine>=Threshold
+TRUE | 0.79 | TRUE | TRUE | TP | Pred Cosine>=Threshold
+FALSE | 0.7 | TRUE | FALSE | FP | Pred Cosine>=Threshold
+TRUE | 0.6 | FALSE | FALSE | TN | Pred Cosine<Threshold
+TRUE | 0.5 | FALSE | FALSE | TN | Pred Cosine<Threshold
+FALSE | 0.2 | FALSE | TRUE | FN | Pred Cosine<Threshold
+FALSE | 0.4 | FALSE | TRUE | FN | Pred Cosine<Threshold
+FALSE | 0.66 | TRUE | FALSE | FN | Pred Cosine<Threshold
+
+
+### cos_sim_f1
+Check cos_sim_accuracy
+
+### cos_sim_precision
+Check cos_sim_accuracy
+
+### cos_sim_recall
+Check cos_sim_accuracy
 
 ### cos_sim_ap
 
-### cos_sim_f1
-
 ### cos_sim_pearson
-
-### cos_sim_precision
-
-### cos_sim_recall
 
 ### cos_sim_spearman
 _____
@@ -612,6 +659,36 @@ _____
 _____
 
 ## NDCG@n
+
+NDCG (Normalized Discounted Cumulative Gain) is a widely used metric in information retrieval and recommendation systems to evaluate the quality of ranked search results or recommendations. The "NDCG@n" metric is a variation of NDCG that focuses on a specific cutoff point, n, which represents the number of items or documents to consider in the evaluation. It assesses how well the top n items or documents in a ranked list match the relevance of the ground truth or expected results.
+
+Here's how NDCG@n is calculated:
+
+1. **Rank the Items or Documents**: Start by ranking the items or documents based on some relevance score. For example, in a search engine, documents may be ranked based on their relevance to a user's query.
+
+2. **Determine Relevance Scores**: Assign relevance scores to each of the items or documents. These scores typically range from 0 (not relevant) to 1 (perfectly relevant). These scores represent how relevant each item or document is to the user's query or the context of the evaluation.
+
+3. **Calculate DCG@n (Discounted Cumulative Gain at n)**: Calculate the Discounted Cumulative Gain at the cutoff point n. DCG@n is computed as the sum of the relevance scores of the top n items, with a logarithmic discount applied to the position of each item:
+
+   ```
+   DCG@n = rel(1) + (rel(2) / log2(2)) + (rel(3) / log2(3)) + ... + (rel(n) / log2(n))
+   ```
+
+   Where:
+   - `rel(i)` is the relevance score of the item at position i.
+   - `log2(i)` is the logarithm base 2 of i.
+
+4. **Calculate IDCG@n (Ideal Discounted Cumulative Gain at n)**: Calculate the Ideal Discounted Cumulative Gain at the cutoff point n. IDCG@n represents the best possible DCG@n that could be achieved if all the items were perfectly ranked. To calculate IDCG@n, sort the items by their true relevance scores and calculate DCG@n using the same formula.
+
+5. **Calculate NDCG@n (Normalized Discounted Cumulative Gain at n)**: Calculate NDCG@n by dividing DCG@n by IDCG@n:
+
+   ```
+   NDCG@n = DCG@n / IDCG@n
+   ```
+
+NDCG@n provides a normalized measure of the quality of the ranked list at the specified cutoff point. It ranges from 0 to 1, where higher values indicate better ranking quality. A value of 1 indicates that the top n items are perfectly ranked according to relevance.
+
+NDCG@n is particularly useful when you want to assess the performance of recommendation systems, search engines, or any system that presents ranked lists to users, and you are interested in evaluating the quality of the top n results.
 
 ### ndcg_at_1
 
