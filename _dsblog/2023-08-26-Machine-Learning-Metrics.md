@@ -806,6 +806,9 @@ _____
 ## Accuracy-radius-1 
 ## Act_dcf-p=0.01
 ## Avgrank 
+## ARC
+The **Abstraction and Reasoning Corpus (ARC)** is a benchmark dataset designed to encourage research in advanced question answering and measure a human-like form of general fluid intelligence. It was built upon an explicit set of priors designed to be as close as possible to innate human priors. The ARC dataset requires far more powerful knowledge and reasoning than previous challenges such as SQuAD or SNLI.  The ARC question set is partitioned into a Challenge Set and an Easy Set, where the Challenge Set contains only questions answered incorrectly by both a retrieval-based algorithm and a word co-occurence algorithm. The dataset contains only natural, grade-school science questions (authored for human tests), and is the largest public-domain set of this kind (7,787 questions
+
 ## Byte_perplexity
 ## CER 
 ## Cher 
@@ -831,6 +834,26 @@ _____
 ## LAS 
 ## Loss 
 ## MER 
+## MMLU
+The MMLU metric, or Massive Multitask Language Understanding, is a benchmark for evaluating the general knowledge and reasoning capabilities of large language models (LLMs). It was developed by Meta AI and released in 2022.
+
+The MMLU dataset consists of 15,908 multiple-choice questions covering a wide range of topics, including mathematics, US history, computer science, law, and more. The questions are designed to assess the model's understanding of the world and its ability to reason about complex concepts. The test covers 57 tasks, including elementary mathematics, US history, computer science, law, and more. To attain high accuracy on this test, models must possess extensive world knowledge and problem-solving ability 
+
+The MMLU metric is calculated by averaging the model's accuracy on all of the questions in the dataset. This makes it a comprehensive measure of the model's overall performance.
+
+The MMLU metric has been used to evaluate a number of different LLMs, including GPT-3, Jurassic-1 Jumbo, and LaMDA. As of October 2023, the highest MMLU score achieved by a public LLM is 86.7%, which was set by GPT-4.
+
+The MMLU metric is an important tool for evaluating the progress of LLMs and for identifying areas where they need improvement. It is also a useful tool for comparing the performance of different LLMs.
+
+Here are some of the benefits of using the MMLU metric:
+
+* It is a comprehensive measure of the model's overall performance on a wide range of tasks.
+* It is fair and unbiased, as it uses a standardized set of questions.
+* It is easy to understand and interpret.
+* It is reproducible, meaning that other researchers can easily obtain the same results by evaluating their models on the same dataset.
+
+Overall, the MMLU metric is a valuable tool for evaluating the performance of LLMs and for tracking their progress over time.
+
 ## Nuclearity 
 ## OVRL 
 ## PER 
@@ -852,6 +875,14 @@ _____
 ## Spearmanr 
 ## Spice 
 ## Spider 
+## HellaSwag
+HellaSwag is a dataset for studying grounded commonsense inference. It consists of **70k multiple choice questions** about grounded situations, each question comes from one of two domains -- activitynet or wikihow -- with four answer choices about what might happen next in the scene. The dataset was designed to test commonsense natural language inference (NLI) about physical situations. 
+
+The name **HellaSwag** is an acronym for Harder Endings, Longer contexts, and Low-shot Activities for Situations With Adversarial Generations ¹. The dataset was created by Zellers et al. in 2019 to evaluate common-sense reasoning in large language models (LLMs) ¹. 
+
+The dataset is used to measure the performance of LLMs on commonsense reasoning tasks. The questions are segments of video captions describing some event in the physical world. A video caption segment provides an initial context for an LLM. Each context is then followed by four options for completing that context, with only one option being correct.
+
+
 ## TER 
 ## Text-image-similarity 
 ## Training loss 
@@ -867,3 +898,7 @@ _____
 - [Paperwithcode](https://paperswithcode.com/datasets)
 - [BLEU Score](https://opus.nlpl.eu/leaderboard/)
 - [GLUE Score](https://gluebenchmark.com/leaderboard)
+- [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+- [AllanAI Leaderboards](https://leaderboard.allenai.org/)
+- [AI Google - NaturalQuestions/leaderboard](https://ai.google.com/research/NaturalQuestions/leaderboard)
+- [Eval AI](https://eval.ai/web/challenges/challenge-page/514/leaderboard/1386)
