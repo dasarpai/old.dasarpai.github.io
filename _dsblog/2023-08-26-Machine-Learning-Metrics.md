@@ -120,12 +120,12 @@ _____
 The fraction of actual positive samples that are predicted positive.
 
 ### recall_entity_span
-### recall_at_1
-### recall_at_3
-### recall_at_5
-### recall_at_10
-### recall_at_100
-### recall_at_1000
+### recall@1
+### recall@3
+### recall@5
+### recall@10
+### recall@100
+### recall@1000
 ### recall_macro
 
 _____
