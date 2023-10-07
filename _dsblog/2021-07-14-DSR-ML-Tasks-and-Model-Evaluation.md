@@ -179,12 +179,12 @@ The most common n-grams used are unigrams, bigrams, and trigrams. ROUGE score ca
 
 Formula for calculating ROUGE-N:
 
-ROUGE-N = $\frac{\sum_{i=1}^{m} |S_i \cap R_i|}{\sum_{i=1}^{m} |R_i|}$
+ROUGE-N = $$\frac{\sum_{i=1}^{m} |S_i \cap R_i|}{\sum_{i=1}^{m} |R_i|}$$
 
 where:
 
-$S_i$ is the set of n-grams in the machine-generated summary   
-$R_i$ is the set of n-grams in the reference summary
+$$S_i$$ is the set of n-grams in the machine-generated summary   
+$$R_i$$ is the set of n-grams in the reference summary
 
 m is the maximum n-gram length
 

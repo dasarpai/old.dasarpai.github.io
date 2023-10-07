@@ -44,16 +44,10 @@ MRR = (1/N) * ∑(1/rank_i)
 N is the total number of queries or questions.   
 rank_i is the position of the correct result for the i-th query.
 
-### mrr_at_1
-### mrr_at_3
-### mrr_at_5
-### mrr_at_10
-### mrr_at_100
-### mrr_at_1000
-
+Commonly used MRR@n metrics are MRR@1, MRR@3, MRR@5, MRR@10, MRR@100, MRR@1000 
 _____
 
-## MAP 
+## MAP@n 
 MAP stands for "Mean Average Precision". MAP focuses on evaluating the effectiveness of ranking algorithms or systems
 
 Step1: Ranking of Results: You have a system that retrieves a ranked list of possible answers or documents in response to a user's query or question.
@@ -69,12 +63,8 @@ MAP = (1/N) * ∑(AP_i)
 N is the total number of queries or questions.   
 AP_i is the Average Precision for the i-th query. 
 
-### map_at_1
-### map_at_3
-### map_at_5
-### map_at_10
-### map_at_100
-### map_at_1000
+Commonly used MAP@n metrics are map@1, map@3, map@5, map@10, map@100, map@1000
+
 
 ## Mean average precision (mAP): 
 A measure of the average precision over a range of IoU thresholds. It is also used in object detection and segmentation tasks.
@@ -106,12 +96,10 @@ _____
 The fraction of predicted positive samples that are actually positive.
 
 ### precision_entity_span
-### precision_at_1
-### precision_at_3
-### precision_at_5
-### precision_at_10
-### precision_at_100
-### precision_at_1000
+
+### Precision@n
+Commonly used precision@n metrics are Recall@1, Precision@3, Precision@5, Precision@10, Precision@100, Precision@1000
+
 ### precision_macro
 
 _____
@@ -120,12 +108,10 @@ _____
 The fraction of actual positive samples that are predicted positive.
 
 ### recall_entity_span
-### recall@1
-### recall@3
-### recall@5
-### recall@10
-### recall@100
-### recall@1000
+
+### recall@n
+Commonly used recall@n metrics are recall@1, recall@3, recall@5, recall@10, recall@100, recall@1000
+
 ### recall_macro
 
 _____
@@ -221,9 +207,6 @@ A measure of the average percentage difference between the predicted and actual 
 ## Root mean square logarithmic error (RMSLE): 
 A measure of the average squared difference between the logarithms of the predicted and actual values, after taking the square root.
 
-## Normalized discounted cumulative gain (NDCG): 
-A measure of the ranking performance of a model.
-
 ## Precision at k (P@k): 
 The percentage of the top k predictions that are correct.
 
@@ -272,15 +255,15 @@ _____
 A measure of the similarity between the generated text and the reference text.
 [BLEU More..](/dsblog/ml-tasks-and-model-evaluation#what-is-blue-benchmark)
 
-### bleu4 
+### BLEU4 
 
-### bleu4_answer_extraction
+### BLEU4_answer_extraction
 
-### bleu4_question_answer_generation
+### BLEU4_question_answer_generation
 
-### bleu4_question_answering
+### BLEU4_question_answering
 
-### bleu4_question_generation
+### BLEU4_question_generation
 
 _____
 
@@ -383,12 +366,6 @@ _____
 
 ## Pass@n
 
-### pass@1
-
-### pass@10
-
-### Pass@100
-
 The Pass@100 metric is calculated by measuring the percentage of queries for which the correct answer is among the top 100 candidates retrieved by the foundation language model (FLM) from a large corpus of documents. It reflects the ability of the FLM to retrieve relevant information from a large-scale knowledge source, which is essential for downstream tasks such as question answering, summarization, and dialogue. The higher the Pass@100 score, the better the FLM is at retrieving knowledge 1.
 
 If you are interested in calculating Pass@100 for your own data, you can use binomial distribution. The formula for calculating Pass@100 using binomial distribution is as follows:
@@ -397,6 +374,7 @@ $$P(X >= k) = 1 - \sum_{i=0}^{k-1} [nCi * p^i * (1-p)^{n-i}]$$
 
 where X is a binomial random variable representing the number of correct answers in the top 100 candidates, n is the total number of queries, p is the probability of getting a correct answer in one query, and k is the minimum number of correct answers required to achieve Pass@100.
 
+Commonly used Pass@n metrics are pass@1, pass@10, Pass@100
 _____
 
 ## Answer Exact 
@@ -658,7 +636,7 @@ _____
 
 _____
 
-## NDCG@n
+## Normalized discounted cumulative gain (NDCG): 
 
 NDCG (Normalized Discounted Cumulative Gain) is a widely used metric in information retrieval and recommendation systems to evaluate the quality of ranked search results or recommendations. The "NDCG@n" metric is a variation of NDCG that focuses on a specific cutoff point, n, which represents the number of items or documents to consider in the evaluation. It assesses how well the top n items or documents in a ranked list match the relevance of the ground truth or expected results.
 
@@ -690,17 +668,7 @@ NDCG@n provides a normalized measure of the quality of the ranked list at the sp
 
 NDCG@n is particularly useful when you want to assess the performance of recommendation systems, search engines, or any system that presents ranked lists to users, and you are interested in evaluating the quality of the top n results.
 
-### ndcg_at_1
-
-### ndcg_at_3
-
-### ndcg_at_5
-
-### ndcg_at_10
-
-### ndcg_at_100
-
-### ndcg_at_1000
+Popular NDCG@n metrics are NDCG@1, NDCG@3, NDGC@5, NDGC@10, NDCG@100, NDCG@1000
 
 _____
 
@@ -894,11 +862,13 @@ The dataset is used to measure the performance of LLMs on commonsense reasoning 
 ## Zero-shot transfer 
 
 ## Resources
-- [Metrics at Huggingface](https://huggingface.co/spaces/autoevaluate/leaderboards?dataset=-any-&only_verified=0&task=-any-&metric=exact_match)
-- [Paperwithcode](https://paperswithcode.com/datasets)
+- [Metrics at Huggingface](https://huggingface.co/spaces/autoevaluate/leaderboards)
+- [SOTA Paperwithcode](https://paperswithcode.com/sota)
+- [Question Answering Paperwithcode](https://paperswithcode.com/task/question-answering)
 - [BLEU Score](https://opus.nlpl.eu/leaderboard/)
 - [GLUE Score](https://gluebenchmark.com/leaderboard)
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [AllanAI Leaderboards](https://leaderboard.allenai.org/)
 - [AI Google - NaturalQuestions/leaderboard](https://ai.google.com/research/NaturalQuestions/leaderboard)
 - [Eval AI](https://eval.ai/web/challenges/challenge-page/514/leaderboard/1386)
+- [QuAC- Question Answering in Context](https://quac.ai/)
