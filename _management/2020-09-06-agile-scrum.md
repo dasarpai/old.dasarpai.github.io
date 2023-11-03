@@ -12,8 +12,8 @@ categories:
 tags: [Agile Courses]
 
 header:
-  overlay_image: /assets/images/pmlogy/pmc525-agile-scrum.jpg
-  overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
+#   overlay_image: /assets/images/pmlogy/pmc525-agile-scrum.jpg
+#   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
   [//]: # caption: "Import Data Science Blogs"
   teaser: /assets/images/pmlogy/pmc525-agile-scrum.jpg
 
