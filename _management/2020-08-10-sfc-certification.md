@@ -23,7 +23,7 @@ share: true
 
 ![Sfc Certification](/assets/images/pmlogy/pmc508-sfc-Certification.jpg)
 
-**Free SFC™ Certification**
+# Free SFC™ Certification
 
 Free Scrum Webinar and Virtual Instructor-led Training for SFC™ Scrum Fundamentals Certification.
 

@@ -23,7 +23,7 @@ share: true
 
 ![Scrumstudy Product Owner Certified](/assets/images/pmlogy/pmc510-scrumstudy-product-owner-certified.jpg)
 
-**Scrum Product Owner Certified (SPOC®)**
+# Scrum Product Owner Certified (SPOC®)
 
 ## About Course
 

@@ -22,7 +22,7 @@ share: true
 
 ![Microsoft Enterprise Project Server For Administrators](/assets/images/pmlogy/pmc519-microsoft-enterprise-project-server-for-administrators.jpg)
 
-**Microsoft Enterprise Project Server for Administrators**
+# Microsoft Enterprise Project Server for Administrators
 
 ## Course Outline EPM for Administrator
 

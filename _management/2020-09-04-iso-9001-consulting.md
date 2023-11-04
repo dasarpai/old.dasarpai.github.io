@@ -24,7 +24,7 @@ share: true
 
 ![Iso9001 Consulting](/assets/images/pmlogy/pmc524-iso9001-consulting.jpg)
 
-**ISO 9001:2008 Consulting**
+# ISO 9001:2008 Consulting
 
 ## About ISO 9001 Certification
 

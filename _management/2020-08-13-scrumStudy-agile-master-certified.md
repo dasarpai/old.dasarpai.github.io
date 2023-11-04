@@ -23,7 +23,7 @@ share: true
 
 ![Scrumstudy Agile Master Certified](/assets/images/pmlogy/pmc511-scrumstudy-agile-master-certified.jpg)
 
-**ScrumStudy Agile Master Certified (SAMC™)**
+# ScrumStudy Agile Master Certified (SAMC™)
 
 ## About Course
 

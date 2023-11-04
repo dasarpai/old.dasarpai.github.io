@@ -23,7 +23,7 @@ share: true
 
 ![Scrum Master Certified](/assets/images/pmlogy/pmc509-scrum-master-certified.jpg)
 
-**Scrum Master Certified (SMC®)**
+# Scrum Master Certified (SMC®)
 
 ## About Course
 

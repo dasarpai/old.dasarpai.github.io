@@ -22,7 +22,7 @@ share: true
 
 ![Microsoft Enterprise Project Server For Executives](/assets/images/pmlogy/pmc518-microsoft-enterprise-project-server-for-executives.jpg)
 
-**Microsoft Enterprise Project Server for Executives**
+# Microsoft Enterprise Project Server for Executives
 
 ## Course Outline EPM for Executives
 

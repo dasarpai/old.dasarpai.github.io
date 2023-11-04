@@ -20,7 +20,7 @@ share: true
 
 ![Fundamental Pm](/assets/images/pmlogy/pmc527-fundamental-pm.jpg)
 
-**Fundamentals of Project Management**
+# Fundamentals of Project Management
 
 A high-level Course Outline for a **2 days course** on Fundamentals of Project Management is mentioned in Course Outline Section. It is just to assist customers/participants to decide topics, add more topics, remove topics. The final course outline may be different and it depends upon your need, existing project management maturity in place. The purpose of this course is not to teach some more jargon of project management to communicate with stakeholders but to understand why it necessary to have a common vocabulary in place.
 

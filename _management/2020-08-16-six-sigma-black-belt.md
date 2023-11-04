@@ -23,7 +23,7 @@ share: true
 
 ![Six Sigma Black Belt](/assets/images/pmlogy/pmc514-six-sigma-black-belt.jpg)
 
-**Six Sigma Black Belt (SSBB)**
+# Six Sigma Black Belt (SSBB)
 
 ## About Course
 The Six Sigma Black Belt course is tailored to help anyone interested to know what Six Sigma is. learn key concepts in Six Sigma; and to get a basic understanding of how Six Sigma framework works in delivering successful projects. This course is included as a part of Free Lifetime Primary Membership. Once the course is completed, the student needs to take an assessment to get the certificate. The purpose of the exam is to confirm you have basic understanding of Six Sigma.

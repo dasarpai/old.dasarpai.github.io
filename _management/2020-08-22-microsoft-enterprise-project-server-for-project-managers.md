@@ -22,7 +22,7 @@ share: true
 
 ![Microsoft Enterprise Project Server For Project Managers](/assets/images/pmlogy/pmc516-microsoft-enterprise-project-server-for-project-managers.jpg)
 
-**Microsoft Enterprise Project Server for Project Managers**
+# Microsoft Enterprise Project Server for Project Managers
 
 ## Course Outline EPM for Project Managers
 

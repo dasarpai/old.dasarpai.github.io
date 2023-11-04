@@ -22,7 +22,8 @@ share: true
 ---
 
 ![Customized PM Courses](/assets/images/pmlogy/pmc506-customized-pm.jpg)
-**Customized Project Management Courses**
+
+# Customized Project Management Courses
 
 Apart from the certification courses where the course outline is fixed by the certification bodies, I also conduct need-based training courses for the organizations. Course outlines of these courses are drafted and finalized based on the need of the organization. If you are looking from an organization’s competency-building perspective then it is recommended you go for customized courses.
 

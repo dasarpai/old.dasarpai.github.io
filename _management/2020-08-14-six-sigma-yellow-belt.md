@@ -23,7 +23,7 @@ share: true
 
 ![Six Sigma Yellow Belt](/assets/images/pmlogy/pmc512-six-sigma-yellow-belt.jpg)
 
-**Six Sigma Yellow Belt (SSYB)**
+# Six Sigma Yellow Belt (SSYB)
 
 ## About Course
 The Six Sigma Yellow Belt course is tailored to help anyone interested to know what Six Sigma is. learn key concepts in Six Sigma; and to get a basic understanding of how Six Sigma framework works in delivering successful projects. This course is included as a part of Free Lifetime Primary Membership. Once the course is completed, the student needs to take an assessment to get the certificate. The purpose of the exam is to confirm you have basic understanding of Six Sigma.

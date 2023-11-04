@@ -22,6 +22,8 @@ share: true
 
 ![Microsoft Project](/assets/images/pmlogy/pmc515-microsoft-project.jpg)
 
+# Microsoft Project 
+
 **About Course**
 
 Microsoft Project (MSP) is one of the extensive tools used by project managers to prepare project schedules, track project work, optimize resources, and report project progress on day to day basis. Generally, every 2-3 years Microsoft change this product and adds some new feature, modify look and feel, extends some existing features, etc. By 2016 four majorly used versions of this product in the market are MSP 2007, MSP 2010, MSP2013, MSP2016. Depending upon licensing and cost involved organization uses these various versions. The core of all the versions is the same, except for some advanced reporting, view, and analysis functionalities in newer versions. This course helps you understand how to use MSP for your project’s planning.

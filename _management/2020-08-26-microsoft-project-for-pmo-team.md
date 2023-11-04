@@ -22,6 +22,8 @@ share: true
 
 ![Microsoft Project For Pmo Team](/assets/images/pmlogy/pmc520-microsoft-project-for-pmo-team.jpg)
 
+# Microsoft Project For Pmo Team
+
 Project Online (Microsoft Project Professional) training based on the role of project team members.
 
 *   [Microsoft Project for CxO and PMO](/management/microsoft-enterprise-project-server-for-executives)

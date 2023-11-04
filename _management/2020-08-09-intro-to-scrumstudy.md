@@ -23,7 +23,7 @@ share: true
 
 ![Intro To Scrumstudy](/assets/images/pmlogy/pmc507-intro-to-scrumstudy.jpg)
 
-**Introduction to ScrumStudy Courses**
+# Introduction to ScrumStudy Courses
 
 ## Scrum In 6 Minutes
 <video muted autoplay controls>

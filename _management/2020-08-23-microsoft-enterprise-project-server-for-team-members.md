@@ -22,7 +22,7 @@ share: true
 
 ![Microsoft Enterprise Project Server For Team Members](/assets/images/pmlogy/pmc517-microsoft-enterprise-project-server-for-team-members.jpg)
 
-**Microsoft Enterprise Project Server for Team Members**
+# Microsoft Enterprise Project Server for Team Members
 
 ## Course Outline EPM for Team Members
 
