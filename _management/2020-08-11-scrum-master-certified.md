@@ -13,10 +13,7 @@ tags:
   - 'Scrum Master Certified'
 
 header:
-  overlay_image: /assets/images/pmlogy/pmc509-scrum-master-certified.png
-  overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
-  [//]: # caption: "Import Data Science Blogs"
-  teaser: "/assets/images/pmlogy/pmc509-scrum-master-certified.jpg"
+  teaser: /assets/images/pmlogy/pmc509-scrum-master-certified.jpg
 
 author_profile: true
 last_modified_at: 2020-08-09T15:46:43-04:00
@@ -24,7 +21,8 @@ mathjax: "true"
 share: true
 ---
 
-![Scrum Master Certified](/assets/images/pmlogy/pmc509-scrum-master-certified.png)
+![Scrum Master Certified](/assets/images/pmlogy/pmc509-scrum-master-certified.jpg)
+
 **Scrum Master Certified (SMC®)**
 
 ## About Course

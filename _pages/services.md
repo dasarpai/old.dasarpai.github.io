@@ -59,6 +59,7 @@ sidebar:
 * [PRINCE2 Practitioner]((/management/prince2))
 
 ###  Scrum & Agile Courses	
+* [Agile/Scrum Multiple Courses](/management/agile-scrum)
 * [Introduction to ScrumStudy Certifications](/management/intro-to-scrumstudy)
 * [Free SFC™ Certification](/management/sfc-certification)
 * [Scrum Master Certified (SMC®)](/management/scrum-master-certified)

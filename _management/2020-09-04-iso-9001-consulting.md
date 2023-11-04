@@ -13,10 +13,7 @@ tags: [Process Consulting]
 
 
 header:
-  overlay_image: assets/images/post/ai-ml-resources.png
-  overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
-  [//]: # caption: "Import Data Science Blogs"
-  teaser: "/assets/images/ds-resources1.jpg"
+  teaser: /assets/images/pmlogy/pmc524-iso9001-consulting.jpg
 
 layout: single
 author_profile: true
@@ -24,6 +21,8 @@ last_modified_at: 2020-08-01T15:46:43-04:00
 mathjax: "true"
 share: true
 ---
+
+![Iso9001 Consulting](/assets/images/pmlogy/pmc524-iso9001-consulting.jpg)
 
 **ISO 9001:2008 Consulting**
 

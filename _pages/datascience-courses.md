@@ -1,6 +1,6 @@
 ---
 id: 704    
-title: "My Courses on Data Science, AI, ML, Deep Learning, NLP & Project Management"
+title: "My Courses on Data Science, AI, ML, Deep Learning, NLP"
 layout: collection
 permalink: /datascience-courses
 collection: dscourses
@@ -12,7 +12,5 @@ header:
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 sort_order : reverse   
 ---
-
-
 
 

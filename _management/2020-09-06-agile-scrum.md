@@ -22,162 +22,7 @@ share: true
 
 ![Agile Scrum](/assets/images/pmlogy/pmc525-agile-scrum.jpg)
 
-# Agile/Scrum - Course 1
-
-- Introduction to Agile Project Management
-    - What is Agile?
-    - The myths and realities of Agile software development
-    - The Agile Manifesto
-    - How organizational patterns relate to Agile project management
-- Fundamentals of Scrum for Dealing with Uncertainty and Risk
-    - Identifying the roles and their responsibilities
-    - Prioritizing requirements through the Product Owner
-    - Differentiating the Scrum Master from a traditional project manager
-    - Shaping the self-managed development team
-    - Relating to external stakeholders
-    - Managing releases
-    - Iterating development through 30-day cycles
-    - Developing a project vision with Sprints
-    - Time-boxing with Sprints and daily stand-up meetings
-    - Tools for tracking and monitoring a project
-    - Capturing requirements as User Stories
-    - Developing a Product Backlog based on business value
-    - Creating a Sprint Backlog from a list of requirements
-    - Plotting the remaining work with a Burn-down Chart 
-- Planning an Agile Project
-    - Establishing the business reasons for the project
-    - Managing the expectations of sponsors and fund holders
-    - Estimating expected progress
-    - Demonstrating the business value of implemented functionality
-    - Clarifying the business vision
-    - Preparing and prioritizing the product requirements
-    - Establishing the project road map
-    - Eliciting project information from the Product Owner
-    - Identifying features for development in an iteration
-    - Estimating feature size and complexity
-    - Selecting tasks for implementation
-- Fostering Self-Management Within the Development Team
-    - Creating the optimal working environment
-    - Co-locating the development team
-    - Designing the project base room
-    - Protecting the development team from outside interference
-    - Making project progress visible and open
-    - Transitioning to self management
-    - Facilitating team learning to self-organize
-    - Empowering the team to control their own development process
-    - Running iterations
-    - Micro-planning through daily stand ups
-    - Applying the rules for an iteration
-    - Identifying administrative responsibilities of the development team
-    - Measuring a project's velocity
-    - Controlling an iteration and increasing visibility with a Task Board
-- Managing Change
-    - Reviewing the iteration through a Sprint Review
-    - Demonstrating functionality to the customer
-    - Gaining feedback from stakeholders
-    - Re-prioritizing requirements on the basis of experience
-    - Closing the project using a Sprint Retrospective
-    - Reflecting on lessons learned
-    - Disseminating acquired knowledge to the organization
-- Applying Agile Throughout Your Organization
-    - Dealing with the legacy organization
-    - Negotiating the contract between the business and the Agile development team
-    - Establishing the relationship between the Product Owner and multiple customers or stakeholders
-    - The Scrum Master as manager-developer liaison
-    - Scaling for large projects
-    - Scrum roles in the larger context of planning
-    - Collaborating across Agile development teams
-    - Comparing hierarchical and self-organizing styles
-
-
-# Agile/Scrum - Course 2
-
-- Day 1
-    - Agile General Knowledge
-    - History of Agile Project Management
-    - Empirical Processes
-    - Agile Manifesto
-    - Agile Principles
-    - Introduction to Various Agile Methods
-    - ScrumBan
-    - Scrum
-    - Five values of Scrum
-    - Sprint
-    - Scrum Roles
-    - Product Owner
-    - Scrum Master
-    - Project Team
-    - Scrum Artifects
-    - User Story
-    - Product Backlog
-    - Definition of Done
-    - Sprint Backlog
-    - Iteration Burndown / Burnup Charts
-    - Release Burndown Chart
-- Day 2
-    - Scrum Meetings
-    - Release Planning Meetings
-    - Sprint Planning Meetings
-    - Daily Standup Meetings
-    - Sprint Review Meetings
-    - Sprint Retrospective Meetings
-    - Technical Spike
-    - Technical Debt and Refactoring
-    - Agile Team Space
-    - Information Radiators
-    - Scaling Scrum
-    - Working with distributed teams
-    - Is Agile for us?
-
-# Agile/Scrum - Course 3
-
-- Agile Values & Principles, Scrum Values (2 hours)
-- Scrum Framework – High Level View (30 min)
-- Requirement Management: (3 hrs)
-	- User Story (US)
-	- Product Backlog Creation, Grooming
-	- Requirement Change
-	- Exercise
-- Planning (4 hrs)
-	- Estimation of Complexity vs Efforts
-	- US Estimation Techniques (Planning Poker, Mute Mapping)
-	- Release Planning
-	- Task Estimation
-	- Sprint Planning
-	- Daily Standup (Daily Planning)
-- Development & Testing (1 hr)
-	- How Scrum Team Work as a Unit?
-	- Within Team Interaction
-	- Outside Team Interaction
-	- Product Testing
-	- Definition of Done
-- Governance (3 hrs)
-	- Sprint Review
-	- Sprint Retrospective
-	- Metrics in Agile
-	- Burndown & Burnup charts
-	- Velocity Chart
-	- Risk Burndown Chart
-	- Regulatory Compliances
-	- Sharing progress with Stakeholders
-- Documents in Agile (15 mins)
-	- User Stories
-	- Sprint Backlog
-	- Product Backlog
-	- Other Documents
-- Scrum Roles (1 hr)
-	- Product Owner
-	- Scrum Master
-	- Scrum Team
-- Risk Management (30 mins)
-- Scaling Scrum (1.5 hrs)
-	- Different teams of the same product at same location.
-	- Different teams of the same product at different location, time zone
-	- Different versions of same product for different customer
-- How to Implement Agile in Jira (30 min)
-- Recap (1 hr)
-	
-# Agile/Scrum - Course 4 
+# Agile/Scrum - Course I (3 Days) 
 
 - Introduction to Agile
     - Modern Project Management Challenges
@@ -375,8 +220,162 @@ share: true
     - Risk Response Plan
     - Monitoring & Controlling Risks
     - Understanding Reserves
+
+# Agile/Scrum - Course II (2 Days)
+
+- Introduction to Agile Project Management
+    - What is Agile?
+    - The myths and realities of Agile software development
+    - The Agile Manifesto
+    - How organizational patterns relate to Agile project management
+- Fundamentals of Scrum for Dealing with Uncertainty and Risk
+    - Identifying the roles and their responsibilities
+    - Prioritizing requirements through the Product Owner
+    - Differentiating the Scrum Master from a traditional project manager
+    - Shaping the self-managed development team
+    - Relating to external stakeholders
+    - Managing releases
+    - Iterating development through 30-day cycles
+    - Developing a project vision with Sprints
+    - Time-boxing with Sprints and daily stand-up meetings
+    - Tools for tracking and monitoring a project
+    - Capturing requirements as User Stories
+    - Developing a Product Backlog based on business value
+    - Creating a Sprint Backlog from a list of requirements
+    - Plotting the remaining work with a Burn-down Chart 
+- Planning an Agile Project
+    - Establishing the business reasons for the project
+    - Managing the expectations of sponsors and fund holders
+    - Estimating expected progress
+    - Demonstrating the business value of implemented functionality
+    - Clarifying the business vision
+    - Preparing and prioritizing the product requirements
+    - Establishing the project road map
+    - Eliciting project information from the Product Owner
+    - Identifying features for development in an iteration
+    - Estimating feature size and complexity
+    - Selecting tasks for implementation
+- Fostering Self-Management Within the Development Team
+    - Creating the optimal working environment
+    - Co-locating the development team
+    - Designing the project base room
+    - Protecting the development team from outside interference
+    - Making project progress visible and open
+    - Transitioning to self management
+    - Facilitating team learning to self-organize
+    - Empowering the team to control their own development process
+    - Running iterations
+    - Micro-planning through daily stand ups
+    - Applying the rules for an iteration
+    - Identifying administrative responsibilities of the development team
+    - Measuring a project's velocity
+    - Controlling an iteration and increasing visibility with a Task Board
+- Managing Change
+    - Reviewing the iteration through a Sprint Review
+    - Demonstrating functionality to the customer
+    - Gaining feedback from stakeholders
+    - Re-prioritizing requirements on the basis of experience
+    - Closing the project using a Sprint Retrospective
+    - Reflecting on lessons learned
+    - Disseminating acquired knowledge to the organization
+- Applying Agile Throughout Your Organization
+    - Dealing with the legacy organization
+    - Negotiating the contract between the business and the Agile development team
+    - Establishing the relationship between the Product Owner and multiple customers or stakeholders
+    - The Scrum Master as manager-developer liaison
+    - Scaling for large projects
+    - Scrum roles in the larger context of planning
+    - Collaborating across Agile development teams
+    - Comparing hierarchical and self-organizing styles
+
+
+# Agile/Scrum - Course III (2 Days)
+
+- Day 1
+    - Agile General Knowledge
+    - History of Agile Project Management
+    - Empirical Processes
+    - Agile Manifesto
+    - Agile Principles
+    - Introduction to Various Agile Methods
+    - ScrumBan
+    - Scrum
+    - Five values of Scrum
+    - Sprint
+    - Scrum Roles
+    - Product Owner
+    - Scrum Master
+    - Project Team
+    - Scrum Artifects
+    - User Story
+    - Product Backlog
+    - Definition of Done
+    - Sprint Backlog
+    - Iteration Burndown / Burnup Charts
+    - Release Burndown Chart
+- Day 2
+    - Scrum Meetings
+    - Release Planning Meetings
+    - Sprint Planning Meetings
+    - Daily Standup Meetings
+    - Sprint Review Meetings
+    - Sprint Retrospective Meetings
+    - Technical Spike
+    - Technical Debt and Refactoring
+    - Agile Team Space
+    - Information Radiators
+    - Scaling Scrum
+    - Working with distributed teams
+    - Is Agile for us?
+
+# Agile/Scrum - Course IV (2 Days)
+
+- Agile Values & Principles, Scrum Values (2 hours)
+- Scrum Framework – High Level View (30 min)
+- Requirement Management: (3 hrs)
+	- User Story (US)
+	- Product Backlog Creation, Grooming
+	- Requirement Change
+	- Exercise
+- Planning (4 hrs)
+	- Estimation of Complexity vs Efforts
+	- US Estimation Techniques (Planning Poker, Mute Mapping)
+	- Release Planning
+	- Task Estimation
+	- Sprint Planning
+	- Daily Standup (Daily Planning)
+- Development & Testing (1 hr)
+	- How Scrum Team Work as a Unit?
+	- Within Team Interaction
+	- Outside Team Interaction
+	- Product Testing
+	- Definition of Done
+- Governance (3 hrs)
+	- Sprint Review
+	- Sprint Retrospective
+	- Metrics in Agile
+	- Burndown & Burnup charts
+	- Velocity Chart
+	- Risk Burndown Chart
+	- Regulatory Compliances
+	- Sharing progress with Stakeholders
+- Documents in Agile (15 mins)
+	- User Stories
+	- Sprint Backlog
+	- Product Backlog
+	- Other Documents
+- Scrum Roles (1 hr)
+	- Product Owner
+	- Scrum Master
+	- Scrum Team
+- Risk Management (30 mins)
+- Scaling Scrum (1.5 hrs)
+	- Different teams of the same product at same location.
+	- Different teams of the same product at different location, time zone
+	- Different versions of same product for different customer
+- Recap (1 hr)
 	
-# Agile/Scrum - Course 5 
+# Agile/Scrum - Course V (2 Days) 
 
 - Day 1
     - Introduction & Agenda Setting (20 min)
@@ -411,10 +410,10 @@ share: true
     - Updating Risk Burndown
 
 
-# Agile/Scrum - Course 6 
+# Agile/Scrum - Course VI (2 Days) 
 
 ## Session 1 
-By the end of this session participants will understand what agile culture is, why it is the better way of managing project deliveries. They will be able to understand how different practices are stitched together in Scrum framework. Agile culture does not mean processes but a set of values and principles which drives the individuals to work as team. A culture in which team spirit is encouraged and not individual heroism. |  | 
+By the end of this session participants will understand what agile culture is, why it is the better way of managing project deliveries. They will be able to understand how different practices are stitched together in Scrum framework. Agile culture does not mean processes but a set of values and principles which drives the individuals to work as team. A culture in which team spirit is encouraged and not individual heroism.
 
 Topic | Duration | Mode
 --- | --- | ---
@@ -430,9 +429,9 @@ By the end of this session participants will be able to understand & answer foll
 - What are the different roles of a scrum team? 
 - How to structure an agile team?
 - Why every team cannot be agile team, irrespective of talent available in the team?
-- What are a user stories? What are different types of user stories? What are different aspects of a user story and how to write a good user story? |  | 
-- What is product backlog? How to develop and groom product backlog? Who is responsible for this and when grooming needs to be done? What are the challenges in maintaining a product backlog? |  | 
-- What is estimated in a user story? How to estimate a user story? How to achieve consensus during estimation? Who plays what role during estimation? When estimation need to be done and how much time for estimation? |  | 
+- What are a user stories? What are different types of user stories? What are different aspects of a user story and how to write a good user story?
+- What is product backlog? How to develop and groom product backlog? Who is responsible for this and when grooming needs to be done? What are the challenges in maintaining a product backlog?
+- What is estimated in a user story? How to estimate a user story? How to achieve consensus during estimation? Who plays what role during estimation? When estimation need to be done and how much time for estimation?
 
 Topic | Duration | Mode
 --- | --- | ---
@@ -449,7 +448,7 @@ By the end of this session participants will be able to understand & answer foll
 - How to create a sprint plan? How a sprint plan looks like? Who plays what role in sprint planning? 
 - Product Demo: who should initiate? who should present the product before customer? What should be presented or demoed to customer and what not? How to take feedback? How to take failures in right spirit? How to avoid demo failure? How to avoid sprint failure? How much time for product demo?
 - Sprint Retrospective: What is retrospective? Who should conduct? Who should participate? What are the different ways to make it interesting and participative? What to do with the outcome of retrospective meeting? How to measure success of a sprint?
-- Daily Standup Meeting: When to do? How to conduct? Who should participate? What is the importance? What is bad daily standup meeting? |  | 
+- Daily Standup Meeting: When to do? How to conduct? Who should participate? What is the importance? What is bad daily standup meeting?
 
 Topic | Duration | Mode
 --- | --- | ---
@@ -462,7 +461,7 @@ Retrospective Meeting | 45 | Video Presentation + Discussion + QA + Quiz
  
 ## Session 4 
 By the end of this session participants will be able to understand & answer following
-- How to handle maintenance work, research work and development work of the same customer or same project? |  | 
+- How to handle maintenance work, research work and development work of the same customer or same project?
 - Agile Metrics for different stakeholders: Metrics for Team, Customer, Management. 
 - Agile Metrics: Velocity, Burndown, Burnup
 - Information Radiator, importance of an integrated system
@@ -477,10 +476,10 @@ Break | 10 |
 How to handle Maintenance work, Research work and Development work in Agile Project | 30 | Presentation + Discussion
 Future course of action. Any question | 30 | 
 
-# Approach
+# Delivery Methodology
+- Structured Discussions
+- Role Plays
 - Videos & review lessons learned from movies
 - Question Answers
 - Case Study Exercises
-- Structured Discussions
-- Role Plays
 	

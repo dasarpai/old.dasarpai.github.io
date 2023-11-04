@@ -13,10 +13,7 @@ tags:
   - 'Customized PM Courses'
 
 header:
-  overlay_image: assets/images/post/ai-ml-resources.png
-  overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
-  [//]: # caption: "Import Data Science Blogs"
-  teaser: "/assets/images/ds-resources1.jpg"
+  teaser: /assets/images/pmlogy/pmc506-customized-pm.jpg
 
 author_profile: true
 last_modified_at: 2020-08-07T15:46:43-04:00
@@ -24,6 +21,7 @@ mathjax: "true"
 share: true
 ---
 
+![Customized PM Courses](/assets/images/pmlogy/pmc506-customized-pm.jpg)
 **Customized Project Management Courses**
 
 Apart from the certification courses where the course outline is fixed by the certification bodies, I also conduct need-based training courses for the organizations. Course outlines of these courses are drafted and finalized based on the need of the organization. If you are looking from an organization’s competency-building perspective then it is recommended you go for customized courses.

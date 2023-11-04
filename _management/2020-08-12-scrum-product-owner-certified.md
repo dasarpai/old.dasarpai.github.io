@@ -13,16 +13,15 @@ tags:
   - 'Scrum Master Certified'
 
 header:
-  overlay_image: assets/images/post/ai-ml-resources.png
-  overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
-  [//]: # caption: "Import Data Science Blogs"
-  teaser: "/assets/images/ds-resources1.jpg"
+  teaser: /assets/images/pmlogy/pmc510-scrumstudy-product-owner-certified.jpg
 
 author_profile: true
 last_modified_at: 2020-08-10T15:46:43-04:00
 mathjax: "true"
 share: true
 ---
+
+![Scrumstudy Product Owner Certified](/assets/images/pmlogy/pmc510-scrumstudy-product-owner-certified.jpg)
 
 **Scrum Product Owner Certified (SPOC®)**
 

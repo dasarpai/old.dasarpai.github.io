@@ -13,16 +13,15 @@ tags:
   - 'ScrumStudy Certification'
 
 header:
-  overlay_image: assets/images/post/ai-ml-resources.png
-  overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
-  [//]: # caption: "Import Data Science Blogs"
-  teaser: "/assets/images/ds-resources1.jpg"
+  teaser: /assets/images/pmlogy/pmc507-intro-to-scrumstudy.jpg
 
 author_profile: true
 last_modified_at: 2020-08-09T15:46:43-04:00
 mathjax: "true"
 share: true
 ---
+
+![Intro To Scrumstudy](/assets/images/pmlogy/pmc507-intro-to-scrumstudy.jpg)
 
 **Introduction to ScrumStudy Courses**
 
