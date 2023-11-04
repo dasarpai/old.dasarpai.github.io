@@ -333,6 +333,223 @@ carousels:
     - image: /assets/images/online_sessions/2022-10-29 14_26_12-OpenBoard.png
     - image: /assets/images/online_sessions/2022-10-29 16_32_37-Meet - rir-yhao-oww.png
     - image: /assets/images/online_sessions/2022-10-29 19_05_08-Meet - kec-vwwv-hqp.png
+  - images: 
+    - image: /assets/images/online_sessions/22022-10-30 14_10_14-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-10-30 16_43_46-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-10-31 13_45_30-Zoom Meeting - Copy.png
+    - image: /assets/images/online_sessions/22022-10-31 16_58_14-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-10-31 18_30_48-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-11-01 10_02_28-Zoom Meeting - Copy.png
+    - image: /assets/images/online_sessions/22022-11-01 11_37_41-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-11-01 16_52_24-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-11-01 18_49_54-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-11-02 11_58_28-Zoom Meeting - Copy.png
+  - images: 
+    - image: /assets/images/online_sessions/22022-11-05 11_27_12-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-11-05 16_38_32-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-11-05 17_50_51-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-11-05 19_09_30-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-11-06 11_31_56-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-11-06 11_32_12-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-11-06 13_58_32-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-11-06 16_42_09-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-11-06 17_30_47-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-11-06 18_52_00-LiveSession - upGrad - Copy.png
+  - images: 
+    - image: /assets/images/online_sessions/22022-11-06 19_00_21-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-11-12 11_35_35-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-11-12 11_36_45-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-11-12 16_31_35-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-11-12 19_29_00-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-11-12 19_29_10-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-11-13 11_32_34-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-11-13 14_05_39-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-11-13 14_07_45-OpenBoard.png
+    - image: /assets/images/online_sessions/22022-11-13 16_32_08-OpenBoard.png
+  - images: 
+    - image: /assets/images/online_sessions/22022-11-13 17_35_31-LiveSession - upGrad.png
+    - image: /assets/images/online_sessions/22022-11-13 19_00_17-LiveSession - upGrad.png
+    - image: /assets/images/online_sessions/22022-11-13 19_00_38-LiveSession - upGrad.png
+    - image: /assets/images/online_sessions/22022-11-19 17_37_14-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-11-19 19_27_16-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-11-19 19_28_47-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-11-20 11_16_29-LiveSession - upGrad.png
+    - image: /assets/images/online_sessions/22022-11-20 16_26_15-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-11-20 19_11_08-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-11-20 19_13_04-OpenBoard - Copy.png
+  - images: 
+    - image: /assets/images/online_sessions/22022-11-26 11_45_03-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-11-26 15_39_10-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-11-26 16_25_47-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-11-26 16_36_45-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-11-26 18_53_34-Meet - ywh-ruiy-hwd - Copy.png
+    - image: /assets/images/online_sessions/22022-11-26 19_11_07-Meet - ywh-ruiy-hwd - Copy.png
+    - image: /assets/images/online_sessions/22022-11-27 11_37_08-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-11-27 11_37_26-Meet - era-ofsm-faf - Copy.png
+    - image: /assets/images/online_sessions/22022-11-27 16_37_12-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-11-27 16_37_27-LiveSession - upGrad - Copy.png
+  - images: 
+    - image: /assets/images/online_sessions/22022-11-27 19_14_19-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-11-27 19_15_07-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-12-03 14_10_01-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-12-03 14_10_08-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-12-03 14_14_00-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22022-12-03 18_59_47-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-12-03 19_00_16-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-12-04 11_28_02-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-12-04 11_39_47-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-12-04 13_57_40-LiveSession - upGrad - Copy.png
+  - images: 
+    - image: /assets/images/online_sessions/22022-12-04 13_58_27-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-12-04 16_09_56-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-12-04 17_35_09-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-12-04 19_00_33-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-12-04 19_08_08-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-12-10 11_27_28-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-12-11 11_34_16-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-12-18 14_09_28-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-12-24 13_39_04-Settings - Copy.png
+    - image: /assets/images/online_sessions/22022-12-24 19_36_15-LiveSession - upGrad - Copy.png
+  - images: 
+    - image: /assets/images/online_sessions/22022-12-24 19_37_07-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-12-25 11_32_28-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-12-25 15_24_43-LiveSession - upGrad.png
+    - image: /assets/images/online_sessions/22022-12-25 19_01_48-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22022-12-31 11_05_46-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-01-07 14_03_46-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-07 16_34_17-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-07 19_31_04-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-08 11_22_11-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-08 14_06_01-LiveSession - upGrad.jpg
+  - images: 
+    - image: /assets/images/online_sessions/22023-01-08 14_06_25-LiveSession - upGrad.jpg
+    - image: /assets/images/online_sessions/22023-01-08 16_33_45-OpenBoard.jpg
+    - image: /assets/images/online_sessions/22023-01-08 18_56_49-LiveSession - upGrad.jpg
+    - image: /assets/images/online_sessions/22023-01-08 18_56_56-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-14 19_14_52-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-14 19_15_01-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-15 11_36_41-OpenBoard - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-15 11_36_51-OpenBoard - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-15 12_44_07-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-15 16_40_13-LiveSession - upGrad - Copy.jpg
+  - images: 
+    - image: /assets/images/online_sessions/22023-01-15 16_41_00-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-15 19_07_52-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-21 16_28_55-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-21 18_59_46-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-22 18_50_06-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-28 14_16_59-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-28 14_20_26-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-28 19_26_01-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-29 11_36_32-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-29 14_05_48-LiveSession - upGrad - Copy.jpg
+  - images: 
+    - image: /assets/images/online_sessions/22023-01-29 16_30_41-OpenBoard - Copy.jpg
+    - image: /assets/images/online_sessions/22023-01-29 19_16_40-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-04 12_09_34-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-04 16_42_39-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-04 19_20_55-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-05 12_35_38-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-05 13_47_39-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-05 18_56_19-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-11 14_22_07-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-11 19_21_03-LiveSession - upGrad - Copy.jpg
+  - images: 
+    - image: /assets/images/online_sessions/22023-02-12 11_31_18-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-12 14_03_44-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-12 14_09_34-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-12 16_32_27-OpenBoard - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-12 16_49_30-OpenBoard - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-12 19_07_22-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-12 19_08_04-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-12 19_08_19-LiveSession - upGrad - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-18 19_04_57-LiveSession - upGrad - Brave - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-19 12_40_16-LiveSession - upGrad - Brave - Copy.jpg
+  - images: 
+    - image: /assets/images/online_sessions/22023-02-19 14_40_01-OpenBoard.jpg
+    - image: /assets/images/online_sessions/22023-02-19 16_33_53-OpenBoard - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-19 19_11_10-LiveSession - upGrad - Brave - Copy.jpg
+    - image: /assets/images/online_sessions/22023-02-25 14_09_18-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-02-25 17_48_41-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-02-25 19_02_58-Greenshot - Copy.png
+    - image: /assets/images/online_sessions/22023-02-26 11_36_17-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22023-03-04 10_05_34-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-03-04 16_38_47-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-03-04 19_04_26-LiveSession - upGrad - Copy.png
+  - images: 
+    - image: /assets/images/online_sessions/22023-03-05 11_32_21-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22023-03-05 12_31_16-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22023-03-05 14_38_53-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-03-05 16_39_57-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-03-11 14_22_17-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-03-11 19_04_17-Meet - jum-ugrn-iqg - Copy.png
+    - image: /assets/images/online_sessions/22023-03-12 14_18_18-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-03-12 16_37_21-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-03-12 19_03_48-LiveSession - upGrad - Copy.png
+  - images: 
+    - image: /assets/images/online_sessions/22023-03-18 17_01_33-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-03-18 19_23_52-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-03-19 11_42_40-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-03-19 15_48_21-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-03-19 19_21_48-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-03-25 11_37_37-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-03-25 16_44_31-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-03-26 11_31_44-Meet - ouy-esgx-pnt - Copy.png
+    - image: /assets/images/online_sessions/22023-03-26 14_06_00-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-03-26 16_40_31-LiveSession - upGrad - Copy.png
+  - images: 
+    - image: /assets/images/online_sessions/22023-03-26 19_07_26-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-01 12_36_05-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-01 13_40_17-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-01 14_08_25-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-01 16_40_16-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-01 17_38_25-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-02 10_53_45-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-02 11_42_42-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-02 14_11_01-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-02 16_37_46-LiveSession - upGrad - Copy.png
+  - images: 
+    - image: /assets/images/online_sessions/22023-04-08 16_42_31-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-09 11_27_38-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-09 19_14_34-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-15 12_38_11-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-15 16_38_39-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-15 19_04_58-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-16 11_47_42-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-16 14_17_03-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-16 16_32_10-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-22 14_43_40-LiveSession - upGrad - Copy.png
+  - images: 
+    - image: /assets/images/online_sessions/22023-04-22 16_40_59-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-22 19_49_30-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-22 19_50_13-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-23 16_38_36-Meet - qvu-gjwx-nyy - Copy.png
+    - image: /assets/images/online_sessions/22023-04-23 19_21_38-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-04-29 14_09_40-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-05-06 16_42_00-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-05-07 11_41_21-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22023-05-07 11_41_28-OpenBoard - Copy.png
+    - image: /assets/images/online_sessions/22023-05-07 11_41_51-OpenBoard - Copy.png
+  - images: 
+    - image: /assets/images/online_sessions/22023-05-07 16_31_25-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-05-07 16_31_25-LiveSession - upGrad.png
+    - image: /assets/images/online_sessions/22023-05-07 19_08_18-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-05-13 13_48_37-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-05-13 13_48_53-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-05-13 16_44_44-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-05-14 12_49_28-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-05-21 14_10_55-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-05-21 16_19_05-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-05-21 18_58_19-LiveSession - upGrad - Copy.png
+  - images: 
+    - image: /assets/images/online_sessions/22023-06-03 16_32_56-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-06-04 16_07_16-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-06-10 14_00_14-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-06-10 16_24_24-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-06-17 12_26_30-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-06-17 13_55_54-(2) HariAI-Coach - (9639) - Copy.png
+    - image: /assets/images/online_sessions/22023-06-17 16_27_57-LiveSession - upGrad - Copy.png
+    - image: /assets/images/online_sessions/22023-06-24 14_11_18-LiveSession - upGrad - Copy.png
 ---    
 
 
