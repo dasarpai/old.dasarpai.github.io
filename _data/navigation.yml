@@ -10,13 +10,13 @@ main:
   - title: "Spiritual Drop"
     url: "/wia-blog"
   - title: "Samskrut"
-    url: /samskrutyatra-blog
+    url: "/samskrutyatra-blog"
   - title: "DS Resources"
     url: "/datascience-resources"
   - title: "Gallery"
     url: "/gallery"     
   - title: "About"
-    url: /aboutme
+    url: "/aboutme"
 
     
 # sidebar navigation for PMLOGY
@@ -27,6 +27,10 @@ docs:
         url: "/aboutme"
       - title: "My Work & Courses"
         url: "/services"         
+      - title: "Management Courses"
+        url: "/management"
+      - title: "Data Science Courses"
+        url: "/datascience-courses"
       - title: "Clients"
         url: "/clients"
       - title: "Testimonial"
@@ -38,7 +42,7 @@ docs:
       - title: "DS Resources"
         url: "/datascience-resources"       
       - title: "Data Science-Books"
-        url: dsresources/ds-ai-ml-books
+        url: "dsresources/ds-ai-ml-books"
       - title: "Data Science Cheatsheets"
         url: "/dsresources/data-science-cheatsheets"   
       - title: "Video Channels to Learn DS"
@@ -88,7 +92,7 @@ docs:
       - title: "WIA Topics"
         url: "/wia-tags" 
       - title: "WIA Quotes"
-        url: /quotations-blog    
+        url: "/quotations-blog"    
       - title: "GK Blog"
         url: "/gk-blog"        
       - title: "GK Topic"
@@ -96,17 +100,17 @@ docs:
   - title: "Gallery"
     children:
       - title: "Online AI, DS, ML Training"
-        url: /slider-online-training
+        url: "/slider-online-training"
       - title: "PM Training Select Photos"
-        url: /slider-pm-workshops
+        url: "/slider-pm-workshops"
       - title: "Online Conference"
-        url: /slider-online-conferences
+        url: "/slider-online-conferences"
   - title: "Samskrut Yatra"
     children:
       - title: "SamskrutYatra Home"
-        url: /samskrutyatra-home 
+        url: "/samskrutyatra-home" 
       - title: "Samskrut Blog"
-        url: /samskrutyatra-blog      
+        url: "/samskrutyatra-blog"      
       - title: "Samskrut Topics"
         url: "samskrutyatra-tags"    
       - title: "SamskrutYatra YouTube"
