@@ -3,7 +3,7 @@ id: 741
 title: Project Management Courses
 layout: collection
 permalink: /pm-courses
-collection: pmcourses
+collection: management
 entries_layout: grid
 author_profile: false
 classes: wide
@@ -14,7 +14,6 @@ sidebar:
    nav: "docs"
 ---
 
-![PM Courses](/assets/images/dspost/common/pm-courses.jpg)
 
 # MANAGEMENT COURSES
 

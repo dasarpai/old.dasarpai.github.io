@@ -605,9 +605,6 @@ collections:
     output: true
     permalink: /:categories/:title/
  
-  pmcourses:
-    output: true
-    permalink: /:categories/:title/
   pmblog:
     output: true
     permalink: /:categories/:title/
