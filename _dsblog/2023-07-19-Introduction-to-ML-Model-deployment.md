@@ -1,14 +1,14 @@
 ---
 mathjax: true
 id: 6077
-title: Introduction to ML Model Deployement
+title: Introduction to ML Model Deployment
 date: 2023-07-19
-permalink: '/dsblog/Introduction-to-ML-Model-Deployement'
+permalink: '/dsblog/Introduction-to-ML-Model-deployment'
 tags: [MLOps, AI Deployment, Model Deployment] 
 categories: 
 
 header:
-    teaser: /assets/images/dspost/dsp6077-Introduction-to-ML-Model-Deployement.jpg
+    teaser: /assets/images/dspost/dsp6077-Introduction-to-ML-Model-deployment.jpg
 excerpt_separator: "<!--more-->"  
 excerpt:  
 layout: single  
@@ -17,9 +17,9 @@ toc: true
 toc_sticky: true
 ---
 
-![Introduction to AI Model Deployement](/assets/images/dspost/dsp6077-Introduction-to-ML-Model-Deployement.jpg)  
+![Introduction to AI Model Deployement](/assets/images/dspost/dsp6077-Introduction-to-ML-Model-deployment.jpg)  
 
-# Introduction to AI Model Deployement
+# Introduction to AI Model deployment
 
 ## Big Players
 - Amazon

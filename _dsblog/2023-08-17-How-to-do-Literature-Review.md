@@ -3,7 +3,7 @@ mathjax: true
 id: 6086
 title: How to do Literature Review
 date: 2023-08-17
-permalink: '/dsblog/How-To-Do-Litrature-Review'
+permalink: '/dsblog/How-To-Do-Literature-Review'
 tags: [Literature Review, Research Paper]
 categories:
 
@@ -19,7 +19,7 @@ toc_sticky: true
 ---
 
 
-![How to do Literature Review]( /assets/images/dspost/dsp6086-How-To-Do-Litrature-Review.jpg)
+![How to do Literature Review]( /assets/images/dspost/dsp6086-How-To-Do-Literature-Review.jpg)
 
 
 # How to Conduct Literature Review?
