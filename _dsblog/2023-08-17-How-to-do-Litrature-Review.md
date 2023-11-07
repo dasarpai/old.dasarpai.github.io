@@ -117,5 +117,5 @@ All these numbers of pages are without appendices and references.
 
 
 ## Resource
-You can use [this template](https://docs.google.com/spreadsheets/d/1aAHzei8OYRS4rCaW44j9g8ewEeIGXrkAI6HQ4oiCw8o/edit?usp=sharing) for your Literature Review work.
+You can use [this Literature-Review-Template ](https://docs.google.com/spreadsheets/d/1aAHzei8OYRS4rCaW44j9g8ewEeIGXrkAI6HQ4oiCw8o/edit?usp=sharing) for your Literature Review work. [Download Template](/assets/docs/Literature-Review-Template.xlsx).
 
