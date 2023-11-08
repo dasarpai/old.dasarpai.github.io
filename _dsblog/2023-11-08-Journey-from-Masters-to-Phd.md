@@ -2,7 +2,7 @@
 mathjax: true
 id: 6100
 title: My Journey from Master to PhD in Data Science and AI
-date: 2023-09-03
+date: 2023-11-08
 permalink: /dsblog/journey-from-master-to-phd
 tags: [Learning AI, Learning ML, Learning Process, PhD in AI, Question Answering with History Book]
 categories:
