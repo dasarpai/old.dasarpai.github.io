@@ -9,7 +9,7 @@ categories:
 
 
 header:
-    teaser: /assets/images/dspost/dsp6086-How-To-Do-Litrature-Review.jpg
+    teaser: /assets/images/dspost/dsp6086-How-To-Do-Literature-Review.jpg
 excerpt_separator: "<!--more-->"  
 excerpt:  
 layout: single  
@@ -19,7 +19,7 @@ toc_sticky: true
 ---
 
 
-![How to do Literature Review]( /assets/images/dspost/dsp6086-How-To-Do-Literature-Review.jpg)
+![How to do Literature Review](/assets/images/dspost/dsp6086-How-To-Do-Literature-Review.jpg)
 
 
 # How to Conduct Literature Review?

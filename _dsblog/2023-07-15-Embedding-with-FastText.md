@@ -50,7 +50,7 @@ FastText is primarily designed for generating word embeddings, but it can also b
 	- Tokenize the text into sentences or chapters, depending on the granularity you want for the embeddings.
 	- Clean and preprocess the sentences or chapters by removing punctuation, stop words, and performing any other necessary text normalization steps.
 - Load the FastText model:
-	- You can either train your own FastText model on a large corpus or download a pre-trained FastText model. Pre-trained FastText models are available for various languages on the official FastText website (https://fasttext.cc/docs/en/crawl-vectors.html).
+	- You can either train your own FastText model on a large corpus or download a pre-trained FastText model. Pre-trained FastText models are available for various languages on the official [FastText website](https://fasttext.cc/docs/en/crawl-vectors.html).
 	- Generate sentence or chapter embeddings:
 - Iterate through each sentence or chapter and tokenize it into words.
 	- For each word, retrieve its corresponding word embedding from the FastText model.
@@ -108,7 +108,7 @@ There are several advanced techniques for generating sentence embeddings that of
 ### Universal Sentence Encoder (USE):
 
 The Universal Sentence Encoder, developed by Google, is a widely used model for generating sentence embeddings. It is based on a transformer architecture and is trained on a large amount of data for various NLP tasks.
-You can use the pre-trained models available in the TensorFlow Hub (https://tfhub.dev/google/universal-sentence-encoder) and easily generate high-quality sentence embeddings using the encoder.
+You can use the pre-trained models available in the [TensorFlow Hub](https://tfhub.dev/google/universal-sentence-encoder) and easily generate high-quality sentence embeddings using the encoder.
 
 ### BERT-based models:
 
@@ -145,7 +145,7 @@ Here's a general outline of the steps:
 	-  Clean and preprocess the text, removing any unwanted characters or symbols.
 	- Tokenize the text into sentences or paragraphs.
 - Load the multilingual language model:
-	- You can use the Hugging Face Transformers library (https://huggingface.co/transformers/) to load and work with mBERT or XLM-R.
+	- You can use the [Hugging Face Transformers library](https://huggingface.co/transformers/) to load and work with mBERT or XLM-R.
 - Generate word or sentence embeddings:
 	- For each sentence or paragraph, pass it through the model to obtain word or sentence embeddings.
 	- You can choose to use the final hidden states or pool them in a specific way, depending on your requirements.
