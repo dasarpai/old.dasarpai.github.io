@@ -160,45 +160,46 @@ TF-IDF - Term Frequency - Inverse Document Frequency, is an old, traditional, fr
 - Inverse document frequency (IDF): The logarithm of the number of documents in the collection divided by the number of documents that contain the word.
 - The TF-IDF score for a word in a document is calculated as follows:
 - TF-IDF = TF * IDF (The higher the TF-IDF score, the more important the word is to the document.)
-```algo
-Document 1: "The quick brown fox jumps over the lazy dog."
-Document 2: "The dog is lazy, but the fox is quick."
+
+```python
+Document_1: "The quick brown fox jumps over the lazy dog."
+Document_2: "The dog is lazy, but the fox is quick."
 
 # Term frequency for the word "quick" in Document 1
-TF(quick, Document 1) = 1
+TF(quick, Document_1) = 1
 
 # Inverse document frequency for the word "quick"
 IDF(quick) = log(2 / 1) = 0
 
 # TF-IDF score for the word "quick" in Document 1
-TF-IDF(quick, Document 1) = TF(quick, Document 1) * IDF(quick) = 1 * 0 = 0
+TF-IDF(quick, Document_1) = TF(quick, Document_1) * IDF(quick) = 1 * 0 = 0
 
 # Term frequency for the word "quick" in Document 2
-TF(quick, Document 2) = 1
+TF(quick, Document_2) = 1
 
 # Inverse document frequency for the word "quick"
 IDF(quick) = log(2 / 1) = 0
 
 # TF-IDF score for the word "quick" in Document 2
-TF-IDF(quick, Document 2) = TF(quick, Document 2) * IDF(quick) = 1 * 0 = 0
+TF-IDF(quick, Document_2) = TF(quick, Document_2) * IDF(quick) = 1 * 0 = 0
 
 # Term frequency for the word "lazy" in Document 1
-TF(lazy, Document 1) = 1
+TF(lazy, Document_1) = 1
 
 # Inverse document frequency for the word "lazy"
 IDF(lazy) = log(2 / 1) = 0
 
 # TF-IDF score for the word "lazy" in Document 1
-TF-IDF(lazy, Document 1) = TF(lazy, Document 1) * IDF(lazy) = 1 * 0 = 0
+TF-IDF(lazy, Document_1) = TF(lazy, Document_1) * IDF(lazy) = 1 * 0 = 0
 
 # Term frequency for the word "lazy" in Document 2
-TF(lazy, Document 2) = 1
+TF(lazy, Document_2) = 1
 
 # Inverse document frequency for the word "lazy"
 IDF(lazy) = log(2 / 1) = 0
 
 # TF-IDF score for the word "lazy" in Document 2
-TF-IDF(lazy, Document 2) = TF(lazy, Document 2) * IDF(lazy) = 1 * 0 = 0
+TF-IDF(lazy, Document_2) = TF(lazy, Document_2) * IDF(lazy) = 1 * 0 = 0
 ```
 
 
