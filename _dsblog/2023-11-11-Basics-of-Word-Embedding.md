@@ -84,7 +84,7 @@ Create a neural network for learning embedding.
 - One dense layer of 5 neuron (example)
 - Softmax function
 - Output layer (to predict the probability of the predicted word. If vocabulary size of the corpus is 10,000 words, then softmax will predict 10,000 probabilities)
-- Loss function - Cross entropy loss function. L = $-  \sum_{i=1}^{N} y_{i} \cdot \log(p_{i})$, N is vocab size.
+- Loss function - Cross entropy loss function. L = $$-  \sum_{i=1}^{N} y_{i} \cdot \log(p_{i})$$, N is vocab size.
 - 4 numbers from embedding will go to each of the 5 neuron, Each neuron will have 4 weights to embedding layer. 5*4 = 20 weights are learned + 5 biases learned
 - Learning Rate LR = .0002
 
