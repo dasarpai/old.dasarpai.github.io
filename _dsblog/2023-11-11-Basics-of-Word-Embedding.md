@@ -100,7 +100,7 @@ Input layer | Embedding layer | Hidden layer (5 neuron, random init w\&b), dense
 |  | n3=[.21..22,.23,.24] | 0.1177 | 0.1966 | 0 | 0.0951
 |  | n4=[.32,.33,.34,.35] | 0.1749 | 0.2082 | 0 | 0.1014
 |  | n5=[.42,.43,.45,.46] | 0.2298 | 0.2199 | 0 | 0.1079
-|  |  |  |  |  | Step 10
+|  |  |  |  |  | **Step 10**
 |  |  |  |  | Total Loss | 1.1185
 
 ### Training - backward propagation (Step 11+12)
@@ -115,7 +115,7 @@ Updating weights of network neurons
  | dL/dw5 | 2.66 | 2.60 | 2.43 | 2.43
 
 
-Step 12 New Weights | 1 | 2 | 3 | 4
+Step 12 Updated Weights | 1 | 2 | 3 | 4
 --- | --- | --- | --- | ---
 new w1 | 0.11 | 0.12 | 0.13 | 0.14
 new w2 | 0.13 | 0.14 | 0.15 | 0.16
@@ -127,7 +127,7 @@ new weight = old weight - Learning Rate * DL/dW
 
 ### Update Embedding (Step 13+14 )
 
-Old Vector | 1 | 2 | 3 | 4
+Old Embedding (Vector) | 1 | 2 | 3 | 4
 --- | --- | --- | --- | ---
 context (The)  = [.11,.12,.14,.15] | 0.110 | 0.120 | 0.140 | 0.150
 target (quick) = [.21,.23,.24,.26] | 0.210 | 0.230 | 0.240 | 0.260
@@ -137,7 +137,7 @@ Step 13 (Gradient of Old Embedding) |  |  |  |
 dL/context | 10.17 | 9.32 | 7.99 | 7.46
 dL/target | 5.33 | 4.86 | 4.66 | 4.30
 
-Step 14 (New Embedding) |  |  |  | 
+Step 14 (Updated Embedding) |  |  |  | 
 --- |---  | --- | --- | 
 context (The) | 0.108 | 0.118 | 0.138 | 0.149
 target (quick) | 0.209 | 0.229 | 0.239 | 0.259
@@ -150,5 +150,174 @@ target (quick) | 0.209 | 0.229 | 0.239 | 0.259
 - Let embedding get updated over multiple epoch say 50 or 100. More epoch, will cause better embedding. It will cost more money.
 - More dimentional vector will have better represenation but will cost more computation and more money.
 
+## Other Methods of Embedding
+
+### TF-IDF
+TF-IDF - Term Frequency - Inverse Document Frequency, is an old, traditional, frequency based text embedding technique. It is not based on neural network architecture therefore does not need expensive hardware to create these embedding and use TF-IDF embedding. Like skipgram or CBOW it is not vector based but frequency based, therefore understandign symantic of the text is not possible with TF-IDF. There is no use of pretrained embedding, everytime we have a corpus we need to create embedding for that and it is used only for that. We cannot use TF-IDF embedding, which was created using news text for something else, say history or enterainment. Thus, embedding transfer is meaninless but task transfer can be done. It means TF-IDF embedding which is used for classficittion purpose can be used for other task like topic modelling, sentiment analysis etc. Obviously there is a limit, we cannot use it for other task like translation or summarization.
+
+#### How TF-IDF works?
+- Term frequency (TF): The number of times a word appears in a document.
+- Inverse document frequency (IDF): The logarithm of the number of documents in the collection divided by the number of documents that contain the word.
+- The TF-IDF score for a word in a document is calculated as follows:
+- TF-IDF = TF * IDF (The higher the TF-IDF score, the more important the word is to the document.)
+```algo
+Document 1: "The quick brown fox jumps over the lazy dog."
+Document 2: "The dog is lazy, but the fox is quick."
+
+# Term frequency for the word "quick" in Document 1
+TF(quick, Document 1) = 1
+
+# Inverse document frequency for the word "quick"
+IDF(quick) = log(2 / 1) = 0
+
+# TF-IDF score for the word "quick" in Document 1
+TF-IDF(quick, Document 1) = TF(quick, Document 1) * IDF(quick) = 1 * 0 = 0
+
+# Term frequency for the word "quick" in Document 2
+TF(quick, Document 2) = 1
+
+# Inverse document frequency for the word "quick"
+IDF(quick) = log(2 / 1) = 0
+
+# TF-IDF score for the word "quick" in Document 2
+TF-IDF(quick, Document 2) = TF(quick, Document 2) * IDF(quick) = 1 * 0 = 0
+
+# Term frequency for the word "lazy" in Document 1
+TF(lazy, Document 1) = 1
+
+# Inverse document frequency for the word "lazy"
+IDF(lazy) = log(2 / 1) = 0
+
+# TF-IDF score for the word "lazy" in Document 1
+TF-IDF(lazy, Document 1) = TF(lazy, Document 1) * IDF(lazy) = 1 * 0 = 0
+
+# Term frequency for the word "lazy" in Document 2
+TF(lazy, Document 2) = 1
+
+# Inverse document frequency for the word "lazy"
+IDF(lazy) = log(2 / 1) = 0
+
+# TF-IDF score for the word "lazy" in Document 2
+TF-IDF(lazy, Document 2) = TF(lazy, Document 2) * IDF(lazy) = 1 * 0 = 0
+```
+
+
+### GloVe (Global Vectors) 
+GloVe is a method that learns word embeddings from global word-word co-occurrence statistics. It is similar to Skipgram and CBOW, but it is better at capturing long-range semantic relationships between words. GloVe embedding is good for text classification, and machine translation (MT).
+
+#### How GloVe embedding works?
+- Tokenize the corpus: Split the corpus into individual words and punctuation marks.
+- Count word co-occurrences: For each word in the vocabulary, count how many times it co-occurs with other words in a given window size.
+- Build a word-word co-occurrence matrix: The word-word co-occurrence matrix is a square matrix, where each row and column represents a word in the vocabulary. The value at each cell in the matrix represents the number of times the two corresponding words co-occur in the corpus.
+- Factorize the word-word co-occurrence matrix: Factorize the word-word co-occurrence matrix into two lower-dimensional matrices, one for **word embeddings** (relationship between words) and one for **context embeddings** (relationship between words in the context). We can factorize the word-word co-occurrence matrix using a variety of matrix factorization techniques, such as singular value decomposition (SVD) or nonnegative matrix factorization (NMF).
+- Normalize the word embeddings: Normalize the word embeddings so that they have a unit length. We can normalize the word embeddings by dividing each embedding by its L2 norm. This will ensure that all of the embeddings have a unit length.
+
+```python
+import numpy as np
+from gensim.models import KeyedVectors
+
+# Load the corpus
+corpus = open("corpus.txt", "r").read()
+
+# Tokenize the corpus
+tokens = corpus.split()
+
+# Count word co-occurrences
+word_co_occurrences = np.zeros((len(tokens), len(tokens)))
+for i in range(len(tokens)):
+    for j in range(len(tokens)):
+        if tokens[i] != tokens[j]:
+            word_co_occurrences[i, j] = tokens.count(tokens[i] + " " + tokens[j])
+
+# Factorize the word-word co-occurrence matrix
+glove_model = KeyedVectors(word_vectors=word_co_occurrences, size=100)
+
+# Save the word embeddings
+glove_model.save("glove_embeddings.txt")
+
+```
+
+How SVD (Singular Value Decomposition) works?
+
+```python
+import numpy as np
+
+# Create a word-word co-occurrence matrix
+word_co_occurrences = np.array([
+    [1, 2, 3],
+    [2, 1, 4],
+    [3, 4, 1]
+])
+
+# Perform SVD
+U, S, Vh = np.linalg.svd(word_co_occurrences)
+
+# Truncate the singular values
+S_truncated = S[:2]
+
+# Reconstruct the word-word co-occurrence matrix
+word_co_occurrences_reconstructed = np.dot(U[:, :2], np.dot(S_truncated, Vh[:, :2]))
+
+# Print the reconstructed word-word co-occurrence matrix
+print(word_co_occurrences_reconstructed)
+
+# Results
+[[-0.50578521 -0.25523155]
+ [-0.58437383 -0.60130182]
+ [-0.63457746  0.75716113]]
+[[-0.50578521 -0.58437383]
+ [ 0.25523155  0.60130182]
+ [ 0.82403773 -0.54492509]]
+```
+
+### BERT (Bidirectional Encoder Representations from Transformers)
+BERT is a transformer-based language model that can learn word embeddings from unlabeled text, we need not to create skipgram pairs. BERT embeddings are particularly good at capturing **contextual information**. BERT embedding is good for MT, QA, Classification tasks.
+
+#### How BERT does embedding?
+- Tokenization: The first step is to tokenize the sentence into words. This means splitting the sentence into individual words, including punctuation marks. The tokenized sentence is then represented as a sequence of integers (we create ids), where each integer represents a word in the vocabulary.
+- Word embedding lookup: BERT uses a pre-trained word embedding table to convert each word in the sequence into a vector of numbers. This vector represents the meaning of the word in a distributed manner.
+- Segment embedding lookup: BERT also uses a segment embedding table to encode the position of each word in the sentence. This is necessary because BERT is a bidirectional language model, and it needs to know the context of each word in order to learn meaningful embeddings.
+- Positional embedding lookup: BERT also uses a positional embedding table to encode the absolute position of each word in the sentence. This is necessary because BERT needs to know the order of the words in the sentence in order to learn meaningful embeddings.
+- Transformer encoding: The encoded sequence of word embeddings, segment embeddings, and positional embeddings is then passed to the transformer encoder. The transformer encoder is a neural network architecture that learns long-range dependencies between words in a sentence.
+- Output embedding: The output of the transformer encoder is a sequence of vectors, where each vector represents the embedding of the corresponding word in the sentence. These embeddings are then used for downstream natural language processing tasks, such as machine translation, text classification, and question answering.
+
+```python 
+# Tokenize the sentence
+sentence = "The quick brown fox jump over the lazy fox"
+tokens = sentence.split()
+
+# Convert each word to a word embedding vector
+word_embeddings = []
+for token in tokens:
+    word_embeddings.append(bert_model.get_word_embedding(token))
+
+# Create segment embeddings
+segment_embeddings = []
+for i in range(len(tokens)):
+    if i < len(tokens) // 2:
+        segment_embeddings.append(bert_model.get_segment_embedding(0))
+    else:
+        segment_embeddings.append(bert_model.get_segment_embedding(1))
+
+# Create positional embeddings
+positional_embeddings = []
+for i in range(len(tokens)):
+    positional_embeddings.append(bert_model.get_positional_embedding(i))
+
+# Encode the sentence
+encoded_sentence = bert_model.encode(word_embeddings, segment_embeddings, positional_embeddings)
+
+# Output embeddings
+output_embeddings = encoded_sentence
+```
+
+### FastText (Fast Text)
+FastText is a modification of Skipgram that can learn embeddings for words and subwords. This makes it better at representing rare words and out-of-vocabulary words. FastText is good for name-entity-recognition (NER) & Question Answering (QA) tasks.
+
+### ELMo (Embeddings from Language Models)
+
+ELMo (Embeddings from Language Models) is a deep contextual word embedding technique that uses a bidirectional language model (biLM) to learn word representations. A biLM is a type of neural network that can learn to predict the next word in a sentence, as well as the previous word. Unlike skipgram, which predicts next words, biLM is bidirectional. From a target word biLM can predict next and previous words.
+
+
 # Resources
-If you want to understand all these caluclation with excel and then you can use this [calucation sheet](https://docs.google.com/spreadsheets/d/1eU4EVtUzD1w_ILcpJVTc6oK2KH9vEDK7OuXFtyv1_gU/edit?usp=sharing)
+If you want to understand all skipgram/cbow caluclation with excel and then you can use this [calucation sheet](https://docs.google.com/spreadsheets/d/1eU4EVtUzD1w_ILcpJVTc6oK2KH9vEDK7OuXFtyv1_gU/edit?usp=sharing)
