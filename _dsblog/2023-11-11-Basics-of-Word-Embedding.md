@@ -58,12 +58,12 @@ CBOW : **With the help of context** we want to predict target. From above exampl
 
 For both, CBOW and Skipgram networks works in the same way as mentioned below. Only difference is when we are using CBOW we want to predict target word from context word. If you are using Skipgram then we want to predict context word from a target word. 
 
-### Step 0 : Finalize the corpus
+### Finalize the corpus (Step 1)
 In reality corpus is extremely huge size, it is like entire wikipedia text or entire stakeoverflow text or entire quora text. For the illustration of skipgram we are taking a small example.
 
 **Corpus** : The quick brown fox jump over the dog	
 
-### Step 1 : Create Skipgram
+### Create Skipgram (Step 2+3+4 )
 As discussed earlier created 1 or 2 or 3 window skipgram from the corpus.
 
  Word | (Step 3) onehot encoding for each word in the corpus | (Step 4) random initial embedding, 4 dimensional
@@ -77,7 +77,7 @@ over  | [0,0,0,0,0,1,0,0]  | [0.31,0.34,0.86,0.38]
 the  | [0,0,0,0,0,0,1,0]   | [0.71,0.12,0.14,0.15]
 dog | [0,0,0,0,0,0,0,1]    | [0.21,0.93,0.24,0.26]
 
-### Step 5
+### Create Neural Network (Step 5)
 Create a neural network for learning embedding. 
 - One input layer which can accept token/words. Convert token (context and target words) into onehot encoding
 - One embedding layer, for example sake we are taking 4 dimensional embedding of words. These embedding are randomingly intiated number initally (there are other ways also). 
@@ -88,7 +88,7 @@ Create a neural network for learning embedding.
 - 4 numbers from embedding will go to each of the 5 neuron, Each neuron will have 4 weights to embedding layer. 5*4 = 20 weights are learned + 5 biases learned
 - Learning Rate LR = .0002
 
-### Training - Forward propagation
+### Training - Forward propagation (Step 6+7+8+9+10) 
 - Randomly initialize all the weights and biases of the network.
 - Pass target and context word to the network.
 
@@ -103,7 +103,7 @@ Input layer | Embedding layer | Hidden layer (5 neuron, random init w\&b), dense
 |  |  |  |  |  | Step 10
 |  |  |  |  | Total Loss | 1.1185
 
-### Training - (backward propagation)
+### Training - backward propagation (Step 11+12)
 Updating weights of network neurons
 
  | Step 11 (Gradient Calculation for 20 weights) | 1 | 2 | 3 | 4
@@ -125,7 +125,8 @@ new w5 | 0.42 | 0.43 | 0.45 | 0.46
 
 new weight = old weight - Learning Rate * DL/dW
 
-### Update Embedding
+### Update Embedding (Step 13+14 )
+
 Old Vector | 1 | 2 | 3 | 4
 --- | --- | --- | --- | ---
 context (The)  = [.11,.12,.14,.15] | 0.110 | 0.120 | 0.140 | 0.150
