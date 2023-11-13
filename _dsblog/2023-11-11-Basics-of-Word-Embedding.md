@@ -68,14 +68,14 @@ As discussed earlier created 1 or 2 or 3 window skipgram from the corpus.
 
  Word | (Step 3) onehot encoding for each word in the corpus | (Step 4) random initial embedding, 4 dimensional
  ---|---|---
-the | [1,0,0,0,0,0,0,0] | [.11,.12,.14,.15]
-quick  | [0,1,0,0,0,0,0,0] | [.21,.23,.24,.26]
-brown | [0,0,1,0,0,0,0,0] | [.31,.34,.36,.38]
-fox | [0,0,0,1,0,0,0,0] | [.51,.12,.14,.15]
-jump | [0,0,0,0,1,0,0,0] | [.21,.63,.24,.26]
-over  | [0,0,0,0,0,1,0,0] | [.31,.34,.86,.38]
-the  | [0,0,0,0,0,0,1,0] | [.71,.12,.14,.15]
-dog | [0,0,0,0,0,0,0,1] | [.21,.93,.24,.26]
+the | [1,0,0,0,0,0,0,0]    | [0.11,0.12,0.14,0.15]
+quick  | [0,1,0,0,0,0,0,0] | [0.21,0.23,0.24,0.26]
+brown | [0,0,1,0,0,0,0,0]  | [0.31,0.34,0.36,0.38]
+fox | [0,0,0,1,0,0,0,0]    | [0.51,0.12,0.14,0.15]
+jump | [0,0,0,0,1,0,0,0]   | [0.21,0.63,0.24,0.26]
+over  | [0,0,0,0,0,1,0,0]  | [0.31,0.34,0.86,0.38]
+the  | [0,0,0,0,0,0,1,0]   | [0.71,0.12,0.14,0.15]
+dog | [0,0,0,0,0,0,0,1]    | [0.21,0.93,0.24,0.26]
 
 ### Step 5
 Create a neural network for learning embedding. 
@@ -94,14 +94,14 @@ Create a neural network for learning embedding.
 
 Step 6 | - | - | Step 7 | Step 8 | - | Step 9
 --- | --- | --- | --- | --- | --- | ---
-Input layer | Embedding layer | Hidden layer (5 neuron, random init w\&b), dense layer | matmul between weights and inputs (embedding) | softmax (8 vocab size) | actual vector for "quick" | cross entropy loss = - sum(yi * log(y^))
+Input layer | Embedding layer | Hidden layer (5 neuron, random init w\&b), dense layer | matmul between weights and inputs (embedding) | softmax (8 vocab size) | actual vector for "quick" | cross entropy loss
  The (context), quick (target) | context (The)  = [.11,.12,.14,.15] | n1=[.11,.12,.13,.14] | 0.0657 | 0.1867 | 0 | 0.0897
-| | target (quick) = [.21,.23,.24,.26] | n2=[.13,.14,.15,.16] | 0.0761 | 0.1886 | 1 | 0.7244
-| |  | n3=[.21..22,.23,.24] | 0.1177 | 0.1966 | 0 | 0.0951
-| |  | n4=[.32,.33,.34,.35] | 0.1749 | 0.2082 | 0 | 0.1014
-| |  | n5=[.42,.43,.45,.46] | 0.2298 | 0.2199 | 0 | 0.1079
-| |  |  |  |  |  | Step 10
-| |  |  |  |  | Total Loss | 1.1185
+| target (quick) = [.21,.23,.24,.26] | n2=[.13,.14,.15,.16] | 0.0761 | 0.1886 | 1 | 0.7244
+|  | n3=[.21..22,.23,.24] | 0.1177 | 0.1966 | 0 | 0.0951
+|  | n4=[.32,.33,.34,.35] | 0.1749 | 0.2082 | 0 | 0.1014
+|  | n5=[.42,.43,.45,.46] | 0.2298 | 0.2199 | 0 | 0.1079
+|  |  |  |  |  | Step 10
+|  |  |  |  | Total Loss | 1.1185
 
 ### Training - (backward propagation)
 Updating weights of network neurons
