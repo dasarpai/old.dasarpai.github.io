@@ -3,7 +3,7 @@ mathjax: true
 id: 6105
 title: Topic Modeling with BERT
 date: 2023-11-13
-permalink: /dsblog/application-of-rag
+permalink: /dsblog/topic-modeling-with-bert
 tags: [NLP, NLU, LLM, Clustering, Topic Modeling]
 categories:
 header:
