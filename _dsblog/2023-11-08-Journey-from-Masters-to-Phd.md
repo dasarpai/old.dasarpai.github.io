@@ -31,7 +31,7 @@ That time after a lot of contemplation I decided I must make long-term, time and
 
 I am extremely enthusiastic about utilizing AI technology to address issues related to Indian languages. This is precisely why I chose to base my MS thesis on the topic of "Sarcasm Detection in Hinglish Language (SDHL)." However, during this period, the NLP landscape experienced rapid changes due to the emergence of Transformer technologies and Large Language Models (LLM). Despite having numerous intriguing projects in mind that revolved around Indian culture and languages, I faced challenges such as time constraints, funding constraints, and the maturity of the technology. Consequently, I became fascinated by the Question-Answer task in NLP and decided to focus on applying it to Indian historical books. Thus, I embarked on my journey by selecting "The Mahabharat" as the book of interest. My Ph.D. thesis was "AI-Powered Historical Book Question Answering".
  
-I confess following on this journey. And suggest anyone who wants to embark on this journey be ready for all this at least if not more. If you feel better than what I am writing below then you can consider yourself lucky enough.
+I confess following on this journey, and suggest anyone who wants to embark on this journey be ready for all this at least if not more. If you feel better than what I am writing below then you can consider yourself lucky enough.
 
 
 - It was a completely lonely journey, nobody will be with you on this journey.
@@ -50,7 +50,7 @@ I confess following on this journey. And suggest anyone who wants to embark on t
 - Cloud Platforms available from Google (VertexAI), Amazon (AWS Sagemaker), and Microsoft (Azure AI Machine Learning)
 
 
-**In this journey I learned so many things that it is not possible to sum up or enumerate in one blog. During this journey, I wrote dozens of articles and, in the interest of brevity, in this article linking to those different articles.** Whether you are a researcher, or established professional in AI, or a project manager you will find something of value for yourself in this article.
+**In this journey I learned so many things that it is not possible to sum up or enumerate in one blog. During this journey, I wrote dozens of articles and, in the interest of brevity, in this article linking to those different articles.** Whether you are a researcher, an established professional in AI, or a project manager you will find something of value for yourself in this article. My research topic was "AI-Powered Historical Books Question Answering". I am not discussing anything about this topic in this article. It deserves multiple articles in the future.
 
 
 ## DBA vs PhD Difference and Similarity
