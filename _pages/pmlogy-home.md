@@ -23,15 +23,15 @@ sidebar:
 
 ### Knowing, Learning, Experimenting, Implementing and getting Business results 
 
-* [PM Blog)](/pmlogy-blog)        
-* [PM Glossary)](/pmglossary)
-* [PM Topics)](/pmlogy-tags)
-* [PMBOK6 Topics )](/pmbok6-tags) 
-* [PMBOK6)](/pmbok6-summary)
-* [PMBOK6 Explorer)](/pmbok6)       
-* [PMBOK6 Hindi Topics)](/pmbok6hi-tags)       
-* [PMBoK6 Hindi)](/pmbok6hi-summary)
-* [PMBOK6 Hindi Explorer)](/pmbok6hi))
+* [![Jump to PM Blogs](https://img.shields.io/badge/Goto-PMLOGY_Blog-blue)](/pmlogy-blog)    
+* [PM Glossary](/pmglossary)
+* [PM Topics](/pmlogy-tags)
+* [PMBOK6 Topics](/pmbok6-tags) 
+* [PMBOK6](/pmbok6-summary)
+* [PMBOK6 Explorer](/pmbok6)       
+* [PMBOK6 Hindi Topics](/pmbok6hi-tags)       
+* [PMBoK6 Hindi](/pmbok6hi-summary)
+* [PMBOK6 Hindi Explorer](/pmbok6hi)
 
 ## Hari Thapliyaal
 
