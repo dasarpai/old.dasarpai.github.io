@@ -13,6 +13,28 @@ sidebar:
 ---
 ## About Me
 
+
+```html
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #04AA6D;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+</style>
+```
+
+<button class="button button1"  onclick="window.location.href='https://dasarpai.com/wia-home';">Jump to Wisdom In Awareness Blogs</button>
+
 **I do not know how to define myself. Delivering a professional talk on some subject, explaining what you do to make your earning, impressing someone using some complicated grammar or terms is one part of the professional and social life. But in that, all that we do is labeling our task, behavior, identity, and trying to help others who we are. In reality, to define ourself we need to know the plane at which we are connecting to the people around us.**
 
 **Broadly we exist at three levels. The first is our physical, gross body level. The second is our emotional, intellectual body level. The third is, beyond our physical existence &amp; emotional drama what we think really about ourselves. Whether we define ourselves or others we put labels during the process of definition, and we think that now we know.**
