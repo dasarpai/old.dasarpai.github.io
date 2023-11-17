@@ -10,9 +10,6 @@ header:
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 sidebar:
    nav: "docs"
----
-## About Me
-
 
 ```html
 <style>
@@ -32,8 +29,16 @@ sidebar:
 .button2 {background-color: #008CBA;} /* Blue */
 </style>
 ```
+---
+## About Me
+
+
+
 
 <button class="button button1"  onclick="window.location.href='https://dasarpai.com/wia-home';">Jump to Wisdom In Awareness Blogs</button>
+
+[![Jump to Wisdom In Awareness Blogs](https://placehold.it/150x40/04AA6D/ffffff?text=Green)](https://dasarpai.com/wia-blog)
+
 
 **I do not know how to define myself. Delivering a professional talk on some subject, explaining what you do to make your earning, impressing someone using some complicated grammar or terms is one part of the professional and social life. But in that, all that we do is labeling our task, behavior, identity, and trying to help others who we are. In reality, to define ourself we need to know the plane at which we are connecting to the people around us.**
 
