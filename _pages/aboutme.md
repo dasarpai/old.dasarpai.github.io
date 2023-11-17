@@ -24,7 +24,7 @@ sidebar:
 
 
 
-## Hari Thapliyal
+## Dr. Hari Thapliyal
 
 ```python
 for problem in all_problems:
@@ -49,7 +49,7 @@ Photo Gallery
 - WhatsApp: +91 9535-999336 
 
 
-# Resume – Hari Thapliyal
+# Resume – Dr. Hari Thapliyal
 
 
 

@@ -17,10 +17,6 @@ sidebar:
 
 [![Jump to Wisdom In Awareness Blogs](https://img.shields.io/badge/Goto-Wisdom_In_Awareness_Blog-Dark_Green)](/wia-blog)
 
-<a href="/wia-blog" style="font-size: 28px; text-decoration: none;">
-  <img src="https://img.shields.io/badge/Goto-Wisdom_In_Awareness_Blog-Dark_Green" alt="Jump to Wisdom In Awareness Blogs" />
-</a>
-
 **I do not know how to define myself. Delivering a professional talk on some subject, explaining what you do to make your earning, impressing someone using some complicated grammar or terms is one part of the professional and social life. But in that, all that we do is labeling our task, behavior, identity, and trying to help others who we are. In reality, to define ourself we need to know the plane at which we are connecting to the people around us.**
 
 **Broadly we exist at three levels. The first is our physical, gross body level. The second is our emotional, intellectual body level. The third is, beyond our physical existence &amp; emotional drama what we think really about ourselves. Whether we define ourselves or others we put labels during the process of definition, and we think that now we know.**
