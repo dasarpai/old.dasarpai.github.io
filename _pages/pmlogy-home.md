@@ -55,10 +55,10 @@ Open to work with like minded people on Technology Project, Data Science, AI, ML
 
 I am seasoned professional for product development and project management in agile project environment.
 
-[**Hari Thapliyal at LinkedIn**](https://linkedin.com/in/harithapliyal)
+[**Dr. Hari Thapliyal at LinkedIn**](https://linkedin.com/in/harithapliyal)
 
-![Hari Thapliyaal](/assets/images/profilephoto3.jpg){: width="200"}
+<img src="/assets/images/profilephoto3.jpg" alt="Hari Thapliyaal" width="200"/>
 
-**Hari Thapliyaal @**Bangalore
+**Dr. Hari Thapliyaal @**Bangalore
 
 Trainer, Consultant, Coach in Data Science, Machine Learning, Project Management
