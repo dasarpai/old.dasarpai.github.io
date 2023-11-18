@@ -24,14 +24,14 @@ sidebar:
 ### Knowing, Learning, Experimenting, Implementing and getting Business results 
 
 * [![Jump to PM Blogs](https://img.shields.io/badge/Goto-PMLOGY_Blog-blue)](/pmlogy-blog)    
-* [PM Glossary](/pmglossary)
-* [PM Topics](/pmlogy-tags)
-* [PMBOK6 Topics](/pmbok6-tags) 
-* [PMBOK6](/pmbok6-summary)
-* [PMBOK6 Explorer](/pmbok6)       
-* [PMBOK6 Hindi Topics](/pmbok6hi-tags)       
-* [PMBoK6 Hindi](/pmbok6hi-summary)
-* [PMBOK6 Hindi Explorer](/pmbok6hi)
+* [![PM Glossary](https://img.shields.io/badge/Goto-PM_Glossary-blue)](/pmglossary)
+* [![PM Topics](https://img.shields.io/badge/Goto-PM_Categories-blue)](/pmlogy-tags)
+* [![PMBOK6 Topics](https://img.shields.io/badge/Goto-PMBOK6_Topics-blue)](/pmbok6-tags) 
+* [![PMBOK6](https://img.shields.io/badge/Goto-PMBOK6_Summary_Blog-blue)](/pmbok6-summary)
+* [![PMBOK6 Explorer](https://img.shields.io/badge/Goto-PMBOK6-blue)](/pmbok6)       
+* [![PMBOK6 Hindi Topics](https://img.shields.io/badge/Goto-PMBOK6_Hindi-blue)](/pmbok6hi-tags)       
+* [![PMBoK6 Hindi](https://img.shields.io/badge/Goto-PMBOK6_Hindi_Summary-blue)](/pmbok6hi-summary)
+* [![PMBOK6 Hindi Explorer](https://img.shields.io/badge/Goto-PMBOK6_Hindi_Explorer-blue)](/pmbok6hi)
 
 ## Hari Thapliyaal
 
