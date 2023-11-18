@@ -17,6 +17,8 @@ sidebar:
 
 [![Jump to Wisdom In Awareness Blogs](https://img.shields.io/badge/Goto-Wisdom_In_Awareness_Blog-Dark_Green)](/wia-blog)
 
+[![Jump to WiA Quotes](https://img.shields.io/badge/Goto-WiA_Quotations-Yellow)](/quotations-blog)
+
 **I do not know how to define myself. Delivering a professional talk on some subject, explaining what you do to make your earning, impressing someone using some complicated grammar or terms is one part of the professional and social life. But in that, all that we do is labeling our task, behavior, identity, and trying to help others who we are. In reality, to define ourself we need to know the plane at which we are connecting to the people around us.**
 
 **Broadly we exist at three levels. The first is our physical, gross body level. The second is our emotional, intellectual body level. The third is, beyond our physical existence &amp; emotional drama what we think really about ourselves. Whether we define ourselves or others we put labels during the process of definition, and we think that now we know.**
@@ -46,11 +48,11 @@ Wisdom exists in the awareness or we can say awareness itself is wisdom. Reading
 
 **Remain Motivated and Blessed**
 
-**[Hari Thapliyaal at LinkedIn](https://linkedin.com/in/harithapliyal)**
+**[Dr. Hari Thapliyaal at LinkedIn](https://linkedin.com/in/harithapliyal)**
 
-![Hari Thapliyaal](/assets/images/Profilephoto4.jpg){: width="200"}
+![Hari Thapliyaal](/assets/images/Profilephoto4.jpg){:width="200"}
 
-**Hari Thapliyaal** 
+**Dr. Hari Thapliyaal** 
 ```
 @ Bangalore & Dehradun, India
 Trainer, Consultant, Coach in Data Science, Machine Learning, Project Management
