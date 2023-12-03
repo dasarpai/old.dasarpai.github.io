@@ -1004,6 +1004,7 @@ Table of Contents
 1. Google Cloud Next
 
 ## AI Diary 2
+Table of Contents
 
 1. In my Control and Out of My Control
 2. The Mathematical Modeling of Black Swan Events
