@@ -33,6 +33,11 @@ This is a 390 page personal learning diary and it contains approx 1000 resources
 
 [Download Link to this Diary](../assets/docs/Hari-Thapliyaal-AI-Diary1-by-15-Dec-22.pdf)
 
+<object data="../assets/docs/Hari-Thapliyaal-AI-Diary2-Dec-22-to-Dec-23.pdf" width="1000" height="1000" scroll=True type='application/pdf'></object>
+
+[Download Link to this Diary](../assets/docs/Hari-Thapliyaal-AI-Diary2-Dec-22-to-Dec-23.pdf)
+
+## AI Diary 1
 Table of Contents
 1. ITU-AI-ML-in-5g-challenge / GNN Challenge
 1. Graph Neural Networks - a perspective from the ground up
@@ -997,3 +1002,351 @@ Table of Contents
 1. Machine Learning Classical vs Quantum
 1. New England Complex Systems Institute
 1. Google Cloud Next
+
+## AI Diary 2
+
+1. In my Control and Out of My Control
+2. The Mathematical Modeling of Black Swan Events
+3. Analyzing Transformers in Embedding Space Explained
+4. Multimodality is the future! Here are 10 multimodal models that can be used to build futuristic
+5. 2000+ new AI tools were released in the last 30 days.
+6. Generative AI, OpenAI, and ChatGPT: What are these?
+7. MIT university is offering FREE education in Data Science.
+8. A Complete Guide to Creating and Storing Embeddings for PostgreSQL Data
+9. A New Era of GPTs: 10 Game-Changing Creations
+10. Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster
+Tweets Analysis with Lora
+11. Multi-Modal RAG : LlamaIndex Blog
+12. CS50's Introduction to Artificial Intelligence with Python
+13. Artificial Intelligence in Business: Creating Value with Machine Learning
+14. CS50's Introduction to Computer Science
+15. Data Analytics can be divided into 5 types based on the questions it can answer.
+16. Learn the power of LangChain: A comprehensive guide to building custom Q&A chatbots
+17. LLM Collection | Prompt Engineering Guide
+18. In Machine learning, We have 2 types of errors: Reducible and Irreducible.
+19. Data characteristics
+20. Autoencoders are Neural Networks!
+21. Best YouTube Courses for Programming:
+22. Mathematics for Machine Learning
+23. How to Learn System Design?
+24. Here's a list of favorite recent LLM papers to read:
+25. Language Translation using PyTorch Transformer
+26. How to Fine-tune LayoutLMv3
+27. Malaria Classification with Vision Transformer and PyTorch
+28. Generative AI Models vs Discriminative AI Models
+29. Infographic: 50 Cognitive Biases in the Modern World
+30. MIT Researchers Introduce PFGM++
+31. I Scanned 1000+ Prompts so You Don’t Have to: 10 Need to Know Techniques
+32. The ChatGPT list of Lists: A collection of 3000+ Prompts, examples, usecases
+33. Why We Should Be Careful Using One-Tailed Hypothesis Tests in Research🧪📊
+34. Top Large LLM Interview Questions & Answers
+35. Tough SQL questions
+36. Graph Convolutional Networks: Introduction to GNNs
+37. Relationships Between t and F, and z and Chi-square
+38. You can now fine-tune an LLM without writing a single line of code!
+39. Introducing no-code LLM FineTuning with Monster API
+40. BERT applications you should know about:
+41. Revolutionizing Language Models Unleashing the power of retrieval augmented generation rag
+42. Code Llama | NVIDIA NGC
+43. Agriculture usecases
+44. dhblog - Why and How to Fine-tune CLIP
+45. ICML 2023 Tutorials
+46. Similarity Algorithms :: TigerGraph Graph Data Science Library
+47. TQDM Usecases
+48. When Companies were founded
+49. Enterprises are deploying LLMs in these four ways.
+50. Exploring the promise of generative models in chemistry an introduction to diffusion-models
+51. Graph of Thoughts: Solving Elaborate Problems with Large Language Models
+52. The Definitive Guide to Einstein GPT | Salesforce Ben
+53. LLM: A CLI utility and Python library for interacting with Large Language Models
+54. Tensor Algebra and its Applications to Data Science and Statistics
+55. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+56. Retrieval-Augmented Multimodal Language Modeling
+57. "GraphGPT converts unstructured natural language into a knowledge graph."
+58. Deep Bidirectional Language-Knowledge Graph Pretraining
+59. Code Llama: Open Foundation Models for Code
+60. Introducing Code Llama, a state-of-the-art large language model for coding
+61. Salesforce+ Salesforce AI Day: Calling all TrAIlblazers
+62. Tutorials and Unpublished Papers
+63. Salesforce’s CodeT5 system can understand and generate code
+64. Tryage: Real-time, intelligent Routing of User Prompts to Large Language Model
+65. LLaMA-Reviewer: Advancing Code Review Automation with Large Language Models through
+Parameter-Efficient Fine-Tuning (Practical Experience Report)
+66. MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models
+67. Dive into LoRA Adapters
+68. AutoGen: Enabling Next-Gen GPT-X Applications | FLAML
+69. Aman's AI Journal • Reinforcement Learning from Human Feedback (RLHF)
+70. The Role of AI in Biomarker-Driven Oncology Clinical Trials
+71. What is Sensor Data? Examples of Sensors and Their Uses | Definition from TechTarget
+72. Img2Img: Stable Diffusion Image-to-image Explained - Dataconomy
+73. AI Glossary: Artificial Intelligence Terms - Dataconomy
+74. Chunking for LLMS using Haystack Huggingface
+75. Fine-Tune Your Own Llama 2 Model in a Colab Notebook | Towards Data Science
+76. WizardLM/WizardLM-13B-V1.1 · Hugging Face
+77. lmsys/vicuna-13b-v1.3 · Hugging Face
+78. LlamaIndex - Data Framework for LLM Applications
+79. Complex Earth Moon Rotation
+80. Learning to Identify Critical States for Reinforcement Learning from Videos
+81. Tools for literature review project
+82. ARM vs Intel: What Are They? What is the Difference Between Them?
+83. A Gentle Introduction to Calculating the BLEU Score for Text in Python
+84. Statistical source expansion for question answerin
+85. Inc42 Media: The Game Of Multiples: Analysing Startup Valuations
+86. Analytics India Magazine: Top 7 Generative AI Courses by AWS
+87. Swarajya: How India Is Using AI To Build The Internet For Local Languages
+88. CNBCTV18: How multiple Indian farmers are cultivating world's most expensive Miyazaki mangoes to
+earn millions
+89. Deccan Herald: DH Toon: 'Kartavya' limited to campaigns
+90. Analytics India Magazine: Andrew Ng & HuggingFace Introduce New Course on Generative AI
+91. Top 10 Free Specialised Courses by Andrew Ng
+92. Analytics Insight: Sam Altman's Worldcoin Surpasses 2 Million Sign-ups, InQubeta (QUBE) Set to
+Deliver Impressive 50x ROI to Its Investors
+93. Best Transformer Based LLMs on HuggingFace (Part 1)
+94. Web 3.0: The Future of Internet
+95. Long Sequence Modeling with XGen: A 7B LLM Trained on 8K Input Sequence Length
+96. Meet DORSal: A 3D Structured Diffusion Model for the Generation and Object-Level Editing of 3D
+Scenes
+97. Step-by-Step BERT Implementation Guide - Analytics Vidhya
+98. Beebom: 12 Best Large Language Models (LLMs) in 2023
+99. Unity Announce the Release of Muse: A Text-to-Video Games Platform that lets you Create Textures,
+Sprites, and Animations with Natural Language
+100. The Indian Express: ChatGPT is just the tip of the iceberg: 10 AI tools that are way cooler than
+OpenAI’s chatbot
+101. Free Neo4j Beginners Courses
+102. Using Langchain and Open Source Vector DB Chroma for Semantic Search wit...
+103. Machine Learning Pipelines for Kubeflow
+104. Video series on Machine learning theory and how to apply the algorithms
+105. Abacus.AI - Effortlessly Embed Cutting Edge AI In Your Applications.
+106. Explore the ChatLLM feature by #abacusai.
+107. ChatGPT can help you write a standout resume in seconds—here's how
+108. Let's learn Data Science in 2023, All are FREE
+109. FREE certification course from Harvard University:
+110. List of Awesome AI Agents
+111. ML for economics
+112. Noteable Plugin: The ChatGPT Plugin That Automates Data Analysis - KDnuggets
+113. From Google Colab to a Ploomber Pipeline: ML at Scale with GPUs - KDnuggets
+114. ColabCode: Deploying Machine Learning Models From Google Colab - KDnuggets
+115. Running Redis on Google Colab - KDnuggets
+116. Abacus.AI - Effortlessly Embed Cutting Edge AI In Your Applications.
+117. What's going on with the Open LLM Leaderboard?
+118. Become a Full Stack Developer for FREE
+119. Language is remarkably nuanced
+120. Techniques to Cut the Costs of Using ChatGPT and GPT-4
+121. How to Draw Graphs, Charts, and Diagrams in ChatGPT | Beebom
+122. How to Write A Business Plan PDF - PDF Gate
+123. Database Sharding Explained
+124. Meet Gorilla: UC Berkeley and Microsoft’s API-Augmented LLM Outperforms GPT-4, Chat-GPT and
+Claude.
+125. How to Build ML Applications on the AWS Cloud with Kubernetes and oneAPI
+126. TestNYC-Benchmark-GPT4
+127. Neural Networks
+128. GPT4-Multimodal
+129. How to evaluate and compare results between GPT-3, GPT-4, ChatGPT?
+130. LLama2
+131. DocPrompting: Generating Code by Retrieving the Doc
+132. Awesome Transformers
+133. HuggingFace released PEFT
+134. Meta-Learning Fast Weight Language Models
+135. Cisco Networking Academy is offering this Certifications and Courses (FREE)
+136. "How Cloud Computing is transforming from raw infra to app-centric services"
+137. Data Science Deconstructedl
+138. Top No-Code Machine Learning Platforms
+139. Data Analyst Roadmap
+140. Question Answer Generation
+141. ‘Lessons Learned Applying NLP to Create a Web-Scale Knowledge Graph’
+142. All the ways to Deploy a ML Model
+143. Selection of Appropriate Statistical methods For Data Analysis
+144. Contrastive learning
+145. EDA Visuals
+146. AI Decision Tree
+147. Grab these top-rated AI/ Machine Learning books for FREE!📚🔥
+148. Trick for better LLM context retrieval for those who haven't seen it:
+149. HypotheticalDocumentEmbedder
+150. Transformer Model Chronology
+151. Distributed Backpropagation Algorithm
+152. Overview of MLOps in Dev, Stage, Production Env.
+153. GPT Progression
+154. Google GAN
+155. Data Science, Machine Learning & Deep learning Topics
+156. Takeaways From the Linkedin Algorithm Report
+157. Machine learning debugging models
+158. Generative AI Apps
+159. Digital Twin
+160. How to install, use ChatGPT
+161. AI Explainability 360
+162. Renewable Energy
+163. Curve Fitting Methods
+164. (LLMs) going to impact search engine providers
+165. Information Retrieval Metrics
+166. Data and Analytics Platform - 1
+167. Data and Analytics Platform - 2
+168. How to Modernize Enterprise Data
+169. MLOPS Tools
+170. Data Engineering
+171. VALL-E, that generates audio from text #MSFTResearch!
+172. GitHub : 7 quality learning resources
+173. Handling Missing Data
+174. Learn For Free
+175. Top 10 Freelancing Websites
+176. Unexplored Python Libraries for Time Series Analysis
+177. 12 Time Series Python Libraries incl Deep Learning
+178. Sanskrit text extraction
+179. Pdfplumber python library
+180. OpenAI Introduces Point-E
+181. MLIR Compiler Infrastructure
+182. Vision MLOps Assistors
+183. Understanding Bias-Variance Trade-off from a Bayesian Perspective
+184. Deep Learning Paper Implementations
+185. Can we solely rely on LLMs’ memories
+186. CMU Advanced NLP Lectures playlist
+187. 30m global terrain dataset
+188. Machine‐learning‐enabled discrete element method: Contact detection and resolution of
+irregular‐shaped particles
+189. Microsoft is offering online courses for FREE
+190. The Code Review Pyramid
+191. 30 Cybersecurity search engines for Researchers:
+192. Intro Article on Web3.0
+193. SOAP and REST APIs
+194. PyRCA
+195. CS 329S: Machine Learning Systems Design
+196. Microsoft Machine Learning Studio (classic)
+197. Top 5 Notable Humanoid Robots Made in India
+198. TransUNet — Revolutionize Traditional Image Segmentation
+199. Steamship GPT3 based Chatbot
+200. Bootstrapping Labels with GPT-4
+201. 10 Most Used Machine Learning Algorithms In Python With Code
+202. Customer Reviews NLP Spacy Analysis and ML/AI Demand Forecasting of the Steam PC Video
+Game Service – Digital High Science
+203. Neo4j and Google Cloud Join Forces to Empower Generative AI with Knowledge Graphs -
+Multiplatform AI
+204. Introducing DistMult and ComplEx for PyTorch Geometric
+205. Integrate LLM workflows with Knowledge Graph using Neo4j and APOC
+206. qiskit
+207. Understanding Deep Learning
+208. CMU Advanced NLP 2022
+209. Synthetic Data Explainable AI
+210. Roadmap to learn Web3
+211. Aeroponic Potato Farming Technique And Its Advantages
+212. How to Grow Potatoes in The Air With a Technique That Increases The Yield by 10x
+213. GRC
+214. Beyond ChatGPT: The Future Of AI At Work
+215. Data generator
+216. How To Create Animated Videos For YouTube Using 'Text to Video' AI Tools
+217. Essence of linear algebra
+218. Video lectures, Optimization for AI by Se-Young Yun
+219. Video lectures, Statistical Learning by Se-Young Yun
+220. Video lectures, Deep Learning by Se-Young Yun
+221. Speech Synthesis, Recognition, and More With SpeechT5
+222. A New Deep Reinforcement Learning (DRL) Framework can React to Attackers in a Simulated
+Environment and Block 95% of Cyberattacks Before They Escalate
+223. fast.ai - Making neural nets uncool again
+224. Awesome Quantum Machine Learning
+225. InPars-v2: Large Language Models as Efficient Dataset Generators for Information Retrieval
+226. Here's a roadmap to Master Python!
+227. Read paper :Constitutional AI: Harmlessness from AI Feedback
+228. Index of /lecture_slides
+229. MLU-Explain
+230. Learn Data Structure using these 46 Best Resources
+231. Transformer models: an introduction and catalog
+232. Leta transcripts – Dr Alan D. Thompson – Life Architect
+233. How to produce factually accurate automatic text summaries - Amazon Science
+234. Understanding Large Language Models -- A Transformative Reading List
+235. Stanford CRFM Introduces PubMedGPT 2.7B
+236. ChatGPT competitors: Amazon jumps into fray with generative AI better than GPT-3.5
+237. Multimodal Chain-of-Thought Reasoning in Language Models
+238. 8 Types of Google Cloud Analytics: How to Choose?
+239. RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning
+240. Researchers at Stanford Introduce ControlNet: A Neural Network Structure to Control Pre-Trained
+Large Diffusion Models to Support Additional Input Conditions - MarkTechPost
+241. nlpconnect/vit-gpt2-image-captioning · Hugging Face
+242. lmx sentiment demo.ipynb - Colaboratory
+243. Large Language Models and Where to Use Them: Part 1
+244. A deep reinforcement learning model that allows AI agents to track odor plumes
+245. Vertex AI Foundations for secure and compliant ML/AI deployment | Google Cloud Blog
+246. Using PyGWalker to Enhance Your Jupyter Notebook EDA Experience
+247. Meet The Sketchy Cousin of Stable Diffusion, ‘Scribble Diffusion’
+248. Algebra and Trigonometry 2e - OpenStax
+249. Calculus Volume 1 - OpenStax
+250. Introductory Business Statistics - OpenStax
+251. Generative AI: What are the potential applications and ethical concerns?
+252. Zero-shot image-to-text generation with BLIP-2
+253. 50+ ML Papers Explained
+254. Awesome Community Detection Research Papers
+255. Top 15 Use Cases of Object Detection in Computer Vision🤔
+256. Understanding Vision Transformers (ViTs): Hidden properties, insights, and robustness of their
+representations | AI Summer
+257. Evaluating explainability for graph neural networks | Scientific Data
+258. Explicit Planning Helps Language Models in Logical Reasoning
+259. How AI Will Transform Project Management
+260. CI/CD for Machine Learning (GitOps) - W&B Courses
+261. Use Open AI (ChatGPT) On Your Own Large Data!
+262. DTensor Concepts | TensorFlow Core
+263. Download C3 AI Center of Excellence Data Sheet
+264. Instruction Tuning with GPT-4
+265. Unlocking the Potential of ChatGPT: A Comprehensive Exploration of its Applications, Advantages,
+Limitations, and Future Directions in Natural Language Processing
+266. Inner (Dot) product of two Vectors. Applications in Machine Learning
+267. Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications
+268. How to Use Large Language Models (LLM) in Your Own Domains
+269. chatGPT Telegram
+270. Open Source vs Proprietary LLM
+271. GPT4Video: A Unified Multimodal Large Language Mode
+272. Explore Notus-7B released model.
+273. How to Effectively use Docker!
+274. Data Science, Machine Learning you can find multiple data distributions
+275. 12 Tools for Writers
+276. Data Storytelling; A Visual Guide to Chart Selection
+277. When to use What Data Science Tools
+278. How Many Open-Source LLMs do you Know?
+279. A/B Testing Methods
+280. Data Distribution
+281. Where can you find each Data Distribution?
+282. API Security Checklist
+283. Noisy Model Learning
+284. Machine Learning Engineer
+285. Circle of Controls
+286. LlamaIndex + pptx-api
+287. Video lectures, Stanford CME 302 Numerical Linear Algebra autumn 2007
+288. You need to be careful with Time Bias
+289. Data Leakage is more dangerous than Overfitting.
+290. First-ever course on Data-Centric AI
+291. Anomaly detection with pytimetk
+292. Boxplots vs Raincloud
+293. Data visualization and exploration
+294. Multi-Modal Retrieval
+295. Top Important Computer Vision Papers for the week from 28-8-to-3-9
+296. Do You Need to Know All Design Pattern?
+297. Embedding In OpenAI API
+298. API Architectural Styles
+299. Databases 
+300. How Github Works?
+301. 10 AI Tools, 10 websites that will save you hundreds of hours
+302. Discriminative vs Generative Models
+303. Most Used Design Patterns Cheatsheet
+304. Stay ahead of the curve with these 12 powerful GitHub repositories for learning data science,
+analytics, and engineering
+305. Introduction MMMU, a Massive Multi-discipline Multimodal Understanding
+306. Introduction to Important AI Tools/Courses
+307. LLM+LLMops APIs
+308. Generating or engineering features from Time Series data
+309. How Many LLMs do you know?
+310. The latest ML research:
+311. Hashing Vs Encryption vs Encoding
+312. Checklist for Data Scientists or Machine Learning or AI practitioners
+313. Activation functions while working with neural nets.
+314. Critical Considerations in Model Development and Evaluation
+315. Open-Source LLMs vs. ChatGPT
+316. What is Table Transformer (TATR)?
+317. Open Source LLMs, Fine-Tunes and RAG Based Vector Store APIs - The Abacus.AI Blog
+318. Trip down the GPU lane with Machine Learning | PPT
+319. LLM Capabilities
+320. The 40-hour LLM application roadmap: Learn to build your own LLM applications from scratch
+321. What’s next in large language model (LLM) research? Here’s what’s coming down the ML pike
+322. Feature Engineering
+323. Accelerating Generative AI with PyTorch II: GPT, Fast | PyTorch
+324. Google Cloud Skills Boost
+325. Table detection and recognition with Table Transformer (TATR).
+326. Glossary of artificial intelligence - Wikipedia
+327. Machine learning - Wikipedia
+328. Data Collection Techniques
+329. Document Embedding
