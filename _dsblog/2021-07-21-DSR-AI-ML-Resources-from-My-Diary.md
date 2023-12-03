@@ -27,12 +27,12 @@ here are python/R library link, blog articles, YouTube video links, article link
 architecture, images etc. The Table of Content and Content of this diary is not any specific order.
 Whatever I was/am getting I keep adding into this, mostly towards the end but not always.
 
-This is a 390 page personal learning diary and it contains approx 1000 resources. List of the resources available in this file are mentioned below.
-
+**This is a 390 page personal learning diary and it contains approx 1000 resources. List of the resources available in this file are mentioned below. This diary is written between Mar-19 to Dec-22.**
 <object data="../assets/docs/Hari-Thapliyaal-AI-Diary1-by-15-Dec-22.pdf" width="1000" height="1000" scroll=True type='application/pdf'></object>
 
 [Download Link to this Diary](../assets/docs/Hari-Thapliyaal-AI-Diary1-by-15-Dec-22.pdf)
 
+**This is a 144 page personal learning diary and it contains approx 329 resources. List of the resources available in this file are mentioned below. This diary is written between Dec-22 to Dec-23.**
 <object data="../assets/docs/Hari-Thapliyaal-AI-Diary2-Dec-22-to-Dec-23.pdf" width="1000" height="1000" scroll=True type='application/pdf'></object>
 
 [Download Link to this Diary](../assets/docs/Hari-Thapliyaal-AI-Diary2-Dec-22-to-Dec-23.pdf)
@@ -1023,7 +1023,7 @@ Tweets Analysis with Lora
 14. CS50's Introduction to Computer Science
 15. Data Analytics can be divided into 5 types based on the questions it can answer.
 16. Learn the power of LangChain: A comprehensive guide to building custom Q&A chatbots
-17. LLM Collection | Prompt Engineering Guide
+17. LLM Collection - Prompt Engineering Guide
 18. In Machine learning, We have 2 types of errors: Reducible and Irreducible.
 19. Data characteristics
 20. Autoencoders are Neural Networks!
@@ -1048,7 +1048,7 @@ Tweets Analysis with Lora
 39. Introducing no-code LLM FineTuning with Monster API
 40. BERT applications you should know about:
 41. Revolutionizing Language Models Unleashing the power of retrieval augmented generation rag
-42. Code Llama | NVIDIA NGC
+42. Code Llama - NVIDIA NGC
 43. Agriculture usecases
 44. dhblog - Why and How to Fine-tune CLIP
 45. ICML 2023 Tutorials
@@ -1058,7 +1058,7 @@ Tweets Analysis with Lora
 49. Enterprises are deploying LLMs in these four ways.
 50. Exploring the promise of generative models in chemistry an introduction to diffusion-models
 51. Graph of Thoughts: Solving Elaborate Problems with Large Language Models
-52. The Definitive Guide to Einstein GPT | Salesforce Ben
+52. The Definitive Guide to Einstein GPT - Salesforce Ben
 53. LLM: A CLI utility and Python library for interacting with Large Language Models
 54. Tensor Algebra and its Applications to Data Science and Statistics
 55. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
@@ -1075,14 +1075,14 @@ Tweets Analysis with Lora
 Parameter-Efficient Fine-Tuning (Practical Experience Report)
 66. MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models
 67. Dive into LoRA Adapters
-68. AutoGen: Enabling Next-Gen GPT-X Applications | FLAML
+68. AutoGen: Enabling Next-Gen GPT-X Applications - FLAML
 69. Aman's AI Journal • Reinforcement Learning from Human Feedback (RLHF)
 70. The Role of AI in Biomarker-Driven Oncology Clinical Trials
-71. What is Sensor Data? Examples of Sensors and Their Uses | Definition from TechTarget
+71. What is Sensor Data? Examples of Sensors and Their Uses - Definition from TechTarget
 72. Img2Img: Stable Diffusion Image-to-image Explained - Dataconomy
 73. AI Glossary: Artificial Intelligence Terms - Dataconomy
 74. Chunking for LLMS using Haystack Huggingface
-75. Fine-Tune Your Own Llama 2 Model in a Colab Notebook | Towards Data Science
+75. Fine-Tune Your Own Llama 2 Model in a Colab Notebook - Towards Data Science
 76. WizardLM/WizardLM-13B-V1.1 · Hugging Face
 77. lmsys/vicuna-13b-v1.3 · Hugging Face
 78. LlamaIndex - Data Framework for LLM Applications
@@ -1133,7 +1133,7 @@ OpenAI’s chatbot
 118. Become a Full Stack Developer for FREE
 119. Language is remarkably nuanced
 120. Techniques to Cut the Costs of Using ChatGPT and GPT-4
-121. How to Draw Graphs, Charts, and Diagrams in ChatGPT | Beebom
+121. How to Draw Graphs, Charts, and Diagrams in ChatGPT - Beebom
 122. How to Write A Business Plan PDF - PDF Gate
 123. Database Sharding Explained
 124. Meet Gorilla: UC Berkeley and Microsoft’s API-Augmented LLM Outperforms GPT-4, Chat-GPT and
@@ -1263,7 +1263,7 @@ Large Diffusion Models to Support Additional Input Conditions - MarkTechPost
 242. lmx sentiment demo.ipynb - Colaboratory
 243. Large Language Models and Where to Use Them: Part 1
 244. A deep reinforcement learning model that allows AI agents to track odor plumes
-245. Vertex AI Foundations for secure and compliant ML/AI deployment | Google Cloud Blog
+245. Vertex AI Foundations for secure and compliant ML/AI deployment - Google Cloud Blog
 246. Using PyGWalker to Enhance Your Jupyter Notebook EDA Experience
 247. Meet The Sketchy Cousin of Stable Diffusion, ‘Scribble Diffusion’
 248. Algebra and Trigonometry 2e - OpenStax
@@ -1275,13 +1275,13 @@ Large Diffusion Models to Support Additional Input Conditions - MarkTechPost
 254. Awesome Community Detection Research Papers
 255. Top 15 Use Cases of Object Detection in Computer Vision🤔
 256. Understanding Vision Transformers (ViTs): Hidden properties, insights, and robustness of their
-representations | AI Summer
-257. Evaluating explainability for graph neural networks | Scientific Data
+representations - AI Summer
+257. Evaluating explainability for graph neural networks - Scientific Data
 258. Explicit Planning Helps Language Models in Logical Reasoning
 259. How AI Will Transform Project Management
 260. CI/CD for Machine Learning (GitOps) - W&B Courses
 261. Use Open AI (ChatGPT) On Your Own Large Data!
-262. DTensor Concepts | TensorFlow Core
+262. DTensor Concepts - TensorFlow Core
 263. Download C3 AI Center of Excellence Data Sheet
 264. Instruction Tuning with GPT-4
 265. Unlocking the Potential of ChatGPT: A Comprehensive Exploration of its Applications, Advantages,
@@ -1339,12 +1339,12 @@ analytics, and engineering
 315. Open-Source LLMs vs. ChatGPT
 316. What is Table Transformer (TATR)?
 317. Open Source LLMs, Fine-Tunes and RAG Based Vector Store APIs - The Abacus.AI Blog
-318. Trip down the GPU lane with Machine Learning | PPT
+318. Trip down the GPU lane with Machine Learning - PPT
 319. LLM Capabilities
 320. The 40-hour LLM application roadmap: Learn to build your own LLM applications from scratch
 321. What’s next in large language model (LLM) research? Here’s what’s coming down the ML pike
 322. Feature Engineering
-323. Accelerating Generative AI with PyTorch II: GPT, Fast | PyTorch
+323. Accelerating Generative AI with PyTorch II: GPT, Fast - PyTorch
 324. Google Cloud Skills Boost
 325. Table detection and recognition with Table Transformer (TATR).
 326. Glossary of artificial intelligence - Wikipedia
