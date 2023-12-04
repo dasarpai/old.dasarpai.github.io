@@ -3,7 +3,7 @@ mathjax: true
 id: 6106
 title: Empowering Language with AI NLP Capabilities
 date: 2023-11-18
-permalink: /dsblog/application-of-rag
+permalink: /dsblog/empowering-language-with-ainlp-capabilities
 tags: [NLP, NLU, LLM]
 categories:
 header:
