@@ -13,7 +13,7 @@ excerpt_separator: "<!--more-->"
 excerpt:  
 layout: single  
 author_profile: true  
-toc: True  
+toc: False  
 toc_sticky: true
 ---
 
