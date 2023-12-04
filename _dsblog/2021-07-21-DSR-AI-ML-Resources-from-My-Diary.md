@@ -33,6 +33,7 @@ Whatever I was/am getting I keep adding into this, mostly towards the end but no
 [Download Link to this Diary](../assets/docs/Hari-Thapliyaal-AI-Diary1-by-15-Dec-22.pdf)
 
 **This is a 144 page personal learning diary and it contains approx 329 resources. List of the resources available in this file are mentioned below. This diary is written between Dec-22 to Dec-23.**
+
 <object data="../assets/docs/Hari-Thapliyaal-AI-Diary2-Dec-22-to-Dec-23.pdf" width="1000" height="1000" scroll=True type='application/pdf'></object>
 
 [Download Link to this Diary](../assets/docs/Hari-Thapliyaal-AI-Diary2-Dec-22-to-Dec-23.pdf)

@@ -21,6 +21,8 @@ toc_sticky: true
 
 [Download Link to this Diary](../assets/docs/Summaries-of-Books.pdf)
 
+<object data="../assets/docs/Summaries-of-Books.pdf" width="1000" height="1000" scroll=True type='application/pdf'></object>
+
 1. The Inspirational Leader
 1. The 5 Elements of Effective Thinking
 1. How to Listen
