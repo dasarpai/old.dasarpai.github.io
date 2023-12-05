@@ -28,7 +28,7 @@ All these books are available in pdf format at <a href="https://drive.google.com
 
 If you want to search all the books on above link then in the search box at above link you can enter "Book". Similarly if you looking for research paper you can type Paper". This repository also has some important AI/ML research paper.
 
-# Book
+## Book
 1. 100-Statistical-Tests-EBOOK.pdf
 1. 48-ChatGPT-Prompts-Ready-to-Use-for-beginners-EBOOK.pdf
 1. 75-Days-Coding-EBOOK.pdf
@@ -430,7 +430,7 @@ If you want to search all the books on above link then in the search box at abov
 1. Writing-for-computer-science-3rd-edition-BOOK.pdf
  
  
-# Guide 
+## Guide 
 1. 10-Projects-to-Transition-to-Data-Science-Roles-GUIDE.pdf
 1. 10-Useful-Way-To-Visualize-Your-Data-GUIDE.pdf
 1. 10-Useful-Ways-to-Visualise-YourData-GUIDE.pdf
@@ -571,7 +571,7 @@ If you want to search all the books on above link then in the search box at abov
 1. Time-series-forecasting-principles-amazon-forecast-GUIDE.pdf
 1. VSCode-Cheetsheet-GUIDE.pdf
  
-# Handbook 
+## Handbook 
 1. A-Hands-On-Intro-to-Essential-Python-Libraries_Frameworks-HANDBOOK.pdf
 1. Agile-Glossary-HANDBOOK.pdf
 1. Agile-HANDBOOK.pdf
@@ -604,7 +604,7 @@ If you want to search all the books on above link then in the search box at abov
 1. SQL-Zero-To-Hero-HANDNOTE.pdf
  
  
-# Note/ Notebooks 
+## Note/ Notebooks 
 1. AZ-900-NOTEBOOK.pdf
 1. Azure-ML-NOTEBOOK.pdf
 1. Complete_Machine_learning_Notes_from_Andrew_Ng-NOTEBOOK.pdf
@@ -781,7 +781,7 @@ If you want to search all the books on above link then in the search box at abov
 1. Machine_Learning_in_Big_Data-PAPER.pdf
 1. The-expressive-power-of-pooling-in-Graph-Neural-Network-PAPER.pdf
  
-# Presentations
+## Presentations
 1. 10-Advanced-Data-Pipeline-Strategies-PPT.pdf
 1. 10-Powerful-visuals-about-psychology-and-life-PPT.pdf
 1. 12-Design-patterns-PPT.pdf
@@ -958,7 +958,7 @@ If you want to search all the books on above link then in the search box at abov
 1. XAI-David-Gunning-(DARPA)-PPT.pdf
 1. GAN-PPT.pdf
  
-# Reports 
+## Reports 
 1. 2018-Namami-Digitiation-REPORT.pdf
 1. 2023-Cybersecurity-Terms-Summary-REPORT.pdf
 1. 23-Augmented-Reality-Trends-to-Keep-an-Eye-on-for-2023-REPORT.pdf
@@ -1077,7 +1077,7 @@ If you want to search all the books on above link then in the search box at abov
 1. Web3.0-Internet-of-the-New-Era-REPORT.pdf
 1. What-is-in-my-AI-REPORT.pdf
  
-# Useful Articles
+## Useful Articles
 1. A-ML-System-for-Demand-Forecasting-using-LGBM-Algorithm-ARTC.pdf
 1. Advancing-mathematics-by-guiding-human-intuition-with-AI-ARTC.pdf
 1. AI--Insights-from-the-Science-of-Consciousness-ARTC.pdf
