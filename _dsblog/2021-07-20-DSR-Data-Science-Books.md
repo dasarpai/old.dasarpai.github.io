@@ -30,7 +30,7 @@ All these books are available in pdf format at <a href="https://drive.google.com
 
 If you want to search all the books on above link then in the search box at above link you can enter "Book". Similarly if you looking for research paper you can type Paper". This repository also has some important AI/ML research paper.
 
-## Book
+## Books
 1. 100-Statistical-Tests-EBOOK.pdf
 1. 48-ChatGPT-Prompts-Ready-to-Use-for-beginners-EBOOK.pdf
 1. 75-Days-Coding-EBOOK.pdf
@@ -432,7 +432,7 @@ If you want to search all the books on above link then in the search box at abov
 1. Writing-for-computer-science-3rd-edition-BOOK.pdf
  
  
-## Guide 
+## Guides 
 1. 10-Projects-to-Transition-to-Data-Science-Roles-GUIDE.pdf
 1. 10-Useful-Way-To-Visualize-Your-Data-GUIDE.pdf
 1. 10-Useful-Ways-to-Visualise-YourData-GUIDE.pdf
@@ -573,7 +573,7 @@ If you want to search all the books on above link then in the search box at abov
 1. Time-series-forecasting-principles-amazon-forecast-GUIDE.pdf
 1. VSCode-Cheetsheet-GUIDE.pdf
  
-## Handbook 
+## Handbooks 
 1. A-Hands-On-Intro-to-Essential-Python-Libraries_Frameworks-HANDBOOK.pdf
 1. Agile-Glossary-HANDBOOK.pdf
 1. Agile-HANDBOOK.pdf
@@ -606,7 +606,7 @@ If you want to search all the books on above link then in the search box at abov
 1. SQL-Zero-To-Hero-HANDNOTE.pdf
  
  
-## Note/ Notebooks 
+## Notes/ Notebooks 
 1. AZ-900-NOTEBOOK.pdf
 1. Azure-ML-NOTEBOOK.pdf
 1. Complete_Machine_learning_Notes_from_Andrew_Ng-NOTEBOOK.pdf
@@ -1175,7 +1175,7 @@ If you want to search all the books on above link then in the search box at abov
 1. XAI_Explainability_AI_Wine_Quality_Prediction-JypterNB.pdf
 1. XGBoost-Tuning-with-Machine-learning-JUPYTERNB.pdf
 
-## Interview Question Answer
+## Interview Question Answers
 1. 10 Interview Puzzle-InterviewQ.pdf
 1. 100_data_engineering_questions-InterviewQ.pdf
 1. 100+NLP_QA-InterviewQ.pdf
