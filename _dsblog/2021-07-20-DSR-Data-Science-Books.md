@@ -22,7 +22,9 @@ toc_sticky: true
 
 ![DS, AI, ML, Books Available](/assets/images/dspost/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg)     
    
-# DS, AI, ML, Books/ Guide/ Reports/ Presentations Available   
+# Online Data Science, AI, ML Content
+
+Data Science, AI, Machine Learning, Books/ Guide/ Reports/ Presentations / Jupyter Notebook Available.
    
 All these books are available in pdf format at <a href="https://drive.google.com/drive/folders/1UlzxVnrpeu8Qhe1FFPB0XAM6tBEAE14F?usp=sharing" target="_blank"> this link</a>. I update this page less frequently but keep adding books in the repo. The list below may not contain the name you are looking for. Therefore, it is suggested to visit the link mentioned earlier. This link contains excellent presentations Book, (PPT), Handbook, Report, Articles (ARTC), Book, Booklet, eBook, Notebook, Notes, PAPER, GUIDE, TOC, Syllabus, LINKS, Handbook, Chapter, Tool, BROC – Broacher on Machine Learning, Deep Learning, NLP, Statistics, Reinforcement Learning, GAN. Approx 800 pdf files which inclues 350+ books. 
 
@@ -1113,3 +1115,198 @@ If you want to search all the books on above link then in the search box at abov
 1. What-is-Exploratory-Data-Analysis-ARTC.pdf
 1. What-is-OLAP-ARTC.pdf
 1. When-Less-is-More_Investigating-DataPruning-for-Pretraining-LLMs-at-Scale-ARTC.pdf
+
+## Jupyter Notebooks
+1. 100 Numpy Exercises-JupyterNB.pdf
+1. 100 Pandas Exercises-JupyterNB.pdf
+1. 100+ Python tips to improve ml learning curve-JupyterNB.pdf
+1. Awesome Visualization Techniques for every dataset-JupyterNB.pdf
+1. Basic Statistics using SQL-JupyterNB.pdf
+1. Blueberry-Yield--JupyterNB.pdf
+1. Chatgpt-1-JupyterNB.pdf
+1. Chess-Pieces-Detection-using-yolov8-JUPYTERNB.pdf
+1. Churn Risk Rate - HackerEarth ML-JypterNB.pdf
+1. Customer-Personality-Analysis+Predictive-Segmentation-A-Real-World-App-JUPYTERNB.pdf
+1. Data-Cleaning-Process-JUPYTERNB.pdf
+1. Data-Scientist-Salaries-JUPYTERNB.pdf
+1. Data-visualization-in-Python-JupyterNB.pdf
+1. Detecting Damaged And Undamaged During Hurricane-JupyterNB.pdf
+1. DoNut-Document Understanding-TransformerDonut-JypterNB.pdf
+1. EDA_placements-JupyterNB.pdf
+1. Emotions Detection From Text Using LSTM NLP network-JupyterNB.pdf
+1. Employee-Attrition-for-Healthcare-JUPYTERNB.pdf
+1. Employee-attrition-Jypter-JupyterNB.pdf
+1. Enhancing-Chandrayaan3-Moon-Image-Quality-usingImage-Processing-JUPYTERNB.pdf
+1. Exploratory Data Analysis-JupyterNB.pdf
+1. GANs some basic implementation-JupyterNB.pdf
+1. Hand Gesture Recognition Algorithm-JupyterNB.pdf
+1. How to Simplify Complex SQL Queries-SqlNB.pdf
+1. Image classification using CNN-JupyterNB.pdf
+1. Image Classification Using Keras and Tensorflow-JupyterNB.pdf
+1. Implementation of Statistics concept in Python-JupyterNB.pdf
+1. Implementation-of-Statistics-concept-in-Python-JUPYTERNB.pdf
+1. Indian startup EDA-JupterNB.pdf
+1. Internet-JupyterNB.pdf
+1. JavaScript Code Snippets-JsNB.pdf
+1. Langchain-JUPYTERNB.pdf
+1. Leetcode Solutions-CodeNB.pdf
+1. Logging and Debugging-JupyterNB.pdf
+1. MongoDB with Python-JupyterNB.pdf
+1. Movie Recommedation System-JNoteBook.pdf
+1. NLP using classification ML-Juypter-JupyterNB.pdf
+1. Pandas at one place-JupyterNB.pdf
+1. Pandas Complete JupyterNB.pdf
+1. Pandas-10min-JupyterNB.pdf
+1. Pandas-JupyterNB.pdf
+1. Parkinson-JUPYTERNB.pdf
+1. Pizza Price Prediction-JupyterNB.pdf
+1. Plotly-JupyterNB.pdf
+1. Proper Clustering Problem using K-means and Hierarchical-JupyterNB.pdf
+1. Random-forest-tuning-&-cross-validation-JUPYTERNB.pdf
+1. Resume-Analsys-JNotbookpdf
+1. SQL API with Python-JupyterNB.pdf
+1. Time Series Forecasting-JupyterNB.pdf
+1. TimeSeries Forecasting Using fbprophet-JupyterNB.pdf
+1. Transfer Learning - VGG19 Model-JupyterNB.pdf
+1. Video-event-classify-Recognize-Detect-JUPYTERNB.pdf
+1. VIS-ggplot2-JupyterNB.pdf
+1. Web-Scraping-JUPYTERNB.pdf
+1. Wikipedia-Abstract-using-Classification-Algorithm-JUPYTERNB.pdf
+1. XAI_Explainability_AI_Wine_Quality_Prediction-JypterNB.pdf
+1. XGBoost-Tuning-with-Machine-learning-JUPYTERNB.pdf
+
+## Interview Question Answer
+1. 10 Interview Puzzle-InterviewQ.pdf
+1. 100_data_engineering_questions-InterviewQ.pdf
+1. 100+NLP_QA-InterviewQ.pdf
+1. 1001+Data Engineering-QA-InterviewQ.pdf
+1. 120+Data Science Interview-QA-InterviewQ.pdf
+1. 150+Data_Science_Interview_QA-InterviewQ.pdf
+1. 164-Data_Science_Interview_QA-InterviewQ.pdf
+1. 20 Coding Patterns to master Tech in-InterviewQ.pdf
+1. 200+Questions-Requirement-Gathering-Questions-InterviewQ.pdf
+1. 200+Tableau_Interview_QA-InterviewQ.pdf
+1. 21+Data Science Questions that you must know-InterviewQ.pdf
+1. 240-Cord-Java-Interview-QA-InterviewQ.pdf
+1. 25 Golden Rules for System Design-InterviewQ.pdf
+1. 250+AWS-InterviewQ.pdf
+1. 250+Big Data Engineering-QA-InterviewQ.pdf
+1. 27-Common-Job-QA-InterviewQ.pdf
+1. 301+Smart-answers-to-tough-interview-QA-InterviewQ.pdf
+1. 350+ML_DL_QA-InterviewQ.pdf
+1. 40+Data Engineering QA-InterviewQ.pdf
+1. 40+Python_QA-InterviewQ.pdf
+1. 400+ JavaScript InterviewQA-InterviewQ.pdf
+1. 44-Deep Learning-InterviewQ.pdf
+1. 450-DSA-Cracker-QA.pdf
+1. 50 MySQL Interview Questions-In2023-InterviewQ.pdf
+1. 50+Data Structure-QA-InterviewQ.pdf
+1. 50+Machine Learning-QA-InterviewQ.pdf
+1. 50+ML Interview QA-InterviewQ.pdf
+1. 50+OOPS Interview Questions-InterviewQ.pdf
+1. 60 Most Toughest Python InterviewQ.pdf
+1. 60+ SQL interview-QA-InterviewQ.pdf
+1. 64-Toghest-Interview-Question-InterviewQ.pdf
+1. 800 Data Science Questions-InterviewQ.pdf
+1. 800+ SQL-QA-InterviewQ.pdf
+1. A Beginner_s Guide to Getting your first Data Science Job-InterviewQ.pdf
+1. Advanced Data Analytics QA-InterviewQ.pdf
+1. Agile Interview-QA-InterviewQ.pdf
+1. Apache Sparks Interview-QA-Guide-InterviewQ.pdf
+1. API Testing-QA.pdf
+1. AWS Solution Architect Associate Exam Dumps.pdf
+1. AWS Solution Architect Associate Practice Questions-InterviewQ.pdf
+1. AWS SYSOPS Associate QA-InterviewQ.pdf
+1. AWS-Certified-Solutions-Architect-Associate.pdf
+1. AWS-Solutions-Architect-Professional Exam Dumps.pdf
+1. Azure Data Factory Interview Questions.pdf
+1. Azure interview questions-InterviewQ.pdf
+1. BA Interview-InterviewQ.pdf
+1. Basics_Probability-MCQ-InterviewQ.pdf
+1. Behavioral Interview Questions-InterviewQ.pdf
+1. BFSI BA Interview Questions and Answers-InterviewQ.pdf
+1. Coding Interview Preparation--InterviewQ.pdf
+1. Common-Job-Interview-QA-InterviewQ.pdf
+1. Complete Interview-GUIDE.pdf
+1. Comprehensive Guide  To Interviews For  Data Science-InterviewQ.pdf
+1. Computer Science-QA-InterviewQ.pdf
+1. Continuous_Probability_Distributions-MCQ-InterviewQ.pdf
+1. Data Analytics Handbook for Big Data-InterviewQ.pdf
+1. Data Analytics Handbook for CEO_Managers-InterviewQ.pdf
+1. Data Analytics Handbook for DA_DS-InterviewQ.pdf
+1. Data Analytics Handbook for Researchers_Academics-InterviewQ.pdf
+1. Data Engineering-QA-InterviewQ.pdf
+1. Data Science Guide-InterviewQ.pdf
+1. Data science interview inuron-DAY02-InterviewQ.pdf
+1. Data science interview Questions-by-Akash-InterviewQ.pdf
+1. Data Science Interview Questions-by-Steve-Nouri-InterviewQ.pdf
+1. Data Science Interview Questions-InterviewQ.pdf
+1. Data Science Interview-QA-InterviewQ.pdf
+1. Data Science-QA-for-Interview-practice-InterviewQ.pdf
+1. Data_Science_Interview_Ques_company_wise-InterviewQ.pdf
+1. Deep Learning Interview Preparation .pdf
+1. Deep Learning Interview Questions-InterviewQ.pdf
+1. Deep Learning-Interview Questions-InterviewQ.pdf
+1. Deep-Learning-Interviews-Problem-Solutions-InterviewQ.pdf
+1. DevOps Interview -1.pdf
+1. DevOps Interview Guide-InterviewQ.pdf
+1. DevOps-InterviewQ.pdf
+1. Devops-QA-InterviewQ.pdf
+1. Devops-QA-SimpliLearn-InterviewQ.pdf
+1. Discrete_Probability_Distributions_QA-MCQ-InterviewQ.pdf
+1. Docker Interview-QA-InterviewQ.pdf
+1. Docker Questions _ Answers-InterviewQ.pdf
+1. DSA-InterviewQ.pdf
+1. DS-Interview_presentation-InterviewQ.pptx
+1. Everything About Devops Questions-Answers format-InterviewQ.pdf
+1. Everything About Devops-InterviewQ.pdf
+1. Four Selected Topics in CV+DL-InterviewQ.pdf
+1. Google SDE P-2-Questions-InterviewQ.pdf
+1. Hottest Data Analyst Interview Questions .pdf
+1. How to Ace Faang-InterviewQ.pdf
+1. How to Answer the 64 Toughest Interview Question-InterviewQ.pdf
+1. HR_Behavioral_Interview_Questions-InterviewBit-InterviewQ.pdf
+1. Import Python interview-QA-InterviewQ.pdf
+1. Interview questions on PySpark-InterviewQ.pdf
+1. Interview Questions.pdf
+1. Interviews_with_15_data_scientists-REPORT.pdf
+1. Intuitive explanations to Data Science Questions-InterviewQ.pdf
+1. Java Top 100 Interview questions-InterviewQ.pdf
+1. Java-InterviewQ.pdf
+1. Kubernetes_Backup_Recovery_FD-InterviewQ.pdf
+1. LASSO _ Ridge-QA-InterviewQ.pdf
+1. LeetCode 50 Common Interview QA-InterviewQ.pdf
+1. Machine-Learning-A-Z-QA-InterviewQ.pdf
+1. Management Consulting-Case Interview Workbook-InterviewQ.pdf
+1. Mastering the Data Science Interview Loop-InterviewQ.pdf
+1. Medium-Hard Data Analyst SQL-QA-InterviewQ.pdf
+1. ML Interview Questions_8Ques-InterviewQ.pdf
+1. Most_common_interview_questions-InterviewQ.pdf
+1. Most_common_interview_questions-INTQ.doc
+1. Practitioners_guide_to_mlops_whitepaper-InterviewQ.pdf
+1. Python from InterviewBit-InterviewQ.pdf
+1. Remote-Jobs-Interview.pdf
+1. Resumes and Cover Letters.pdf
+1. Salesforce BA Interview Questions and Answers-InterviewQ.pdf
+1. Sampling_and_Sampling_Distributions-MCQ-InterviewQ.pdf
+1. Software-Engineering-InterviewQ.pdf
+1. SQL Interview Questions-Answers-InterviewQ.pdf
+1. SQL Interview Questions-InterviewQ (2).pdf
+1. SQL Interview Questions-InterviewQ.pdf
+1. SQL-Most-asked-Questions.md
+1. Stats+DS+ML+DL-QA-InterviewQ.pdf
+1. TensorFlow_Examples_Notebookx_DrAngShu-InterviewQ.pdf
+1. The complete guide to the System Design Interview in 2022-InterviewQ.pdf
+1. The Ultimate Guide To SQL Interview Prep-InterviewQ.pdf
+1. The_Data_Science_Handbook-InterviewQ.pdf
+1. Three Fundamentals for CV+DL-InterviewQ.pdf
+1. Top 10 puzzles asked in interview-InterviewQ.pdf
+1. Top 100 interview questions on AI.pdf
+1. Top 100 Interview Questions on Deep Learning.pdf
+1. Top 100 SQL Interview QA-InterviewQ.pdf
+1. Top 40 Python Interview QA-InterviewQ.pdf
+1. Top Google Question-Part1-InterviewQ.pdf
+1. Top+50-Machine Learning Interview-QA-InterviewQ.pdf
+1. Top-40-Python-QA-InterviewQ.pdf
+1. Top-80-Application and Information Security-InterviewQ.pdf
+1. Ultimate Guide to Data Science-InterviewQ.pdf
