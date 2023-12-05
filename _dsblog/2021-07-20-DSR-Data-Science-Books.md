@@ -28,783 +28,1088 @@ All these books are available in pdf format at <a href="https://drive.google.com
 
 If you want to search all the books on above link then in the search box at above link you can enter "Book". Similarly if you looking for research paper you can type Paper". This repository also has some important AI/ML research paper.
 
-# Books 
-
-1. 100 Numpy Exercises-NOTEBOOK.pdf   
-1. 100 Pandas Exercises-NOTEBOOK.pdf   
-1. 11 Data Science Books for Beginners-LINKS.pdf   
-1. 97-Things-Every-Data-Engineer-should-know-BOOK.pdf   
-1. A Brief Review of Machine Learning Models & Explainability-eBook.pdf   
-1. A Collection of 10 free ‘Springer’ Books-LINKS.pdf   
-1. A Comprehensive Guide to Machine Learning-BOOK.pdf   
-1. A Concrete Introduction to Higher Algebra-BOOK.pdf   
-1. A course in Time Series Analysis-eBook.pdf   
-1. A practical guide for testing for DEVOPS-eBook.pdf   
-1. A Programmers Guide to Data Mining-BOOK.pdf   
-1. A-Brief-Introduction-NeuralNetwork-by-DavidKriesel-BOOK.pdf   
-1. A-Gentle-Introduction-to-Optimization-eBook.pdf   
-1. Advanced Analytics with Spark-BOOK.pdf   
-1. Advanced Data Analysis  from an Elementary Point of View-BOOK.pdf   
-1. Advanced Deep Learning with TensorFlow2-BOOK.pdf   
-1. Advanced Python Tips-BOOK.pdf   
-1. Agile Glossary-Handbook.pdf   
-1. Agile-Handbook.pdf   
-1. AI for Data Science-eBOOK.pdf   
-1. AI for Everyone-eBook.pdf   
-1. Algorithmic-Aspects-of-Machine-Learning-Book.pdf   
-1. Algorithms for Decision Making-eBOOK.pdf   
-1. All-Of-Statistics-A-Concise-Course-in-Statistical-Inference_by_Larry-BOOK.pdf   
-1. An Introduction to Data - Everything You Need to Know about AI and Bigdata-eBOOK.pdf   
-1. An Introduction to Statistical Learning with Application in R-BOOK.pdf   
-1. An-Introduction-To-Machine-Learning-byMiroslav-BOOK.pdf   
-1. An-Introduction-to-Python-Programming-by-ByteSize-eBook.pdf   
-1. An-Introduction-to-the-Philosophy-of-Time-and-Space-eBook.pdf   
-1. Analytics in a Big Data World The Essential Guide to Data Science and its Applications-BOOK.pdf   
-1. An_Introduction_to_Genetic_Algorithms-BOOK.pdf   
-1. API lifecycle-eBook.pdf   
-1. API Terminology-Handbook.pdf   
-1. API_Penetration_Examples-WorkBook.pdf   
-1. Approaching (Almost) Any Machine Learning Problem-eBOOK.pdf   
-1. Architecture-eBook.pdf   
-1. Artificial Intelligence for a Better Future- An Ecosystem Perspective on the Ethics of AI-BOOK.pdf   
-1. Artificial Neural Networks with Java - Tools for Building Neural Network Applications-eBook.pdf   
-1. Automated Machine Learning  Methods, Systems, Challenges-BOOK.pdf   
-1. Awesome Visualization Techniques for every dataset-NOTEBOOK.pdf   
-1. AWS Admin-HANDBOOK.pdf   
-1. AZ 900-NOTEBOOK.pdf   
-1. Azure ML-NOTEBOOK.pdf   
-1. Azure-ComputerVision_Jun2021-eBOOK.pdf   
-1. A_Course_in_Machine_Learning_byHalDaume-BOOK.pdf   
-1. Basic Statistics using SQL-NOTEBOOK.pdf   
-1. Bayes theorem_A_Visual_Introduction_for_Beginner-eBOOK.pdf   
-1. Bayesian Reasoning and Machine Learning-BOOK.pdf   
-1. BAYESUVIUS-A_Visual_Dictionary_of_Bayesian _Networks_and_Causal_Inference-BOOK.pdf   
-1. Baysian Reasoning & Machine Learning-BOOK.pdf   
-1. BD-Planning-for-big-data-CIO-HANDBOOK.pdf   
-1. Be the Outlier-eBOOK.pdf   
-1. BigBook-Experimentation-Casestudies-PPT.pdf   
-1. Bug Bounty Hunting for Web Security-eBook.pdf   
-1. Building Intelligent Apps with Cognitive APIs-BOOK.pdf   
-1. Business Analyst-HANDBOOK.pdf   
-1. Cambridge_International_AS__A_Level_Mathematics_Probability_and_Statistics_1-BOOK.pdf   
-1. Chapter1-KocovicRadenkovic-doi-BOOK.pdf   
-1. Chatbot-HANDBOOK.pdf   
-1. Classic Machine Learning With PyTorch-WorkBook.pdf   
-1. Cloud Native Infrastructure  with Azure-eBook.pdf   
-1. Competitive Programming-in-Python-eBook.pdf   
-1. Complete_Machine_learning_Notes_from_Andrew_Ng-NOTEBOOK.pdf   
-1. Computer Age Statistical Inference-BOOK.pdf   
-1. Computer Vision Algo & Applications-by-Szeliski-BOOK.pdf   
-1. Computer Vision Model, Learning and Inference-BOOK.pdf   
-1. Data Analysis with Microsoft Excel-eBook.pdf   
-1. Data Mesh Book-TOC.pdf   
-1. Data Science & Big Data Analytics-eBook.pdf   
-1. Data Science and Analytics with Python-eBook.pdf   
-1. Data Science Course for beginners-eBOOK.pdf   
-1. Data Science for Busines_by_FosterProvost_TomFawcett-BOOK.pdf   
-1. Data Science from Scratch-BOOK.pdf   
-1. Data Science in Marketing Analytics-BOOK.pdf   
-1. Data Structures And Algorithms With Python-BOOK.pdf   
-1. Data Visualization in Society-BOOK.pdf   
-1. Data-Science-from-Scratch-First-Principles-with-Python-By-Jeol-Grus-eBook.pdf   
-1. Data-Science-Theories-Models-Algorithms-and-Analytics-BOOK.pdf   
-1. Data-visualization-made-simple-SosulskiKristen-BOOK.pdf   
-1. databricks_dbutils-NOTEBOOK.pdf   
-1. Data_Analytics-Practical_Guide-BOOK.pdf   
-1. Deep Learning Cookbook-BOOK.pdf   
-1. Deep Learning for Dummies-BOOK.pdf   
-1. Deep Learning for NLP-eBook.pdf   
-1. Deep Learning with Azure-BOOK.pdf   
-1. Deep Learning with Python-BOOK.pdf   
-1. Deep Learning-by-JohnKelleher-MIT-Press-BOOK.pdf   
-1. Deep Reinforcement Learning-BOOK.pdf   
-1. Deep-Learning-BOOK.pdf   
-1. Deep-Learning-with-PyTorch-BOOK.pdf   
-1. Deep_Learning_Methods_and_Applications-BOOK.pdf   
-1. DesignPatterns-eBook.pdf   
-1. Detecting Damaged And Undamaged During Hurricane-NOTEBOOK.pdf   
-1. Developmental Neurobiology-BOOK.pdf   
-1. Digital Entrepreneurship Impact on Business and Society-BOOK.pdf   
-1. Dive into Deep Learning-BOOK.pdf   
-1. Docker for Data Science _ Building Scalable and Extensible Data Infrastructure-eBook.pdf   
-1. Dynamical Systems with Applications using Python-BOOK.pdf   
-1. eBook-How-to-Build-a-Career-in-AI.pdf   
-1. EDA the right way-BOOK.pdf   
-1. Efficient Learning Machines-BOOK.pdf   
-1. Emotions Detection From Text Using LSTM NLP network-NOTEBOOK.pdf   
-1. Employee-attrition-Jypter-NOTEBOOK.pdf   
-1. Essentials-of-Business-Analytics-BOOK.pdf   
-1. Evaluating ML Model-BOOK.pdf   
-1. Excel Data Analysis_ Modeling and Simulation-eBook.pdf   
-1. Excel-Advanced_Excel_Charts_byTP-BOOK.pdf   
-1. Excel-This-isnt-excel-it-is-magic-BOOK.pdf   
-1. Excel2010_byTP-BOOK.pdf   
-1. Excel_charts_TP-BOOK.pdf   
-1. Excel_Data_Analysis_TP-BOOK.pdf   
-1. Excel_macros_byTutorialPoint-BOOK.pdf   
-1. Excel_power_pivot_byTP-BOOK.pdf   
-1. Explaining decisions made with AI-BOOK.pdf   
-1. Exploratory Data Analysis-NOTEBOOK.pdf   
-1. Exploring Data Science-BOOK.pdf   
-1. Exploring_Cloud_Computing-Book.pdf   
-1. Feature Engineering Made Easy-BOOK.pdf   
-1. Flask_Web_Development_Developing-BOOK.pdf   
-1. fluent-python-BOOK.pdf   
-1. Foundation of data Science from Microsoft lab-eBook.pdf   
-1. Foundations of Reinforcement Learning  with Applications in Finance_by_AswinRao-BOOK.pdf   
-1. Fundamental of Power Electronics-eBook.pdf   
-1. Fundamentals of Deep Learning-byNikhil-BOOK.pdf   
-1. Fundamentals of Deep Learning-eBook.pdf   
-1. Fundamentals of Project Management-eBook.pdf   
-1. Genetic Algorithms and Machine Learning for Programmers-eBook.pdf   
-1. Getting Started With Tensorflow-BOOK.pdf   
-1. Git Tutorial Book-GUIDE.pdf   
-1. GitLab-NOTEBOOK.pdf   
-1. Going Pro in Data Science-eBOOK.pdf   
-1. Graph Representation Learning-BOOK.pdf   
-1. Graph Theory with Applications by BondyMurty-BOOK.pdf   
-1. Graph_Algorithms_Spark & Neo4j-BOOK.pdf   
-1. Grokking Algorithms-BOOK.pdf   
-1. Hand Gesture Recognition Algorithm-NOTEBOOK.pdf   
-1. Handbook_of_Formulae_and_Constants-GUIDE.pdf   
-1. Hands On Machine Learning with Scikit Learn and TensorFlow-BOOK.pdf   
-1. Hands on Machine Learning with Scikit-Learn, Keras & TensorFlow-BOOK.pdf   
-1. Hands on Sentiment Analysis with ChatGPT+Classification-NOTEBOOK.pdf   
-1. Hands-On Python Tutorial-BOOK.pdf   
-1. Hands-on-machine_Gueron-BOOK.pdf   
-1. How to write a professional emails in English-eBOOK.pdf   
-1. IIOTIndustry4.0-Book.pdf   
-1. Image Classification Using Keras and Tensorflow -NOTEBOOK.pdf   
-1. Information Theory, Inference, and Learning Algorithms-BOOK.pdf   
-1. Intro to Probability for Data Science-BOOK.pdf   
-1. Introducing Microsoft Power BI-BOOK.pdf   
-1. Introducing MLOps by Orelly-eBOOK.pdf   
-1. Introducing MLOPS-How to Scale Machine Learning in the Enterprise-BOOK.pdf   
-1. Introduction to algorithm by MIT Press-BOOK.pdf   
-1. Introduction to Machine Learning with Python-BOOK.pdf   
-1. Introduction to Machine Learning-eBook.pdf   
-1. Introduction to Modern Statistics-eBook.pdf   
-1. Introduction to Probability and Statistics for Engineers and Scientists-BOOK.pdf   
-1. Introduction to Probability for Data Science-BOOK.pdf   
-1. Introduction to Scientific Programming with Python-BOOK.pdf   
-1. Introduction-to-JSON-eBook.pdf   
-1. Introduction_to_algorithms-3rd Edition-BOOK.pdf   
-1. Introduction_to_Applied_Linear_Algebra-BOOK.pdf   
-1. Introduction_To_Scientific_Programming-with-Python-BOOK.pdf   
-1. Introductory-Business-Statistics-with-Interactive-Spreadsheets-BOOK.pdf   
-1. Jumpstart Tableau-BOOK.pdf   
-1. Latex for complete novices-eBook.pdf   
-1. Learn Keras for Deep Neural Networks-BOOK.pdf   
-1. Learn Python in One Day and Learn It Well byJamieChan-BOOK.pdf   
-1. Learn Python Simple Way-NOTEBOOK.pdf   
-1. Learn Python the hard way-eBook.pdf   
-1. Learn-Python-in-One-Day-and-Learn-It-Well-eBook.pdf   
-1. Learning Apache Spark with Python-eBook.pdf   
-1. Learning OpenCV 3 Computer Vision with Python-BOOK.pdf   
-1. Learning Pandas-BOOK.pdf   
-1. Learning Predictive Analytics with Python-BOOK.pdf   
-1. Learning PySpark-BOOK.pdf   
-1. Learning SQL book from Stakeoverlow-eBOOK.pdf   
-1. Learning to Love Data Science-BOOK.pdf   
-1. Learning-Jenkins-eBook.pdf   
-1. Lecture Notes in_Machine Learning-byKrishnaChandra-BOOK.pdf   
-1. Linear Algebra-BOOK.pdf   
-1. Little Book of Business Analysis-REPORT.pdf   
-1. Logging and Debugging-NOTEBOOK.pdf   
-1. Logistic Regression- A Self-learning Text, Third Edition-BOOK.pdf   
-1. Machine Learning and Security_ Protecting Systems with Data and Algorithms-BOOK.pdf   
-1. Machine Learning Engineering in Action-eBook.pdf   
-1. Machine Learning For Absolute Beginners-eBook.pdf   
-1. Machine Learning for Humans-BOOK.pdf   
-1. Machine Learning God byStefanStavrev-BOOK.pdf   
-1. Machine Learning in Python Essential Techniques-BOOK.pdf   
-1. Machine Learning plus Intelligent Optimization-full-BOOK.pdf   
-1. Machine Learning Projects in Python-NOTEBOOK.pdf   
-1. Machine Learning- Step-by-Step Guide To Implement Machine Learning Algorithms with Python-eBook.pdf   
-1. Machine-learning-projects-python-eBook.pdf   
-1. Machine-Learning-Yearning-by-AndrewNG-BOOK.pdf   
-1. Machine_Learning-NOTEBOOK.pdf   
-1. Machine_Learning_1s_Course_for_Engineers_and_Scientists-BOOK.pdf   
-1. Make-AI-BI-Work-at-Scale-by-15Leaders-BOOK.pdf   
-1. Manning Deep Reinforcement Learning in Action-BOOK.pdf   
-1. mastering blockchain-eBook.pdf   
-1. Mastering Machine Learning with Python in Six Steps-BOOK.pdf   
-1. Mastering Machine Learning with scikit-learn-BOOK.pdf   
-1. Mastering Pandas for Finance-BOOK.pdf   
-1. Mastering Pandas-BOOK.pdf   
-1. Mastering Python For Data Science-BOOK.pdf   
-1. Mastering Python Regular Expressions-BOOK.pdf   
-1. Mathematical Foundations of Data Sciences-BOOK.pdf   
-1. Mathematics for Machine Learning-BOOK.pdf   
-1. Mathematics_for_Machine_Learning-BOOK.pdf   
-1. Math_of_ML-NOTEBOOK.pdf   
-1. Matlab and Mathcad-eBook.pdf   
-1. Matlab Deep Learning-eBook.pdf   
-1. Microsoft .NET Framework 4.5 Quickstart Cookbook-BOOK.pdf   
-1. Microsoft Azure Handbook-GUIDE.pdf   
-1. Microsoft System Center - Deploying HyperV with Software Defined Storage and Networking-BOOK.pdf   
-1. MicrosoftPress-Azure Machine Learning-eBook.pdf   
-1. MicrosoftPress-Data Science with Microsoft SQL Server 2016.-eBook.pdf   
-1. MicrosoftPress-Developing Business Intelligence Apps for SharePoint-BOOK.pdf   
-1. MicrosoftPress_Azure_Automation-eBOOK.PDF   
-1. MicrosoftPress_Azure_Web_Apps_for_Developers-eBook.pdf   
-1. MicrosoftPress_Building_Cloud_Apps_with Microsoft_Azure-eBook.pdf   
-1. MicrosoftPress_CreatingMobileAppswithXamarinForms-eBook.pdf   
-1. MicrosoftPress_Introducing_Azure-ebook.pdf   
-1. MicrosoftPress_Introducing_HDInsight-eBook.pdf   
-1. MicrosoftPress_Introducing_Microsoft_SQL_Server_2014-ebook.pdf   
-1. MicrosoftPress_Introducing_Power_BI-ebook.pdf   
-1. MicrosoftPress_Introducing_Windows_10-eBook.pdf   
-1. MicrosoftPress_Introducing_Windows_ITPro-ebook.pdf   
-1. MicrosoftPress_Managing_Agile_Software_Projects-eBook.pdf   
-1. MicrosoftPress_Microsoft_Platform_and_Tools_for_Mobile_App_Development-eBook.pdf   
-1. MicrosoftPress_NET_Technology_Guide_for_Business_Applications-eBook.pdf   
-1. MicrosoftPress_Programming_Windows_8_Apps_HTML_CSS_JavaScript_2E-eBook.pdf   
-1. Mining_Of_Massive_Datasets-BOOK.pdf   
-1. ML-for-Beginners-eBook.pdf   
-1. Models of Learning and Optimization for Data Scientists-NOTEBOOK.pdf   
-1. Modern Stats with R-eBook.pdf   
-1. Monetizing Machine Learning- Quickly Turn Python ML Ideas Into Web Applications on the Serverless Cloud-eBook.pdf   
-1. MongoDB with Python-NOTEBOOK.pdf   
-1. MySQL Notes For Professionals-BOOK.pdf   
-1. Natural Language Processing Recipes-BOOK.pdf   
-1. Natural_Language_Processing_with_Python-BOOK.pdf   
-1. Neo4j_Graph_Algorithms-BOOK.pdf   
-1. Neural Networks And Deep Learning-BOOK.pdf   
-1. NLP using classification ML-Juypter-NOTEBOOK.pdf   
-1. NLP-Panini-Perspective-BOOK.pdf   
-1. Numerical Python a Practical Techniques Approach for Industry-BOOK.pdf   
-1. Open Data Structures-BOOK.pdf   
-1. Open Data Structures_ An Introduction-BOOK.pdf   
-1. Pandas - Powerful Python data analysis-NOTEBOOK.pdf   
-1. Pandas at one place-NOTEBOOK.pdf   
-1. Pandas-10min-NOTEBOOK.pdf   
-1. Patterns, Predictions, And Action - A story about Machine Learning-BOOK.pdf   
-1. PC Architecture-BOOK.pdf   
-1. Plotly-NOTEBOOK.pdf   
-1. Postman-NOTEBOOK.pdf   
-1. Power shell-eBook.pdf   
-1. Practical SQL A Beginner’s Guide to Storytelling with Data-BOOK.pdf   
-1. Practical Statistics for Data Scientists-BOOK.pdf   
-1. Practical Time Series Analysis Prediction with Statistics and Machine Learning-BOOK.pdf   
-1. Practical Web Scraping for Data Science-with-Python-eBook.pdf   
-1. Principles of Data Wrangling-BOOK.pdf   
-1. Pro Python System Administration-BOOK.pdf   
-1. Probability & Statistics with Applications to Computing-BOOK.pdf   
-1. Probability and Statistics for Data Science-BOOK.pdf   
-1. Probability and Statistics for Engineers and Scientists_bySheldonRoss-BOOK.pdf   
-1. Production Machine Learning For Dummies-BOOK.pdf   
-1. Programmers Guide to Data Mining The Art of the Numerati-BOOK.pdf   
-1. Programming for Computations - Python-eBook.pdf   
-1. Programming Hive-BOOK.pdf   
-1. Proper Clustering Problem using K-means and Hierarchical-NOTEBOOK.pdf   
-1. Python - Intermediate-BOOK.pdf   
-1. Python 3 for Absolute Beginners-BOOK.pdf   
-1. Python AI Projects for Beginners-8 smart and exciting AI applications-BOOK.pdf   
-1. Python Data Science Essentials-BOOK.pdf   
-1. Python Data Science Handbook-BOOK.pdf   
-1. Python for Data Analysis- Wrangling with Pandas, Numpy and IPython-BOOK.pdf   
-1. Python For Everybody-BOOK.pdf   
-1. Python For Kids-BOOK.pdf   
-1. Python Machine Learning and Deep Learning with scikit-learn, and TensorFlow-BOOK.pdf   
-1. Python Machine Learning Cookbook_Practical Solutions from Preprocessing to Deep Learning-BOOK.pdf   
-1. Python Notes For Professionals-BOOK.pdf   
-1. Python Programming for Beginner-by Michael Daswon-BOOK.pdf   
-1. Python programming for everyone-BOOK.pdf   
-1. Python Tricks-BOOK.pdf   
-1. Python-HANDBOOK.pdf   
-1. python3.7-eBook.pdf   
-1. Quantum Computing-BOOK.pdf   
-1. Quantum Computing_Progress and Prospects-BOOK.pdf   
-1. Quantum Mechanics-Fall2021 Lecture Notes by BarakShoshany-BOOK.pdf   
-1. Regression Models for Data Science in R-eBook.pdf   
-1. Regular Expressions Cookbook-BOOK.pdf   
-1. Reinforcement Learning2020-BOOK.pdf   
-1. Reinforcement-Learning-An-Introduction-BOOK.pdf   
-1. Reinforcement-Learning-eBook.pdf   
-1. Research-Methods-in-Psychology-BOOK.pdf   
-1. Speech and Language Processing-BOOK.pdf   
-1. Springer-400+DataScience-Ebooks-LINKS.pdf   
-1. SQL API with Python-NOTEBOOK.pdf   
-1. SQL for Data Analysis by CathyTanimura-BOOK.pdf   
-1. SQL for Data Science by AntoniaBadia-BOOK.pdf   
-1. Statistical Analysis-Handbook.pdf   
-1. Statistical foundations of machine learning-BOOK.pdf   
-1. Statistics  Demystified-BOOK.pdf   
-1. Statistics & Machine Learning in Python-BOOK.pdf   
-1. Statistics and Machine Learning in Python-BOOK.pdf   
-1. Statistics and Machine Learning in Python-eBook.pdf   
-1. Statistics for Machine Learning-BOOK.pdf   
-1. Statistics Machine Learning in Python-BOOK.pdf   
-1. Statistics-Essentials-for-Dummies-eBook.pdf   
-1. Statistics_Cartoon_Guide-BOOK.pdf   
-1. Statistics_With_Julia_Fundamentals for Data Science, Machine Learning and AI-BOOK.pdf   
-1. Supervised Machine Learning - Lecture Notes for Statistical Machine Learning-BOOK.pdf   
-1. Supervised Machine Learning -eBook.pdf   
-1. Supervised Machine Learning-BOOK.pdf   
-1. Supplementary Material for _Probabilistic Machine Learning-Advanced Topics-BOOK.pdf   
-1. System Design Basics Handbook-NOTES.pdf   
-1. TensorFlow in 1 Day Make your own Neural Network-eBook.pdf   
-1. The AI Thought Book by Murat Durmus-PPT.pdf   
-1. The Analytics Setup Guidebook-BOOK.pdf   
-1. The Art of Machine Learning-Algorithms+Data+R-BOOK.pdf   
-1. The Comprehensive Guide  to DAX-BOOK.pdf   
-1. The Data Revolution_Big Data Open Data Infrastructures and Their Consequences-BOOK.pdf   
-1. The Data Science Design Manual-BOOK.pdf   
-1. The Data Science Handbook-BOOK.pdf   
-1. The Definitive Guide to DAX-NOTEBOOK.pdf   
-1. The Elements of  Statistical Learning  Data Mining, Inference, and Prediction-BOOK.pdf   
-1. The Elements of Statistical Learning-BOOK.pdf   
-1. The Future of Analytics-BOOK.pdf   
-1. The LION Way - Machine Learning plus Intelligent Optimization-Part3-BOOK.pdf   
-1. The Mathematics of Multiple Linear Regression-NOTEBOOK.pdf   
-1. The Matrix Cookbook-GUIDE.pdf   
-1. The Product Manager Handbook-BOOK.pdf   
-1. The React Beginner's-HANDBOOK.pdf   
-1. The Ultimate Guide to Protect Management-eBook.pdf   
-1. The Ultimate Web3 CFO Guide-NOTEBOOK.pdf   
-1. The-365-Data-Science-Booklet-PPT.pdf   
-1. The-Big-Book-of-MLOps-PPT.pdf   
-1. The-Functional-Art-An-Introduction-to-Information-Graphics-and-Visualization-eBook.pdf   
-1. The-Python-Apprentice-by_RoberSmallshire-BOOK.pdf   
-1. The-Python-Journeyman-byAustin-BOOK.pdf   
-1. The-Python-Master-by-RobertSmallshire-BOOK.pdf   
-1. The-Hundred-Page_Machine-Learning-BOOK.pdf   
-1. Theory of Deep Learning TextBook-eBook.pdf   
-1. The_Data_Science-Booklet-PPT.pdf   
-1. The_Essentlials of Risk Management-eBook.pdf   
-1. Think Complexity-BOOK.pdf   
-1. Think Data Structures-Algorithms-in-Java-eBook.pdf   
-1. Think Python How to Think Like a Computer Scientist-BOOK.pdf   
-1. Think Stats EDA in Python-eBook.pdf   
-1. Think_Stats_Probality_and_Stats_for_Programmers-BOOK.pdf   
-1. TimeSeries Forecasting Using fbprophet-NOTEBOOK.pdf   
-1. Topics in Reinforcement Learning-eBook.pdf   
-1. Transfer Learning - VGG19 Model-NOTEBOOK.pdf   
-1. Undergraduate-Texts-in-Discrete-Mathematics-BOOK.pdf   
-1. Understanding Machine Learning From Theory to Algorithms-BOOK.pdf   
-1. Vectors-HANDBOOK.pdf   
-1. VIS-ggplot2-NOTEBOOK.pdf   
-1. VIS-Visualization in plotly with R-NOTEBOOK.pdf   
-1. Visualize And Modeling Joint Behaviors of Categorical Variables-BOOK.pdf   
-1. Writing for computer science 3rd edition-BOOK.pdf   
-1. Data Engineering Cookbook-GUIDE.pdf   
-1. VIS-Know your data with ggplot2-NOTEBOOK.pdf   
-
+# Book
+1. 100-Statistical-Tests-EBOOK.pdf
+1. 48-ChatGPT-Prompts-Ready-to-Use-for-beginners-EBOOK.pdf
+1. 75-Days-Coding-EBOOK.pdf
+1. 97-Things-Every-Data-Engineer-should-know-EBOOK.pdf
+1. A_Course_in_Machine_Learning_byHalDaume-BOOK.pdf
+1. A-Brief-Introduction-NeuralNetwork-by-DavidKriesel-BOOK.pdf
+1. A-Brief-Review-of-Machine-Learning-Models-_-Explainability-EBOOK.pdf
+1. A-Comprehensive-Guide-to-Machine-Learning-BOOK.pdf
+1. A-Concrete-Introduction-to-Higher-Algebra-BOOK.pdf
+1. A-course-in-Time-Series-Analysis-EBOOK.pdf
+1. A-First-Course-in-AI-by-DeepakKhemani-EBOOK.pdf
+1. A-First-Course-in-Artificial-Intelligence-BOOK.pdf
+1. A-First-Course-in-Artificial-Intelligence-by-Deepak-EBOOK.pdf
+1. A-Gentle-Introduction-to-Optimization-EBOOK.pdf
+1. A-Modern-Approach--to-Regression-with-R-EBOOK.pdf
+1. A-practical-guide-for-testing-for-DEVOPS-EBOOK.pdf
+1. A-Primer-to-the-42-Most-commonly-used-ML-Algorithms-EBOOK.pdf
+1. A-Programmers-Guide-to-Data-Mining-BOOK.pdf
+1. A-Smarter-way-to-Learn-Python-EBOOK.pdf
+1. Advanced-Analytics-with-Spark-BOOK.pdf
+1. Advanced-Data-Analysis--from-an-Elementary-Point-of-View-BOOK.pdf
+1. Advanced-Deep-Learning-with-TensorFlow2-BOOK.pdf
+1. Advanced-Python-Tips-BOOK.pdf
+1. Advanced-Research-On-Ai-For-Science,-Energy,-And-Security-EBOOK.pdf
+1. Advanced-Topics-in-Linear-Algebra-Weaving-Matrix-Problems-through-the-Weyr-Form-EBOOK.pdf
+1. Agile-Data-Engine-ADE-Guide-to-DataOps-EBOOK.pdf
+1. Agile-Data-Science-2.0_-Building-Full-Stack-Data-Analytics-Applications-with-Spark-BOOK.pdf
+1. AI-and-International-Conflict-in-Cyberspace-EBOOK.pdf
+1. AI-for-Data-Science-EBOOK.pdf
+1. AI-for-Science,-Energy-and-Security-EBOOK.pdf
+1. Algorithmic-Aspects-of-Machine-Learning-BOOK.pdf
+1. Algorithmic-High-Dimensional-Robust-Statistics-EBOOK.pdf
+1. Algorithms-for-Decision-Making-EBOOK.pdf
+1. All-Of-Statistics-A-Concise-Course-in-Statistical-Inference_by_Larry-BOOK.pdf
+1. An_Introduction_to_Genetic_Algorithms-BOOK.pdf
+1. An-Introduction-to-Data-Everything-You-Need-to-Know-about-AI-and-Bigdata-EBOOK.pdf
+1. An-introduction-to-graph-theory-EBOOK.pdf
+1. An-Introduction-To-Machine-Learning-byMiroslav-BOOK.pdf
+1. An-Introduction-to-Python-Programming-by-ByteSize-EBOOK.pdf
+1. An-Introduction-to-Statistical--Learning--with-Applications-in-R-Second-Edition-EBOOK.pdf
+1. An-Introduction-to-Statistical-Learning-with-Application-in-R-BOOK.pdf
+1. An-Introduction-to-the-Philosophy-of-Time-and-Space-EBOOK.pdf
+1. Analytics-in-a-Big-Data-World-The-Essential-Guide-to-Data-Science-and-its-Applications-BOOK.pdf
+1. API-lifecycle-EBOOK.pdf
+1. Applied-NLP-with-Python-EBOOK.pdf
+1. Approaching-(Almost)-Any-Machine-Learning-Problem-EBOOK.pdf
+1. Approaching-Any-machine-learning-problem-EBOOK.pdf
+1. Architecture-EBOOK.pdf
+1. Artificial-Intelligence-Implications-for-Business-Strategy-BOOK.pdf
+1. Artificial-Neural-Networks-with-Java-Tools-for-Building-Neural-Network-Applications-EBOOK.pdf
+1. Automated-Machine-Learning--Methods,-Systems,-Challenges-BOOK.pdf
+1. Azure-ComputerVision_Jun2021-EBOOK.pdf
+1. Bayes-theorem_A_Visual_Introduction_for_Beginner-EBOOK.pdf
+1. Bayesian-Reasoning-and-Machine-Learning-BOOK.pdf
+1. BAYESUVIUS-A_Visual_Dictionary_of_Bayesian-_Networks_and_Causal_Inference-BOOK.pdf
+1. Baysian-Reasoning-_-Machine-Learning-BOOK.pdf
+1. Be-the-Outlier-EBOOK.pdf
+1. Big-Data-Engineering-EBOOK.pdf
+1. BigBookSmallPythonProjects-EBOOK.pdf
+1. Blockchain-Engineering-PlayBook-EBOOK.pdf
+1. Bug-Bounty-Hunting-for-Web-Security-EBOOK.pdf
+1. Building-Intelligent-Apps-with-Cognitive-APIs-BOOK.pdf
+1. Chapter1-KocovicRadenkovic-doi-BOOK.pdf
+1. Cloud-Native-Infrastructure--with-Azure-EBOOK.pdf
+1. Coding-Projects-in-Python-EBOOK.pdf
+1. Competitive-Programming-EBOOK.pdf
+1. Competitive-Programming-in-Python-EBOOK.pdf
+1. Computer-Age-Statistical-Inference-BOOK.pdf
+1. Computer-Vision-Algo-_-Applications-by-Szeliski-BOOK.pdf
+1. Computer-Vision-Model,-Learning-and-Inference-BOOK.pdf
+1. Cracking-the-Coding-Interview,-6th-Edition-EBOOK.pdf
+1. CS229-Lecture-Notes-by-Andrew-NG-EBOOK.pdf
+1. Daily-Dose-of-Data-Science-Archive-EBOOK.pdf
+1. Data_Analytics-Practical_Guide-BOOK.pdf
+1. Data-Analysis-with-Microsoft-Excel-EBOOK.pdf
+1. Data-analytics-for-beginners-EBOOK.pdf
+1. Data-Driven-Science-and-Engineering-EBOOK.pdf
+1. Data-quality-monitoring-with-Agile-Data-Engine-ADE-EBOOK.pdf
+1. Data-Science-_-Big-Data-Analytics-EBOOK.pdf
+1. Data-Science-and-Analytics-with-Python-EBOOK.pdf
+1. Data-Science-and-ML-Maths-and-Statistical-Methods-EBOOK.pdf
+1. Data-Science-for-Busines_by_FosterProvost_TomFawcett-BOOK.pdf
+1. Data-Science-from-Scratch-BOOK.pdf
+1. Data-Science-from-Scratch-First-Principles-with-Python-By-Jeol-Grus-EBOOK.pdf
+1. Data-Science-in-Marketing-Analytics-BOOK.pdf
+1. Data-Science-Theories-Models-Algorithms-and-Analytics-BOOK.pdf
+1. Data-Structures-And-Algorithms-With-Python-BOOK.pdf
+1. Data-Visualization-and-Exploration-with-R-A-Practical-Guide-to-Using-R-BOOK.pdf
+1. Data-Visualization-in-Society-BOOK.pdf
+1. Data-visualization-made-simple-SosulskiKristen-BOOK.pdf
+1. Deep_Learning_Methods_and_Applications-BOOK.pdf
+1. Deep-Learning-BOOK.pdf
+1. Deep-Learning-by-JohnKelleher-MIT-Press-BOOK.pdf
+1. Deep-Learning-Cookbook-BOOK.pdf
+1. Deep-Learning-for-Dummies-BOOK.pdf
+1. Deep-Learning-for-NLP-EBOOK.pdf
+1. Deep-Learning-with-Azure-BOOK.pdf
+1. Deep-Learning-with-Python-BOOK.pdf
+1. Deep-learning-with-Python-by-Nikhil-Ketkar-BOOK.pdf
+1. Deep-Learning-with-Python-EBOOK.pdf
+1. Deep-Learning-with-PyTorch-BOOK.pdf
+1. Deep-Reinforcement-Learning-BOOK.pdf
+1. DesignPatterns-EBOOK.pdf
+1. Developmental-Neurobiology-BOOK.pdf
+1. Digital-Entrepreneurship-Impact-on-Business-and-Society-BOOK.pdf
+1. Dive-into-Deep-Learning-BOOK.pdf
+1. Django-Documentation-EBOOK.pdf
+1. Django-EBOOK.pdf
+1. Docker-for-Data-Science-_-Building-Scalable-and-Extensible-Data-Infrastructure-EBOOK.pdf
+1. DoD-Risk-Management-Guide-EBOOK.pdf
+1. DS-Review-Refresher-EBOOK.pdf
+1. Dynamical-Systems-with-Applications-using-Python-EBOOK.pdf
+1. EDA-the-right-way-BOOK.pdf
+1. Efficient-Learning-Machines-BOOK.pdf
+1. Essentials-of-Business-Analytics-BOOK.pdf
+1. Evaluating-ML-Model-BOOK.pdf
+1. Everything-You-Wanted-to-Know-About-Mathematics-EBOOK.pdf
+1. Excel_charts_TP-BOOK.pdf
+1. Excel_Data_Analysis_TP-BOOK.pdf
+1. Excel_macros_byTutorialPoint-BOOK.pdf
+1. Excel_power_pivot_byTP-BOOK.pdf
+1. Excel-Advanced_Excel_Charts_byTP-BOOK.pdf
+1. Excel-Data-Analysis_-Modeling-and-Simulation-EBOOK.pdf
+1. Excel-This-isnt-excel-it-is-magic-BOOK.pdf
+1. Excel2010_byTP-BOOK.pdf
+1. Explaining-decisions-made-with-AI-BOOK.pdf
+1. Exploring-Data-Science-BOOK.pdf
+1. Exponential-Families-in-Theory-_-Practice-EBOOK.pdf
+1. Feature-Engineering-Made-Easy-BOOK.pdf
+1. Financial-Machine-Learning-EBOOK.pdf
+1. Financial-Risk-Modelling-and-Portfolio-optimization-with-R-EBOOK.pdf
+1. Flask_Web_Development_Developing-BOOK.pdf
+1. Fluent-python-BOOK.pdf
+1. Foundation-of-data-Science-from-Microsoft-lab-EBOOK.pdf
+1. Foundations-of-Reinforcement-Learning--with-Applications-in-Finance_by_AswinRao-BOOK.pdf
+1. Fundamental-of-Power-Electronics-EBOOK.pdf
+1. Fundamentals-of-Deep-Learning-byNikhil-BOOK.pdf
+1. Fundamentals-of-Deep-Learning-EBOOK.pdf
+1. Generative-AI-How-Chatgpt-Will-Revolutionize-Business-EBOOK.pdf
+1. Genetic-Algorithms-and-Machine-Learning-for-Programmers-EBOOK.pdf
+1. Getting-Started-With-Tensorflow-BOOK.pdf
+1. Going-Pro-in-Data-Science-EBOOK.pdf
+1. Graph_Algorithms_Spark-_-Neo4j-BOOK.pdf
+1. Graph-Representation-Learning-BOOK.pdf
+1. Graph-Theory-with-Applications-by-BondyMurty-BOOK.pdf
+1. Grokking-Algorithms-BOOK.pdf
+1. Handbook-of-AI-and-Big-Data-Applications-in-Investments-EBOOK.pdf
+1. HandbookOfTheLifeCourse-EBOOK.pdf
+1. Hands-On-Data-Preprocessing-in-Python-by-RoyJafari-EBOOK.pdf
+1. Hands-on-machine_Gueron-BOOK.pdf
+1. Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow-BOOK.pdf
+1. Hands-on-Machine-Learning-with-Scikit-Learn,-Keras-_-TensorFlow-BOOK.pdf
+1. Hands-On-Python-Tutorial-BOOK.pdf
+1. Harvard-Business-Review-Reskilling-in-the-age-of-AI-EBOOK.pdf
+1. High-Performance-Python--Practical-Performant-Programming-for-Humans-EBOOK.pdf
+1. How-to-Build-a-Career-in-AI-EBOOK.pdf
+1. How-to-write-a-professional-emails-in-English-EBOOK.pdf
+1. IIOTIndustry4.0-BOOK.pdf
+1. Information-Theory,-Inference,-and-Learning-Algorithms-BOOK.pdf
+1. Intelligent-Automation-Simplified-EBOOK.pdf
+1. Interactive-Linear-Algebra--Georgia-Tech-EBOOK.pdf
+1. Intro-scientific-programming-EBOOK.pdf
+1. Intro-to-Probability-for-Data-Science-BOOK.pdf
+1. Introducing-Microsoft-Power-BI-BOOK.pdf
+1. Introducing-MLOps-BOOK.pdf
+1. Introduction_to_algorithms-3rd-Edition-BOOK.pdf
+1. Introduction_to_Applied_Linear_Algebra-BOOK.pdf
+1. Introduction_To_Scientific_Programming-with-Python-BOOK.pdf
+1. Introduction-to-algorithm-by-MIT-Press-BOOK.pdf
+1. Introduction-to-Data-Mining-BOOK.pdf
+1. Introduction-to-Data-Science-A-Python-Approach-to-Concepts,-Tech-and-Apps-EBOOK.pdf
+1. Introduction-to-Differential-Geometry-EBOOK.pdf
+1. Introduction-to-Econometrics-with-R-EBOOK.pdf
+1. Introduction-to-JSON-EBOOK.pdf
+1. Introduction-to-Machine-Learning-EBOOK.pdf
+1. Introduction-to-Machine-Learning-with-Python-BOOK.pdf
+1. Introduction-to-Matrix-Algebra-EBOOK.pdf
+1. Introduction-to-Modern-Statistics-by-Mine-and-Johanna-Hardin-EBOOK.pdf
+1. Introduction-to-Probability-and-Statistics-for-Engineers-and-Scientists-BOOK.pdf
+1. Introduction-to-Probability-Course-EBOOK.pdf
+1. Introduction-to-Probability-for-Data-Science-BOOK.pdf
+1. Introduction-to-Programming-Concepts-with-Case-Studies-in-Python-EBOOK.pdf
+1. Introduction-To-Scientific-Program-with-Python-EBOOK.pdf
+1. Introduction-to-Statistics-and-Data-Analysis-BOOK.pdf
+1. Introductory-Business-Statistics-with-Interactive-Spreadsheets-BOOK.pdf
+1. Jumpstart-Tableau-BOOK.pdf
+1. Knell-2014-Introductory-R-sample-chapters-EBOOK.pdf
+1. Latex-for-complete-novices-EBOOK.pdf
+1. Learn-Keras-for-Deep-Neural-Networks-BOOK.pdf
+1. Learn-Python-in-One-Day-and-Learn-It-Well-EBOOK.pdf
+1. Learn-Python-the-hard-way-EBOOK.pdf
+1. Learn-Python-the-Hard-Way1-EBOOK.pdf
+1. Learn-SQL-in-One-Day-and-Learn-it-Well-EBOOK.pdf
+1. Learning-Apache-Spark-with-Python-EBOOK.pdf
+1. Learning-Django-EBOOK.pdf
+1. Learning-Jenkins-EBOOK.pdf
+1. Learning-OpenCV-3-Computer-Vision-with-Python-BOOK.pdf
+1. Learning-Pandas-BOOK.pdf
+1. Learning-Predictive-Analytics-with-Python-BOOK.pdf
+1. Learning-Professional-Python-EBOOK.pdf
+1. Learning-PySpark-BOOK.pdf
+1. Learning-SQL-book-from-Stakeoverlow-EBOOK.pdf
+1. Learning-to-Love-Data-Science-EBOOK.pdf
+1. Levels-of-AGI-Operationalizing-Progress-on-the-Path-to-AGI-EBOOK.pdf
+1. Linear-Algebra-Abstract-Mathematics-EBOOK.pdf
+1. Linear-Algebra-BOOK.pdf
+1. Linear-Algebra-Done-Right-EBOOK.pdf
+1. Linux-1-EBOOK.pdf
+1. Linux-Kernel-CrashBook-EBOOK.pdf
+1. Logistic-Regression--A-Self-learning-Text,-Third-Edition-BOOK.pdf
+1. Machine_Learning_1s_Course_for_Engineers_and_Scientists-BOOK.pdf
+1. Machine-Learning--Q-and-AI-InterviewQ-EBOOK.pdf
+1. Machine-Learning--Step-by-Step-Guide-To-Implement-Machine-Learning-Algorithms-with-Python-EBOOK.pdf
+1. Machine-Learning-and-Security_-Protecting-Systems-with-Data-and-Algorithms-BOOK.pdf
+1. Machine-Learning-Applications-In-Supply-Chain-Management-EBOOK.pdf
+1. Machine-learning-based-inventory-optimization-respecting-supplier-order-line-fees-EBOOK.pdf
+1. Machine-Learning-Engineering-in-Action-EBOOK.pdf
+1. Machine-Learning-For-Absolute-Beginners-EBOOK.pdf
+1. Machine-Learning-for-Humans-EBOOK.pdf
+1. Machine-Learning-God-byStefanStavrev-BOOK.pdf
+1. Machine-Learning-in-Python-Essential-Techniques-BOOK.pdf
+1. Machine-Learning-plus-Intelligent-Optimization-full-BOOK.pdf
+1. Machine-Learning-With-Python-For-Everyone-EBOOK.pdf
+1. Machine-Learning-Yearning-by-AndrewNG-BOOK.pdf
+1. Make-AI-BI-Work-at-Scale-by-15Leaders-BOOK.pdf
+1. Manning-Deep-Reinforcement-Learning-in-Action-BOOK.pdf
+1. Mastering-blockchain-EBOOK.pdf
+1. Mastering-Generative-AI-and-Prompt-Engineering-EBOOK.pdf
+1. Mastering-Machine-Learning-with-Python-in-Six-Steps-BOOK.pdf
+1. Mastering-Machine-Learning-with-scikit-learn-BOOK.pdf
+1. Mastering-Pandas-BOOK.pdf
+1. Mastering-Pandas-for-Finance-BOOK.pdf
+1. Mastering-Python-For-Data-Science-BOOK.pdf
+1. Mastering-Python-Regular-Expressions-BOOK.pdf
+1. Mathematical-Foundations-of-Data-Sciences-BOOK.pdf
+1. Mathematical-Physics-A-Modern-Introduction-to-Its-Foundations-EBOOK.pdf
+1. Mathematical-Statistics-with-Resampling-and-R-BOOK.pdf
+1. Mathematics_for_Machine_Learning-BOOK.pdf
+1. Matlab-and-Mathcad-EBOOK.pdf
+1. Matlab-Deep-Learning-EBOOK.pdf
+1. Methods-of-Applied-Mathematics-EBOOK.pdf
+1. Microsoft-.NET-Framework-4.5-Quickstart-Cookbook-BOOK.pdf
+1. Microsoft-System-Center-Deploying-HyperV-with-Software-Defined-Storage-and-Networking-BOOK.pdf
+1. MicrosoftPress_Azure_Automation-EBOOK.pdf
+1. MicrosoftPress_Azure_Web_Apps_for_Developers-EBOOK.pdf
+1. MicrosoftPress_Building_Cloud_Apps_with-Microsoft_Azure-EBOOK.pdf
+1. MicrosoftPress_CreatingMobileAppswithXamarinForms-EBOOK.pdf
+1. MicrosoftPress_Introducing_Azure-EBOOK.pdf
+1. MicrosoftPress_Introducing_HDInsight-EBOOK.pdf
+1. MicrosoftPress_Introducing_Microsoft_SQL_Server_2014-EBOOK.pdf
+1. MicrosoftPress_Introducing_Power_BI-EBOOK.pdf
+1. MicrosoftPress_Introducing_Windows_10-EBOOK.pdf
+1. MicrosoftPress_Introducing_Windows_ITPro-EBOOK.pdf
+1. MicrosoftPress_Managing_Agile_Software_Projects-EBOOK.pdf
+1. MicrosoftPress_Microsoft_Platform_and_Tools_for_Mobile_App_Development-EBOOK.pdf
+1. MicrosoftPress_NET_Technology_Guide_for_Business_Applications-EBOOK.pdf
+1. MicrosoftPress_Programming_Windows_8_Apps_HTML_CSS_JavaScript_2E-EBOOK.pdf
+1. MicrosoftPress-Azure-Machine-Learning-EBOOK.pdf
+1. MicrosoftPress-Data-Science-with-Microsoft-SQL-Server-2016.-EBOOK.pdf
+1. MicrosoftPress-Developing-Business-Intelligence-Apps-for-SharePoint-BOOK.pdf
+1. Mining_Of_Massive_Datasets-BOOK.pdf
+1. ML-for-Beginners-EBOOK.pdf
+1. Modern-data-warehouse-and-when-do-you-need-one-by-Agile-Data-Engine-ADE-EBOOK.pdf
+1. Modern-Statistics-with-R-EBOOK.pdf
+1. Modern-Stats-with-R-EBOOK.pdf
+1. Monetizing-Machine-Learning--Quickly-Turn-Python-ML-Ideas-Into-Web-Applications-on-the-Serverless-Cloud-EBOOK.pdf
+1. MySQL-Notes-For-Professionals-BOOK.pdf
+1. Natural_Language_Processing_with_Python-BOOK.pdf
+1. Natural-Language-Processing-Recipes-BOOK.pdf
+1. Natural-Language-Processing-with-PyTorch-EBOOK.pdf
+1. Neo4j_Graph_Algorithms-BOOK.pdf
+1. Neural-Networks-And-Deep-Learning-BOOK.pdf
+1. Neural-Networks-and-Deep-Learning-EBOOK.pdf
+1. NLP-Panini-Perspective-BOOK.pdf
+1. Numerical-Python-a-Practical-Techniques-Approach-for-Industry-BOOK.pdf
+1. Open-Data-Structures_-An-Introduction-BOOK.pdf
+1. Open-Data-Structures-BOOK.pdf
+1. Patterns,-Predictions,-And-Action-A-story-about-Machine-Learning-BOOK.pdf
+1. PC-Architecture-BOOK.pdf
+1. PGD-in-Cyber-Security-Digital-Forensics-EBOOK.pdf
+1. Physics-based-Deep-Learning-EBOOK.pdf
+1. Power-shell-EBOOK.pdf
+1. Practical SQL A Beginners Guide to Storytelling with Data-BOOK.pdf
+1. Practical-Statistics-for-Data-Scientists-50Essential-Concepts-Using-R+Python-EBOOK.pdf
+1. Practical-Statistics-for-Data-Scientists-BOOK.pdf
+1. Practical-Time-Series-Analysis-Prediction-with-Statistics-and-Machine-Learning-BOOK.pdf
+1. Practical-Web-Scraping-for-Data-Science-with-Python-EBOOK.pdf
+1. Principles-of-Data-Wrangling-BOOK.pdf
+1. Pro-Django-EBOOK.pdf
+1. Pro-Python-System-Administration-BOOK.pdf
+1. Probability-and-Statistics-for-Data-Science-BOOK.pdf
+1. Probability-and-Statistics-for-Engineers-and-Scientists_bySheldonRoss-BOOK.pdf
+1. Probability-Statistics-with-Applications-to-Computing-BOOK.pdf
+1. Probability-Stats-for-DS-EBOOK.pdf
+1. Production-Machine-Learning-For-Dummies-BOOK.pdf
+1. Programmers-Guide-to-Data-Mining-The-Art-of-the-Numerati-BOOK.pdf
+1. Programming-Computer-Vision-with-Python-EBOOK.pdf
+1. Programming-for-Computations-Python-EBOOK.pdf
+1. Programming-Hive-BOOK.pdf
+1. PSPP-Statistical-Analysis-Software_UserManual-EBOOK.pdf
+1. Python-3-for-Absolute-Beginners-BOOK.pdf
+1. Python-Data-Science-Essentials-BOOK.pdf
+1. Python-Data-Science-Handbook-BOOK.pdf
+1. Python-for-Absolute-Beginners-EBOOK.pdf
+1. Python-for-Data-Analysis--Wrangling-with-Pandas,-Numpy-and-IPython-BOOK.pdf
+1. Python-For-Everybody-BOOK.pdf
+1. Python-For-Kids-BOOK.pdf
+1. Python-for-Science-&-Engineering-EBOOK.pdf
+1. Python-for-Science-and-Engineering-EBOOK.pdf
+1. Python-Guide-EBOOK.pdf
+1. Python-Intermediate-BOOK.pdf
+1. Python-Leetcode-solutions-EBOOK.pdf
+1. Python-Machine-Learning-and-Deep-Learning-with-scikit-learn,-and-TensorFlow-BOOK.pdf
+1. Python-Machine-Learning-Cookbook_Practical-Solutions-from-Preprocessing-to-Deep-Learning-BOOK.pdf
+1. Python-Notes-For-Professionals-BOOK.pdf
+1. Python-Programming-for-Beginner-by-Michael-Daswon-BOOK.pdf
+1. Python-programming-for-everyone-BOOK.pdf
+1. Python-Tricks-BOOK.pdf
+1. Python-Tutorial-Codes-EBOOK.pdf
+1. python3.7-EBOOK.pdf
+1. Quantum-Computing_Progress-and-Prospects-BOOK.pdf
+1. Quantum-Computing-BOOK.pdf
+1. Quantum-Mechanics-Fall2021-Lecture-Notes-by-BarakShoshany-BOOK.pdf
+1. Regex-EBOOK.pdf
+1. Regression-Models-for-Data-Science-in-R-EBOOK.pdf
+1. Regular-Expressions-Cookbook-BOOK.pdf
+1. Reinforcement-Learning-An-Introduction-BOOK.pdf
+1. Reinforcement-Learning-EBOOK.pdf
+1. Reinforcement-Learning2020-BOOK.pdf
+1. Research-Methods-in-Psychology-BOOK.pdf
+1. Scaling-Language-Models--Methods,-Analysis-and-Insights-from-Training-Gopher-EBOOK.pdf
+1. Solutions_Modernstatistics-EBOOK.pdf
+1. Speech-and-Language-Processing-BOOK.pdf
+1. SQL-for-Data-Analysis-by-CathyTanimura-BOOK.pdf
+1. SQL-for-Data-Science-by-AntoniaBadia-BOOK.pdf
+1. SQL-NoSQL-Databases-EBOOK.pdf
+1. Statistical-foundations-of-machine-learning-BOOK.pdf
+1. Statistical-inference-for-data-science-EBOOK.pdf
+1. Statistical-Modeling-Regression,-Survival-Analysis-and-TimeSeries-Analysis-EBOOK.pdf
+1. Statistics_Cartoon_Guide-BOOK.pdf
+1. Statistics_With_Julia_Fundamentals-for-Data-Science,-Machine-Learning-and-AI-BOOK.pdf
+1. Statistics-_-Machine-Learning-in-Python-BOOK.pdf
+1. Statistics--Demystified-BOOK.pdf
+1. Statistics-and-Machine-Learning-in-Python-BOOK.pdf
+1. Statistics-and-Machine-Learning-in-Python-EBOOK.pdf
+1. Statistics-Essentials-for-dummies-BOOK.pdf
+1. Statistics-Essentials-for-Dummies-EBOOK.pdf
+1. Statistics-for-Machine-Learning-BOOK.pdf
+1. Statistics-Machine-Learning-in-Python-BOOK.pdf
+1. STATS331-Introduction-to-Bayesian-Statistics-with-R-EBOOK.pdf
+1. Stochastic-Differential-Equations-EBOOK.pdf
+1. Stochastic-Processes-Course-Notes-EBOOK.pdf
+1. Story-Telling-with-Data-EBOOK.pdf
+1. Storytelling_with_Data-EBOOK.pdf
+1. Supervised-Machine-Learning-BOOK.pdf
+1. Supervised-Machine-Learning-Lecture-Notes-for-Statistical-Machine-Learning-BOOK.pdf
+1. Supplementary-Material-for-_Probabilistic-Machine-Learning-Advanced-Topics-BOOK.pdf
+1. Support-Vector-Machines-Succinctly-EBOOK.pdf
+1. System-Design-by-Alex-Xu-EBOOK.pdf
+1. System-Design-TheBigArchive-EBOOK.pdf
+1. Tensor-Regression-EBOOK.pdf
+1. TensorFlow-in-1-Day-Make-your-own-Neural-Network-EBOOK.pdf
+1. The_Python_Workbook_Ben_Stephenson-EBOOK.pdf
+1. The-Analytics-Setup-Guidebook-BOOK.pdf
+1. The-Art-of-Machine-Learning-Algorithms+Data+R-BOOK.pdf
+1. The-Comprehensive-Guide--to-DAX-BOOK.pdf
+1. The-Data-Science-Design-Manual-BOOK.pdf
+1. The-Data-Science-Handbook-BOOK.pdf
+1. The-Elements-of--Statistical-Learning--Data-Mining,-Inference,-and-Prediction-BOOK.pdf
+1. The-Elements-of-Statistical-Learning-BOOK.pdf
+1. The-Essentials-of-Data-Science_-Knowledge-Discovery-Using-R-EBOOK.pdf
+1. The-Functional-Art-An-Introduction-to-Information-Graphics-and-Visualization-EBOOK.pdf
+1. The-Future-of-Analytics-BOOK.pdf
+1. The-Hundred-Page_Machine-Learning-BOOK.pdf
+1. The-Impact-of-LLMs-on-Scientific-Discovery-using-GPT-4-EBOOK.pdf
+1. The-LION-Way-Machine-Learning-plus-Intelligent-Optimization-Part3-BOOK.pdf
+1. The-Little-Book-of-Deep-Learning-EBOOK.pdf
+1. The-Purple-Book-on-Cyber-Security-EBOOK.pdf
+1. The-Python-Apprentice-by_RoberSmallshire-BOOK.pdf
+1. The-Python-Journeyman-byAustin-BOOK.pdf
+1. The-Python-Master-by-RobertSmallshire-BOOK.pdf
+1. Think_Stats_Probality_and_Stats_for_Programmers-BOOK.pdf
+1. Think-Complexity-BOOK.pdf
+1. Think-Data-Structures-Algorithms-in-Java-EBOOK.pdf
+1. Think-Python-How-to-Think-Like-a-Computer-Scientist-BOOK.pdf
+1. Think-Stats-EDA-in-Python-EBOOK.pdf
+1. Time-Series-Analysis_-Forecasting-and-Control-EBOOK.pdf
+1. Time-series-analysis-with-applications-in-R-EBOOK.pdf
+1. Time-Series-Econometrics_A-Concise-Course-EBOOK.pdf
+1. Topics-in-Reinforcement-Learning-EBOOK.pdf
+1. Undergraduate-Texts-in-Discrete-Mathematics-BOOK.pdf
+1. Understanding-Deep-Learning-EBOOK.pdf
+1. Understanding-Machine-Learning-From-Theory-to-Algorithms-BOOK.pdf
+1. Understanding-machine-learning-theory-algorithms-BOOK.pdf
+1. Visualize-And-Modeling-Joint-Behaviors-of-Categorical-Variables-BOOK.pdf
+1. Web-3.0-Utility-&-Required-Skills-for-Individuals-EBOOK.pdf
+1. What-is-data-science-EBOOK.pdf
+1. Why-a-Bayesian-Approach-to-Drug-Development-and-Evaluation-EBOOK.pdf
+1. Writing-for-computer-science-3rd-edition-BOOK.pdf
+ 
+ 
+# Guide 
+1. 10-Projects-to-Transition-to-Data-Science-Roles-GUIDE.pdf
+1. 10-Useful-Way-To-Visualize-Your-Data-GUIDE.pdf
+1. 10-Useful-Ways-to-Visualise-YourData-GUIDE.pdf
+1. 100+-AI-Use-Cases-_-Applications-In-depth-GUIDE.pdf
+1. 14-Powerful-Visuals-About-Psychology-_-Life-GUIDE.pdf
+1. 180-Days-Data-Science-Study-Plan-GUIDE.pdf
+1. 20-Python-Libraries-GUIDE.pdf
+1. 2020-Scrum-Guide-US-GUIDE.pdf
+1. 2021-Executive-Guide-to-Data-Science-and-AI-GUIDE.pdf
+1. 5-ways-to-access-news-as-a-data-source-GUIDE.pdf
+1. 60-ChatGPT-prompts-for-Data-Science-GUIDE.pdf
+1. 9-Googling-tips-GUIDE.pdf
+1. 9-HTTP-Methods-GUIDE.pdf
+1. A-Practical-Introduction-to-Python-Programming-GUIDE.pdf
+1. A-Visual-Introduction-to-Deep-Learning-GUIDE.pdf
+1. Advanced-Analytics-PowerBI-GUIDE.pdf
+1. Advanced-Excel-GUIDE.pdf
+1. Agile-estimation-GUIDE.pdf
+1. Amazon-Machine-Learning-Developer-GUIDE.pdf
+1. An-Introduction-to-Cyber-Security-GUIDE.pdf
+1. Analytics-and-AI-Strategy-GUIDE.pdf
+1. AWS-Certified-Solutions-Architect-Associate-Exam-GUIDE.pdf
+1. Azure-Developer-GUIDE.pdf
+1. Basic-Data-Science-Termonology-GUIDE.pdf
+1. Basic-Guide-to-SQL-GUIDE.pdf
+1. Beginners-Guide-to-Analytics-GUIDE.pdf
+1. Blockchain-GUIDE.pdf
+1. Blockchain-Reference-GUIDE.pdf
+1. Bright-Data_s-Solution-Diagram-GUIDE.pdf
+1. Build-E2E-Data-Driven-Apps-on-AWS-GUIDE.pdf
+1. Building-LLM-chatbots--A-Step-by-Step-GUIDE.pdf
+1. Business-Analysis-Best-Practices-GUIDE.pdf
+1. Business-Analysis-Techniques-GUIDE.pdf
+1. Business-Writing-Style-GUIDE.pdf
+1. Career-guide-for-product-managers-GUIDE.pdf
+1. chatGPT-3-best-practices-GUIDE.pdf
+1. Checklist-to-become-a-Data-Scientist-GUIDE.pdf
+1. CICD-GUIDE.pdf
+1. CICD-with-Docker-GUIDE.pdf
+1. Cloud-Security-Best-Practices-GUIDE.pdf
+1. Communications-Skills-for-Managers-GUIDE.pdf
+1. Complete-Guide-to-Next-Level-User-GUIDE.pdf
+1. Comprehensive-_-Practical-Inferential-Statistics-Guide-GUIDE.pdf
+1. Container-Technology-GUIDE.pdf
+1. Core-Principle-of-Data-Visualization-GUIDE.pdf
+1. Cybersecurity-Checklist-GUIDE.pdf
+1. Data-Analysis-From-Scratch-With-Python-Step-by-Step-GUIDE.pdf
+1. Data-Career-Skills-Checklist-GUIDE.pdf
+1. Data-Cleaning-Resource-GUIDE.pdf
+1. Data-Science-Tools-GUIDE.pdf
+1. Data-Structure-and-Algorithm-Sheet-GUIDE.pdf
+1. Data-Structure-and-Algorithms1-GUIDE.pdf
+1. Data-Visualisation-Principles-GUIDE.pdf
+1. Data-Visualization-GUIDE.pdf
+1. Data-Visualization1-GUIDE.pdf
+1. Data-Warehouse-GUIDE.pdf
+1. Deep-Learning-With-Keras-for-Beginner-GUIDE.pdf
+1. Detecting-the-Unknown_-A-Guide-to-Threat-Hunting-GUIDE.pdf
+1. DevOps-Complete-Package-GUIDE.pdf
+1. DevOps-Tools-GUIDE.pdf
+1. Digital-Image-Processing-Introduction-GUIDE.pdf
+1. DSI-Guide-15-Key-Pandas-Concepts-For-Data-Science-GUIDE.pdf
+1. Easy-and-Quick-guide-to-Statistics-of-Machine-Learning-GUIDE.pdf
+1. Email-Sentences-and-Phrases-in-Different-Situations-GUIDE.pdf
+1. Email-Writing-Basic-Tips-for-Beginners-GUIDE.pdf
+1. Email-Writing-Tipis-GUIDE.pdf
+1. Enterprise-Architecture-Practice-on-a-Page-GUIDE.pdf
+1. Evaluation-Metrics-for-Regression-Models-GUIDE.pdf
+1. Executive-Data-Science-GUIDE.pdf
+1. Financial-Modeling-GUIDE.pdf
+1. Git-Tutorial-Book-GUIDE.pdf
+1. Google-Cloud-Adoption-Framework-GUIDE.pdf
+1. Graph-Database-for-Beginners-GUIDE.pdf
+1. Guide-to-Crack-Product-Based-Companies-GUIDE.pdf
+1. Guide-to-Machine-Learning-Pipelines-GUIDE.pdf
+1. Handbook_of_Formulae_and_Constants-GUIDE.pdf
+1. How-to-Choose-the-Right-Data-Visualization-GUIDE.pdf
+1. How-to-integrate-Jenkins-with-docker-GUIDE.pdf
+1. How-to-Read-Paper-GUIDE.pdf
+1. How-to-Read-the-abstract-GUIDE.pdf
+1. How-to-Write-A-Business-Plan-GUIDE.pdf
+1. How-to-Write-a-Thesis--A-Working-GUIDE.pdf
+1. Important-GIT-Commands-GUIDE.pdf
+1. Introduction-to-Information-Security-Generated-by-ChatGPT-GUIDE.pdf
+1. Keyboard-Shortcuts-for-Data-Scientists-GUIDE.pdf
+1. LaTex-Emoji-Printing-GUIDE.pdf
+1. Latex-Maths-for-Undergrad-GUIDE.pdf
+1. LLM-GUIDE.pdf
+1. Machine-Learning-for-Everyone-GUIDE.pdf
+1. Machine-Learning-Projects-in-Python-GUIDE.pdf
+1. Machine-learning-with-limited-data-GUIDE.pdf
+1. Machine-Learning-with-Python-for-Everyone-GUIDE.pdf
+1. Machine-Learning-With-Python-GUIDE.pdf
+1. Master-SQL-in-16-Pages-GUIDE.pdf
+1. Microsoft-Azure-Essentials-GUIDE.pdf
+1. Microsoft-Azure-Handbook-GUIDE.pdf
+1. Microsoft-MLOps-Maturity-Models-GUIDE.pdf
+1. Microsoft-Security-Best-Practices-GUIDE.pdf
+1. MLOps-Continuous-Delivery-for-ML-on-AWS-GUIDE.pdf
+1. MLOps-Guide-from-Google-GUIDE.pdf
+1. MLOps-Maturity-Model-Guide-GUIDE.pdf
+1. Pandas100-GUIDE.pdf
+1. Postman-GUIDE.pdf
+1. Power-BI-GUIDE.pdf
+1. PowerBI-Step-by-step-training-GUIDE.pdf
+1. Practitioners-Guide-for-MLOPS-Google-Cloud-GUIDE.pdf
+1. Practitioners-Guide-to-MLOPS-by-GoogleCloud-GUIDE.pdf
+1. Probability-GUIDE.pdf
+1. Python-AI-Projects-for-Beginners-8-smart-and-exciting-AI-applications-GUIDE.pdf
+1. Python-Tips-GUIDE.pdf
+1. PyTorch-GUIDE.pdf
+1. QC-Paulinesia-Quantum-Computing-GUIDE.pdf
+1. Quick-Guide-to-Commonly-Used-Statistical-Tests-GUIDE.pdf
+1. ReactJS-GUIDE.pdf
+1. Reference-for-choosing-right-data-visualization-GUIDE.pdf
+1. Resume-CoverLetter-Guide-HarvardUniversity-GUIDE.pdf
+1. Resumes-and-Cover-Letters-GUIDE.pdf
+1. ROC-Graphs--Notes-and-Practical-Considerations-for-Researchers-GUIDE.pdf
+1. SCRUMstudy-SBOK-Guide-4th-edition-GUIDE.pdf
+1. ServiceNow-AzureDevops-Integration-GUIDE.pdf
+1. Shell-Script-GUIDE.pdf
+1. SQL-Tutorial-GUIDE.pdf
+1. Stakeholder-Needs-Elicitation-GUIDE.pdf
+1. Standard-Normal-Probabilities-GUIDE.pdf
+1. Stanford-University-CVs-and-Cover-Letters-GUIDE.pdf
+1. State-of-the-Art-in-IT-Security-GUIDE.pdf
+1. Supervised-Learning-GUIDE.pdf
+1. Tableau-An-Introduction-GUIDE.pdf
+1. Tableau-GUIDE.pdf
+1. Talend_DefinitiveGuide_DataGovernance-GUIDE.pdf
+1. The Data Scientist's Guide to Spark-GUIDE.pdf
+1. The Unicoder Standard Version 12.0-Core Specification-GUIDE.pdf
+1. The-Complete-Guide-to-Data-Storytelling-GUIDE.pdf
+1. The-Difference-Between-Boss-VS-Leader-GUIDE.pdf
+1. The-Matrix-Cookbook-GUIDE.pdf
+1. The-Official-Kanban-GUIDE.pdf
+1. The-Ultimate-Guide-to-Data-Transformation-GUIDE.pdf
+1. Time-series-forecasting-principles-amazon-forecast-GUIDE.pdf
+1. VSCode-Cheetsheet-GUIDE.pdf
+ 
+# Handbook 
+1. A-Hands-On-Intro-to-Essential-Python-Libraries_Frameworks-HANDBOOK.pdf
+1. Agile-Glossary-HANDBOOK.pdf
+1. Agile-HANDBOOK.pdf
+1. API-Terminology-HANDBOOK.pdf
+1. Azure-DevOps-HANDBOOK.pdf
+1. Azure-Handbook-by-TutorialPoint-HANDBOOK.pdf
+1. Azure-Practical-Hands-On-HANDBOOK.pdf
+1. Basics-of-Statistics-HANDBOOK.pdf
+1. BD-Planning-for-big-data-CIO-HANDBOOK.pdf
+1. Beginners-JavaScript-HANDBOOK.pdf
+1. Best-Practices-for-Improving-you-ML_DL-models-HANDBOOK.pdf
+1. Business-Analyst-HANDBOOK.pdf
+1. Chatbot-HANDBOOK.pdf
+1. CICD-SecurityRisk-HANDBOOK.pdf
+1. Cloud-computing-Tutorail-HANDBOOK.pdf
+1. Codefresh-Continuous-Delivery-for-Kubernetes-HANDBOOK.pdf
+1. Cyber-Defence-HANDBOOK.pdf
+1. Handbook-for-AWS-Admin-HANDBOOK.pdf
+1. How-to-setup-CICD-Pipeline-HANDBOOK.pdf
+1. Malware-Reverse-Engineering--HANDBOOK.pdf
+1. Mathematics-Handbook-of-formulas-HANDBOOK.pdf
+1. Python-HANDBOOK.pdf
+1. Statistical-Analysis-HANDBOOK.pdf
+1. The-Python-1-HANDBOOK.pdf
+1. The-React-Beginner_s-HANDBOOK.pdf
+1. Vectors-HANDBOOK.pdf
+1. JavaScript-Handwritten-HANDNOTE.pdf
+1. K-Means-Clustering-Algorithm-Intuition-HANDNOTE.pdf
+1. LLM-Fine-tuning-(OpenAI)-HANDNOTE.pdf
+1. SQL-Zero-To-Hero-HANDNOTE.pdf
+ 
+ 
+# Note/ Notebooks 
+1. AZ-900-NOTEBOOK.pdf
+1. Azure-ML-NOTEBOOK.pdf
+1. Complete_Machine_learning_Notes_from_Andrew_Ng-NOTEBOOK.pdf
+1. Databricks_dbutils-NOTEBOOK.pdf
+1. GitLab-NOTEBOOK.pdf
+1. Hands-on-Sentiment-Analysis-with-ChatGPT+Classification-NOTEBOOK.pdf
+1. Learn-Python-Simple-Way-NOTEBOOK.pdf
+1. Machine_Learning-NOTEBOOK.pdf
+1. Math_of_ML-NOTEBOOK.pdf
+1. Models-of-Learning-and-Optimization-for-Data-Scientists-NOTEBOOK.pdf
+1. Pandas-Powerful-Python-data-analysis-NOTEBOOK.pdf
+1. Postman-NOTEBOOK.pdf
+1. Probability-and-Statistics-Cookbook-NOTEBOOK.pdf
+1. Statistics-in-data-science-part-2+3+4-NOTEBOOK.pdf
+1. The-Definitive-Guide-to-DAX-NOTEBOOK.pdf
+1. The-Mathematics-of-Multiple-Linear-Regression-NOTEBOOK.pdf
+1. The-Ultimate-Web3-CFO-Guide-NOTEBOOK.pdf
+1. VIS-Visualization-in-plotly-with-R-NOTEBOOK.pdf
+1. A-brief-guide-for-Data-Cleaning-NOTE.pdf
+1. Deep-Learning-for-Understanding-Consumer-Histories-NOTE.pdf
+1. Neural-Networks-NOTE.pdf
+1. Statistics-For-Machine-Learning-NOTE.pdf
+1. Statistics-Notes-Day1-NOTE.pdf
+1. Understanding-Transformers,-the-Data-Science-Way-NOTE.pdf
+1. Zeno_s-paradoxes-NOTE.pdf
+1. 10-Most-Algorithm-NOTES.pdf
+1. 10-Rules-to-write-research-paper-NOTES.pdf
+1. 100-tools-for-Cybersecurity-Analyst-NOTES.pdf
+1. 14-Algorithms-Every-Programmer-Needs-to-Know-NOTES.pdf
+1. 30-Python-Libraries-NOTES.pdf
+1. 50-Awesome-Chatgpt-Prompt-NOTES.pdf
+1. 50-Best-Websites-to-Learn-Python-NOTES.pdf
+1. 50-Python-Commands-NOTES.pdf
+1. A-Beginners-Guide-to-DevOps-Basics-NOTES.pdf
+1. A-CookBook-of-Self-Supervised-Learning-NOTES.pdf
+1. A-Tour-of-Attention-Based-Architectures-NOTES.pdf
+1. Advanced-Javascript-Concepts-NOTES.pdf
+1. Algorithms Notes for Professionals-NOTES.pdf
+1. Algorithms-InterviewQuestions-InterviewBit-NOTES.pdf
+1. Algorithms-Notes-For-Professionals-NOTES.pdf
+1. An-Introduction-to-the-SAS-System-NOTES.pdf
+1. Apache-Sparks-NOTES.pdf
+1. API-Design-Crash-Course-NOTES.pdf
+1. API-Quick-Reference-NOTES.pdf
+1. Azure-DP-203-CertificationGuide-DataEngineer-NOTES.pdf
+1. Best-Practices-for-Business-Analyst-NOTES.pdf
+1. Big-Data-and-Hadoop-NOTES.pdf
+1. Binomial-Distribution-NOTES.pdf
+1. Business-Analysis-Using-Real-World-Example-NOTES.pdf
+1. Business-Process-Model-and-Notation-NOTES.pdf
+1. C++-Tutorial-NOTES.pdf
+1. Comparison-of-Classification-Algorithm-NOTES.pdf
+1. Complete-Guide-of-MLOps-by-Run.ai-NOTES.pdf
+1. Complex-SQL-Queries-NOTES.pdf
+1. Confusion-Matrix-NOTES.pdf
+1. CS725-Foundations-of-Machine-learning-Lecture-NOTES.pdf
+1. Daily-Dose-of-Data-Science-Archive-NOTES.pdf
+1. Data_preparation_for_data_mining-NOTES.pdf
+1. Data-analysis-in-Excel-NOTES.pdf
+1. Data-Analyst-RoadMap-NOTES.pdf
+1. Data-Cleaning-Basics-NOTES.pdf
+1. Data-Distribution-1010-NOTES.pdf
+1. Data-Engineering-Fundamentals-NOTES.pdf
+1. Data-Engineering-Roadmap-NOTES.pdf
+1. Data-Science-Terminologies-NOTES.pdf
+1. Data-Science1-NOTES.pdf
+1. Data-Storytelling-NOTES.pdf
+1. Data-Strategy--NOTES.pdf
+1. Data-Structure-Algorithm-NOTES.pdf
+1. Data-Structure-In-Python-NOTES.pdf
+1. Data-Structures-and-Algorithms-NOTES.pdf
+1. Day-23-of-10WeeksOfLLMs-NOTES.pdf
+1. Decision-Trees-NOTES.pdf
+1. Deep-Learning-NOTES.pdf
+1. Deep-learning-theory-lecture-notes-Advanced-Topics-NOTES.pdf
+1. DevOps-NOTES.pdf
+1. Dimensionality-Reduction-Handwritten-NOTES.pdf
+1. Discrete-Entropy-A-comprehensive-review-NOTES.pdf
+1. DSA-Preparation-BinaryTree-NOTES.pdf
+1. DSA2-NOTES.pdf
+1. Enterprise-generative-AI-adoption-NOTES.pdf
+1. Excel-Formulas-Bible-NOTES.pdf
+1. Excel-Formulas-NOTES.pdf
+1. Expert_s-Way-To-Search-On-Google-NOTES.pdf
+1. Feature-Engineering-in-ML-explained-in-simple--terms-and-how-to-implement-it-NOTES.pdf
+1. Fighting-depression-and-mental-illness-with-AI-NOTES.pdf
+1. Foundations-of-Machine-Learning-Lecture-NOTES.pdf
+1. Generative-AI-NOTES.pdf
+1. Generative-Artificial-Intelligence-in-Finance-NOTES.pdf
+1. Handwritten-Mongodb-NOTES.pdf
+1. Hierarchical_Clustering-Dendrograms-NOTES.pdf
+1. Hierarchical-Clustering-in-Machine-Learning-NOTES.pdf
+1. HypothesisTesting-NOTES.pdf
+1. Improving-Deep-Neural-Networks-NOTES.pdf
+1. Introduction-to-PowerBI-NOTES.pdf
+1. Jenkins-from-Scratch-NOTES.pdf
+1. Jira-Essentials-For-Product-Owners-NOTES.pdf
+1. K-Means-Clustering-Algorithm-NOTES.pdf
+1. Kanban-vs-Scrum-NOTES.pdf
+1. Lecture-Notes-on-Probability-and-Statistics-NOTES.pdf
+1. Lectures-on-Optimization-Methods-for-ML-NOTES.pdf
+1. Machine-Learnin-NOTES.pdf
+1. Machine-Learning-_-Data-Mining-Lecure-NOTES.pdf
+1. Machine-Learning-and-data-mining-Lecture-NOTES.pdf
+1. Machine-Learning-Handwritten-NOTES.pdf
+1. Machine-Lerning-for-Everyone-NOTES.pdf
+1. Manual-For-Data-Science-Projects-NOTES.pdf
+1. Master-SQL-in-16-Pages-NOTES.pdf
+1. Master-these-9-areas-to-excel-as-an-LLM-expert-NOTES.pdf
+1. Math-for-Machine-Learning-Book-Preview-NOTES.pdf
+1. MATH10282-Introduction-to-Statistics-Lecture-NOTES.pdf
+1. Mathematics-for-Machine-Learning-NOTES.pdf
+1. Microsoft-Excel-&-Data-Analysis-NOTES.pdf
+1. Microsoft-Excel-step-by-step-guide-NOTES.pdf
+1. Missing-Values-NOTES.pdf
+1. ML-Public-Datasets-NOTES.pdf
+1. MongoDB-Handwritten-NOTES.pdf
+1. Naive-Bayes-NOTES.pdf
+1. National-Strategy-for-Artificial-Intelligence-AI-NOTES.pdf
+1. Nine-Emerging-Python-Libraries-for-Data-Science-NOTES.pdf
+1. NLP-1-NOTES.pdf
+1. Nodejs-Handwritten-NOTES.pdf
+1. OOPs_Hand-NOTES.pdf
+1. OpenCV-computer-vision-NOTES.pdf
+1. Optimization-for-Machine-Learning-NOTES.pdf
+1. Policy-Brief-Generative-AI-NOTES.pdf
+1. Polynomial-Linear-Regression-NOTES.pdf
+1. Power-BI-for-Beginners-NOTES.pdf
+1. Probability-Bayes-Nets-Naive-Bayes-ModelSelection-NOTES.pdf
+1. Production-and-Operation-Management-NOTES.pdf
+1. Profiling-Data-for-Machine-Learning-NOTES.pdf
+1. PySpark_dataframe_creation_types-NOTES.pdf
+1. Python-Handwritten-NOTES.pdf
+1. Python-Libraries-for-Generative-AI-NOTES.pdf
+1. Python-List-Comprehensions-NOTES.pdf
+1. Python-Operators-and-Comprehensions-NOTES.pdf
+1. reactjs-NOTES.pdf
+1. Reinforcement-Learning-NOTES.pdf
+1. REST-API-Design-Best-Practices-NOTES.pdf
+1. REST-API-NOTES.pdf
+1. Segmentation_clustering-NOTES.pdf
+1. Selenium-Hands-Written-NOTES.pdf
+1. Selenium-with-Python-NOTES.pdf
+1. Seven-Databases-in-Seven-Weeks-NOTES.pdf
+1. Some-Physics-for-Mathematicians-NOTES.pdf
+1. SQL-Basics-and-Advanced-NOTES.pdf
+1. SQL-Complete-NOTES.pdf
+1. SQL-Optimization-NOTES.pdf
+1. SQL-Queries-200+-Queries-to-Challenge-you-NOTES.pdf
+1. SQL-Subqueries-NOTES.pdf
+1. SQL-Thru-Python-NOTES.pdf
+1. SQL-Tutorial-NOTES.pdf
+1. Start-Your-ML-Journey-NOTES.pdf
+1. statistical-inference-NOTES.pdf
+1. Summary-of-Linear-Regression-NOTES.pdf
+1. SymPy-Symbolic-Computation-in-Python-NOTES.pdf
+1. System-Design-Aman-Barnwal-NOTES.pdf
+1. System-Design-Basics-Handbook-NOTES.pdf
+1. Tableau-Tutorial-NOTES.pdf
+1. The_Relation_Between_SVD_PCA_and_Eigenvectors-NOTES.pdf
+1. The-Geometry-of-the-Dot-and-Cross-Products-NOTES.pdf
+1. Theory-of-Quantum-Information-NOTES.pdf
+1. Time-Complexity-and-Data-Structures-NOTES.pdf
+1. Top-Python-Libraries-to-Use-Financial-Data-NOTES.pdf
+1. Top5-Python-Libraries-NOTES.pdf
+1. Trees-Data-Structures-NOTES.pdf
+1. Types-of-Machine-Learning-Algorithms-For-Beginners-NOTES.pdf
+1. UI-Technologies-NOTES.pdf
+1. Vector-LinearOperator-NOTES.pdf
+1. What-are-Assets-and-Liabilities-in-Accounting-NOTES.pdf
+1. A-Survey-on-Contrastive-Self-Supervised-Learning-PAPER.pdf
+1. Attention-Mechanism-Transformer-BERT-GPT-Tutorial-and-Survey-PAPER.pdf
+1. India-NationalStrategy-for-AI-Discussion-PAPER.pdf
+1. Machine_Learning_in_Big_Data-PAPER.pdf
+1. The-expressive-power-of-pooling-in-Graph-Neural-Network-PAPER.pdf
+ 
 # Presentations
-1. 10 Keys to AI Success in 2021-by-DataRobot-PPT.pdf   
-1. 10 powerful visuals about psychology and life-PPT.pdf   
-1. 10-12-design-patterns-PPT.pdf   
-1. 13 Data Science Questions for DS Project-PPT.pdf   
-1. 19 Slides on AI, AI-Ethics, and XAI - Murat Durmus-PPT.pdf   
-1. 33-Ways-to-Tableau-by-Ryan-Sleeper-PPT.pdf   
-1. 38 Free Courses on Coursera for Data Science-PPT.pdf   
-1. 83+Datasets from Google-PPT.pdf   
-1. 9 Best practices every Data Science leader should follow-PPT.pdf   
-1. A3-Thinking-Great 40 Infographics for Continuous Improvement-PPT.pdf   
-1. Advance Introduction to Machine Learning CMU-PPT.pdf   
-1. Advantages & Disadvantages of k-Means and Hierarchical clustering-PPT.pdf   
-1. AI_ML_DS_Infographics-BY-Poetter-Compris-PPT.pdf   
-1. All about Docker-PPT.pdf   
-1. Artificial-Neural-Network-PPT.pdf   
-1. A_Comprehensive_Guide_for_Visualization-PPT.pdf   
-1. Basics of cloud computing-PPT.pdf   
-1. Beginners_guide_to_data_science-_a_twics_guide-PPT.pdf   
-1. BigBook-Experimentation-Casestudies-PPT.pdf   
-1. Box Plot and Identifying Outliers-PPT.pdf   
-1. Certified Kubernetes Security Specialist (CKS)-PPT.pdf   
-1. chatGPT for Cybersecurity-Session1-PPT.pdf   
-1. CICD-Best-Practices-by-Klokwork-PPT.pdf   
-1. Cloud Application Architecture-PPT.pdf   
-1. Clustering-and-Machine-Learning-PPT.pdf   
-1. Communication Skills for Managers-PPT.pdf   
-1. Computer Vision Projects-PPT.pdf   
-1. Data Analytics Pipeline-PPT.pdf   
-1. Data Integration-Introduction-PPT.pdf   
-1. Data Modeling for Data Engineers-PPT.pdf   
-1. Data Science Applications & use Cases-PPT.pdf   
-1. Data Science Open Toolkit-PPT.pdf   
-1. Data science skills-PPT.pdf   
-1. Data structures-PPT.pdf   
-1. Data Visualization 101-How_to_Design_Charts_and_Graphs-PPT.pdf   
-1. Data Visualization in R-PPT.pdf   
-1. Data Visualization with R-PPT.pdf   
-1. Data Visualization-Advanced_Plotting-PPT.pdf   
-1. Data Visualization_Grossberg_lecture1-PPT.pdf   
-1. Deep Adversarial Learning for NLP-PPT.pdf   
-1. Deep Fake-PPT.pdf   
-1. Deep Learning in Medical Image Analysis-PPT.pdf   
-1. Deep Learning on Graphs for NLP-PPT.pdf   
-1. Designing The SIEM Monitoring Environment-PPT.pdf   
-1. Docker & Python-PPT.pdf   
-1. DS Portfolio 101-PPT.pdf   
-1. Ensemble Learning-PPT.pdf   
-1. Feature Engineering-PPT.pdf   
-1. Flask API-PPT.pdf   
-1. Foundations of Quantum Mechanics-PPT.pdf   
-1. GAN-PPT.gslides   
-1. GDPR_Developer_Guide-PPT.pdf   
-1. Git Vs GitHub-PPT.pdf   
-1. GNN-based-Fraud Detection-PPT.pdf   
-1. GraphDatabase_ML-PPT.pdf   
-1. HypothesisTesting-PPT.pdf   
-1. Introduction to Docker and Docker Swarm-PPT.pdf   
-1. Introduction to DS-PPT.pdf   
-1. Introduction-to-Six-Sigma-PPT.pdf   
-1. JavaScript-PPT.pdf   
-1. Kaggle State of Machine Learning & Data Science 2021-PPT.pdf   
-1. Kubernetes Introduction-PPT.pdf   
-1. Kubernetes-PPT.pdf   
-1. Lambda-PPT.pdf   
-1. Linear Algebra-PPT.pdf   
-1. Linear-Regression1-PPT.pdf   
-1. Linear-Regression2-PPT.pdf   
-1. Loss Functions and Metrics-PPT.pdf   
-1. Machine Learning Basic concepts-PPT.pdf   
-1. ML applications in marketing-PPT.pdf   
-1. ML applications in retail-PPT.pdf   
-1. NLI-Tutorial-PPT.pdf   
-1. OLAP vs OLTP-PPT.pdf   
-1. Outlier Detection-PPT.pdf   
-1. Power BI Tutorial-PPT.pdf   
-1. Presenting_Data_People_Cant_Ignore-PPT.pdf   
-1. PySpark MLLib-PPT.pdf   
-1. Python for NLP-PPT.pdf   
-1. Query_Optimization_Techniques-PPT.pdf   
-1. Severity vs Priority with Examples-PPT.pdf   
-1. SGBoost-PPT.pdf   
-1. Skewness-PPT.pdf   
-1. SQL Nulls-PPT.pdf   
-1. State of AI Report-PPT.pdf   
-1. Statistical Patterns Recognition-PPT.pdf   
-1. Statistics and risk modeling-PPT.pdf   
-1. Statistics for Data Analysis-PPT.pdf   
-1. STREAMING WITH Publish Subscribe Messaging with Kafka-PPT.pdf   
-1. Supply chain cyber security-PPT.pdf   
-1. Support Vector Machine-PPT.pdf   
-1. Tableau Tips-PPT.pdf   
-1. The AI Thought Book by Murat Durmus-PPT.pdf   
-1. The Entity Relationship (ER) Model-PPT.pdf   
-1. The-365-Data-Science-Booklet-PPT.pdf   
-1. The-Big-Book-of-MLOps-PPT.pdf   
-1. The-Data-Science-Career-Guide-by365DataScience-PPT.pdf   
-1. The_StatQuest_Illustrated_Guide_to_Machine_Learning-PPT.pdf   
-1. The_Data_Science-Booklet-PPT.pdf   
-1. Top 10 for Data Science-PPT.pdf   
-1. Transductive-Learning-Motivation-Model-and-Algorithm-PPT.pdf   
-1. Tree Based ML Models-PPT.pdf   
-1. TwoPhaseCommitIsEvil-PPT.pdf   
-1. Understanding-Life-with-Maths-PPT.pdf   
-1. Web3 Glossary-PPT.pdf   
-1. What is a Data Warehouse-PPT.pdf   
-1. What is Meta Data-PPT.pdf   
-1. Word Embedding LSA, Word2Vec, Glove, ELMo-PPT.pdf   
-1. XAI - David Gunning (DARPA)-PPT.pdf   
-
-# Guides 
-1. 10 Useful Way To Visualize Your Data-GUIDE.pdf   
-1. 100+ AI Use-Cases & Applications-In-depth-Guide.pdf   
-1. 14 Powerful Visuals About Psychology & Life-GUIDE.pdf   
-1. 180 Days Data Science Study Plan-GUIDE.pdf   
-1. 20 Python Libraries-GUIDE.pdf   
-1. 2021 Executive Guide to Data Science and AI-GUIDE.pdf   
-1. 60 ChatGPT prompts for Data Science-GUIDE.pdf   
-1. 9 Googling tips-GUIDE.pdf   
-1. 9 HTTP Methods-GUIDE.pdf   
-1. A brief guide for Data Cleaning-NOTE.pdf   
-1. A Comprehensive Guide to Machine Learning-BOOK.pdf   
-1. A Framework For The Ethical Use Of Advanced Data Science in Humanitarian Sector-GUIDE.pdf   
-1. A Guide for Ethical Data Science-GUIDE.pdf   
-1. A guide to using AI in the public sector-GUIDE.pdf   
-1. A practical guide for testing for DEVOPS-eBook.pdf   
-1. A Practical Guide to Getting   Started with DevOps-REPORT.pdf   
-1. A Practical Introduction to Python Programming-GUIDE.pdf   
-1. A Programmers Guide to Data Mining-BOOK.pdf   
-1. A Visual Introduction to Deep Learning-GUIDE.pdf   
-1. Advanced Analytics PowerBI-GUIDE.pdf   
-1. Advanced Excel-GUIDE.pdf   
-1. Agile estimation-GUIDE.pdf   
-1. Amazon Machine Learning-Developer Guide-TOOL.pdf   
-1. Analytics in a Big Data World The Essential Guide to Data Science and its Applications-BOOK.pdf   
-1. AWS Certified Solutions Architect Associate Exam-GUIDE.pdf   
-1. Azure Developer-GUIDE.pdf   
-1. A_Comprehensive_Guide_for_Visualization-PPT.pdf   
-1. Basic Data Science Termonology-GUIDE.pdf   
-1. Basic Guide to SQL-GUIDE.pdf   
-1. Beginners Guide to Analytics-GUIDE.pdf   
-1. Beginners_guide_to_data_science-_a_twics_guide-PPT.pdf   
-1. Blockchain-GUIDE.pdf   
-1. Blockchain-Reference-GUIDE.pdf   
-1. Bright Data's Solution Diagram-GUIDE.pdf   
-1. Build E2E Data Driven Apps on AWS-GUIDE.pdf   
-1. Business Analysis Techniques-GUIDE.pdf   
-1. Business-Writing-Style-Guide.pdf   
-1. Career guide for product managers-GUIDE.pdf   
-1. chatGPT-3 best practices-GUIDE.pdf   
-1. chatGPT-PROMPTs-GUIDE.pdf   
-1. CICD-GUIDE.pdf   
-1. Communications Skills for Managers-GUIDE.pdf   
-1. Complete-Guide-to-Next-Level User-GUIDE.pdf   
-1. Comprehensive & Practical Inferential Statistics Guide-GUIDE.pdf   
-1. Container Technology-GUIDE.pdf   
-1. Core Principle of Data Visualization-GUIDE.pdf   
-1. Cybersecurity Checklist-GUIDE.pdf   
-1. Data Analysis From Scratch With Python-Step-by-Step-GUIDE.pdf   
-1. Data Cleaning Resource-GUIDE.pdf   
-1. Data Science Tools-GUIDE.pdf   
-1. Data Structure and Algorithms1-GUIDE.pdf   
-1. Data Visualization-GUIDE.pdf   
-1. Data Warehouse-GUIDE.pdf   
-1. Data-Career-Skills-Checklist-GUIDE.pdf   
-1. Data_Analytics-Practical_Guide-BOOK.pdf   
-1. DevOps Complete Package-GUIDE.pdf   
-1. Devops Tools-GUIDE.pdf   
-1. Digital Image Processing Introduction-GUIDE.pdf   
-1. DSI Guide - 15 Key Pandas Concepts For Data Science-GUIDE.pdf   
-1. Easy and Quick guide to Statistics of Machine Learning-GUIDE.pdf   
-1. Email Sentences and Phrases in Different Situations-GUIDE.pdf   
-1. Email Writing Basic Tips for Beginners-GUIDE.pdf   
-1. Email-Writing-Tipis-GUIDE.pdf   
-1. Enterprise Architecture Practice on a Page-GUIDE.pdf   
-1. Ethics & Governance of Artificial Intelligence for Health by WHO-GUIDE.pdf   
-1. Evaluation Metrics for Regression Models-GUIDE.pdf   
-1. Executive Data Science-GUIDE.pdf   
-1. Financial Modeling-GUIDE.pdf   
-1. GDPR_Developer_Guide-PPT.pdf   
-1. Git Tutorial Book-GUIDE.pdf   
-1. Google Cloud Adoption Framework-GUIDE.pdf   
-1. Graph Database for Beginners-GUIDE.pdf   
-1. Guide to Crack Product Based Companies-GUIDE.pdf   
-1. Guide to Machine Learning Pipelines-GUIDE.pdf   
-1. Handbook_of_Formulae_and_Constants-GUIDE.pdf   
-1. How to Choose the Right Data Visualization-GUIDE.pdf   
-1. How to integrate Jenkins with docker-GUIDE.pdf   
-1. How to Read the abstract-GUIDE.pdf   
-1. How to Write A Business Plan-GUIDE.pdf   
-1. How to Write a Thesis- A Working-GUIDE.pdf   
-1. How+to-Read-a-Paper-GUIDE.pdf   
-1. Introduction to Information Security-Generated by ChatGPT-GUIDE.pdf   
-1. Keyboard Shortcuts for Data Scientists-GUIDE.pdf   
-1. LaTex-Emoji-Printing-GUIDE.pdf   
-1. Latex-Maths-for-Undergrad-GUIDE.pdf   
-1. Machine Learning for Everyone-GUIDE.pdf   
-1. Machine learning with limited data-GUIDE.pdf   
-1. Machine Learning with Python for Everyone-GUIDE.pdf   
-1. Machine Learning With Python-GUIDE.pdf   
-1. Machine Learning- Step-by-Step Guide To Implement Machine Learning Algorithms with Python-eBook.pdf   
-1. Microsoft Azure Handbook-GUIDE.pdf   
-1. Microsoft MLOps Maturity Models-GUIDE.pdf   
-1. Microsoft Security Best Practices-GUIDE.pdf   
-1. MicrosoftPress_NET_Technology_Guide_for_Business_Applications-eBook.pdf   
-1. MLOps Guide from Google-GUIDE.pdf   
-1. Policy Guide on AI for Children-GUIDE.pdf   
-1. PowerBI-Step by step training-GUIDE.pdf   
-1. Practical SQL A Beginner’s Guide to Storytelling with Data-BOOK.pdf   
-1. Practitioners Guide for MLOPS - Google Cloud-GUIDE.pdf   
-1. Practitioners Guide to MLOPS by GoogleCloud-GUIDE.pdf   
-1. Probability-GUIDE.pdf   
-1. Problem Solving and Critical Thinking-GUIDE.pdf   
-1. Product-Backlog-Management-GUIDE.pdf   
-1. Programmers Guide to Data Mining The Art of the Numerati-BOOK.pdf   
-1. Project Management Methodologies and Frameworks-GUIDE.pdf   
-1. Python Tips-GUIDE.pdf   
-1. QC Paulinesia - Quantum Computing-GUIDE.pdf   
-1. Quick Guide to Commonly Used Statistical Tests-GUIDE.pdf   
-1. Reference for choosing right data visualization-GUIDE.pdf   
-1. Resume-CoverLetter-Guide-HarvardUniversity-GUIDE.pdf   
-1. Resumes and Cover Letters-GUIDE.pdf   
-1. ROC Graphs- Notes and Practical Considerations for Researchers-GUIDE.pdf   
-1. SCRUMstudy-SBOK-Guide-4th-edition-GUIDE.pdf   
-1. ServiceNow-AzureDevops Integration-GUIDE.pdf   
-1. Shell-Script-GUIDE.pdf   
-1. SQL Tutorial-GUIDE.pdf   
-1. Stakeholder Needs Elicitation-GUIDE.pdf   
-1. Standard Normal Probabilities-GUIDE.pdf   
-1. Statistics_Cartoon_Guide-BOOK.pdf   
-1. Super-study-guide-data-science-tools-REPORT.pdf   
-1. Supervised Learning-GUIDE.pdf   
-1. Tableau-GUIDE.pdf   
-1. Talend_DefinitiveGuide_DataGovernance-GUIDE.pdf   
-1. The Analytics Setup Guidebook-BOOK.pdf   
-1. The Complete Guide to Data Storytelling-GUIDE.pdf   
-1. The Comprehensive Guide  to DAX-BOOK.pdf   
-1. The Data Scientist’s Guide to Spark-GUIDE.pdf   
-1. The Definitive Guide to DAX-NOTEBOOK.pdf   
-1. The Difference Between Boss VS Leader-GUIDE.pdf   
-1. The Field Guided to Data Science-REPORT.pdf   
-1. The Matrix Cookbook-GUIDE.pdf   
-1. The Ultimate Guide to Effective Data Collection-REPORT.pdf   
-1. The Ultimate Guide to Protect Management-eBook.pdf   
-1. The Ultimate Web3 CFO Guide-NOTEBOOK.pdf   
-1. The Unicode® Standard Version 12.0-Core Specification-GUIDE.pdf   
-1. The-Data-Science-Career-Guide-by365DataScience-PPT.pdf   
-1. The-Official-Kanban-GUIDE.pdf   
-1. The_StatQuest_Illustrated_Guide_to_Machine_Learning-PPT.pdf   
-1. Ultimate Guide to Data Cleaning-ARTC.pdf   
-1. VSCode Cheetsheet-GUIDE.pdf   
-1. Data Engineering Cookbook-GUIDE.pdf   
-1. Ultimate Guide to AI, Data Science & Machine Learning-LINKS.pdf
-
-# Reports on Usecases
-1. 100+ AI Use-Cases & Applications-In-depth-Guide.pdf   
-1. 30 Use Cases for the Metaverse - Q4 2022-REPORT.pdf   
-1. A Primer to the 42 Most commonly used ML Algorithms-REPORT.pdf   
-1. Computer Vision Projects-PPT.pdf   
-1. Data Science Applications & use Cases-PPT.pdf   
-1. Data Science Projects-in-Python-REPORT.pdf   
-1. Machine Learning Projects in Python-NOTEBOOK.pdf   
-1. Machine-learning-projects-python-eBook.pdf   
-1. Manual For Data Science Projects-NOTES.pdf   
-1. ML Projects-270+Projects-REPORT.pdf   
-1. ML Projects-817-Projects-REPORT.pdf   
-1. Python AI Projects for Beginners-8 smart and exciting AI applications-BOOK.pdf
-1. Quantum computing  Emerging ecosystem & Industry use cases-REPORT.pdf
-
-# Books/PPTs/Guides on Ethics in AI
-1. 19 Slides on AI, AI-Ethics, and XAI - Murat Durmus-PPT.pdf   
-1. A Framework For The Ethical Use Of Advanced Data Science in Humanitarian Sector-GUIDE.pdf   
-1. A Guide for Ethical Data Science-GUIDE.pdf   
-1. AI An Introduction to the Legal, Policy & Ethical Issues-REPORT.pdf   
-1. Artificial Intelligence for a Better Future- An Ecosystem Perspective on the Ethics of AI-BOOK.pdf   
-1. Ethical Considerations and Statistical Analysis of Industry Involvement in ML Research-REPORT.pdf   
-1. Ethics & Governance of Artificial Intelligence for Health by WHO-GUIDE.pdf
-
-# Some Useful Articles
-1. Advancing mathematics by guiding human intuition with AI-ARTC.pdf   
-1. Cloud Choices for Microsoft Project 2013 and 2010-F-3.2013-ARTC.pdf   
-1. Data Driven Creating a Data Culture-ARTC.pdf   
-1. Data Mining Process, Techniques, Tools-ARTC.pdf   
-1. Data Warehouse Concepts-ARTC.pdf   
-1. How to forecast Time Series Data using Deep Learning-ARTC.pdf   
-1. How-data-science-is-transforming-health-care-ARTC.pdf   
-1. How-to-Create-an-AI-Center-of-Excellence-for-Enterprise-ARTC.pdf   
-1. Learning the parts of Objects by Non-negative Matrix Factorization-ARTC.pdf   
-1. Linear Algebra- a Powerful Tool in Data Science-ARTC.pdf   
-1. MLOps and data versioning in ML Projects-ARTC.pdf   
-1. OLTP vs OLAP-ARTC.pdf   
-1. Over 100 Data and Analytics Predictions Through 2025-ARTC.pdf   
-1. Practical Statistics_Visualization With Python _ Plotly-ARTC.pdf   
-1. The 5 Feature Selection Algorithms every Data Scientist should know-ARTC.pdf  
-1. The Art of Effective Visualization of Multi-dimensional Data-ARTC.pdf   
-1. The Next Level of Data Visualization in Python-ARTC.pdf   
-1. Ultimate Guide to Data Cleaning-ARTC.pdf   
-1. VIS-Introducing Plotly Express - Plotly-ARTC.pdf   
-1. What Is Data Warehousing-ARTC.pdf   
-1. What is Dimensional Model-ARTC.pdf   
-1. What is Exploratory Data Analysis-ARTC.pdf   
-1. What is OLAP-ARTC.pdf
-
-# Reports on AI Topics 
-1. 2018 - Namami-Digitiation-REPORT.pdf   
-1. 2022-AI-Index-Report_Master-REPORT.pdf   
-1. 23 Augmented Reality Trends to Keep an Eye on for 2023-REPORT.pdf   
-1. 30 Use Cases for the Metaverse - Q4 2022-REPORT.pdf   
-1. 50 YearsDataScience-REPORT.pdf   
-1. 50-Ways-Impact-Business-AI-RapidMiner-REPORT.pdf   
-1. A list with over 150 Biases (Cognitive, Social, & Memory)-REPORT.pdf   
-1. A Practical Guide to Getting   Started with DevOps-REPORT.pdf   
-1. A Primer to the 42 Most commonly used ML Algorithms-REPORT.pdf   
-1. Agile-AI-REPORT.pdf   
-1. AI An Introduction to the Legal, Policy & Ethical Issues-REPORT.pdf   
-1. AI and Education-REPORT.pdf   
-1. AI, Human Rights, Democracy, and the Rule of Law-REPORT.pdf   
-1. An Introduction to Cloud Databases-REPORT.pdf   
-1. Attacks on TCP-REPORT.pdf   
-1. Baseline Cyber Security Controls-REPORT.pdf   
-1. Beauty in Mathematics-REPORT.pdf   
-1. benefits of metaverse-REPORT.pdf   
-1. Best Practices for ML Engineering-REPORT.pdf   
-1. Big Data Analytics Overview-REPORT.pdf   
-1. Big Data and AI Strategies-Machine Learning and Alternative Data Approach to Investing-REPORT.pdf   
-1. Big Data-Casestudy Collection-REPORT.pdf   
-1. Bigdata-Hadoop and Spark-Performance-for-the-enterprise-REPORT.pdf   
-1. Building Data Science Teams-REPORT.pdf   
-1. Cloud Design Patterns-REPORT.pdf   
-1. Comet-Standardizing-ML-Experiment-REPORT.pdf   
-1. Communication Skills-REPORT.pdf   
-1. Complete-Data Structures and Algorithms Roadmap-REPORT.pdf   
-1. Computing Neural Network Gradients-REPORT.pdf   
-1. Cost of Data Breach Study 2020 byIBMSecurity-REPORT.pdf   
-1. Cyber Incident Response Plan Security Risk Management-REPORTS.pdf   
-1. Data Governance Clinic-REPORT.pdf   
-1. Data Quality Fundamentals-REPORT.pdf   
-1. Data Science Projects-in-Python-REPORT.pdf   
-1. Data Visualization-storytelling-REPORT.pdf   
-1. Data Visualization1- How to Pick the Right Chart Type-REPORT.pdf   
-1. Data Visualization2- How to Pick the Right Chart Type-REPORT.pdf   
-1. Demo Model Card-REPORT.pdf   
-1. ENISA Good Practices for Security of IoT-REPORT.pdf   
-1. Ethical Considerations and Statistical Analysis of Industry Involvement in ML Research-REPORT.pdf   
-1. Foundations of Data Science-REPORT.pdf   
-1. Fundamental Value in Crypto-REPORT.pdf   
-1. fundamentals-of-mlops-REPORT.pdf   
-1. Getting Analytics Right-REPORT.pdf   
-1. Getting Your First Job in Data Science-REPORT.pdf   
-1. Getting_Started-with-Artificial_Intelligence-REPORT.pdf   
-1. Git Notes For Professionals-REPORT.pdf   
-1. Governing The Metaverse-REPORT.pdf   
-1. Hierarchical Clustering Dendrograms-REPORT.pdf   
-1. Improving ICS Cybersecurity with Defense-In-Depth Strategies-REPORT.pdf   
-1. Intech-Machine Learning Algorithms, Models and Applications-REPORT.pdf   
-1. Introduction-to-Data-Science-REPORT.pdf   
-1. Knowledge_Graphs_Data_in_Context_Responsive-REPORT.pdf   
-1. Little Book of Business Analysis-REPORT.pdf   
-1. Machine Learning From Scratch-REPORT.pdf   
-1. Machine Learning Observability Checklist-REPORT.pdf   
-1. Machtematics for Machine Learning-REPORT.pdf   
-1. Math of Deep Learning Neural Networks-REPORT.pdf   
-1. Metaverse-MarketReport-REPORT.pdf   
-1. Microsoft Power BI-REPORT.pdf   
-1. Migrating BigData Analytics into the Cloud-REPORT.pdf   
-1. ML for Absolute Beginners-REPORT.pdf   
-1. ML Projects-270+Projects-REPORT.pdf   
-1. ML Projects-817-Projects-REPORT.pdf   
-1. MLOps in Microsoft-REPORT.pdf   
-1. Move your data science to production-Saturn Cloud-REPORT.pdf   
-1. National AI Strategies and Human Rights- A Review-REPORT.pdf   
-1. Policy-brief-Crypto-web3-and-the-metaverse-REPORT.pdf   
-1. Principles of Data Analysis By Prasenjit Saha-REPORT.pdf   
-1. Quality Measuring Tools-REPORT.pdf   
-1. Quantum computing  Emerging ecosystem & Industry use cases-REPORT.pdf   
-1. R Programming for ANY Team-REPORT.pdf   
-1. Real Time BigData Analytics Emerging Architecture-REPORT.pdf   
-1. Regulate to Innovate-REPORT.pdf   
-1. Relevance and impact of AI for company law-REPORT.pdf   
-1. Review of Probability Theory-REPORT.pdf   
-1. Robustness and Explainability of Artificial Intelligence-REPORT.pdf   
-1. Semantic Layer for Data Analytics-REPORT.pdf   
-1. Social-Anxiety-And-Social-PhobiaIn-REPORT.pdf   
-1. Starting a Career in Data Science-REPORT.pdf   
-1. State of AI Report-PPT.pdf   
-1. Statistical Modeling- The Two Cultures-REPORT.pdf   
-1. Super-study-guide-data-science-tools-REPORT.pdf   
-1. TGN-Temporal Graph Networks for Dynamic Graphs-REPORT.pdf   
-1. The AI revolution in scientific research-REPORT.pdf   
-1. The Field Guided to Data Science-REPORT.pdf   
-1. The state of DevOps Tools-REPORT.pdf   
-1. The Ultimate Guide to Effective Data Collection-REPORT.pdf   
-1. The_5_most_influential_visuals-REPORT.pdf   
-1. Tokenization of Infrastructure A blockchain-REPORT.pdf   
-1. Top 12 AI Tools & Frameworks You Need to Know-REPORT.pdf   
-1. Top 17 Must-Read AI Papers of 2022-REPORT.pdf   
-1. Top IT Companies list-REPORT.pdf   
-1. Towards Responsible Data Practices for Machine Learning in India-Health and Agriculture-REPORT.pdf   
-1. Understanding bias in facial recognition technologies-REPORT.pdf   
-1. Use of Sanskrit for Natural Language Processing-REPORT.pdf   
-1. Value-creation-in-the-metaverse-REPORT.pdf   
-1. VIS-Building_effective_dashboards-REPORT.pdf   
-1. Web3 beyond the hype-REPORT.pdf   
+1. 10-Advanced-Data-Pipeline-Strategies-PPT.pdf
+1. 10-Powerful-visuals-about-psychology-and-life-PPT.pdf
+1. 12-Design-patterns-PPT.pdf
+1. 13-Data-Science-Questions-for-DS-Project-PPT.pdf
+1. 33-Ways-to-Tableau-by-Ryan-Sleeper-PPT.pdf
+1. 38-Free-Courses-on-Coursera-for-Data-Science-PPT.pdf
+1. 83+Datasets-from-Google-PPT.pdf
+1. A_Comprehensive_Guide_for_Visualization-PPT.pdf
+1. A-detailed-presentation-on-MLOPS-PPT.pdf
+1. A-gentle-introduction-to-Generative-AI-PPT.pdf
+1. A-to-Z-of-AIML-A-Quick-Introduction-to-AI+ML-Capabilties-and-Tools-PPT.pdf
+1. A3-Thinking-Great-40-Infographics-for-Continuous-Improvement-PPT.pdf
+1. Advance-Introduction-to-Machine-Learning-CMU-PPT.pdf
+1. Advantages-_-Disadvantages-of-k-Means-and-Hierarchical-clustering-PPT.pdf
+1. AI_ML_DS_Infographics-BY-Poetter-Compris-PPT.pdf
+1. AI-here-and-now-PPT.pdf
+1. All-about-Docker-PPT.pdf
+1. ANN-PPT.pdf
+1. ANN3-DeepLearning-PPT.pdf
+1. Artificial-Neural-Network-PPT.pdf
+1. Basic-Intro-to-PySpark-Building-Data-Engineering-Pipelines-in-Python-PPT.pdf
+1. Basics-of-Business-Analysis-PPT.pdf
+1. Basics-of-cloud-computing-PPT.pdf
+1. Beginners_guide_to_data_science-_a_twics_guide-PPT.pdf
+1. Best-Practices-for-Data-Engineering-1-PPT.pdf
+1. BigBook-Experimentation-Casestudies-PPT.pdf
+1. Billion-Scale-Approximate-Nearest-Neighbor-Search-PPT.pdf
+1. Box-Plot-and-Identifying-Outliers-PPT.pdf
+1. Causal-Reinformcement-Learning-by-Elias-Berinboim-PPT.pdf
+1. Certified-Kubernetes-Security-Specialist-(CKS)-PPT.pdf
+1. chatGPT-for-Cybersecurity-Session1-PPT.pdf
+1. ChatGPT-with-Reinforcment-Learning-PPT.pdf
+1. CICD-Best-Practices-by-Klokwork-PPT.pdf
+1. Cloud-Application-Architecture-PPT.pdf
+1. Clustering-Analysis-PPT.pdf
+1. Clustering-and-Machine-Learning-PPT.pdf
+1. CNN-Algorithm_MNIST-PPT.pdf
+1. Completes-guide-on-stable-diffusion-Prompts-PPT.pdf
+1. Curated-list-of-blogs-and-books-for-Product-Managers-PPT.pdf
+1. Data_ML-Services-on-GCP-PPT.pdf
+1. Data-Analytics-Pipeline-PPT.pdf
+1. Data-Cleaning-PPT.pdf
+1. Data-Integration-Introduction-PPT.pdf
+1. Data-Modeling-for-Data-Engineers-PPT.pdf
+1. Data-Pipeline-PPT.pdf
+1. Data-Science-Applications-_-use-Cases-PPT.pdf
+1. Data-Science-Open-Toolkit-PPT.pdf
+1. Data-Science-Project-Lifecycle-PPT.pdf
+1. Data-science-skills-PPT.pdf
+1. Data-Science-Terms-PPT.pdf
+1. Data-structures-PPT.pdf
+1. Data-Visualization_Grossberg_lecture1-PPT.pdf
+1. Data-Visualization-101-How_to_Design_Charts_and_Graphs-PPT.pdf
+1. Data-Visualization-Advanced_Plotting-PPT.pdf
+1. Data-Visualization-in-R-PPT.pdf
+1. Data-Visualization-Principles-and-Tech-of-Data-Science-PPT.pdf
+1. Data-Visualization-with-R-PPT.pdf
+1. Database-vs-Data-Warehouse-vs-Data-Lake-PPT.pdf
+1. Deep-Adversarial-Learning-for-NLP-PPT.pdf
+1. Deep-Fake-PPT.pdf
+1. Deep-Learning-based-Image-Segmentation-PPT.pdf
+1. Deep-Learning-in-Medical-Image-Analysis-PPT.pdf
+1. Deep-Learning-on-Graphs-for-NLP-PPT.pdf
+1. Deep-Learning-Terms-PPT.pdf
+1. Designing-a-Modern-DataWarehouse+DataLake-PPT.pdf
+1. Designing-ML-Pipelines-PPT.pdf
+1. Designing-The-SIEM-Monitoring-Environment-PPT.pdf
+1. DevOps-2-PPT.pdf
+1. DevSecOps-PPT.pdf
+1. Docker-_-Python-PPT.pdf
+1. Docker-Tutorial-PPT.pdf
+1. DS-Portfolio-101-PPT.pdf
+1. Eigenvalues-and-Eigenvectors-PPT.pdf
+1. Ensemble-Learning-PPT.pdf
+1. Explainable-AI-Definition-and-Use-Case-PPT.pdf
+1. Feature-Engineering-PPT.pdf
+1. Finetuning-LLMs-PPT.pdf
+1. Flask-API-PPT.pdf
+1. Foundations-of-Quantum-Mechanics-PPT.pdf
+1. GDPR_Developer_Guide-PPT.pdf
+1. GDPR-Gap-Analysis-PPT.pdf
+1. Git-Vs-GitHub-PPT.pdf
+1. GNN-based-Fraud-Detection-PPT.pdf
+1. GraphDatabase_ML-PPT.pdf
+1. Hypothesis-Testing-PPT.pdf
+1. India-e-Conomy-2023-PPT.pdf
+1. Introduction-to-Deep-Learning-MIT-PPT.pdf
+1. Introduction-to-Deep-Learning-Model-PPT.pdf
+1. Introduction-to-Docker-and-Docker-Swarm-PPT.pdf
+1. Introduction-to-DS-PPT.pdf
+1. Introduction-to-GitHub-Action-PPT.pdf
+1. Introduction-to-Six-Sigma-PPT.pdf
+1. JavaScript-PPT.pdf
+1. Kaggle-State-of-Machine-Learning-_-Data-Science-2021-PPT.pdf
+1. Kubernetes-Introduction-PPT.pdf
+1. Kubernetes-PPT.pdf
+1. Lambda-Function-in-Python-PPT.pdf
+1. Lambda-PPT.pdf
+1. Language-Models-and-Knowledge-PPT.pdf
+1. Learn-DSA-YouTube-PPT.pdf
+1. Linear-Algebra-PPT.pdf
+1. Linear-Regression-PPT.pdf
+1. Linear-Regression1-PPT.pdf
+1. Linear-Regression2-PPT.pdf
+1. LLM-for-Enterprises-April-2023-PPT.pdf
+1. Local-minima-in-gradient-descent-by-Anusha-M-PPT.pdf
+1. Loss-Functions-and-Metrics-PPT.pdf
+1. Machine-Learning_-Performance-Evaluation-PPT.pdf
+1. Machine-Learning-Basic-concepts-PPT.pdf
+1. Machine-Learning-Cards-PPT.pdf
+1. Machine-Learning-Deep-learning-Artificial-Intelligence-Data-Science-PPT.pdf
+1. Machine-Learning-Generative-and-Discriminative-Models-PPT.pdf
+1. Machine-Learning-Strategies-for-Time-Series-Prediction-PPT.pdf
+1. MapReduce-in-detail-PPT.pdf
+1. ML-applications-in-marketing-PPT.pdf
+1. ML-applications-in-retail-PPT.pdf
+1. MLOps-Playbook-PPT.pdf
+1. MongoDB-Basics-PPT.pdf
+1. NLI-Tutorial-PPT.pdf
+1. OLAP-vs-OLTP-PPT.pdf
+1. Outlier-Detection-PPT.pdf
+1. Parameter-vs-Statistics-PPT.pdf
+1. Power-BI-Tutorial-PPT.pdf
+1. Powerful-Visuals-PPT.pdf
+1. Presenting_Data_People_Cant_Ignore-PPT.pdf
+1. Probabilistic-Model-PPT.pdf
+1. Prompt-engineering-guide-from-basic-to-advance-PPT.pdf
+1. PySpark-MLLib-PPT.pdf
+1. Python-Classes-and-Objects-A-Basic-Introduction-PPT.pdf
+1. Python-for-NLP-PPT.pdf
+1. Python-Libraries-for-Data-Science-and-ML-PPT.pdf
+1. Query_Optimization_Techniques-PPT.pdf
+1. Random-Forest1-PPT.pdf
+1. Random-Forest2-PPT.pdf
+1. Reinforcement-Learning-for-NLP-PPT.pdf
+1. Roadmap-to-mastering-Generative-AI-PPT.pdf
+1. SA-Agile-ish_5Leadership_Mistakes-PPT.pdf
+1. SA-CollabAtScale-Problem-Types-and-Strategies-PPT.pdf
+1. ScrumAlliance-CollaborationAtScale-Keeping-Retros-Fresh-PPT.pdf
+1. ScrumAlliance-Transformational-Leadership-for-Business-Agility-PPT.pdf
+1. Segmentation-Cluster-Analysis-PPT.pdf
+1. Set-up-CodeGPT--for-Visual-Studio-Code-in-under-5-minutes-PPT.pdf
+1. Severity-vs-Priority-with-Examples-PPT.pdf
+1. SGBoost-PPT.pdf
+1. Skewness-PPT.pdf
+1. Soft-Skills-For-Data-Scientist-PPT.pdf
+1. SQL-Nulls-PPT.pdf
+1. SrumAlliance-Webinar-50-Frameworks-PPT.pdf
+1. State-of-Digital-Transformation-2023-PPT.pdf
+1. Statistical-Patterns-Recognition-PPT.pdf
+1. Statistics-and-risk-modeling-PPT.pdf
+1. Statistics-for-Data-Analysis-PPT.pdf
+1. Streaming-with-Publish-Subscribe-Messaging-with-Kafka-PPT.pdf
+1. Supply-chain-cyber-security-PPT.pdf
+1. Support-Vector-Machine-PPT.pdf
+1. Tensor-Algebra-PPT.pdf
+1. The_Data_Science-Booklet-PPT.pdf
+1. The_StatQuest_Illustrated_Guide_to_Machine_Learning-PPT.pdf
+1. The-365-Data-Science-Booklet-PPT.pdf
+1. The-Big-Book-on-MLOps-PPT.pdf
+1. The-Data-Science-Career-Guide-by365DataScience-PPT.pdf
+1. The-Entity-Relationship-(ER)-Model-PPT.pdf
+1. Top-10-for-Data-Science-PPT.pdf
+1. Top-NEW-Features-of-AI-Copilot-PPT.pdf
+1. Transductive-Learning-Motivation-Model-and-Algorithm-PPT.pdf
+1. Tree-Based-ML-Models-PPT.pdf
+1. Tutorial-Use-Case-Diagram-PPT.pdf
+1. TwoPhaseCommitIsEvil-PPT.pdf
+1. Understanding-Life-with-Maths-PPT.pdf
+1. Web3-Glossary-PPT.pdf
+1. What-is-a-Data-Warehouse-PPT.pdf
+1. What-is-Meta-Data-PPT.pdf
+1. Word-Embedding-LSA,-Word2Vec,-Glove,-ELMo-PPT.pdf
+1. XAI-David-Gunning-(DARPA)-PPT.pdf
+1. GAN-PPT.pdf
+ 
+# Reports 
+1. 2018-Namami-Digitiation-REPORT.pdf
+1. 2023-Cybersecurity-Terms-Summary-REPORT.pdf
+1. 23-Augmented-Reality-Trends-to-Keep-an-Eye-on-for-2023-REPORT.pdf
+1. 30-UseCases-for-the-Metaverse-Q4-2022-REPORT.pdf
+1. 50-Ways-Impact-Business-AI-RapidMiner-REPORT.pdf
+1. 50-YearsDataScience-REPORT.pdf
+1. A-Compact-Guide-to-Large-Language-Models-REPORT.pdf
+1. A-list-with-over-150-Biases-(Cognitive,-Social,-_-Memory)-REPORT.pdf
+1. A-Practical-Guide-to-Getting-Started-with-DevOps-REPORT.pdf
+1. A-Primer-to-the-42-Most-commonly-used-ML-Algorithms-REPORT.pdf
+1. Adversarial-Machine-Learning_-Attacks-and-Mitigations-REPORT.pdf
+1. Agile-AI-REPORT.pdf
+1. AI-and-Education-REPORT.pdf
+1. AI-powered-marketing-and-sales-&-generative-AI-REPORT.pdf
+1. An-Introduction-to-Cloud-Databases-REPORT.pdf
+1. Application-Security-Testing-REPORT.pdf
+1. Artificial-Intelligence-And-Cybersecurity-Research-REPORT.pdf
+1. Artificial-Intelligence-Index-Report-2023-REPORT.pdf
+1. Attacks-on-TCP-REPORT.pdf
+1. Autoencoders,-Convolutional-Neural-Networks--and-Recurrent-Neural-Networks-REPORT.pdf
+1. AWS-MLOps-Emerging-Trend-in-Data-Code-and-Infra-REPORT.pdf
+1. Banking-on-Generative-AI-REPORT.pdf
+1. Baseline-Cyber-Security-Controls-REPORT.pdf
+1. Beauty-in-Mathematics-REPORT.pdf
+1. Benefits-of-metaverse-REPORT.pdf
+1. Best-Practices-for-ML-Engineering-REPORT.pdf
+1. Big-book-of-data-science-REPORT.pdf
+1. Big-Data-Analytics-Overview-REPORT.pdf
+1. Big-Data-and-AI-Strategies-Machine-Learning-and-Alternative-Data-Approach-to-Investing-REPORT.pdf
+1. Big-Data-Casestudy-Collection-REPORT.pdf
+1. Bigdata-Hadoop-and-Spark-Performance-for-the-enterprise-REPORT.pdf
+1. Bringing-Data-Lakes-and-Data-Warehouses-Together-REPORT.pdf
+1. Building-Data-Science-Teams-REPORT.pdf
+1. Cloud-Design-Patterns-REPORT.pdf
+1. Coding-in-SQL-and-Pyspark-REPORT.pdf
+1. Comet-Standardizing-ML-Experiment-REPORT.pdf
+1. Communication-Skills-REPORT.pdf
+1. Complete-Data-Structures-and-Algorithms-Roadmap-REPORT.pdf
+1. Cost-of-Data-Breach-Study-2020-byIBMSecurity-REPORT.pdf
+1. Data-Quality-Fundamentals-REPORT.pdf
+1. Data-Visualization-storytelling-REPORT.pdf
+1. Data-Visualization1--How-to-Pick-the-Right-Chart-Type-REPORT.pdf
+1. Data-Visualization2--How-to-Pick-the-Right-Chart-Type-REPORT.pdf
+1. Demo-Model-Card-REPORT.pdf
+1. DevOps-Setups-A-Benchmarking-Study-REPORT.pdf
+1. ENISA-Good-Practices-for-Security-of-IoT-REPORT.pdf
+1. Expert-Systems-with-Applications-REPORT.pdf
+1. FinOps-with-Azure-REPORT.pdf
+1. Foundations-of-Data-Science-REPORT.pdf
+1. Fundamental-Value-in-Crypto-REPORT.pdf
+1. fundamentals-of-mlops-REPORT.pdf
+1. Gen-Z-and-the-Metaverse-REPORT.pdf
+1. Getting_Started-with-Artificial_Intelligence-REPORT.pdf
+1. Getting-Analytics-Right-REPORT.pdf
+1. Getting-Your-First-Job-in-Data-Science-REPORT.pdf
+1. Governing-The-Metaverse-REPORT.pdf
+1. GS-Navigating-the-AI-Era-REPORT.pdf
+1. Hierarchical-Clustering-Dendrograms-REPORT.pdf
+1. Improving-ICS-Cybersecurity-with-Defense-In-Depth-Strategies-REPORT.pdf
+1. Instruction-FineTuning-Pipeline-Methodology-REPORT.pdf
+1. Intech-Machine-Learning-Algorithms,-Models-and-Applications-REPORT.pdf
+1. Knowledge_Graphs_Data_in_Context_Responsive-REPORT.pdf
+1. Learn-Tabluea-in-30days-REPORT.pdf
+1. Little-Book-of-Business-Analysis-REPORT.pdf
+1. Machine-Learning-From-Scratch-REPORT.pdf
+1. Math-of-Deep-Learning-Neural-Networks-REPORT.pdf
+1. Metaverse-MarketReport-REPORT.pdf
+1. Microsoft-Power-BI-REPORT.pdf
+1. Migrating-BigData-Analytics-into-the-Cloud-REPORT.pdf
+1. ML-for-Absolute-Beginners-REPORT.pdf
+1. ML-for-Financial-Markets-REPORT.pdf
+1. MLOps-in-Microsoft-REPORT.pdf
+1. Move-your-data-science-to-production-Saturn-Cloud-REPORT.pdf
+1. NLP-Metrics-REPORT.pdf
+1. Policy-brief-Crypto-web3-and-the-metaverse-REPORT.pdf
+1. Principles-of-Data-Analysis-By-Prasenjit-Saha-REPORT.pdf
+1. Quality-Measuring-Tools-REPORT.pdf
+1. Quantum-computing--Emerging-ecosystem-_-Industry-use-cases-REPORT.pdf
+1. Quantum-Computing-Networking-and-Security-REPORT.pdf
+1. R-Programming-for-ANY-Team-REPORT.pdf
+1. Real-Time-BigData-Analytics-Emerging-Architecture-REPORT.pdf
+1. Relevance-and-impact-of-AI-for-company-law-REPORT.pdf
+1. Review-of-Probability-Theory-REPORT.pdf
+1. Robustness-and-Explainability-of-Artificial-Intelligence-REPORT.pdf
+1. Security-Implications-of-ChatGPT-REPORT.pdf
+1. Semantic-Layer-for-Data-Analytics-REPORT.pdf
+1. Smart-Factories-for-Small-to-Medium-Manufacturers-REPORT.pdf
+1. Social-Anxiety-And-Social-PhobiaIn-REPORT.pdf
+1. Starting-a-Career-in-Data-Science-REPORT.pdf
+1. Statistical-Modeling--The-Two-Cultures-REPORT.pdf
+1. Super-study-guide-data-science-tools-REPORT.pdf
+1. Test-Plan-REPORT.pdf
+1. TGN-Temporal-Graph-Networks-for-Dynamic-Graphs-REPORT.pdf
+1. The_5_most_influential_visuals-REPORT.pdf
+1. The_State-of_DevOps-Tools-REPORT.pdf
+1. The-AI-revolution-in-scientific-research-REPORT.pdf
+1. The-economic-potential-of-Generative-AI-REPORT.pdf
+1. The-Field-Guided-to-Data-Science-REPORT.pdf
+1. The-Future-of-Generative-AI-REPORT.pdf
+1. The-Promise-and-Peril-of-Generative-AI-REPORT.pdf
+1. The-Smart-Man's-Guide-to-Quantum-REPORT.pdf
+1. The-state-of-DevOps-Tools-REPORT.pdf
+1. The-Ultimate-Guide-to-Effective-Data-Collection-REPORT.pdf
+1. The-White-Book-of-Big-Data-REPORT.pdf
+1. Tokenization-of-Infrastructure-A-blockchain-REPORT.pdf
+1. Top-12-AI-Tools-Frameworks-You-Need-to-Know-REPORT.pdf
+1. Top-17-Must-Read-AI-Papers-of-2022-REPORT.pdf
+1. Top-25-Penetration-Testing-Tools-REPORT.pdf
+1. Top-IT-Companies-list-REPORT.pdf
+1. Ultimate-Guide-for-Salesforce-REPORT.pdf
+1. Use-Cases-of-Generative-AI-REPORT.pdf
+1. Use-of-Sanskrit-for-Natural-Language-Processing-REPORT.pdf
+1. Value-creation-in-the-metaverse-REPORT.pdf
+1. VIS-Building_effective_dashboards-REPORT.pdf
+1. Web3-beyond-the-hype-REPORT.pdf
 1. Web3.0-Internet-of-the-New-Era-REPORT.pdf
-
-# Free Online Books
-
-1. Deep Learning by Yoshua Bengio, Ian Goodfellow and Aaron Courville (05/07/2015)
-2. Neural Networks and Deep Learning by Michael Nielsen (Dec 2014)
-3. Deep Learning by Microsoft Research (2013)
-4. Deep Learning Tutorial by LISA lab, University of Montreal (Jan 6 2015)
-5. neuraltalk numpy-based RNN/LSTM implementation by Andrej Karpathy
-6. Artificial Intelligence: A Modern Approach
-7. Deep Learning in Neural Networks: An Overview
-8. Artificial intelligence and machine learning: Topic wise explanation 
-9. Grokking Deep Learning for Computer Vision
-10. Dive into Deep Learning – numpy based interactive Deep Learning book
+1. What-is-in-my-AI-REPORT.pdf
+ 
+# Useful Articles
+1. A-ML-System-for-Demand-Forecasting-using-LGBM-Algorithm-ARTC.pdf
+1. Advancing-mathematics-by-guiding-human-intuition-with-AI-ARTC.pdf
+1. AI--Insights-from-the-Science-of-Consciousness-ARTC.pdf
+1. Cloud-Choices-for-Microsoft-Project-2013-ARTC.pdf
+1. Confidence-Building-Measures-for-Artificial-Intelligence-ARTC.pdf
+1. Data-Driven-Creating-a-Data-Culture-ARTC.pdf
+1. Data-Mining-Process,-Techniques,-Tools-ARTC.pdf
+1. Data-Warehouse-Concepts-ARTC.pdf
+1. Deep-Learning-Explainable-Field-Guide-ARTC.pdf
+1. Fundamentals-Of-Statistics-For-Data-Scientists-ARTC.pdf
+1. Generative-AI_-Who-(or-What)-Wrote-This-ARTC.pdf
+1. How-data-science-is-transforming-health-care-ARTC.pdf
+1. How-Far-Are-LLM-From-Agents-with-Theory-of-Mind-ARTC.pdf
+1. How-to-apply-machine-learning-to-demand-forecasting-ARTC.pdf
+1. How-to-Create-an-AI-Center-of-Excellence-for-Enterprise-ARTC.pdf
+1. How-to-forecast-Time-Series-Data-using-Deep-Learning-ARTC.pdf
+1. Learning-the-parts-of-Objects-by-Non-negative-Matrix-Factorization-ARTC.pdf
+1. Linear-Algebra--a-Powerful-Tool-in-Data-Science-ARTC.pdf
+1. Machine-Unlearning-in-LLMs_-In-Context-Unlearning-ARTC.pdf
+1. Mastering-Linear-Regression-with-Statsmodels-ARTC.pdf
+1. MLOps-and-data-versioning-in-ML-Projects-ARTC.pdf
+1. OLTP-vs-OLAP-ARTC.pdf
+1. Over-100-Data-and-Analytics-Predictions-Through-2025-ARTC.pdf
+1. Practical-Statistics_Visualization-With-Python-_-Plotly-ARTC.pdf
+1. The-5-Feature-Selection-Algorithms-every-Data-Scientist-should-know-ARTC.pdf
+1. The-Art-of-Effective-Visualization-of-Multi-dimensional-Data-ARTC.pdf
+1. The-Next-Level-of-Data-Visualization-in-Python-ARTC.pdf
+1. Ultimate-Guide-to-Data-Cleaning-ARTC.pdf
+1. VIS-Introducing-Plotly-Express-Plotly-ARTC.pdf
+1. Watts-Driving-the-Cost-of-AI-Deployment-ARTC.pdf
+1. What-Is-Data-Warehousing-ARTC.pdf
+1. What-is-Dimensional-Model-ARTC.pdf
+1. What-is-Exploratory-Data-Analysis-ARTC.pdf
+1. What-is-OLAP-ARTC.pdf
+1. When-Less-is-More_Investigating-DataPruning-for-Pretraining-LLMs-at-Scale-ARTC.pdf

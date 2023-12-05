@@ -25,9 +25,44 @@ toc_sticky: true
 
 ## Introduction
 
-As of 2022, Data Science, AI, and Machine Learning are very fast-evolving domains. In the last 5 years, it has picked up momentum. Every day a new library, framework, and tools pops out before eyes. Many of these are very interesting and some are just duplicates with little value addition. I am listing below some tools that I came across during my work. The purpose of this listing is not to describe every tool but to provide a link and just put them in sorted order. There are so many jargons, and we use to forget these. Sometimes, it becomes difficult to recall them. It was useful for me and I hope some of you will find this useful.
+As of 2022, Data Science, AI, and Machine Learning are very fast-evolving domains. In the last 5 years, it has picked up momentum. Every day a new library, framework, and tools pops out before our eyes. Many of these are very interesting and some are just duplicates with little value addition. I am listing below some tools that I came across during my work. The purpose of this listing is not to describe every tool but to provide a link and just put them in sorted order. There are so many jargons, and we use to forget these. Sometimes, it becomes difficult to recall them. It was useful for me and I hope some of you will find this useful.
 
-## List of Libraries, Frameworks, Pretrained Models
+## Popular Python Libraries
+The list below is in alphabetical order.
+
+1. Beautiful Soup: A library for parsing HTML and XML documents. 
+1. Bokeh: A library for creating interactive visualizations in web browsers. 
+1. Folium: A library for creating interactive maps using leaflet.js. 
+1. Gensim: A library for topic modelling and document similarity analysis. 
+1. Keras: A high-level API for building and training deep learning models. 
+1. Matplotlib: A library for creating visualizations such as charts and graphs. 
+1. NLTK: A library for natural language processing tasks such as tokenization, stemming, and tagging. 
+1. NetworkX: A library for working with graphs and networks. 
+1. NumPy: A library for working with arrays of data. 
+1. OpenCV: A library for computer vision tasks such as image processing and object detection. 
+1. Pandas: A library for working with tabular data. 
+1. Pillow: A fork of the Python Imaging Library (PIL), a library for opening, manipulating, and saving many different image file formats. 
+1. Plotly: A library for creating interactive visualizations in web browsers. 
+1. PyTorch: A library for building and training machine learning models, particularly deep neural networks. 
+1. Pygame Display: An extension of Pygame that provides support for creating windows and displaying graphics.
+1. Pygame GUI: An extension of Pygame that provides a set of GUI widgets such as buttons, text boxes, and sliders. 
+1. Pygame Input: An extension of Pygame that provides support for handling input events such as mouse clicks, key presses, and joystick movements. 
+1. Pygame Mixer: An extension of Pygame that provides support for playing sounds and music in games. 
+1. Pygame Time: An extension of Pygame that provides support for timing and scheduling events in games. 
+1. Pygame Vector: An extension of Pygame that provides support for 2D vector math operations such as addition, subtraction, dot product, cross product, normalization, and rotation. 
+1. Pygame Zero: An extension of Pygame that simplifies game development by providing a basic game loop and other features out of the box. 
+1. Requests: A library for making HTTP requests in Python. 
+1. SciPy: A library for scientific computing, including optimization, integration, and linear algebra. 
+1. Scikit-learn: A library for machine learning algorithms. 
+1. Scrapy: A library for web scraping and crawling. 
+1. Seaborn: A library for creating more advanced visualizations. 
+1. Selenium: A library for automating web browsers. 
+1. Statsmodels: A library for statistical modelling and testing. 
+1. TensorFlow: A library for building and training machine learning models.  
+
+## A Comprehensive List Libraries, Frameworks, Pretrained Models
+The list below is in alphabetical order.
+
 1. [Accord Net](http://accord-framework.net/)
 1. ActiveMQ *
 1. [acxiom](https://www.acxiom.com/)
@@ -134,7 +169,7 @@ As of 2022, Data Science, AI, and Machine Learning are very fast-evolving domain
 1. [Coach](https://github.com/NervanaSystems/coach)
 1. CodeOcean *
 1. CodePen *
-1. Comet.ML *
+1. Comet ML *
 1. Concourse *
 1. conda *
 1. CondSandbox *
@@ -173,7 +208,7 @@ As of 2022, Data Science, AI, and Machine Learning are very fast-evolving domain
 1. [Deeppy](https://github.com/andersbll/deeppy)
 1. [Detecto](https://github.com/alankbi/detecto)
 1. DFS *
-1. dgl *
+1. DGL *
 1. [Diffusers](https://huggingface.co/models?library=diffusers)
 1. Digimind *
 1. distilBERT *
@@ -182,7 +217,7 @@ As of 2022, Data Science, AI, and Machine Learning are very fast-evolving domain
 1. [Dnotebook](https://github.com/javascriptdata/dnotebook)
 1. Docker *
 1. DOMO *
-1. [dowel](https://github.com/rlworkgroup/dowel)
+1. [DOWEL](https://github.com/rlworkgroup/dowel)
 1. [DSSTNE](https://github.com/amznlabs/amazon-dsstne)
 1. [DVC](https://dvc.org/)
 1. Dynatrace *
