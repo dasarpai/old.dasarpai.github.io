@@ -34,6 +34,7 @@ Handbook,  Notebook ,  Workbook ,  Textbook,  Notes , , JupyterNB, JSNB (Java Sc
 
 
 ## Books
+
 Sno | Book | Pages | Size(MB)
 --- | --- | --- | ---
 1 | 100 Statistical Tests EBOOK.pdf | 257 | 0.895
@@ -433,6 +434,7 @@ Sno | Book | Pages | Size(MB)
 
  
 ## Presentations
+
 Sno | Book | Pages | Size(MB)
 --- | --- | --- | ---
 1 | 10 Advanced Data Pipeline Strategies PPT.pdf | 14 | 13.064
@@ -612,6 +614,7 @@ Sno | Book | Pages | Size(MB)
 175 | XAI David Gunning (DARPA) PPT.pdf | 38 | 35.75
 
 ## Notes
+
 Sno | Book | Pages | Size(MB)
 --- | --- | --- | ---
 1 | 10 Most Algorithm NOTES.pdf | 10 | 0.201
@@ -922,6 +925,7 @@ Sno | Book | Pages | Size(MB)
 138 | VSCode Cheetsheet GUIDE.pdf | 47 | 11.809
 
 ## Reports 
+
 Sno | Book | Pages | Size(MB)
 --- | --- | --- | ---
 1 | 2018 Namami Digitiation REPORT.pdf | 83 | 45.205
@@ -1042,6 +1046,7 @@ Sno | Book | Pages | Size(MB)
 116 | What is in my AI REPORT.pdf | 26 | 2.35
 
 ## Articles 
+
 Sno | Book | Pages | Size(MB)
 --- | --- | --- | ---
 1 | Advancing mathematics by guiding human intuition with AI ARTC.pdf | 10 | 2.317
@@ -1082,6 +1087,7 @@ Sno | Book | Pages | Size(MB)
 
 
 ## Handbooks 
+
 Sno | Book | Pages | Size(MB)
 --- | --- | --- | ---
 1 | Agile Glossary HANDBOOK.pdf | 16 | 0.159
@@ -1114,6 +1120,7 @@ Sno | Book | Pages | Size(MB)
  
  
 ## Others 
+
 Sno | Book | Pages | Size(MB)
 --- | --- | --- | ---
 1 | 11 Data Science Books for Beginners LINKS.pdf | 12 | 17.762
@@ -1178,7 +1185,8 @@ Sno | Book | Pages | Size(MB)
 60 | XGB Regressor With Hyperparameter Tuning TOOL.pdf | 45 | 0.475
 61 | Zero to Advance in DSA 50 Days Challenge TOC.pdf | 21 | 6.4
 
-# PDFised Jupyter Notebook
+# [PDFised Jupyter Notebook](https://drive.google.com/drive/folders/1UfV4kttDkk9xefjjJaQb1YzCPZq-iEe1?usp=sharing)
+
 1. 100 Numpy Exercises-JupyterNB.pdf
 1. 100 Pandas Exercises-JupyterNB.pdf
 1. 100+ Python tips to improve ml learning curve-JupyterNB.pdf
