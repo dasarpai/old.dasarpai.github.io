@@ -783,6 +783,7 @@ Sno | Book | Pages | Size(MB)
 
 
 ## Guides 
+
 Sno | Book | Pages | Size(MB)
 --- | --- | --- | ---
 1 | 100+ AI Use Cases Applications In depth GUIDE.pdf | 17 | 0.758
@@ -1185,7 +1186,7 @@ Sno | Book | Pages | Size(MB)
 60 | XGB Regressor With Hyperparameter Tuning TOOL.pdf | 45 | 0.475
 61 | Zero to Advance in DSA 50 Days Challenge TOC.pdf | 21 | 6.4
 
-# [PDFised Jupyter Notebook](https://drive.google.com/drive/folders/1UfV4kttDkk9xefjjJaQb1YzCPZq-iEe1?usp=sharing)
+## [PDFised Jupyter Notebook](https://drive.google.com/drive/folders/1UfV4kttDkk9xefjjJaQb1YzCPZq-iEe1?usp=sharing)
 
 1. 100 Numpy Exercises-JupyterNB.pdf
 1. 100 Pandas Exercises-JupyterNB.pdf
