@@ -838,7 +838,6 @@ Sno | Book | Pages | Size(MB)
 50 | Data Structure and Algorithms1 GUIDE.pdf | 15 | 1.132
 51 | Data Structure and Algorithm Sheet GUIDE.pdf | 20 | 9.055
 52 | Data Visualisation Principles GUIDE.pdf | 12 | 1.061
-53 | Data Visualization1 GUIDE.pdf | 12 | 0.55
 54 | Data Visualization GUIDE.pdf | 10 | 1.329
 55 | Data Warehouse GUIDE.pdf | 27 | 0.574
 56 | Deep Learning With Keras for Beginner GUIDE.pdf | 98 | 0.573
@@ -849,7 +848,6 @@ Sno | Book | Pages | Size(MB)
 61 | DSI Guide 15 Key Pandas Concepts For Data Science GUIDE.pdf | 3 | 0.469
 62 | Easy and Quick guide to Statistics of Machine Learning GUIDE.pdf | 112 | 1.843
 63 | Email Sentences and Phrases in Different Situations GUIDE.pdf | 11 | 0.427
-64 | Email Writing Basic Tips for Beginners GUIDE.pdf | 11 | 0.472
 65 | Email Writing Tipis GUIDE.pdf | 9 | 0.492
 66 | Enterprise Architecture Practice on a Page GUIDE.pdf | 1 | 0.448
 67 | Evaluation Metrics for Regression Models GUIDE.pdf | 15 | 0.355
