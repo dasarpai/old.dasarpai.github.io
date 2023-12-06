@@ -28,7 +28,10 @@ Data Science, AI, Machine Learning, Books/ Guide/ Reports/ Presentations / Jupyt
    
 All these books are available in pdf format at <a href="https://drive.google.com/drive/folders/1UlzxVnrpeu8Qhe1FFPB0XAM6tBEAE14F?usp=sharing" target="_blank"> this link</a>. I update this page less frequently but keep adding books in the repo. The list below may not contain the name you are looking for. Therefore, it is suggested to visit the link mentioned earlier. This link contains excellent presentations Book, (PPT), Handbook, Report, Articles (ARTC), Book, Booklet, eBook, Notebook, Notes, PAPER, GUIDE, TOC, Syllabus, LINKS, Handbook, Chapter, Tool, BROC – Broacher on Machine Learning, Deep Learning, NLP, Statistics, Reinforcement Learning, GAN. Approx 800 pdf files which inclues 350+ books. 
 
-If you want to search all the books on above link then in the search box at above link you can enter "Book". Similarly if you looking for research paper you can type Paper". This repository also has some important AI/ML research paper.
+If you want to search all the books on above link then in the search box at above link you can enter "Book". Similarly if you looking for research paper you can type "Paper". You can use following tags to search in the search box. 
+ 
+Handbook,  Notebook ,  Workbook ,  Textbook,  Notes , , JupyterNB, JSNB (Java Script Code), ,  Report ,  Article - ARTC, PAPER , ,  Book ,  Booklet,  eBook,  Chapter, , PPT , GUIDE, TOC , LINKS, Tool, , Syllabus, BROC - Broacher, , , *Alegebra*, *AWS* , *Analytics* , *Azure* , *Azure* , *Book*, *CNN* , *Calculus* , *Case Study*, *Cheat sheet*, *Classification*, *Cloud*, *Deep*, *Latex*, *Jenkin*, *Data*, *Database*, *DevOps*, *Design*, *DevOps* , *Docker* , *Django*, *Hypothesis*, *Ethic*, *Excel*, *Feature*, *GCP*, *GNN* , *GPT* , *Git*, *Glossary* , *Interview*, *Javascript* , *Javascript* , *Kubernetics* , *Links*, *Linux*, *ML*, *Machine* , *Math*, *Microsoft*, *MLOps*, *NLP* , *Pandas* , *PowerBI* , *Probablity*, *Python* , *Pytorch* , *Report*, *Reinforcement*, *REST*, *SQL* , *Scikit Learn* , *Spark* , *Statistics* , *Tableau* , *Timeseries* , *Tools*, *Use cases*, *Language*
+
 
 ## Books
 Sno | Book | Pages | Size(MB)
