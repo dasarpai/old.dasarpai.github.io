@@ -2,7 +2,7 @@
 id: 5231        
 mathjax: true        
 title:  What is the Reality?          
-date: "2023-09-04T08:33:00+05:30"        
+date: "2023-08-14T08:33:00+05:30"        
 permalink: /wiaposts/What-is-the-Reality      
 tags:  [My Views, Life, Philosophy]         
         
@@ -19,6 +19,7 @@ share: true
 ![PWhat is the Reality?](/assets/images/wiapost/5231-What-is-the-Reality.jpg)             
         
 # What is the Reality     
+
 You see something on a table and you ask yourself what is that? Answer: It looks like an apple so it is apple.
 Then you ask how many apples are there? Answer: You know the counting and after counting you say it is three.
 

@@ -1,4 +1,23 @@
-Devanagari
+---        
+id: 5239        
+mathjax: true        
+title: Language, Script and Devanagari          
+date: "2023-11-28T08:33:00+05:30"        
+permalink: /wiaposts/Language-Script-and-Devanagari      
+tags:  [My Views, Life, Philosophy]         
+        
+categories:        
+header:        
+    teaser: /assets/images/wiapost/5239-Language-Script-and-Devanagari.jpg        
+author: Hari Thapliyaal        
+layout: single        
+excerpt:        
+author_profile: true        
+share: true        
+---        
+        
+		
+# Language, Script and Devanagari
 
 Language is that which we speak. Script is that which we use to write words of any language.
 

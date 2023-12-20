@@ -1,5 +1,0 @@
-Destroying Opponents
-
-If you want to destroy X, without fighting then identify strongest enemy of X and every day do something which makes X and his enemy to go for war. During war support X with powerful weapons and understand his game, this will serve four purpose 1- you understand how this person think, 2- he will not surrender to survive, 3- world will think you supporting weak, you are generous. 4- you will become closer to X, if he survive the war you will be most trusted partner.
-
-Now think all the wars in the world. Fools are fighting and destroying themselves, powerful are making themselves more stronger with different technologies and cleaver foxes are just watching the game of destruction. Whom to blame? Noone! Human is like this since the first human came in the forests of earth. By making printing machine, computers, creating religion, economy and politics our inner has not changed even iota neither their is any hope that humanity in large will become wiser. But, a few wiser and compassionate will keep coming and showing us the light of peaceful living.

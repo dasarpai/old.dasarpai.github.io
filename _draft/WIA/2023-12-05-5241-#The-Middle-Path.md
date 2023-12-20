@@ -1,4 +1,24 @@
-Middle path
+---        
+id: 5241        
+mathjax: true        
+title:  The Middle Path          
+date: "2023-12-05T08:33:00+05:30"        
+permalink: /wiaposts/The-Middle-Path      
+tags:  [My Views, Life, Philosophy]         
+        
+categories:        
+header:        
+    teaser: /assets/images/wiapost/5241-The-Middle-Path.jpg        
+author: Hari Thapliyaal        
+layout: single        
+excerpt:        
+author_profile: true        
+share: true        
+---        
+
+![The Middle Path](/assets/images/wiapost/5241-The-Middle-Path.jpg)
+
+# The Middle Path
 
 We hear very commonly that don't go to extreme of anything in the life, walk the middle path, settle on middle ground, Madhya Maarga. However we notice how hard we try we cannot live on the middle path longer more we force to remain on the middle path life becomes more meaningless and boring.
 

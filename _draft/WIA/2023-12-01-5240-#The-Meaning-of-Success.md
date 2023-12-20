@@ -1,3 +1,25 @@
+---        
+id: 5240        
+mathjax: true        
+title:  The Meaning of Success          
+date: "2023-12-01T08:33:00+05:30"        
+permalink: /wiaposts/The-Meaning-of-Success        
+tags:  [My Views, Life, Philosophy]         
+        
+categories:        
+header:        
+    teaser: /assets/images/wiapost/5240-The-Meaning-of-Success.jpg        
+author: Hari Thapliyaal        
+layout: single        
+excerpt:        
+author_profile: true        
+share: true        
+---        
+
+![The Meaning of Success](/assets/images/wiapost/5240-The-Meaning-of-Success.jpg)
+
+# The Meaning of Success  
+
 Certainly, here's a list of 40 more business enterprises, startups, and leaders who faced challenges and ultimately closed their businesses or experienced significant setbacks in various industries over the years:
 
 1. Lehman Brothers: A global financial services firm that filed for bankruptcy during the 2008 financial crisis.

@@ -1,14 +1,14 @@
 ---        
 id: 5235        
 mathjax: true        
-title:  What is the Reality?          
-date: "2023-09-04T08:33:00+05:30"        
-permalink: /wiaposts/What-is-the-Reality      
+title:  Ways to Experience the Bliss          
+date: "2023-09-24T08:33:00+05:30"        
+permalink: /wiaposts/Ways-to-Experience-the-Bliss      
 tags:  [My Views, Life, Philosophy]         
         
 categories:        
 header:        
-    teaser: /assets/images/wiapost/5231-What-is-the-Reality.jpg        
+    teaser: /assets/images/wiapost/5235-Ways-to-Experience-the-Bliss.jpg        
 author: Hari Thapliyaal        
 layout: single        
 excerpt:        
@@ -16,8 +16,10 @@ author_profile: true
 share: true        
 ---        
         
-![PWhat is the Reality?](/assets/images/wiapost/5231-What-is-the-Reality.jpg)             
+![Ways to Experience the Bliss](/assets/images/wiapost/5235-Ways-to-Experience-the-Bliss.jpg)             
         
+# Ways to Experience the Bliss
+
 Human is searching for peace and want to experience the bliss. Human want to get it by searching. We search for knowledge then we search for work then we search for money then research for network relationship and power.
 
 When you have little time to think and reflect what you have done and what you achieved then sit for sometime and think. Those who have money are the peaceful and experience the bliss? Those who have power network and resources are the peaceful and experience the bliss? Those who have knowledge to run the business manage relationship earn the livelihood, so called smart people, do they experience the bliss and have peace? Those who know scriptures and their holy books are the peaceful and experience the bliss?

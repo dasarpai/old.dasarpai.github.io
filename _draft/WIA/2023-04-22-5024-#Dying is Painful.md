@@ -2,7 +2,7 @@
 id: 5224    
 mathjax: true    
 title:  IS Dying Painful?     
-date: "2023-04-28T08:33:00+05:30"    
+date: "2023-04-22T08:33:00+05:30"    
 permalink: /wiaposts/Dying-is-Painful
 tags:  [My Views, Life, Philosophy]     
     

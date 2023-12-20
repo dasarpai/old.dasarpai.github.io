@@ -2,7 +2,7 @@
 id: 5230
 mathjax: true    
 title:  Is old really Gold?      
-date: "2023-05-29T08:33:00+05:30"    
+date: "2023-06-29T08:33:00+05:30"    
 permalink: /wiaposts/Is-old-really-Gold   
 tags:  [My Views, Life, Philosophy]     
     
@@ -19,8 +19,6 @@ share: true
 ![Is Old Really Gold](/assets/images/wiapost/5230-Is-old-really-Gold.jpg)    
 
 # Is old really Gold?
-
-
 
 An important function of the human brain is called Memory. 
 Humans should use this for lesson learning. But unfortunately it is used to create nostalgic moments in the present life. People love it. Why? Because they don't want to face the present and fearful about the future so the only place to draw pleasure is to live in the past.
