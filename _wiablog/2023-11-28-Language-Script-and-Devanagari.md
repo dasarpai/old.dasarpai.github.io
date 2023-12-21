@@ -16,9 +16,10 @@ author_profile: true
 share: true        
 ---        
         
-![Language, Script and Devanagari](/assets/images/wiapost/5239-Language-Script-and-Devanagari.jpg)
-# Language, Script and Devanagari
-
+![Language, Script and Devanagari](/assets/images/wiapost/5239-Language-Script-and-Devanagari.jpg)    
+   
+# Language, Script and Devanagari   
+   
 Language is that which we speak.    
 Script is that which we use to write words of any language.   
    

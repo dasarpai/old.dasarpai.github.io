@@ -16,10 +16,10 @@ author_profile: true
 share: true        
 ---        
 
-![The Middle Path](/assets/images/wiapost/5241-The-Middle-Path.jpg)
-
-# The Middle Path
-
+![The Middle Path](/assets/images/wiapost/5241-The-Middle-Path.jpg)    
+    
+# The Middle Path   
+   
 We hear very commonly that you don't go to extreme of anything in the life,    
 Walk the middle path, settle on middle ground, Madhya Maarga.    
 Yet, no matter how hard we try, living on the middle path seems unsustainable.    

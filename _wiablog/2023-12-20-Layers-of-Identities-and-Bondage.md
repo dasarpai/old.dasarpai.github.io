@@ -16,11 +16,10 @@ author_profile: true
 share: true        
 ---        
         
-![Layers of Identities and Bondage](/assets/images/wiapost/5243-Layers-of-Identities-and-Bondage.jpg)             
+![Layers of Identities and Bondage](/assets/images/wiapost/5243-Layers-of-Identities-and-Bondage.jpg)        
         
-		
-# Layers of Identities and Bondage
-
+# Layers of Identities and Bondage    
+    
 The waking state is when I am fully aware of    
 the objects and events around my physical body and within it.   
    

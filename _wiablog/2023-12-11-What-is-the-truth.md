@@ -16,10 +16,10 @@ author_profile: true
 share: true        
 ---        
       
-![What is the Truth](/assets/images/wiapost/5242-What-is-the-Truth.jpg)	 
- 
-# What is the Truth
-
+![What is the Truth](/assets/images/wiapost/5242-What-is-the-Truth.jpg)	   
+    
+# What is the Truth   
+    
 Your son fails in 12th class exam or you get promoted in your job.    
 One brings suffering and another brings happiness.
 
