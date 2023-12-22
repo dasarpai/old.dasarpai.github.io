@@ -21,6 +21,14 @@ sidebar:
 ## AI/ ML Blogs
 [![Jump to AI/ML Blogs](https://img.shields.io/badge/Goto-AI_ML_Blog-blue)](/dsblog)
 
+[![Jump to PMLogy Home](https://img.shields.io/badge/Goto-PMLOGY_Home-blue)](/pmlogy-home)
+
+[![Jump to Sanskrit Blogs](https://img.shields.io/badge/Goto-Sanskrit_Yatra_Blog-orange)](/samskrutyatra-blog)
+
+[![Jump to Wisdom In Awareness Blogs](https://img.shields.io/badge/Goto-WiA_Blog-Dark_Green)](/wia-blog)
+
+[![Jump to WiA Quotes](https://img.shields.io/badge/Goto-WiA_Quotations-Yellow)](/quotations-blog)
+
 ## Ek Kendra for Data Science
 One place to learn everything about Data Science, AI, Machine Learning, Deep Learning, GAN, NLP, RL. This blog contains my 3 decades experience around Data Science, Project Management, AI/ML, IT Technology, Software Development, Process Automation, Business Analytics in diverse domains like Logistic, BFSI, Health, Education, Staffing, and NGO. In various roles like Programmer, Architect, Business Analyst, Data Analyst, Product Manager, Project Manager, Program Manager, Delivery Head, Trainer, Coach, Consultant, Mentors with different companies. I gained a deeper understanding about the businesses and how technology can help businesses in making better and timely decisions which can maximize the stakeholder engagement and more business. 
 
