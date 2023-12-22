@@ -16,10 +16,10 @@ author_profile: true
 share: true        
 ---        
         
-![The Purpose of Education](/assets/images/wiapost/5232-The-Purpose-of-Education.jpg)             
-
-# The Purpose of Education 
-
+![The Purpose of Education](/assets/images/wiapost/5232-The-Purpose-of-Education.jpg)     
+    
+# The Purpose of Education     
+    
 The purpose of literacy is to learn
 how to count, write, read, and understand
 what subjects are there to learn about.

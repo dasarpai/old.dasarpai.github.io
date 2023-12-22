@@ -17,9 +17,9 @@ share: true
 ---    
     
 ![Dream Body and Physical Action](/assets/images/wiapost/5229-Sign-of-Wisdom.jpg)    
-
-# Sign of Wisdom
-
+    
+# Sign of Wisdom   
+   
 Your surroundings comprise people, lives,    
 the government, and systems around you,    
 including family members, office hierarchy,    

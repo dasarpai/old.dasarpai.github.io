@@ -16,10 +16,10 @@ author_profile: true
 share: true        
 ---        
         
-![ABC of Statistics](/assets/images/wiapost/5237-ABC-of-Statistics.jpg)
+![ABC of Statistics](/assets/images/wiapost/5237-ABC-of-Statistics.jpg)   
 		
-# ABC of Statistics
-
+# ABC of Statistics    
+    
 1. A table or dataset is generally means same thing. Ideally a dataset can have multiple tables.
 1. A table contains numerous columns.
 1. A table or dataset contains information, this can pertain to either a sample or a population.

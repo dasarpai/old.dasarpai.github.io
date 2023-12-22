@@ -17,9 +17,9 @@ share: true
 ---    
     
 ![Is Old Really Gold](/assets/images/wiapost/5230-Is-old-really-Gold.jpg)    
-
-# Is old really Gold?
-
+   
+# Is old really Gold?   
+   
 An important function of the human brain is memory.    
 Humans should use this for learning lessons.    
 Unfortunately, it's often used to create nostalgic moments in present life.    

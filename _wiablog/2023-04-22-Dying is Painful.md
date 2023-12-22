@@ -18,8 +18,8 @@ share: true
     
 ![Dying is Painful?](/assets/images/wiapost/5224-Is-Dying-Painful.jpg)    
     
-# Is Dying Painful?
-
+# Is Dying Painful?   
+   
 No living being truly experiences dying.     
 A few may recount near-death experiences,     
 yet none have undergone the act of dying itself.     

@@ -17,9 +17,9 @@ share: true
 ---        
         
 ![Question Answering](/assets/images/wiapost/5233-Question-Answering.jpg)             
-
-# Questioning & Answering (Problem Solving)
-
+    
+# Questioning & Answering (Problem Solving)    
+    
 When we are searching on internet or   
 engaging with people and asking them a question  
 We get incomplete answer or incorrect answer    
