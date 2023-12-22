@@ -20,11 +20,30 @@ share: true
 
 # Is old really Gold?
 
-An important function of the human brain is called Memory. 
-Humans should use this for lesson learning. But unfortunately it is used to create nostalgic moments in the present life. People love it. Why? Because they don't want to face the present and fearful about the future so the only place to draw pleasure is to live in the past.
-
-As per my experience this is disease of the human mind. Music, recording, movies, albums etc inflame this disease. But people don't want a solution, they love exaggerating their pain/pleasure and their past.
-
-If we ask millennium child his/her nostalgia is different. People of every age have different degrees, different types and different severities of this disease. 
-
-Living on the breath, watching the present and remaining mindful is the only solution. 😀
+An important function of the human brain is memory.    
+Humans should use this for learning lessons.    
+Unfortunately, it's often used to create nostalgic moments in present life.    
+Life only happens in present, it is neither past nor future.    
+People love dwelling in the past, being nostalgic.    
+Why? Because they avoid facing the present and fear the future.    
+So, finding pleasure is only possible by living in the past.    
+    
+In my experience, this is a disease of the human mind.    
+Recorded music, videos, movies, albums, etc., exacerbate this condition.    
+However, people resist a solution;     
+they enjoy exaggerating their pain/pleasure and their past.    
+    
+For a millennial child, their nostalgia is different.    
+People of every age have varying degrees, types, and severities of this condition.    
+    
+Living on the breath,     
+watching the present and     
+remaining mindful is the only solution.    
+    
+"Old" isn't truly "gold",    
+It seems golden due to mental distress,    
+The distress of not being able to live in the present moment.    
+    
+    
+Hari Om Tat Sat    
+Yours Truly Hari

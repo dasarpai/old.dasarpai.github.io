@@ -20,14 +20,24 @@ share: true
 
 # The Ways to Hurt the Self
    
-People say your words are more painful and I cannot forget them without my life. Physical pain is less painful then the pain caused by harsh words.
+People say your words are more painful and    
+I cannot forget them in my life.   
+They say, physical pain is less painful then the pain caused by harsh words.
 
-If this is the way of society then what we are saying you believe in physical fight and physical hurt is less painful do not say harshword say sweet word and hit me physically I am ok with that.
+If this is the way of society then 
+what we are saying, we believe in physical fight, physical hurt is less painful.   
+Do not say harshword say sweet word and hit me physically I am ok with that.
 
-Ideally, We should not hurt anyone physically or by words but if we have to choose one we should choose words to hurt so that we can convey our message rather than physically fitting somebody to convey the message.
+Ideally, We should not hurt anyone physically or by words    
+But if we have to choose one we should choose words to hurt    
+so that we can convey our message    
+rather than physically fitting somebody to convey the message.
 
-So don't say your words hurts me more than you physically hitting me. Don't be unnecessarily poetic and repeat the phrases and poems of others even that is meaningless in the real life. Be Pragmatic.
+So don't say your words hurts me more than you physically hitting me.   
+Don't be unnecessarily poetic and repeat the phrases and poems of others   
+even that is meaningless in the real life. Be Pragmatic.
 
 
-
+Hari Om Tat Sat   
+Yours Truly Hari
 

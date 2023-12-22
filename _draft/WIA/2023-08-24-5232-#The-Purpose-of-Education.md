@@ -20,13 +20,46 @@ share: true
 
 # The Purpose of Education 
 
-The purpose of literacy is to count to write to read and understand what are the subjects there to learn about.
+The purpose of literacy is to learn
+how to count, write, read, and understand
+what subjects are there to learn about.
+And life helps you explore these subjects.
 
-The purpose of education is to know what other people have done before you. In the field of your interest get the data, analyse the data. You should be able to understand the between the fact and opinion. Facts belong to the existence opinion belong to human mind. This way we have lot of data and we know the opinion of others and we also have  our own opinion. 
+The purpose of education is to know
+what other people have done before you.
+In the field of your interest, get the data, analyze the data.
+You should be able to understand the difference between fact and opinion.
+Facts belong to existence, opinions belong to the human mind.
+This way, we have a lot of data and analysis.
+Now, we know the opinions of others, and
+we also have our own opinion.
 
-Purpose of education is not about knowing the fact opinion and forming opinion. It is also important to know who discovered the certain fact how they discovered it.
+If a human mind is properly educated, that mind will have
+enough Vivek (sense of discrimination between two opposites)
+to distinguish between fact and opinion.
+Otherwise, people fight over an opinion.
+Without understanding that every human has the ability to think differently,
+a thinking mind may have a different opinion.
 
-Purpose of education is also to become original in your ideas like your ideals have been.
+The purpose of education is not only about knowing and memorizing
+facts, opinions, and forming your own opinion.
+It's also important to know
+who discovered a certain fact and how they discovered it.
+So, the study of history, geography, and timeframe
+along with the main subject is the right education.
+Knowing concepts, formulas, processes from physics, chemistry,
+management, and other subjects without the history, geography, and
+timeframe of those is not complete education.
+
+Unfortunately, we often think literacy is education.
+The purpose of education is also to become
+original in your ideas, like your ideals have been.
+Not to become something you like,
+but to know who you are and refine that
+to improve your life experiences.
+
+Hari Om Tat Sat   
+Yours Truly Hari
 
 
 

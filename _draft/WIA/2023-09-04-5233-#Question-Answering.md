@@ -1,9 +1,9 @@
 ---        
 id: 5233        
 mathjax: true        
-title:  Question Answering         
+title:  Questioning & Answering (Problem Solving)         
 date: "2023-09-04T08:33:00+05:30"        
-permalink: /wiaposts/Question-Answering      
+permalink: /wiaposts/Question-Answering-Problem-Solving      
 tags:  [My Views, Life, Philosophy]         
         
 categories:        
@@ -18,13 +18,35 @@ share: true
         
 ![Question Answering](/assets/images/wiapost/5233-Question-Answering.jpg)             
 
-# Question Answering
+# Questioning & Answering (Problem Solving)
 
-We get incomplete answer or in correct answer because we do not ask correct question our questions are not complete therefore answers are also not complete and correct.
+When we are searching on internet or   
+engaging with people and asking them a question  
+We get incomplete answer or incorrect answer    
+because we do not ask correct question    
+(actual question is different than the problem in hand)    
+or question is not complete   
+or we exploring the answer at inappropriate place   
+or we are asking that question too early   
+(society around is not ready to undersand you)   
+this leads to incomplete or incorrect answer.
 
-Our questions are not complete or correct or appropriate because we do not know the full context or we are unable to comprehend the problem for which we are asking question
+Our questions are not complete or correct or appropriate    
+because we do not know the full context or    
+we are unable to comprehend the problem for which we are asking question   
 
-We do not know full context or unable to comprehend the problem because we are in hurry to solve the problem or there is another problem and we want to solve that problem in our mind is there or we are not interested in solving the problem but we want to do something else that is more enjoyable than this problem solving
+We do not know the full context or    
+unable to comprehend the problem    
+because we are in hurry to solve the problem or    
+there is another problem and in our mind we are solving that problem    
+and physically engaged in something else or    
+we are not interested in solving the problem    
+but we want to do something else    
+that is more enjoyable than this problem solving   
+We are just passing time waiting for something else.   
+
+Hari Om Tat Sat   
+Yours Truly Hari
 
 
 
