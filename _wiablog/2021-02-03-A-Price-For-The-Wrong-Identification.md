@@ -16,8 +16,8 @@ author_profile: true
 share: true 
 ---
 
-![A Price For The Wrong Identification](/assets/images/wiapost/5146-A-Price-For-The-Wrong-Identification.jpg)     
-
+![A Price For The Wrong Identification](/assets/images/wiapost/5146-A-Price-For-The-Wrong-Identification.jpg)    
+    
 # A Price For The Wrong Identification       
        
 If someone asks us, who are you?     

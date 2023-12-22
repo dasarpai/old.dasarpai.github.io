@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Journey Of The Siddhartha](/assets/images/wiapost/5041-Journey-Of-The-Siddhartha.jpg)     
-
-## Journey Of The Siddhartha
-
+   
+# Journey Of The Siddhartha
     
 The world around us has mysterious ways,     
 to teach some deeper lessons of life.     

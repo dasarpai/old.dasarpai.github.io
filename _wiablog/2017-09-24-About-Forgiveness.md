@@ -17,12 +17,9 @@ share: true
 ---
 
 ![About Forgiveness](/assets/images/wiapost/5059-About-Forgiveness.jpg)     
-
-## About Forgiveness
-
-    
-Namaste    
-    
+   
+# About Forgiveness   
+     
 Forgiveness doesn’t mean you do something to others,     
 It doesn’t mean you let go of others free for the crime     
 which others have done against you.    

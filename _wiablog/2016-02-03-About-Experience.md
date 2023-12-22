@@ -17,11 +17,8 @@ share: true
 ---
 
 ![About Experience](/assets/images/wiapost/5010-About-Experience.jpg)     
-
-## About Experience
-
-    
-Namaste,    
+   
+# About Experience   
     
 The tick of the time never stops.     
 For the body, it simply means from birthplace to crematorium.     

@@ -17,7 +17,7 @@ share: true
 ---
 
 ![World Around](/assets/images/wiapost/5145-World-Around.jpg)     
-
+   
 # World Around    
     
 There is the world that exists outside,     

@@ -17,12 +17,9 @@ share: true
 ---
 
 ![About Peace Or The Peace](/assets/images/wiapost/5020-About-Peace-Or-The-Peace.jpg)     
-
-## About Peace Or The Peace
-
-    
-Namaste,    
-    
+   
+# About Peace Or The Peace   
+     
 Peace and happiness in life is a desire of every human.     
 Is it a goal of life, which we shall achieve one day?     
 If you don’t have it then it may be a goal for you.     

@@ -17,9 +17,9 @@ share: true
 ---
 
 ![Cause Of Pain And Suffering](/assets/images/wiapost/5124-Cause-Of-Pain-And-Suffering.jpg)     
-
+   
 # Cause Of Pain And Suffering   
-       
+   
 I am a body.     
 Therefore I must have pain and comfort.     
 And I can cause pain and comfort for others.    

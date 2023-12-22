@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Who Is The Best Friend?](/assets/images/wiapost/5032-Who-Is-The-Best-Friend.jpg)     
-
-## Who Is The Best Friend?
-
+   
+# Who Is The Best Friend?
     
 Pratibimba is my childhood friend,     
 One day I asked him     

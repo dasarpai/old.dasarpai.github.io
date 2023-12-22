@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Religion Of Humanity](/assets/images/wiapost/5051-Religion-Of-Humanity.jpg)     
-
-## Religion Of Humanity
-
+   
+# Religion Of Humanity
     
 We know for sure that birds, insects, reptiles & animals     
 are the citizen of this planet.     

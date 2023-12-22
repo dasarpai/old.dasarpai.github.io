@@ -17,11 +17,8 @@ share: true
 ---
 
 ![About Astika](/assets/images/wiapost/5019-About-Astika.jpg)     
-
-## About Astika
-
-    
-Namaste,    
+   
+# About Astika   
     
 Astika word come from a “as” “अस्” dhaato (root word)     
 of the Samskrut (संस्कृत) language.     

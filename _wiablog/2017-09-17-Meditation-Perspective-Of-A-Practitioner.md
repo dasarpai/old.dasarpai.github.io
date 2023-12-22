@@ -17,12 +17,9 @@ share: true
 ---
 
 ![Meditation Perspective Of A Practitioner](/assets/images/wiapost/5058-Meditation-Perspective-Of-A-Practitioner.jpg)     
-
-## Meditation Perspective Of A Practitioner
-
-    
-Namaste    
-    
+   
+# Meditation Perspective Of A Practitioner
+   
 An English word Meditation has many meanings     
 Today I sharing my perceptive on a Samskrut word Dhyanam,     
 which is an integral part of Indian yogic traditions.    

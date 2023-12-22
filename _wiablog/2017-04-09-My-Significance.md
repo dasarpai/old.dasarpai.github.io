@@ -17,9 +17,8 @@ share: true
 ---
 
 ![My Significance](/assets/images/wiapost/5046-My-Significance.jpg)     
-
-## My Significance
-
+   
+# My Significance
     
 One day, I came out of my apartment     
 Went one a long travel to the mountains     

@@ -17,10 +17,8 @@ share: true
 ---
 
 ![The Root Of Body Mass](/assets/images/wiapost/5069-The-Root-Of-Body-Mass.jpg)     
-
-## The Root Of Body Mass
-
-    
+   
+# The Root Of Body Mass
     
 All lives including humans are made of proteins.     
 Protein is made of molecules.     

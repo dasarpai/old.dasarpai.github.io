@@ -17,12 +17,9 @@ share: true
 ---
 
 ![The Power For Prayer](/assets/images/wiapost/5055-The-Power-For-Prayer.jpg)     
-
-## The Power For Prayer
-
-    
-Namaste    
-    
+   
+## The Power For Prayer      
+     
 If you believe there is no power in the prayer     
 Then you can stop doing any prayer of any type.     
 If you believe there is power in the prayer     

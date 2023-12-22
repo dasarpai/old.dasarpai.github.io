@@ -17,14 +17,10 @@ share: true
 ---
 
 ![Learning From The Nature](/assets/images/wiapost/5053-Learning-From-The-Nature.jpg)     
-
-## Learning From The Nature
-
-    
-### 24 Gurus of Dattatreya    
-    
-Namaste    
-    
+   
+# Learning From The Nature
+## 24 Gurus of Dattatreya    
+   
 As per the Bhartiya wisdom stories Dattatrey is a son of Sage Attri & Mother Anusuya. Dattatreya is considered as one of the powerful Devata in our society. As per the stories he had 24 Gurus from nature. These Gurus have taught him the different aspects of life and living. Let’s see who are these Gurus of Dattatrey Maharaj and what are they teaching us. This is a **big story** and part of the eleventh Skanda of Bhagwatam. If you have time and want to enjoy the original full text then I would highly recommend you to read or listen to audio on this. In the interest of time, I am summarizing below the 24 Gurus of Dattatreya    
     
 1. **The Water** (Jal): Always flows towards down and rest on the lowest point. If you want to settle in life then high is not the place but the lowest is the place. If you are a seeker of knowledge then that is always the place where people can shower their knowledge upon you.    

@@ -17,12 +17,10 @@ share: true
 ---
 
 ![How To Acquire New Skills](/assets/images/wiapost/5043-How-To-Acquire-New-Skills.jpg)     
-
-## How To Acquire New Skills
-
-    
-### About Science and Art of Learning    
-    
+   
+# How To Acquire New Skills    
+## About Science and Art of Learning    
+       
 Science means rules, formula, process,     
 Repeatability, reproducibility, scalability    
     

@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Life In Awareness](/assets/images/wiapost/5047-Life-In-Awareness.jpg)     
-
-## Life In Awareness
-
+   
+# Life In Awareness
     
 When you are in a deep sleep     
 There is no dream, no awareness     

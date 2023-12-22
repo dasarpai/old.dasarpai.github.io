@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Driven By Humanity Or Morality](/assets/images/wiapost/5050-Driven-By-Humanity-Or-Morality.jpg)     
-
-## Driven By Humanity Or Morality
-
+   
+# Driven By Humanity Or Morality
     
 Fear, pain, reward, and punishment,     
 either from government or authorities or God or Karma     

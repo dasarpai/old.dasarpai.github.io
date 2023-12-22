@@ -17,11 +17,8 @@ share: true
 ---
 
 ![Who Is The Doer?](/assets/images/wiapost/5009-Who-Is-The-Doer.jpg)     
-
-## Who Is The Doer?
-
-    
-Namaste,    
+   
+# Who Is The Doer?
     
 Who is the cause of doing?     
 Who gets the fruit of action?     

@@ -17,11 +17,8 @@ share: true
 ---
 
 ![Prisoner Of The Mind](/assets/images/wiapost/5014-Prisoner-Of-The-Mind.jpg)     
-
-## Prisoner Of The Mind
-
-    
-Namaste,    
+   
+# Prisoner Of The Mind     
     
 When I came to this planet,     
 I had a body full of memories but a mind without many memories.     

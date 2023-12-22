@@ -18,7 +18,7 @@ share: true
 
 ![What Is The Waking State Of Life?](/assets/images/wiapost/5102-What-Is-The-Waking-State-Of-Life.jpg)       
    
-# What Is The Waking State Of Life?
+# What Is The Waking State Of Life?   
     
 A person has done some heinous crime against another person. Police caught him and presented in court and the court sentenced him to be hanged on a certain date. Police personnel taking the person to be hanged. This person can run away and there are not many police people so that policeman wraps that person in some plastic and binds him tightly so that he cannot run away before he is taken to jail for hanging.    
     

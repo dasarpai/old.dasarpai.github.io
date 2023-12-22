@@ -17,9 +17,8 @@ share: true
 ---
 
 ![About Yagnya](/assets/images/wiapost/5023-About-Yagnya.jpg)     
-
-## About Yagnya
-
+   
+# About Yagnya
     
 A process that has five elements.     
 A goal, A sponsor (Yajmaan), A Performer (Purohit),     

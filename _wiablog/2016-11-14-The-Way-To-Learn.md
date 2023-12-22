@@ -17,9 +17,8 @@ share: true
 ---
 
 ![The Way To Learn](/assets/images/wiapost/5033-The-Way-To-Learn.jpg)     
-
-## The Way To Learn
-
+   
+# The Way To Learn
     
 What is the food of a mind?     
 No matter how good is the food     

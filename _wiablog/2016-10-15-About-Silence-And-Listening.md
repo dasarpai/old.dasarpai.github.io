@@ -17,9 +17,8 @@ share: true
 ---
 
 ![About Silence And Listening](/assets/images/wiapost/5031-About-Silence-And-Listening.jpg)     
-
-## About Silence And Listening
-
+   
+# About Silence And Listening
     
 Hearing is a **natural phenomenon** to normal ears.     
 Listening is a **conscious phenomenon** from a willing mind.     

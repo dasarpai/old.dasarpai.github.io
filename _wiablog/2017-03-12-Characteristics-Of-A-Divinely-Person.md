@@ -17,12 +17,10 @@ share: true
 ---
 
 ![Characteristics Of A Divinely Person](/assets/images/wiapost/5042-Characteristics-Of-A-Divinely-Person.jpg)     
-
-## Characteristics Of A Divinely Person
-
-    
-### Assets of Divinely Person    
-    
+   
+# Characteristics Of A Divinely Person
+## Assets of Divinely Person    
+       
 Many people get confused about what is good and whatnot,     
 what is right and whatnot.     
 Obviously, it is the context that makes things     

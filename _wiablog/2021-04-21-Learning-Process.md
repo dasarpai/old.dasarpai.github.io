@@ -17,7 +17,7 @@ share: true
 ---
 
 ![Learning Process](/assets/images/wiapost/5152-Learning-Process.jpg)     
-
+    
 # Learning Process    
      
 When you see some long physics or maths formula then don’t get scared of it. It is just a way to represent the reality. Is it an absolute reality? No, it just represents that reality, and the absolute reality is very close to this. Whether it is a formula of gravity or force or angular momentum or energy calculations or anything else.    

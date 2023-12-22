@@ -17,9 +17,8 @@ share: true
 ---
 
 ![What Kind Of Education?](/assets/images/wiapost/5070-What-Kind-Of-Education.jpg)     
-
-## What Kind Of Education?
-
+   
+## What Kind Of Education?   
     
 Religious education teaches you     
 relative morality, rituals, and traditions.     

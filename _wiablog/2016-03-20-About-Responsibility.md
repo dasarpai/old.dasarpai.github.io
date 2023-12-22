@@ -17,11 +17,8 @@ share: true
 ---
 
 ![About Responsibility](/assets/images/wiapost/5013-About-Responsibility.jpg)     
-
-## About Responsibility
-
-    
-Namaste,    
+   
+# About Responsibility      
     
 Responsibility is a Noun. But it takes birth from a verb “ability”.     
 The ability to respond is called responsibility    

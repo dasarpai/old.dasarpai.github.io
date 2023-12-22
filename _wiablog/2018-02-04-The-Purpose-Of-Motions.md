@@ -17,9 +17,8 @@ share: true
 ---
 
 ![The Purpose Of Motions](/assets/images/wiapost/5068-The-Purpose-Of-Motions.jpg)     
-
-## The Purpose Of Motions
-
+   
+# The Purpose Of Motions
     
 As per the law of physics all the planets, stars and galaxies    
 want to go in a straight line    

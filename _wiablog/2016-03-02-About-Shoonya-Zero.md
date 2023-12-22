@@ -17,12 +17,9 @@ share: true
 ---
 
 ![About Shoonya Zero](/assets/images/wiapost/5012-About-Shoonya-Zero.jpg)     
-
-## About Shoonya Zero
-
-    
-Namaste,    
-    
+   
+## About Shoonya Zero     
+   
 Do you have experience of Shoonya?     
 Have you seen Shoonya?     
 If you experienced it then what time and what place it existed?     

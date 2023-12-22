@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Which Metrics Does Really Matter?](/assets/images/wiapost/5036-Which-Metrics-Does-Really-Matter.jpg)     
-
-## Which Metrics Does Really Matter?
-
+   
+# Which Metrics Does Really Matter?
     
 Whether our general knowledge     
 or our value system     

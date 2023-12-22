@@ -17,10 +17,9 @@ share: true
 ---
 
 ![Leadership In Troubled Time](/assets/images/wiapost/5061-Leadership-In-Troubled-Time.jpg)     
-
-## Leadership In Troubled Time
-
-    
+   
+# Leadership In Troubled Time
+   
 Enough we read, hear and lecture     
 Especially in the management profession and leadership positions.     
 Life every moment unfolds surprises     

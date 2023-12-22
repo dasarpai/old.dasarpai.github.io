@@ -17,9 +17,8 @@ share: true
 ---
 
 ![The Final Settlement](/assets/images/wiapost/5027-The-Final-Settlement.jpg)     
-
-## The Final Settlement
-
+   
+# The Final Settlement
     
 A man from a village,     
 Met me after so many years.     

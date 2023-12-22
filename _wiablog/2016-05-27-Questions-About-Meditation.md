@@ -17,11 +17,8 @@ share: true
 ---
 
 ![Questions About Meditation](/assets/images/wiapost/5018-Questions-About-Meditation.jpg)     
-
-## Questions About Meditation
-
-    
-Namaste,    
+   
+# Questions About Meditation   
     
 Meditation is a process or result of a process?    
     

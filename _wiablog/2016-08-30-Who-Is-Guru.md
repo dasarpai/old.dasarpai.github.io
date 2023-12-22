@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Who Is Guru](/assets/images/wiapost/5029-Who-Is-Guru.jpg)     
-
-## Who Is Guru
-
+   
+# Who Is Guru
     
 We all know the Samskrut definition of Guru     
 The remover of darkness.     

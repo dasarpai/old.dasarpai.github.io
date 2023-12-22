@@ -16,10 +16,10 @@ author_profile: true
 share: true 
 ---
 
-![Challenges In The Meditation Process](/assets/images/wiapost/5150-Challenges-In-The-Meditation-Process.jpg)     
-
-## Challenges In The Meditation Process      
-     
+![Challenges In The Meditation Process](/assets/images/wiapost/5150-Challenges-In-The-Meditation-Process.jpg)   
+    
+# Challenges In The Meditation Process      
+        
 You can meditate with open eyes     
 and you can meditate with closed eyes.    
     

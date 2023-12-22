@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Who Is Athiest](/assets/images/wiapost/5026-Who-Is-Athiest.jpg)     
-
-## Who Is Athiest
-
+   
+# Who Is Athiest
     
 Completely unaware and ignorant of the competition     
 of the various religions, gods and their followers     

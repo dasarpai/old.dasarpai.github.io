@@ -17,14 +17,10 @@ share: true
 ---
 
 ![Job Satisfaction](/assets/images/wiapost/5057-Job-Satisfaction.jpg)     
-
-## Job Satisfaction
-
-    
-### About Enjoyment    
-    
-Namaste,    
-    
+   
+# Job Satisfaction
+## About Enjoyment    
+   
 Life is a process and in life we do processes     
 Something is given to us as an input     
 We do some actions on the given input     

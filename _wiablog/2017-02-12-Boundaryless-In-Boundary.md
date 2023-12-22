@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Boundaryless In Boundary](/assets/images/wiapost/5039-Boundaryless-In-Boundary.jpg)     
-
-## Boundaryless In Boundary
-
+   
+# Boundaryless In Boundary
     
 O wise one you know your limitations,     
 You know your helplessness,     

@@ -17,9 +17,8 @@ share: true
 ---
 
 ![The Concept Of Yoga](/assets/images/wiapost/5067-The-Concept-Of-Yoga.jpg)     
-
-## The Concept Of Yoga
-
+   
+# The Concept Of Yoga
     
 Cleaning and alignment of a person     
 at the physical, emotional, intellectual, and energy     

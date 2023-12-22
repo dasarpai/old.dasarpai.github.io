@@ -17,9 +17,8 @@ share: true
 ---
 
 ![About Free Will](/assets/images/wiapost/5038-About-Free-Will.jpg)     
-
-## About Free Will
-
+   
+# About Free Will
     
 To understand About free will     
 Let us assume you are hungry     

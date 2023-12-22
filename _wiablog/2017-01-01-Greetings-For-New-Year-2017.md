@@ -17,9 +17,9 @@ share: true
 ---
 
 ![Greetings For New Year 2017](/assets/images/wiapost/5007-Greetings-For-New-Year-2017.jpg)     
-
-## Greetings For New Year 2017
-
+   
+# Greetings For New Year 2017
+   
 In our life, a new day comes every day  
 but only once in 365 days a new day also comes with the new year.  
 Like the circle of 360 degrees, 365 days of a year also represents a circle of time.  

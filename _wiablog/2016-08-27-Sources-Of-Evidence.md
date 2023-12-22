@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Sources Of Evidence](/assets/images/wiapost/5028-Sources-Of-Evidence.jpg)     
-
-## Sources Of Evidence
-
+   
+# Sources Of Evidence
     
 Suppose you have vast land and no one around you.     
 For you living you want to work in the field     

@@ -16,10 +16,10 @@ author_profile: true
 share: true 
 ---
 
-![Earnings Of Life](/assets/images/wiapost/5151-Earnings-Of-Life.jpg)     
-
-## Earnings Of Life   
-   
+![Earnings Of Life](/assets/images/wiapost/5151-Earnings-Of-Life.jpg)       
+    
+# Earnings Of Life   
+      
 You are living comfortably at your home.     
 You have inquisitiveness to know the world around     
 So you go out and travel as far places as you want to know.    

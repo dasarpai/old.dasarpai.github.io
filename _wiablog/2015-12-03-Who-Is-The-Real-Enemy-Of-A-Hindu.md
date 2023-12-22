@@ -17,10 +17,9 @@ share: true
 ---
 
 ![Who Is The Real Enemy Of A Hindu](/assets/images/wiapost/5003-Who-Is-The-Real-Enemy-Of-A-Hindu.jpg)     
+   
+# Who Is The Real Enemy Of A Hindu   
 
-## Who Is The Real Enemy Of A Hindu
-
-    
 Namaste,    
     
 All the old religions and civilizations of the world like Unan, Rome, Egypt are crashed only Hindu, the oldest civilization, could dare to see the sun of 21 century. It is not because the Hindus have been a great fighter or defender but because of great knowledge and values in our Vedas and Upnishads and great saints who translated the same for us from time to time. Saints did this selflessly and people believed them blindly because of this selfless nature and the value which people saw in their teachings.    

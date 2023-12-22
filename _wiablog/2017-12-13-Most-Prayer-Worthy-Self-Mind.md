@@ -17,13 +17,9 @@ share: true
 ---
 
 ![Most Prayer Worthy Self Mind](/assets/images/wiapost/5064-Most-Prayer-Worthy-Self-Mind.jpg)     
-
-## Most Prayer Worthy Self Mind
-
-    
-### Whom should we pray?    
-    
-### Most Prayer Worthy is the Mind of Self!    
+   
+# Whom should we pray?   
+## Most Prayer Worthy is the Mind of Self!    
     
 Whether we pass an exam or not,     
 get married or not,     

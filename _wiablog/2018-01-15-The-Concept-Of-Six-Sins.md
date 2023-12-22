@@ -17,9 +17,8 @@ share: true
 ---
 
 ![The Concept Of Six Sins](/assets/images/wiapost/5066-The-Concept-Of-Six-Sins.jpg)     
-
-## The Concept Of Six Sins
-
+   
+# The Concept Of Six Sins
     
 Science taught us that     
 we evolved from unicellular life     

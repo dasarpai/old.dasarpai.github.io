@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Human And His Faith](/assets/images/wiapost/5035-Human-And-His-Faith.jpg)     
-
-## Human And His Faith
-
+   
+# Human And His Faith
     
 If you look at life deeper,     
 There is no other purpose of life other than to live.     

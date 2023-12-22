@@ -17,9 +17,8 @@ share: true
 ---
 
 ![About Physicality And Relationship](/assets/images/wiapost/5048-About-Physicality-And-Relationship.jpg)     
-
-## About Physicality And Relationship
-
+   
+# About Physicality And Relationship
     
 What is that in this world with which I don’t have a relationship?     
 Name of the relationships may be different     

@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Human Is Rotating Or Travelling](/assets/images/wiapost/5063-Human-Is-Rotating-Or-Travelling.jpg)     
-
-## Human Is Rotating Or Travelling
-
+   
+# Human Is Rotating Or Travelling
     
 When stars and planets walk in the space     
 we call they are rotating around something else like earth or sun or galaxy.     

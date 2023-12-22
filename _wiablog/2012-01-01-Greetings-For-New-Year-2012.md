@@ -17,11 +17,11 @@ share: true
 ---
 
 ![Greetings For New Year 2012](/assets/images/wiapost/5000-Greetings-For-New-Year-2012.jpg)     
-
-## Greetings For New Year 2012
-
-Dear Friends
-
+    
+# Greetings For New Year 2012   
+   
+Dear Friends   
+   
 Dharma is not about justice nor it is about religion.  
 It is about empathy, compassion, co-existence.  
 When you fight for Dharma you do not win or lose but everyone wins.  

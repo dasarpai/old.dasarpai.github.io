@@ -17,11 +17,8 @@ share: true
 ---
 
 ![The Way Of Mother](/assets/images/wiapost/5016-The-Way-Of-Mother.jpg)     
-
-## The Way Of Mother
-
-    
-Namaste,    
+   
+# The Way Of Mother  
     
 A twelve years old boy in a deep mountain     
 quite engrossed in his play with crops, trees, mud, cattle, and fountain.     

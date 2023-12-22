@@ -16,10 +16,10 @@ author_profile: true
 share: true 
 ---
 
-![What Is Death?](/assets/images/wiapost/5154-What-Is-Death.jpg)     
-
-## What Is Death?    
-    
+![What Is Death?](/assets/images/wiapost/5154-What-Is-Death.jpg)   
+   
+# What Is Death?    
+       
 Death cannot be understood     
 without dwelling on the term called life.    
     

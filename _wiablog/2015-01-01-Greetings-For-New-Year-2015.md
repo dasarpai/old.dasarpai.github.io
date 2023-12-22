@@ -17,9 +17,9 @@ share: true
 ---
 
 ![Greetings For New Year 2015](/assets/images/wiapost/5004-Greetings-For-New-Year-2015.jpg)     
-
-## Greetings For New Year 2015
-
+   
+# Greetings For New Year 2015   
+   
 Dear Friend,
 
 I would like to wish you a healthy, rewarding and productive new year 2015 & Mary Christmas.

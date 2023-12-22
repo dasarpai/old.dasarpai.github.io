@@ -17,11 +17,8 @@ share: true
 ---
 
 ![Mind And Pleasure](/assets/images/wiapost/5015-Mind-And-Pleasure.jpg)     
-
-## Mind And Pleasure
-
-    
-Namaste,    
+   
+# Mind And Pleasure   
     
 What is the mind? Don’t mistake it for the brain.     
 The brain is physical and it is located inside the physical head.     

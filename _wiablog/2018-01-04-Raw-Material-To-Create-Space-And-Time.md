@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Raw Material To Create Space And Time](/assets/images/wiapost/5065-Raw-Material-To-Create-Space-And-Time.jpg)     
-
-## Raw Material To Create Space And Time
-
+   
+# Raw Material To Create Space And Time
     
 Time (Kaala) is 100% mind’s creation.     
 There is no physical time.     

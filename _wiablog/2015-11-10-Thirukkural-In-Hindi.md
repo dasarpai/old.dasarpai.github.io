@@ -17,10 +17,9 @@ share: true
 ---
 
 ![Thirukkural In Hindi](/assets/images/wiapost/5002-Thirukkural-In-Hindi.jpg)     
-
-## Thirukkural In Hindi
-
-    
+   
+## Thirukkural In Hindi   
+   
 Namaste,    
     
 Recently I came across this ancient Tamil literature and I could not stop myself from getting the meaning. Once I understood the meaning and philosophy I wanted to enjoy the singing and meaning both.    

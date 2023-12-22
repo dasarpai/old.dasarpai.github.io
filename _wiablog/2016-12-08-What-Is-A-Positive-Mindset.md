@@ -17,9 +17,8 @@ share: true
 ---
 
 ![What Is A Positive Mindset](/assets/images/wiapost/5034-What-Is-A-Positive-Mindset.jpg)     
-
-## What Is A Positive Mindset
-
+   
+# What Is A Positive Mindset
     
 What is positivity? What is positive thinking?     
 What is a positive mindset?     

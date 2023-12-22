@@ -18,10 +18,10 @@ share: true
 
 ![Greetings For New Year 2013](/assets/images/wiapost/5001-Greetings-For-New-Year-2013.jpg)     
 
-## Greetings For New Year 2013
-
-Dear Friends
-
+## Greetings For New Year 2013   
+   
+Dear Friends   
+   
 On the eve of this year and dawn of 2013 I have this pray for myself and for all my friends, relatives, elders and youngers teachers and students, known and unknown.
 
 If you pray this for me I am obliged and will pray in silence for you. If you pray this for yourself I am very happy.

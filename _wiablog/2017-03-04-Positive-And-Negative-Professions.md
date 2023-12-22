@@ -17,10 +17,9 @@ share: true
 ---
 
 ![Positive And Negative Professions](/assets/images/wiapost/5040-Positive-And-Negative-Professions.jpg)     
-
-## Positive And Negative Professions
-
-    
+   
+# Positive And Negative Professions
+       
 There is a city, every road in this city     
 Has potholes and it is causing     
 Lots of accidents, court case, and pain     

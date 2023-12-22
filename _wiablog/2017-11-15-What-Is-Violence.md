@@ -17,12 +17,9 @@ share: true
 ---
 
 ![What Is Violence](/assets/images/wiapost/5062-What-Is-Violence.jpg)     
-
-## What Is Violence
-
-    
-Namaste,    
-    
+   
+# What Is Violence   
+   
 In nature every entity has life.     
 Life means takes birth, grows, decay, and die.     
 Look around and identify     

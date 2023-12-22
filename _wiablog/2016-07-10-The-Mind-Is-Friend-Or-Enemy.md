@@ -17,9 +17,8 @@ share: true
 ---
 
 ![The Mind Is Friend Or Enemy](/assets/images/wiapost/5022-The-Mind-Is-Friend-Or-Enemy.jpg)     
-
-## The Mind Is Friend Or Enemy
-
+   
+# The Mind Is Friend Or Enemy
     
 For any human being, his mind is     
 either an asset or a huge liability     

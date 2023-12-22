@@ -18,13 +18,9 @@ share: true
 
 ![What Is CSR](/assets/images/wiapost/5056-What-Is-Csr.jpg)     
 
-## What Is CSR
-
-    
-### About Corporate Social Responsibility (CSR)    
-    
-Namaste    
-    
+# What Is CSR
+## About Corporate Social Responsibility (CSR)     
+        
 Corporate Social Responsibility is a concept    
 Where a corporate should own the responsibility of society.    
 They should not simply make a profit, share the profit    

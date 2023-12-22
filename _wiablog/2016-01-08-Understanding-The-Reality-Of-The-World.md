@@ -17,13 +17,9 @@ share: true
 ---
 
 ![Understanding The Reality Of The World](/assets/images/wiapost/5006-Understanding-The-Reality-Of-The-World.jpg)     
-
-## Understanding The Reality Of The World
-
-    
-### The reality in the Reflection    
-    
-Namaste,     
+   
+# Understanding The Reality Of The World    
+## The reality in the Reflection        
     
 I am not sure how many of you will be able to recollect this sloka from Bhagwat Geeta Chapter 15.    
     

@@ -17,11 +17,8 @@ share: true
 ---
 
 ![An Example Of Web Of Problems](/assets/images/wiapost/5011-An-Example-Of-Web-Of-Problems.jpg)     
-
-## An Example Of Web Of Problems
-
-    
-Namaste,     
+   
+# An Example Of Web Of Problems  
     
 Whatever can wrong, will go wrong. Today I wanted to file my Annual GST return and this is what happened to me. I don’t know whether this much ever happened to any of you!    
     
