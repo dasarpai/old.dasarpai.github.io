@@ -17,11 +17,9 @@ share: true
 ---
 
 ![How to Engage for Imparting Knowledge](/assets/images/wiapost/5193-How-To-Engage-For-Imparting-Knowledge.jpg)     
-
-## How to Engage for Imparting Knowledge
-
-    
-    
+   
+# How to Engage for Imparting Knowledge    
+       
 The biggest counterproductive assumption a teacher     
 or a trainer can make about the class is     
 "they all know what they want to learn and why they want to learn".     

@@ -16,10 +16,10 @@ author_profile: true
 share: true 
 ---
 
-![Efforts to Become Happy and Joyful](/assets/images/wiapost/5202-Efforts-To-Become-Happy-And-Joyful.jpg)        
-
-# Efforts to Become Happy and Joyful
-   
+![Efforts to Become Happy and Joyful](/assets/images/wiapost/5202-Efforts-To-Become-Happy-And-Joyful.jpg)         
+    
+# Efforts to Become Happy and Joyful    
+      
 We work hard to learn and earn.     
 This learning and earning helps us buying comfort in life     
      

@@ -17,11 +17,9 @@ share: true
 ---
 
 ![Light vs Darkness](/assets/images/wiapost/5184-Light-Vs-Darkness.jpg)     
-
-## Light vs Darkness
-
-    
-    
+   
+# Light vs Darkness   
+        
 Darkness in the whole existence is natural.    
 It need not be created.    
 Darkness is universal.    

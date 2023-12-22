@@ -17,11 +17,9 @@ share: true
 ---
 
 ![Why is life complex?](/assets/images/wiapost/5179-Why-Is-Life-Complex.jpg)     
-
-## Why is life complex?
-
-    
-    
+   
+## Why is life complex?   
+        
 Instinct is something which every life has on this planet.     
 And it helps them in their survival.     
 If survival is the goal of life then instinct is good enough.    

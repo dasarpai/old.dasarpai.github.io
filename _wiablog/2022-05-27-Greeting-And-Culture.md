@@ -17,11 +17,9 @@ share: true
 ---
 
 ![Greeting and Culture](/assets/images/wiapost/5190-Greeting-And-Culture.jpg)     
-
-## Greeting and Culture
-
-    
-    
+   
+# Greeting and Culture   
+     
 What we know, that is because of our efforts     
 and the support of family and friends.     
     

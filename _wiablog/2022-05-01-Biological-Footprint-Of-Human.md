@@ -18,10 +18,8 @@ share: true
 
 ![Biological Footprint of Human](/assets/images/wiapost/5188-Biological-Footprint-Of-Human.jpg)     
 
-## Biological Footprint of Human
-
-    
-    
+# Biological Footprint of Human   
+        
 Birds fly in the sky without footprint,    
 Animals cannot walk on the earth without a footprint.    
 Those who want to fly don't create a nest to live but to rest.    

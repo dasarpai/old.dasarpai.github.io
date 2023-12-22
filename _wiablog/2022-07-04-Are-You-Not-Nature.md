@@ -17,11 +17,9 @@ share: true
 ---
 
 ![Are you not Nature?](/assets/images/wiapost/5192-Are-You-Not-Nature.jpg)     
-
-## Are you not Nature?
-
-    
-    
+   
+# Are you not Nature?   
+        
 If a man thinks he has done something against Mother Nature     
 that is why nature is punishing him or going to punish him then     
 he forgets that he himself is part of the parcel of nature.     

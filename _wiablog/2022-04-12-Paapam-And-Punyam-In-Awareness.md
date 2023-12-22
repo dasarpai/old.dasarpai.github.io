@@ -17,10 +17,8 @@ share: true
 ---
 
 ![Paapam and Punyam in Awareness](/assets/images/wiapost/5185-Paapam-And-Punyam-In-Awareness.jpg)     
-
-## Paapam and Punyam in Awareness
-
-    
+   
+# Paapam and Punyam in Awareness   
     
 A person is in comma or deep sleep and     
 something horrible related to him     

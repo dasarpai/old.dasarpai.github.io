@@ -17,10 +17,9 @@ share: true
 ---
 
 ![Indian Technological Advancement with Zero connection to Past](/assets/images/wiapost/5198-Indian-Technological-Advancement-With-Zero-Connection-To-Past.jpg)        
-
-# Indian Technological Advancement with Zero connection to Past
-
-    
+   
+# Indian Technological Advancement with Zero connection to Past   
+   
 We complain in our society that a Bollywood hero gets quick fame, money, and reputation compared to a great scientist. We need to realize this is where we have brought our great culture of philosophy, debates, metallurgy, astrology, ayurveda, physics, mathematics and all other sciences. In the last 1000 years we couldn't do much even whatever our ancestors have given to us. We worshiped and did pooja aarti of that, put that on our heads and in some puja rooms and temples. But never tried to understand and expand that body of knowledge.    
      
 In today's culture people remember singers, composers, dancers, songs, filmy heroes, jokers and entertainers. There is a proper system to award them, celebrate their work, they have an audience for this, and for their work. But almost no recognition, award, audience for scientists (compared to artists). In terms of knowledge in ancient times we were better than today.     

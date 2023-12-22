@@ -17,11 +17,9 @@ share: true
 ---
 
 ![Young Generation and Vedanta](/assets/images/wiapost/5191-Young-Generation-And-Vedanta.jpg)     
-
-## Young Generation and Vedanta
-
-    
-    
+   
+# Young Generation and Vedanta    
+       
 Generally, people think philosophy is for old people.     
 Read Bhagwat Gita or Upanishads when you are old.    
 I am a youth, I have to live the life I don’t have time for all this useless.    

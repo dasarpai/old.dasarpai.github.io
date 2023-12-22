@@ -17,7 +17,7 @@ share: true
 ---            
             
 ![The Logic of Entangled Mind](/assets/images/wiapost/5211-The-Logic-of-Entangled-Mind.jpg )            
-               
+       
 # The Logic of Entangled Mind      
     
 Saints, Mahatmas, Rishis of the East Developed a philosophy     

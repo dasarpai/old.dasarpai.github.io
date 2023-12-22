@@ -17,10 +17,9 @@ share: true
 ---
 
 ![Ideals in Hinduism](/assets/images/wiapost/5176-Ideals-In-Hinduism.jpg)     
-
-## Ideals in Hinduism
-
-    
+   
+## Ideals in Hinduism   
+        
 Namaste,     
     
 People Question Rama, why he left Sita because someone questioned Sita's character? Rama should have defended and continued as king.    

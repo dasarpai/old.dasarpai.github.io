@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Appreciate the Architecture of Mind](/assets/images/wiapost/5174-Appreciate-The-Architecture-Of-Mind.jpg)     
-
-## Appreciate the Architecture of Mind
-
+   
+# Appreciate the Architecture of Mind   
     
 Namaste,     
     

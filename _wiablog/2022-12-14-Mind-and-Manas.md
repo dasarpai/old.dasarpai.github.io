@@ -20,7 +20,7 @@ share: true
     
 # Mind and Manas    
     
-## Two different concepts, Mind is not Manas.    
+## Two different concepts, Mind is not Manas    
     
 The logical capability of each human brain is different.    
 Due to this reason when different people see the same event they reason it differently.    

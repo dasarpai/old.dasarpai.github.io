@@ -17,11 +17,9 @@ share: true
 ---
 
 ![The Biggest Gift of Bharat](/assets/images/wiapost/5183-The-Biggest-Gift-Of-Bharat.jpg)     
-
-## The Biggest Gift of Bharat
-
-    
-    
+   
+# The Biggest Gift of Bharat  
+        
 Three the biggest things which Bharat gave to the world     
 but even our own people don't understand these fully.    
     

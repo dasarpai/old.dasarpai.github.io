@@ -17,11 +17,9 @@ share: true
 ---
 
 ![Solution of a Problem](/assets/images/wiapost/5196-Solution-Of-A-Problem.jpg)        
-
-## Solution of a Problem
-
-    
-    
+     
+# Solution of a Problem      
+         
 There are two worlds around us. One is the real world and another is the projected world. In both worlds objects are the same but their impact on us is different. In the real world, things exist the way they are, as per their Swabhav. In the projected world things exist as per our Swabhav plus the world's interaction (Vyavhar) with us.    
      
 For example, a black cat standing before has its own existence whether you are aware of it or not. Whether you think good or bad about it. Whether you feel loving or hateful toward it. This is the real cat of the real world. But within our mind, we have a world and there is also a black cat in that world. This is our own projected world. It is 100% our own creation. How we create this projected world is our own mental karma and this karma will give you Karmafala accordingly. Real cat out can not cause us that much damage as our projected world and its objects.    

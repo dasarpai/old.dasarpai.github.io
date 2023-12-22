@@ -16,11 +16,9 @@ author_profile: true
 share: true 
 ---
 
-![Time and Present](/assets/images/wiapost/5197-Time-And-Present.jpg)        
-
-## Time and Present
-
+![Time and Present](/assets/images/wiapost/5197-Time-And-Present.jpg)      
     
+## Time and Present      
     
 One second is made of 1000 milliseconds.    
 One millisecond is made of 1000 microseconds.    

@@ -17,10 +17,9 @@ share: true
 ---    
     
 ![About Eligibility](/assets/images/wiapost/5203-About-Eligibility.jpg)         
-    
+     
 # About Eligibility    
     
-        
 Paatra in Sanskrit means pot,     
 but it also means an eligible person.     
 Paatrata means eligibility, capacity,     

@@ -17,11 +17,9 @@ share: true
 ---
 
 ![Effect of Maya](/assets/images/wiapost/5187-Effect-Of-Maya.jpg)     
-
-## Effect of Maya
-
-    
-    
+   
+# Effect of Maya   
+        
 If there is no object then the presence of light cannot be sensed.     
 If there is no environment on earth then the blueness of the sky cannot be sensed.     
     

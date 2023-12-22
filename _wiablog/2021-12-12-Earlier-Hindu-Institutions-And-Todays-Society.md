@@ -18,9 +18,8 @@ share: true
 
 ![Earlier Hindu Institutions and Today's Society](/assets/images/wiapost/5175-Earlier-Hindu-Institutions-And-Todays-Society.jpg)     
 
-## Earlier Hindu Institutions and Today's Society
-
-    
+# Earlier Hindu Institutions and Today's Society   
+       
 Namaste,     
     
 Joint Families, where each family, Kula, has a Guru and elders. Land belongs to those who can cultivate and feed others. Knowledge belongs to those who can enhance and benefit others with his knowledge. Power belongs to those who can protect others with their power. And money belongs to those who trade with other societies for the benefits of their society. Children belong to the whole village and whole family.     
