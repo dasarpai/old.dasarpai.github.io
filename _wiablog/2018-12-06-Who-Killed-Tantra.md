@@ -16,11 +16,10 @@ author_profile: true
 share: true 
 ---
 
-![Who Killed Tantra](/assets/images/wiapost/5087-Who-Killed-Tantra.jpg)     
-
-## Who Killed Tantra
-
-    
+![Who Killed Tantra](/assets/images/wiapost/5087-Who-Killed-Tantra.jpg)   
+   
+# Who Killed Tantra
+       
 Tantra means system. (like Lok-Tantra, Praja-Tantra etc)     
 Mantra means sound which contains secret, powerful energy.     
 Yantra means tool.    

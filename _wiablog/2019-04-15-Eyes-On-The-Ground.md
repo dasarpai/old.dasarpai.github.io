@@ -16,11 +16,10 @@ author_profile: true
 share: true 
 ---
 
-![Eyes On The Ground](/assets/images/wiapost/5095-Eyes-On-The-Ground.jpg)     
-
-## Eyes On The Ground
-
-    
+![Eyes On The Ground](/assets/images/wiapost/5095-Eyes-On-The-Ground.jpg)    
+   
+# Eyes On The Ground
+       
 Whether I walk, jog or run     
 If I have continuous eyes on the ground     
 I will not fall because of environmental reasons.    

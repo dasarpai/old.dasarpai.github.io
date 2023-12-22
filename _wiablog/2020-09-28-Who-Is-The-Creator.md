@@ -18,10 +18,7 @@ share: true
 
 ![Who Is The Creator?](/assets/images/wiapost/5138-Who-Is-The-Creator.jpg)     
 
-## Who Is The Creator?
-
-    
-Namaste,     
+# Who Is The Creator?    
     
 Faith can move mountains, but faith should be well-founded,     
 and you should be able to wait for enough.     

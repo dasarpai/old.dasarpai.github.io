@@ -16,13 +16,10 @@ author_profile: true
 share: true 
 ---
 
-![How to Evaluate IQ](/assets/images/wiapost/5165-How-To-Evaluate-Iq.jpg)     
-
+![How to Evaluate IQ](/assets/images/wiapost/5165-How-To-Evaluate-Iq.jpg)      
+   
 ## How to Evaluate IQ   
-
-    
-Namaste,    
-    
+          
 After spending a decade in training, consulting, Coaching and mentoring activities I started believing that the IQ of a person should not be measured on the basis of facts, what a person knows. In fact in this information age when search engines know more facts than any single human it is an outdated way of measuring IQ.    
     
 Corporations are spending a lot of money in selecting good candidates for the role in their projects and organization but they are also not going beyond question answers interviews or a standard exam. Most of the time MCQ are the criteria of evaluating. In a limited time how can we select a good candidate?    

@@ -17,11 +17,8 @@ share: true
 ---
 
 ![What Is Love?](/assets/images/wiapost/5139-What-Is-Love.jpg)     
-
-## What Is Love?
-
-    
-Namaste,    
+   
+## What Is Love?       
     
 Normally people think love is between opposite genders.     
 Some people think love is about sex.     

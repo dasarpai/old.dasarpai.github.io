@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Morality Of Killing](/assets/images/wiapost/5099-Morality-Of-Killing.jpg)     
-
-## Morality Of Killing
-
+   
+# Morality Of Killing   
     
 Killing is sin and it is immoral.     
 What I want to kill is not existing because of my action     

@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Choose Your Attitude](/assets/images/wiapost/5132-Choose-Your-Attitude.jpg)     
-
-## Choose Your Attitude
-
+   
+# Choose Your Attitude   
     
 The world around us is either a warfield or playground.     
 If it is warfield then we keep fighting.     

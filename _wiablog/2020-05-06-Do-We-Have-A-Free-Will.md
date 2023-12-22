@@ -17,10 +17,9 @@ share: true
 ---
 
 ![Do We Have A Free Will](/assets/images/wiapost/5125-Do-We-Have-A-Free-Will.jpg)     
-
-## Do We Have A Free Will
-
-    
+   
+# Do We Have A Free Will   
+       
 Religion says there is no free will. Without God’s will, nothing happens. So if there is any free will that is of God. Man is a slave.    
     
 Science says everything can be predicted based on the parameters and a good quality model. If a model is good quality and all parameters are given as an input then what you will eat, where you will go, when will you sleep, what you will buy, when you will drink, etc everything can be predicted precisely. AI and ML is proving this. So, ultimately, science is also saying human is a slave and doesn’t have any free will.    

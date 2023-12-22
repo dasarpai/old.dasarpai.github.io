@@ -16,12 +16,11 @@ author_profile: true
 share: true 
 ---
 
-![Shraddha On Guru](/assets/images/wiapost/5130-Shraddha-On-Guru.jpg)     
-
-## Shraddha On Guru
-
-    
-### Guru Purnima 2021    
+![Shraddha On Guru](/assets/images/wiapost/5130-Shraddha-On-Guru.jpg)  
+   
+# Shraddha On Guru
+   
+## Guru Purnima 2021    
     
 Darkness was prevalent all over     
 Because it was dark everywhere outside     

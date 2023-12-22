@@ -18,11 +18,8 @@ share: true
 
 ![Helpless Krishna and Missing Arjuna](/assets/images/wiapost/5173-Helpless-Krishna-And-Missing-Arjuna.jpg)     
 
-## Helpless Krishna and Missing Arjuna
-
-    
-Namaste,     
-    
+# Helpless Krishna and Missing Arjuna     
+   
 The truth is Bhagwat Gita was told by a friend Krishna to his best friend Arjuna. That too when he asked.     
     
 Normal chit chat is fine but serious advice should not be given to your friend, if it is not asked. Today's situation is such, we give suggestions to everyone, even to the unknown. Shaking someone for the reality so that one can search one's truth is one thing but telling one the absolute truth, without asking, is not good practice.     

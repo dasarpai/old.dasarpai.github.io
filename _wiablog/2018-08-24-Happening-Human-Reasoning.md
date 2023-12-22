@@ -17,10 +17,9 @@ share: true
 ---
 
 ![Happening Human Reasoning](/assets/images/wiapost/5079-Happening-Human-Reasoning.jpg)     
-
-## Happening Human Reasoning
-
-    
+   
+# Happening Human Reasoning
+       
 Think about any ten unconnected things.     
 Connect them all in a half-page story.     
 Any human can do this.     

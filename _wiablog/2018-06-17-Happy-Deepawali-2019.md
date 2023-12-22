@@ -16,13 +16,11 @@ author_profile: true
 share: true 
 ---
 
-![Happy Deepawali 2019](/assets/images/wiapost/5075-Happy-Deepawali-2019.jpg)     
-
-## Happy Deepawali 2019
-
-    
-### Happy Diwali    
-    
+![Happy Deepawali 2019](/assets/images/wiapost/5075-Happy-Deepawali-2019.jpg)   
+   
+# Happy Deepawali 2019   
+## Happy Diwali  
+     
 Before we emerge ourselves     
 in the long celebrations of Deepawali,     
 I wanted to share with you one thought.    

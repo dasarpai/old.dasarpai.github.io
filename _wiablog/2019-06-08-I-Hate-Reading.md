@@ -16,10 +16,9 @@ author_profile: true
 share: true 
 ---
 
-![I Hate Reading](/assets/images/wiapost/5098-I-Hate-Reading.jpg)     
-
-## I Hate Reading
-
+![I Hate Reading](/assets/images/wiapost/5098-I-Hate-Reading.jpg)       
+   
+# I Hate Reading   
     
 Childhood was over and I was in school     
 I need to read books and write exams     

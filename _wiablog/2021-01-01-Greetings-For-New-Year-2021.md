@@ -16,12 +16,12 @@ author_profile: true
 share: true 
 ---
 
-![Greetings For New Year 2021](/assets/images/wiapost/5117-Greetings-For-New-Year-2021.jpg)     
-
-## Greetings For New Year 2021
-
-### Happy New Year 2021
-
+![Greetings For New Year 2021](/assets/images/wiapost/5117-Greetings-For-New-Year-2021.jpg)  
+   
+# Greetings For New Year 2021   
+    
+## Happy New Year 2021
+   
 **How do you wish someone a happy new year?**  
 This depends upon with whom we are talking.
 

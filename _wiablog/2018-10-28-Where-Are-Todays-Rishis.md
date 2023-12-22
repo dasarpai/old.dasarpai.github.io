@@ -17,10 +17,9 @@ share: true
 ---
 
 ![Where Are Todays Rishis](/assets/images/wiapost/5083-Where-Are-Todays-Rishis.jpg)     
-
-## Where Are Todays Rishis
-
-    
+   
+# Where Are Todays Rishis   
+       
 All Sciences, particle physics, and quantum physics     
 in particular, tells us some truth of this cosmos.     
 But they also tell us,     

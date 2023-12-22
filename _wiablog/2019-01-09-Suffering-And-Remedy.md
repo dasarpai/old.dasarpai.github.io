@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Suffering And Remedy](/assets/images/wiapost/5089-Suffering-And-Remedy.jpg)     
-
-## Suffering And Remedy
-
+    
+# Suffering And Remedy
     
 If you know the cause of all your pain and suffering     
 is ignorance of the subject from you are suffering     

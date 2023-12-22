@@ -16,11 +16,10 @@ author_profile: true
 share: true 
 ---
 
-![When To Reincarnate?](/assets/images/wiapost/5081-When-To-Reincarnate.jpg)     
-
-## When To Reincarnate?
-
-    
+![When To Reincarnate?](/assets/images/wiapost/5081-When-To-Reincarnate.jpg)  
+   
+# When To Reincarnate?   
+      
 Either by choice or by chance you are in a profession     
 which you feel pride in or makes your living from.     
 Some are saints, some are robbers and thieves,     

@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Relevance Of Guru](/assets/images/wiapost/5115-Relevance-Of-Guru.jpg)     
-
-## Relevance Of Guru
-
+   
+# Relevance Of Guru
     
 Without Questions in life what is the need for a Guru?     
 If my questions are well defined then do I need a Guru?     

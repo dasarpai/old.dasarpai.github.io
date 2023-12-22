@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Managing Source Of Energy](/assets/images/wiapost/5076-Managing-Source-Of-Energy.jpg)     
-
-## Managing Source Of Energy
-
+   
+# Managing Source Of Energy   
     
 If we group people based on     
 their energy characteristics     

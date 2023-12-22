@@ -16,11 +16,10 @@ author_profile: true
 share: true 
 ---
 
-![Reality And Relativity](/assets/images/wiapost/5110-Reality-And-Relativity.jpg)     
-
-## Reality And Relativity
-
-    
+![Reality And Relativity](/assets/images/wiapost/5110-Reality-And-Relativity.jpg)       
+   
+# Reality And Relativity
+       
 Does color exists independent     
 from human eyes sensation?     
 Colour is nothing but a vibration of light radiation.     

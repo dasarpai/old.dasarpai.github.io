@@ -17,9 +17,8 @@ share: true
 ---
 
 ![About Indian Secularism](/assets/images/wiapost/5088-About-Indian-Secularism.jpg)     
-
-## About Indian Secularism
-
+   
+# About Indian Secularism   
     
 I was thinking, as a society and as an individual     
 how low we will go in our thinking?    

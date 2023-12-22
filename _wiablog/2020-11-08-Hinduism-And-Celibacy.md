@@ -17,12 +17,9 @@ share: true
 ---
 
 ![Hinduism And Celibacy](/assets/images/wiapost/5140-Hinduism-And-Celibacy.jpg)     
-
-## Hinduism And Celibacy
-
-    
-Namaste,    
-    
+   
+# Hinduism And Celibacy    
+        
 In Christianity, what is the biggest sin of Adam and Eve?     
 They ate the fruit of knowledge.     
 The Forbidden fruit.     

@@ -16,10 +16,10 @@ author_profile: true
 share: true 
 ---
 
-![Greetings For New Year 2020](/assets/images/wiapost/5097-Greetings-For-New-Year-2020.jpg)     
-
-## Greetings For New Year 2020
-
+![Greetings For New Year 2020](/assets/images/wiapost/5097-Greetings-For-New-Year-2020.jpg)   
+   
+## Greetings For New Year 2020   
+   
 English being the dominating language of the world  
 has created the hegemony over all other calendars of the world  
 and became the baseline calendar of the business world.  

@@ -17,10 +17,9 @@ share: true
 ---
 
 ![Meaning Of Understanding](/assets/images/wiapost/5121-Meaning-Of-Understanding.jpg)     
-
-## Meaning Of Understanding
-
-    
+   
+# Meaning Of Understanding
+       
 Understanding and knowing are not a binary concept that either your understand or not. This is a spectrum or scale, say moving from zero to hundred. No one has zero understanding about anything, and no matter how many Ph.D. you have on any subject you cannot say I understand this 100%.    
     
 How can you tell you have understood it fully? I think there is no way to know that I know X thing or concept 100%.    

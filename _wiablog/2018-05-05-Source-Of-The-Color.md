@@ -16,10 +16,9 @@ author_profile: true
 share: true 
 ---
 
-![Source Of The Color](/assets/images/wiapost/5073-Source-Of-The-Color.jpg)     
-
-## Source Of The Color
-
+![Source Of The Color](/assets/images/wiapost/5073-Source-Of-The-Color.jpg)  
+   
+# Source Of The Color   
     
 If the color is a characteristic of the objects     
 and hence the beauty is part of the object     

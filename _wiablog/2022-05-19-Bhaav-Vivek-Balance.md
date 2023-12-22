@@ -16,10 +16,10 @@ author_profile: true
 share: true 
 ---
 
-![Bhaav-Vivek Balance](/assets/images/wiapost/5189-Bhaav-Vivek-Balance.jpg)     
+![Bhaav-Vivek Balance](/assets/images/wiapost/5189-Bhaav-Vivek-Balance.jpg)    
    
-## Bhaav-Vivek Balance   
-        
+# Bhaav-Vivek Balance   
+          
 Bhav (power of emotions) and Vivek (power of intellect)     
 both are crucial for a healthy mind.     
 If you are too emotional with Vivek you can be dangerous.     

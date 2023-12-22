@@ -17,10 +17,9 @@ share: true
 ---
 
 ![The Art Of Dying](/assets/images/wiapost/5084-The-Art-Of-Dying.jpg)     
-
-## The Art Of Dying
-
-    
+   
+# The Art Of Dying   
+      
 Helplessly we take birth in some family,     
 without our desire and control.     
 Helplessly we die someday     

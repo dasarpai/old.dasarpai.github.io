@@ -18,8 +18,7 @@ share: true
 
 ![Mystery Of Time And Space](/assets/images/wiapost/5107-Mystery-Of-Time-And-Space.jpg)     
 
-## Mystery Of Time And Space
-
+# Mystery Of Time And Space   
     
 Let us look into time first.    
 One minute is made of 60 seconds    

@@ -18,10 +18,7 @@ share: true
 
 ![World Around](/assets/images/wiapost/5145-World-Around.jpg)     
 
-## World Around
-
-    
-Namaste,    
+# World Around    
     
 There is the world that exists outside,     
 That is the objective world.     

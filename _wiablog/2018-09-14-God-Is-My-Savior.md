@@ -17,10 +17,9 @@ share: true
 ---
 
 ![God Is My Savior](/assets/images/wiapost/5080-God-Is-My-Savior.jpg)     
-
-## God Is My Savior
-
-    
+   
+# God Is My Savior   
+       
 When a human kills,    
 cooks and eats helpless creature    
 and no God, Allah, Devi, Devta, Jesus    

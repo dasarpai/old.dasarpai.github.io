@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Four Ways Or One Way](/assets/images/wiapost/5092-Four-Ways-Or-One-Way.jpg)     
-
-## Four Ways Or One Way
-
+   
+# Four Ways Or One Way   
     
 Generally, people think,     
 Bhakti Yoga, Karma Yoga,     

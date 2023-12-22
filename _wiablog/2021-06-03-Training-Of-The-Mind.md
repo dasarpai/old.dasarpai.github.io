@@ -17,12 +17,9 @@ share: true
 ---
 
 ![Training of the mind](/assets/images/wiapost/5161-Training-Of-The-Mind.jpg)     
-
-## Training of the mind
-
-    
-Namaste,    
-    
+   
+## Training of the mind  
+       
 Since the first of our life     
 All parts and systems of our body are designed,     
 developed, trained, used, and maintained     

@@ -16,11 +16,10 @@ author_profile: true
 share: true 
 ---
 
-![Empty Space Is Created Of What?](/assets/images/wiapost/5071-Empty-Space-Is-Created-Of-What.jpg)     
-
-## Empty Space Is Created Of What?
-
-    
+![Empty Space Is Created Of What?](/assets/images/wiapost/5071-Empty-Space-Is-Created-Of-What.jpg)    
+   
+# Empty Space Is Created Of What?
+       
 To see the objects, places, and events     
 we keep running in the world from one place to another.     
 After reaching the place     

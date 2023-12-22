@@ -17,12 +17,9 @@ share: true
 ---
 
 ![Searching the Creator](/assets/images/wiapost/5170-Searching-The-Creator.jpg)     
-
-## Searching the Creator
-
-    
-Namaste,     
-    
+   
+## Searching the Creator      
+   
 Without seeing or hearing about many things we know about their existence from the results of their functions.     
     
 I can see, this proves that I have eyes.    

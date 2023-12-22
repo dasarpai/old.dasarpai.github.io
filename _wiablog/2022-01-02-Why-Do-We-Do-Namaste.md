@@ -18,9 +18,8 @@ share: true
 
 ![Why Do We Do Namaste?](/assets/images/wiapost/5178-Why-Do-We-Do-Namaste.jpg)     
     
-## Why Do We Do Namaste?   
-       
-Meaning of Namaste    
+# Why Do We Do Namaste?   
+## Meaning of Namaste    
     
 Namaste means, I bow down to you.    
     

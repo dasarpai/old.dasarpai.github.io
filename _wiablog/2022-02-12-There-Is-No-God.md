@@ -15,11 +15,11 @@ excerpt:
 author_profile: true 
 share: true 
 ---
-
-![There is no God!](/assets/images/wiapost/5180-There-Is-No-God.jpg)     
+  
+![There is no God!](/assets/images/wiapost/5180-There-Is-No-God.jpg)   
    
 ## There is no God!   
-        
+   
 If our Karma and Law or Karma is everything then what is the need of God?    
     
 People say Karma is everything but they are afraid of this rule. They want to bypass this rule. Why? Due to ignorance or madness, if some Karma happened and results of that Karma is unbearable then what to do?    

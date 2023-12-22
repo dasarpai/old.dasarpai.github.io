@@ -18,11 +18,8 @@ share: true
 
 ![AI And Free Soul](/assets/images/wiapost/5148-Ai-And-Free-Soul.jpg)     
 
-## AI And Free Soul
-
-    
-Namaste,    
-    
+# AI And Free Soul     
+       
 Human likes certainty but enjoys good surprises     
 and learns from bad surprises.     
 To make the future certain and predictable,     

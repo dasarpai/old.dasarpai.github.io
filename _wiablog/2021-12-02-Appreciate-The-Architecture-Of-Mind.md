@@ -18,10 +18,8 @@ share: true
 
 ![Appreciate the Architecture of Mind](/assets/images/wiapost/5174-Appreciate-The-Architecture-Of-Mind.jpg)     
    
-# Appreciate the Architecture of Mind   
-    
-Namaste,     
-    
+# Appreciate the Architecture of Mind      
+   
 We blame the mind like a monkey, it keeps dancing and makes the body and the world around dance and create problems.     
     
 See the beauty of mind, it can dance and without your notice, it can leap to a completely unrelated subject, location and time. Without this capability of mind no creativity is possible. No 'hope' is possible. No temporary relief from present problems is possible.     

@@ -17,11 +17,8 @@ share: true
 ---
 
 ![Labeling Good and Bad](/assets/images/wiapost/5163-Labeling-Good-And-Bad.jpg)     
-
-## Labeling Good and Bad
-
-    
-Namaste,    
+   
+## Labeling Good and Bad   
     
 A raw mango on the branch of a tree    
 is good for some purposes and bad for others.    

@@ -17,11 +17,8 @@ share: true
 ---
 
 ![The Biggest Mistake](/assets/images/wiapost/5162-The-Biggest-Mistake.jpg)     
-
-## The Biggest Mistake
-
-    
-Namaste,    
+   
+## The Biggest Mistake   
     
 When we are children we even see the rise and set of the sun with amazement.    
 Flying birds, and the color of the clouds and sky spark curiosity in us.    

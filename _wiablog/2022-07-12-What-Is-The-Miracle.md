@@ -18,8 +18,8 @@ share: true
 
 ![What is the Miracle?](/assets/images/wiapost/5194-What-Is-The-Miracle.jpg)        
     
-# What is the Miracle?    
-       
+# What is the Miracle?      
+   
 When some hot water falls on the body     
 and it burns the body,     
 burning didn’t happen because of a miracle.    

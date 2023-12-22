@@ -17,12 +17,9 @@ share: true
 ---
 
 ![Unanswered Questions Of Science](/assets/images/wiapost/5136-Unanswered-Questions-Of-Science.jpg)     
-
-## Unanswered Questions Of Science
-
-    
-Namaste,    
-    
+   
+# Unanswered Questions Of Science   
+      
 I am a student of science and technology, apart from that I have a deep interest in philosophy and cosmology. As a true seeker of knowledge, I keep searching for answers to various questions related to our existence and our journey in the cosmos. There are many answers which science has given, but I do not know because of my time commitment. But there are many questions, in which I am interest into, but I don’t have any scientific answer. As and when question comes, I keep putting here. If you know the answer of any of these question, then please connect me to the source. If you have any other question not mentioned here, then feel free to add question in the comment box.    
     
 1. What is the cause of gravity?    

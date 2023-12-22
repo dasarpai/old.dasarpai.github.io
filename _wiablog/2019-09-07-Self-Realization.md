@@ -16,11 +16,10 @@ author_profile: true
 share: true 
 ---
 
-![Self Realization](/assets/images/wiapost/5106-Self-Realization.jpg)     
-
-## Self Realization
-
-    
+![Self Realization](/assets/images/wiapost/5106-Self-Realization.jpg)   
+   
+# Self Realization   
+       
 What is the meaning of Self-Realization?     
 What is the meaning of Liberation?     
 What is the meaning of Self-Actualization?     

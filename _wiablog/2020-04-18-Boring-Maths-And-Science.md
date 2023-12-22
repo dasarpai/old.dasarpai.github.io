@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Boring Maths and Science](/assets/images/wiapost/5123-Boring-Maths-And-Science.jpg)     
-
-## Boring Maths and Science
-
+   
+# Boring Maths and Science
     
 Generally people like music, art, dance but not maths or physics. Why? Because people live art, music, and dance so it flows from their life, and people around them receive it like water flowing from a fountain.    
     

@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Awareness and Who Am I](/assets/images/wiapost/5181-Awareness-And-Who-Am-I.jpg)     
+![Awareness and Who Am I](/assets/images/wiapost/5181-Awareness-And-Who-Am-I.jpg)   
    
 # Awareness and Who Am I   
     

@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Thinking In Human Vs Computers](/assets/images/wiapost/5128-Thinking-In-Human-Vs-Computers.jpg)     
-
-## Thinking In Human Vs Computers
-
+   
+# Thinking In Human Vs Computers   
     
 If a computer says I am thinking then what does it mean? It is speaking out the word which has been programmed in it by humans? Or, the processor is too busy because of some calculation or searching and hence this is status? Or is it really contemplating the meaning of words like humans do?    
     

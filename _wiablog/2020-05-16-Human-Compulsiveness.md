@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Human Compulsiveness](/assets/images/wiapost/5126-Human-Compulsiveness.jpg)     
-
-## Human Compulsiveness
-
+    
+# Human Compulsiveness
     
 Compulsiveness is slavery. Generally people people confuse this with their freedom.    
     

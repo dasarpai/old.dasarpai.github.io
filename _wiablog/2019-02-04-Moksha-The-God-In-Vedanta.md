@@ -16,10 +16,9 @@ author_profile: true
 share: true 
 ---
 
-![Moksha The God In Vedanta](/assets/images/wiapost/5091-Moksha-The-God-In-Vedanta.jpg)     
-
-## Moksha The God In Vedanta
-
+![Moksha The God In Vedanta](/assets/images/wiapost/5091-Moksha-The-God-In-Vedanta.jpg)   
+   
+# Moksha The God In Vedanta   
     
 The God of Upanishad is not that     
 what we “speak about” but the speaker!    

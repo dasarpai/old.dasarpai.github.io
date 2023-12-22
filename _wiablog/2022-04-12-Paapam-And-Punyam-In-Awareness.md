@@ -16,7 +16,7 @@ author_profile: true
 share: true 
 ---
 
-![Paapam and Punyam in Awareness](/assets/images/wiapost/5185-Paapam-And-Punyam-In-Awareness.jpg)     
+![Paapam and Punyam in Awareness](/assets/images/wiapost/5185-Paapam-And-Punyam-In-Awareness.jpg)    
    
 # Paapam and Punyam in Awareness   
     

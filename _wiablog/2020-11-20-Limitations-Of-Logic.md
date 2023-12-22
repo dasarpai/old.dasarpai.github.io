@@ -17,12 +17,9 @@ share: true
 ---
 
 ![Limitations Of Logic](/assets/images/wiapost/5141-Limitations-Of-Logic.jpg)     
-
-## Limitations Of Logic
-
-    
-Namaste,    
-    
+   
+# Limitations Of Logic   
+   
 Logic is a lately developed human phenomenon.     
 But in reality, there is no logic anywhere in the existence.     
 Humans give meaning to life.     

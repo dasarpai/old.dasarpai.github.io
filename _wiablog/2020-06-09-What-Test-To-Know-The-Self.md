@@ -18,8 +18,7 @@ share: true
 
 ![What Test To Know The Self?](/assets/images/wiapost/5129-What-Test-To-Know-The-Self.jpg)     
 
-## What Test To Know The Self?
-
+# What Test To Know The Self?   
     
 Every object around us including our body has two kinds of properties physical properties like color, mass, density, shape, size, etc., and chemical properties like object are poison, acid, base, the reaction of an object when mixed with other objects, etc.    
     

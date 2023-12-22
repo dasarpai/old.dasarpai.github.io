@@ -18,11 +18,8 @@ share: true
 
 ![What Is Success?](/assets/images/wiapost/5153-What-Is-Success.jpg)     
 
-## What Is Success?
-
-    
-Namaste,    
-    
+# What Is Success?   
+       
 A mosquito or flee is roaming around and disturbing you     
 You plan to kill it, and you killed it, it is a success.     
 An employee is looking for rupees 10000     

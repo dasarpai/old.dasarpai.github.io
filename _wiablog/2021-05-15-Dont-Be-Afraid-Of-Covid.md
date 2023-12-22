@@ -17,9 +17,9 @@ share: true
 ---
 
 ![Don't Be Afraid Of Covid](/assets/images/wiapost/5122-Dont-Be-Afraid-Of-Covid.jpg)     
-
-## Don't Be Afraid Of Covid
-
+   
+# Don't Be Afraid Of Covid   
+   
 We are a body of 15 trillion cells.  
 The human body is a colony of billions of viruses and bacterias.  
 Every day with food, water, and the air we consume those.  

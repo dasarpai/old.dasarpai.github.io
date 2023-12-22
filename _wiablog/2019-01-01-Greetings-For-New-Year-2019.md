@@ -16,12 +16,10 @@ author_profile: true
 share: true 
 ---
 
-![Greetings For New Year 2019](/assets/images/wiapost/5008-Greetings-For-New-Year-2019.jpg)     
-
-## Greetings For New Year 2019
-
-Dear Friends
-
+![Greetings For New Year 2019](/assets/images/wiapost/5008-Greetings-For-New-Year-2019.jpg)   
+   
+# Greetings For New Year 2019   
+   
 We suffer ONLY in present. But this suffering happens either because of repentance of the past or fear of the future. The past has gone and the future will come. But there are people who start praying in present to secure the future. The future is full of possibilities & we pray in the present so that when the future becomes present then the possibilities which become the reality should bring happiness for us and the people around us.
 
 So today, at the launching pad of the new year, I pray in this present and request you to join in your present (when you read this msg), if you agree with me that.

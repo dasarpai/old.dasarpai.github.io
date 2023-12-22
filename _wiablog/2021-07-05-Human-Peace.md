@@ -16,13 +16,10 @@ author_profile: true
 share: true 
 ---
 
-![Human Peace](/assets/images/wiapost/5164-Human-Peace.jpg)     
-
+![Human Peace](/assets/images/wiapost/5164-Human-Peace.jpg)   
+   
 ## Human Peace   
-
-    
-Namaste,    
-    
+       
 Information has become abundant     
 and it is free through search engines like Google, bing, yahoo etc.    
     

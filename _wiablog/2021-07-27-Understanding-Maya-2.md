@@ -17,11 +17,8 @@ share: true
 ---
 
 ![Understanding Maya 2](/assets/images/wiapost/5166-Understanding-Maya-2.jpg)     
-
-## Understanding Maya 2
-
-    
-Namaste,    
+   
+# Understanding Maya 2   
     
 When you see sun is rising and settings    
 But you know it doesn't    

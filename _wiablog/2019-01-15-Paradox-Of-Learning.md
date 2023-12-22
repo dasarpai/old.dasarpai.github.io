@@ -17,9 +17,8 @@ share: true
 ---
 
 ![Paradox Of Learning](/assets/images/wiapost/5090-Paradox-Of-Learning.jpg)     
-
-## Paradox Of Learning
-
+   
+# Paradox Of Learning
     
 If you listen to some idea with an empty mind,     
 no previous knowledge or     

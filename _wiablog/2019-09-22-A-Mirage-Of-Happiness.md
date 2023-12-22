@@ -17,9 +17,8 @@ share: true
 ---
 
 ![A Mirage Of Happiness](/assets/images/wiapost/5108-A-Mirage-Of-Happiness.jpg)     
-
-## A Mirage Of Happiness
-
+   
+# A Mirage Of Happiness
     
 People are Chasing Happiness     
 And arguing measuring Happiness Index     

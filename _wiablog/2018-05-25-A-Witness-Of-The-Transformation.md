@@ -17,9 +17,8 @@ share: true
 ---
 
 ![A Witness Of The Transformation](/assets/images/wiapost/5074-A-Witness-Of-The-Transformation.jpg)     
-
-## A Witness Of The Transformation
-
+   
+# A Witness Of The Transformation   
     
 On far top-hill either water getting heated     
 and then you see the vapors in the sky or     

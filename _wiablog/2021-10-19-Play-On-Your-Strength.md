@@ -17,11 +17,8 @@ share: true
 ---
 
 ![Play on your Strength](/assets/images/wiapost/5172-Play-On-Your-Strength.jpg)     
-
-## Play on your Strength
-
-    
-Namaste,    
+   
+## Play on your Strength     
     
 Mentally or physically everybody has a unique design. Either you or someone else can identify that uniqueness of yours. If you know this then you can live a more meaningful life. Otherwise, you have a feeling of living in a pressure cooker called world and competing with others.     
     

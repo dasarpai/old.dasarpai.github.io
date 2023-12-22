@@ -16,8 +16,8 @@ author_profile: true
 share: true 
 ---
 
-![Biological Footprint of Human](/assets/images/wiapost/5188-Biological-Footprint-Of-Human.jpg)     
-
+![Biological Footprint of Human](/assets/images/wiapost/5188-Biological-Footprint-Of-Human.jpg)    
+    
 # Biological Footprint of Human   
         
 Birds fly in the sky without footprint,    

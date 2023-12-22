@@ -16,10 +16,9 @@ author_profile: true
 share: true 
 ---
 
-![Nothing Becoming Everything](/assets/images/wiapost/5077-Nothing-Becoming-Everything.jpg)     
-
-## Nothing Becoming Everything
-
+![Nothing Becoming Everything](/assets/images/wiapost/5077-Nothing-Becoming-Everything.jpg)   
+   
+# Nothing Becoming Everything
     
 Objects live in the space and     
 they need some 3D space in the space     

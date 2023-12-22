@@ -19,7 +19,7 @@ share: true
 ![Thinking and Feeling](/assets/images/wiapost/5186-Thinking-And-Feeling.jpg)     
    
 # Thinking and Feeling    
-       
+   
 Feeling and Thinking are two different process in human     
 And both work from different parts of the human brain.     
 Metaphorically people say     
