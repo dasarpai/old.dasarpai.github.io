@@ -33,7 +33,7 @@ And others want to walk any length to become successful.
    
 Inspiring success in children's mind or adolescent mind is easy   
 Because they want to enjoy the life, have adventure in the life   
-Have lots of money to buy anything on this planet.   
+They want to have lots of money to buy anything on this planet.   
 Because that is the meaning of success for them.   
 But when matured people define the success this way   
 Then it is sign of immaturity,   
