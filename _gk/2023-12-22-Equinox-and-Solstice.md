@@ -18,11 +18,12 @@ toc: true
 toc_sticky: true    
 ---        
 
-![What is Solstice and Equinox?](/assets/images/gk/7007-What-is-Solstice-and-Equinox.jpg)
-
-# Equinox and Solstice 
-
+![What is Solstice and Equinox?](/assets/images/gk/7007-What-is-Solstice-and-Equinox.jpg)   
+    
+# Equinox and Solstice    
+    
 ## Introduction
+    
 This article trying to help you understand 
 - Why Solstice and Makarsankranti doesn't happens on the same day?
 - What are different movement or rotation of earth?

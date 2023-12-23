@@ -14,6 +14,8 @@ layout: single
 excerpt:  
 author_profile: true 
 share: true 
+toc: true  
+toc_sticky: true
 ---
 
 ![Why Indians Are Corrupt](/assets/images/gk/7002-Why-Indians-Are-Corrupt.jpg)    
@@ -66,77 +68,77 @@ When some truth is mixed with opinion and fed by a lazy, irrational mind then th
     
 2. Indians give God cash and anticipate an out-of-turn reward.    
     
-	1. I think you are saying “Indian” means “Hindu”. What do you mean by “God”. Do you even understand Hindu culture does not have a concept of God? It is a western term. We have Devi and Devta. For Hindu Devi and Devta is Yantra (tool/ machine). Every sensible person need tool in his life to perform better, we take care of our tools, what is wrong in that? If you pay your car mechanic Rs 5000 to service your car is it a bribe? Is it an out-of-turn reward?    
+	Response-1. I think you are saying “Indian” means “Hindu”. What do you mean by “God”. Do you even understand Hindu culture does not have a concept of God? It is a western term. We have Devi and Devta. For Hindu Devi and Devta is Yantra (tool/ machine). Every sensible person need tool in his life to perform better, we take care of our tools, what is wrong in that? If you pay your car mechanic Rs 5000 to service your car is it a bribe? Is it an out-of-turn reward?    
     
-	2. Do you think Indians are so fooled that they think God is dumb and an idiot who can fooled by giving Rs 10?    
+	Response-2. Do you think Indians are so fooled that they think God is dumb and an idiot who can fooled by giving Rs 10?    
     
-	3. If I give Rs 10 in temple why do you think, I am giving it for my favor and not for taking care of temple priest so that they can take care of my tool (Yantra) in the temple?    
+	Response-3. If I give Rs 10 in temple why do you think, I am giving it for my favor and not for taking care of temple priest so that they can take care of my tool (Yantra) in the temple?    
     
 3. Such a plea acknowledges that favors are needed for the undeserving.    
     
-	1. When we do not have a concept of God and only the concept of “Devi”, “Devta” and “Yantra” then why do you think giving money to a mechanic of the “Yantra” is to take favor of Machine. Ultimately it is my life, how and where I use that tool, and whether that will work or not it is business between my capability and power of the tool. Where is a question of “undeserving”. Have you not heard that “Yantra” power can fire back to you if you want to misuse it?    
+	Response-1. When we do not have a concept of God and only the concept of “Devi”, “Devta” and “Yantra” then why do you think giving money to a mechanic of the “Yantra” is to take favor of Machine. Ultimately it is my life, how and where I use that tool, and whether that will work or not it is business between my capability and power of the tool. Where is a question of “undeserving”. Have you not heard that “Yantra” power can fire back to you if you want to misuse it?    
     
 4. In the world outside the temple walls, such a transaction is named “bribe”.    
     
-	1. As per you money giving to take favor is a bribe?    
+	Response-1. As per you money giving to take favor is a bribe?    
     
-	2. Money collection in the name of service is a bribe or not?    
+	Response-2. Money collection in the name of service is a bribe or not?    
     
-	3. Whether the non-Hindu religion collects money or not? What do you call that transaction?    
+	Response-3. Whether the non-Hindu religion collects money or not? What do you call that transaction?    
     
-	4. Why do you think that transaction is better than giving to temple?    
+	Response-4. Why do you think that transaction is better than giving to temple?    
     
-	5. Do you know earlier times temples, Dharamsala and Gurukula were created maintained by the kings and wealthy people?    
+	Response-5. Do you know earlier times temples, Dharamsala and Gurukula were created maintained by the kings and wealthy people?    
     
-	6. Do you know “Madras Regulation VII of 1817” was created by the British to take control of the rich temple in the south?    
+	Response-6. Do you know “Madras Regulation VII of 1817” was created by the British to take control of the rich temple in the south?    
     
-	7. Do you know earlier times temples were the center of Dance, cultural activities, festivals? They sponsored education, shelter, food, and medicines for all. If you go to some village you will find the reminiscence there even today.    
+	Response-7. Do you know earlier times temples were the center of Dance, cultural activities, festivals? They sponsored education, shelter, food, and medicines for all. If you go to some village you will find the reminiscence there even today.    
     
-	8. Do you know in Indian culture collecting money for education, food, health, and shelter was considered a sin (Papam)? It was free because temples were maintaining those for all.    
+	Response-8. Do you know in Indian culture collecting money for education, food, health, and shelter was considered a sin (Papam)? It was free because temples were maintaining those for all.    
     
 5. A wealthy Indian gives not cash to temples, but gold crowns and such baubles.    
     
-	1. Do you know how much gold and silver Indian temples have?    
+	Response-1. Do you know how much gold and silver Indian temples have?    
     
-	2. Do you know how much cash Indian temples have?    
+	Response-2. Do you know how much cash Indian temples have?    
     
-	3. Do you think in other cultures rich people are giving money to churches and mosques? That too without expecting anything from them?    
+	Response-3. Do you think in other cultures rich people are giving money to churches and mosques? That too without expecting anything from them?    
     
-	4. What is this concept of CSR? Rich people created their NGO and doing CSR program to earn more reputation and money so that more reputation and business can be earned?    
+	Response-4. What is this concept of CSR? Rich people created their NGO and doing CSR program to earn more reputation and money so that more reputation and business can be earned?    
     
-	5. Do you know any non-Indian rich man giving money to their NGO or religious organization for the service of humanity? All money directly or indirectly for conversion, service to humanity is hogwash and showy.    
+	Response-5. Do you know any non-Indian rich man giving money to their NGO or religious organization for the service of humanity? All money directly or indirectly for conversion, service to humanity is hogwash and showy.    
     
 6. His gifts can not feed the poor. His pay-off is for God. He thinks it will be wasted if it goes to a needy man.    
     
-	1.Why did you conclude that a Hindu thinks that money given to the needy is waste? This is your own skewed perspective about reality. Post Independence Temples are in the control of the Government how can temple decide what to do with the money and what not? Why are you blaming temples for this? Government is 100% responsible for this.    
+	Response-1. Why did you conclude that a Hindu thinks that money given to the needy is waste? This is your own skewed perspective about reality. Post Independence Temples are in the control of the Government how can temple decide what to do with the money and what not? Why are you blaming temples for this? Government is 100% responsible for this.    
     
 7. In June 2009, The Hindu published a report of Karnataka minister G. Janardhan Reddy gifting a crown of gold and diamonds worth Rs 45 crore to Tirupati.    
     
-	1. This guy is from BJP and reported by NDTV and 2009 was election year. Now you can connect all the dots. These kinds of events keep happening sometimes people will give cash, other times gold what is your problem? You are contradicting yourself from your point 9 (“bold crowns and such baubles”). Gold is also a wealth of temples. That can be pledged with the government and you can earn interest on that. And it is inflation-free assets.    
+	Response-1. This guy is from BJP and reported by NDTV and 2009 was election year. Now you can connect all the dots. These kinds of events keep happening sometimes people will give cash, other times gold what is your problem? You are contradicting yourself from your point 9 (“bold crowns and such baubles”). Gold is also a wealth of temples. That can be pledged with the government and you can earn interest on that. And it is inflation-free assets.    
     
 8. India’s temples collect so much that they don’t know what to do with it. Billions are gathering dust in temple vaults.    
     
-	1. Don’t you know temples are in government control and the government decides what to do with the money? Temple cannot take the call. What is the basis of this argument?    
+	Response-1. Don’t you know temples are in government control and the government decides what to do with the money? Temple cannot take the call. What is the basis of this argument?    
     
 9. When Europeans came to India they built schools. When Indians go to Europe & the USA, they build temples.    
     
-	1. Why do you think schools and hospitals are more important than temples?    
+	Response-1. Why do you think schools and hospitals are more important than temples?    
     
-	2. What makes you think that after having a presence with temples Indians do not start schools?    
+	Response-2. What makes you think that after having a presence with temples Indians do not start schools?    
     
-	3. Why Indian goes to the west? Because they think infrastructure is much better there in terms of schools, roads, and hospitals then why build that which is in ample amount. Instead, build something through which you can connect to your own people.    
+	Response-3. Why Indian goes to the west? Because they think infrastructure is much better there in terms of schools, roads, and hospitals then why build that which is in ample amount. Instead, build something through which you can connect to your own people.    
     
-	4. Do you know how many churches and mosques are created by Westerners in the south of India and Kashmir? Without data, your argument is nonsensible.    
+	Response-4. Do you know how many churches and mosques are created by Westerners in the south of India and Kashmir? Without data, your argument is nonsensible.    
     
 10. Indians believe that if God accepts money for his favors, then nothing is wrong in doing the same thing. This is why Indians are so easily corruptible.    
     
-	1. What makes you think that “Indians believe this way”. I mentioned earlier, we don’t believe in God. We believe in Devi and Yantra. Yantra is a subjective tool for us. We talk to that, live with that like it is another family member. We know our karma will go with us. No family member can save us from our own bad karma, no matter how powerful that Devi is. We have to bear the fruit of our own karma.    
+	Response-1. What makes you think that “Indians believe this way”. I mentioned earlier, we don’t believe in God. We believe in Devi and Yantra. Yantra is a subjective tool for us. We talk to that, live with that like it is another family member. We know our karma will go with us. No family member can save us from our own bad karma, no matter how powerful that Devi is. We have to bear the fruit of our own karma.    
     
 11. Indian culture accommodates such transaction    
     
 12. First: Morally. There is no real stigma. An utterly corrupt politician can make a comeback, just unthinkable in the West.    
     
-1. In the west Judicial system is fast because of the low population and higher currency exchange rate. We don’t have that many resources, money, and infrastructure. So, a so-called corrupt will die but will not get punished in the court. But, for this why are you blaming society and culture?    
+	Response-1. In the west Judicial system is fast because of the low population and higher currency exchange rate. We don’t have that many resources, money, and infrastructure. So, a so-called corrupt will die but will not get punished in the court. But, for this why are you blaming society and culture?    
     
 **Secondly:**    
     

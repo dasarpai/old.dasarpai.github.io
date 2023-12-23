@@ -14,13 +14,16 @@ layout: single
 excerpt:  
 author_profile: true 
 share: true 
+toc: true  
+toc_sticky: true
 ---
 
 ![Types Of Gitas](/assets/images/gk/7001-Types-Of-Gitas.jpg)   
     
-# Types Of Gitas    
+# Types Of Gitas  
+ 
 ## Introduction   
-
+    
 When we see so many version of the Gita in the market the first question comes in the mind is **“What are the different types of Gita?”**    
     
 Gita or Geeta means song. In the wisdom traditions, these are the songs of knowledge, wisdom, oneness, self-realization. Most of the time there are two people conversing in these songs. One is Guru (who is imparting wisdom) and another one is Shishya (who has sought the wisdom). There are many kinds of Gita and I thought let me compile them and share them with you today. Informal relationships between Guru &amp; Shishya may be of friends, brother, father-son, husband-wife, son-mother, mother-son.    

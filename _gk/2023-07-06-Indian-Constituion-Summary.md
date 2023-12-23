@@ -18,10 +18,10 @@ toc: true
 toc_sticky: true    
 ---        
         
-![Constitution of India - Summary](/assets/images/gk/7006-Constitution-of-India-Summary.jpg)        
-
+![Constitution of India - Summary](/assets/images/gk/7006-Constitution-of-India-Summary.jpg)         
+    
 # Constitution of India : Summary
-
+   
 ## Introduction
 Constitution of India contains 395 articles in 22 parts. Additional articles and parts are inserted later through various amendments. There are also 12 schedules in the Indian Constitution.
 

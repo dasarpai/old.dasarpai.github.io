@@ -14,6 +14,8 @@ layout: single
 excerpt:     
 author_profile: true    
 share: true    
+toc: true  
+toc_sticky: true
 ---   
    
 ![Classical Literature](/assets/images/gk/7003-Classical-Literature.jpg)   

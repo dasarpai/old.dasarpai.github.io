@@ -13,13 +13,15 @@ author: Hari Thapliyaal
 layout: single        
 excerpt:        
 author_profile: true        
-share: true        
+share: true  
+toc: true  
+toc_sticky: true      
 ---        
         
-![The Indian Constitution](/assets/images/gk/7004-The-Indian-Constitution.jpg)        
-        
-# The Indian Constitution       
-    
+![The Indian Constitution](/assets/images/gk/7004-The-Indian-Constitution.jpg)       
+          
+# The Indian Constitution   
+   
 An individual has different roles in personal, social, and professional life and s/he exists at the different levels. When one is interacting with others in the family or society or profession s/he is governed by ethics, culture, tradition, etc. All these help in forming rules. Some of these rules may be coming from your religious books and some others are unwritten rules of the family or society. When a state needs to manage its citizen or citizen need to interact with the state there are certain rules that guide interdependence and trust. In earlier times these rules were coming from our religious books or holy man. But over a period of time when states become a republic state where people of different faiths are living then one religious book cannot govern the rule of society and all the citizens. One book which governs all the citizens of a state and the state itself is called Constitution.    
     
 If you are living in a republic state and you don't know your religious book you can manage your life but if you are a sensible person and you don't know the constitution of the land then you will always live in a fear. Generally, it looks the law or rule of the land should be common sense based, culture based. But there may be a gap between your understanding and the way constitution defines things. Any violation can cause you problems.    
