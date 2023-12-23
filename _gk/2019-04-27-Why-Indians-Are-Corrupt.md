@@ -1,7 +1,7 @@
 --- 
 id: 7002
 mathjax: true  
-title: Why Indians Are Corrupt
+title: Why Indians Are Corrupt - a Rebuttal
 date: "2019-04-27T08:33:00+05:30"
 permalink: /gk/why-indians-are-corrupt
 tags: [ Rebuttal]    
@@ -16,17 +16,18 @@ author_profile: true
 share: true 
 ---
 
-![Why Indians Are Corrupt](/assets/gk/7002-Why-Indians-Are-Corrupt.jpg)    
+![Why Indians Are Corrupt](/assets/images/gk/7002-Why-Indians-Are-Corrupt.jpg)    
     
-# Why Indians Are Corrupt      
-## A Rebuttal "Why Indians are corrupt?"    
+# Why Indians Are Corrupt : a Rebuttal     
     
 **Title & Text of the Original Article**    
     
 ## Why Indians are corrupt? What’s wrong with their attitude?**    
     
 **Points raised in the original articles are numbered below and their rebuttal is available under them.**    
-    
+
+**Date of Response: 27-Mar-2019**
+
 When some truth is mixed with opinion and fed by a lazy, irrational mind then the output cannot be any less confusing work as this original article can be. I was shocked when I read how the false presented as truth and then concluded as a negative image based on that. I fail to understand what purpose this article serves the author.    
     
 1. Indians are Hobbesian: ( having a Culture of self-interest)    
@@ -141,101 +142,102 @@ When some truth is mixed with opinion and fed by a lazy, irrational mind then th
     
 1. Indian moral ambiguity towards corruption is visible in its history. Indian history tells of the capture of cities and kingdoms after guards were paid off to open the gates, and commanders paid off to surrender. This is unique to India.    
     
-	1. Is it only in India? It didn’t happen anywhere else? Any data for this?    
+	Response-1. Is it only in India? It didn’t happen anywhere else? Any data for this?    
     
-	2. If someone wants to subvert the power because of X reasons then there are 4 ways, and they go in this order. 1- Convince the existing to leave so that you can come, 2- pay him or someone else to throw him away, 3- Fight with him, punish him, kill him 4- Place your spy and break the loyalty of people. What is wrong with this approach? Why do you think fighting and bloodbath should be the first option for subverting?    
+	Response-2. If someone wants to subvert the power because of X reasons then there are 4 ways, and they go in this order. 1- Convince the existing to leave so that you can come, 2- pay him or someone else to throw him away, 3- Fight with him, punish him, kill him 4- Place your spy and break the loyalty of people. What is wrong with this approach? Why do you think fighting and bloodbath should be the first option for subverting?    
     
 	3. Do you mean fighting, killing, the bloodbath is better than paying money and convincing them to leave or ditch?    
     
 2. Indians’ corrupt nature has meant limited warfare on the subcontinent.    
     
-	1. Hindus are the oldest living civilization. We are proud of it. What other civilization gained after fighting, they are finished. Out of 25 old civilizations like Egyptian, Roman, Mayan, Greek, etc, we are the only surviving civilization. Why you attribute this survival to corruption?    
+	Response-1. Hindus are the oldest living civilization. We are proud of it. What other civilization gained after fighting, they are finished. Out of 25 old civilizations like Egyptian, Roman, Mayan, Greek, etc, we are the only surviving civilization. Why you attribute this survival to corruption?    
     
 3. It is striking how little Indians have actually fought compared to ancient Greece and modern Europe.    
     
-	1. If this is true, what is wrong with this?    
+	Response-1. If this is true, what is wrong with this?    
     
-	2. Have you read Indian history and the kind of fight that happened here? The biggest civil war on this planet happened is the Kurushetra war. After that, we learned that avoid war as much as possible. You mean, it is wrong learning?    
+	Response-2. Have you read Indian history and the kind of fight that happened here? The biggest civil war on this planet happened is the Kurushetra war. After that, we learned that avoid war as much as possible. You mean, it is wrong learning?    
     
 4. The Turk’s battles with Nadir Shah were vicious and fought to the finish.    
     
-	1. What is your point? Many fights in India and outside happened like this.    
+	Response-1. What is your point? Many fights in India and outside happened like this.    
     
 5. In India fighting wasn’t needed, bribing was enough to see off armies.    
     
-	1. Your argument is based on your whole limited data points and skewed perception.    
+	Response-1. Your argument is based on your whole limited data points and skewed perception.    
     
 6. Any invader willing to spend cash could brush aside India’s kings, no matter how many tens of thousands of soldiers were in their infantry.    
     
-	1. In general, we have been a peace-loving civilization and we paid the price for that. Why do you want to name this peace gesture as a gesture of corruption? It is like saying Mahatama Gandhi was corrupt because he wanted to have a peaceful settlement with the British. Do you think, British left unconditionally? Some give and take happened and without many bloodbaths or civil war or military war with Indians they left. Was it wrong?    
+	Response-1. In general, we have been a peace-loving civilization and we paid the price for that. Why do you want to name this peace gesture as a gesture of corruption? It is like saying Mahatama Gandhi was corrupt because he wanted to have a peaceful settlement with the British. Do you think, British left unconditionally? Some give and take happened and without many bloodbaths or civil war or military war with Indians they left. Was it wrong?    
     
 7. Little resistance was given by the Indians at the “Battle” of Plassey. Clive paid off Mir Jaffar and all of Bengal folded to an army of 3,000.    
     
-	1. Yes true. Exceptions are always there. Why don’t you pick Shivaji Maharaj, Prithiviraj Chouhan, Rani Laxmi Bai etc?    
+	Response-1. Yes true. Exceptions are always there. Why don’t you pick Shivaji Maharaj, Prithiviraj Chouhan, Rani Laxmi Bai etc?    
     
 8. There was always a financial exchange for taking Indian forts. Golconda was captured in 1687 after the secret back door was left open.    
     
-	1. I mentioned earlier there 4 strategies to subvert the existing power. Money is one and least costly. You look advocate of war.    
+	Response-1. I mentioned earlier there 4 strategies to subvert the existing power. Money is one and least costly. You look advocate of war.    
     
 9. Mughals vanquished Marathas and Rajputs with nothing but bribes.    
     
-	1. Yes. The same logic explains above.    
+	Response-1. Yes. The same logic explains above.    
     
 10. The Raja of Srinagar gave up Dara Shikoh’s son Sulaiman to Aurangzeb after receiving a bribe.    
     
-	1. Yes. The same logic explains above.    
+	Response-1. Yes. The same logic explains above.    
     
 11. There are many cases where Indians participated on a large scale in treason due to bribery.    
     
-	1. If you have made your mood to stereotype some culture then you can assemble any kind of facts to establish what is in your mind. Indian people in general are honest and hardworking. Compare to other cultures they are cannot be corrupted even after a lot of poverty. In other parts of the world, people are much well off but you cannot guarantee that they cannot be bought.    
+	Response-1. If you have made your mood to stereotype some culture then you can assemble any kind of facts to establish what is in your mind. Indian people in general are honest and hardworking. Compare to other cultures they are cannot be corrupted even after a lot of poverty. In other parts of the world, people are much well off but you cannot guarantee that they cannot be bought.    
     
 12. The question is: Why Indians have a transactional culture while other ‘civilized’ nations don’t?    
     
-	1. This is a nonsense question. You have a wrong hypothesis it need not be proved or disproved.    
+	Response-1. This is a nonsense question. You have a wrong hypothesis it need not be proved or disproved.    
     
 **Thirdly:**    
     
 1. Indians do not believe in the theory that they all can rise if each of them behaves morally, because that is not the message of their faith.    
     
-	1. What makes you think so? I hope you are referring to Hindu, not Indians. The message of Hindu faith is your Karma your doing. Nobody can save you. You have to reap your own karma.    
+	Response-1. What makes you think so? I hope you are referring to Hindu, not Indians. The message of Hindu faith is your Karma your doing. Nobody can save you. You have to reap your own karma.    
     
 2. Their caste system separates them.    
     
-	1. The caste system was not for separation. When mass-based standard education system was not there that time Caste was a tool for skill & knowledge management from one generation to another. Today when medical and engineering colleges are in ample amount there is no need for this caste system. It will go slowly.    
+	Response-1. The caste system was not for separation. When mass-based standard education system was not there that time Caste was a tool for skill & knowledge management from one generation to another. Today when medical and engineering colleges are in ample amount there is no need for this caste system. It will go slowly.    
     
 3. They don’t believe that all men are equal.    
     
-	1. What makes you think so. We believe all men and even women are equal. Have you read PurushShukta from Rigveda 10.90?    
+	Response-1. What makes you think so. We believe all men and even women are equal. Have you read PurushShukta from Rigveda 10.90?    
     
 4. This resulted in their division and migration to other religions.    
     
-	1. This is not because of the original caste system. This problem happened because of the caste system created by \[H H Risley\](https://en.wikipedia.org/wiki/Herbert\_Hope\_Risley). Secondly in the last 30 years, we have come with so many engineering and medical colleges and we continued our old caste system. It is just a matter of time. It will definitely go away.    
+	Response-1. This is not because of the original caste system. This problem happened because of the caste system created by \[H H Risley\](https://en.wikipedia.org/wiki/Herbert\_Hope\_Risley). Secondly in the last 30 years, we have come with so many engineering and medical colleges and we continued our old caste system. It is just a matter of time. It will definitely go away.    
     
 5. Many Hindus started their own faith like Sikh, Jain, Buddha and many converted to Christianity and Islam.    
     
-	1. So, what. Even if you don’t’ believe in anything you can be Hindu. Charvak is also Hindu. I can believe in Jesus Christ and I can be Hindu. What is wrong? The Hindu system is like an open architecture, it is a strength of the Hindu system. Why do you see this as wrong?    
+	Response-1. So, what. Even if you don’t’ believe in anything you can be Hindu. Charvak is also Hindu. I can believe in Jesus Christ and I can be Hindu. What is wrong? The Hindu system is like an open architecture, it is a strength of the Hindu system. Why do you see this as wrong?    
     
 6. The result is that Indians don’t trust one another.    
     
-	1. What is your data point? It may be your personal emotional experience. Don’t generalize this type of personal emotional experiences in the name of Indian culture.    
+	Response-1. What is your data point? It may be your personal emotional experience. Don’t generalize this type of personal emotional experiences in the name of Indian culture.    
     
 7. There are no Indians in India, there are Hindus, Christians, Muslims, and whatnot.    
     
-	1. Most absurd argument. It is like there is no father and son in the home only a husband. A person can have multiple identities at the same time. Based on the need for role changes. Having an Indian passport or Adhar card means you are Indian. Yes, there are different faiths, and because secular state all have their own way of living and worshiping. What is the problem? We have our individual identities based on our faith, language, region, tradition but it doesn’t mean that there is no Indian here.    
+	Response-1. Most absurd argument. It is like there is no father and son in the home only a husband. A person can have multiple identities at the same time. Based on the need for role changes. Having an Indian passport or Adhar card means you are Indian. Yes, there are different faiths, and because secular state all have their own way of living and worshiping. What is the problem? We have our individual identities based on our faith, language, region, tradition but it doesn’t mean that there is no Indian here.    
     
 8. Indians forget that 1400 years ago they all belonged to one faith.    
     
-	1. Society still remembers this. That is why you see the conflicts around. Our history books are wrongly written by the government and leftist. So why to blame Indian culture for that.    
+	Response-1. Society still remembers this. That is why you see the conflicts around. Our history books are wrongly written by the government and leftist. So why to blame Indian culture for that.    
     
 9. This division evolved into an unhealthy culture. The inequality has resulted in a corrupt society, in India, everyone is thus against everyone else, except God and even he must be bribed.    
     
-	1. You looks have very much negative feeling for Indian culture and faiths of India. You overlapped our government problem, British legacy, poverty forced upon us and project as our culture. If you want to learn Indian culture then you need to think with an open mind. Interact with less educated, poor, or lower middle-class people. English educated person living in the metro represents western culture more and Indian culture less.    
+	Response-1. You looks have very much negative feeling for Indian culture and faiths of India. You overlapped our government problem, British legacy, poverty forced upon us and project as our culture. If you want to learn Indian culture then you need to think with an open mind. Interact with less educated, poor, or lower middle-class people. English educated person living in the metro represents western culture more and Indian culture less.    
     
 Finally those cultures, societies, and governments like Switzerland, New Zealand, USA, etc which put Indian culture in a bad light and think Indians are corrupt, why they allow corrupt Indians to live in their country and take deposit of their money in their country? Are you any less party in corruption? If any Indian is corrupt in your country then it is because you have a tax haven for them. Just because you are a more wealthy nation you do not have the authority and the right to tag Indian culture as a corrupt culture!    
     
-## Original Article which I received on my Whatsapp    
+# Original Article 
+**This I received on my Whatsapp**    
     
-** Start of Message **    
+**Start of Message**    
 Why Indians r corrupt? What’s wrong with their attitude?    
 A very Hard-hitting article from New Zealand. It’s a New Zealander’s view on corruption in India    
     
@@ -319,5 +321,6 @@ There are no Indians in India, there are Hindus, Christians, Muslims and what no
 Indians forget that 1400 years ago they all belonged to one faith.    
     
 This division evolved an unhealthy culture. The inequality has resulted in a corrupt society, in India every one is thus against everyone else, except God and even he must be bribed.    
-** End of Message **    
+
+**End of Message**    
     
