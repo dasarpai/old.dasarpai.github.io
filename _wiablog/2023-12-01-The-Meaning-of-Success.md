@@ -33,7 +33,7 @@ And others want to walk any length to become successful.
    
 Inspiring success in children's mind or adolescent mind is easy   
 Because they want to enjoy the life, have adventure in the life   
-Have lots of money to buy anything on this planet.   
+They want to have lots of money to buy anything on this planet.   
 Because that is the meaning of success for them.   
 But when matured people define the success this way   
 Then it is sign of immaturity,   
@@ -45,14 +45,15 @@ No matter how much wealth, fame, money, status, happiness,
 pleasure, buying power you attach to yourself, you will never feel enough.   
 You will not find a single person of past and present   
 who fit your definition of success.   
-This takes you into further ignorance,   
+
+This idea will takes you into further ignorance,   
 That I am unique, nobody in past happened like me,   
 I will live my life in unique way   
 All this is fine, till you start feeling   
 You will do that and achieve that in your life which nobody did in the past.   
    
    
-You want to work hard, or sleep on a stone in the forest. That is your choice.   
+You want to work hard, or sleep on a stone in some forest. That is your choice.   
 You want to make lots of money, or give away all your wealth. That is your choice.   
 You want to have a healthy body, or have enough money    
 to buy any kind of health treatment. That is your choice.   
@@ -127,7 +128,7 @@ And how long owners and employee experienced the success?
 1. **Jet Airways** :Indian airline, faced financial mismanagement and debt, resulting in suspension of operations.
 1. **Johnson Publishing Company** :Media company, publisher of Ebony and Jet magazines, faced declining print media sales and filed for bankruptcy.
 1. **Kingfisher Airlines** :Indian airline, faced financial issues and operational challenges, leading to shutdown.
-1. **Kingfisher Beer** :Beer brand associated with the Kingfisher Group, still operational and one of India's popular beer brands.
+1. **Deccan Airways** : Closed because of dozens of reasons and finally couldn't survive.
 1. **Kodak** :Photography company, faced challenges in transitioning from film to digital, declared bankruptcy but continues with a focus on commercial imaging.
 1. **LeEco** :Technology conglomerate in China, expanded rapidly into various sectors but faced financial troubles and scaled back operations.
 1. **Lehman Brothers** :Investment bank, collapsed during the 2008 financial crisis due to subprime mortgage exposure.
@@ -143,8 +144,6 @@ And how long owners and employee experienced the success?
 1. **Mumbai Angels** :Angel investor network in India, still operational, supporting startups and entrepreneurs.
 1. **MySpace** :Social networking platform, faced fierce competition from Facebook and declining user engagement, leading to a decline in popularity.
 1. **OI S.A.**, Brazil, Liabilities :$9.82 billion
-1. **Ola Electric** :Branch of Ola focusing on electric vehicles, still operational and expanding its electric vehicle offerings.
-1. **OYO Rooms (OYO Hotels & Homes)** :Indian hospitality company, faced scrutiny over quality issues but remains operational and expanding globally.
 1. **Pan Am** :Iconic American airline, faced financial troubles and increased competition, leading to bankruptcy and closure.
 1. **PepperTap** :Online grocery delivery platform in India, faced operational challenges and shut down its operations.
 1. **Pets.com** :Online pet supply retailer, faced challenges in its business model and shut down during the dot-com bubble burst.
@@ -191,6 +190,9 @@ And how long owners and employee experienced the success?
 1. **Zynga** :Game development company, faced declining user base and shifted focus to mobile games, continues to develop and publish games
 
 # People
+1. **Chanda Kocchar** : ICICI Bank CEO
+1. **Chung Mong-hun** : Hyundai Group CEO. Sucide from 12th floor.
+1. **VG Siddharth** : CEO of CCD. Sucide.
 1. **Raj Kundra**: He is a British-Indian businessman who was arrested in 2021 for his alleged involvement in a pornography racket ².
 1. **Sreesanth**: He is a former Indian cricketer who was banned from cricket for life by the Board of Control for Cricket in India (BCCI) for his alleged involvement in spot-fixing during the 2013 Indian Premier League (IPL) ².
 1. **Rahul Gandhi**: He is an Indian politician who has faced criticism for his leadership skills and political acumen ².
