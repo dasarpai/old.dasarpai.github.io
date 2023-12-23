@@ -66,7 +66,7 @@ on the dawn of every new year's goal setting.
 That is the path of anything but success.   
    
    
-For refreshing your memory I am giving list of a few people and organization   
+For refreshing your memory I am giving list of a few people and organizations   
 Some of these are no more, some still exist around us.   
 Read it and ask yourself what is the meaning of success in life?   
 Until we die, anything can happen to living life or living organization.   
@@ -96,7 +96,7 @@ And how long owners and employee experienced the success?
 1. **Borders Group** :Bookstore chain, faced bankruptcy due to competition from e-commerce and digital books.
 1. **CarWale** :Automotive classifieds website, acquired by CarTrade due to industry consolidation.
 1. **CELSIUS NETWORK**, United States, Liabilities :$5.5 billion
-1. **China Evergrande, China, $200 billion in unpaid bills
+1. **China Evergrande**, China, $200 billion in unpaid bills
 1. **CINEWORLD GROUP**,  United Kingdom, Liabilities :$10.38 billion
 1. **Circuit City** :Electronics retailer, faced bankruptcy due to financial issues and increased competition.
 1. **Compaq** :Computer manufacturer, acquired by HP due to competitive pressures and industry changes.
@@ -182,7 +182,6 @@ And how long owners and employee experienced the success?
 1. **Vine (the company)** :Short-form video platform, owned by Twitter, discontinued due to lack of profitability and competition.
 1. **Voonik** :Indian fashion e-commerce platform, faced funding issues but continues to operate.
 1. **Webvan** :Online grocery delivery service in the US, faced financial challenges and shut down during the dot-com bubble burst.
-1. **WeWork** :Co-working space company, faced financial issues and leadership controversies, leading to a decline in valuation.
 1. **WOW Air** :Icelandic airline, faced financial difficulties and ceased operations abruptly.
 1. **Yebhi** :Indian online shopping platform, faced operational challenges and shut down.
 1. **ZebPay** :Indian cryptocurrency exchange, faced regulatory challenges and temporarily halted operations but continues in some markets.
@@ -190,7 +189,7 @@ And how long owners and employee experienced the success?
 1. **Zynga** :Game development company, faced declining user base and shifted focus to mobile games, continues to develop and publish games
 
 # People
-These individuals have been, or were, exceptionally intelligent, hardworking, and fortunate to have reached the heights they did—a recognition that preceded their inclusion in this list. What twists in life led them to this roster? Can we consider these individuals successful now? Passing judgment on life is effortless, especially within the confines of our minds, and without public consequences. Yet, living in the moment confronts us with myriad temptations, catch us by our neck and persisting until our last breath. After perusing this list, discovering their start, their journey, their acquisitions, and eventually their fate, you'll be compelled to reassess your personal definition of success. 
+These individuals have been, or were, exceptionally intelligent or hardworking or fortunate to have reached the heights they did or born in filthy rich family or mix of these — a recognition that preceded their inclusion in this list. What twists in life led them to this roster? Can we consider these individuals successful now? Passing judgment on life is effortless, especially within the confines of our minds, and without public consequences. Yet, living in the moment confronts us with myriad temptations, catch us by our neck and persisting until our last breath. After perusing this list, discovering their start, their journey, their acquisitions, and eventually their fate, you'll be compelled to reassess your personal definition of success. 
 
 1. **Chanda Kocchar** : ICICI Bank CEO
 1. **Chung Mong-hun** : Hyundai Group CEO. Sucide from 12th floor.
