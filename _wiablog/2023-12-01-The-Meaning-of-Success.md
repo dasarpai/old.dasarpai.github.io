@@ -189,8 +189,11 @@ And how long owners and employee experienced the success?
 1. **Zynga** :Game development company, faced declining user base and shifted focus to mobile games, continues to develop and publish games
 
 # People
-These individuals have been, or were, exceptionally intelligent or hardworking or fortunate to have reached the heights they did or born in filthy rich family or mix of these — a recognition that preceded their inclusion in this list. What twists in life led them to this roster? Can we consider these individuals successful now? Passing judgment on life is effortless, especially within the confines of our minds, and without public consequences. Yet, living in the moment confronts us with myriad temptations, catch us by our neck and persisting until our last breath. After perusing this list, discovering their start, their journey, their acquisitions, and eventually their fate, you'll be compelled to reassess your personal definition of success. 
+These individuals have been, or were, exceptionally intelligent or hardworking or fortunate to have reached the heights they did or born in filthy rich family or mix of these — a recognition that preceded their inclusion in this list. What twists in life led them to this roster? Can we consider these individuals successful now? Passing judgment on life is effortless, especially within the confines of our minds, and without public consequences. Yet, living in the moment confronts us with myriad temptations, catch us by our neck and persisting until our last breath. After perusing this list, discovering their start, their journey, their acquisitions, and eventually their fate, you'll be compelled to reassess your personal definition of success. I have randomly added these names here, whatever came on top of my mind.
 
+1. **Subhash Chadra Bose** : As per theories he died in 1985, and only 15 people on his cremation. No one actually know what happened to Neta Ji.
+1. **Karl Marks** : German-born philosopher, economist, political theorist, historian, sociologist, journalist, and revolutionary socialist. Only 13 people were present at his funeral.
+1. **Srinivasa Ramanujan & Janaki Ammal** : Ramanujan died at the age of 32 due to TB and Janaki remain widow whole life, survived on her tailoring work and little penson of her husband.
 1. **Chanda Kocchar** : ICICI Bank CEO
 1. **Chung Mong-hun** : Hyundai Group CEO. Sucide from 12th floor.
 1. **VG Siddharth** : CEO of CCD. Sucide.
