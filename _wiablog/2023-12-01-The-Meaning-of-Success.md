@@ -190,17 +190,18 @@ And how long owners and employee experienced the success?
 1. **Zynga** :Game development company, faced declining user base and shifted focus to mobile games, continues to develop and publish games
 
 # People
+These individuals have been, or were, exceptionally intelligent, hardworking, and fortunate to have reached the heights they did—a recognition that preceded their inclusion in this list. What twists in life led them to this roster? Can we consider these individuals successful now? Passing judgment on life is effortless, especially within the confines of our minds, and without public consequences. Yet, living in the moment confronts us with myriad temptations, catch us by our neck and persisting until our last breath. After perusing this list, discovering their start, their journey, their acquisitions, and eventually their fate, you'll be compelled to reassess your personal definition of success. 
+
 1. **Chanda Kocchar** : ICICI Bank CEO
 1. **Chung Mong-hun** : Hyundai Group CEO. Sucide from 12th floor.
 1. **VG Siddharth** : CEO of CCD. Sucide.
-1. **Raj Kundra**: He is a British-Indian businessman who was arrested in 2021 for his alleged involvement in a pornography racket ².
-1. **Sreesanth**: He is a former Indian cricketer who was banned from cricket for life by the Board of Control for Cricket in India (BCCI) for his alleged involvement in spot-fixing during the 2013 Indian Premier League (IPL) ².
-1. **Rahul Gandhi**: He is an Indian politician who has faced criticism for his leadership skills and political acumen ².
-1. **Arvind Kejriwal**: He is an Indian politician who has been involved in several controversies related to his political career, including allegations of corruption and misuse of power ².
-1. **Kapil Sibal**: He is an Indian politician and former Union Minister who has been embroiled in several controversies related to corruption and money laundering ².
-1. **Vikram Bhatt**: He is an Indian film director who has been involved in several controversies related to plagiarism and copyright infringement ².
-1. **Anurag Kashyap**: He is an Indian film director who has been accused of sexual harassment by multiple women ².
-1. **Karan Johar**: He is an Indian film director and producer who faced backlash for promoting nepotism in the Hindi film industry ².
+1. **Raj Kundra**: He is a British-Indian businessman who was arrested in 2021 for his alleged involvement in a pornography racket.
+1. **Sreesanth**: He is a former Indian cricketer who was banned from cricket for life by the Board of Control for Cricket in India (BCCI) for his alleged involvement in spot-fixing during the 2013 Indian Premier League (IPL).
+1. **Rahul Gandhi**: He is an Indian politician who has faced criticism for his leadership skills and political acumen.
+1. **Arvind Kejriwal**: He is an Indian politician who has been involved in several controversies related to his political career, including allegations of corruption and misuse of power.
+1. **Kapil Sibal**: He is an Indian politician and former Union Minister who has been embroiled in several controversies related to corruption and money laundering.
+1. **Vikram Bhatt**: He is an Indian film director who has been involved in several controversies related to plagiarism and copyright infringement.
+1. **Anurag Kashyap**: He is an Indian film director who has been accused of sexual harassment by multiple women.
 1. **Vijay Mallya**: He is a former Indian businessman and politician who was declared a fugitive economic offender by the Indian government in 2019 ⁴.
 1. **Nirav Modi**: He is a former Indian diamond merchant who was accused of defrauding the Punjab National Bank of over $2 billion ⁴.
 1. **Subrata Roy**: He was an Indian businessman and the founder of Sahara India Pariwar, which has been involved in several controversies and legal battles ⁴.
@@ -219,6 +220,6 @@ And how long owners and employee experienced the success?
 1. **Suresh Nanda**: He is an Indian businessman who was involved in several controversies related to arms dealing and corruption ⁴.
 1. **Madhu Koda**: He is an Indian politician who was accused of involvement in a major mining scam that caused losses worth billions of dollars to the Indian exchequer ⁴.
 
-# Resources
+# More Resources
 - https://intellizence.com/insights/bankruptcy/leading-companies-filing-for-bankruptcy/
 - https://gfmag.com/data/worlds-biggest-bankruptcies/
