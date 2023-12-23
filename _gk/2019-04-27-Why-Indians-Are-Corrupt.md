@@ -24,14 +24,15 @@ toc_sticky: true
     
 **Title & Text of the Original Article**    
     
-## Why Indians are corrupt? What’s wrong with their attitude?**    
+## Why Indians are corrupt? What’s wrong with their attitude?    
     
 **Points raised in the original articles are numbered below and their rebuttal is available under them.**    
 
 **Date of Response: 27-Mar-2019**
 
 When some truth is mixed with opinion and fed by a lazy, irrational mind then the output cannot be any less confusing work as this original article can be. I was shocked when I read how the false presented as truth and then concluded as a negative image based on that. I fail to understand what purpose this article serves the author.    
-    
+
+## Introducton    
 1. Indians are Hobbesian: ( having a Culture of self-interest)    
     
 	1. It is the height of generalization. Do you have any survey results on this? Who was surveyed? who participated? Can you please share the data?    
@@ -62,7 +63,7 @@ When some truth is mixed with opinion and fed by a lazy, irrational mind then th
     
 	4. To know why Indians are corrupt, look at their patterns and practices.    
     
-**Firstly:**    
+## Firstly   
     
 1. **Religion is transactional in India.**    
     
@@ -140,7 +141,7 @@ When some truth is mixed with opinion and fed by a lazy, irrational mind then th
     
 	Response-1. In the west Judicial system is fast because of the low population and higher currency exchange rate. We don’t have that many resources, money, and infrastructure. So, a so-called corrupt will die but will not get punished in the court. But, for this why are you blaming society and culture?    
     
-**Secondly:**    
+## Secondly 
     
 1. Indian moral ambiguity towards corruption is visible in its history. Indian history tells of the capture of cities and kingdoms after guards were paid off to open the gates, and commanders paid off to surrender. This is unique to India.    
     
@@ -196,7 +197,7 @@ When some truth is mixed with opinion and fed by a lazy, irrational mind then th
     
 	Response-1. This is a nonsense question. You have a wrong hypothesis it need not be proved or disproved.    
     
-**Thirdly:**    
+## Thirdly    
     
 1. Indians do not believe in the theory that they all can rise if each of them behaves morally, because that is not the message of their faith.    
     
