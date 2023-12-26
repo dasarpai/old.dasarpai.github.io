@@ -158,14 +158,15 @@ toc_sticky: true
 	- Which planets are considered enemy?
 	- Enemy planet as sitting together or in oppositve direction
 	- Friendly planets are istting together or in opposite direction.
-- Navgrah or 9 Vedic planets and what they represents
-	1. Sun (Surya): Represents vitality, soul, father, authority, government, and confidence.
-	2. Moon (Chandra): Signifies emotions, mind, mother, nurturing instincts, and intuition.
-	3. Mars (Mangal): Governs energy, courage, action, passion, aggression, and siblings.
-	4. Mercury (Budha): Rules intellect, communication, speech, learning, and business acumen.
-	5. Jupiter (Guru/Brihaspati): Signifies wisdom, knowledge, expansion, luck, spirituality, and guidance.
-	6. Venus (Shukra): Represents love, relationships, beauty, creativity, art, luxury, and pleasure.
-	7. Saturn (Shani): Governs discipline, responsibility, hard work, karma, limitations, and longevity.
-	8. Rahu: Signifies desires, obsessions, worldly materialism, ambitions, and unconventional approaches.
-	9. Ketu: Represents spirituality, detachment, liberation, introspection, and karmic lessons.
+
+### Navgrah or 9 Vedic planets and what they represents
+1. Sun (Surya): Represents vitality, soul, father, authority, government, and confidence.
+2. Moon (Chandra): Signifies emotions, mind, mother, nurturing instincts, and intuition.
+3. Mars (Mangal): Governs energy, courage, action, passion, aggression, and siblings.
+4. Mercury (Budha): Rules intellect, communication, speech, learning, and business acumen.
+5. Jupiter (Guru/Brihaspati): Signifies wisdom, knowledge, expansion, luck, spirituality, and guidance.
+6. Venus (Shukra): Represents love, relationships, beauty, creativity, art, luxury, and pleasure.
+7. Saturn (Shani): Governs discipline, responsibility, hard work, karma, limitations, and longevity.
+8. Rahu: Signifies desires, obsessions, worldly materialism, ambitions, and unconventional approaches.
+9. Ketu: Represents spirituality, detachment, liberation, introspection, and karmic lessons.
 -
