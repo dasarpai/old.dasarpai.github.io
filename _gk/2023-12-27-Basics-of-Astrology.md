@@ -25,61 +25,61 @@ toc_sticky: true
 - Lagna horoscope mean the horoscope created based on the planet and stars position in the sky at the time of birth.
 
 ## Sky observation
-	- At any point of the day or night, if we are on the plane ground without obstacle of mountain or building we can 180 degree space. It means whatever planets or stars in the sky we can see, we see half of that what exists not more than that 
-	- Even to see that you need to have cloud free sky, and no sun above in your seen sky, otherwise sun light or cloud will hinder the view.
-	- With our naked eyes we can very limited sky, we need telescope to see the deep space, more powerful and more clean sky better view you will have. That is why telescope which is placed outside of the earth environment can see take better picture of the deep space.
+- At any point of the day or night, if we are on the plane ground without obstacle of mountain or building we can 180 degree space. It means whatever planets or stars in the sky we can see, we see half of that what exists not more than that 
+- Even to see that you need to have cloud free sky, and no sun above in your seen sky, otherwise sun light or cloud will hinder the view.
+- With our naked eyes we can very limited sky, we need telescope to see the deep space, more powerful and more clean sky better view you will have. That is why telescope which is placed outside of the earth environment can see take better picture of the deep space.
 
 ## Sun based astrology
-	- Entire space is virtually divided in 12 parts. 
-	- Entire space around the earth is 360 degree. Therefore each part is 30 degree.
-	- Earth completes rotation around the sun (i.e. 360), we call that a year. Because the space around is divided into 12 part, we have 12 months. 
-	- In each month earth moves 30 degree around the sun.
-	- Corresponding to each virtual part there is one Zodiac sign or Rashi.
-	- Zodiac sign is related to sun's (appeared) movement  in the sky in different Rishi or Zodiac Signs.
-	- Earth moves around it orbit this is called earth's axis rotation, it causes day and night.
-	- Earth moves around the sun it causes change in month. This leads to sun is seen in different rashi in different month 
-	- Earth moves around the sun in tilted way, it is cause of seasons.
-	- 12 Zodiac sing in the order are as following: 
-		1. Aries (मेष - Mesh)
-		2. Taurus (वृष - Vrish)
-		3. Gemini (मिथुन - Mithun)
-		4 Cancer (कर्क - Kark)
-		5. Leo (सिंह - Simha)
-		6. Virgo (कन्या - Kanya)
-		7. Libra (तुला - Tula)
-		8. Scorpio (वृश्चिक - Vrishchik)
-		9. Sagittarius (धनु - Dhanu)
-		10. Capricorn (मकर - Makar)
-		11. Aquarius (कुंभ - Kumbh)
-		12. Pisces (मीन - Meen)
-	- So earth is on each Zodiac sign for one month. We observe this as entry of sun in that zodiac sign, at the peak and exit of the sun from that Zodiac sign. 
-	- When we see the effect of zodiac sign on earthly life we consider these three parts.
+- Entire space is virtually divided in 12 parts. 
+- Entire space around the earth is 360 degree. Therefore each part is 30 degree.
+- Earth completes rotation around the sun (i.e. 360), we call that a year. Because the space around is divided into 12 part, we have 12 months. 
+- In each month earth moves 30 degree around the sun.
+- Corresponding to each virtual part there is one Zodiac sign or Rashi.
+- Zodiac sign is related to sun's (appeared) movement  in the sky in different Rishi or Zodiac Signs.
+- Earth moves around it orbit this is called earth's axis rotation, it causes day and night.
+- Earth moves around the sun it causes change in month. This leads to sun is seen in different rashi in different month 
+- Earth moves around the sun in tilted way, it is cause of seasons.
+- 12 Zodiac sing in the order are as following: 
+	1. Aries (मेष - Mesh)
+	2. Taurus (वृष - Vrish)
+	3. Gemini (मिथुन - Mithun)
+	4 Cancer (कर्क - Kark)
+	5. Leo (सिंह - Simha)
+	6. Virgo (कन्या - Kanya)
+	7. Libra (तुला - Tula)
+	8. Scorpio (वृश्चिक - Vrishchik)
+	9. Sagittarius (धनु - Dhanu)
+	10. Capricorn (मकर - Makar)
+	11. Aquarius (कुंभ - Kumbh)
+	12. Pisces (मीन - Meen)
+- So earth is on each Zodiac sign for one month. We observe this as entry of sun in that zodiac sign, at the peak and exit of the sun from that Zodiac sign. 
+- When we see the effect of zodiac sign on earthly life we consider these three parts.
 
 ## Moon based astrology
-	- Keeping the moon's movement in mind space around earth can be divided into 27 parts.
-	- Entire space around the earth is 360, therefore each part is 13 degree 20 minutes 
-	- Each part is called one Nakshatra, it is similar to zodic sign of sun based astrology.
-	- Each nakshatra has a unique name. Name goes in this order as following: Ashwini, Bharani, Krittika, Rohini, Mrigashira, Ardra, Punarvasu, Pushya, Ashlesha, Magha, Purva Phalguni, Uttara Phalguni, Hasta, Chitra, Swati, Vishakha, Anuradha, Jyeshtha, Mula, Purva Ashadha, Uttara Ashadha, Shravana, Dhanishta, Shatabhisha, Purva Bhadrapada, Uttara Bhadrapada, Revati
-	- Moon remains in each nakshtra roughly one day. So in a month's time from one new moon to another new moon, the moon goes through all the nakshtra.
-	- On average it taks 29.5 days for sun to complete the rotation around the sun.
-	- Moon's movement around the earth cause Tithi. All tithi are not same duration. All tithi doesn't start or end same time.
-	- A moon month can be 27 days to 32 days longer.
-	- As per lunar calendar some year can have 13 months, in Bharat we call that Malmaas, it is added in Sravan month, It happens every fourth year.
-	- 12 Months of the Hindu calendar are 
-		- Chaitra: March - April
-		- Vaishakha: April - May
-		- Jyeshtha: May - June
-		- Ashadha: June - July
-		- Shravana: July - August
-		- Bhadrapada: August - September
-		- Ashwin: September - October
-		- Kartika: October - November
-		- Margashirsha: November - December
-		- Pausha: December - January
-		- Magha: January - February
-		- Phalguna: February - March
-	- Above 12 months and 27 nakshatra has some similarity in name but there is no relationship.
-	- Moon's rotation around the earth is such, the time moon take to rotate around the earth is exactly same time it take to rotate around its own axis. So we can never see other part of the moon from the earth. That part is called far side, but don't think it is dark, sun rays falls on that part of the moon similar to the part which we can see. Because of this reason, day on the moon is equal to 15 days of earth and night is equal to another 15 days of the earth. It means in a month time of earth, from the moons surface you can see only one day and one night.
+- Keeping the moon's movement in mind space around earth can be divided into 27 parts.
+- Entire space around the earth is 360, therefore each part is 13 degree 20 minutes 
+- Each part is called one Nakshatra, it is similar to zodic sign of sun based astrology.
+- Each nakshatra has a unique name. Name goes in this order as following: Ashwini, Bharani, Krittika, Rohini, Mrigashira, Ardra, Punarvasu, Pushya, Ashlesha, Magha, Purva Phalguni, Uttara Phalguni, Hasta, Chitra, Swati, Vishakha, Anuradha, Jyeshtha, Mula, Purva Ashadha, Uttara Ashadha, Shravana, Dhanishta, Shatabhisha, Purva Bhadrapada, Uttara Bhadrapada, Revati
+- Moon remains in each nakshtra roughly one day. So in a month's time from one new moon to another new moon, the moon goes through all the nakshtra.
+- On average it taks 29.5 days for sun to complete the rotation around the sun.
+- Moon's movement around the earth cause Tithi. All tithi are not same duration. All tithi doesn't start or end same time.
+- A moon month can be 27 days to 32 days longer.
+- As per lunar calendar some year can have 13 months, in Bharat we call that Malmaas, it is added in Sravan month, It happens every fourth year.
+- 12 Months of the Hindu calendar are 
+	- Chaitra: March - April
+	- Vaishakha: April - May
+	- Jyeshtha: May - June
+	- Ashadha: June - July
+	- Shravana: July - August
+	- Bhadrapada: August - September
+	- Ashwin: September - October
+	- Kartika: October - November
+	- Margashirsha: November - December
+	- Pausha: December - January
+	- Magha: January - February
+	- Phalguna: February - March
+- Above 12 months and 27 nakshatra has some similarity in name but there is no relationship.
+- Moon's rotation around the earth is such, the time moon take to rotate around the earth is exactly same time it take to rotate around its own axis. So we can never see other part of the moon from the earth. That part is called far side, but don't think it is dark, sun rays falls on that part of the moon similar to the part which we can see. Because of this reason, day on the moon is equal to 15 days of earth and night is equal to another 15 days of the earth. It means in a month time of earth, from the moons surface you can see only one day and one night.
 - In world Hindu (Panchang), Muslim (Hijri), Jews and Chinese follow the moon calendar.
 - When Hindus make their birth horoscope they consider Sun and Moon both therefore Zodic sign and Nakshatra is important. It is different thing that nowadays we only remember Zodiac sign and they not aware about Nakshatra.
 
@@ -169,4 +169,3 @@ toc_sticky: true
 7. Saturn (Shani): Governs discipline, responsibility, hard work, karma, limitations, and longevity.
 8. Rahu: Signifies desires, obsessions, worldly materialism, ambitions, and unconventional approaches.
 9. Ketu: Represents spirituality, detachment, liberation, introspection, and karmic lessons.
--
