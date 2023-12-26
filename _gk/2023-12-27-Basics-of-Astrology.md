@@ -3,12 +3,12 @@ id: 7008
 mathjax: true        
 title: Basics of Astrology    
 date: "2023-12-27T08:33:00+05:30"        
-permalink: /gk/Basics-of-Astrolog        
+permalink: /gk/Basics-of-Astrology        
 tags: [Education, Astrology, Astronomy]        
         
 categories:        
 header:        
-    teaser: /assets/images/gk/7008-Basics-of-Astrolog.jpg        
+    teaser: /assets/images/gk/7008-Basics-of-Astrology.jpg        
 author: Hari Thapliyaal        
 layout: single        
 excerpt:        
@@ -18,7 +18,7 @@ toc: true
 toc_sticky: true    
 ---        
 
-![What is Solstice and Equinox?](/assets/images/gk/7008-Basics-of-Astrolog.jpg)   
+![Basics of Astrology](/assets/images/gk/7008-Basics-of-Astrology.jpg)   
     
 # Basics of Jyotish    
 
