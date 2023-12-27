@@ -18,16 +18,16 @@ toc: true
 toc_sticky: true    
 ---        
 
-![Basics of Astrology](/assets/images/gk/7008-Basics-of-Astrology.jpg)   
+![Basics of Astrology](/assets/images/gk/7008-Basics-of-Astrology.jpg)     
     
 # Basics of Jyotish    
-
+   
 ## Astrology is Pure Data Science
-Let's say we want to study how safe you drive on road, we want to predict whether you will have any accident in next 30 days or not. Now, ask yourself on what factors it depends? I will list some variables below. You think about each of these variables and you will realise all these factor has relations with your safe driving and accidents. Relationship may be weak or strong, it may be positive or negative that is different matter but some relationship is there. Stronger the relation, more important that variable in predicting the outcome.
+Let's say we want to study how safe you drive on the roads, we want to predict whether you will have any accident in the next 30 days or not. Now, ask yourself what factors it depends upon? I will list some variables below. You think about each of these variables and you will realize all these factors have relations with your safe driving and accidents. Relationships may be weak or strong, it may be positive or negative that is a different matter but some relationship is there. Stronger the relation, more important that variable in predicting the outcome.
 - Your profession
 - Your food habits
 - At the time of driving, for long you are hungry
-- How long you been driving continuosly
+- How long you been driving continuously
 - Your age
 - How many children you have
 - Profession of your spouse
@@ -37,58 +37,63 @@ Let's say we want to study how safe you drive on road, we want to predict whethe
 - Are you having ABC disease? (this can be long list)
 - Do you do meditation
 - Do you meditate regularly
-Now you see, we can add 1000 more variables and some variables less and some more influence our driving habit and useful in predicting the accident.
+Now you see, we can add 1000 more variables and some variables less and some more influence our driving habit and are useful in predicting the accident.
 
-Using this data if we create a model and start predicting accient or ticket/challan, obviously some of the prediction will be false negative, some will be false positive. But if model is have good variables in it then it predicts much better than the random guess.
 
-In older time, when people were interest in predicting the life they were using time related variable, which are more reliable and what is more reliable in the cosmos than the movement of planets and stars in the sky? Now people started tracking the movement of these stars in the sky and events on the earth. Fire, earth quake, pendemic, war, rain, crop, fight, loss, gain of individuals, family and of king. And they developed a subject around this, that subject is astrology.
+Using this data, if we create a model and start predicting an accident or ticket/challan, obviously some of the predictions will be false negative, some will be false positive. But if model is have good variables in it then it predicts much better than the random guess.
 
-We must understand relationship doesn't mean causation. For example, if there is heat then an icecream seller is very happy. There is relationship between heat and icecream seller's happiness, more the temperature more happy he is but this relationship doesn't mean icecream seller is happy because hot whether. He is happy because of some other reason. His icecream sale is high! Cause of his happiness is his sale not temprature.
 
-Similarly when astrologers see some patterns of planets and stars in the sky and they know there patterns are repetitive, cycle of occurance can vary from hour to day to month to year or century but here is cyclicity. Now they observe on the planet also there is cyclicity of the events, we call popularly call, history repeats itself in different ways. This relationship between events on the earth and events in the sky has relationship. Whether there is causation or not, that is different subject for the study. But if the model is good you cannot deny the relationship.
+In older times, when people were interested in predicting life they were using time related variables, which are more reliable and what is more reliable in the cosmos than the movement of planets and stars in the sky? Now people started tracking the movement of these stars in the sky and events on the earth. Fire, earthquake, pandemic, war, rain, crop, fight, loss, gain of individuals, family and of king. And they developed a subject around this, that subject is astrology.
+
+
+We must understand relationship doesn't mean causation. For example, if there is heat then an ice cream seller is very happy. There is a relationship between heat and ice cream seller's happiness, more the temperature makes him happy but this relationship doesn't mean icecream seller is happy because of the hot weather. He is happy because of some other reason. His ice cream sales are high! Cause of his happiness is his sales, not temperature.
+
+
+Similarly when astrologers see some patterns of planets and stars in the sky and they know their patterns are repetitive, the cycle of occurance can vary from hour to day to month to year or century but here is cyclicity. Now they observe the planets, there is cyclicity of the events, we popularly call, history repeats itself in different ways. This relationship between events on the earth and events in the sky has a relationship. Whether there is causation or not, that is a different subject for the study. But if the model is good you cannot deny the relationship.
+
 
 ## Sky observation
-- At any point of the day or night, if we are on the plane ground without obstacle of mountain or building we can 180 degree space. It means whatever planets or stars in the sky we can see, we see half of that what exists not more than that 
-- Even to see that you need to have cloud free sky, and no sun above in your seen sky, otherwise sun light or cloud will hinder the view.
-- With our naked eyes we can very limited sky, we need telescope to see the deep space, more powerful and more clean sky better view you will have. That is why telescope which is placed outside of the earth environment can see take better picture of the deep space.
+- At any point of the day or night, if we are on the ground without obstacles of a mountain or building then we can see 180 degree space around us. It means whatever planets or stars in the sky we can see, we see half of that what exists not more than that
+- Even to see that you need to have a cloud free sky, and no sun above in your seen sky, otherwise sunlight or cloud will hinder the view.
+- With our naked eyes we can see very limited sky, we need a telescope to see the deep space, more powerful and more clean sky better view you will have. That is why a telescope which is placed outside of the earth's environment can see and take better pictures of deep space.
 
 ## Sun based astrology
-- Entire space is virtually divided in 12 parts. 
-- Entire space around the earth is 360 degree. Therefore each part is 30 degree.
-- Earth completes rotation around the sun (i.e. 360), we call that a year. Because the space around is divided into 12 part, we have 12 months. 
-- In each month earth moves 30 degree around the sun.
-- Corresponding to each virtual part there is one Zodiac sign or Rashi.
-- Zodiac sign is related to sun's (appeared) movement  in the sky in different Rishi or Zodiac Signs.
-- Earth moves around it orbit this is called earth's axis rotation, it causes day and night.
-- Earth moves around the sun it causes change in month. This leads to sun is seen in different rashi in different month 
-- Earth moves around the sun in tilted way, it is cause of seasons.
-- 12 Zodiac sing in the order are as following: 
-	1. Aries (मेष - Mesh)
-	2. Taurus (वृष - Vrish)
-	3. Gemini (मिथुन - Mithun)
-	4 Cancer (कर्क - Kark)
-	5. Leo (सिंह - Simha)
-	6. Virgo (कन्या - Kanya)
-	7. Libra (तुला - Tula)
-	8. Scorpio (वृश्चिक - Vrishchik)
-	9. Sagittarius (धनु - Dhanu)
-	10. Capricorn (मकर - Makar)
-	11. Aquarius (कुंभ - Kumbh)
-	12. Pisces (मीन - Meen)
-- So earth is on each Zodiac sign for one month. We observe this as entry of sun in that zodiac sign, at the peak and exit of the sun from that Zodiac sign. 
-- When we see the effect of zodiac sign on earthly life we consider these three parts.
-
+- The entire space is virtually divided into 12 parts.
+- The entirety of space around the Earth spans 360 degrees, resulting in each part measuring 30 degrees.
+- Earth completes its rotation around the sun, marking a year with 360 degrees, which aligns with the division into 12 months.
+- During each month, Earth moves 30 degrees along its orbit around the sun.
+- Each virtual part corresponds to a Zodiac sign or Rashi.
+- The Zodiac sign is related to the sun's apparent movement in the sky within different Rishis or Zodiac Signs.
+- Earth's axial rotation causes day and night.
+- Earth's orbital rotation around the sun results in monthly changes, leading to the sun's appearance in different Rashis during different months.
+- The Earth's tilted movement around the sun causes the changing seasons.
+- The 12 Zodiac signs follow this order:
+  1. Aries (मेष - Mesh)
+  2. Taurus (वृष - Vrish)
+  3. Gemini (मिथुन - Mithun)
+  4. Cancer (कर्क - Kark)
+  5. Leo (सिंह - Simha)
+  6. Virgo (कन्या - Kanya)
+  7. Libra (तुला - Tula)
+  8. Scorpio (वृश्चिक - Vrishchik)
+  9. Sagittarius (धनु - Dhanu)
+  10. Capricorn (मकर - Makar)
+  11. Aquarius (कुंभ - Kumbh)
+  12. Pisces (मीन - Meen)
+- Earth spends approximately one month in each Zodiac sign, observed as the sun's entry, peak, and exit from that sign.
+- When considering the impact of Zodiac signs on earthly life, these three aspects are taken into account.
+  
 ## Moon based astrology
-- Keeping the moon's movement in mind space around earth can be divided into 27 parts.
-- Entire space around the earth is 360, therefore each part is 13 degree 20 minutes 
-- Each part is called one Nakshatra, it is similar to zodic sign of sun based astrology.
-- Each nakshatra has a unique name. Name goes in this order as following: Ashwini, Bharani, Krittika, Rohini, Mrigashira, Ardra, Punarvasu, Pushya, Ashlesha, Magha, Purva Phalguni, Uttara Phalguni, Hasta, Chitra, Swati, Vishakha, Anuradha, Jyeshtha, Mula, Purva Ashadha, Uttara Ashadha, Shravana, Dhanishta, Shatabhisha, Purva Bhadrapada, Uttara Bhadrapada, Revati
-- Moon remains in each nakshtra roughly one day. So in a month's time from one new moon to another new moon, the moon goes through all the nakshtra.
-- On average it taks 29.5 days for sun to complete the rotation around the sun.
-- Moon's movement around the earth cause Tithi. All tithi are not same duration. All tithi doesn't start or end same time.
-- A moon month can be 27 days to 32 days longer.
-- As per lunar calendar some year can have 13 months, in Bharat we call that Malmaas, it is added in Sravan month, It happens every fourth year.
-- 12 Months of the Hindu calendar are 
+- Considering the moon's movement, the space around Earth can be divided into 27 segments.
+- The entire space around Earth comprises 360 degrees, making each segment 13 degrees 20 minutes.
+- Each segment is referred to as a Nakshatra, similar to the zodiac signs in sun-based astrology.
+- Nakshatras are designated by unique names, following this sequence: Ashwini, Bharani, Krittika, Rohini, Mrigashira, Ardra, Punarvasu, Pushya, Ashlesha, Magha, Purva Phalguni, Uttara Phalguni, Hasta, Chitra, Swati, Vishakha, Anuradha, Jyeshtha, Mula, Purva Ashadha, Uttara Ashadha, Shravana, Dhanishta, Shatabhisha, Purva Bhadrapada, Uttara Bhadrapada, Revati.
+- The moon typically spends around one day in each Nakshatra. Within a month, from one new moon to the next, the moon traverses all the Nakshatras.
+- On average, it takes 29.5 days for the sun to complete its rotation around the earth.
+- The moon's movement around the earth determines Tithi, but all Tithis do not have the same duration, nor do they start or end at the same time.
+- A lunar month can range from 27 to 32 days.
+- According to the lunar calendar, some years may consist of 13 months, known as Malmaas in Bharat, added within the Sravan month and occurring every fourth year.
+- The 12 months of the Hindu calendar are as follows:
 	- Chaitra: March - April
 	- Vaishakha: April - May
 	- Jyeshtha: May - June
@@ -101,22 +106,23 @@ Similarly when astrologers see some patterns of planets and stars in the sky and
 	- Pausha: December - January
 	- Magha: January - February
 	- Phalguna: February - March
-- Above 12 months and 27 nakshatra has some similarity in name but there is no relationship.
-- Moon's rotation around the earth is such, the time moon take to rotate around the earth is exactly same time it take to rotate around its own axis. So we can never see other part of the moon from the earth. That part is called far side, but don't think it is dark, sun rays falls on that part of the moon similar to the part which we can see. Because of this reason, day on the moon is equal to 15 days of earth and night is equal to another 15 days of the earth. It means in a month time of earth, from the moons surface you can see only one day and one night.
-- In world Hindu (Panchang), Muslim (Hijri), Jews and Chinese follow the moon calendar.
-- When Hindus make their birth horoscope they consider Sun and Moon both therefore Zodic sign and Nakshatra is important. It is different thing that nowadays we only remember Zodiac sign and they not aware about Nakshatra.
+- Despite some similarities in the names of the 12 months and 27 Nakshatras, there is no direct relationship between them.
+- The moon's rotation around the earth is synchronous with its rotation on its own axis, causing us to consistently observe the same face of the moon. The unobservable part is termed the far side, yet it receives sunlight similar to the visible side. Consequently, a day on the moon equals 15 earth days, and 15 nights of the earth. Within one month of the Earth, from the moon's surface you can see only one day and one night.
+- Hindu (Panchang), Muslim (Hijri), Jewish, and Chinese calendars are based on the lunar calendar.
+- When Hindus create their birth horoscope, they consider both the Sun and Moon, making both the Zodiac sign and Nakshatra significant. It is different thing that nowadays we only remember Zodiac sign and not aware about Nakshatra.
 
 ## Astronomy
-- Sun is at the center of our solar system, radius of sun is approx 700 K KM.
-	1. Mercury is 58 million KM away from sun, it has approx 2.5 K KM radius, and 0 natural satellite.
-	2. Venus is 108 million KM away from sun, it has 6 K KM radius, and 0 natural satellite.
-	3. Earth is 150 million KM away from sun, it has 6.4 K KM radius, and 1  natural satellite.
-	4. Mar is 228 million KM away from sun, it has 3.4 K KM radius, and 2  natural satellite.
-	5. Jupiter is 778 million KM away from sun, it has 70 K KM raius, and 79  natural satellite.
-	6. Saturn is 1400 millions KM away from sun, it has 58.2 K KM radius, and 83 natural satellite.
-	7. Uranus is 2900 millions KM away from sun, it has 25.3 K KM radius, and 27 natural satellite.
-	8. Neptune is 4500 millions KM away from sun, it has 24.6 K KM radius, and 14  natural satellite.
-	9. Pluto is 4500- 7400 millions KM away from sun, it has 1.1 K Km radius, and 5  natural satellite.
+- The Sun resides at the center of our solar system, with an approximate radius of 700,000 kilometers.
+	1. Mercury is positioned 58 million kilometers away from the Sun, boasting a radius of approximately 2,500 kilometers and no natural satellite.
+	2. Venus lies 108 million kilometers away from the Sun, having a radius of 6,000 kilometers and no natural satellite.
+	3. Earth is between 147 and 152 million KM away from sun, it has 6.4 K KM radius, and 1  natural satellite.
+	4. Mars is situated 228 million kilometers away from the Sun, with a radius of 3,400 kilometers and two natural satellites.
+	5. Jupiter orbits at a distance of 778 million kilometers from the Sun, exhibiting a massive radius of 70,000 kilometers and possessing 79 natural satellites.
+	6. Saturn is positioned 1,400 million kilometers away from the Sun, with a radius of 58,200 kilometers and 83 natural satellites.
+	7. Uranus orbits at a distance of 2,900 million kilometers from the Sun, having a radius of 25,300 kilometers and 27 natural satellites.
+	8. Neptune is located 4,500 million kilometers away from the Sun, boasting a radius of 24,600 kilometers and possessing 14 natural satellites.
+	9. Pluto's distance from the Sun ranges between 4,500 to 7,400 million kilometers, with a radius of 1,100 kilometers and five natural satellites.
+- **Distance above are approx. rounded off in thousands**
 
 ## Astrology 
 - In astrology we have 9 planets, which are different from above.
@@ -146,6 +152,7 @@ Similarly when astrologers see some patterns of planets and stars in the sky and
 	
 ## How to look Horoscope 
 - Lagna horoscope mean the horoscope created based on the planet and stars position in the sky at the time of birth.
+- Horscope can be prepared for anything which is created. People, building, city, nation, political party, animals anything can have horoscope.
 - To create a horoscope on a paper, we create 12 boxes as below
 
 ![12-Houes-of-Horoscope](/assets/images/gk/12-Houes-of-Horoscope.jpg)
