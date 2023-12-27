@@ -2,7 +2,7 @@
 id: 727    
 title: Online Training - Data Science, AI, ML
 date: '2020-10-21T14:51:37+05:30'
-layout: slider-online-sessions
+layout: slider-pm-workshops
 permalink: /slider-online-training
 author_profile: false
 sidebar:
@@ -12,9 +12,7 @@ header:
   overlay_filter: .4 # same as adding an opacity of 0.5 to a black background
 show_date: false
 read_time: false
-excerpt: "Few snapshots from the Online courses on Data Science, Machine Learning, Deep Learning, NLP, Project Management, Agile Management. 2000+ learners, 400+ sessions, 1600+ Hours. Learners across the Glove."
-
-keywords: "Online Sessions, Data Science Sessions, Machine Learning, upGrad Sessions, Data Science Coaching"
+excerpt: #
 
 carousels:
   - images: 
@@ -287,7 +285,5 @@ carousels:
     - image: /assets/images/online_sessions/2022-09-18 11_34_27-OpenBoard.png
     - image: /assets/images/online_sessions/2022-09-18 14_09_59-OpenBoard.png
     - image: /assets/images/online_sessions/2022-09-18 14_10_05-OpenBoard.png
-  ---    
-
-
+  ---  
 
