@@ -2,7 +2,7 @@
 id: 729    
 title: Project Management Workshops - Select Worshops
 date: '2020-10-21T14:51:37+05:30'
-layout: slider-pm-workshops
+layout: slider-pm-workshops-layout
 permalink: /slider-pm-workshops
 author_profile: false
 sidebar:
