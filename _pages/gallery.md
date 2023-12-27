@@ -9,10 +9,20 @@ read_time: false
 
 ---
 
-## [Online AI, DS, ML Training](/slider-online-training)
+# Gallery from Various Classroom and Online Workshops
+
+## Online AI, DS, ML Training
+- [Online AI, DS, ML Training Gallery 1](/slider-online-training1)
+- [Online AI, DS, ML Training Gallery 2](/slider-online-training2)
+- [Online AI, DS, ML Training Gallery 3](/slider-online-training3)
+- [Online AI, DS, ML Training Gallery 4](/slider-online-training4)
+  
 Photographs from online training, coaching and mentoring sessions on Data Science, AI, Machine Learning, Deep Learning, NLP, Project Management.
 
-## [Project Management Training Select Photos](/slider-pm-workshops)
+## [Project Management Training Select Photos](/slider-pm-selected-photos)
+Photogrphas from physical classroom sessions with [various corporates](/clients)
+
+## [Project Management Training Photos](/slider-pm-workshops)
 Photogrphas from physical classroom sessions with [various corporates](/clients)
 
 ## [Online Conference](/slider-online-conferences)
