@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
+
 <div class="gallery">
   {% for image in site.data.gallery.images %}
-    <a href="/assets/images/gallery/{{ image.file }}" data-lightbox="gallery">
+    <a href="/assets/images/gallery/{{ image.file }}" data-lightbox="gallery" data-title="{{ image.title }}">
       <img src="/assets/images/gallery/{{ image.file }}" alt="{{ image.title }}" />
     </a>
   {% endfor %}
