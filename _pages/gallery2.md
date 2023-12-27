@@ -1,5 +1,5 @@
 ---
-id: 707    
+id: 742    
 layout: gallery
 permalink: /gallery2
 title: "My Gallery Links2"
