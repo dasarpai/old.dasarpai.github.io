@@ -13,7 +13,9 @@ header:
 show_date: false
 read_time: false
 excerpt: "Few snapshots from the Online courses on Data Science, Machine Learning, Deep Learning, NLP, Project Management, Agile Management. 2000+ learners, 400+ sessions, 1600+ Hours. Learners across the Glove."
-keywords: Online Sessions, Data Science Sessions, Machine Learning, upGrad Sessions, Data Science Coaching, 
+
+keywords: "Online Sessions, Data Science Sessions, Machine Learning, upGrad Sessions, Data Science Coaching"
+
 carousels:
   - images: 
     - image: /assets/images/online_sessions/2022-09-18 16_36_20-LiveSession - upGrad.png
