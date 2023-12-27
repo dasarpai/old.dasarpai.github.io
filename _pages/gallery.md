@@ -12,10 +12,10 @@ read_time: false
 # Gallery from Various Classroom and Online Workshops
 
 ## Online AI, DS, ML Training
-- [Online AI, DS, ML Training Gallery 1](/slider-online-training1)
-- [Online AI, DS, ML Training Gallery 2](/slider-online-training2)
-- [Online AI, DS, ML Training Gallery 3](/slider-online-training3)
-- [Online AI, DS, ML Training Gallery 4](/slider-online-training4)
+- [Online AI, DS, ML Training Gallery 1](/slider-online-sessions1)
+- [Online AI, DS, ML Training Gallery 2](/slider-online-sessions2)
+- [Online AI, DS, ML Training Gallery 3](/slider-online-sessions3)
+- [Online AI, DS, ML Training Gallery 4](/slider-online-sessions4)
   
 Photographs from online training, coaching and mentoring sessions on Data Science, AI, Machine Learning, Deep Learning, NLP, Project Management.
 

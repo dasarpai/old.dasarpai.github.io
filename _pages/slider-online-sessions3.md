@@ -14,7 +14,7 @@ show_date: false
 read_time: false
 excerpt: "Few snapshots from the Online courses on Data Science, Machine Learning, Deep Learning, NLP, Project Management, Agile Management. 2000+ learners, 400+ sessions, 1600+ Hours. Learners across the Glove."
 carousels:
-  - images: 
+   - images: 
       - image: 2022-09-03-11_39_52-LiveSession-upGrad.png
       - image: 2022-09-04-11_48_49-Meet-nmn-xnbb-bfk.png
       - image: 2022-09-04-11_52_01.png
@@ -30,7 +30,7 @@ carousels:
       - image: 2022-09-18-14_10_05-OpenBoard.png
       - image: 2022-09-18-16_36_20-LiveSession-upGrad.png
       - image: 2022-09-18-16_36_29-LiveSession-upGrad.png
-  - images: 
+   - images: 
       - image: 2022-09-24-14_10_32-LiveSession-upGrad.png
       - image: 2022-09-24-14_10_51-LiveSession-upGrad.png
       - image: 2022-09-24-16_41_35-OpenBoard.png
@@ -46,7 +46,7 @@ carousels:
       - image: 2022-10-08-14_26_48-LiveSession-upGrad.png
       - image: 2022-10-08-16_43_53-LiveSession-upGrad.png
       - image: 2022-10-08-16_44_02-LiveSession-upGrad.png
-  - images: 
+   - images: 
       - image: 2022-10-15-11_41_11-LiveSession-upGrad.png
       - image: 2022-10-15-13_23_05-LiveSession-upGrad.png
       - image: 2022-10-15-13_23_18-LiveSession-upGrad.png
@@ -62,7 +62,7 @@ carousels:
       - image: 2022-10-16-19_08_03-LiveSession-upGrad.png
       - image: 2022-10-17-13_52_53-Zoom-Meeting.png
       - image: 2022-10-18-11_48_45-Zoom-Meeting.png
-  - images: 
+   - images: 
       - image: 2022-10-19-13_52_17-Zoom-Meeting.png
       - image: 2022-10-19-18_29_52-Zoom-Meeting.png
       - image: 2022-10-20-13_53_01-Zoom-Meeting.png
@@ -78,7 +78,7 @@ carousels:
       - image: 2022-10-31-13_45_30-Zoom-Meeting.png
       - image: 2022-10-31-16_58_14-OpenBoard.png
       - image: 2022-10-31-18_30_48-OpenBoard.png
-  - images: 
+   - images: 
       - image: 2022-11-01-10_02_28-Zoom-Meeting.png
       - image: 2022-11-01-11_37_41-OpenBoard.png
       - image: 2022-11-01-16_52_24-OpenBoard.png
@@ -94,7 +94,7 @@ carousels:
       - image: 2022-11-06-16_42_09-OpenBoard.png
       - image: 2022-11-06-17_30_47-LiveSession-upGrad.png
       - image: 2022-11-06-18_52_00-LiveSession-upGrad.png
-  - images: 
+   - images: 
       - image: 2022-11-06-19_00_21-LiveSession-upGrad.png
       - image: 2022-11-12-11_35_35-OpenBoard.png
       - image: 2022-11-12-11_36_45-OpenBoard.png
@@ -110,7 +110,7 @@ carousels:
       - image: 2022-11-13-19_00_38-LiveSession-upGrad.png
       - image: 2022-11-19-17_37_14-LiveSession-upGrad.png
       - image: 2022-11-19-19_27_16-LiveSession-upGrad.png
-  - images: 
+   - images: 
       - image: 2022-11-19-19_28_47-LiveSession-upGrad.png
       - image: 2022-11-20-11_16_29-LiveSession-upGrad.png
       - image: 2022-11-20-16_26_15-LiveSession-upGrad.png
@@ -126,7 +126,7 @@ carousels:
       - image: 2022-11-27-11_37_26-Meet-era-ofsm-faf.png
       - image: 2022-11-27-16_37_12-LiveSession-upGrad.png
       - image: 2022-11-27-16_37_27-LiveSession-upGrad.png
-  - images: 
+   - images: 
       - image: 2022-11-27-19_14_19-LiveSession-upGrad.png
       - image: 2022-11-27-19_15_07-LiveSession-upGrad.png
       - image: 2022-12-03-14_10_08-OpenBoard.png

@@ -1,12 +1,12 @@
 ---
-id: 742    
-title: Online Training - Data Science, AI, ML - Page 1
+id: 742
+title: Online Training- Data Science, AI, ML- Page 1
 date: '2020-10-21T14:51:37+05:30'
 layout: slider-online-sessions1-layout
 permalink: /slider-online-sessions1
 author_profile: false
 sidebar:
-   nav: "docs"
+  nav: "docs"
 header:
   overlay_image: /assets/images/dspost/common/ai-ml-resources.png
   overlay_filter: .4 # same as adding an opacity of 0.5 to a black background
@@ -14,6 +14,7 @@ show_date: false
 read_time: false
 excerpt: "Few snapshots from the Online courses on Data Science, Machine Learning, Deep Learning, NLP, Project Management, Agile Management. 2000+ learners, 400+ sessions, 1600+ Hours. Learners across the Glove."
 keywords: "Online Sessions, Data Science Sessions, Machine Learning, upGrad Sessions, Data Science Coaching"
+
 carousels:
   - images: 
     - image: 2021-10-23-19_08_58-LiveSession-upGrad.jpg
@@ -30,7 +31,7 @@ carousels:
     - image: 2021-11-13-12_46_01-LiveSession-upGrad.jpg
     - image: 2021-11-13-14_13_26-LiveSession-upGrad.jpg
     - image: 2021-11-13-18_58_23-LiveSession-upGrad.jpg
-- images: 
+  - images: 
     - image: 2021-11-14-14_11_56-LiveSession-upGrad.jpg
     - image: 2021-11-14-16_34_13-LiveSession-upGrad.jpg
     - image: 2021-11-20-14_13_04-LiveSession-upGrad.jpg
@@ -46,7 +47,7 @@ carousels:
     - image: 2021-12-05-16_47_51-LiveSession-upGrad.jpg
     - image: 2021-12-05-16_47_58-LiveSession-upGrad.jpg
     - image: 2021-12-18-14_03_29-LiveSession-upGrad.jpg
-- images: 
+  - images: 
     - image: 2021-12-18-17_40_54-LiveSession-upGrad.jpg
     - image: 2021-12-19-14_06_11-LiveSession-upGrad.jpg
     - image: 2021-12-19-14_06_16-LiveSession-upGrad.jpg
@@ -62,7 +63,7 @@ carousels:
     - image: 2021-12-26-16_43_23-LiveSession-upGrad.jpg
     - image: 2022-01-01-11_23_53-LiveSession-upGrad.jpg
     - image: 2022-01-01-11_32_35-LiveSession-upGrad.jpg
-- images: 
+  - images: 
     - image: 2022-01-01-14_00_09-LiveSession-upGrad.jpg
     - image: 2022-01-01-14_00_16-LiveSession-upGrad.jpg
     - image: 2022-01-01-18_51_49-LiveSession-upGrad.jpg
@@ -78,7 +79,7 @@ carousels:
     - image: 2022-01-15-14_10_37-LiveSession-upGrad.jpg
     - image: 2022-01-15-14_12_42-LiveSession-upGrad.jpg
     - image: 2022-01-15-19_09_17-LiveSession-upGrad.jpg
-- images: 
+  - images: 
     - image: 2022-01-20-10_18_39-HeroVired-Zoom-Meeting.jpg
     - image: 2022-01-20-16_08_12-VideoFrameWnd.jpg
     - image: 2022-01-22-13_59_01-LiveSession-upGrad.jpg
@@ -94,7 +95,7 @@ carousels:
     - image: 2022-01-30-16_41_35-LiveSession-upGrad.jpg
     - image: 2022-02-05-13_57_56-LiveSession-upGrad.jpg
     - image: 2022-02-05-18_14_54-LiveSession-upGrad.jpg
-- images: 
+  - images: 
     - image: 2022-02-05-18_15_02-LiveSession-upGrad.jpg
     - image: 2022-02-05-18_31_19-LiveSession-upGrad.jpg
     - image: 2022-02-05-18_31_29-LiveSession-upGrad.jpg
@@ -110,7 +111,7 @@ carousels:
     - image: 2022-02-12-18_48_00-LiveSession-upGrad.jpg
     - image: 2022-02-20-14_15_23-LiveSession-upGrad.jpg
     - image: 2022-02-20-14_15_33-LiveSession-upGrad.jpg
-- images: 
+  - images: 
     - image: 2022-02-20-16_45_41-LiveSession-upGrad.jpg
     - image: 2022-02-26-14_14_14-LiveSession-upGrad.jpg
     - image: 2022-02-26-14_24_39-LiveSession-upGrad.jpg
@@ -126,7 +127,7 @@ carousels:
     - image: 2022-03-06-19_22_52-LiveSession-upGrad.jpg
     - image: 2022-03-06-19_22_58-LiveSession-upGrad.jpg
     - image: 2022-03-12-14_08_49-LiveSession-upGrad.jpg
-- images: 
+  - images: 
     - image: 2022-03-12-21_44_51-LiveSession-upGrad.jpg
     - image: 2022-03-13-19_22_42-LiveSession-upGrad.jpg
     - image: 2022-03-16-17_49_10.jpg
