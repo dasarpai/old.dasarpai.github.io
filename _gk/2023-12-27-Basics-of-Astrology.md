@@ -3,9 +3,9 @@ id: 7008
 mathjax: true        
 title: Basics of Astrology    
 date: "2023-12-27T08:33:00+05:30"        
-permalink: /gk/Basics-of-Astrology        
-tags: [Education, Astrology, Astronomy]        
-        
+permalink: /gk/Basics-of-Astrology
+tags: [Education, Astrology, Astronomy]  
+
 categories:        
 header:        
     teaser: /assets/images/gk/7008-Basics-of-Astrology.jpg        
@@ -22,7 +22,30 @@ toc_sticky: true
     
 # Basics of Jyotish    
 
-- Lagna horoscope mean the horoscope created based on the planet and stars position in the sky at the time of birth.
+## Astrology is Pure Data Science
+Let's say we want to study how safe you drive on road, we want to predict whether you will have any accident in next 30 days or not. Now, ask yourself on what factors it depends? I will list some variables below. You think about each of these variables and you will realise all these factor has relations with your safe driving and accidents. Relationship may be weak or strong, it may be positive or negative that is different matter but some relationship is there. Stronger the relation, more important that variable in predicting the outcome.
+- Your profession
+- Your food habits
+- At the time of driving, for long you are hungry
+- How long you been driving continuosly
+- Your age
+- How many children you have
+- Profession of your spouse
+- Your household income
+- Age of your children
+- Are you heart patient?
+- Are you having ABC disease? (this can be long list)
+- Do you do meditation
+- Do you meditate regularly
+Now you see, we can add 1000 more variables and some variables less and some more influence our driving habit and useful in predicting the accident.
+
+Using this data if we create a model and start predicting accient or ticket/challan, obviously some of the prediction will be false negative, some will be false positive. But if model is have good variables in it then it predicts much better than the random guess.
+
+In older time, when people were interest in predicting the life they were using time related variable, which are more reliable and what is more reliable in the cosmos than the movement of planets and stars in the sky? Now people started tracking the movement of these stars in the sky and events on the earth. Fire, earth quake, pendemic, war, rain, crop, fight, loss, gain of individuals, family and of king. And they developed a subject around this, that subject is astrology.
+
+We must understand relationship doesn't mean causation. For example, if there is heat then an icecream seller is very happy. There is relationship between heat and icecream seller's happiness, more the temperature more happy he is but this relationship doesn't mean icecream seller is happy because hot whether. He is happy because of some other reason. His icecream sale is high! Cause of his happiness is his sale not temprature.
+
+Similarly when astrologers see some patterns of planets and stars in the sky and they know there patterns are repetitive, cycle of occurance can vary from hour to day to month to year or century but here is cyclicity. Now they observe on the planet also there is cyclicity of the events, we call popularly call, history repeats itself in different ways. This relationship between events on the earth and events in the sky has relationship. Whether there is causation or not, that is different subject for the study. But if the model is good you cannot deny the relationship.
 
 ## Sky observation
 - At any point of the day or night, if we are on the plane ground without obstacle of mountain or building we can 180 degree space. It means whatever planets or stars in the sky we can see, we see half of that what exists not more than that 
@@ -122,6 +145,7 @@ toc_sticky: true
 	12. मीन राशि: गुरु (Jupiter)
 	
 ## How to look Horoscope 
+- Lagna horoscope mean the horoscope created based on the planet and stars position in the sky at the time of birth.
 - To create a horoscope on a paper, we create 12 boxes as below
 
 ![12-Houes-of-Horoscope](/assets/images/gk/12-Houes-of-Horoscope.jpg)
