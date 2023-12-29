@@ -1,0 +1,91 @@
+---
+mathjax: true
+id: 6043
+title: What is GAN? 
+date: 2023-01-17
+permalink: '/dsblog/What-is-GAN'
+tags: [NLP] 
+categories: 
+
+header:
+    teaser: /assets/images/dspost/dsp6043-gan.jpg
+author: Hari Thapliyaal 
+excerpt:
+share: true 
+---
+
+![Partial Dependence Plots](/assets/images/dspost/dsp6043-gan.jpg)
+
+# What is GAN?
+
+## What is GAN (Generative Adversarial Network)?
+Generative adversarial networks (GANs) are besing used to generate images, videos, text, audio and music. GAN is a class of machine-learning models introduced by Ian Goodfellow and his colleagues in 2014. The GANs became popular among researchers quickly because of their property to generate new data with the same statistics as the input training set. It can be applied to images, videos, textual data, tabular data and more, proving useful for semi-supervised, fully supervised, and reinforcement learning. 
+
+There are 2 kinds of models in the context of Supervised Learning, Generative and Discriminative Models. Discriminative Models are primarily used to solve the Classification task where the model usually learns a decision boundary to predict which class a data point belongs to. On the other side, Generative Models are primarily used to generate synthetic data points that follow the same probability distribution as training data distribution. Our topic of discussion, Generative Adversarial Networks(GANs) is an example of the Generative Model.
+
+## The most popular GAN Architectures and their Purpose
+- Transforming an image from one domain to another (CycleGAN),
+- Generating an image from a textual description (text-to-image),
+- Generating very high-resolution images (ProgressiveGAN) and many more.
+- pixelRNN
+- DiscoGAN
+- lsGAN
+
+## Image generation projects using GAN
+
+### Anime Characters 
+GANs are changing the way of generating realistic anime characters and bringing out the potential of complex GAN architecture to build entire anime series with the help of AI. In the paper “Towards the Automatic Anime Characters Creation with Generative Adversarial Networks,” Yanghua Jin and his team trained and used GAN to generate the faces of anime characters or Japanese comic book characters in 2017. The outcome of the project was remarkable, which led people to conduct more experiments on the image generation of faces of anime characters and the generation of pokemon characters. Many GAN models are used to generate cartoon characters, such as DCGAN, StyleGAN, and so on.
+
+### Fake Human Faces
+Facial recognition has many use cases, and the development has been in progress for the last couple of years, where researchers are using different techniques and facial recognition datasets to train models. Researchers need massive datasets of human faces to understand the recognition process, and the generation of fake human faces helps these projects. NVIDIA researchers published a paper, “Progressive Growing of GANs for Improved Quality, Stability, and Variation,” in 2018, where they proposed a new training methodology for GANs operating on the generation of feasible human face photographs. The paper’s outcome is so realistic-looking that it can fool anyone easily. Additionally, the paper presented the generation of objects and scenes as well.
+
+### Image Style Transfer
+Image style transfer is an interesting technique in computer vision that combines two images. This technique consists of a model taking two images, called content and reference images, and the output is a whole new image containing the object of the content image and the style of the reference image. Here by style, it means brush strokes, colors, and textures of the image. Researchers are still trying to find the best ways and use cases of style transfer. This technique is included in the image-to-image translation and is also known as domain adaptation. There are many research work on image style transfer using GANs, and most have produced good results. A remarkable study is the paper “P²-GAN: EFFICIENT STYLE TRANSFER USING SINGLE STYLE IMAGE.” Zhentan Zheng and Jianyi Liu put forth a novel patch permutation GAN (P²-GAN), which proves efficient in learning stroke styles from paintings or single style images. The paper concludes with an effective and precise P²-GAN network simulating the expected stroke style and avoiding the difficulty of collecting image sets with the same style. 
+
+### Text-to-Image (text-2-image) Synthesis
+Generating realistic images is challenging, but using GANs makes the process a reality rather than theories. Although we got problems with image-to-image generation or translation, the synthesis of text-to-image realistic images using GANs is more complex and difficult. The process of synthesis needs a strong GAN structure along with the base images provided. There are many papers on the task which have computed impressive outcomes. In 2016, Han Zhang and his team from the Chinese University of Hong Kong presented “StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks,” explaining the use of GANs. Mainly, the StackGAN to generate realistic photographs from textual data of simple objects such as birds and flowers. Also, the paper “Generative Adversarial Text to Image Synthesis” and “TAC-GAN – Text Conditioned Auxiliary Classifier Generative Adversarial Network” present the study of generating realistic images through text-to-image synthesis with the help of GANs.
+
+### Image-to-Image Translation
+Image-to-image translation includes many tasks, such as the translation of semantic images to photographs, satellite photographs to google maps, black and white photographs to color, and more. Many papers have been published demonstrating the use of GANs for image-to-image translation, and one of the popular papers is “Image-to-Image Translation with Conditional Adversarial Networks” by Berkeley AI Research group in 2016. This paper has an investigational approach toward conditional adversarial networks if they serve as a general-purpose solution to image-to-image translation problems. They use a unique pix2pix approach for various image-to-image translation tasks. Additionally, the paper titled “Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks” presents the famous CycleGAN and a set of impressive image-to-image translation cases like translation from photograph to artistic painting style, photographs from summer to winter, and translation of horse to zebra. 
+
+
+## Applications of GAN 
+- Realistic image generation, 
+- Improving the quality of photographs
+- Audio synthesis, 
+- Transfer learning, 
+- Deepfake Apps
+- 
+### Vision GAN Application Areas
+1. Generate Examples for Image Datasets
+1. Generate Photographs of Human Faces
+1. Generate Realistic Photographs
+1. Generate Cartoon Characters
+1. Image-to-Image Translation
+1. Text-to-Image Translation
+1. Semantic-Image-to-Photo Translation
+1. Face Frontal View Generation
+1. Generate New Human Poses
+1. Photos to Emojis
+1. Photograph Editing
+1. Face Aging
+1. Photo Blending
+1. Super Resolution
+1. Photo Inpainting
+1. Clothing Translation
+1. Video Prediction
+1. 3D Object Generation
+1. Cartoon Face Images
+1. Forged Face Images
+1. Artificial Flower Images 
+1. Artificial Bird Images
+1. Drawing Real Objects and Vice-versa
+1. Fake Paintings
+1. Altering Photographs 
+
+## Anime character generation using IllustrationGAN
+- https://machinelearningmastery.com/impressive-applications-of-generative-adversarial-networks/
+- https://neptune.ai/blog/6-gan-architectures
+- https://www.theclickreader.com/list-of-generative-adversarial-networks-applications/
+- https://www.projectpro.io/article/generative-adversarial-networks-gan-based-projects-to-work-on/530
+

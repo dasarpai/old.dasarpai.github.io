@@ -18,4 +18,4 @@ share: true
 
 ![My Daily Tools](/assets/images/dspost/dsr112-My-Daily-Tools.jpg)
 
-[My Daily Tools](https://docs.google.com/spreadsheets/d/e/2PACX-1vRacudPugSVa6duH45ABzFET-nWQP8yP0Wapo39Wr7NEv4Si1d_eVzTpm3OiJerfaP4ZVZ1Z_BCVjVS/pubhtml?gid=1881926989&single=true). It is an excel sheet and I keep updating this, as and when I find some new tool.
+[I am sorry, this page has moved to different location. [Click me to go there](/dsblog/my-daily-tools)

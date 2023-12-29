@@ -2,7 +2,7 @@
 id: 744    
 title: Online Training - Data Science, AI, ML - Page 3
 date: '2020-10-21T14:51:37+05:30'
-layout: slider-online-sessions3-layout
+layout: slider-online-sessions1-layout
 permalink: /slider-online-sessions3
 author_profile: false
 sidebar:

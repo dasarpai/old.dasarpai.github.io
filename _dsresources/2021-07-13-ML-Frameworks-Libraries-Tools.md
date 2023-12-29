@@ -17,4 +17,4 @@ share: true
 
 ![Machine Learning Framework, Library, Tools](/assets/images/dspost/dsr113-Machine-Learning-Framework-Library-Tools.jpg)
 
-[Machine Learning Framework, Library, Tools](https://docs.google.com/spreadsheets/d/e/2PACX-1vRDBsF3sb-PGIRuoBcPFPvpdF6lujUFDLU3BsaX6hh1Al_4998Xabn7zWsbQ42_kym-NRXsUGIM_iNd/pubhtml?gid=1422467600&single=true)
+I am sorry, this page has moved to different location. [Click me to go there](/dsblog/ml-frameworks-libraries-tools)
