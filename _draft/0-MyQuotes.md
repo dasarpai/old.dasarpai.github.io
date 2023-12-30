@@ -2959,42 +2959,21 @@ If you learning you will not fail in life.
 
 But if you not failing it doesn't mean your learning. You may be just passing.
 
+# Quotation260
 
-x# Quotation260
+We hear very often that we love from heart, 
+the prove or that is 
+if heart is removed we cannot love. 
+Ok, so let's keep the heart 
+and remove your head and try to love now!
+One line qutations are ok,
+But, the life doesn't work that way.
 
-Pleasure is a substitute for joy and bliss.
-Pleasure is rationed so people want more. 
-If it is given infinite supply you will be fed up.
-
-==
-You are handling a process called life.
-Every process takes some input and creates some output.
-Inputs of the life process are all the resources available to us. 
-It may be health, money, relationship etc.
-Everyone has these kind of resources
-Some has less, some more and others may be extremely rich.
-It is not important how much resources we have.
-What matters is, what this process is generating.
-Joyfulness, happiness, smile,
-true laughter without ridiculing others,
-Peace, contentment, stability, inwardness
-Or just reverse of all these.
-If output of life process is not generating results which expends life
-And life is contracting every moment then neither God nor Life is responsible.
-But you, the handlers of the process, are responsible.
-
-Passing buck to God or destiny or relatives or partners is temporary relief but a permanent solution. If you think that is the solution then struggle with blockers or running away from blockers and people looks solution.
-Else we think clearly, try to solve and endure the unexpected output of life with a deep smile.
-
-After all Life is complex process
-Which cannot be handled perfectly.
-That is why there is no perfect life,
- but only Life without adjectives.
+# Quotation261
 
 
-========
 
-We love from heart, the prove or that is if heart is removed we cannot love. Ok, so let's keep the heart and remove your head and try to love now!
+
 
 
 

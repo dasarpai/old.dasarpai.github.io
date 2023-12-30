@@ -18,4 +18,4 @@ share: true
 
 ![My Daily Tools](/assets/images/dspost/dsr112-My-Daily-Tools.jpg)
 
-[I am sorry, this page has moved to different location. [Click me to go there](/dsblog/my-daily-tools)
+I am sorry, this page has moved to different location. [Click me to go there](/dsblog/my-daily-tools)

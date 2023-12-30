@@ -7,7 +7,7 @@ categories:
   - Blog
 tags: Project Management Dictionary  
 header:
-  teaser: "/assets/images/pmlogy/1045-Project-Management-Lexicon.jpg"
+  teaser: "/assets/images/pmlogy/pmb1045-Project-Management-Lexicon.jpg"
 excerpt_separator: "<!--more-->"
 excerpt:
 layout: single
@@ -16,7 +16,7 @@ toc: true
 toc_sticky: true
 ---
 
-![Project Management Lexicon](/assets/images/pmlogy/1045-Project-Management-Lexicon.jpg)
+![Project Management Lexicon](/assets/images/pmlogy/pmb1045-Project-Management-Lexicon.jpg)
 
 **Activity** : 
 A distinct, scheduled portion of work performed during the course of a project.

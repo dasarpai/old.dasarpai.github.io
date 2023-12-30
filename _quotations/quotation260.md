@@ -1,7 +1,7 @@
 ---
 mathjax: true
-id: 9259
-title: 'Quotation 259'
+id: 9260
+title: 'Quotation 260'
 date: 2023-04-30
 permalink: '/quotations/Words-of-Socrates'
 tags: [WIA Quotations] 
