@@ -6,7 +6,7 @@ permalink: /prince2-templates
 date: 2020-09-08                
 tags: [Project Management Templates, PRINCE2 Templates]                
 header:            
-  image: /assets/images/pmlogy/PM-Templates.jpg                
+  image: /assets/images/banners/pm-template-Banner.jpg                
 
 author_profile: false                
 last_modified_at: 2022-09-11T15:46:43-04:00                

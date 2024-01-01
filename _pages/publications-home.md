@@ -10,7 +10,7 @@ author_profile: false
 classes: wide
 
 header:
-  overlay_image: /assets/images/Publication-Banner.jpg
+  overlay_image: /assets/images/banners/Publication-Banner.jpg
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
   
 author_profile: false

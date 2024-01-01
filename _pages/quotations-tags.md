@@ -7,7 +7,7 @@ author_profile: true
 toc: true
 toc_sticky: true
 header:
-  image: /assets/images/wiapost/WIA-Blogs.jpg
+  image: /assets/images/banners/wia-banner.jpg
 excerpt: "These Qutations come from my reflection from the surface of lake called life. Great teachers like Mahatama Buddha, Lao Tzu, Adi Shankara, Ramakrushna Paramhamsa, Swami Vivekananda, Ramana Maharshi, J D Krishnamurthi, Osho, Sadguru, Swami Dayananda Sarawati, Swami Parmarthananda have shaped my mind and intellect"
 sidebar:
    nav: "docs"

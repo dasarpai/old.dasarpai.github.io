@@ -7,7 +7,7 @@ author_profile: true
 toc: true
 toc_sticky: true
 header:
-  image: "/assets/images/pmlogy/pmlogy-post.jpg"
+  image: "/assets/images/banners/pmblog-Banner.jpg"
 sidebar:
    nav: "docs"
 ---
