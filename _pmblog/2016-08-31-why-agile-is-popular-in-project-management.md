@@ -12,6 +12,8 @@ categories:
 
 header:
   teaser: '/assets/images/pmblog/Why-APM-is-Popular-min.png'
+layout: single
+
 author: 'Hari Thapliyaal'
 layout: single
 excerpt: #

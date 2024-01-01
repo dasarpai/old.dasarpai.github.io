@@ -11,6 +11,7 @@ categories:
 header:
   teaser: '/assets/images/pmblog/ChangeRequestManagement.jpg'
 author: 'Hari Thapliyaal'
+layout: single
 
 excerpt: #
 author_profile: true

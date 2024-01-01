@@ -10,6 +10,7 @@ categories:
 header:
   teaser: '/assets/images/pmblog/Project-management-terms-with-Construction.jpg'
 author: 'Hari Thapliyaal'
+layout: single
 
 excerpt: #
 author_profile: true

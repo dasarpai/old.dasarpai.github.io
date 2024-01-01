@@ -6,6 +6,7 @@ author: 'Hari Thapliyaal'
 permalink: '/pmblog/What-is-a-Technical-Spike'
 header:
   teaser: /assets/images/pmblog/pmbok-general.jpg
+layout: single
 tags:
     - 'Agile Terms'
 ---

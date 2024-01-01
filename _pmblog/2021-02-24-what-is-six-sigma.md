@@ -11,9 +11,10 @@ categories:
 
 header:
   teaser: '/assets/images/pmblog/pmlogy-post.jpg'
+layout: single
+
 author: 'Hari Thapliyaal'
 
-excerpt: #
 author_profile: true
 share: true
 toc: true   

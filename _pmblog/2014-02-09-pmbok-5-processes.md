@@ -10,8 +10,8 @@ categories:
 
 header:
   teaser: '/assets/images/pmblog/PMBOK5.jpg'
+layout: single
 author: 'Hari Thapliyaal'
-
 excerpt: #
 author_profile: true
 share: true

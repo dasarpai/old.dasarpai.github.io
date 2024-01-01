@@ -12,6 +12,7 @@ categories:
 header:
   teaser: '/assets/images/pmblog/Softskills-Project-Manger-min.jpg'
 author: 'Hari Thapliyaal'
+layout: single
 
 excerpt: #
 author_profile: true

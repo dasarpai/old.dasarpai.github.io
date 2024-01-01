@@ -11,6 +11,7 @@ categories:
 header:
   teaser: '/assets/images/pmblog/BusinessAgilityVsScale2.jpg'
 author: 'Hari Thapliyaal'
+layout: single
 
 excerpt: #
 author_profile: true
@@ -18,9 +19,9 @@ share: true
 ---
 
 ![](/assets/images/pmblog/BusinessAgilityVsScale2.jpg)   
-
+   
 # Agility vs Scale in Business   
-
+   
 Recently I was watching a [video](https://youtu.be/5ZQv0aHVgys) about entrepreneurship. This was going viral and people were appreciating the talk. I wanted to analyze and understand what the speaker wants to say, what people are understanding, and what should be learning from the talk. I wrote a paragraph on this, but very soon I realized this deserves more contemplation and an article. In that process, I ended up writing this article. I hope you will get some more insights. Many of you may have different insights and different perspectives, so don’t forget to share your perspective.
 
 In the video, the speaker is talking about following

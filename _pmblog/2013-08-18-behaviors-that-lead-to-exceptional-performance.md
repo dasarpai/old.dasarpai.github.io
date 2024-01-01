@@ -12,6 +12,7 @@ categories:
 header:
   teaser: '/assets/images/pmblog/Exceptional-Performance-min.jpg'
 author: 'Hari Thapliyaal'
+layout: single
 
 excerpt: #
 author_profile: true

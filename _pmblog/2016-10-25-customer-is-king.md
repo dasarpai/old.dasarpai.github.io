@@ -13,6 +13,8 @@ categories:
 
 header:
   teaser: '/assets/images/pmblog/Customer-Vendor-Relation.jpg'
+layout: single
+
 author: 'Hari Thapliyaal'
 layout: single
 excerpt: #

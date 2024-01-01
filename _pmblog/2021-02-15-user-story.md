@@ -5,7 +5,7 @@ date: '2021-02-15T02:33:30+00:00'
 author: 'Hari Thapliyaal'
 permalink: '/pmblog/User-Story'
 header:
-   teaser: /assets/images/pmlogy/UserStory.jpg
+   teaser: /assets/images/pmblog//UserStory.jpg
 tags:
     - 'Agile Terms'
 toc: true   

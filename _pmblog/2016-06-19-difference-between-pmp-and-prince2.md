@@ -10,6 +10,8 @@ categories:
 
 header:
   teaser: '/assets/images/pmblog/PMP-PRINCE2-min.png'
+layout: single
+
 author: 'Hari Thapliyaal'
 layout: single
 excerpt: #

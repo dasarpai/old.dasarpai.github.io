@@ -11,6 +11,7 @@ categories:
 header:
   teaser: '/assets/images/pmblog/project-online-2016-reporting.jpg'
 author: 'Hari Thapliyaal'
+layout: single
 
 excerpt: #
 author_profile: true

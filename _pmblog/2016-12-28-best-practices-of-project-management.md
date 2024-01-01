@@ -13,6 +13,7 @@ categories:
 header:
   teaser: '/assets/images/pmblog/IT-PM-Best-Practices-min.png'
 author: 'Hari Thapliyaal'
+layout: single
 
 excerpt: #
 author_profile: true

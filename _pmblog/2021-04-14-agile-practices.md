@@ -6,6 +6,7 @@ author: 'Hari Thapliyaal'
 permalink: '/pmblog/Agile-Practices'
 header:
   teaser: /assets/images/pmblog/pmlogy-post.jpg
+layout: single
 tags:
     - 'Agile Project Management'
 ---

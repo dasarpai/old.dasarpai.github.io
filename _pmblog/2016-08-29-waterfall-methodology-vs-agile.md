@@ -12,6 +12,7 @@ categories:
 header:
   teaser: '/assets/images/pmblog/Agile-Waterfall-min.png'
 author: 'Hari Thapliyaal'
+layout: single
 
 excerpt: #
 author_profile: true

@@ -11,6 +11,7 @@ categories:
 header:
   teaser: '/assets/images/pmblog/Structure-of-Dialogue-min.png'
 author: 'Hari Thapliyaal'
+layout: single
 
 excerpt: #
 author_profile: true

@@ -10,6 +10,8 @@ categories:
 
 header:
   teaser: '/assets/images/pmblog/Responsibilties-of-Project-Manager-min.jpg'
+layout: single
+
 author: 'Hari Thapliyaal'
 layout: single
 excerpt: #

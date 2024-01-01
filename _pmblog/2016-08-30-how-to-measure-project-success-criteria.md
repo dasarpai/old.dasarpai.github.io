@@ -10,6 +10,8 @@ categories:
 
 header:
   teaser: '/assets/images/pmblog/Project_Success_Criteria.jpg'
+layout: single
+
 author: 'Hari Thapliyaal'
 layout: single
 excerpt: #

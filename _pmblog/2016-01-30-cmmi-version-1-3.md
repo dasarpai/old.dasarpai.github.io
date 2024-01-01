@@ -11,6 +11,8 @@ categories:
 
 header:
   teaser: '/assets/images/pmblog/SEI-CMMI.jpg'
+layout: single
+
 author: 'Hari Thapliyaal'
 layout: single
 excerpt: #

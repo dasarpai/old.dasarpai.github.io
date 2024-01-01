@@ -10,6 +10,8 @@ tags:
     - 'Sustainable Development'
 header:
  teaser: /assets/images/pmblog/SustaintableDevelopmentGoal.png
+layout: single
+
 tags:
     - General
 ---

@@ -11,6 +11,7 @@ categories:
 header:
   teaser: '/assets/images/pmblog/ChaosReport.png'
 author: 'Hari Thapliyaal'
+layout: single
 
 excerpt: #
 author_profile: true

@@ -10,6 +10,8 @@ categories:
 
 header:
   teaser: '/assets/images/pmblog/MicrosoftProject-Security.jpg'
+layout: single
+
 author: 'Hari Thapliyaal'
 layout: single
 excerpt: #
