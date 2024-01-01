@@ -7,7 +7,8 @@ author_profile: true
 toc: true
 toc_sticky: true
 header:
-  image: /assets/images/banners/wia-banner.jpg
+  overlay_image: /assets/images/banners/wia-banner.jpg
+  overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 sidebar:
    nav: "docs"
 ---
