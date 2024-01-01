@@ -18,7 +18,6 @@ sidebar:
    nav: "docs"
 ---
 
-![Book: Mindful Projet Management](/assets/images/projects/mfpm-editation1.jpg)
 # Book: Mindful Projet Management
 
 In our modern era, a tragic trend has emerged where humans are growing increasingly desensitized and losing their inclination for deeper thought. We reside in an age of abundant information and rapidity, yet we struggle to derive meaning from this wealth of data, failing to assess the value in our pursuits and objectives. We live mechanically, skimming through endless information, social media platforms, and journeys without purposeful contemplation. We traverse through life's milestones—education, career, marriage, wealth acquisition—unmindfully, forgetting our potential for a more purposeful existence. As the most intelligent beings known to the cosmos, we have the power to imbue life's events with significance. After engaging with this book, your surroundings may remain unchanged, but a shift in your thought patterns can revolutionize your world, and this transformation can extend its value to others.
