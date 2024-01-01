@@ -17,6 +17,7 @@ mathjax: "true"
 sidebar:
    nav: "docs"
 ---
+![Book: Mindful Projet Management](/assets/images/projects/mfpm-editation1.jpg)
 
 # Book: Mindful Projet Management
 ## Voyage of a Project Manager
