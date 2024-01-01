@@ -1,22 +1,17 @@
 ---
 id: 722    
 title: "Books and Publications"
-date: '2023-12-23T14:51:37+05:30'
-
+date: '2024-01-01T10:07:10+00:00'
 layout: collection
-permalink: /publications-home
+permalink: /publications-blog
 collection: projects
 entries_layout: grid
 author_profile: false
 classes: wide
-author_profile: false
 header:
-  overlay_image: /assets/images/samskrut/MySamskrutYatra-min.jpg
-  overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
-
+  overlay_image: /assets/images/Publication-Banner.jpg
+  overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 sidebar:
-   nav: "docs"
----    
-
-**Under Construction**
-
+   nav: "docs"   
+sort_order : reverse   
+---
