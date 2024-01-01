@@ -12,7 +12,7 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/Customer-Vendor-Relation.jpg'
+  teaser: '/assets/images/pmblog/Customer-Vendor-Relation.jpg'
 author: 'Hari Thapliyaal'
 layout: single
 excerpt: #
@@ -21,7 +21,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Customer-Vendor-Relation.jpg)   
+![](/assets/images/pmblog/Customer-Vendor-Relation.jpg)   
 
 # Settling Superiority of Customer Vendor Relationship
 

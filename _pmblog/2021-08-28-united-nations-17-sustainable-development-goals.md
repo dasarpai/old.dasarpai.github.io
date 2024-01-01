@@ -9,12 +9,12 @@ tags:
     - 'Climate Change'
     - 'Sustainable Development'
 header:
- teaser: /assets/images/pmlogy/SustaintableDevelopmentGoal.png
+ teaser: /assets/images/pmblog/SustaintableDevelopmentGoal.png
 tags:
     - General
 ---
 
-![](/assets/images/pmlogy/SustaintableDevelopmentGoal.png)   
+![](/assets/images/pmblog/SustaintableDevelopmentGoal.png)   
 #  Sustainable Development Goals 
 
 ## What are the United Nations 17 Sustainable Development Goals (SDG)?    

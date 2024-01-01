@@ -9,14 +9,14 @@ tags:
 categories:
  
 header:
-  teaser: '/assets/images/pmlogy/powerBI-projectOnline.jpg'
+  teaser: '/assets/images/pmblog/powerBI-projectOnline.jpg'
 author: 'Hari Thapliyaal'
 
 excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmlogy/powerBI-projectOnline.jpg)   
+![](/assets/images/pmblog/powerBI-projectOnline.jpg)   
 
 PowerBI is a powerful tool for data analytics. This Business Intelligence tool is developed by Microsoft. This application was originally conceived by Thierry D’Hers and Amir Netz of the SQL Server Reporting Services Team at Microsoft. It was originally designed by Ron George in the summer of 2010 and named **Project Crescent**. Project Crescent was initially available for public download on July 11, 2011, bundled with SQL Server Codename **Denali**. Later renamed to **Power BI** it was then unveiled by Microsoft in September 2013 as P**ower BI for Office 365**. The first release of Power BI was based on the [Microsoft Excel](https://en.wikipedia.org/wiki/Microsoft_Excel) based add-ins: Power Query, [Power Pivot](https://en.wikipedia.org/wiki/Power_Pivot) and Power View. With time, Microsoft also added many additional features like Question and Answers, enterprise-level data connectivity, and security options via Power BI Gateways. Power BI was first released to the public on July 24, 2015.
 

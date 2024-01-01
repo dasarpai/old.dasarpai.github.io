@@ -10,14 +10,14 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/SEI-CMMI.jpg'
+  teaser: '/assets/images/pmblog/SEI-CMMI.jpg'
 author: 'Hari Thapliyaal'
 layout: single
 excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmlogy/SEI-CMMI.jpg)   
+![](/assets/images/pmblog/SEI-CMMI.jpg)   
 
 
 # CMMI Version 1.3 (Summary)

@@ -9,7 +9,7 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/Agile-HR-min.png'
+  teaser: '/assets/images/pmblog/Agile-HR-min.png'
 author: 'Hari Thapliyaal'
 layout: single
 excerpt: #
@@ -18,7 +18,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![Agile Project Management for HR Professionals](/assets/images/pmlogy/Agile-HR-min.png)   
+![Agile Project Management for HR Professionals](/assets/images/pmblog/Agile-HR-min.png)   
 
 # Agile HR
 
@@ -28,7 +28,7 @@ Being in IT Industry for around 25+ years and played all kinds of roles from a p
 
 ## Introduction
 
-In the last 25 years, businesses have changed hugely because of technology, the internet, social media, competition, democracy, innovations &amp; availability of workforce, super-super specialization of skills. This all leads to much more expectations of the organizations from HR, but unfortunately, in my observation, most of the HR leadership is continuously failing to understand that the rule of the game has completely changed and work is not that easy as it was one decade back. Apart from this now delivery function thinks that HR is a bad guy in the organization and their biggest contribution is they should remain away from our work because instead of solving our problem they make the problem more complicated because of processes, an external intervention that too without understanding the need of our customer and team. While writing this article I know many HR professionals will disagree with me and I am willing to learn from the experience of other professionals.
+In the last 25 years, businesses have changed hugely because of technology, the internet, social media, competition, democracy, innovations & availability of workforce, super-super specialization of skills. This all leads to much more expectations of the organizations from HR, but unfortunately, in my observation, most of the HR leadership is continuously failing to understand that the rule of the game has completely changed and work is not that easy as it was one decade back. Apart from this now delivery function thinks that HR is a bad guy in the organization and their biggest contribution is they should remain away from our work because instead of solving our problem they make the problem more complicated because of processes, an external intervention that too without understanding the need of our customer and team. While writing this article I know many HR professionals will disagree with me and I am willing to learn from the experience of other professionals.
 
 ## The audience of this article
 
@@ -37,7 +37,7 @@ In the last 25 years, businesses have changed hugely because of technology, the 
 - HR professionals who are looking for Agile HR practices.
 - HR professionals who are trying to understand why delivery functions don’t consider them as a friendly function.
 
-## Closing the Gap between Delivery &amp; HR Function
+## Closing the Gap between Delivery & HR Function
 
 I personally feel rather than doing the duties which HR professionals learn in Business School, they need to work closely with the Delivery function. To make any relation or transaction successful we need to define who is give what in the relation. One who gives services is a vendor, another who has consideration is a client. HR can contribute more to the organization in the agile environment if they align their work keeping these two points in mind.
 
@@ -58,7 +58,7 @@ As we know the function of HR is not only to perform day to day **operational wo
 - The team assigned to a project should be a “Self Organizing Team” within D Days.
 - Ensure a particular HR KPI is brought under control within W weeks.
 
-## Key Changes in Project &amp; Business Environment
+## Key Changes in Project & Business Environment
 
 You can visualize the impact of the following changes, which happened in the last decade, on HR project’s planning, success, execution strategy, risks, quality, scope, cost, coordination, stakeholder management, communication, employee hiring/retention. I prepared a list of changes that happened in the last decade, this list is based on my observations, but it can be very exhaustive.
 

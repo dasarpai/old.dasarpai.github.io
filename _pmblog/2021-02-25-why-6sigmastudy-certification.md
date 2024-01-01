@@ -10,7 +10,7 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/pmlogy-post.jpg'
+  teaser: '/assets/images/pmblog/pmlogy-post.jpg'
 
 layout: single
 excerpt: #
@@ -19,7 +19,7 @@ share: true
 
 ---
 
-![](/assets/images/pmlogy/pmlogy-post.jpg)   
+![](/assets/images/pmblog/pmlogy-post.jpg)   
 
 
 ## Why 6sigmastudy Certification?   

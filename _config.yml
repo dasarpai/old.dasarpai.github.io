@@ -575,6 +575,8 @@ defaults:
       comments: # true
       share: true
       related: true
+    sidebar:
+      nav: "docs"
 
 collections:
   gk:
@@ -620,5 +622,9 @@ collections:
     permalink: /:categories/:title/
     
   gallery:
+    output: true
+    permalink: /:categories/:title/
+
+  projects:
     output: true
     permalink: /:categories/:title/

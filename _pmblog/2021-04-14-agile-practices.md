@@ -5,7 +5,7 @@ date: '2021-04-14T06:37:00+00:00'
 author: 'Hari Thapliyaal'
 permalink: '/pmblog/Agile-Practices'
 header:
-  teaser: /assets/images/pmlogy/pmlogy-post.jpg
+  teaser: /assets/images/pmblog/pmlogy-post.jpg
 tags:
     - 'Agile Project Management'
 ---

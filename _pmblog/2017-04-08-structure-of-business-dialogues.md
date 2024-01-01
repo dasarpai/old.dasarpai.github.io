@@ -9,7 +9,7 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/Structure-of-Dialogue-min.png'
+  teaser: '/assets/images/pmblog/Structure-of-Dialogue-min.png'
 author: 'Hari Thapliyaal'
 
 excerpt: #
@@ -18,7 +18,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Structure-of-Dialogue-min.png)   
+![](/assets/images/pmblog/Structure-of-Dialogue-min.png)   
 
 ## Introduction
 

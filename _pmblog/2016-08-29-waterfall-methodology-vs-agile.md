@@ -10,7 +10,7 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/Agile-Waterfall-min.png'
+  teaser: '/assets/images/pmblog/Agile-Waterfall-min.png'
 author: 'Hari Thapliyaal'
 
 excerpt: #
@@ -19,7 +19,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Agile-Waterfall-min.png)   
+![](/assets/images/pmblog/Agile-Waterfall-min.png)   
 
 # Agile and Waterfall
 

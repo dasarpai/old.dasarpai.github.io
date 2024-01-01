@@ -10,14 +10,14 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/Softskills-Project-Manger-min.jpg'
+  teaser: '/assets/images/pmblog/Softskills-Project-Manger-min.jpg'
 author: 'Hari Thapliyaal'
 
 excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmlogy/Softskills-Project-Manger-min.jpg)   
+![](/assets/images/pmblog/Softskills-Project-Manger-min.jpg)   
 
 ## Nontechnical skills every project manager needs
 

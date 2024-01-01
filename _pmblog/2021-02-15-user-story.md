@@ -12,7 +12,7 @@ toc: true
 toc_sticky: true	
 ---
 
-![](/assets/images/pmlogy/UserStory.jpg)   
+![](/assets/images/pmblog/UserStory.jpg)   
 
 ## What is a user story?
 

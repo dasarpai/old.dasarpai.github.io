@@ -9,7 +9,7 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/ChangeRequestManagement.jpg'
+  teaser: '/assets/images/pmblog/ChangeRequestManagement.jpg'
 author: 'Hari Thapliyaal'
 
 excerpt: #
@@ -18,7 +18,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/ChangeRequestManagement.jpg)   
+![](/assets/images/pmblog/ChangeRequestManagement.jpg)   
 
 # Change Request Management 
 

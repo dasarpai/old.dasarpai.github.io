@@ -9,14 +9,14 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/PMBOK-KA-min.jpg'
+  teaser: '/assets/images/pmblog/PMBOK-KA-min.jpg'
 author: 'Hari Thapliyaal'
 
 excerpt: #
 author_profile: true
 share: true
 ---
-![PMBOK Knowledge Areas](/assets/images/pmlogy/PMBOK-KA-min.jpg)   
+![PMBOK Knowledge Areas](/assets/images/pmblog/PMBOK-KA-min.jpg)   
 
 ## Who uses PMBOK?
 

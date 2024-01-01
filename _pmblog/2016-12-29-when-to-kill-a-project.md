@@ -11,7 +11,7 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/Killing-a-Project-min.png'
+  teaser: '/assets/images/pmblog/Killing-a-Project-min.png'
 author: 'Hari Thapliyaal'
 
 excerpt: #
@@ -20,7 +20,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Killing-a-Project-min.png)   
+![](/assets/images/pmblog/Killing-a-Project-min.png)   
 
 
 # When to Kill a Project?

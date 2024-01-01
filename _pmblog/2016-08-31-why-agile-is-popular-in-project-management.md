@@ -11,7 +11,7 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/Why-APM-is-Popular-min.png'
+  teaser: '/assets/images/pmblog/Why-APM-is-Popular-min.png'
 author: 'Hari Thapliyaal'
 layout: single
 excerpt: #
@@ -20,7 +20,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Why-APM-is-Popular-min.png)   
+![](/assets/images/pmblog/Why-APM-is-Popular-min.png)   
 
 
 # Agile Project Management  

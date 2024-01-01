@@ -9,7 +9,7 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/pmbok.png'
+  teaser: '/assets/images/pmblog/pmbok.png'
 author: 'Hari Thapliyaal'
 
 excerpt: #
@@ -18,7 +18,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/pmbok.png)   
+![](/assets/images/pmblog/pmbok.png)   
 
 # Project Management with PMBOK
 

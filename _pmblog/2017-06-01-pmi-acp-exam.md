@@ -10,7 +10,7 @@ tags:
 categories:
  
 header:
-  teaser: '/assets/images/pmlogy/PMI-ACP-Exam-Prep-min.png'
+  teaser: '/assets/images/pmblog/PMI-ACP-Exam-Prep-min.png'
 author: 'Hari Thapliyaal'
 layout: single
 excerpt: #
@@ -19,7 +19,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/PMI-ACP-Exam-Prep-min.png)   
+![](/assets/images/pmblog/PMI-ACP-Exam-Prep-min.png)   
 
 # Workshop Topics of PMI-ACP Exam
 

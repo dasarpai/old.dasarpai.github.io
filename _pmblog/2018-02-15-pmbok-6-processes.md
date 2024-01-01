@@ -9,7 +9,7 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/PMBOK6.jpg'
+  teaser: '/assets/images/pmblog/PMBOK6.jpg'
 author: 'Hari Thapliyaal'
 
 excerpt: #
@@ -17,9 +17,9 @@ author_profile: true
 share: true
 ---
 
-![PMBOK 6 Processes](/assets/images/pmlogy/PMBOK6.jpg)   
+![PMBOK 6 Processes](/assets/images/pmblog/PMBOK6.jpg)   
 
-# PMBOK 6 Processes &amp; Process Groups
+# PMBOK 6 Processes & Process Groups
 
  Project Management Body of Knowledge 6th Edition has 49 processes, across 10 knowledge areas and 5 process groups. How these 49 processes are distributed across different knowledge areas and process groups can be visualized from the tabl below.
 

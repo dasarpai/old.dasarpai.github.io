@@ -5,7 +5,7 @@ date: '2021-02-15T06:52:12+00:00'
 author: 'Hari Thapliyaal'
 permalink: '/pmblog/What-is-a-Technical-Spike'
 header:
-  teaser: /assets/images/pmlogy/pmbok-general.jpg
+  teaser: /assets/images/pmblog/pmbok-general.jpg
 tags:
     - 'Agile Terms'
 ---

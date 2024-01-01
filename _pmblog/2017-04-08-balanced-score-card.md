@@ -11,7 +11,7 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/Balance-Scorecard-min.jpg'
+  teaser: '/assets/images/pmblog/Balance-Scorecard-min.jpg'
 author: 'Hari Thapliyaal'
 layout: single
 excerpt: #
@@ -20,7 +20,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Balance-Scorecard-min.jpg)   
+![](/assets/images/pmblog/Balance-Scorecard-min.jpg)   
 
 # Balanced Score Card
 

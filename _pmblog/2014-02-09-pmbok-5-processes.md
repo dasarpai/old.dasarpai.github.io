@@ -9,14 +9,14 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/PMBOK5.jpg'
+  teaser: '/assets/images/pmblog/PMBOK5.jpg'
 author: 'Hari Thapliyaal'
 
 excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmlogy/PMBOK5.jpg)   
+![](/assets/images/pmblog/PMBOK5.jpg)   
 
 
 # PMBOK 5 Processes &amp; Process Groups

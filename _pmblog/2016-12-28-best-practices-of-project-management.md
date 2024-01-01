@@ -11,7 +11,7 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/IT-PM-Best-Practices-min.png'
+  teaser: '/assets/images/pmblog/IT-PM-Best-Practices-min.png'
 author: 'Hari Thapliyaal'
 
 excerpt: #
@@ -20,7 +20,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/IT-PM-Best-Practices-min.png)   
+![](/assets/images/pmblog/IT-PM-Best-Practices-min.png)   
 
 # 40 Commandments of Project Management
 

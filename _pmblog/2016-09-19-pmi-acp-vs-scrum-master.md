@@ -9,7 +9,7 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/PMI-ACP-Scrum-min.png'
+  teaser: '/assets/images/pmblog/PMI-ACP-Scrum-min.png'
 author: 'Hari Thapliyaal'
 
 excerpt: #
@@ -18,7 +18,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/PMI-ACP-Scrum-min.png)   
+![](/assets/images/pmblog/PMI-ACP-Scrum-min.png)   
 
 # PMI-ACP Vs. Scrum Master Certification
 

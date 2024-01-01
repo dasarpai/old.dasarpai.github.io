@@ -10,7 +10,7 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/Challenge-Team-min.jpg'
+  teaser: '/assets/images/pmblog/Challenge-Team-min.jpg'
 author: 'Hari Thapliyaal'
 
 excerpt: #
@@ -19,7 +19,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Challenge-Team-min.jpg)   
+![](/assets/images/pmblog/Challenge-Team-min.jpg)   
 
 # Challenging Your Team
 

@@ -11,7 +11,7 @@ tags:
 categories:
  
 header:
-  teaser: '/assets/images/pmlogy/Software-Bug-min.png'
+  teaser: '/assets/images/pmblog/Software-Bug-min.png'
 author: 'Hari Thapliyaal'
 
 excerpt: #
@@ -20,7 +20,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Software-Bug-min.png)   
+![](/assets/images/pmblog/Software-Bug-min.png)   
 
 # Software Testing Confusing Terms
 

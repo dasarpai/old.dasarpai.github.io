@@ -9,7 +9,7 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmlogy/Project_Success_Criteria.jpg'
+  teaser: '/assets/images/pmblog/Project_Success_Criteria.jpg'
 author: 'Hari Thapliyaal'
 layout: single
 excerpt: #
@@ -18,7 +18,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmlogy/Project_Success_Criteria.jpg)   
+![](/assets/images/pmblog/Project_Success_Criteria.jpg)   
 
 # Project Success Criteria
 
