@@ -27,22 +27,22 @@ In the recent past, we have seen a number of approaches, datasets, models, and e
 
 ## Approach
 ### HBQA Overall Approach
-![HBQA-Approach](/assets/images/hbqas/HBQA-PPT+Images/Ch3.20-HBQA-Approach.png)
+![HBQA-Approach](/assets/images/projects/hbqas/HBQA-PPT+Images/Ch3.20-HBQA-Approach.png)
 
 ### Question Answer Generation Systerm 
-![QAGS](/assets/images/hbqas/HBQA-PPT+Images/Ch3.30-QAGS.png)
+![QAGS](/assets/images/projects/hbqas/HBQA-PPT+Images/Ch3.30-QAGS.png)
 
 ### Document Retrieval Systems
-![DRS](/assets/images/hbqas/HBQA-PPT+Images/Ch3.40-DRS.png)
+![DRS](/assets/images/projects/hbqas/HBQA-PPT+Images/Ch3.40-DRS.png)
 
 ### Answer Generation System 
-![AGS](/assets/images/hbqas/HBQA-PPT+Images/Ch3.50-AGS.png)
+![AGS](/assets/images/projects/hbqas/HBQA-PPT+Images/Ch3.50-AGS.png)
 
 ### Retrieval Augmented Generation System
-![RAAGS](/assets/images/hbqas/HBQA-PPT+Images/Ch3.60-RAAGS.png)
+![RAAGS](/assets/images/projects/hbqas/HBQA-PPT+Images/Ch3.60-RAAGS.png)
 
 ### Question Answer Evaluation Metrics
-![Evaluation Metrics](/assets/images/hbqas/HBQA-PPT+Images/Ch3.70-HBQA-Evaluation-Metrics.png)
+![Evaluation Metrics](/assets/images/projects/hbqas/HBQA-PPT+Images/Ch3.70-HBQA-Evaluation-Metrics.png)
 
 ## Business Applications of Research Work
 - Teaching history without the physical teacher. We can create expert systems that understand history from different perspectives and help students learn the facts and context.
