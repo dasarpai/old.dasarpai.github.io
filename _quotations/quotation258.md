@@ -3,7 +3,7 @@ mathjax: true
 id: 9258
 title: 'Quotation 258'
 date: 2023-04-12
-permalink: '/quotations/Words-of-Socrates'
+permalink: '/quotations/Learning-Process'
 tags: [WIA Quotations] 
 categories: 
 
@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Words of Socrates
+## Learning Process
 
-![Words-of-Socrates](/assets/images/quotations/quotation258.jpg)
+![Learning Process](/assets/images/quotations/quotation258.jpg)

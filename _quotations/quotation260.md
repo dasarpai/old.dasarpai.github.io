@@ -3,7 +3,7 @@ mathjax: true
 id: 9260
 title: 'Quotation 260'
 date: 2023-04-30
-permalink: '/quotations/Words-of-Socrates'
+permalink: '/quotations/Head-vs-Heart'
 tags: [WIA Quotations] 
 categories: 
 
@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Learning Process
+## Head vs Heart
 
-![Learning Process](/assets/images/quotations/quotation260.jpg)
+![Head vs Heart](/assets/images/quotations/quotation260.jpg)

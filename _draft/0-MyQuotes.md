@@ -2928,6 +2928,14 @@ People say AI and robots do not have emotions and do not feel like humans feel j
 
 # Quotation258
 
+## Learning Process
+
+If you are learning you will not fail in life.
+
+But if you are not failing it doesn't mean your learning. You may be just passing.
+
+# Quotation259
+
 ## Words of Socrates
 Four Socratic Paradoxes
 No evil can happen to a good man.
@@ -2949,15 +2957,6 @@ An honest man is always a child.
 The unexamined life is not worth living.
 Know thyself.
 To find yourself, think for yourself.
-
-
-# Quotation259
-
-## Learning Process
-
-If you learning you will not fail in life.
-
-But if you not failing it doesn't mean your learning. You may be just passing.
 
 # Quotation260
 

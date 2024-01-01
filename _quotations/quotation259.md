@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Learning Process
+## Words of Socrates
 
-![Learning Process](/assets/images/quotations/quotation259.jpg)
+![Words-of-Socrates](/assets/images/quotations/quotation259.jpg)
