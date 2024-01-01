@@ -219,6 +219,8 @@ include:
   - _dsresoures
   - _dxlexicon
   - _dsblog
+  - _gallery
+  - _projects
   - assets
   - sitemap.xml
 exclude:
@@ -347,9 +349,23 @@ compress_html:
 # Defaults
 defaults:   
 
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: true
+      related: false
+      sidebar:
+        nav: "docs"   
+
   # _generalknwoledge
   - scope:
-      path: ""
+      path: "_gk"
       type: gk
     values:
       layout: single
@@ -364,7 +380,7 @@ defaults:
         
   # _quotations
   - scope:
-      path: ""
+      path: "_quotations"
       type: quotations
     values:
       layout: single
@@ -379,7 +395,7 @@ defaults:
   
   # _dslexicon
   - scope:
-      path: ""
+      path: "_dslexicon"
       type: dslexicon
     values:
       layout: single
@@ -394,7 +410,7 @@ defaults:
   
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -406,24 +422,10 @@ defaults:
       show_date: true
       sidebar:
         nav: "docs"    
-           
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      comments: false
-      share: true
-      related: false
-      sidebar:
-        nav: "docs"       
- 
+               
   # _dsresources
   - scope:
-      path: ""
+      path: "_dsresources"
       type: dsresources
     values:
       layout: single
@@ -437,7 +439,7 @@ defaults:
      
   # _dsblog
   - scope:
-      path: ""
+      path: "_dsblog"
       type: dsblog
     values:
       layout: single
@@ -451,7 +453,7 @@ defaults:
       
   # _wiablog
   - scope:
-      path: ""
+      path: "_wiablog"
       type: wiablog
     values:
       layout: single
@@ -465,7 +467,7 @@ defaults:
  
    # _samskrut
   - scope:
-      path: ""
+      path: "_samskrut"
       type: samskrut
     values:
       layout: single
@@ -479,7 +481,8 @@ defaults:
         
   # _pmblog
   - scope:
-      path: ""
+      type: pmblog
+      path: "_"
       type: pmblog
     values:
       layout: single
@@ -493,7 +496,7 @@ defaults:
  
   # _pmbok6
   - scope:
-      path: ""
+      path: "_pmbok6"
       type: pmbok6
     values:
       layout: single
@@ -507,7 +510,7 @@ defaults:
         
   # _pmbok6hi
   - scope:
-      path: ""
+      path: "_pmbok6hi"
       type: pmbok6hi
     values:
       layout: single
@@ -521,7 +524,7 @@ defaults:
         
   # _dscourses
   - scope:
-      path: ""
+      path: "_dscourses"
       type: dscourses
     values:
       layout: single
@@ -535,7 +538,7 @@ defaults:
  
   # _management
   - scope:
-      path: ""
+      path: "_management"
       type: management
     values:
       layout: single
@@ -547,23 +550,9 @@ defaults:
       related: false
       mathjax: true
       
-  # _pmgallery
+  # _gallery
   - scope:
-      path: "_pmgallery"
-      type: gallery
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      comments: false
-      share: true
-      related: false
-      sidebar:
-        nav: "docs" 
-        
-  # _dsgallery
-  - scope:
-      path: "_dsgallery"
+      path: "_gallery"
       type: gallery
     values:
       layout: single
@@ -577,7 +566,7 @@ defaults:
       
    # _projects
   - scope:
-      path: ""
+      path: "_projects"
       type: projects
     values:
       layout: single

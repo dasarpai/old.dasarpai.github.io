@@ -8,7 +8,7 @@ tags: [WIA Quotations]
 categories: 
 
 header:
-    teaser: /assets/images/quotations/quotation259.jpg
+    teaser: /assets/images/quotations/quotation260.jpg
 author: Hari Thapliyaal 
 excerpt:
 share: true 
@@ -16,4 +16,4 @@ share: true
 
 ## Learning Process
 
-![Learning Process](/assets/images/quotations/quotation259.jpg)
+![Learning Process](/assets/images/quotations/quotation260.jpg)

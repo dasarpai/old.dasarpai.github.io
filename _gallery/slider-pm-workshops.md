@@ -1,5 +1,5 @@
 ---
-id: 729    
+id: 810    
 title: Project Management Workshops - Select Worshops
 date: '2020-10-21T14:51:37+05:30'
 layout: slider-pm-workshops-layout

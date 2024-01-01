@@ -25,7 +25,8 @@ sidebar:
 [![Jump to PMLogy Home](https://img.shields.io/badge/Goto-PMLOGY_Home-5C2EDF)](/pmlogy-home) 
 [![Jump to Sanskrit Blogs](https://img.shields.io/badge/Goto-SanskritYatra_Home-FFF801)](/samskrutyatra-home) 
 
-[![Jump to Services](https://img.shields.io/badge/Goto-Services-008037)](/services) 
+[![Jump to AI Services](https://img.shields.io/badge/Goto-AI_Services-008037)](/datascience-courses) 
+[![Jump to Management Services](https://img.shields.io/badge/Goto-Management_Services-008037)](/management) 
 [![Jumps to Publications](https://img.shields.io/badge/Goto-Book_and_Publication-FF9A00)](/publications-home) 
 
 

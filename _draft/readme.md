@@ -1,3 +1,26 @@
+# Numbering System + Id Generation System for Website
+dsblog : 6001
+dsresources: 101
+dscourses : 301
+management : 501
+pages : 700
+gallery : 801
+projects : 851
+
+pmblog : 1000
+pmbok6hi : 2000
+pmbok6 : 3000
+samskrut : 4000
+wiablog: 5000
+gk : 7001
+quotations : 9001
+
+
+dslexicon : empty
+posts : empty
+
+
+# Process Flow
 1. Article name will have following format
 YYYY-MM-DD-#-Name.md
 2. When article is ready to publish then # should be removed from the article name and it should be copied from draft foler to main folder.

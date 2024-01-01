@@ -1,5 +1,5 @@
 ---
-id: 742
+id: 804
 title: Online Training- Data Science, AI, ML- Page 1
 date: '2020-10-21T14:51:37+05:30'
 layout: slider-online-sessions1-layout
