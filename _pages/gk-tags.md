@@ -7,7 +7,7 @@ author_profile: true
 toc: true
 toc_sticky: true
 header:
-  image: /assets/images/General-Knowledge-Banner.jpg
+  image: /assets/images/banners/General-Knowledge-Banner.jpg
 sidebar:
    nav: "docs"
 ---

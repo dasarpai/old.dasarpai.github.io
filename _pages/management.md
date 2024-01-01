@@ -8,7 +8,7 @@ entries_layout: grid
 author_profile: false
 classes: wide
 header:
-  overlay_image: /assets/images/dspost/common/pm-courses.jpg
+  overlay_image: /assets/images/banners/pm-courses-Banner.jpg
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 sidebar:
    nav: "docs"

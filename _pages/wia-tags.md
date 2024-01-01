@@ -7,7 +7,7 @@ author_profile: true
 toc: true
 toc_sticky: true
 header:
-  image: /assets/images/wiapost/WIA-Blogs-320x180.jpg
+  image: /assets/images/banners/wia-banner.jpg
 sidebar:
    nav: "docs"
 ---

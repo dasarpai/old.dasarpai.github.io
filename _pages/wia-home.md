@@ -6,7 +6,7 @@ layout: single
 permalink: /wia-home
 author_profile: false
 header:
-  overlay_image: /assets/images/wiapost/WIA-Blogs-320x180.jpg
+  overlay_image: /assets/images/banners/wia-banner.jpg
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 sidebar:
    nav: "docs"
