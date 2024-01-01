@@ -6,13 +6,13 @@ date: '2021-02-15T04:24:51+00:00'
 author: 'Hari Thapliyaal'
 
 header:
-   overlay_image: /assets/images/pmlogy/Project-Resource-Management.jpg
+   overlay_image: /assets/images/pmlogy/pmbok-general.jpg
 tags:
     - 'English Terms'
     - 'PMBOK Knowledge Areas'
 ---
 
-![](/pmbok6//assets/images/pmlogy/Project-Resource-Management.jpg)
+![](/pmbok6//assets/images/pmlogy/pmbok-general.jpg)
 
 ## Project Resource Management
 

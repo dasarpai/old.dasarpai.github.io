@@ -6,13 +6,13 @@ date: '2021-02-15T06:26:44+00:00'
 author: 'Hari Thapliyaal'
 
 header:
-   overlay_image: /assets/images/pmlogy/Project-Procurement-Management.jpg
+   overlay_image: /assets/images/pmlogy/pmbok-general.jpg
 tags:
     - 'English Terms'
     - 'PMBOK Knowledge Areas'
 ---
 
-![](/assets/images/pmlogy/Project-Procurement-Management.jpg)
+![](/assets/images/pmlogy/pmbok-general.jpg)
 
 ## Project Procurement Management
 
