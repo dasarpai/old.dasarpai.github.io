@@ -18,16 +18,19 @@ sidebar:
 }
 </style>
 
-## AI/ ML Blogs
+## Bookmarked Links
 [![Jump to AI/ML Blogs](https://img.shields.io/badge/➡️-AI_ML_Blog-blue)](/dsblog) 
+[![Jump to AI Services](https://img.shields.io/badge/➡️-AI_Services-008037)](/datascience-courses) 
+[![Jump to Management Services](https://img.shields.io/badge/➡️-Management_Services-008037)](/management) 
 [![Jump to Wisdom In Awareness Blogs](https://img.shields.io/badge/➡️-WiA_🏠-9CF5E)](/wia-home) 
-[![Jump to GK Blogs](https://img.shields.io/badge/➡️-GK_Blog-red)](/gk-blog) 
 [![Jump to PMLogy Home](https://img.shields.io/badge/➡️-PMLOGY_🏠-5C2EDF)](/pmlogy-home) 
-[![Jump to Sanskrit Blogs](https://img.shields.io/badge/✏️-SanskritYatra_Home-FFF801)](/samskrutyatra-home) 
-[![Jump to AI Services](https://img.shields.io/badge/✏️-AI_Services-008037)](/datascience-courses) 
-[![Jump to Management Services](https://img.shields.io/badge/✏️o-Management_Services-008037)](/management) 
-[![Jumps to Publications](https://img.shields.io/badge/✏️-Book_and_Publication-FF9A00)](/publications-home) 
-
+[![Jump to PMLogy Hindi](https://img.shields.io/badge/➡️-PMBoK_Hindi_🏠-5C2EDF)](/pmlogy-pmbok6hi) 
+[![Jump to Sanskrit Blogs](https://img.shields.io/badge/➡️-SanskritYatra_🏠-FFF801)](/samskrutyatra-home) 
+[![Jump to GK Blogs](https://img.shields.io/badge/➡️-GK_Blog-red)](/gk-blog) 
+[![Jumps to Publications](https://img.shields.io/badge/➡️-Book_and_Publication-FF9A00)](/publications-home) 
+[![Jumps to Aboutme](https://img.shields.io/badge/➡️-Aboutme-red)](/aboutme) 
+[![Jumps to Gallery](https://img.shields.io/badge/➡️-Gallery-red)](/gallery) 
+![QR Code](/assets/images/dasarpai-qrcode.png){: width="100"} Scan Me
 
 ## Ek Kendra for Data Science
 One place to learn everything about Data Science, AI, Machine Learning, Deep Learning, GAN, NLP, RL. This blog contains my 3 decades experience around Data Science, Project Management, AI/ML, IT Technology, Software Development, Process Automation, Business Analytics in diverse domains like Logistic, BFSI, Health, Education, Staffing, and NGO. In various roles like Programmer, Architect, Business Analyst, Data Analyst, Product Manager, Project Manager, Program Manager, Delivery Head, Trainer, Coach, Consultant, Mentors with different companies. I gained a deeper understanding about the businesses and how technology can help businesses in making better and timely decisions which can maximize the stakeholder engagement and more business. 
