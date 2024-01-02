@@ -35,6 +35,8 @@ docs:
         url: "/clients"
       - title: "Testimonial"
         url: "/testimonials"
+      - title: "/Publication"
+        url: "/publications-home"
   - title: "Data Science"
     children:   
       - title: "Data Science Blog"
