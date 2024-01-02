@@ -90,7 +90,7 @@ There are many stakeholder groups. Each holds a unique perspective and set of re
 We know, no lunch is free. So, there is a cost of AI education. Understanding these cost components is crucial for organizations planning to build or expand their AI infrastructure, as it allows for better budgeting, cost optimization, and efficient allocation of resources to maximize the benefits of AI implementation. Different components of the cost are as following:
 
 **Model Building and Evaluation**    
-**Research and Experiment Costs**: Investment in continuous research, development, and testing of AI models, algorithms, and applications incurs expenses. This includes experimentation, model iteration, and validation phases. Even if model is deployed this cost will be part of your regular expense.
+- **Research and Experiment Costs**: Investment in continuous research, development, and testing of AI models, algorithms, and applications incurs expenses. This includes experimentation, model iteration, and validation phases. Even if model is deployed this cost will be part of your regular expense.
 
 - **Hardware Costs**: This includes the purchase of high-performance computing hardware such as servers, GPUs (Graphics Processing Units), TPUs (Tensor Processing Units), or specialized AI chips. The cost varies based on the computing power required for training and deploying AI models. If you are using cloud service then it can be taken care by cloud service provider for some monthly fees. This come under IaaS, PaaS cloud services.
 
@@ -131,7 +131,7 @@ As we conclude this exploration into the world of AI in school education, one th
 
 Embracing AI in education isn't just about revolutionizing classrooms; it's about empowering minds, fostering creativity, and nurturing a generation capable of shaping a future where knowledge knows no bounds.
 
-As a philosopher and spiritual thinker I want to make all the stakeholders aware that teaching peaceful living, living in harmoney, truely respecting the resources, elders and people around is important part of teaching. And parents cannot run away from this. No matter how much technology we bring in education, parents are responsible to bring children on this planet, and they are responsible for their right upbrining. In the name of society, modernization, AI they cannot brush away their hands.
+As a philosopher and spiritual thinker I want to make all the stakeholders aware that teaching peaceful living, living in harmoney, truly respecting the resources, elders and people around is important part of teaching. And parents cannot run away from this. No matter how much technology we bring in education, parents are responsible to bring children on this planet, and they are responsible for their right upbrining. In the name of society, modernization, AI they cannot brush away their hands. Bad upbring leads to bad citizen of the nation, bad name for parents and traditions, and lifetime headache for parents and family.
 
 The journey has begun. The possibilities are endless. Together, let us embark on this transformative path towards an AI-enhanced educational frontier.
 
