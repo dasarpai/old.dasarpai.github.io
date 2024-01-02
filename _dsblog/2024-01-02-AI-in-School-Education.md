@@ -2,7 +2,7 @@
 mathjax: true
 id: 6109
 title: AI in School Education
-date: 2023-01-02
+date: 2024-01-02
 permalink: /dsblog/AI-in-School-Education
 tags: [AI-Usecases, Education] 
 categories: 
