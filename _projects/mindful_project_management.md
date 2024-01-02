@@ -4,14 +4,14 @@ title: "Book: Mindful Project Management"
 layout: single
 toc_sticky: true
 permalink: /mindful-project-management
-date: 2018-01-28
+date: 2023-12-11
 tags: [Publications]
 header:
   teaser: /assets/images/projects/mfpm-editation1.jpg
-  overlay_image: /assets/images/banners/Publication-Banner.jpg
+  overlay_image: /assets/images/projects/mfpm-editation1.jpg
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 author_profile: false
-last_modified_at: 2024-01-01T15:46:43-04:00
+last_modified_at: 2023-12-11T15:46:43-04:00
 toc: false
 mathjax: "true"
 sidebar:

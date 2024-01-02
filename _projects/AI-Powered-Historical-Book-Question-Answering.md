@@ -4,21 +4,19 @@ title: "Research: AI Powered Historical Book Question Answering"
 layout: single
 toc_sticky: true
 permalink: /AI-Powered-Historical-Book-Question-Answering
-date: 2018-01-28
+date: 2023-11-15
 tags: [Publications]
 header:
   teaser: /assets/images/projects/AI-Powered-Historical-Book-Question-Answering.jpg
-  overlay_image: /assets/images/banners/Publication-Banner.jpg
+  overlay_image: //assets/images/projects/AI-Powered-Historical-Book-Question-Answering.jpg
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 author_profile: false
-last_modified_at: 2024-01-01T15:46:43-04:00
+last_modified_at: 2023-11-15T15:46:43-04:00
 toc: false
 mathjax: "true"
 sidebar:
    nav: "docs"
 ---
-
-![Research: AI Powered Historical Book Question Answering](/assets/images/projects/AI-Powered-Historical-Book-Question-Answering.jpg)
 
 # Research: AI Powered Historical Book Question Answering
 

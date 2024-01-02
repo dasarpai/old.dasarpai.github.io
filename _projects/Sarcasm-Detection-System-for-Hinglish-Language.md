@@ -1,14 +1,14 @@
 ---
 id: 853    
-title: "Research: Sarcasm Detection in Hinglish Language"
+title: "Research: Sarcasm Detection System for Hinglish Language"
 layout: single
 toc_sticky: true
-permalink: /Sarcasm-Detection-in-Hinglish-Language
+permalink: /Sarcasm-Detection-System-for-Hinglish-Language
 date: 2020-12-28
 tags: [Publications]
 header:
-  teaser: (/assets/images/projects/Sarcasm-Detection-in-Hinglish-Language.jpg
-  overlay_image: /assets/images/banners/Publication-Banner.jpg
+  teaser: /assets/images/projects/Sarcasm-Detection-System-for-Hinglish-Language.jpg
+  overlay_image: /assets/images/projects/Sarcasm-Detection-System-for-Hinglish-Language.jpg
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 author_profile: false
 last_modified_at: 2020-12-28T15:46:43-04:00
@@ -18,10 +18,10 @@ sidebar:
    nav: "docs"
 ---
 
-# Research: Sarcasm Detection in Hinglish Language
+# Research: Sarcasm Detection System for Hinglish Language
 
 ## Abstract 
-Hinglish is third most spoken language on the planet. (Wikipage, 2020a) states that 65% of Indian population is under 35 years age. Several disruptions like low cost mobile phone, extremely cheap data, digital India initiatives by government of India has caused huge surge in Hinglish language content. Hinglish language context is available in audio, video, images, and text format. We can find Hinglish content in comment box of product, new articles, service feedback, WhatsApp, social media like YouTube, Facebook, twitter etc. To engage with consumer, it is extremely important to analyse the sentiments, but to perform sentiment analysis it is not possible to read every comment or feedback using human eyes. With the increasing number of education and sophisticated people in Indian society it is evident that people do not say negative things directly even when they want to say. Generally, an educated and advance mind is more diplomatic than less educated or village people who are not exposed enough to the world. Due to this reason people use more sarcastic language, they say negative things in positive words. Thus, it becomes necessary to identify the true sentiments in the text available on social media or product review or comment pages. In this paper we are demonstrating a system which can help in automatic sarcasm detection in Hinglish language. This work is also extracting text from Hindi twitter handles and Hindi blogs and creating a dataset. The dataset contains the tweets which are written in Roman or Devanagari scripts, words can be from any Indian language or English. In this research no word, either Indian language words written in Roman or English word written in Devanagari is translated or transliterated. A series of data cleaning activities are performed on the text extracted from blogs and twitter. We developed our dataset with the help of 3 Hinglish language speakers. Ten embeddings were built in this work. Four embeddings were finetuned using Transfer embedding, another four embedding were built using training data and standard libraries, one from lexical features and one from lexical features + best embedding. In this work we used ten classification libraries for classification work. In total we developed 109 classification models and analysed the performance of those models against the embedding and classifier used. Four classification models were developed using neural network. Our best model with fastTextWiki embedding and Naïve Bayesian classifier gives 76% accuracy, 78% recall, 75% precision, 76% F1 score and 80% AUC.	
+Hinglish is third most spoken language on the planet. Wikipage, states that 65% of Indian population is under 35 years age. Several disruptions like low cost mobile phone, extremely cheap data, digital India initiatives by government of India has caused huge surge in Hinglish language content. Hinglish language context is available in audio, video, images, and text format. We can find Hinglish content in comment box of product, new articles, service feedback, WhatsApp, social media like YouTube, Facebook, twitter etc. To engage with consumer, it is extremely important to analyse the sentiments, but to perform sentiment analysis it is not possible to read every comment or feedback using human eyes. With the increasing number of education and sophisticated people in Indian society it is evident that people do not say negative things directly even when they want to say. Generally, an educated and advance mind is more diplomatic than less educated or village people who are not exposed enough to the world. Due to this reason people use more sarcastic language, they say negative things in positive words. Thus, it becomes necessary to identify the true sentiments in the text available on social media or product review or comment pages. In this paper we are demonstrating a system which can help in automatic sarcasm detection in Hinglish language. This work is also extracting text from Hindi twitter handles and Hindi blogs and creating a dataset. The dataset contains the tweets which are written in Roman or Devanagari scripts, words can be from any Indian language or English. In this research no word, either Indian language words written in Roman or English word written in Devanagari is translated or transliterated. A series of data cleaning activities are performed on the text extracted from blogs and twitter. We developed our dataset with the help of 3 Hinglish language speakers. Ten embeddings were built in this work. Four embeddings were finetuned using Transfer embedding, another four embedding were built using training data and standard NLP libraries, one from lexical features and one from lexical features + best embedding. In this work we used ten classification libraries for classification work. In total we developed 109 classification models and analysed the performance of those models against the embedding and classifier used. Four classification models were developed using neural network. Our best model with fastTextWiki embedding and Naïve Bayesian classifier gives 76% accuracy, 78% recall, 75% precision, 76% F1 score and 80% AUC.	
 
 ## Evolution of Hinglish
 ![Evolution_Of_Hinglish](/assets/images/projects/sdhl/Images/Ch1.1-Evolution_Of_Hinglish.png)
@@ -42,7 +42,7 @@ Hinglish is third most spoken language on the planet. (Wikipage, 2020a) states t
 ## Contribution of Work
 - We created sarcasm dataset in Hinglish languages of 2000 sentences, and it can be used by other researchers to create their models or expend this dataset.
 - We identified good embedding (fastTextWiki and IndicFT) for finetuning, these are more effective for Hinglish language sarcasm detection work.
-- We established even if combine embedding with classical ML classifier we get good results, provided we have good embedding. So, the task transfer is not mandatory.
+- We established if combine embedding with classical ML classifier we get good results, provided we have good embedding.
 - We identified, if we do task transfer then which models can be used for getting good results on Hinglish Language sarcasm detection work.
 
 ## Future Recommendations

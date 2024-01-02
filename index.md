@@ -19,15 +19,14 @@ sidebar:
 </style>
 
 ## AI/ ML Blogs
-[![Jump to AI/ML Blogs](https://img.shields.io/badge/Goto-AI_ML_Blog-blue)](/dsblog) 
-[![Jump to Wisdom In Awareness Blogs](https://img.shields.io/badge/Goto-WiA_Home-9CF5E)](/wia-home) 
-[![Jump to GK Blogs](https://img.shields.io/badge/Goto-GK_Blog-red)](/gk-blog) 
-[![Jump to PMLogy Home](https://img.shields.io/badge/Goto-PMLOGY_Home-5C2EDF)](/pmlogy-home) 
-[![Jump to Sanskrit Blogs](https://img.shields.io/badge/Goto-SanskritYatra_Home-FFF801)](/samskrutyatra-home) 
-
-[![Jump to AI Services](https://img.shields.io/badge/Goto-AI_Services-008037)](/datascience-courses) 
-[![Jump to Management Services](https://img.shields.io/badge/Goto-Management_Services-008037)](/management) 
-[![Jumps to Publications](https://img.shields.io/badge/Goto-Book_and_Publication-FF9A00)](/publications-home) 
+[![Jump to AI/ML Blogs](https://img.shields.io/badge/➡️-AI_ML_Blog-blue)](/dsblog) 
+[![Jump to Wisdom In Awareness Blogs](https://img.shields.io/badge/➡️-WiA_🏠-9CF5E)](/wia-home) 
+[![Jump to GK Blogs](https://img.shields.io/badge/➡️-GK_Blog-red)](/gk-blog) 
+[![Jump to PMLogy Home](https://img.shields.io/badge/➡️-PMLOGY_🏠-5C2EDF)](/pmlogy-home) 
+[![Jump to Sanskrit Blogs](https://img.shields.io/badge/✏️-SanskritYatra_Home-FFF801)](/samskrutyatra-home) 
+[![Jump to AI Services](https://img.shields.io/badge/✏️-AI_Services-008037)](/datascience-courses) 
+[![Jump to Management Services](https://img.shields.io/badge/✏️o-Management_Services-008037)](/management) 
+[![Jumps to Publications](https://img.shields.io/badge/✏️-Book_and_Publication-FF9A00)](/publications-home) 
 
 
 ## Ek Kendra for Data Science
