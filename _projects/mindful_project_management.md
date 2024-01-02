@@ -8,8 +8,8 @@ date: 2023-12-11
 tags: [Publications]
 header:
   teaser: /assets/images/projects/mfpm-editation1.jpg
-  overlay_image: /assets/images/projects/mfpm-editation1.jpg
-  overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
+  # overlay_image: /assets/images/projects/mfpm-editation1.jpg
+  # overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 author_profile: false
 last_modified_at: 2023-12-11T15:46:43-04:00
 toc: false
@@ -17,6 +17,7 @@ mathjax: "true"
 sidebar:
    nav: "docs"
 ---
+
 ![Book: Mindful Projet Management](/assets/images/projects/mfpm-editation1.jpg)
 
 # Book: Mindful Projet Management
