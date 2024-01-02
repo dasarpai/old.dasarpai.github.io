@@ -18,19 +18,10 @@ sidebar:
 }
 </style>
 
-## Bookmarked Links
-[![Jump to AI/ML Blogs](https://img.shields.io/badge/➡️-AI_ML_Blog-blue)](/dsblog) 
-[![Jump to AI Services](https://img.shields.io/badge/➡️-AI_Services-008037)](/datascience-courses) 
-[![Jump to Management Services](https://img.shields.io/badge/➡️-Management_Services-008037)](/management) 
-[![Jump to Wisdom In Awareness Blogs](https://img.shields.io/badge/➡️-WiA_🏠-9CF5E)](/wia-home) 
-[![Jump to PMLogy Home](https://img.shields.io/badge/➡️-PMLOGY_🏠-5C2EDF)](/pmlogy-home) 
-[![Jump to PMLogy Hindi](https://img.shields.io/badge/➡️-PMBoK_Hindi_🏠-5C2EDF)](/pmlogy-pmbok6hi) 
-[![Jump to Sanskrit Blogs](https://img.shields.io/badge/➡️-SanskritYatra_🏠-FFF801)](/samskrutyatra-home) 
-[![Jump to GK Blogs](https://img.shields.io/badge/➡️-GK_Blog-red)](/gk-blog) 
-[![Jumps to Publications](https://img.shields.io/badge/➡️-Book_and_Publication-FF9A00)](/publications-home) 
-[![Jumps to Aboutme](https://img.shields.io/badge/➡️-Aboutme-red)](/aboutme) 
-[![Jumps to Gallery](https://img.shields.io/badge/➡️-Gallery-red)](/gallery) 
-![QR Code](/assets/images/dasarpai-qrcode.png){: width="100"} Scan Me
+| Scan Me | Bookmarked Links |
+|----|----|
+| ![QR Code](/assets/images/dasarpai-qrcode.png){: width="125"}  | [![Jump to AI/ML Blogs](https://img.shields.io/badge/➡️-AI_ML_Blog-blue)](/dsblog) [![Jump to AI Services](https://img.shields.io/badge/➡️-AI_Services-008037)](/datascience-courses) [![Jump to Management Services](https://img.shields.io/badge/➡️-Management_Services-008037)](/management) [![Jump to Wisdom In Awareness Blogs](https://img.shields.io/badge/➡️-WiA_🏠-9CF5E)](/wia-home) [![Jump to PMLogy Home](https://img.shields.io/badge/➡️-PMLOGY_🏠-5C2EDF)](/pmlogy-home) [![Jump to PMLogy Hindi](https://img.shields.io/badge/➡️-PMBoK_Hindi_🏠-5C2EDF)](/pmlogy-pmbok6hi) [![Jump to Sanskrit Blogs](https://img.shields.io/badge/➡️-SanskritYatra_🏠-FFF801)](/samskrutyatra-home) [![Jump to GK Blogs](https://img.shields.io/badge/➡️-GK_Blog-red)](/gk-blog) [![Jumps to Publications](https://img.shields.io/badge/➡️-Books_and_Publications-FF9A00)](/publications-home) [![Jumps to Gallery](https://img.shields.io/badge/➡️-Gallery-red)](/gallery)  |
+
 
 ## Ek Kendra for Data Science
 One place to learn everything about Data Science, AI, Machine Learning, Deep Learning, GAN, NLP, RL. This blog contains my 3 decades experience around Data Science, Project Management, AI/ML, IT Technology, Software Development, Process Automation, Business Analytics in diverse domains like Logistic, BFSI, Health, Education, Staffing, and NGO. In various roles like Programmer, Architect, Business Analyst, Data Analyst, Product Manager, Project Manager, Program Manager, Delivery Head, Trainer, Coach, Consultant, Mentors with different companies. I gained a deeper understanding about the businesses and how technology can help businesses in making better and timely decisions which can maximize the stakeholder engagement and more business. 
@@ -79,7 +70,7 @@ About Data Science Project I think, AI is also software, but AI projects are not
    
 		
 ## Summary About Me: 
-Hari Thapliyal is a vivid blogger on various subjects including Data Science, AI, Machine Learning, Project Management, Process Automation, PMO, Advait-Vedanta Philosophy, and Indian Culture. He has Master's degrees in Computers, Business Management, Data Science, and Economics. He is pursuing his Doctorate in AI (NLP) from the Swiss School of Business Management (Geneva, Switzerland). Hari has around 3 decades of experience in management & leadership, training, consulting, and coaching in technology. 16+ years in all phases of software product development. 10+ years in course design, training, coaching, and consulting on Project Management. 4+ years experience in course development, exploring, experimenting, training, coaching, and mentoring hundreds of professionals in Data Science, AI, CV, NLP, complex machine learning algorithms, statistical modeling, identifying patterns, and extracting valuable insights. He has diverse experience in planning & executing multiple projects and liaising with key stakeholders to identify & resolve business problems and deliver excellent results. In his spare time, he loves to track long-distance, meditate in some secluded place or in nature.
+Dr. Hari Thapliyal is a vivid blogger on various subjects including Data Science, AI, Machine Learning, Project Management, Process Automation, PMO, Advait-Vedanta Philosophy, and Indian Culture. He has Master's degrees in Computers, Business Management, Data Science, and Economics. He is pursuing his Doctorate in AI (NLP) from the Swiss School of Business Management (Geneva, Switzerland). Hari has around 3 decades of experience in management & leadership, training, consulting, and coaching in technology. 16+ years in all phases of software product development. 10+ years in course design, training, coaching, and consulting on Project Management. 4+ years experience in course development, exploring, experimenting, training, coaching, and mentoring hundreds of professionals in Data Science, AI, CV, NLP, complex machine learning algorithms, statistical modeling, identifying patterns, and extracting valuable insights. He has diverse experience in planning & executing multiple projects and liaising with key stakeholders to identify & resolve business problems and deliver excellent results. In his spare time, he loves to track long-distance, meditate in some secluded place or in nature.
 
 <hr>
 

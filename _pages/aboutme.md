@@ -47,7 +47,8 @@ Photo Gallery
 - Gmail (General) - [hari@dasarpai.com](mailto:hari@dasarpai.com)
 - Github - [github.com/dasarpai](https://github.com/dasarpai)  
 - WhatsApp: +91 9535-999336 
-
+  
+Scan Me - ![QR Code](/assets/images/dasarpai-qrcode.png){: width="100"} 
 
 # Resume – Dr. Hari Thapliyal
 

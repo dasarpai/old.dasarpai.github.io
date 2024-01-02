@@ -40,6 +40,6 @@ Aum Tat Sat. ॐ तत् सत्
 
 ![Hari Thapliyaal](/assets/images/Profilephoto1.jpg){: width="200"}
 
-**Hari Thapliyaal @**Bangalore
+**Dr. Hari Thapliyaal @**Bangalore
 
 Trainer, Consultant, Coach in Data Science, Machine Learning, Project Management
