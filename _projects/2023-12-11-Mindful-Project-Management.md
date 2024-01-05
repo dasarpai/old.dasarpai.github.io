@@ -1,5 +1,5 @@
 ---
-id: 851    
+id: 853    
 title: "Book: Mindful Project Management"
 layout: single
 toc_sticky: true
@@ -7,7 +7,7 @@ permalink: /mindful-project-management
 date: 2023-12-11
 tags: [Publications]
 header:
-  teaser: /assets/images/projects/mfpm-editation1.jpg
+  teaser: /assets/images/projects/mfpm-Coverpage1.jpg
   # overlay_image: /assets/images/projects/mfpm-editation1.jpg
   # overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 author_profile: false
@@ -18,7 +18,7 @@ sidebar:
    nav: "docs"
 ---
 
-![Book: Mindful Projet Management](/assets/images/projects/mfpm-editation1.jpg)
+![Book: Mindful Projet Management](/assets/images/projects/mfpm-Coverpage1.jpg)
 
 # Book: Mindful Projet Management
 ## Voyage of a Project Manager
