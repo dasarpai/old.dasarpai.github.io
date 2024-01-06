@@ -21,3 +21,5 @@ sidebar:
    nav: "docs" 
 sort_order : reverse   
 ---
+
+Welcome to this publication collection page! Besides hosting a series of four blogs dedicated to Data Science, Project Management, Philosophy, and Sanskrit, this space  serves as a hub for my literary endeavors. Dive into summaries of my research, publications, and authored books, providing a holistic view of my contributions beyond the blogosphere.

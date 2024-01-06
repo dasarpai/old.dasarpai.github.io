@@ -11,7 +11,12 @@ header:
     teaser: /assets/images/dspost/dsp6109-AI-Usecases-in-Education.jpg
 author: Hari Thapliyaal 
 excerpt:
-share: true 
+excerpt:  
+layout: single  
+author_profile: true  
+share: true
+toc: True  
+toc_sticky: true
 ---
 
 ![AI in School Education](/assets/images/dspost/dsp6109-AI-Usecases-in-Education.jpg)   

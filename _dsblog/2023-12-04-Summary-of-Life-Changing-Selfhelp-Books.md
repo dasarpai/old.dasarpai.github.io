@@ -11,9 +11,11 @@ header:
     
 excerpt_separator: "<!--more-->"  
 excerpt:  
+excerpt:  
 layout: single  
 author_profile: true  
-toc: False  
+share: true
+toc: True  
 toc_sticky: true
 ---
 
