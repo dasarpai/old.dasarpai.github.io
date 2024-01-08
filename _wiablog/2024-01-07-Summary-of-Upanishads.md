@@ -13,7 +13,9 @@ author: Hari Thapliyaal
 layout: single            
 excerpt:            
 author_profile: true            
-share: true            
+share: true   
+toc: True  
+toc_sticky: true         
 ---            
             
 ![Introduction to Upanishads](/assets/images/wiapost/5247-Introduction-to-Upanishads.jpg)            
@@ -372,6 +374,7 @@ The other 98 Upanishads are again classified according to their content as follo
 1. Tripuratapini
 
 ## Summary of Hindu Schools & their Work
+
 School | Classification | Philosophers | Texts | Concepts Originated | Further Development
 --- | --- | --- | --- | --- | --- 
 Samkhya | dualism, atheism | Kapila, Iśvarakṛṣṇa, Vachaspati Misra, Guṇaratna more.. | Samkhya Sutra, Samkhya Karika, Sāṁkhya tattvakaumudī more.. | Purusha, Prakriti, Guṇa, Satkāryavāda | absorbed into Yoga
@@ -390,7 +393,9 @@ Kashmir Shaivism | theistic monism, idealism | Sadyojyoti, Meykandar, Aghorasiva
 Raseśvara | alchemy | Vasugupta, Abhinavagupta, Jayaratha,Govinda Bhagavat, Sarvajña Rāmeśvara | Rasārṇava, Rasahṛidaya, Raseśvara siddhānta | Pārada, three modes of mercury | 
 
 ## Summary of Hindu Puranas
+
 ### Main Puranas 
+
 1. Agni : 15,400 verses
 1. Bhagavata : 18,000 verses
 1. Bhavishya : 14,500 verses
