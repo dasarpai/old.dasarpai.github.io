@@ -23,7 +23,10 @@ sidebar:
 # Book: Wisdom in Awareness
 ## Quotations and Passages for the Clarity
 
-[Kindle Read](https://www.amazon.in/dp/B0CRHX2D12)
+[Kindle Read India](https://www.amazon.in/dp/B0CRHX2D12),
+[Kindle Read US](https://www.amazon.com/dp/B0CRHX2D12), 
+[Kindle Read UK](https://www.amazon.co.uk/dp/B0CRHX2D12)   
+
 
 Human mind works best with sound, images, and smell. In the animal kingdom we are not among the strongest species. Yet we are thriving on this planet. In comparison to other animals of planet earth, our brain has evolved to the extreme. We can reason, imagine, remember many things, remember for a very long time, and we have intuition and telepathy. These capabilities came to us over millions of years of evolutionary process. Reading and writing characters, words, sentences is the latest capability in this evolutionary process. That is why every human knows how to use sounds, images, and smell for signaling and survival but many of us don't know how to read letters of a single language. Reading words, sentences and books is painful for them. But there are some who can speak, read and write poetry and philosophy in multiple languages. 
 

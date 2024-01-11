@@ -14,8 +14,8 @@ excerpt:
 layout: single  
 author_profile: true  
 share: true
-toc: True  
-toc_sticky: true
+toc: False  
+toc_sticky: False
 ---
    
 ![AI Usecases in Government](/assets/images/dspost/dsp6111-KM-Ganguli-Mahabharat-Corpus.jpg)   
@@ -25,7 +25,7 @@ toc_sticky: true
 
 1. [Adi Parva (The Book of the Beginning)](/assets/docs/MB-KMGanguli/mahabharata_01.md)   
 1. [Sabha Parva (The Book of the Assembly Hall)](/assets/docs/MB-KMGanguli/mahabharata_02.md)   
-1. [Vana Parva also Aranyaka-Parva, Aranya-Parva (The Book of the Forest)](/assets/docs/MB-KMGanguli/mahabharata_03.md)   
+1. [Vana Parva or Aranyaka-Parva (The Book of the Forest)](/assets/docs/MB-KMGanguli/mahabharata_03.md)   
 1. [Virata Parva (The Book of Virata)](/assets/docs/MB-KMGanguli/mahabharata_04.md)   
 1. [Udyoga Parva (The Book of the Effort)](/assets/docs/MB-KMGanguli/mahabharata_05.md)   
 1. [Bhishma Parva (The Book of Bhishma)](/assets/docs/MB-KMGanguli/mahabharata_06.md)   

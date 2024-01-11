@@ -71,5 +71,7 @@ Hinglish is third most spoken language on the planet. Wikipage, states that 65% 
   - English words in Roman: English words in Roman like “friend”, “love” in between Hinglish sentence e.g. “मैं अपने friend को love करता हूं”, we should  transliterate “friend” to Devanagari and we should not try to translate this. So, new sentence should be “. “मैं अपने फ्रेंड को लव करता हूं” and not like this “मैं अपने मित्र को प्यार करता हूं”
 
 ## Research Report
-Pdf file is available on the request.
+[Defence Presentation](/assets/images/projects/sdshl/SDSHL-Presentation-PPT.pdf)
+
+Details report is available on the request.
 
