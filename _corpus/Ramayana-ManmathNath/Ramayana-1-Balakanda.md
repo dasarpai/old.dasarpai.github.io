@@ -1,6 +1,6 @@
 ---
 id: 21    
-title: "Corpus: Manmath Nath - Ramayana 1"
+title: "Corpus: Manmath Nath - Ramayana 1 - Bālakāndam"
 layout: single
 toc_sticky: true
 permalink: /manmathnath-ramayana-1

@@ -1,6 +1,6 @@
 ---
 id: 4    
-title: "Corpus: KM Ganguli Mahabharat 04"
+title: "Corpus: KM Ganguli Mahabharat 04 - Virata Parva"
 layout: single
 toc_sticky: true
 permalink: /mb-kmganguli-mahabharat_04

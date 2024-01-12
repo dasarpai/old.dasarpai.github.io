@@ -1,6 +1,6 @@
 ---
 id: 27    
-title: "Corpus: Manmath Nath - Ramayana 7"
+title: "Corpus: Manmath Nath - Ramayana 7 - Uttara Kānda"
 layout: single
 toc_sticky: true
 permalink: /manmathnath-ramayana-7
@@ -40,20 +40,11 @@ Release date: June 27, 2020 [eBook #62496]
 
 Language: English
 
-
-
-
-
-
 Produced by James Simmons.
 
 This file was produced from page images at the Internet Archive.
 
-
-
-
 Transcriber’s Note
-
 
 This book was transcribed from two scans of the original found at the
 Internet Archive. Words in italics in this etext were italicized in the
@@ -61,13 +52,9 @@ original book. I have corrected obvious misspellings but I’ve left
 variant spellings alone. Inconsistent spellings of names and incorrect
 punctuation have been fixed.
 
-
-
-
                                   THE
 
                               *RĀMĀYANA.*
-
 
       TRANSLATED INTO ENGLISH PROSE FROM THE ORIGINAL SANSKRIT OF
                                 VALMIKI.
@@ -79,21 +66,14 @@ punctuation have been fixed.
 
                        *MANMATHA NATH DUTT, M.A.*
 
-
-
-
                                 CALCUTTA
 
                                   1894
 
 
-
 UTTARAKĀNDAM    
 
 SECTION I.   SECTION II.   SECTION III.   SECTION IV.   SECTION V.   SECTION VI.   SECTION VII.   SECTION VIII.   SECTION IX.   SECTION X.   SECTION XI.   SECTION XII.   SECTION XIII.   SECTION XIV.   SECTION XV.   SECTION XVI.   SECTION XVII.   SECTION XVIII.   SECTION XIX.   SECTION XX.   SECTION XX.   SECTION XXII.   SECTION XXIII.   SECTION XXIV.   SECTION XXV.   SECTION XXVI.   SECTION XXVII.   SECTION XXVIII.   SECTION XXIX.   SECTION XXX.   SECTION XXXI.   SECTION XXXII.   SECTION XXXIII.   SECTION XXXIV.   SECTION XXXV.   SECTION XXXVI.   SECTION XXXVII.   SECTION XXXVIII.   SECTION XXXIX.   SECTION XL.   SECTION XLI.   SECTION XLIII.   SECTION XLIV.   SECTION XLV.   SECTION XLVI.   SECTION XLVII.   SECTION XLVIII.   SECTION XLIX.   SECTION XLX.   SECTION LI.   SECTION LII.   SECTION LIII.   SECTION LIV.   SECTION LV.   SECTION LVI.   SECTION LVII.   SECTION LVIII.   SECTION LIX.   SECTION LX.   SECTION LXI.   SECTION LXII.   SECTION LXIII.   SECTION LXIV.   SECTION LXV.   SECTION LXVI.   SECTION LXVII.   SECTION LXVIII.   SECTION LXIX.   SECTION LXX.   SECTION LXXI.   SECTION LXXII.   SECTION LXXIII.   SECTION LXXXV.   SECTION LXXVI.   SECTION LXXVII.   SECTION LIXVIII.   SECTION LXXVIII.   SECTION LXXIX.   SECTION LXXX.   SECTION LXXXI.   SECTION LXXXII.   SECTION LXXXIII.   SECTION LXXXIV.   SECTION LXXXV.   SECTION LXXXVI.   SECTION LXXXVII.   SECTION LXXXVIII.   SECTION LXXXV.   SECTION XC.   SECTION CXI.   SECTION CXII.   SECTION XCIII.   SECTION XCIV.   SECTION XCV.   SECTION CXVI.   SECTION CXVII.   SECTION XCVIII.   SECTION XCIX.   SECTION C.   SECTION CI.   SECTION CII.   SECTION CIII.   SECTION CIV.   SECTION CV.   SECTION CVI.   SECTION CVII.   SECTION CVIII.   SECTION CIX.   SECTION CX.   SECTION CXI.   SECTION CXII.   SECTION CXIII.   SECTION ICXIV.   SECTION CXV.   SECTION CXVI.   SECTION CXVII.   SECTION CXIX.   SECTION CXX.   SECTION CXXI.   SECTION CXXII.   SECTION CXXIII.   SECTION CXXIV.   
-
-
-
 
                                   *To*
 
@@ -125,16 +105,11 @@ SECTION I.   SECTION II.   SECTION III.   SECTION IV.   SECTION V.   SECTION VI.
 
         _Help rendered by his Highness in publishing this work._
 
-
 *** START OF THE PROJECT GUTENBERG EBOOK THE RĀMĀYANA, VOLUME 4. UTTARA KĀNDA ***
 
 # UTTARAKĀNDAM
 
-
-
-
 ## SECTION I.
-
 
 On the Rākshasas having been slain, all the ascetics, for the purpose of
 congratulating Rāghava, came to Rāma as he gained (back) his kingdom.

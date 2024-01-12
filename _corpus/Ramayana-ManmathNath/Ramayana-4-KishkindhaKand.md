@@ -1,6 +1,6 @@
 ---
 id: 24    
-title: "Corpus: Manmath Nath - Ramayana 4"
+title: "Corpus: Manmath Nath - Ramayana 4 - KISHKINDHĀ KĀNDAM"
 layout: single
 toc_sticky: true
 permalink: /manmathnath-ramayana-4
