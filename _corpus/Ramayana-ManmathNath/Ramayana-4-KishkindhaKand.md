@@ -12,7 +12,7 @@ header:
   # overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 author_profile: false
 last_modified_at: 2024-01-12T15:46:43-04:00
-toc: False  
+toc: True  
 toc_sticky: False
 mathjax: "true"
 sidebar:
