@@ -18,7 +18,7 @@ sidebar:
    nav: "docs"
 ---
 
-URL: https://www.gutenberg.org/ebooks/author/49280
+**Ramayana Manmath Nath Translation (Gutenberg Project) URL**: https://www.gutenberg.org/ebooks/author/49280
 
 Produced by James Simmons.
 
