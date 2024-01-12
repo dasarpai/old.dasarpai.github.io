@@ -1,6 +1,6 @@
 ---
 id: 17    
-title: "Corpus: KM Ganguli Mahabharat 17"
+title: "Corpus: KM Ganguli Mahabharat 17 - Mahaprasthanika Parva"
 layout: single
 toc_sticky: true
 permalink: /mb-kmganguli-mahabharat_17
@@ -19,7 +19,9 @@ sidebar:
    nav: "docs"
 ---
 
-# Section 1   
+# Mahaprasthanika Parva
+
+## Section 1   
 
 Om! Having bowed down unto Narayana, and to Nara, the foremost of men, as also to the goddess Sarasvati, should the word "Jaya" be uttered.   
 
@@ -41,7 +43,7 @@ Vaishampayana said: "Having heard the particulars of the great slaughter of the 
 
 
 
-# Section 2   
+## Section 2   
 
 Vaishampayana said: "Those princes of restrained souls and devoted to Yoga, proceeding to the north, beheld Himavat, that very large mountain. Crossing the Himavat, they beheld a vast desert of sand. They then saw the mighty mountain Meru, the foremost of all high-peaked mountains. As those mighty ones were proceeding quickly, all rapt in Yoga, Yajnaseni, falling of from Yoga, dropped down on the Earth. Beholding her fallen down, Bhimasena of great strength addressed king Yudhishthira the just, saying, ‘O scorcher of foes, this princess never did any sinful act. Tell us what the cause is for which Krishna has fallen down on the Earth!’   
 
@@ -67,7 +69,7 @@ Vaishampayana continued: "Having said so, the king proceeded on. Then Bhima fell
 
 
 
-# Section 3   
+## Section 3   
 
 Vaishampayana said: "Then Shakra, causing the firmament and the Earth to be filled by a loud sound, came to the son of Pritha on a car and asked him to ascend it. Beholding his brothers fallen on the Earth, king Yudhishthira the just said unto that deity of a 1,000 eyes these words: ‘My brothers have all dropped down here. They must go with me. Without them by me I do not wish to go to Heaven, O lord of all the deities. The delicate princess (Draupadi) deserving of every comfort, O Purandara, should go with us. It behoveth thee to permit this.’   
 

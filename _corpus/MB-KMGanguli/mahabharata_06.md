@@ -1,6 +1,6 @@
 ---
 id: 6    
-title: "Corpus: KM Ganguli Mahabharat 06"
+title: "Corpus: KM Ganguli Mahabharat 06 - Bhisma Parva"
 layout: single
 toc_sticky: true
 permalink: /mb-kmganguli-mahabharat_06
@@ -19,9 +19,9 @@ sidebar:
    nav: "docs"
 ---
 
-# BHISHMA PARVA   
+# Bhishma Parva   
 
-# Section I   
+## Section I   
 
 ## (Jamvu-khanda Nirmana Parva)   
 
@@ -39,7 +39,7 @@ engaged in the transport of weapons,  players on drums and blowers of conches sh
 
 
 
-# Section II   
+## Section II   
 
 
 
@@ -57,7 +57,7 @@ Vaisampayana continued,--"That highly-blessed and holy grandsire of the Kurus, h
 
 
 
-# Section III   
+## Section III   
 
 
 
@@ -87,7 +87,7 @@ and the rain-bows drop beneficial showers. These, O king, are the indications of
 
 
 
-# Section IV   
+## Section IV   
 
 
 
@@ -97,7 +97,7 @@ Vaisampayana said,--"Having said these words unto Dhritarashtra, Vyasa took his 
 
 
 
-# Section V   
+## Section V   
 
 
 
@@ -111,7 +111,7 @@ kinds and other wealth. And it is surrounded on all sides with the salt ocean. A
 
 
 
-# Section VI   
+## Section VI   
 
 
 
@@ -131,7 +131,7 @@ herself into seven streams, became Vaswokasara, Nalini, the sin-cleansing Sarasw
 
 
 
-# Section VII   
+## Section VII   
 
 
 
@@ -149,7 +149,7 @@ ripe. In falling upon the earth these fruits make a loud noise, and then pour ou
 
 
 
-# Section VIII   
+## Section VIII   
 
 
 
@@ -161,7 +161,7 @@ Vaisampayana continued,--"The high-souled king Dhritarashtra, thus addressed by 
 
 
 
-# Section IX   
+## Section IX   
 
 
 
@@ -179,7 +179,7 @@ of creatures endued with celestial bodies as also of creatures endued with human
 
 
 
-# Section X   
+## Section X   
 
 
 
@@ -189,7 +189,7 @@ of creatures endued with celestial bodies as also of creatures endued with human
 
 
 
-# Section XI   
+## Section XI   
 
 
 
@@ -213,7 +213,7 @@ their respective occupation. No instance of theft can be seen there. Freed from 
 
 
 
-# Section XII   
+## Section XII   
 
 
 
@@ -235,7 +235,7 @@ it is very large, is forty-two thousand Yojanas, O sinless one,  as said by the 
 
 
 
-# Section XIII   
+## Section XIII   
 
 
 
@@ -247,7 +247,7 @@ Vaisampayana said,--"Possessing a knowledge of the past, the present and the fut
 
 
 
-# Section XIV   
+## Section XIV   
 
 
 
@@ -267,7 +267,7 @@ I ween, are even now grieving, beholding Bhishma slain,--Bhishma celebrated in a
 
 
 
-# Section XV   
+## Section XV   
 
 
 
@@ -281,7 +281,7 @@ and do thou speedily urge all our divisions (to advance). That hath now come to 
 
 
 
-# Section XVI   
+## Section XVI   
 
 
 
@@ -289,7 +289,7 @@ Sanjaya said,--"When the night had passed away, loud became the noise made by th
 
 
 
-# Section XVII   
+## Section XVII   
 
 
 
@@ -301,7 +301,7 @@ adorned with Yantras,  lances, quivers and standards, looked exceedingly beautif
 
 
 
-# Section XVIII   
+## Section XVIII   
 
 
 
@@ -309,7 +309,7 @@ Sanjaya said,--"Soon after, O king, a loud uproar, causing the heart to tremble 
 
 
 
-# Section XIX   
+## Section XIX   
 
 
 
@@ -325,7 +325,7 @@ jingling noise like that of a forest of palmyra trees (when moved by the wind). 
 
 
 
-# Section XX   
+## Section XX   
 
 
 
@@ -335,7 +335,7 @@ Sanjaya said,--"Both armies, when arrayed, were equally joyful, O king. Both arm
 
 
 
-# Section XXI   
+## Section XXI   
 
 
 
@@ -345,7 +345,7 @@ of transcendent glory. With our troops we have become doubtful (of success), O g
 
 
 
-# Section XXII   
+## Section XXII   
 
 
 
@@ -357,7 +357,7 @@ his bare hands, poundeth to dust men, horses, and elephants,--that strong-armed 
 
 
 
-# Section XXIII   
+## Section XXIII   
 
 
 
@@ -381,7 +381,7 @@ Yakshas, Rakshasas, and Pisachas. He can have no enemies; he hath no fear, from 
 
 
 
-# Section XXIV   
+## Section XXIV   
 
 
 
@@ -391,7 +391,7 @@ Sanjaya said,--"The combatants of both armies were cheerful then and the flowery
 
 
 
-# Section XXV   
+## Section XXV   
 
 
 
@@ -419,7 +419,7 @@ Sanjaya continued,--"Having spoken thus on the field of battle, Arjuna, his mind
 
 
 
-# Section XXVI   
+## Section XXVI   
 
 
 
@@ -451,7 +451,7 @@ O Partha, is the divine state. Attaining to it, one is never deluded. Abiding in
 
 
 
-# Section XXVII   
+## Section XXVII   
 
 
 
@@ -473,7 +473,7 @@ mind is the knowledge. But which is superior to knowledge is He.  Thus knowing t
 
 
 
-# Section XXVIII   
+## Section XXVIII   
 
 
 
@@ -493,7 +493,7 @@ this doubt of thine that is born of ignorance and that dwelleth in thy mind, bet
 
 
 
-# Section XXIX   
+## Section XXIX   
 
 
 
@@ -509,7 +509,7 @@ wrath, is emancipated, indeed. Knowing me to be enjoyer of all sacrifices and as
 
 
 
-# Section XXX   
+## Section XXX   
 
 
 
@@ -533,7 +533,7 @@ and then reacheth the supreme goal. The devotee is superior to ascetics engaged 
 
 
 
-# Section XXXI   
+## Section XXXI   
 
 
 
@@ -547,7 +547,7 @@ taking refuge in me, strive for release from decay and death, know Brahman, the 
 
 
 
-# Section XXXII   
+## Section XXXII   
 
 
 
@@ -563,7 +563,7 @@ attaineth to it all, and (also) attaineth the Supreme and Primeval seat.'
 
 
 
-# Section XXXIII   
+## Section XXXIII   
 
 
 
@@ -577,7 +577,7 @@ is ever lost. For, O son of Pritha, even they who may be of sinful birth, women,
 
 
 
-# Section XXXIV   
+## Section XXXIV   
 
 
 
@@ -597,7 +597,7 @@ immobile, which can exist without me. There is no end, O chastiser of foes, of m
 
 
 
-# Section XXXV   
+## Section XXXV   
 
 
 
@@ -635,7 +635,7 @@ of being seen. Even the gods are always desirous of becoming spectators of this 
 
 
 
-# Section XXXVI   
+## Section XXXVI   
 
 
 
@@ -649,7 +649,7 @@ and pain, who is forgiving, contented, always devoted, of subdued, soul, firm of
 
 
 
-# Section XXXVII   
+## Section XXXVII   
 
 
 
@@ -663,7 +663,7 @@ mighty lord, and also the Supreme Soul.  He who thus knows Spirit, and Nature, w
 
 
 
-# Section XXXVIII   
+## Section XXXVIII   
 
 
 
@@ -681,7 +681,7 @@ death, decrepitude, and misery.'
 
 
 
-# Section XXXIX   
+## Section XXXIX   
 
 
 
@@ -695,7 +695,7 @@ am the knower of the Vedas.  There are these two entities in the world, viz., th
 
 
 
-# Section XL   
+## Section XL   
 
 
 
@@ -707,7 +707,7 @@ conduct, nor truth exist in them.  They say that the universe is void of truth, 
 
 
 
-# Section XLI   
+## Section XLI   
 
 
 
@@ -719,7 +719,7 @@ conduct, nor truth exist in them.  They say that the universe is void of truth, 
 
 
 
-# Section XLII   
+## Section XLII   
 
 
 
@@ -747,7 +747,7 @@ End of the Bhagavad Gita
 
 
 
-# Section XLIII   
+## Section XLIII   
 
 
 
@@ -835,7 +835,7 @@ the kindness to kinsmen, displayed at the proper season by those high-souled per
 
 
 
-# Section XLIV   
+## Section XLIV   
 
 
 
@@ -849,7 +849,7 @@ and awful battle, thy father (Bhishma) shone, transcending that countless host.
 
 
 
-# Section XLV   
+## Section XLV   
 
 
 
@@ -863,7 +863,7 @@ against foot-soldier. The conflict then became confused and fierce in the extrem
 
 
 
-# Section XLVI   
+## Section XLVI   
 
 
 
@@ -875,7 +875,7 @@ fell upon (their foes) with swords, shields and battle-axes. And some elephants 
 
 
 
-# Section XLVII   
+## Section XLVII   
 
 
 
@@ -887,7 +887,7 @@ Madras who had already entered the jaws of Death. And then commenced a battle, t
 
 
 
-# Section XLVIII   
+## Section XLVIII   
 
 
 
@@ -907,7 +907,7 @@ smitten in that combat with arrows shot from Bhishma's bow, Sweta, leaving his b
 
 
 
-# Section XLIX   
+## Section XLIX   
 
 
 
@@ -921,7 +921,7 @@ merge into another force. And thus all were filled with wonder.  Then Salya, mac
 
 
 
-# Section L   
+## Section L   
 
 
 
@@ -933,7 +933,7 @@ those of Indra's bow,  coursing through the air like a ranger of the skies, and 
 
 
 
-# Section LI   
+## Section LI   
 
 
 
@@ -943,7 +943,7 @@ Devadatta. And Vrikodara of terrible deeds blew the huge conch called Paundra. A
 
 
 
-# Section LII   
+## Section LII   
 
 
 
@@ -955,7 +955,7 @@ afflicted in battle by the son of Pritha. 'This mighty son of Pandu, O sire, acc
 
 
 
-# Section LIII   
+## Section LIII   
 
 
 
@@ -967,7 +967,7 @@ of Panchala alighted from his car, mace in hand, displaying great prowess. But b
 
 
 
-# Section LIV   
+## Section LIV   
 
 
 
@@ -983,7 +983,7 @@ Ketumat, the prince of the Kalingas, and Sakradeva also of that country and all 
 
 
 
-# Section LV   
+## Section LV   
 
 
 
@@ -995,7 +995,7 @@ with (our) troops as he alone is competent to deal with them. He is incapable of
 
 
 
-# Section LVI   
+## Section LVI   
 
 
 
@@ -1003,7 +1003,7 @@ Sanjaya said,--"When the night having passed away, the dawn came, Santanu's son 
 
 
 
-# Section LVII   
+## Section LVII   
 
 
 
@@ -1013,7 +1013,7 @@ so the formidable array of the Pandava also, protected by Savyasachin, and well-
 
 
 
-# Section LVIII   
+## Section LVIII   
 
 
 
@@ -1021,7 +1021,7 @@ Sanjaya said, "Then those kings, excited with rage, beholding Phalguni in battle
 
 
 
-# Section LIX   
+## Section LIX   
 
 
 
@@ -1035,7 +1035,7 @@ united together, along with Bhishma himself, have on battle, by the prowess of h
 
 
 
-# Section LX   
+## Section LX   
 
 
 
@@ -1049,7 +1049,7 @@ and cased in a handsome and golden coat of mail, rushing out of the ranks, quick
 
 
 
-# Section LXI   
+## Section LXI   
 
 
 
@@ -1057,7 +1057,7 @@ Sanjaya said, "And Drona's son, and Bhurisravas, and Chitrasena, O sire, and the
 
 
 
-# Section LXII   
+## Section LXII   
 
 
 
@@ -1071,7 +1071,7 @@ mace to resemble the club of Yama and possessed of the sound of Indra's bolt. An
 
 
 
-# Section LXIII   
+## Section LXIII   
 
 
 
@@ -1079,7 +1079,7 @@ Sanjaya said, "When that elephant division was exterminated, thy son Duryodhana 
 
 
 
-# Section LXIV   
+## Section LXIV   
 
 
 
@@ -1087,7 +1087,7 @@ Sanjaya said, "Then, O king, Bhurisravas, excited with great wrath, pierced Saty
 
 
 
-# Section LXV   
+## Section LXV   
 
 
 
@@ -1105,7 +1105,7 @@ acquainted with the highest morality, uttered these high words: Thou art the Glo
 
 
 
-# Section LXVI   
+## Section LXVI   
 
 
 
@@ -1115,7 +1115,7 @@ acquainted with the highest morality, uttered these high words: Thou art the Glo
 
 
 
-# Section LXVII   
+## Section LXVII   
 
 
 
@@ -1127,7 +1127,7 @@ the Grandsire of all the worlds. Him, O king, the sages call Hrishikesa (the lor
 
 
 
-# Section LXVIII   
+## Section LXVIII   
 
 
 
@@ -1139,7 +1139,7 @@ began to regard highly both Kesava and these mighty car-warriors, viz., the sons
 
 
 
-# Section LXIX   
+## Section LXIX   
 
 
 
@@ -1151,7 +1151,7 @@ Then, O king, thy son with a large force, desirous of winning great glory, proce
 
 
 
-# Section LXX   
+## Section LXX   
 
 
 
@@ -1161,7 +1161,7 @@ fences, nothing could be distinguished.  And all over the field which looked lik
 
 
 
-# Section LXXI   
+## Section LXXI   
 
 
 
@@ -1171,7 +1171,7 @@ were no clouds in the sky, yet flashes of lightning were seen. And all the point
 
 
 
-# Section LXXII   
+## Section LXXII   
 
 
 
@@ -1179,7 +1179,7 @@ Sanjaya said, "Sikhandin with Virata king of the Matsyas speedily approached Bhi
 
 
 
-# Section LXXIII   
+## Section LXXIII   
 
 
 
@@ -1189,7 +1189,7 @@ Sanjaya said, "King Virata then pierced that mighty car-warrior, viz., Bhishma, 
 
 
 
-# Section LXXIV   
+## Section LXXIV   
 
 
 
@@ -1201,7 +1201,7 @@ other's car-steeds. And both deprived of their cars, those mighty warriors jumpe
 
 
 
-# Section LXXV   
+## Section LXXV   
 
 
 
@@ -1213,7 +1213,7 @@ Sanjaya said, "Having rested for a while, O king, both the Kurus and the Pandava
 
 
 
-# Section LXXVI   
+## Section LXXVI   
 
 
 
@@ -1221,7 +1221,7 @@ Dhritarashtra said, "Our army is possessed of many excellencies, consisting of d
 
 
 
-# Section LXXVII   
+## Section LXXVII   
 
 
 
@@ -1237,7 +1237,7 @@ towards him with impetuosity. And remembering the bread he had eaten of his mast
 
 
 
-# Section LXXVIII   
+## Section LXXVIII   
 
 
 
@@ -1245,7 +1245,7 @@ Sanjaya said, "Then king Duryodhana, regaining his senses, once more began to re
 
 
 
-# Section LXXIX   
+## Section LXXIX   
 
 
 
@@ -1253,7 +1253,7 @@ Sanjaya said, "Then Abhimanyu, accompanied by Bhimasena pursuing thy sons, affli
 
 
 
-# Section LXXX   
+## Section LXXX   
 
 
 
@@ -1261,7 +1261,7 @@ Sanjaya said, "Then when the sun assumed a red hue, king Duryodhana, desirous of
 
 
 
-# Section LXXXI   
+## Section LXXXI   
 
 
 
@@ -1271,7 +1271,7 @@ I wish to give thee victory and joy. For thy sake I do not at all dissemble. The
 
 
 
-# Section LXXXII   
+## Section LXXXII   
 
 
 
@@ -1285,7 +1285,7 @@ checked by his myriads of arrows. And there among those thousands of kings and s
 
 
 
-# Section LXXXIII   
+## Section LXXXIII   
 
 
 
@@ -1303,7 +1303,7 @@ car-warrior Bhima. Indeed, he overwhelmed the latter entirely, like a mighty mas
 
 
 
-# Section LXXXIV   
+## Section LXXXIV   
 
 
 
@@ -1323,7 +1323,7 @@ impetuosity of Garuda himself, shot by him, pierced the ruler of the Madras thro
 
 
 
-# Section LXXXV   
+## Section LXXXV   
 
 
 
@@ -1337,7 +1337,7 @@ O king, became hopeless of their lives, O Bharata. Checking, however, that wrath
 
 
 
-# Section LXXXVI   
+## Section LXXXVI   
 
 
 
@@ -1347,7 +1347,7 @@ Jayadratha. Then Jayadratha, with five hundred terrible arrows of keen points an
 
 
 
-# Section LXXXVII   
+## Section LXXXVII   
 
 
 
@@ -1359,7 +1359,7 @@ similarly Satyaki also, O king, and Dhrishtadyumna, the son of Prishata, surroun
 
 
 
-# Section LXXXVIII   
+## Section LXXXVIII   
 
 
 
@@ -1369,7 +1369,7 @@ from crests of hills. 1 And brave foot-soldiers, battling with their bare arms o
 
 
 
-# Section LXXXIX   
+## Section LXXXIX   
 
 
 
@@ -1383,7 +1383,7 @@ Sanjaya continued. "Hearing these cruel words of Duryodhana, thy sire Devavrata 
 
 
 
-# Section XC   
+## Section XC   
 
 
 
@@ -1397,7 +1397,7 @@ Kurus and the Pandavas, becoming fierce and awful, began to swell the population
 
 
 
-# Section XCI   
+## Section XCI   
 
 
 
@@ -1415,7 +1415,7 @@ forth blood in torrents. Then (Alamvusha), the mighty son of Rishyasringa, behol
 
 
 
-# Section XCII   
+## Section XCII   
 
 
 
@@ -1425,7 +1425,7 @@ Sanjaya said, "Beholding Iravat slain in battle, the Rakshasa Ghatotkacha, the s
 
 
 
-# Section XCIII   
+## Section XCIII   
 
 
 
@@ -1437,7 +1437,7 @@ pressed. Beholding that invincible division protected by those mighty car-warrio
 
 
 
-# Section XCIV   
+## Section XCIV   
 
 
 
@@ -1449,7 +1449,7 @@ consequence of the juice (trickling down their temples and cheeks).  and no long
 
 
 
-# Section XCV   
+## Section XCV   
 
 
 
@@ -1457,7 +1457,7 @@ Sanjaya said, "Beholding his own troops slain, king Duryodhana then excited with
 
 
 
-# Section XCVI   
+## Section XCVI   
 
 
 
@@ -1467,7 +1467,7 @@ Dasarnas then, on an elephant that resembled a mountain, rushed towards Bhagadat
 
 
 
-# Section XCVII   
+## Section XCVII   
 
 
 
@@ -1483,7 +1483,7 @@ like a damsel adorned with diverse kinds of ornaments. And there, with other ele
 
 
 
-# Section XCVIII   
+## Section XCVIII   
 
 
 
@@ -1491,7 +1491,7 @@ Sanjaya said, "Then king Duryodhana, and Sakuni the son of Suvala, and thy son D
 
 
 
-# Section XCIX   
+## Section XCIX   
 
 
 
@@ -1505,7 +1505,7 @@ Bhishma regarded them, O king, as commands to himself. Filled with great grief a
 
 
 
-# Section C   
+## Section C   
 
 
 
@@ -1519,7 +1519,7 @@ headed by Bhimasena, and desirous of victory in battle proceeded, for battling w
 
 
 
-# Section CI   
+## Section CI   
 
 
 
@@ -1529,7 +1529,7 @@ possessed of wealth of arms, was then immersed in that inexhaustible ocean of (K
 
 
 
-# Section CII   
+## Section CII   
 
 
 
@@ -1541,7 +1541,7 @@ elephants, and steeds, surrounded Bhishma in that battle and protected him from 
 
 
 
-# Section CIII   
+## Section CIII   
 
 
 
@@ -1551,7 +1551,7 @@ Sanjaya said, "In battle Drona never recognises Partha as dear to himself. Parth
 
 
 
-# Section CIV   
+## Section CIV   
 
 
 
@@ -1561,7 +1561,7 @@ words uttered by all the combatants, thy son Duryodhana, that offender against a
 
 
 
-# Section CV   
+## Section CV   
 
 
 
@@ -1571,7 +1571,7 @@ and steeds,  surrounded Bhishma in that battle, for the sake of rescuing him of 
 
 
 
-# Section CVI   
+## Section CVI   
 
 
 
@@ -1579,7 +1579,7 @@ and steeds,  surrounded Bhishma in that battle, for the sake of rescuing him of 
 
 
 
-# Section CVII   
+## Section CVII   
 
 
 
@@ -1589,7 +1589,7 @@ Sanjaya said, "Then thy sire, excited with wrath, began to strike the Parthas an
 
 
 
-# Section CVIII   
+## Section CVIII   
 
 
 
@@ -1615,7 +1615,7 @@ Sanjaya continued, "Having settled this with Bhishma's permission, the Pandavas,
 
 
 
-# Section CIX   
+## Section CIX   
 
 
 
@@ -1633,7 +1633,7 @@ Sanjaya continued, "Having said so, Sikhandin in that battle pierced Bhishma wit
 
 
 
-# Section CX   
+## Section CX   
 
 
 
@@ -1645,7 +1645,7 @@ Sanjaya said, "While fighting in that battle, O bull of Bharata's race, neither 
 
 
 
-# Section CXI   
+## Section CXI   
 
 
 
@@ -1655,7 +1655,7 @@ about Bhishma's car. And then, O king we beheld a highly wonderful incident, viz
 
 
 
-# Section CXII   
+## Section CXII   
 
 
 
@@ -1665,7 +1665,7 @@ however, desirous of Bhishma's life, pierced Abhimanyu in that battle with five 
 
 
 
-# Section CXIII   
+## Section CXIII   
 
 
 
@@ -1675,7 +1675,7 @@ in wrath. O son, this is not the time when dependants should take care of their 
 
 
 
-# Section CXIV   
+## Section CXIV   
 
 
 
@@ -1683,7 +1683,7 @@ Sanjaya said, "Hearing these words of the high-souled Drona, Bhagadatta and Krip
 
 
 
-# Section CXV   
+## Section CXV   
 
 
 
@@ -1691,7 +1691,7 @@ Sanjaya said, "Arjuna covered with his straight shafts the mighty car-warrior Sa
 
 
 
-# Section CXVI   
+## Section CXVI   
 
 
 
@@ -1703,7 +1703,7 @@ the Pandavas, O tiger among men, was fierce in the extreme, like that between tw
 
 
 
-# Section CXVII   
+## Section CXVII   
 
 
 
@@ -1725,7 +1725,7 @@ abandoning that son of Pandu, quickly proceeded, O king, against the car of Drup
 
 
 
-# Section CXVIII   
+## Section CXVIII   
 
 
 
@@ -1739,7 +1739,7 @@ through ant-hills. Arjuna then slew Dussasana's steeds and then felled his chari
 
 
 
-# Section CXIX   
+## Section CXIX   
 
 
 
@@ -1753,7 +1753,7 @@ In days of old, O sire, the intelligent Rama had imparted to Bhishma of glorious
 
 
 
-# Section CXX   
+## Section CXX   
 
 
 
@@ -1771,7 +1771,7 @@ world,  all blew their great conches. And the Somakas and the Panchalas all rejo
 
 
 
-# Section CXXI   
+## Section CXXI   
 
 
 
@@ -1781,7 +1781,7 @@ Dhritarashtra said, 'Alas, what was the state of (my) warriors, O Sanjaya, when 
 
 
 
-# Section CXXII   
+## Section CXXII   
 
 
 
@@ -1793,7 +1793,7 @@ Then at the proper time, the mighty Madhava, approaching the Pandavas, those mig
 
 
 
-# Section CXXIII   
+## Section CXXIII   
 
 
 
@@ -1803,7 +1803,7 @@ Then at the proper time, the mighty Madhava, approaching the Pandavas, those mig
 
 
 
-# Section CXXIV   
+## Section CXXIV   
 
 
 

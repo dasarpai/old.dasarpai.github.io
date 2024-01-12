@@ -1,6 +1,6 @@
 ---
 id: 7    
-title: "Corpus: KM Ganguli Mahabharat 07"
+title: "Corpus: KM Ganguli Mahabharat 07 - Drona Parva"
 layout: single
 toc_sticky: true
 permalink: /mb-kmganguli-mahabharat_07
@@ -19,9 +19,11 @@ sidebar:
    nav: "docs"
 ---
 
-# Section I   
+# Drona Parva 
 
-## (Dronabhisheka Parva)    
+## Section I   
+
+   
 
 OM! HAVING BOWED down unto Narayan, and unto that most exalted of male beings, viz., Nara, and unto the goddess Saraswati also, must the word Jaya be uttered.   
 
@@ -41,7 +43,7 @@ mighty car-warriors, was by Bhishma classed as an Ardha-ratha, although that bul
 
 
 
-# Section II   
+## Section II   
 
 
 
@@ -59,7 +61,7 @@ with every necessary, as also with weapons, and unto which are yoked excellent a
 
 
 
-# Section III   
+## Section III   
 
 
 
@@ -67,7 +69,7 @@ with every necessary, as also with weapons, and unto which are yoked excellent a
 
 
 
-# Section IV   
+## Section IV   
 
 
 
@@ -79,7 +81,7 @@ born of the same womb. Without falsifying, therefore, thy relationship with Kuru
 
 
 
-# Section V   
+## Section V   
 
 
 
@@ -91,7 +93,7 @@ born of the same womb. Without falsifying, therefore, thy relationship with Kuru
 
 
 
-# Section VI   
+## Section VI   
 
 
 
@@ -103,7 +105,7 @@ born of the same womb. Without falsifying, therefore, thy relationship with Kuru
 
 
 
-# Section VII   
+## Section VII   
 
 
 
@@ -121,7 +123,7 @@ Pandavas and the Srinjayas, shaken by Drona with his shafts, repeatedly broke li
 
 
 
-# Section VIII   
+## Section VIII   
 
 
 
@@ -131,7 +133,7 @@ achieved the most difficult feats, he hath, at last, been slain by the Pandavas 
 
 
 
-# Section IX   
+## Section IX   
 
 
 
@@ -141,7 +143,7 @@ weapon? Of a proud spirit, he was yet often humiliated and had to suffer, pain o
 
 
 
-# Section X   
+## Section X   
 
 
 
@@ -153,7 +155,7 @@ uproar and awful visage, wielding the bow Gandiva incessantly pours on my warrio
 
 
 
-# Section XI   
+## Section XI   
 
 
 
@@ -165,7 +167,7 @@ are seen by men as; two separate forms, though in reality they are both possesse
 
 
 
-# Section XII   
+## Section XII   
 
 
 
@@ -177,7 +179,7 @@ are seen by men as; two separate forms, though in reality they are both possesse
 
 
 
-# Section XIII   
+## Section XIII   
 
 
 
@@ -189,7 +191,7 @@ are seen by men as; two separate forms, though in reality they are both possesse
 
 
 
-# Section XIV   
+## Section XIV   
 
 
 
@@ -207,7 +209,7 @@ of hostile heroes, then began to scorch that division of the Kaurava army like S
 
 
 
-# Section XV   
+## Section XV   
 
 
 
@@ -217,7 +219,7 @@ of hostile heroes, then began to scorch that division of the Kaurava army like S
 
 
 
-# Section XVI   
+## Section XVI   
 
 
 
@@ -225,7 +227,7 @@ of hostile heroes, then began to scorch that division of the Kaurava army like S
 
 
 
-# Section XVII   
+## Section XVII   
 
 
 
@@ -243,7 +245,7 @@ words, O king, those heroes then marched to battle, summoning Arjuna towards the
 
 
 
-# Section XVIII   
+## Section XVIII   
 
 
 
@@ -253,7 +255,7 @@ cardinal and subsidiary. And because it was an open plain covered only with men,
 
 
 
-# Section XIX   
+## Section XIX   
 
 
 
@@ -261,7 +263,7 @@ cardinal and subsidiary. And because it was an open plain covered only with men,
 
 
 
-# Section XX   
+## Section XX   
 
 
 
@@ -277,7 +279,7 @@ the points of their tusks, were thrown up by elephants, with the warriors mounte
 
 
 
-# Section XXI   
+## Section XXI   
 
 
 
@@ -293,7 +295,7 @@ kings and the princes of thy army, with upraised weapons, all rushed for support
 
 
 
-# Section XXII   
+## Section XXII   
 
 
 
@@ -309,7 +311,7 @@ kings and the princes of thy army, with upraised weapons, all rushed for support
 
 
 
-# Section XXIII   
+## Section XXIII   
 
 
 
@@ -337,7 +339,7 @@ was rushing to battle like Indra himself following the Asuras for smiting them. 
 
 
 
-# Section XXIV   
+## Section XXIV   
 
 
 
@@ -353,7 +355,7 @@ straight shaft to Yama's abode.  Upon the fall of the heroic Ruchiparvan, Subhad
 
 
 
-# Section XXV   
+## Section XXV   
 
 
 
@@ -363,7 +365,7 @@ car, could be seen. Then Janardana became deprived of his senses and perspired g
 
 
 
-# Section XXVI   
+## Section XXVI   
 
 
 
@@ -373,7 +375,7 @@ keep the elephant on his left. Dhananjaya, although he thus got the opportunity 
 
 
 
-# Section XXVII   
+## Section XXVII   
 
 
 
@@ -383,7 +385,7 @@ keep the elephant on his left. Dhananjaya, although he thus got the opportunity 
 
 
 
-# Section XXVIII   
+## Section XXVIII   
 
 
 
@@ -395,7 +397,7 @@ could not then see Arjuna. Only the twang of Gandivas was heard by us from off t
 
 
 
-# Section XXIX   
+## Section XXIX   
 
 
 
@@ -411,7 +413,7 @@ with a shield and an excellent sword, desired to sever from Aswatthaman's trunk 
 
 
 
-# Section XXX   
+## Section XXX   
 
 
 
@@ -421,7 +423,7 @@ of all persons acquainted with weapons, invoked into existence the Agneya weapon
 
 
 
-# Section XXXI   
+## Section XXXI   
 
 
 
@@ -439,7 +441,7 @@ of all persons acquainted with weapons, invoked into existence the Agneya weapon
 
 
 
-# Section XXXII   
+## Section XXXII   
 
 
 
@@ -453,7 +455,7 @@ of all persons acquainted with weapons, invoked into existence the Agneya weapon
 
 
 
-# Section XXXIII   
+## Section XXXIII   
 
 
 
@@ -473,7 +475,7 @@ of all persons acquainted with weapons, invoked into existence the Agneya weapon
 
 
 
-# Section XXXIV   
+## Section XXXIV   
 
 
 
@@ -483,7 +485,7 @@ of all persons acquainted with weapons, invoked into existence the Agneya weapon
 
 
 
-# Section XXXV   
+## Section XXXV   
 
 
 
@@ -493,7 +495,7 @@ of thy sons' endeavouring to frighten him thus, displayed the wonderful strength
 
 
 
-# Section XXXVI   
+## Section XXXVI   
 
 
 
@@ -507,7 +509,7 @@ of thy sons' endeavouring to frighten him thus, displayed the wonderful strength
 
 
 
-# Section XXXVII   
+## Section XXXVII   
 
 
 
@@ -523,7 +525,7 @@ those mighty car-warriors, viz., the (five) sons of Draupadi, who had on their b
 
 
 
-# Section XXXIX   
+## Section XXXIX   
 
 
 
@@ -531,7 +533,7 @@ those mighty car-warriors, viz., the (five) sons of Draupadi, who had on their b
 
 
 
-# Section XL   
+## Section XL   
 
 
 
@@ -547,7 +549,7 @@ foremost of feats. What gifts did he make, what libations had he poured, what sa
 
 
 
-# Section XLI   
+## Section XLI   
 
 
 
@@ -555,7 +557,7 @@ foremost of feats. What gifts did he make, what libations had he poured, what sa
 
 
 
-# Section XLII   
+## Section XLII   
 
 
 
@@ -565,7 +567,7 @@ charioteers, and steeds; as also with broken cars, and elephants, and steeds. Th
 
 
 
-# Section XLIII   
+## Section XLIII   
 
 
 
@@ -573,7 +575,7 @@ charioteers, and steeds; as also with broken cars, and elephants, and steeds. Th
 
 
 
-# Section XLIV   
+## Section XLIV   
 
 
 
@@ -585,7 +587,7 @@ beautiful nose, beautiful eye-brows, and exceedingly good-looking curls. Beholdi
 
 
 
-# Section XLV   
+## Section XLV   
 
 
 
@@ -597,7 +599,7 @@ thus, the son of Subhadra careered it battle, paralysing thy warriors,---those g
 
 
 
-# Section XLVI   
+## Section XLVI   
 
 
 
@@ -607,7 +609,7 @@ Suvarchas, and Suryabhasa. He then pierced Suvala's son. The latter piercing Abh
 
 
 
-# Section XLVII   
+## Section XLVII   
 
 
 
@@ -619,7 +621,7 @@ the earth, crushed by elephants and looking like agitated lakes, with large bodi
 
 
 
-# Section XLVIII   
+## Section XLVIII   
 
 
 
@@ -627,7 +629,7 @@ the earth, crushed by elephants and looking like agitated lakes, with large bodi
 
 
 
-# Section XLIX   
+## Section XLIX   
 
 
 
@@ -635,7 +637,7 @@ the earth, crushed by elephants and looking like agitated lakes, with large bodi
 
 
 
-# Section L   
+## Section L   
 
 
 
@@ -659,7 +661,7 @@ Death? Whose (offspring) is Death? What is Death? Why does Death take away creat
 
 
 
-# Section LI   
+## Section LI   
 
 
 
@@ -673,7 +675,7 @@ Death? Whose (offspring) is Death? What is Death? Why does Death take away creat
 
 
 
-# Section LII   
+## Section LII   
 
 
 
@@ -695,7 +697,7 @@ rage, for battle.'"
 
 
 
-# Section LIII   
+## Section LIII   
 
 
 
@@ -711,7 +713,7 @@ four cardinal virtues (viz., ascetic penances, truth, compassion, and liberality
 
 
 
-# Section LVI   
+## Section LVI   
 
 
 
@@ -721,7 +723,7 @@ therefore, much superior to thy son, thou shouldst not grieve saying, 'Oh Swaity
 
 
 
-# Section LVII   
+## Section LVII   
 
 
 
@@ -729,7 +731,7 @@ therefore, much superior to thy son, thou shouldst not grieve saying, 'Oh Swaity
 
 
 
-# Section LVIII   
+## Section LVIII   
 
 
 
@@ -737,7 +739,7 @@ therefore, much superior to thy son, thou shouldst not grieve saying, 'Oh Swaity
 
 
 
-# Section LIX   
+## Section LIX   
 
 
 
@@ -747,7 +749,7 @@ and the gods. Men were each blessed with a thousand children, and the period of 
 
 
 
-# Section LX   
+## Section LX   
 
 
 
@@ -757,7 +759,7 @@ ancestors).  Sweet-speeched Gandharvas of celestial splendour, gratified, sang a
 
 
 
-# Section LXI   
+## Section LXI   
 
 
 
@@ -765,7 +767,7 @@ ancestors).  Sweet-speeched Gandharvas of celestial splendour, gratified, sang a
 
 
 
-# Section LXII   
+## Section LXII   
 
 
 
@@ -775,7 +777,7 @@ lying between the hill where the sun rises and the hill where he sets, are known
 
 
 
-# Section LXIII   
+## Section LXIII   
 
 
 
@@ -783,7 +785,7 @@ lying between the hill where the sun rises and the hill where he sets, are known
 
 
 
-# Section LXIV   
+## Section LXIV   
 
 
 
@@ -793,7 +795,7 @@ and thousands of kings unto the ten million priests (employed by him) Having per
 
 
 
-# Section LXV   
+## Section LXV   
 
 
 
@@ -801,7 +803,7 @@ and thousands of kings unto the ten million priests (employed by him) Having per
 
 
 
-# Section LXVI   
+## Section LXVI   
 
 
 
@@ -811,7 +813,7 @@ other sacrifice can come up to this one of Gaya. The sacrificial altar of Gaya w
 
 
 
-# Section LXVII   
+## Section LXVII   
 
 
 
@@ -821,7 +823,7 @@ he gave? The king gave away wealth, thinking, If I do not give wealth in the han
 
 
 
-# Section LXVIII   
+## Section LXVIII   
 
 
 
@@ -829,7 +831,7 @@ he gave? The king gave away wealth, thinking, If I do not give wealth in the han
 
 
 
-# Section LXIX   
+## Section LXIX   
 
 
 
@@ -839,7 +841,7 @@ stones became the vessels (for holding that milk). Next, one of the gods became 
 
 
 
-# Section LXX   
+## Section LXX   
 
 
 
@@ -849,7 +851,7 @@ very ocean to stand aside, and repairing to that best of mountains called Mahend
 
 
 
-# Section LXXI   
+## Section LXXI   
 
 
 
@@ -865,7 +867,7 @@ very ocean to stand aside, and repairing to that best of mountains called Mahend
 
 
 
-# Section LXXII   
+## Section LXXII   
 
 
 
@@ -883,7 +885,7 @@ you all. I do not, again, see Abhimanyu. Nor doth he come to congratulate me. I 
 
 
 
-# Section LXXIII   
+## Section LXXIII   
 
 
 
@@ -897,7 +899,7 @@ you all. I do not, again, see Abhimanyu. Nor doth he come to congratulate me. I 
 
 
 
-# Section LXXIV   
+## Section LXXIV   
 
 
 
@@ -909,7 +911,7 @@ you all. I do not, again, see Abhimanyu. Nor doth he come to congratulate me. I 
 
 
 
-# Section LXXV   
+## Section LXXV   
 
 
 
@@ -919,7 +921,7 @@ and Kripa, and the ruler of the Madras, these six will be in (Jayadratha's) van.
 
 
 
-# Section LXXVI   
+## Section LXXVI   
 
 
 
@@ -929,7 +931,7 @@ and Kripa, and the ruler of the Madras, these six will be in (Jayadratha's) van.
 
 
 
-# Section LXXVII   
+## Section LXXVII   
 
 
 
@@ -939,7 +941,7 @@ and Kripa, and the ruler of the Madras, these six will be in (Jayadratha's) van.
 
 
 
-# Section LXXVIII   
+## Section LXXVIII   
 
 
 
@@ -949,7 +951,7 @@ and Kripa, and the ruler of the Madras, these six will be in (Jayadratha's) van.
 
 
 
-# Section LXXIX   
+## Section LXXIX   
 
 
 
@@ -961,7 +963,7 @@ would dispel (Partha's) grief and anxiety and enhance his prowess and splendour.
 
 
 
-# Section LXXX   
+## Section LXXX   
 
 
 
@@ -975,7 +977,7 @@ lake decked with lotuses. And he also saw that foremost of rivers, viz., the Gan
 
 
 
-# Section LXXXI   
+## Section LXXXI   
 
 
 
@@ -983,7 +985,7 @@ lake decked with lotuses. And he also saw that foremost of rivers, viz., the Gan
 
 
 
-# Section LXXXII   
+## Section LXXXII   
 
 
 
@@ -991,7 +993,7 @@ lake decked with lotuses. And he also saw that foremost of rivers, viz., the Gan
 
 
 
-# Section LXXXIII   
+## Section LXXXIII   
 
 
 
@@ -999,7 +1001,7 @@ lake decked with lotuses. And he also saw that foremost of rivers, viz., the Gan
 
 
 
-# Section LXXXIV   
+## Section LXXXIV   
 
 
 
@@ -1007,7 +1009,7 @@ lake decked with lotuses. And he also saw that foremost of rivers, viz., the Gan
 
 
 
-# Section LXXXV   
+## Section LXXXV   
 
 
 
@@ -1017,7 +1019,7 @@ lake decked with lotuses. And he also saw that foremost of rivers, viz., the Gan
 
 
 
-# Section LXXXVI   
+## Section LXXXVI   
 
 
 
@@ -1025,7 +1027,7 @@ lake decked with lotuses. And he also saw that foremost of rivers, viz., the Gan
 
 
 
-# Section LXXXVII   
+## Section LXXXVII   
 
 
 
@@ -1035,7 +1037,7 @@ lake decked with lotuses. And he also saw that foremost of rivers, viz., the Gan
 
 
 
-# Section LXXXVIII   
+## Section LXXXVIII   
 
 
 
@@ -1049,7 +1051,7 @@ mighty weapons, were seen to jump about, jerk about, and move about, with great 
 
 
 
-# Section LXXXIX   
+## Section LXXXIX   
 
 
 
@@ -1059,7 +1061,7 @@ mighty weapons, were seen to jump about, jerk about, and move about, with great 
 
 
 
-# Section XC   
+## Section XC   
 
 
 
@@ -1071,7 +1073,7 @@ mighty weapons, were seen to jump about, jerk about, and move about, with great 
 
 
 
-# Section XCI   
+## Section XCI   
 
 
 
@@ -1081,7 +1083,7 @@ when uprooted by the wind, the prince of the Kamvojas lay on the bare ground dep
 
 
 
-# Section XCII   
+## Section XCII   
 
 
 
@@ -1089,7 +1091,7 @@ when uprooted by the wind, the prince of the Kamvojas lay on the bare ground dep
 
 
 
-# Section XCIII   
+## Section XCIII   
 
 
 
@@ -1109,7 +1111,7 @@ when uprooted by the wind, the prince of the Kamvojas lay on the bare ground dep
 
 
 
-# Section XCIV   
+## Section XCIV   
 
 
 
@@ -1119,7 +1121,7 @@ when uprooted by the wind, the prince of the Kamvojas lay on the bare ground dep
 
 
 
-# Section XCV   
+## Section XCV   
 
 
 
@@ -1127,7 +1129,7 @@ when uprooted by the wind, the prince of the Kamvojas lay on the bare ground dep
 
 
 
-# Section XCVI   
+## Section XCVI   
 
 
 
@@ -1137,7 +1139,7 @@ when uprooted by the wind, the prince of the Kamvojas lay on the bare ground dep
 
 
 
-# Section XCVII   
+## Section XCVII   
 
 
 
@@ -1147,7 +1149,7 @@ when uprooted by the wind, the prince of the Kamvojas lay on the bare ground dep
 
 
 
-# Section XCVIII   
+## Section XCVIII   
 
 
 
@@ -1165,7 +1167,7 @@ off (into fragments, the limbs of) Anuvinda fell down like so many hills. Behold
 
 
 
-# Section XCIX   
+## Section XCIX   
 
 
 
@@ -1175,7 +1177,7 @@ the Western hills, proceeded with greater speed towards the ruler of the Sindhus
 
 
 
-# Section C   
+## Section C   
 
 
 
@@ -1185,7 +1187,7 @@ those dense showers of weapons and freed from that imminent danger, those high-s
 
 
 
-# Section CI   
+## Section CI   
 
 
 
@@ -1197,7 +1199,7 @@ with joy, urged those excellent white steeds of theirs, desirous of getting at k
 
 
 
-# Section CII   
+## Section CII   
 
 
 
@@ -1209,7 +1211,7 @@ with joy, urged those excellent white steeds of theirs, desirous of getting at k
 
 
 
-# Section CIII   
+## Section CIII   
 
 
 
@@ -1217,7 +1219,7 @@ with joy, urged those excellent white steeds of theirs, desirous of getting at k
 
 
 
-# Section CIV   
+## Section CIV   
 
 
 
@@ -1229,7 +1231,7 @@ producing every seed. A silver boar adorned the standard-top of the ruler of the
 
 
 
-# Section CV   
+## Section CV   
 
 
 
@@ -1239,7 +1241,7 @@ producing every seed. A silver boar adorned the standard-top of the ruler of the
 
 
 
-# Section CVI   
+## Section CVI   
 
 
 
@@ -1247,7 +1249,7 @@ producing every seed. A silver boar adorned the standard-top of the ruler of the
 
 
 
-# Section CVII   
+## Section CVII   
 
 
 
@@ -1257,7 +1259,7 @@ producing every seed. A silver boar adorned the standard-top of the ruler of the
 
 
 
-# Section CVIII   
+## Section CVIII   
 
 
 
@@ -1265,7 +1267,7 @@ producing every seed. A silver boar adorned the standard-top of the ruler of the
 
 
 
-# Section CIX   
+## Section CIX   
 
 
 
@@ -1275,7 +1277,7 @@ producing every seed. A silver boar adorned the standard-top of the ruler of the
 
 
 
-# Section CX   
+## Section CX   
 
 
 
@@ -1285,7 +1287,7 @@ producing every seed. A silver boar adorned the standard-top of the ruler of the
 
 
 
-# Section CXI   
+## Section CXI   
 
 
 
@@ -1297,7 +1299,7 @@ welfare, they are obedient to him. It is at Karna's command, O king, that return
 
 
 
-# Section CXII   
+## Section CXII   
 
 
 
@@ -1311,7 +1313,7 @@ dost not quickly avoid me in this battle, thou shalt not escape me with life tod
 
 
 
-# Section CXIII   
+## Section CXIII   
 
 
 
@@ -1323,7 +1325,7 @@ active heroes pierce through (the divisions placed in the van), and seeing the r
 
 
 
-# Section CXIV   
+## Section CXIV   
 
 
 
@@ -1331,7 +1333,7 @@ active heroes pierce through (the divisions placed in the van), and seeing the r
 
 
 
-# Section CXV   
+## Section CXV   
 
 
 
@@ -1339,7 +1341,7 @@ active heroes pierce through (the divisions placed in the van), and seeing the r
 
 
 
-# Section CXVI   
+## Section CXVI   
 
 
 
@@ -1347,7 +1349,7 @@ active heroes pierce through (the divisions placed in the van), and seeing the r
 
 
 
-# Section CXVII   
+## Section CXVII   
 
 
 
@@ -1355,7 +1357,7 @@ active heroes pierce through (the divisions placed in the van), and seeing the r
 
 
 
-# Section CXVIII   
+## Section CXVIII   
 
 
 
@@ -1369,7 +1371,7 @@ active heroes pierce through (the divisions placed in the van), and seeing the r
 
 
 
-# Section CXIX   
+## Section CXIX   
 
 
 
@@ -1377,7 +1379,7 @@ active heroes pierce through (the divisions placed in the van), and seeing the r
 
 
 
-# Section CXX   
+## Section CXX   
 
 
 
@@ -1387,7 +1389,7 @@ active heroes pierce through (the divisions placed in the van), and seeing the r
 
 
 
-# Section CXXI   
+## Section CXXI   
 
 
 
@@ -1395,7 +1397,7 @@ active heroes pierce through (the divisions placed in the van), and seeing the r
 
 
 
-# Section CXXII   
+## Section CXXII   
 
 
 
@@ -1403,7 +1405,7 @@ active heroes pierce through (the divisions placed in the van), and seeing the r
 
 
 
-# Section CXXII   
+## Section CXXII   
 
 
 
@@ -1417,7 +1419,7 @@ active heroes pierce through (the divisions placed in the van), and seeing the r
 
 
 
-# Section CXXIV   
+## Section CXXIV   
 
 
 
@@ -1429,7 +1431,7 @@ active heroes pierce through (the divisions placed in the van), and seeing the r
 
 
 
-# Section CXXV   
+## Section CXXV   
 
 
 
@@ -1437,7 +1439,7 @@ active heroes pierce through (the divisions placed in the van), and seeing the r
 
 
 
-# Section CXXVI   
+## Section CXXVI   
 
 
 
@@ -1449,7 +1451,7 @@ active heroes pierce through (the divisions placed in the van), and seeing the r
 
 
 
-# Section CXXVII   
+## Section CXXVII   
 
 
 
@@ -1461,7 +1463,7 @@ active heroes pierce through (the divisions placed in the van), and seeing the r
 
 
 
-# Section CXXVIII   
+## Section CXXVIII   
 
 
 
@@ -1473,7 +1475,7 @@ amongst those devoted to Duryodhana's welfare stood in battle before Bhimasena e
 
 
 
-# Section CXXIX   
+## Section CXXIX   
 
 
 
@@ -1485,7 +1487,7 @@ reputed as mighty car-warriors, then rushed in that battle at Duryodhana, with o
 
 
 
-# Section CXXX   
+## Section CXXX   
 
 
 
@@ -1499,7 +1501,7 @@ Bhima held in that battle all those shafts, whetted on stone and equipped with w
 
 
 
-# Section CXXXI   
+## Section CXXXI   
 
 
 
@@ -1509,7 +1511,7 @@ Bhima held in that battle all those shafts, whetted on stone and equipped with w
 
 
 
-# Section CXXXII   
+## Section CXXXII   
 
 
 
@@ -1521,7 +1523,7 @@ my son. Karna will never succeed, O Sanjaya, in vanquishing those mighty bowmen,
 
 
 
-# Section CXXXIII   
+## Section CXXXIII   
 
 
 
@@ -1529,7 +1531,7 @@ my son. Karna will never succeed, O Sanjaya, in vanquishing those mighty bowmen,
 
 
 
-# Section CXXXIV   
+## Section CXXXIV   
 
 
 
@@ -1543,7 +1545,7 @@ the mighty-armed Vrikodara, on all sides, they shrouded all the points of the co
 
 
 
-# Section CXXXV   
+## Section CXXXV   
 
 
 
@@ -1551,7 +1553,7 @@ the mighty-armed Vrikodara, on all sides, they shrouded all the points of the co
 
 
 
-# Section CXXXVI   
+## Section CXXXVI   
 
 
 
@@ -1563,7 +1565,7 @@ It is for that, O Vikarna, that thou hast been slain. My vow hath been accomplis
 
 
 
-# Section CXXXVII   
+## Section CXXXVII   
 
 
 
@@ -1573,7 +1575,7 @@ It is for that, O Vikarna, that thou hast been slain. My vow hath been accomplis
 
 
 
-# Section CXXXVIII   
+## Section CXXXVIII   
 
 
 
@@ -1587,7 +1589,7 @@ the bow. And laughing loudly, Vrisha once more told Bhima those words, 'Thou sho
 
 
 
-# Section CXXXIX   
+## Section CXXXIX   
 
 
 
@@ -1597,7 +1599,7 @@ the bow. And laughing loudly, Vrisha once more told Bhima those words, 'Thou sho
 
 
 
-# Section CXL   
+## Section CXL   
 
 
 
@@ -1605,7 +1607,7 @@ the bow. And laughing loudly, Vrisha once more told Bhima those words, 'Thou sho
 
 
 
-# Section CXLI   
+## Section CXLI   
 
 
 
@@ -1619,7 +1621,7 @@ arrow. That arrow, shot by Partha's hand and resembling a meteor flashing down f
 
 
 
-# Section CXLII   
+## Section CXLII   
 
 
 
@@ -1643,7 +1645,7 @@ casting off his body in great battle, repaired to regions on high, filling the w
 
 
 
-# Section CXLIII   
+## Section CXLIII   
 
 
 
@@ -1653,7 +1655,7 @@ casting off his body in great battle, repaired to regions on high, filling the w
 
 
 
-# Section CXLIV   
+## Section CXLIV   
 
 
 
@@ -1663,7 +1665,7 @@ casting off his body in great battle, repaired to regions on high, filling the w
 
 
 
-# Section CXLV   
+## Section CXLV   
 
 
 
@@ -1677,7 +1679,7 @@ the Bharatas! This is the hour, O mighty-armed one, for the slaughter of that wi
 
 
 
-# Section CXLVI   
+## Section CXLVI   
 
 
 
@@ -1695,7 +1697,7 @@ with grief and sighing like a mighty snake, Karna, casting angry glances on the 
 
 
 
-# Section CXLVII   
+## Section CXLVII   
 
 
 
@@ -1709,7 +1711,7 @@ with grief and sighing like a mighty snake, Karna, casting angry glances on the 
 
 
 
-# Section CXLVIII   
+## Section CXLVIII   
 
 
 
@@ -1719,7 +1721,7 @@ all things. He, again, that is a friend of Dhananjaya or is engaged in Dhananjay
 
 
 
-# Section CXLIX   
+## Section CXLIX   
 
 
 
@@ -1729,7 +1731,7 @@ does not the earth yield me a hole (through which to sink), since I am so sinful
 
 
 
-# Section CI   
+## Section CI   
 
 
 
@@ -1741,7 +1743,7 @@ does not the earth yield me a hole (through which to sink), since I am so sinful
 
 
 
-# Section CLI   
+## Section CLI   
 
 
 
@@ -1755,7 +1757,7 @@ white steeds and having Krishna for his charioteer, succeeded in transgressing t
 
 
 
-# Section CLII   
+## Section CLII   
 
 
 
@@ -1767,7 +1769,7 @@ leonine shout. Cutting off hundreds of other warriors and the bodies of elephant
 
 
 
-# Section CLIII   
+## Section CLIII   
 
 
 
@@ -1779,7 +1781,7 @@ standards), looked like the firmament in the night, O bull of Bharata's race, be
 
 
 
-# Section CLIV   
+## Section CLIV   
 
 
 
@@ -1793,7 +1795,7 @@ Then thy sons, all equal unto the sons of Varuna, filled with rage and accompani
 
 
 
-# Section CLV   
+## Section CLV   
 
 
 
@@ -1827,7 +1829,7 @@ one of the sons of Drupada. Then he slew in that battle Suratha's younger brothe
 
 
 
-# Section CLVI   
+## Section CLVI   
 
 
 
@@ -1839,7 +1841,7 @@ with his shafts, Yudhishthira began to despatch to the regions of Yama the Amvas
 
 
 
-# Section CLVII   
+## Section CLVII   
 
 
 
@@ -1855,7 +1857,7 @@ with his shafts, Yudhishthira began to despatch to the regions of Yama the Amvas
 
 
 
-# Section CLVIII   
+## Section CLVIII   
 
 
 
@@ -1885,7 +1887,7 @@ against Dhananjaya. Partha, however, soon covered Karna who was thus advancing w
 
 
 
-# Section CLIX   
+## Section CLIX   
 
 
 
@@ -1893,7 +1895,7 @@ against Dhananjaya. Partha, however, soon covered Karna who was thus advancing w
 
 
 
-# Section CLX   
+## Section CLX   
 
 
 
@@ -1901,7 +1903,7 @@ against Dhananjaya. Partha, however, soon covered Karna who was thus advancing w
 
 
 
-# Section CLXI   
+## Section CLXI   
 
 
 
@@ -1909,7 +1911,7 @@ against Dhananjaya. Partha, however, soon covered Karna who was thus advancing w
 
 
 
-# Section CLXII   
+## Section CLXII   
 
 
 
@@ -1927,7 +1929,7 @@ Pandavas, O ruler of men, resembled the midday sun at the end of the season of r
 
 
 
-# Section CLXIII   
+## Section CLXIII   
 
 
 
@@ -1941,7 +1943,7 @@ when Arjuna, of white steeds, entered (our army), who were they that protected D
 
 
 
-# Section CLXIV   
+## Section CLXIV   
 
 
 
@@ -1951,7 +1953,7 @@ many shafts, Nakula's son, Satanika, as the latter advanced for slaying Drona. T
 
 
 
-# Section CLXV   
+## Section CLXV   
 
 
 
@@ -1963,7 +1965,7 @@ terrible shaft resembling the rod of Yama himself, aiming at Ghatotkacha. That e
 
 
 
-# Section CLXVI   
+## Section CLXVI   
 
 
 
@@ -1973,7 +1975,7 @@ steeds and dead human bodies. Karna cut off all these with his shafts. Seeing hi
 
 
 
-# Section CLXVII   
+## Section CLXVII   
 
 
 
@@ -1983,7 +1985,7 @@ ruler of the Madras then, excited with rage, deeply pierced Virata, that command
 
 
 
-# Section CLXVIII   
+## Section CLXVIII   
 
 
 
@@ -1999,7 +2001,7 @@ fierce battle between thy troops and theirs, O Bharata, at that dreadful hour of
 
 
 
-# Section CLXIX   
+## Section CLXIX   
 
 
 
@@ -2009,7 +2011,7 @@ O king, large meteors falling from the firmament. That night, O chief of the Bha
 
 
 
-# Section CLXX   
+## Section CLXX   
 
 
 
@@ -2017,7 +2019,7 @@ O king, large meteors falling from the firmament. That night, O chief of the Bha
 
 
 
-# Section CLXXI   
+## Section CLXXI   
 
 
 
@@ -2031,7 +2033,7 @@ O monarch, and (dead) bodies by thousands, the earth looked as if covered with f
 
 
 
-# Section CLXXII   
+## Section CLXXII   
 
 
 
@@ -2041,7 +2043,7 @@ O monarch, and (dead) bodies by thousands, the earth looked as if covered with f
 
 
 
-# Section CLXXIII   
+## Section CLXXIII   
 
 
 
@@ -2059,7 +2061,7 @@ I say. The time is come for the display of thy prowess, and not of anybody else.
 
 
 
-# Section CLXXIV   
+## Section CLXXIV   
 
 
 
@@ -2067,7 +2069,7 @@ I say. The time is come for the display of thy prowess, and not of anybody else.
 
 
 
-# Section CLXXV   
+## Section CLXXV   
 
 
 
@@ -2083,7 +2085,7 @@ trees. And from that mountain incessantly issued streams of lances and spears an
 
 
 
-# Section CLXXVI   
+## Section CLXXVI   
 
 
 
@@ -2093,7 +2095,7 @@ trees. And from that mountain incessantly issued streams of lances and spears an
 
 
 
-# Section CLXXVII   
+## Section CLXXVII   
 
 
 
@@ -2103,7 +2105,7 @@ that foremost of car-warriors, rushed against Bhimasena, riding on his car of so
 
 
 
-# Section CLXXVIII   
+## Section CLXXVIII   
 
 
 
@@ -2111,7 +2113,7 @@ that foremost of car-warriors, rushed against Bhimasena, riding on his car of so
 
 
 
-# Section CLXXIX   
+## Section CLXXIX   
 
 
 
@@ -2125,7 +2127,7 @@ that foremost of car-warriors, rushed against Bhimasena, riding on his car of so
 
 
 
-# Section CLXXX   
+## Section CLXXX   
 
 
 
@@ -2135,7 +2137,7 @@ that foremost of car-warriors, rushed against Bhimasena, riding on his car of so
 
 
 
-# Section CLXXXI   
+## Section CLXXXI   
 
 
 
@@ -2147,7 +2149,7 @@ was afterwards slain by Bhimasena in thy presence, O Dhananjaya.  If the valiant
 
 
 
-# Section CLXXXII   
+## Section CLXXXII   
 
 
 
@@ -2167,7 +2169,7 @@ was afterwards slain by Bhimasena in thy presence, O Dhananjaya.  If the valiant
 
 
 
-# Section CLXXXIII   
+## Section CLXXXIII   
 
 
 
@@ -2183,7 +2185,7 @@ was afterwards slain by Bhimasena in thy presence, O Dhananjaya.  If the valiant
 
 
 
-# Section CLXXXIV   
+## Section CLXXXIV   
 
 
 
@@ -2195,7 +2197,7 @@ amongst the foe, entirely stupefied by slumber, were slain without their being c
 
 
 
-# Section CLXXXV   
+## Section CLXXXV   
 
 
 
@@ -2209,7 +2211,7 @@ amongst the foe, entirely stupefied by slumber, were slain without their being c
 
 
 
-# Section CLXXXVI   
+## Section CLXXXVI   
 
 
 
@@ -2225,7 +2227,7 @@ even gaze at him. Then Bhimasena, O sire, became highly angry with Dhrishtadyumn
 
 
 
-# Section CLXXXVII   
+## Section CLXXXVII   
 
 
 
@@ -2237,7 +2239,7 @@ progress of that fierce and terrible battle, when that dusty cloud arose, all th
 
 
 
-# Section CLXXXVIII   
+## Section CLXXXVIII   
 
 
 
@@ -2247,7 +2249,7 @@ progress of that fierce and terrible battle, when that dusty cloud arose, all th
 
 
 
-# Section CXC   
+## Section CXC   
 
 
 
@@ -2259,7 +2261,7 @@ race! In those days thou wert dearer to me than life itself, and I also was such
 
 
 
-# Section CXCI   
+## Section CXCI   
 
 
 
@@ -2269,7 +2271,7 @@ race! In those days thou wert dearer to me than life itself, and I also was such
 
 
 
-# Section CXCII   
+## Section CXCII   
 
 
 
@@ -2281,7 +2283,7 @@ in that battle for compassing the destruction of Drona, Beholding those beautifu
 
 
 
-# Section CXCIII   
+## Section CXCIII   
 
 
 
@@ -2289,7 +2291,7 @@ in that battle for compassing the destruction of Drona, Beholding those beautifu
 
 
 
-# Section CXCIV   
+## Section CXCIV   
 
 
 
@@ -2305,7 +2307,7 @@ having arrows for the rays that emanated from him, resembled the midday sun at w
 
 
 
-# Section CXCV   
+## Section CXCV   
 
 
 
@@ -2313,7 +2315,7 @@ having arrows for the rays that emanated from him, resembled the midday sun at w
 
 
 
-# Section CXCVI   
+## Section CXCVI   
 
 
 
@@ -2325,7 +2327,7 @@ life.' Hearing these words of Drona's son, the (Kuru) army rallied. Then many fo
 
 
 
-# Section CXCVII   
+## Section CXCVII   
 
 
 
@@ -2343,7 +2345,7 @@ was my preceptor, who had laid aside his weapons, and who was then devoted, like
 
 
 
-# Section CXCVIII   
+## Section CXCVIII   
 
 
 
@@ -2355,7 +2357,7 @@ O thou that art well versed with the truths of morality, why dost thou, O Arjuna
 
 
 
-# Section CXCIX   
+## Section CXCIX   
 
 
 
@@ -2373,7 +2375,7 @@ myself will bear many strokes of thine.' Thus rebuked by the Satwata hero, Prish
 
 
 
-# Section CC   
+## Section CC   
 
 
 
@@ -2385,7 +2387,7 @@ this, he of Dasarha's race, (viz., Kesava) quickly forbidding the troops, by mot
 
 
 
-# Section CCI   
+## Section CCI   
 
 
 
@@ -2419,7 +2421,7 @@ supreme Abode of all kinds of splendour, that God with a garland of Akshas round
 
 
 
-# Section CCII   
+## Section CCII   
 
 
 

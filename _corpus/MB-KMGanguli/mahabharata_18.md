@@ -1,6 +1,6 @@
 ---
 id: 18    
-title: "Corpus: KM Ganguli Mahabharat 18"
+title: "Corpus: KM Ganguli Mahabharat 18 - Svargarohana Parva"
 layout: single
 toc_sticky: true
 permalink: /mb-kmganguli-mahabharat_18
@@ -19,7 +19,9 @@ sidebar:
    nav: "docs"
 ---
 
-# Section 1   
+# Svargarohana Parva
+
+## Section 1   
 
 Om! Having bowed down into Narayana, and to Nara, the foremost of men, as also to the goddess Sarasvati, should the word "Jaya" be uttered.   
 
@@ -37,7 +39,7 @@ Vaishampayana said, "Listen now to what thy grandsires, Yudhishthira and others,
 
 
 
-# Section 2   
+## Section 2   
 
 "Yudhishthira said, ‘Ye deities, I do not see here Radha’s son of immeasurable prowess, as also my high-souled brothers, and Yudhamanyu and Uttamaujas, those great car-warriors that poured their bodies (as libations) on the fire of battle, those kings and princes that met with death for my sake in battle. Where are those great car-warriors that possessed the prowess of tigers? Have those foremost of men acquired this region? If those great car-warriors have obtained these regions, then only do you know, ye gods, that I shall reside here with those high-souled ones. If this auspicious and eternal region has not been acquired by those kings, then know, ye gods, that without those brothers and kinsmen of mine, I shall not live here. At the time of performing the water rites (after the battle), I heard my mother say, ‘Do thou offer oblations of water unto Karna.’ Since hearing those words of my mother, I am burning with grief. I grieve also incessantly at this, ye gods, that when I marked the resemblance between the feet of my mother and those of Karna of immeasurable soul, I did not immediately place myself under orders of that afflicter of hostile ranks. Ourselves joined with Karna, Shakra himself would have been unable to vanquish in battle. Wherever may that child of Surya be, I desire to see him. Alas, his relationship with us being unknown, I caused him to be slain by Arjuna. Bhima also of terrible prowess and dearer to me than my life-breaths, Arjuna too, resembling Indra himself, the twins also that resembled the Destroyer himself in prowess, I desire to behold. I wish to see the princess of Pancala, whose conduct was always righteous. I wish not to stay here. I tell you the truth. Ye foremost ones among the deities, what is Heaven to me if I am dissociated from my brothers? That is Heaven where those brothers of mine are. This, in my opinion, is not Heaven.’   
 
@@ -65,7 +67,7 @@ Vaishampayana continued: Having said so, the gods then ordered the celestial mes
 
 
 
-# Section 3   
+## Section 3   
 
 Vaishampayana said, "King Yudhishthira the just, the son of Pritha, had not stayed there for more than a moment when, O thou of Kuru’s race, all the gods with Indra at their head came to that spot. The deity of Righteousness in his embodied form also came to that place where the Kuru king was, for seeing that monarch. Upon the advent of those deities of resplendent bodies and sanctified and noble deeds, the darkness that had overwhelmed that region immediately disappeared. The torments undergone by beings of sinful deeds were no longer seen. The river Vaitarani, the thorny Salmali, the iron jars, and the boulders of rock, so terrible to behold, also vanished from sight. The diverse repulsive corpses also, which the Kuru king had seen, disappeared at the same time. Then a breeze, delicious and fraught with pleasant perfumes, perfectly pure and delightfully cool, O Bharata, began to blow on that spot in consequence of the presence of the gods. The Maruts, with Indra, the Vasus with the twin Ashvinis, the Sadhyas, the Rudras, the Adityas, and the other denizens of Heaven, as also the Siddhas and the great Rishis, all came there where Dharma’s royal son of great energy was.   
 
@@ -81,7 +83,7 @@ O son of Pritha, thy brothers, O king, were not such as to deserve Hell. All thi
 
 
 
-# Section 4   
+## Section 4   
 
 Vaishampayana said, "King Yudhishthira, thus praised by the gods, the Maruts and the Rishis, proceeded to that place where those foremost ones of Kuru’s race were. He beheld Govinda endued with his Brahma-form. It resembled that form of his which had been seen before and which, therefore, helped the recognition. Blazing forth in that form of his, he was adorned with celestial weapons, such as the terrible discus and others in their respective embodied forms. He was being adored by the heroic Phalguna, who also was endued with a blazing effulgence. The son of Kunti beheld the slayer of Madhu also in his own form. Those two foremost of Beings, adored by all the gods, beholding Yudhishthira, received him with proper honours.   
 
@@ -93,7 +95,7 @@ Vaishampayana said, "King Yudhishthira, thus praised by the gods, the Maruts and
 
 
 
-# Section 5   
+## Section 5   
 
 Janamejaya said, "Bhishma and Drona, those two high-souled persons, king Dhritarashtra, and Virata and Drupada, and Sankha and Uttara. Dhrishtaketu and Jayatsena and king Satyajit, the sons of Duryodhana, and Shakuni the son of Subala, Karna’s sons of great prowess, king Jayadratha, Ghatotkaca and others whom thou hast not mentioned, the other heroic kings of blazing forms—tell me for what period they remained in Heaven. O foremost of regenerate persons, was theirs an eternal place in Heaven? What was the end attained to by those foremost of men when their acts came to an end? I desire to hear this, O foremost of regenerate persons, and therefore have I asked thee. Through thy blazing penances thou seest all things.   
 
@@ -121,7 +123,7 @@ That man who, waking up at dawn, reads this Savittri of the Bharata, acquires al
 
 
 
-# Section 6   
+## Section 6   
 
 Janamejaya said, "O holy one, according to what rites should the learned listen to the Bharata? What are the fruits (acquirable by hearing it)? What deities are to be worshipped during the several paranas? What should be the gifts that one should make, O holy one, at every parva or sacred day (during the continuance of the recitation)? What should be the qualification of the reciter to be engaged? Tell me all this!   
 

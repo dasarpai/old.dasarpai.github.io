@@ -1,6 +1,6 @@
 ---
 id: 14    
-title: "Corpus: KM Ganguli Mahabharat 14"
+title: "Corpus: KM Ganguli Mahabharat 14- Aswamedha Parva"
 layout: single
 toc_sticky: true
 permalink: /mb-kmganguli-mahabharat_14
@@ -19,11 +19,11 @@ sidebar:
    nav: "docs"
 ---
 
-# ASWAMEDHA PARVA   
+# Ashvameda Parva   
 
-# Section I   
+## Section I   
 
-## (Aswamedhika Parva)    
+## Aswamedhika Parva    
 
 OM! HAVING BOWED down unto Narayana, and Nara the foremost of male beings, and unto the goddess Saraswati, must the word Jaya be uttered.   
 
@@ -33,7 +33,7 @@ on thy bounty.' When, O Kunti's son, the far-sighted Vidura said this, fool that
 
 
 
-# Section II   
+## Section II   
 
 
 
@@ -41,7 +41,7 @@ on thy bounty.' When, O Kunti's son, the far-sighted Vidura said this, fool that
 
 
 
-# Section III   
+## Section III   
 
 
 
@@ -51,7 +51,7 @@ Duryodhana hath wasted the Earth; and the treasury of that wicked-minded son of 
 
 
 
-# Section IV   
+## Section IV   
 
 
 
@@ -61,7 +61,7 @@ Duryodhana hath wasted the Earth; and the treasury of that wicked-minded son of 
 
 
 
-# Section V   
+## Section V   
 
 
 
@@ -73,7 +73,7 @@ Vaisampayana continued,--'On hearing this speech from Vrihaspati Indra became cu
 
 
 
-# Section VI   
+## Section VI   
 
 
 
@@ -103,7 +103,7 @@ Vyasa said, 'Having signified his assent to the proposal of Narada, that royal s
 
 
 
-# Section VII   
+## Section VII   
 
 
 
@@ -125,7 +125,7 @@ Samvarta said, "Listen, O son of Avikshit, excellent as it is the bent of thy mi
 
 
 
-# Section VIII   
+## Section VIII   
 
 
 
@@ -133,7 +133,7 @@ Samvarta said, "Listen, O son of Avikshit, excellent as it is the bent of thy mi
 
 
 
-# Section IX   
+## Section IX   
 
 
 
@@ -187,7 +187,7 @@ Agni said, "Dost thou, O Mahendra, remember that in olden times when the sage Ch
 
 
 
-# Section V   
+## Section V   
 
 
 
@@ -229,7 +229,7 @@ Vaisampayana continued, "Then the Pandava prince Yudhishthira was delighted on h
 
 
 
-# Section XI   
+## Section XI   
 
 
 
@@ -239,7 +239,7 @@ Vasudeva said, "All crookedness of heart leads to destruction (perdition?) and a
 
 
 
-# Section XII   
+## Section XII   
 
 
 
@@ -247,7 +247,7 @@ Vasudeva said, "All crookedness of heart leads to destruction (perdition?) and a
 
 
 
-# Section XIII   
+## Section XIII   
 
 
 
@@ -255,7 +255,7 @@ Vasudeva said, "All crookedness of heart leads to destruction (perdition?) and a
 
 
 
-# Section XIV   
+## Section XIV   
 
 
 
@@ -263,7 +263,7 @@ Vasudeva said, "All crookedness of heart leads to destruction (perdition?) and a
 
 
 
-# Section XV   
+## Section XV   
 
 
 
@@ -275,7 +275,7 @@ Vasudeva said, 'O Arjuna, the terror of thine enemies, this whole earth has been
 
 
 
-# Section XVI   
+## Section XVI   
 
 
 
@@ -299,7 +299,7 @@ constitute this universe.  Having acquired this excellent success, I shall, afte
 
 
 
-# Section XVII   
+## Section XVII   
 
 
 
@@ -319,7 +319,7 @@ stellar worlds that shine in the firmament, the lunar disc, and the solar disc a
 
 
 
-# Section XVIII   
+## Section XVIII   
 
 
 
@@ -331,7 +331,7 @@ Prajapati (then) created all the primal elements and all immobile creatures. Eve
 
 
 
-# Section XIX   
+## Section XIX   
 
 
 
@@ -353,7 +353,7 @@ form (by practising the religion of inaction) is not agreeable to the deities.  
 
 
 
-# Section XX   
+## Section XX   
 
 
 
@@ -365,7 +365,7 @@ which is thought of, and that which is understood,--these are the seven sorts of
 
 
 
-# Section XXI   
+## Section XXI   
 
 
 
@@ -387,7 +387,7 @@ That which is immovable is, verily, with me; the movable is in your dominion.  T
 
 
 
-# Section XXII   
+## Section XXII   
 
 
 
@@ -405,7 +405,7 @@ extinct, there be gratification and support of life, and a continuation of thy e
 
 
 
-# Section XXIII   
+## Section XXIII   
 
 
 
@@ -431,7 +431,7 @@ extinct, there be gratification and support of life, and a continuation of thy e
 
 
 
-# Section XXIV   
+## Section XXIV   
 
 
 
@@ -449,7 +449,7 @@ First is Samana; then Vyana. The latter's function is managed through it (viz., 
 
 
 
-# Section XXV   
+## Section XXV   
 
 
 
@@ -459,7 +459,7 @@ food he takes. Whatever is thought of by the mind, whatever is uttered by speech
 
 
 
-# Section XXVI   
+## Section XXVI   
 
 
 
@@ -469,7 +469,7 @@ with feelings of animosity. In this connection is cited the ancient story of the
 
 
 
-# Section XXVII   
+## Section XXVII   
 
 
 
@@ -483,7 +483,7 @@ been directed to excellent vows, and whose sins have been burnt off by penances,
 
 
 
-# Section XXVIII   
+## Section XXVIII   
 
 
 
@@ -505,7 +505,7 @@ exceedingly subtle, to be of this kind and having understood it, they live accor
 
 
 
-# Section XXIX   
+## Section XXIX   
 
 
 
@@ -519,7 +519,7 @@ the Brahmanas upon Kshatriya women that had lost their heroic children, were rep
 
 
 
-# Section XXX   
+## Section XXX   
 
 
 
@@ -561,7 +561,7 @@ soul and thereby attained to the highest success. Filled with wonder, that royal
 
 
 
-# Section XXXI   
+## Section XXXI   
 
 
 
@@ -571,7 +571,7 @@ many qualities that appertain to Darkness. In consequence of those qualities, he
 
 
 
-# Section XXXII   
+## Section XXXII   
 
 
 
@@ -587,7 +587,7 @@ choice leads thee, and do thou enjoy as long as thou pleasest.'
 
 
 
-# Section XXXIII   
+## Section XXXIII   
 
 
 
@@ -595,7 +595,7 @@ choice leads thee, and do thou enjoy as long as thou pleasest.'
 
 
 
-# Section XXXIV   
+## Section XXXIV   
 
 
 
@@ -615,7 +615,7 @@ choice leads thee, and do thou enjoy as long as thou pleasest.'
 
 
 
-# Section XXXV   
+## Section XXXV   
 
 
 
@@ -635,7 +635,7 @@ have transcended wrath and sorrow, and who always regard Religion as the causewa
 
 
 
-# Section XXXVI   
+## Section XXXVI   
 
 
 
@@ -647,7 +647,7 @@ viz., the beholding of reality in what is not real. The qualities of Darkness ha
 
 
 
-# Section XXXVII   
+## Section XXXVII   
 
 
 
@@ -657,7 +657,7 @@ every desire, are said to be enveloped by Passion. These men have downward cours
 
 
 
-# Section XXXVIII   
+## Section XXXVIII   
 
 
 
@@ -665,7 +665,7 @@ every desire, are said to be enveloped by Passion. These men have downward cours
 
 
 
-# Section XXXIX   
+## Section XXXIX   
 
 
 
@@ -675,7 +675,7 @@ distress. The Sun is Goodness developed, men of evil deeds represent Darkness; t
 
 
 
-# Section XL   
+## Section XL   
 
 
 
@@ -683,7 +683,7 @@ distress. The Sun is Goodness developed, men of evil deeds represent Darkness; t
 
 
 
-# Section XLI   
+## Section XLI   
 
 
 
@@ -691,7 +691,7 @@ distress. The Sun is Goodness developed, men of evil deeds represent Darkness; t
 
 
 
-# Section XLII   
+## Section XLII   
 
 
 
@@ -703,7 +703,7 @@ called delusion. It is this body which stretches forth, contracts, and awakens t
 
 
 
-# Section XLIII   
+## Section XLIII   
 
 
 
@@ -715,7 +715,7 @@ characteristic of the good man is to live unperceived.  Devotion has acts for it
 
 
 
-# Section XLIV   
+## Section XLIV   
 
 
 
@@ -725,7 +725,7 @@ for their end, and life has death for its end. All action ends in destruction, a
 
 
 
-# Section XLV   
+## Section XLV   
 
 
 
@@ -735,7 +735,7 @@ life that is associated with pairs of opposites and devoid of consciousness, the
 
 
 
-# Section XLVI   
+## Section XLVI   
 
 
 
@@ -749,7 +749,7 @@ dwelling in a house resides in all creatures, succeed in escaping death. There t
 
 
 
-# Section XLVII   
+## Section XLVII   
 
 
 
@@ -759,7 +759,7 @@ topics, which is unperturbed, which is identical with Knowledge, and which resid
 
 
 
-# Section XLVIII   
+## Section XLVIII   
 
 
 
@@ -769,7 +769,7 @@ topics, which is unperturbed, which is identical with Knowledge, and which resid
 
 
 
-# Section XLIX   
+## Section XLIX   
 
 
 
@@ -777,7 +777,7 @@ topics, which is unperturbed, which is identical with Knowledge, and which resid
 
 
 
-# Section L   
+## Section L   
 
 
 
@@ -791,7 +791,7 @@ existent creatures, who is conversant with the ordinances in respect of all acts
 
 
 
-# Section LI   
+## Section LI   
 
 
 
@@ -813,7 +813,7 @@ body). Even this is what is highly acceptable to eaters of Amrita.  Therefore, t
 
 
 
-# Section LII   
+## Section LII   
 
 
 
@@ -835,7 +835,7 @@ and the entire Earth, are thine and thine alone. Whatever wealth exists in my, a
 
 
 
-# Section LIII   
+## Section LIII   
 
 
 
@@ -849,7 +849,7 @@ and the entire Earth, are thine and thine alone. Whatever wealth exists in my, a
 
 
 
-# Section LIV   
+## Section LIV   
 
 
 
@@ -861,7 +861,7 @@ diverse kinds of wombs from desire of doing good to my creatures. When, O son of
 
 
 
-# Section LV   
+## Section LV   
 
 
 
@@ -877,7 +877,7 @@ diverse kinds of wombs from desire of doing good to my creatures. When, O son of
 
 
 
-# Section LVI   
+## Section LVI   
 
 
 
@@ -905,7 +905,7 @@ world, I shall bring for thee with the aid of my penances. I have no doubt in th
 
 
 
-# Section LVII   
+## Section LVII   
 
 
 
@@ -935,7 +935,7 @@ world, I shall bring for thee with the aid of my penances. I have no doubt in th
 
 
 
-# Section LVIII   
+## Section LVIII   
 
 
 
@@ -971,7 +971,7 @@ regenerate Rishi then, who continued to dig the Earth from desire of making a pa
 
 
 
-# Section LIX   
+## Section LIX   
 
 
 
@@ -981,7 +981,7 @@ regenerate Rishi then, who continued to dig the Earth from desire of making a pa
 
 
 
-# Section LX   
+## Section LX   
 
 
 
@@ -995,7 +995,7 @@ with cheerlessness, supported Yudhishthira (as their leader). The king Yudhishth
 
 
 
-# Section LXI   
+## Section LXI   
 
 
 
@@ -1003,7 +1003,7 @@ with cheerlessness, supported Yudhishthira (as their leader). The king Yudhishth
 
 
 
-# Section LXII   
+## Section LXII   
 
 
 
@@ -1011,7 +1011,7 @@ with cheerlessness, supported Yudhishthira (as their leader). The king Yudhishth
 
 
 
-# Section LXIII   
+## Section LXIII   
 
 
 
@@ -1023,7 +1023,7 @@ son of Dhritarashtra, in the capital, they set out, worshipped by the citizens a
 
 
 
-# Section LXIV   
+## Section LXIV   
 
 
 
@@ -1033,7 +1033,7 @@ to king Yudhishthira the just, said these words in reply, 'This very day is, an 
 
 
 
-# Section LXV   
+## Section LXV   
 
 
 
@@ -1041,7 +1041,7 @@ to king Yudhishthira the just, said these words in reply, 'This very day is, an 
 
 
 
-# Section LXVI   
+## Section LXVI   
 
 
 
@@ -1049,7 +1049,7 @@ to king Yudhishthira the just, said these words in reply, 'This very day is, an 
 
 
 
-# Section LXVII   
+## Section LXVII   
 
 
 
@@ -1059,7 +1059,7 @@ the three worlds (of being) if dead. What need I say, therefore, of this darling
 
 
 
-# Section LXVIII   
+## Section LXVIII   
 
 
 
@@ -1067,7 +1067,7 @@ the three worlds (of being) if dead. What need I say, therefore, of this darling
 
 
 
-# Section LXIX   
+## Section LXIX   
 
 
 
@@ -1075,7 +1075,7 @@ the three worlds (of being) if dead. What need I say, therefore, of this darling
 
 
 
-# Section LXX   
+## Section LXX   
 
 
 
@@ -1085,7 +1085,7 @@ ladies became filled with joy. At the command of Govinda, the Brahmanas were mad
 
 
 
-# Section LXXI   
+## Section LXXI   
 
 
 
@@ -1099,7 +1099,7 @@ The Pandavas then, uniting with the Vrishnis according to the usual formalities,
 
 
 
-# Section LXXII   
+## Section LXXII   
 
 
 
@@ -1121,7 +1121,7 @@ animal, duly protected, wander over the Earth.'
 
 
 
-# Section LXXIII   
+## Section LXXIII   
 
 
 
@@ -1129,7 +1129,7 @@ animal, duly protected, wander over the Earth.'
 
 
 
-# Section LXXIV   
+## Section LXXIV   
 
 
 
@@ -1137,7 +1137,7 @@ animal, duly protected, wander over the Earth.'
 
 
 
-# Section LXXV   
+## Section LXXV   
 
 
 
@@ -1147,7 +1147,7 @@ flames of fire and that seemed to be so many snakes of virulent poison. Pierced 
 
 
 
-# Section LXXVI   
+## Section LXXVI   
 
 
 
@@ -1157,7 +1157,7 @@ deeply in the very vitals, O king, by the son of Pandu, the beast suddenly fell 
 
 
 
-# Section LXXVII   
+## Section LXXVII   
 
 
 
@@ -1165,7 +1165,7 @@ deeply in the very vitals, O king, by the son of Pandu, the beast suddenly fell 
 
 
 
-# Section LXXVIII   
+## Section LXXVIII   
 
 
 
@@ -1173,7 +1173,7 @@ deeply in the very vitals, O king, by the son of Pandu, the beast suddenly fell 
 
 
 
-# Section LXXIX   
+## Section LXXIX   
 
 
 
@@ -1183,7 +1183,7 @@ of Kuru's race, this hero that is irresistible in battle. Without doubt, he will
 
 
 
-# Section LXXX   
+## Section LXXX   
 
 
 
@@ -1197,7 +1197,7 @@ these words, the king, deeply afflicted with grief, O monarch, touched water, an
 
 
 
-# Section LXXXI   
+## Section LXXXI   
 
 
 
@@ -1205,7 +1205,7 @@ these words, the king, deeply afflicted with grief, O monarch, touched water, an
 
 
 
-# Section LXXXII   
+## Section LXXXII   
 
 
 
@@ -1213,7 +1213,7 @@ these words, the king, deeply afflicted with grief, O monarch, touched water, an
 
 
 
-# Section LXXXIII   
+## Section LXXXIII   
 
 
 
@@ -1223,7 +1223,7 @@ and the hillmen of Kolwa. Subjugating those tribes without having to accomplish 
 
 
 
-# Section LXXXIV   
+## Section LXXXIV   
 
 
 
@@ -1233,7 +1233,7 @@ in battle, the royal son of Sakuni came forward to resist the son of Pandu. Unto
 
 
 
-# Section LXXXV   
+## Section LXXXV   
 
 
 
@@ -1247,7 +1247,7 @@ great intelligence. Many hills of food, O king, were dedicated on the occasion. 
 
 
 
-# Section LXXXVI   
+## Section LXXXVI   
 
 
 
@@ -1255,7 +1255,7 @@ great intelligence. Many hills of food, O king, were dedicated on the occasion. 
 
 
 
-# Section LXXXVII   
+## Section LXXXVII   
 
 
 
@@ -1265,7 +1265,7 @@ the sacrificial priests, who heard of the agreeable triumphs of Arjuna in course
 
 
 
-# Section LXXXVIII   
+## Section LXXXVIII   
 
 
 
@@ -1277,7 +1277,7 @@ dancing in merriment. It teemed, besides, with Kimpurushas and was adorned with 
 
 
 
-# Section LXXXIX   
+## Section LXXXIX   
 
 
 
@@ -1287,7 +1287,7 @@ son of Pandu, that chastiser of foes, then duly worshipped the high-souled Govin
 
 
 
-# Section XC   
+## Section XC   
 
 
 
@@ -1321,7 +1321,7 @@ food and observing vows? Thou art endued with purity and good conduct and penanc
 
 
 
-# Section XCI   
+## Section XCI   
 
 
 
@@ -1331,7 +1331,7 @@ food and observing vows? Thou art endued with purity and good conduct and penanc
 
 
 
-# Section XCII   
+## Section XCII   
 
 
 

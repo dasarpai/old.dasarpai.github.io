@@ -1,6 +1,6 @@
 ---
 id: 3    
-title: "Corpus: KM Ganguli Mahabharat 03"
+title: "Corpus: KM Ganguli Mahabharat 03 - Aranyaka Parva "
 layout: single
 toc_sticky: true
 permalink: /mb-kmganguli-mahabharat_03
@@ -19,9 +19,11 @@ sidebar:
    nav: "docs"
 ---
 
-# Section I   
 
 # Aranyaka Parva 
+
+## Section I   
+
 
 Om! Having bowed down to Narayana, and Nara the foremost of male beings, and the goddess Saraswati also, must the word Jaya be uttered.   
 
@@ -43,7 +45,7 @@ Om! Having bowed down to Narayana, and Nara the foremost of male beings, and the
 
 
 
-# Section II   
+## Section II   
 
 
 
@@ -71,7 +73,7 @@ knoweth not himself! And like unto a wheel that is incessantly rolling, every cr
 
 
 
-# Section III   
+## Section III   
 
 
 
@@ -101,7 +103,7 @@ consisteth of a full thousand Yugas. Thou art the lord of Manus and of the sons 
 
 
 
-# Section IV   
+## Section IV   
 
 
 
@@ -119,7 +121,7 @@ And do thou pacify Yudhishthira by placing him on the throne with every mark of 
 
 
 
-# Section V   
+## Section V   
 
 
 
@@ -131,7 +133,7 @@ And do thou pacify Yudhishthira by placing him on the throne with every mark of 
 
 
 
-# Section VI   
+## Section VI   
 
 
 
@@ -145,7 +147,7 @@ Vaisampayana continued, 'Thus addressed by Sanjaya, the intelligent Vidura, ever
 
 
 
-# Section VII   
+## Section VII   
 
 
 
@@ -159,7 +161,7 @@ Vaisampayana continued, 'Thus addressed by Sanjaya, the intelligent Vidura, ever
 
 
 
-# Section VIII   
+## Section VIII   
 
 
 
@@ -167,7 +169,7 @@ Vaisampayana continued, 'Thus addressed by Sanjaya, the intelligent Vidura, ever
 
 
 
-# Section IX   
+## Section IX   
 
 
 
@@ -181,7 +183,7 @@ Vaisampayana continued, 'Thus addressed by Sanjaya, the intelligent Vidura, ever
 
 
 
-# Section X   
+## Section X   
 
 
 
@@ -205,7 +207,7 @@ Vaisampayana continued, 'Thus addressed by Sanjaya, the intelligent Vidura, ever
 
 
 
-# Section XI   
+## Section XI   
 
 
 
@@ -227,7 +229,7 @@ Vaisampayana continued, 'Hearing the account of the slaughter in combat of Kirmi
 
 
 
-# Section XII   
+## Section XII   
 
 
 
@@ -255,7 +257,7 @@ chief of all the gods, the highest of the high! O Janardana, at each sacrifice t
 
 
 
-# Section XIII   
+## Section XIII   
 
 
 
@@ -263,7 +265,7 @@ chief of all the gods, the highest of the high! O Janardana, at each sacrifice t
 
 
 
-# Section XIV   
+## Section XIV   
 
 
 
@@ -273,7 +275,7 @@ chief of all the gods, the highest of the high! O Janardana, at each sacrifice t
 
 
 
-# Section XV   
+## Section XV   
 
 
 
@@ -283,7 +285,7 @@ chief of all the gods, the highest of the high! O Janardana, at each sacrifice t
 
 
 
-# Section XVI   
+## Section XVI   
 
 
 
@@ -291,7 +293,7 @@ chief of all the gods, the highest of the high! O Janardana, at each sacrifice t
 
 
 
-# Section XVII   
+## Section XVII   
 
 
 
@@ -299,7 +301,7 @@ chief of all the gods, the highest of the high! O Janardana, at each sacrifice t
 
 
 
-# Section XVIII   
+## Section XVIII   
 
 
 
@@ -309,7 +311,7 @@ chief of all the gods, the highest of the high! O Janardana, at each sacrifice t
 
 
 
-# Section XIX   
+## Section XIX   
 
 
 
@@ -319,7 +321,7 @@ Vasudeva continued, Thus addressed, the son of Suta race replied in haste unto P
 
 
 
-# Section XX   
+## Section XX   
 
 
 
@@ -327,7 +329,7 @@ Vasudeva continued, Thus addressed, the son of Suta race replied in haste unto P
 
 
 
-# Section XXI   
+## Section XXI   
 
 
 
@@ -337,7 +339,7 @@ Vasudeva continued, Thus addressed, the son of Suta race replied in haste unto P
 
 
 
-# Section XXII   
+## Section XXII   
 
 
 
@@ -347,7 +349,7 @@ Vaisampayana continued, "Having addressed the Kaurava thus, that foremost of mal
 
 
 
-# Section XXIII   
+## Section XXIII   
 
 
 
@@ -355,7 +357,7 @@ Vaisampayana continued, "After the chief of the Dasharhas had departed, the hero
 
 
 
-# Section XXIV   
+## Section XXIV   
 
 
 
@@ -365,7 +367,7 @@ Vaisampayana said, "After they had departed, Yudhishthira the virtuous son of Ku
 
 
 
-# Section XXV   
+## Section XXV   
 
 
 
@@ -375,7 +377,7 @@ Vaisampayana continued, "Having spoken these words unto Yudhishthira (seated) in
 
 
 
-# Section XXVI   
+## Section XXVI   
 
 
 
@@ -385,7 +387,7 @@ Vaisampayana continued, "Then all those Brahmanas who were with Yudhishthira wor
 
 
 
-# Section XXVII   
+## Section XXVII   
 
 
 
@@ -393,7 +395,7 @@ Vaisampayana said, "Exiled to the woods the sons of Pritha with Krishna seated i
 
 
 
-# Section XXVIII   
+## Section XXVIII   
 
 
 
@@ -407,7 +409,7 @@ Vaisampayana said, "Exiled to the woods the sons of Pritha with Krishna seated i
 
 
 
-# Section XXIX   
+## Section XXIX   
 
 
 
@@ -415,7 +417,7 @@ Yudhishthira said, 'Anger is the slayer of men and is again their prosperor. Kno
 
 
 
-# Section XXX   
+## Section XXX   
 
 
 
@@ -423,7 +425,7 @@ Yudhishthira said, 'Anger is the slayer of men and is again their prosperor. Kno
 
 
 
-# Section XXXI   
+## Section XXXI   
 
 
 
@@ -431,7 +433,7 @@ Yudhishthira said, 'Anger is the slayer of men and is again their prosperor. Kno
 
 
 
-# Section XXXII   
+## Section XXXII   
 
 
 
@@ -439,7 +441,7 @@ Yudhishthira said, 'Anger is the slayer of men and is again their prosperor. Kno
 
 
 
-# Section XXXIII   
+## Section XXXIII   
 
 
 
@@ -449,7 +451,7 @@ Yudhishthira said, 'Anger is the slayer of men and is again their prosperor. Kno
 
 
 
-# Section XXXIV   
+## Section XXXIV   
 
 
 
@@ -457,7 +459,7 @@ Vaisampayana said, "Thus addressed by Bhimasena, the high-souled king Ajatasatru
 
 
 
-# Section XXXV   
+## Section XXXV   
 
 
 
@@ -465,7 +467,7 @@ Bhima said, 'O king, unsubstantial as thou art like froth, unstable like a fruit
 
 
 
-# Section XXXVI   
+## Section XXXVI   
 
 
 
@@ -481,7 +483,7 @@ Vaisampayana continued, "Having addressed him thus, that illustrious and exalted
 
 
 
-# Section XXXVII   
+## Section XXXVII   
 
 
 
@@ -493,7 +495,7 @@ Vaisampayana continued, "Krishna, the daughter of Yajnasena, having uttered thes
 
 
 
-# Section XXXVIII   
+## Section XXXVIII   
 
 
 
@@ -509,7 +511,7 @@ Vaisampayana continued, "The truth-speaking Rishis, having heard these words of 
 
 
 
-# Section XXXIX   
+## Section XXXIX   
 
 
 
@@ -521,7 +523,7 @@ Vaisampayana continued, "Endued with great might, the god whose sign was the bul
 
 
 
-# Section XL   
+## Section XL   
 
 
 
@@ -535,7 +537,7 @@ Vaisampayana continued, "Hearing these words, the son of Pritha purified himself
 
 
 
-# Section XLI   
+## Section XLI   
 
 
 
@@ -553,7 +555,7 @@ Vaisampayana continued, "After both Varuna and Yama had given away their celesti
 
 
 
-# Section XLII   
+## Section XLII   
 
 
 
@@ -567,7 +569,7 @@ Vaisampayana continued, "Matali, the charioteer of Sakra, hearing these words of
 
 
 
-# Section XLIII   
+## Section XLIII   
 
 
 
@@ -575,7 +577,7 @@ Vaisampayana said, "And the city of Indra which Arjuna saw was delightful and wa
 
 
 
-# Section XLIV   
+## Section XLIV   
 
 
 
@@ -585,7 +587,7 @@ Vaisampayana said, "The gods and the Gandharvas then, understanding the wishes o
 
 
 
-# Section XLV   
+## Section XLV   
 
 
 
@@ -595,7 +597,7 @@ Vaisampayana said, "One day, knowing that Arjuna's glances were cast upon Urvasi
 
 
 
-# Section XLVI   
+## Section XLVI   
 
 
 
@@ -619,7 +621,7 @@ Vaisampayana continued, "Having cursed Arjuna thus, Urvasi's lips still quivered
 
 
 
-# Section XLVII   
+## Section XLVII   
 
 
 
@@ -629,7 +631,7 @@ Vaisampayana continued, "The mighty ascetic Lomasa, having answered both saying,
 
 
 
-# Section XLVIII   
+## Section XLVIII   
 
 
 
@@ -639,7 +641,7 @@ Vaisampayana said, "Amvika's son, king Dhritarashtra, having heard of Arjuna's a
 
 
 
-# Section XLIX   
+## Section XLIX   
 
 
 
@@ -649,7 +651,7 @@ Vaisampayana said, "Amvika's son, king Dhritarashtra, having heard of Arjuna's a
 
 
 
-# Section L   
+## Section L   
 
 
 
@@ -659,7 +661,7 @@ Vaisampayana said, "Those bulls among men, collecting the produce of the wildern
 
 
 
-# Section LI   
+## Section LI   
 
 
 
@@ -671,7 +673,7 @@ Sanjaya said, "This hath been thy great fault, O king, viz., that though capable
 
 
 
-# Section LII   
+## Section LII   
 
 
 
@@ -697,7 +699,7 @@ Vaisampayana continued, "And thereupon the king said unto the ascetic, 'O illust
 
 
 
-# Section LIII   
+## Section LIII   
 
 
 
@@ -705,7 +707,7 @@ Vrihadaswa said, "There was a king named Nala, the son of Virasena. And he was s
 
 
 
-# Section LIV   
+## Section LIV   
 
 
 
@@ -717,7 +719,7 @@ Vrihadaswa said, "There was a king named Nala, the son of Virasena. And he was s
 
 
 
-# Section LV   
+## Section LV   
 
 
 
@@ -727,7 +729,7 @@ Vrihadaswa said, "There was a king named Nala, the son of Virasena. And he was s
 
 
 
-# Section LVI   
+## Section LVI   
 
 
 
@@ -735,7 +737,7 @@ Vrihadaswa said, "There was a king named Nala, the son of Virasena. And he was s
 
 
 
-# Section LVII   
+## Section LVII   
 
 
 
@@ -743,7 +745,7 @@ Vrihadaswa said, "There was a king named Nala, the son of Virasena. And he was s
 
 
 
-# Section LVIII   
+## Section LVIII   
 
 
 
@@ -751,7 +753,7 @@ Vrihadaswa said, "There was a king named Nala, the son of Virasena. And he was s
 
 
 
-# Section LIX   
+## Section LIX   
 
 
 
@@ -759,7 +761,7 @@ Vrihadaswa said, "There was a king named Nala, the son of Virasena. And he was s
 
 
 
-# Section LX   
+## Section LX   
 
 
 
@@ -767,7 +769,7 @@ Vrihadaswa said. "Bhima's daughter, the cool-headed Damayanti, seeing the righte
 
 
 
-# Section LXI   
+## Section LXI   
 
 
 
@@ -775,7 +777,7 @@ Vrihadaswa said. "Bhima's daughter, the cool-headed Damayanti, seeing the righte
 
 
 
-# Section LXII   
+## Section LXII   
 
 
 
@@ -785,7 +787,7 @@ Vrihadaswa said. "Bhima's daughter, the cool-headed Damayanti, seeing the righte
 
 
 
-# Section LXIII   
+## Section LXIII   
 
 
 
@@ -793,7 +795,7 @@ Vrihadaswa said, "O king, after Nala had gone away, the beauteous Damayanti, now
 
 
 
-# Section LXIV   
+## Section LXIV   
 
 
 
@@ -807,7 +809,7 @@ Unto Bhima's daughter, Damayanti, lamenting forlorn in that forest, the truth-te
 
 
 
-# Section LXV   
+## Section LXV   
 
 
 
@@ -821,7 +823,7 @@ Unto Bhima's daughter, Damayanti, lamenting forlorn in that forest, the truth-te
 
 
 
-# Section LXVI   
+## Section LXVI   
 
 
 
@@ -829,7 +831,7 @@ Unto Bhima's daughter, Damayanti, lamenting forlorn in that forest, the truth-te
 
 
 
-# Section LXVII   
+## Section LXVII   
 
 
 
@@ -841,7 +843,7 @@ Unto Bhima's daughter, Damayanti, lamenting forlorn in that forest, the truth-te
 
 
 
-# Section LXVIII   
+## Section LXVIII   
 
 
 
@@ -853,7 +855,7 @@ Unto Bhima's daughter, Damayanti, lamenting forlorn in that forest, the truth-te
 
 
 
-# Section LXIX   
+## Section LXIX   
 
 
 
@@ -865,7 +867,7 @@ Unto Bhima's daughter, Damayanti, lamenting forlorn in that forest, the truth-te
 
 
 
-# Section LXX   
+## Section LXX   
 
 
 
@@ -875,7 +877,7 @@ Unto Bhima's daughter, Damayanti, lamenting forlorn in that forest, the truth-te
 
 
 
-# Section LXXI   
+## Section LXXI   
 
 
 
@@ -883,7 +885,7 @@ Unto Bhima's daughter, Damayanti, lamenting forlorn in that forest, the truth-te
 
 
 
-# Section LXXII   
+## Section LXXII   
 
 
 
@@ -891,7 +893,7 @@ Unto Bhima's daughter, Damayanti, lamenting forlorn in that forest, the truth-te
 
 
 
-# Section LXXIII   
+## Section LXXIII   
 
 
 
@@ -903,7 +905,7 @@ Unto Bhima's daughter, Damayanti, lamenting forlorn in that forest, the truth-te
 
 
 
-# Section LXXIV   
+## Section LXXIV   
 
 
 
@@ -913,7 +915,7 @@ Unto Bhima's daughter, Damayanti, lamenting forlorn in that forest, the truth-te
 
 
 
-# Section LXXV   
+## Section LXXV   
 
 
 
@@ -923,7 +925,7 @@ Unto Bhima's daughter, Damayanti, lamenting forlorn in that forest, the truth-te
 
 
 
-# Section LXXVI   
+## Section LXXVI   
 
 
 
@@ -931,7 +933,7 @@ Unto Bhima's daughter, Damayanti, lamenting forlorn in that forest, the truth-te
 
 
 
-# Section LXXVII   
+## Section LXXVII   
 
 
 
@@ -939,7 +941,7 @@ Unto Bhima's daughter, Damayanti, lamenting forlorn in that forest, the truth-te
 
 
 
-# Section LXXVIII   
+## Section LXXVIII   
 
 
 
@@ -949,7 +951,7 @@ Unto Bhima's daughter, Damayanti, lamenting forlorn in that forest, the truth-te
 
 
 
-# Section LXXIX   
+## Section LXXIX   
 
 
 
@@ -961,7 +963,7 @@ Vaisampayana continued, "King Yudhishthira then, with a glad heart, said unto Vr
 
 
 
-# Section LXXX   
+## Section LXXX   
 
 
 
@@ -977,7 +979,7 @@ Vaisampayana said, "After Arjuna of unbaffled prowess had gone away from Kamyaka
 
 
 
-# Section LXXXI   
+## Section LXXXI   
 
 
 
@@ -987,7 +989,7 @@ Vaisampayana said, "Hearing these words of his brothers as also of Krishna, all 
 
 
 
-# Section LXXXII   
+## Section LXXXII   
 
 
 
@@ -1007,7 +1009,7 @@ mysteries of the Rishis, are even superior to sacrifices. He is a poor man who h
 
 
 
-# Section LXXXIII   
+## Section LXXXIII   
 
 
 
@@ -1019,7 +1021,7 @@ mysteries of the Rishis, are even superior to sacrifices. He is a poor man who h
 
 
 
-# Section LXXXIV   
+## Section LXXXIV   
 
 
 
@@ -1027,7 +1029,7 @@ mysteries of the Rishis, are even superior to sacrifices. He is a poor man who h
 
 
 
-# Section LXXXV   
+## Section LXXXV   
 
 
 
@@ -1043,7 +1045,7 @@ Vaisampayana continued, "O great king, having comforted the monarch thus, the il
 
 
 
-# Section LXXXVI   
+## Section LXXXVI   
 
 
 
@@ -1051,7 +1053,7 @@ Vaisampayana continued, "O great king, having comforted the monarch thus, the il
 
 
 
-# Section LXXXVII   
+## Section LXXXVII   
 
 
 
@@ -1059,7 +1061,7 @@ Vaisampayana said, "Beholding the Pandavas afflicted with anxiety and depressed 
 
 
 
-# Section LXXXVIII   
+## Section LXXXVIII   
 
 
 
@@ -1069,7 +1071,7 @@ Vaisampayana said, "Beholding the Pandavas afflicted with anxiety and depressed 
 
 
 
-# Section LXXXIX   
+## Section LXXXIX   
 
 
 
@@ -1077,7 +1079,7 @@ Vaisampayana said, "Beholding the Pandavas afflicted with anxiety and depressed 
 
 
 
-# Section XC   
+## Section XC   
 
 
 
@@ -1085,7 +1087,7 @@ Vaisampayana said, "Beholding the Pandavas afflicted with anxiety and depressed 
 
 
 
-# Section XCI   
+## Section XCI   
 
 
 
@@ -1093,7 +1095,7 @@ Vaisampayana continued, "O son of the Kuru race, while Dhaumya was speaking thus
 
 
 
-# Section XCII   
+## Section XCII   
 
 
 
@@ -1109,7 +1111,7 @@ Vaisampayana continued, "And thereupon oppressed with grief, the citizens and th
 
 
 
-# Section XCIII   
+## Section XCIII   
 
 
 
@@ -1121,7 +1123,7 @@ Vaisampayana said, "Those Brahmanas then, that had been dwelling (with him) in t
 
 
 
-# Section XCIV   
+## Section XCIV   
 
 
 
@@ -1131,7 +1133,7 @@ Vaisampayana said, "Those Brahmanas then, that had been dwelling (with him) in t
 
 
 
-# Section XCV   
+## Section XCV   
 
 
 
@@ -1141,7 +1143,7 @@ Vaisampayana said, "The heroic sons of Pandu, accompanied by their followers, pr
 
 
 
-# Section XCVI   
+## Section XCVI   
 
 
 
@@ -1153,7 +1155,7 @@ Vaisampayana said, "After this the royal son of Kunti who was ever distinguished
 
 
 
-# Section XCVII   
+## Section XCVII   
 
 
 
@@ -1165,7 +1167,7 @@ Vaisampayana said, "After this the royal son of Kunti who was ever distinguished
 
 
 
-# Section XCVIII   
+## Section XCVIII   
 
 
 
@@ -1181,7 +1183,7 @@ Vaisampayana said, "After this the royal son of Kunti who was ever distinguished
 
 
 
-# Section XCIX   
+## Section XCIX   
 
 
 
@@ -1197,7 +1199,7 @@ Vaisampayana continued, "At these words of Lomasa, Yudhishthira bathed there wit
 
 
 
-# Section C   
+## Section C   
 
 
 
@@ -1207,7 +1209,7 @@ Vaisampayana continued, "At these words of Lomasa, Yudhishthira bathed there wit
 
 
 
-# Section CI   
+## Section CI   
 
 
 
@@ -1215,7 +1217,7 @@ Vaisampayana continued, "At these words of Lomasa, Yudhishthira bathed there wit
 
 
 
-# Section CII   
+## Section CII   
 
 
 
@@ -1223,7 +1225,7 @@ Vaisampayana continued, "At these words of Lomasa, Yudhishthira bathed there wit
 
 
 
-# Section CIII   
+## Section CIII   
 
 
 
@@ -1233,7 +1235,7 @@ Vaisampayana continued, "At these words of Lomasa, Yudhishthira bathed there wit
 
 
 
-# Section CIV   
+## Section CIV   
 
 
 
@@ -1247,7 +1249,7 @@ Vaisampayana continued, "At these words of Lomasa, Yudhishthira bathed there wit
 
 
 
-# Section CV   
+## Section CV   
 
 
 
@@ -1255,7 +1257,7 @@ Vaisampayana continued, "At these words of Lomasa, Yudhishthira bathed there wit
 
 
 
-# Section CVI   
+## Section CVI   
 
 
 
@@ -1269,7 +1271,7 @@ Vaisampayana continued, "At these words of Lomasa, Yudhishthira bathed there wit
 
 
 
-# Section CVII   
+## Section CVII   
 
 
 
@@ -1285,7 +1287,7 @@ Vaisampayana continued, "At these words of Lomasa, Yudhishthira bathed there wit
 
 
 
-# Section CVIII   
+## Section CVIII   
 
 
 
@@ -1297,7 +1299,7 @@ Vaisampayana continued, "At these words of Lomasa, Yudhishthira bathed there wit
 
 
 
-# Section CIX   
+## Section CIX   
 
 
 
@@ -1305,7 +1307,7 @@ Vaisampayana continued, "At these words of Lomasa, Yudhishthira bathed there wit
 
 
 
-# Section CX   
+## Section CX   
 
 
 
@@ -1321,7 +1323,7 @@ Vaisampayana said, "O chief of the Bharata race! then the son of Kunti went at a
 
 
 
-# Section CXI   
+## Section CXI   
 
 
 
@@ -1337,7 +1339,7 @@ Lomasa said, "She, however, threw aside all those edible things and then gave hi
 
 
 
-# Section CXII   
+## Section CXII   
 
 
 
@@ -1345,7 +1347,7 @@ Lomasa said, "She, however, threw aside all those edible things and then gave hi
 
 
 
-# Section CXIII   
+## Section CXIII   
 
 
 
@@ -1355,7 +1357,7 @@ Lomasa said, "She, however, threw aside all those edible things and then gave hi
 
 
 
-# Section CXIV   
+## Section CXIV   
 
 
 
@@ -1375,7 +1377,7 @@ Lomasa said, "She, however, threw aside all those edible things and then gave hi
 
 
 
-# Section CXV   
+## Section CXV   
 
 
 
@@ -1391,7 +1393,7 @@ Lomasa said, "She, however, threw aside all those edible things and then gave hi
 
 
 
-# Section CXVI   
+## Section CXVI   
 
 
 
@@ -1399,7 +1401,7 @@ Lomasa said, "She, however, threw aside all those edible things and then gave hi
 
 
 
-# Section CXVII   
+## Section CXVII   
 
 
 
@@ -1409,7 +1411,7 @@ Lomasa said, "She, however, threw aside all those edible things and then gave hi
 
 
 
-# Section CXVIII   
+## Section CXVIII   
 
 
 
@@ -1417,7 +1419,7 @@ Vaisampayana said, "The magnanimous monarch pursued his journey, and at differen
 
 
 
-# Section CXIX   
+## Section CXIX   
 
 
 
@@ -1427,7 +1429,7 @@ Vaisampayana said, "When the Vrishnis reached the holy spot Prabhasa, the sacred
 
 
 
-# Section CXX   
+## Section CXX   
 
 
 
@@ -1439,7 +1441,7 @@ Satyaki said, "O Rama! this is not the time of lamentation; let us do that which
 
 
 
-# Section CXXI   
+## Section CXXI   
 
 
 
@@ -1453,7 +1455,7 @@ Vaisampayana said, "O most praiseworthy of men! Yudhishthira with his brothers p
 
 
 
-# Section CXXII   
+## Section CXXII   
 
 
 
@@ -1463,7 +1465,7 @@ Lomasa said, "Hearing the words of the sage, Saryati, without pausing, bestowed 
 
 
 
-# Section CXXIII   
+## Section CXXIII   
 
 
 
@@ -1475,7 +1477,7 @@ Lomasa said, "Hearing the words of the sage, Saryati, without pausing, bestowed 
 
 
 
-# Section CXXIV   
+## Section CXXIV   
 
 
 
@@ -1485,7 +1487,7 @@ Lomasa said, "Hearing the words of the sage, Saryati, without pausing, bestowed 
 
 
 
-# Section CXXV   
+## Section CXXV   
 
 
 
@@ -1493,7 +1495,7 @@ Lomasa said, "Hearing the words of the sage, Saryati, without pausing, bestowed 
 
 
 
-# Section CXXVI   
+## Section CXXVI   
 
 
 
@@ -1505,7 +1507,7 @@ Vaisampayana said, "O scion of Bharata's race! Kunti's son, thus addressed by th
 
 
 
-# Section CXXVII   
+## Section CXXVII   
 
 
 
@@ -1523,7 +1525,7 @@ Yudhishthira said, 'O best of speakers! what was the extent of power and strengt
 
 
 
-# Section CXXVIII   
+## Section CXXVIII   
 
 
 
@@ -1541,7 +1543,7 @@ Yudhishthira said, 'O best of speakers! what was the extent of power and strengt
 
 
 
-# Section CXXIX   
+## Section CXXIX   
 
 
 
@@ -1553,7 +1555,7 @@ Vaisampayana said, "Then that most praiseworthy of Pandu's sons, there bathed wi
 
 
 
-# Section CXXX   
+## Section CXXX   
 
 
 
@@ -1561,7 +1563,7 @@ Vaisampayana said, "Then that most praiseworthy of Pandu's sons, there bathed wi
 
 
 
-# Section CXXXI   
+## Section CXXXI   
 
 
 
@@ -1575,7 +1577,7 @@ Vaisampayana said, "Then that most praiseworthy of Pandu's sons, there bathed wi
 
 
 
-# Section CXXXII   
+## Section CXXXII   
 
 
 
@@ -1587,7 +1589,7 @@ Vaisampayana said, "Then that most praiseworthy of Pandu's sons, there bathed wi
 
 
 
-# Section CXXXIII   
+## Section CXXXIII   
 
 
 
@@ -1597,7 +1599,7 @@ Vaisampayana said, "Then that most praiseworthy of Pandu's sons, there bathed wi
 
 
 
-# Section CXXXIV   
+## Section CXXXIV   
 
 
 
@@ -1625,7 +1627,7 @@ Vandin said, 'I am King Varuna's son. I have no fear (therefore) in being drowne
 
 
 
-# Section CXXXV   
+## Section CXXXV   
 
 
 
@@ -1647,7 +1649,7 @@ in ancient times, the holy sage Sanatkumara attained ascetic success. O scion of
 
 
 
-# Section CXXXVI   
+## Section CXXXVI   
 
 
 
@@ -1655,7 +1657,7 @@ in ancient times, the holy sage Sanatkumara attained ascetic success. O scion of
 
 
 
-# Section CXXXVII   
+## Section CXXXVII   
 
 
 
@@ -1663,7 +1665,7 @@ in ancient times, the holy sage Sanatkumara attained ascetic success. O scion of
 
 
 
-# Section CXXXVIII   
+## Section CXXXVIII   
 
 
 
@@ -1677,7 +1679,7 @@ in ancient times, the holy sage Sanatkumara attained ascetic success. O scion of
 
 
 
-# Section CXXXIX   
+## Section CXXXIX   
 
 
 
@@ -1693,7 +1695,7 @@ in ancient times, the holy sage Sanatkumara attained ascetic success. O scion of
 
 
 
-# Section CXL   
+## Section CXL   
 
 
 
@@ -1713,7 +1715,7 @@ Vaisampayana said, "O king, thus conversing together, they saw with delight the 
 
 
 
-# Section CXLI   
+## Section CXLI   
 
 
 
@@ -1733,7 +1735,7 @@ Vaisampayana said, "O Janamejaya, having heard this story, all the Pandavas with
 
 
 
-# Section CXLII   
+## Section CXLII   
 
 
 
@@ -1741,7 +1743,7 @@ Vaisampayana said, "O king, then those foremost of bowmen, of immeasurable prowe
 
 
 
-# Section CXLIII   
+## Section CXLIII   
 
 
 
@@ -1755,7 +1757,7 @@ Vaisampayana said, "Then with Yudhishthira's permission, Bhima thought of his Ra
 
 
 
-# Section CXLIV   
+## Section CXLIV   
 
 
 
@@ -1767,7 +1769,7 @@ Vaisampayana said, "Saying this, Ghatotkacha carried Krishna in the midst of the
 
 
 
-# Section CXLV   
+## Section CXLV   
 
 
 
@@ -1777,7 +1779,7 @@ Vaisampayana said, "There observing cleanliness, those tigers among men dwelt fo
 
 
 
-# Section CXLVI   
+## Section CXLVI   
 
 
 
@@ -1787,7 +1789,7 @@ Vaisampayana continued. "Then knowing him (Bhima) to be intoxicated with strengt
 
 
 
-# Section CXLVII   
+## Section CXLVII   
 
 
 
@@ -1795,7 +1797,7 @@ Hanuman said, 'And after his wife was carried away, that descendant of Raghu, wh
 
 
 
-# Section CXLVIII   
+## Section CXLVIII   
 
 
 
@@ -1803,7 +1805,7 @@ Vaisampayana continued, "Thus addressed, the powerful Bhimasena of mighty arms, 
 
 
 
-# Section CXLIX   
+## Section CXLIX   
 
 
 
@@ -1817,7 +1819,7 @@ Vaisampayana continued, "Thus addressed by Bhima, Hanuman, the chief of monkeys,
 
 
 
-# Section CL   
+## Section CL   
 
 
 
@@ -1827,7 +1829,7 @@ Vaisampayana said, "Hearing those words of that high-souled one, Bhimasena with 
 
 
 
-# Section CLI   
+## Section CLI   
 
 
 
@@ -1835,7 +1837,7 @@ Vaisampayana said, "When that foremost of monkeys had gone away, Bhima, the best
 
 
 
-# Section CLII   
+## Section CLII   
 
 
 
@@ -1843,7 +1845,7 @@ Vaisampayana said, "Having reached that spot, Bhimasena saw in the vicinity of t
 
 
 
-# Section CLIII   
+## Section CLIII   
 
 
 
@@ -1855,7 +1857,7 @@ Vaisampayana said, "Having said this unto the Rakshasas, the mighty-armed and ex
 
 
 
-# Section CLIV   
+## Section CLIV   
 
 
 
@@ -1865,7 +1867,7 @@ Vaisampayana said, "Then, O best of the Bharatas, Bhima began to collect those r
 
 
 
-# Section CLV   
+## Section CLV   
 
 
 
@@ -1875,7 +1877,7 @@ Vaisampayana said, "When that king had said this, an aerial voice spake, saying.
 
 
 
-# Section CLVI   
+## Section CLVI   
 
 
 
@@ -1889,7 +1891,7 @@ Vaisampayana continued, "Thus dwelling with the Brahmanas in that best of mounta
 
 
 
-# Section CLVII   
+## Section CLVII   
 
 
 
@@ -1901,7 +1903,7 @@ Vaisampayana said, "Having attained excellent state, those valiant and warlike r
 
 
 
-# Section CLVIII   
+## Section CLVIII   
 
 
 
@@ -1911,7 +1913,7 @@ Arshtishena said, 'During the Parvas sages subsisting on air and water come unto
 
 
 
-# Section CLIX   
+## Section CLIX   
 
 
 
@@ -1923,7 +1925,7 @@ Vaisampayana continued, "Having heard from that one of incomparable energy, (Ars
 
 
 
-# Section CLX   
+## Section CLX   
 
 
 
@@ -1941,7 +1943,7 @@ Vaisampayana said, "Having spoken thus unto the king, (Kuvera) said unto Bhimase
 
 
 
-# Section CLXI   
+## Section CLXI   
 
 
 
@@ -1955,7 +1957,7 @@ Vaisampayana said, "Having heard these words of the dispenser of wealth, the Pan
 
 
 
-# Section CLXII   
+## Section CLXII   
 
 
 
@@ -1963,7 +1965,7 @@ Vaisampayana continued, "Then, O represser of foes, at sunrise, having finished 
 
 
 
-# Section CLXIII   
+## Section CLXIII   
 
 
 
@@ -1971,7 +1973,7 @@ Vaisampayana continued, "Dwelling in that best of mountains those high-souled on
 
 
 
-# Section CLXIV   
+## Section CLXIV   
 
 
 
@@ -1983,7 +1985,7 @@ Vaisampayana continued, "And it came to pass that once a day as those mighty cha
 
 
 
-# Section CLXV   
+## Section CLXV   
 
 
 
@@ -1991,7 +1993,7 @@ Vaisampayana said, "Then when the night had been spent, Dhananjaya, together wit
 
 
 
-# Section CLXVI   
+## Section CLXVI   
 
 
 
@@ -2001,7 +2003,7 @@ Vaisampayana continued, "When Sakra had gone to his proper place, Vibhatsu toget
 
 
 
-# Section CLXVII   
+## Section CLXVII   
 
 
 
@@ -2015,7 +2017,7 @@ Vaisampayana continued, "When Sakra had gone to his proper place, Vibhatsu toget
 
 
 
-# Section CLXVIII   
+## Section CLXVIII   
 
 
 
@@ -2023,7 +2025,7 @@ Vaisampayana continued, "When Sakra had gone to his proper place, Vibhatsu toget
 
 
 
-# Section CLXIX   
+## Section CLXIX   
 
 
 
@@ -2031,7 +2033,7 @@ Vaisampayana continued, "When Sakra had gone to his proper place, Vibhatsu toget
 
 
 
-# Section CLXX   
+## Section CLXX   
 
 
 
@@ -2039,7 +2041,7 @@ Vaisampayana continued, "When Sakra had gone to his proper place, Vibhatsu toget
 
 
 
-# Section CLXXI   
+## Section CLXXI   
 
 
 
@@ -2049,7 +2051,7 @@ Vaisampayana continued, "When Sakra had gone to his proper place, Vibhatsu toget
 
 
 
-# Section CLXXII   
+## Section CLXXII   
 
 
 
@@ -2059,7 +2061,7 @@ Vaisampayana continued, "When Sakra had gone to his proper place, Vibhatsu toget
 
 
 
-# Section CLXXIII   
+## Section CLXXIII   
 
 
 
@@ -2073,7 +2075,7 @@ Vaisampayana said, "Thus having related (the facts touching) the arrival, Dhanan
 
 
 
-# Section CLXXIV   
+## Section CLXXIV   
 
 
 
@@ -2083,7 +2085,7 @@ Vaisampayana continued, "Having prevented Partha the immortals with others that 
 
 
 
-# Section CLXXV   
+## Section CLXXV   
 
 
 
@@ -2095,7 +2097,7 @@ Vaisampayana continued, "Then having learnt that intention of theirs, the magnan
 
 
 
-# Section CLXXVI   
+## Section CLXXVI   
 
 
 
@@ -2103,7 +2105,7 @@ Vaisampayana said, "When they had left their happy home in the beautiful mountai
 
 
 
-# Section CLXXVII   
+## Section CLXXVII   
 
 
 
@@ -2113,7 +2115,7 @@ Vaisampayana continued, "O king, having reached king Vrishaparva's hermitage, wh
 
 
 
-# Section CLXXVIII   
+## Section CLXXVIII   
 
 
 
@@ -2125,7 +2127,7 @@ Vaisampayana continued, "When the heroic Bhima of noble deed had said this, the 
 
 
 
-# Section CLXXIX   
+## Section CLXXIX   
 
 
 
@@ -2147,7 +2149,7 @@ serpent, it is difficult to ascertain one's caste, because of promiscuous interc
 
 
 
-# Section CLXXX   
+## Section CLXXX   
 
 
 
@@ -2171,7 +2173,7 @@ Vaisampayana continued, "So saying, that king, Nahusha, quitted his serpentine f
 
 
 
-# Section CLXXXI   
+## Section CLXXXI   
 
 
 
@@ -2181,7 +2183,7 @@ Vaisampayana said, "While they were dwelling at that place, there set in the sea
 
 
 
-# Section CLXXXII   
+## Section CLXXXII   
 
 
 
@@ -2199,7 +2201,7 @@ Vaisampayana continued, "Pandu's son, the king of the Kuru tribe, having observe
 
 
 
-# Section CLXXXIII   
+## Section CLXXXIII   
 
 
 
@@ -2207,7 +2209,7 @@ Vaisampayana continued,--"The sons of Pandu said to the high-souled Markandeya, 
 
 
 
-# Section CLXXXIV   
+## Section CLXXXIV   
 
 
 
@@ -2223,7 +2225,7 @@ Vaisampayana continued,--"The sons of Pandu said to the high-souled Markandeya, 
 
 
 
-# Section CLXXXV   
+## Section CLXXXV   
 
 
 
@@ -2237,7 +2239,7 @@ Vaisampayana continued,--"The sons of Pandu said to the high-souled Markandeya, 
 
 
 
-# Section CLXXXVI   
+## Section CLXXXVI   
 
 
 
@@ -2249,7 +2251,7 @@ Then Yudhishthira, the son of Pandu, said to the Brahmana, Markandeya, 'Do thou 
 
 
 
-# Section CLXXXVII   
+## Section CLXXXVII   
 
 
 
@@ -2263,7 +2265,7 @@ Then Yudhishthira, the son of Pandu, said to the Brahmana, Markandeya, 'Do thou 
 
 
 
-# Section CLXXXVIII   
+## Section CLXXXVIII   
 
 
 
@@ -2273,7 +2275,7 @@ Then Yudhishthira, the son of Pandu, said to the Brahmana, Markandeya, 'Do thou 
 
 
 
-# Section CLXXXIX   
+## Section CLXXXIX   
 
 
 
@@ -2293,7 +2295,7 @@ persons may take refuge."
 
 
 
-# Section CLXL   
+## Section CLXL   
 
 
 
@@ -2311,7 +2313,7 @@ Vaisampayana continued, "Having listened to the words of the intelligent Markand
 
 
 
-# Section CLXLI   
+## Section CLXLI   
 
 
 
@@ -2333,7 +2335,7 @@ come and some time after the king begot three sons upon her and those sons were 
 
 
 
-# Section CLXLII   
+## Section CLXLII   
 
 
 
@@ -2355,7 +2357,7 @@ Markandeya continued, "Hearing this, Vaka answered, saying, 'Life with persons t
 
 
 
-# Section CLXLIII   
+## Section CLXLIII   
 
 
 
@@ -2363,7 +2365,7 @@ Vaisampayana said, "Then the sons of Pandu again addressed Markandeya saying, 'T
 
 
 
-# Section CLXLIV   
+## Section CLXLIV   
 
 
 
@@ -2371,7 +2373,7 @@ Markandeya continued, "Listen now to another story. One day as king Yayati, the 
 
 
 
-# Section CLXLV   
+## Section CLXLV   
 
 
 
@@ -2379,7 +2381,7 @@ Vaisampayana said, "The son of Pandu again addressed the Rishi and said, 'Speak 
 
 
 
-# Section CLXLVI   
+## Section CLXLVI   
 
 
 
@@ -2387,7 +2389,7 @@ Vaisampayana said, "The son of Pandu again addressed the Rishi and said, 'Speak 
 
 
 
-# Section CLXLVII   
+## Section CLXLVII   
 
 
 
@@ -2399,7 +2401,7 @@ will fall down from heaven.'
 
 
 
-# Section CLXLVIII   
+## Section CLXLVIII   
 
 
 
@@ -2411,7 +2413,7 @@ Vaisampayana continued, "It was thus that Markandeya narrated all this unto the 
 
 
 
-# Section CLXLIX   
+## Section CLXLIX   
 
 
 
@@ -2445,7 +2447,7 @@ Vaisampayana continued, "Thus addressed, O great king, by the Rishi, Yudhishthir
 
 
 
-# Section CC   
+## Section CC   
 
 
 
@@ -2457,7 +2459,7 @@ Markandeya said, 'O royal Yudhishthira, listen to me, I will tell thee all! The 
 
 
 
-# Section CCI   
+## Section CCI   
 
 
 
@@ -2467,7 +2469,7 @@ Markandeya said, "O king, after the death of Ikshvaku, a highly virtuous king of
 
 
 
-# Section CCII   
+## Section CCII   
 
 
 
@@ -2481,7 +2483,7 @@ Markandeya said, "O king, after the death of Ikshvaku, a highly virtuous king of
 
 
 
-# Section CCIII   
+## Section CCIII   
 
 
 
@@ -2493,7 +2495,7 @@ Markandeya said, "O king, after the death of Ikshvaku, a highly virtuous king of
 
 
 
-# Section CCIV   
+## Section CCIV   
 
 
 
@@ -2503,7 +2505,7 @@ Vaisampayana said, "O thou foremost of the Bharata race, king Yudhisthira then a
 
 
 
-# Section CCV   
+## Section CCV   
 
 
 
@@ -2521,7 +2523,7 @@ Vaisampayana said, "O thou foremost of the Bharata race, king Yudhisthira then a
 
 
 
-# Section CCVI   
+## Section CCVI   
 
 
 
@@ -2533,7 +2535,7 @@ Vaisampayana said, "O thou foremost of the Bharata race, king Yudhisthira then a
 
 
 
-# Section CCVII   
+## Section CCVII   
 
 
 
@@ -2541,7 +2543,7 @@ Vaisampayana said, "O thou foremost of the Bharata race, king Yudhisthira then a
 
 
 
-# Section CCVIII   
+## Section CCVIII   
 
 
 
@@ -2551,7 +2553,7 @@ Markandeya continued, "O Yudhishthira, the virtuous fowler, eminent in pity, the
 
 
 
-# Section CCIX   
+## Section CCIX   
 
 
 
@@ -2559,7 +2561,7 @@ Markandeya continued, "O Yudhishthira, the virtuous fowler, eminent in pity, the
 
 
 
-# Section CCX   
+## Section CCX   
 
 
 
@@ -2567,7 +2569,7 @@ Markandeya continued, "O Yudhishthira, the virtuous fowler, eminent in pity, the
 
 
 
-# Section CCXI   
+## Section CCXI   
 
 
 
@@ -2575,7 +2577,7 @@ Markandeya continued, "O Bharata, the fowler having expounded these abstruse poi
 
 
 
-# Section CCXII   
+## Section CCXII   
 
 
 
@@ -2583,7 +2585,7 @@ Markandeya continued, "O Bharata, the fowler having expounded these abstruse poi
 
 
 
-# Section CCXIII   
+## Section CCXIII   
 
 
 
@@ -2591,7 +2593,7 @@ Markandeya continued, "O Bharata, the fowler having expounded these abstruse poi
 
 
 
-# Section CCXIV   
+## Section CCXIV   
 
 
 
@@ -2601,7 +2603,7 @@ Markandeya continued, "O Bharata, the fowler having expounded these abstruse poi
 
 
 
-# Section CCXV   
+## Section CCXV   
 
 
 
@@ -2615,7 +2617,7 @@ returning home was duly assiduous in his attention to his old parents. I have th
 
 
 
-# Section CCXVI   
+## Section CCXVI   
 
 
 
@@ -2625,7 +2627,7 @@ occupy thine own proper place.' Agni replied, 'My reputation has been injured no
 
 
 
-# Section CCXVII   
+## Section CCXVII   
 
 
 
@@ -2633,7 +2635,7 @@ Markandeya continued, 'O ornament of Kuru's race, he (Angiras) who was the third
 
 
 
-# Section CCXVIII   
+## Section CCXVIII   
 
 
 
@@ -2641,7 +2643,7 @@ Markandeya continued, 'O ornament of Kuru's race, he (Angiras) who was the third
 
 
 
-# Section CCXIX   
+## Section CCXIX   
 
 
 
@@ -2651,7 +2653,7 @@ and Surapravira, Vira, Suveka, Suravarchas and Surahantri. These gods are divide
 
 
 
-# Section CCXX   
+## Section CCXX   
 
 
 
@@ -2659,7 +2661,7 @@ and Surapravira, Vira, Suveka, Suravarchas and Surahantri. These gods are divide
 
 
 
-# Section CCXXI   
+## Section CCXXI   
 
 
 
@@ -2669,7 +2671,7 @@ The river Indus, the five rivers (of the Punjab), the Sone, the Devika, the Sara
 
 
 
-# Section CCXXII   
+## Section CCXXII   
 
 
 
@@ -2677,7 +2679,7 @@ The river Indus, the five rivers (of the Punjab), the Sone, the Devika, the Sara
 
 
 
-# Section CCXXIII   
+## Section CCXXIII   
 
 
 
@@ -2693,7 +2695,7 @@ love for them. And baffled in all his efforts to win the hearts of those Brahman
 
 
 
-# Section CCXXIV   
+## Section CCXXIV   
 
 
 
@@ -2709,7 +2711,7 @@ Markandeya continued, 'Then assuming the disguise of a winged creature, she went
 
 
 
-# Section CCXXV   
+## Section CCXXV   
 
 
 
@@ -2721,7 +2723,7 @@ Markandeya continued, The celestials having heard of the prowess of Skanda, all 
 
 
 
-# Section CCXXVI   
+## Section CCXXVI   
 
 
 
@@ -2729,7 +2731,7 @@ Markandeya continued, The celestials having heard of the prowess of Skanda, all 
 
 
 
-# Section CCXXVII   
+## Section CCXXVII   
 
 
 
@@ -2737,7 +2739,7 @@ Markandeya continued, The celestials having heard of the prowess of Skanda, all 
 
 
 
-# Section CCXXVIII   
+## Section CCXXVIII   
 
 
 
@@ -2767,7 +2769,7 @@ object on the sixth, that lunar day is considered to be of great moment."
 
 
 
-# Section CCXXIX   
+## Section CCXXIX   
 
 
 
@@ -2801,7 +2803,7 @@ that they be dispossessed of that dignity, and ourselves installed in their plac
 
 
 
-# Section CCXXX   
+## Section CCXXX   
 
 
 
@@ -2849,7 +2851,7 @@ The Brahmana who with due attention readeth this story of the birth of Skanda, o
 
 
 
-# Section CCXXXI   
+## Section CCXXXI   
 
 
 
@@ -2865,7 +2867,7 @@ Vaisampayana continued, "Hearing those words of virtuous import uttered by Krish
 
 
 
-# Section CCXXXII   
+## Section CCXXXII   
 
 
 
@@ -2873,7 +2875,7 @@ Vaisampayana continued, "Hearing those words of virtuous import uttered by Krish
 
 
 
-# Section CCXXXIII   
+## Section CCXXXIII   
 
 
 
@@ -2883,7 +2885,7 @@ Vaisampayana said, "Then Kesava, the slayer of Madhu, also called Janardana, hav
 
 
 
-# Section CCXXXIV   
+## Section CCXXXIV   
 
 
 
@@ -2897,7 +2899,7 @@ Vaisampayana said, "After the sons of Pandu had arrived at that lake, they chose
 
 
 
-# Section CCXXXV   
+## Section CCXXXV   
 
 
 
@@ -2907,7 +2909,7 @@ Vaisampayana continued, "Having thus spoken unto the king, Karna and Sakuni both
 
 
 
-# Section CCXXXVI   
+## Section CCXXXVI   
 
 
 
@@ -2919,7 +2921,7 @@ Vaisampayana said, "Having heard these words of Karna, king Duryodhana became hi
 
 
 
-# Section CCXXXVII   
+## Section CCXXXVII   
 
 
 
@@ -2933,7 +2935,7 @@ Vaisampayana continued, "Thus addressed by Sakuni, that lord of men, Dhritarasht
 
 
 
-# Section CCXXXVIII   
+## Section CCXXXVIII   
 
 
 
@@ -2943,7 +2945,7 @@ Vaisampayana said, "King Duryodhana then moving from forest to forest, at last a
 
 
 
-# Section CCXXXIX   
+## Section CCXXXIX   
 
 
 
@@ -2953,7 +2955,7 @@ Vaisampayana said, "Those soldiers then, O king, all went back to Duryodhana and
 
 
 
-# Section CCXL   
+## Section CCXL   
 
 
 
@@ -2965,7 +2967,7 @@ Vaisampayana said, "After that great warrior Karna had been routed by the Gandha
 
 
 
-# Section CCXLI   
+## Section CCXLI   
 
 
 
@@ -2975,7 +2977,7 @@ Vaisampayana continued, "Hearing these words of Ajatasatru, Dhananjaya pledged h
 
 
 
-# Section CCXLII   
+## Section CCXLII   
 
 
 
@@ -2983,7 +2985,7 @@ Vaisampayana said, "Hearing the words of Yudhishthira, those bulls among men, he
 
 
 
-# Section CCXLIII   
+## Section CCXLIII   
 
 
 
@@ -2991,7 +2993,7 @@ Vaisampayana said, "Then those Gandharvas decked in golden garlands and accompli
 
 
 
-# Section CCXLIV   
+## Section CCXLIV   
 
 
 
@@ -3011,7 +3013,7 @@ Vaisampayana continued, "Thus dismissed by the son of Pandu, king Duryodhana the
 
 
 
-# Section CCXLV   
+## Section CCXLV   
 
 
 
@@ -3023,7 +3025,7 @@ Vaisampayana continued, "Thus addressed by Karna, king Duryodhana replied unto t
 
 
 
-# Section CCXLVI   
+## Section CCXLVI   
 
 
 
@@ -3031,7 +3033,7 @@ Vaisampayana continued, "Thus addressed by Karna, king Duryodhana replied unto t
 
 
 
-# Section CCXLVII   
+## Section CCXLVII   
 
 
 
@@ -3043,7 +3045,7 @@ Vaisampayana continued, 'While giving way to such reflections Duryodhana spoke u
 
 
 
-# Section CCXLVIII   
+## Section CCXLVIII   
 
 
 
@@ -3053,7 +3055,7 @@ Vaisampayana continued, "Thus addressed by Karna, king Duryodhana, firmly resolv
 
 
 
-# Section CCXLIX   
+## Section CCXLIX   
 
 
 
@@ -3069,7 +3071,7 @@ Vaisampayana continued, "Though addressed in all manner of ways by his friends a
 
 
 
-# Section CCL   
+## Section CCL   
 
 
 
@@ -3081,7 +3083,7 @@ Vaisampayana continued, "Having addressed him thus, those Daityas embraced that 
 
 
 
-# Section CCLI   
+## Section CCLI   
 
 
 
@@ -3095,7 +3097,7 @@ Vaisampayana said, "When, O mighty king, in this manner the Pandavas had gone, l
 
 
 
-# Section CCLII   
+## Section CCLII   
 
 
 
@@ -3105,7 +3107,7 @@ Vaisampayana continued, "Then, O bull among the Bharatas, that mighty bowman, Ka
 
 
 
-# Section CCLIII   
+## Section CCLIII   
 
 
 
@@ -3119,7 +3121,7 @@ Vaisampayana continued, "Having been thus addressed by Karna, the king again spa
 
 
 
-# Section CCLIV   
+## Section CCLIV   
 
 
 
@@ -3129,7 +3131,7 @@ Vaisampayana continued, "Then all the artisans, the principal counsellors, and t
 
 
 
-# Section CCLV   
+## Section CCLV   
 
 
 
@@ -3143,7 +3145,7 @@ experience the least happiness. Intelligence, further, O foremost of kings, had 
 
 
 
-# Section CCLVI   
+## Section CCLVI   
 
 
 
@@ -3153,7 +3155,7 @@ Vaisampayana said, "Once on a time, as Yudhishthira lay down at night in the Dwa
 
 
 
-# Section CCLVII   
+## Section CCLVII   
 
 
 
@@ -3167,7 +3169,7 @@ Vaisampayana continued, "Dwelling in the woods, O bull of the Bharata race, the 
 
 
 
-# Section CCLVIII   
+## Section CCLVIII   
 
 
 
@@ -3183,7 +3185,7 @@ Mudgala, saying, There is not another guileless and charitable being like thee o
 
 
 
-# Section CCLIX   
+## Section CCLIX   
 
 
 
@@ -3197,7 +3199,7 @@ Vaisampayana continued "Having said this to Pandu's son, the worshipful Vyasa we
 
 
 
-# Section CCLX   
+## Section CCLX   
 
 
 
@@ -3211,7 +3213,7 @@ Vaisampayana continued, "O king, expressing their satisfaction in this strain, D
 
 
 
-# Section CCLXI   
+## Section CCLXI   
 
 
 
@@ -3229,7 +3231,7 @@ Vaisampayana continued, "Hearing Kesava's words, the sons of Pritha, with Draupa
 
 
 
-# Section CCLXII   
+## Section CCLXII   
 
 
 
@@ -3237,7 +3239,7 @@ Vaisampayana said, "These great warriors of the race of Bharata sojourned like i
 
 
 
-# Section CCLXIII   
+## Section CCLXIII   
 
 
 
@@ -3245,7 +3247,7 @@ Kotika said, "Excellent lady, who art thou that standest alone, leaning on a bra
 
 
 
-# Section CCLXIV   
+## Section CCLXIV   
 
 
 
@@ -3253,7 +3255,7 @@ Vaisampayana continued, "The princess Draupadi, thus questioned by that ornament
 
 
 
-# Section CCLXV   
+## Section CCLXV   
 
 
 
@@ -3265,7 +3267,7 @@ Vaisampayana continued, "Hearing these frightful words of the king of Sindhu, Kr
 
 
 
-# Section CCLXVI   
+## Section CCLXVI   
 
 
 
@@ -3281,7 +3283,7 @@ Vaisampayana continued, "Having said these words Dhaumya, entering into the mids
 
 
 
-# Section CCLXVII   
+## Section CCLXVII   
 
 
 
@@ -3293,7 +3295,7 @@ Vaisampayana continued, "With these words, they departed, following the track po
 
 
 
-# Section CCLXVIII   
+## Section CCLXVIII   
 
 
 
@@ -3303,7 +3305,7 @@ Vaisampayana continued, "Then those five sons of Pritha, each like unto Indra, f
 
 
 
-# Section CCLXIX   
+## Section CCLXIX   
 
 
 
@@ -3317,7 +3319,7 @@ Vaisampayana continued, "Hearing these words, Draupadi was greatly excited. And 
 
 
 
-# Section CCLXX   
+## Section CCLXX   
 
 
 
@@ -3327,7 +3329,7 @@ Vaisampayana continued, "Having said these words unto that prince, the adorable 
 
 
 
-# Section CCLXXI   
+## Section CCLXXI   
 
 
 
@@ -3337,7 +3339,7 @@ Vaisampayana said, "Having defeated Jayadratha and rescued Krishna, the virtuous
 
 
 
-# Section CCLXXII   
+## Section CCLXXII   
 
 
 
@@ -3349,7 +3351,7 @@ Vaisampayana said, "Having defeated Jayadratha and rescued Krishna, the virtuous
 
 
 
-# Section CCLXXIII   
+## Section CCLXXIII   
 
 
 
@@ -3363,7 +3365,7 @@ Markandeya said, "The Muni named Visrava, who was begotten of half the soul of P
 
 
 
-# Section CCLXXIV   
+## Section CCLXXIV   
 
 
 
@@ -3375,7 +3377,7 @@ Markandeya said, "The Muni named Visrava, who was begotten of half the soul of P
 
 
 
-# Section CCLXXV   
+## Section CCLXXV   
 
 
 
@@ -3391,7 +3393,7 @@ Markandeya said, "The Muni named Visrava, who was begotten of half the soul of P
 
 
 
-# Section CCLXXVI   
+## Section CCLXXVI   
 
 
 
@@ -3405,7 +3407,7 @@ When the good natured Lakshmana, who was very fond of his brother, heard these w
 
 
 
-# Section CCLXXVII   
+## Section CCLXXVII   
 
 
 
@@ -3415,7 +3417,7 @@ When the good natured Lakshmana, who was very fond of his brother, heard these w
 
 
 
-# Section CCLXXVIII   
+## Section CCLXXVIII   
 
 
 
@@ -3425,7 +3427,7 @@ When the good natured Lakshmana, who was very fond of his brother, heard these w
 
 
 
-# Section CCLXXIX   
+## Section CCLXXIX   
 
 
 
@@ -3433,7 +3435,7 @@ When the good natured Lakshmana, who was very fond of his brother, heard these w
 
 
 
-# Section CCLXXX   
+## Section CCLXXX   
 
 
 
@@ -3447,7 +3449,7 @@ travelling through the skies! Protected by Sugriva, that monarch of all the monk
 
 
 
-# Section CCLXXXI   
+## Section CCLXXXI   
 
 
 
@@ -3463,7 +3465,7 @@ troop and dismissed them quietly. And having quartered his troops in those woods
 
 
 
-# Section CCLXXXII   
+## Section CCLXXXII   
 
 
 
@@ -3477,7 +3479,7 @@ The descendant of Raghu then caused the ramparts of Lanka to be broken down by a
 
 
 
-# Section CCLXXXIII   
+## Section CCLXXXIII   
 
 
 
@@ -3485,7 +3487,7 @@ The descendant of Raghu then caused the ramparts of Lanka to be broken down by a
 
 
 
-# Section CCLXXXIV   
+## Section CCLXXXIV   
 
 
 
@@ -3493,7 +3495,7 @@ The descendant of Raghu then caused the ramparts of Lanka to be broken down by a
 
 
 
-# Section CCLXXXV   
+## Section CCLXXXV   
 
 
 
@@ -3501,7 +3503,7 @@ The descendant of Raghu then caused the ramparts of Lanka to be broken down by a
 
 
 
-# Section CCLXXXVI   
+## Section CCLXXXVI   
 
 
 
@@ -3509,7 +3511,7 @@ The descendant of Raghu then caused the ramparts of Lanka to be broken down by a
 
 
 
-# Section CCLXXXVII   
+## Section CCLXXXVII   
 
 
 
@@ -3523,7 +3525,7 @@ to behold her lord. Then Avindhya beholding that sinful purpose of the wicked wr
 
 
 
-# Section CCLXXXVIII   
+## Section CCLXXXVIII   
 
 
 
@@ -3531,7 +3533,7 @@ to behold her lord. Then Avindhya beholding that sinful purpose of the wicked wr
 
 
 
-# Section CCLXXXIX   
+## Section CCLXXXIX   
 
 
 
@@ -3545,7 +3547,7 @@ to behold her lord. Then Avindhya beholding that sinful purpose of the wicked wr
 
 
 
-# Section CCLXL   
+## Section CCLXL   
 
 
 
@@ -3555,7 +3557,7 @@ Vaisampayana continued, "It was thus that the king was comforted by Markandeya. 
 
 
 
-# Section CCLXLI   
+## Section CCLXLI   
 
 
 
@@ -3575,7 +3577,7 @@ boon. The twice-born ones have assured me that great merit lieth in having offsp
 
 
 
-# Section CCLXLII   
+## Section CCLXLII   
 
 
 
@@ -3587,7 +3589,7 @@ boon. The twice-born ones have assured me that great merit lieth in having offsp
 
 
 
-# Section CCLXLIII   
+## Section CCLXLIII   
 
 
 
@@ -3597,7 +3599,7 @@ boon. The twice-born ones have assured me that great merit lieth in having offsp
 
 
 
-# Section CCLXLIV   
+## Section CCLXLIV   
 
 
 
@@ -3613,7 +3615,7 @@ Then, O best of the Bharatas, well-pleased, her father-in-law and mother-in-law 
 
 
 
-# Section CCLXLV   
+## Section CCLXLV   
 
 
 
@@ -3629,7 +3631,7 @@ Then, O best of the Bharatas, well-pleased, her father-in-law and mother-in-law 
 
 
 
-# Section CCLXLVI   
+## Section CCLXLVI   
 
 
 
@@ -3641,7 +3643,7 @@ Then, O best of the Bharatas, well-pleased, her father-in-law and mother-in-law 
 
 
 
-# Section CCLXLVII   
+## Section CCLXLVII   
 
 
 
@@ -3651,7 +3653,7 @@ Vaisampayana said, "Thus exhorted by that high-souled sage, the son of Pandu, O 
 
 
 
-# Section CCLXLVIII   
+## Section CCLXLVIII   
 
 
 
@@ -3663,7 +3665,7 @@ Vaisampayana said, "As thou askest me, O tiger among kings, I will relate that h
 
 
 
-# Section CCLXLIX   
+## Section CCLXLIX   
 
 
 
@@ -3671,7 +3673,7 @@ Vaisampayana said, "As thou askest me, O tiger among kings, I will relate that h
 
 
 
-# Section CCC   
+## Section CCC   
 
 
 
@@ -3683,7 +3685,7 @@ Vaisampayana continued, "Having said this, the thousand-rayed deity suddenly van
 
 
 
-# Section CCCI   
+## Section CCCI   
 
 
 
@@ -3693,7 +3695,7 @@ Vaisampayana said, "I will, O monarch, tell thee that secret which was not revea
 
 
 
-# Section CCCII   
+## Section CCCII   
 
 
 
@@ -3701,7 +3703,7 @@ Vaisampayana said, "I will, O monarch, tell thee that secret which was not revea
 
 
 
-# Section CCCIII   
+## Section CCCIII   
 
 
 
@@ -3711,7 +3713,7 @@ Vaisampayana continued, "Thus addressed, that faultless maiden could-not, O king
 
 
 
-# Section CCCIV   
+## Section CCCIV   
 
 
 
@@ -3723,7 +3725,7 @@ to thee so mildly. To one that is not so I would not concede this. Do thou, O Ku
 
 
 
-# Section CCCV   
+## Section CCCV   
 
 
 
@@ -3737,7 +3739,7 @@ Vaisampayana continued, "Then, O foremost of kings, as the highly effulgent Sury
 
 
 
-# Section CCCVI   
+## Section CCCVI   
 
 
 
@@ -3747,7 +3749,7 @@ Vaisampayana said, "It was, O lord of earth, on the first day of the lighted for
 
 
 
-# Section CCCVII   
+## Section CCCVII   
 
 
 
@@ -3755,7 +3757,7 @@ Vaisampayana said, "And it came to pass that at this time a Suta named Adhiratha
 
 
 
-# Section CCCVIII   
+## Section CCCVIII   
 
 
 
@@ -3775,7 +3777,7 @@ Vaisampayana said, "Having defeated the chief of the Saindhavas, and rescued Kri
 
 
 
-# Section CCCIX   
+## Section CCCIX   
 
 
 
@@ -3787,7 +3789,7 @@ Vaisampayana said, "Having felt great affliction on account of the abduction of 
 
 
 
-# Section CCCX   
+## Section CCCX   
 
 
 
@@ -3799,7 +3801,7 @@ Vaisampayana continued, "Thus addressed by that Yaksha of immeasurable energy, B
 
 
 
-# Section CCCXI   
+## Section CCCXI   
 
 
 
@@ -3819,7 +3821,7 @@ hypocrisy? What is the grace of the gods, and what is wickedness?' Yudhishthira 
 
 
 
-# Section CCCXII   
+## Section CCCXII   
 
 
 

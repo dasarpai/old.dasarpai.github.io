@@ -1,6 +1,6 @@
 ---
 id: 10    
-title: "Corpus: KM Ganguli Mahabharat 10"
+title: "Corpus: KM Ganguli Mahabharat 10 - Sauptika Parva"
 layout: single
 toc_sticky: true
 permalink: /mb-kmganguli-mahabharat_10
@@ -19,7 +19,9 @@ sidebar:
    nav: "docs"
 ---
 
-# Section 1   
+# Sauptika Parva
+
+## Section 1   
 
 Om! Having bowed down unto Narayana, and Nara the most exalted of male beings, and unto the goddess Sarasvati, must the word Jaya be uttered!   
 
@@ -45,7 +47,7 @@ Having reflected for a short while, Ashvatthama said with tearful eyes, "King Du
 
 
 
-# Section 2   
+## Section 2   
 
 Kripa said, "We have heard all that thou hast said, O puissant one! Listen, however, to a few words of mine, O mighty armed one! All men are subjected to and governed by these two forces, Destiny and Exertion. There is nothing higher than these two. Our acts do not become successful in consequence of destiny alone, nor of exertion alone, O best of men! Success springs from the union of the two. All purposes, high and low, are dependent on a union of those two. In the whole world, it is through these two that men are seen to act as also to abstain. What result is produced by the clouds pouring upon a mountain? What results are not produced by them pouring upon a cultivated field? Exertion, where destiny is not auspicious, and absence of exertion where destiny is auspicious, both these are fruitless! What I have said before (about the union of the two) is the truth. If the rains properly moisten a well-tilled soil, the seed produces great results. Human success is of this nature.   
 
@@ -61,7 +63,7 @@ A man that is stupefied himself should ask counsel of his friends. In such frien
 
 
 
-# Section 3   
+## Section 3   
 
 Sanjaya said, "Hearing these words of Kripa that were auspicious and fraught with morality and profit, Ashvatthama, O monarch, became overwhelmed with sorrow and grief. Burning with grief as if with a blazing fire, he formed a wicked resolution and then addressed them both saying, "The faculty of understanding is different in different men. Each man, however, is pleased with own understanding. Every man regards himself more intelligent than others. Everyone respects his own understanding and accords it great praise. Everyone's own wisdom is with every one a subject of praise. Everyone speaks ill of the wisdom of others, and well of his own, in all instances. Men whose judgements agree with respect to any unattained object, even though there be a variety of considerations, become gratified with and applaud one another. The judgements, again, of the same men, overwhelmed with reverses through the influence of time, become opposed to one another. More particularly, in consequence of the diversity of human intellects, judgements necessarily differ when intellects are clouded.   
 
@@ -77,7 +79,7 @@ The Pancalas, elated with victory, will trustfully sleep tonight, having put off
 
 
 
-# Section 4   
+## Section 4   
 
 Kripa said, "By good luck, O thou of unfading glory, thy heart is set today on vengeance. The wielder of the thunder himself will not succeed in dissuading thee today. Both of us, however, shall accompany thee in the morning. Putting off thy armour and taking down thy standard, take rest for this night. I shall accompany thee, as also Kritavarma of the Satvata race, clad in mail and riding on our cars, while thou shalt proceed against the foe. United with ourselves, thou shalt slay the foes, the Pancalas with all their followers, tomorrow in press of battle, putting forth thy prowess, O foremost of car-warriors! If thou puttest forth thy prowess, thou art quite competent to achieve that fear! Take rest, therefore, for this night. Thou hast kept thyself awake for many a night. Having rested and slept, and having become quite refreshed, O giver of honours, encounter the foe in battle! Thou shalt then slay the enemy, without doubt. No one, not even Vasava amongst the gods, would venture to vanquish thee armed with foremost of weapons, O first of car-warriors! Who is there that would, even if he be the chief of the gods himself, fight Drona's son, when the latter proceeds, accompanied by Kripa and protected by Kritavarma? Therefore, having rested and slept this night and shaken off fatigue, we shall slay the foe tomorrow morning! Thou art a master of celestial weapons. I also am so, without doubt. This hero of Satvata's race is a mighty bowman, always skilled in battle. All of us, uniting together, O son, shall succeed in slaying our assembled foes in battle by putting forth our might. Great shall be our happiness then! Dispelling thy anxieties, rest for this night and sleep happily! Myself and Kritavarma, both armed with bows and capable of scorching our enemies, will, clad in mail, follow thee, O best of men, while thou shalt proceed on thy car against the enemy. Proceeding to their camp and proclaiming thy name in battle, thou shalt then make a great slaughter of the foe. Tomorrow morning, in broad daylight, having caused a great slaughter among them thou shalt sport like Shakra after the slaughter of great asuras. Thou art quite competent to vanquish the army of the Pancalas in battle like the slayer of the danavas in vanquishing in rage the danava host. United with myself in battle and protected by Kritavarma, thou art incapable of being withstood by the wielder of the thunderbolt himself.   
 
@@ -89,7 +91,7 @@ Protected as they are by Vasudeva and Arjuna, I regard them, O uncle, to be irre
 
 
 
-# Section 5   
+## Section 5   
 
 Kripa said, "A person who is bereft of intelligence and who hath not his passions under control, cannot, even if he waits dutifully upon his superiors, understand all the considerations of morality. This is my opinion. Similarly, an intelligent person who does not practise humility fails to understand the settled conclusions of morality. A brave man, if bereft of understanding, by waiting all his life upon a learned person fails to know his duties, like a wooden ladle unable to taste the juicy soup (in which it may lie immersed). The wise man, however, by waiting upon a learned person for even a moment, succeeds in knowing his duties, like the tongue tasting the juicy soup (as soon as it comes into contact with the latter). That person who is endued with intelligence, who waits upon his superiors, and who has his passions under control succeeds in knowing all the rules of morality and never disputes with what is accepted by all. An ungovernable, irreverent, and sinful person of wicked soul perpetrates sin in seeking his well-being by disregarding destiny.   
 
@@ -105,7 +107,7 @@ Having said these words, Ashvatthama got upon his car and set out towards the di
 
 
 
-# Section 6   
+## Section 6   
 
 Dhritarashtra said, "Seeing Drona's son stop at the gate of the encampment, what, O Sanjaya, did those two mighty car-warriors, Kripa and Kritavarma, do? Tell me this!"   
 
@@ -119,7 +121,7 @@ Human exertion is never regarded more efficacious than destiny. If any human act
 
 
 
-# Section 7   
+## Section 7   
 
 Sanjaya said, "The son of Drona, O monarch, having reflected thus, descended from the terrace of his car and stood, bending his head unto that supreme god. And he said, "I seek the protection of Him called Ugra, Sthanu, Shiva, Rudra, Sharva, Ishana, Ishvara, Girisha; and of that boon-giving god who is the Creator and Lord of the universe; of Him whose throat is blue, who is without birth, who is called Shakra, who destroyed the sacrifice of Daksha, and who is called Hara; of Him whose form is the universe, who hath three eyes, who is possessed of multifarious forms, and who is the lord of Uma; of Him who resides in crematoriums, who swells with energy, who is the lord of diverse tribes of ghostly beings, and who is the possessor of undecaying prosperity and power; of Him who wields the skull-topped club, who is called Rudra, who bears matted locks on his head, and who is a brahmacari. Purifying my soul that is so difficult to purify, and possessed as I am of small energy, I adore the Destroyer of the triple city, and offer myself as the victim. Hymned thou hast been, deserving art thou of hymns, and I hymn to thy glory!   
 
@@ -141,7 +143,7 @@ Having said these words unto the high-souled Ashvatthama, the divine Mahadeva en
 
 
 
-# Section 8   
+## Section 8   
 
 Dhritarashtra said, "While Drona's son, that mighty car-warrior, thus proceeded towards the hostile camp, did Kripa and Bhoja stop from fear? I hope those two car-warriors checked by vulgar guards, did not fly away secretly, thinking their opponents irresistible? Or, have they, after grinding the camp, the Somakas, and the Pandavas, followed, while still engaged in battle, the highly glorious path in which Duryodhana has gone? Are those heroes, slain by the Pancalas, sleeping on the bare Earth? Did they achieve any feat? Tell me all this, O Sanjaya!"   
 
@@ -187,7 +189,7 @@ Sanjaya said, "Through fear of the Parthas, O son of Kuru's race, Ashvatthama co
 
 
 
-# Section 9   
+## Section 9   
 
 Sanjaya said, "Having slain all the Pancalas and the sons of Draupadi, the three Kuru heroes together came to that spot where Duryodhana lay, struck down by the foe. Arrived there, they beheld that life had not been wholly extinct in the king. Jumping down from their cars, they surrounded thy son. The Kuru king, O monarch, was lying there with broken thighs. Almost senseless, his life was about to ebb away. He was vomiting blood at intervals, with downcast eyes. He was then surrounded by a large number of carnivorous animals of terrible forms, and by wolves and hyenas, that awaited at no great distance for feeding upon his body. With great difficulty the king was keeping off those beasts of prey that stood in expectation of feasting upon him. He was writhing on the earth in great agony. Beholding him thus lying on the earth, bathed in his own blood, the three heroes who were the sole survivors of his army, Ashvatthama and Kripa and Kritavarma, became afflicted with grief and sat surrounding him. Encompassed by those three mighty car-warriors who were covered with blood and who breathed hot sighs, the Kuru king looked like a sacrificial altar surrounded by three fires. Beholding the king lying in that highly undeserving plight, the three heroes wept in unendurable sorrow. Wiping the blood from off his face with their hands, they uttered these piteous lamentations in the hearing of the king lying on the field of battle.   
 
@@ -211,7 +213,7 @@ Vaishampayana continued, "The king, hearing of his son's death, breathed long an
 
 
 
-# Section 10   
+## Section 10   
 
 Vaishampayana said, "After that night had gone away, the driver of Dhrishtadyumna's car gave intelligence to king Yudhishthira of the great slaughter that had been caused during the hour of sleep.   
 
@@ -231,7 +233,7 @@ Having in deep affliction indulged in these lamentations, that king of Kuru's ra
 
 
 
-# Section 11   
+## Section 11   
 
 Vaishampayana said, "Beholding his sons, grandsons, and friends all slain in battle, the king's soul became overwhelmed with great grief, O Janamejaya! Recollecting those sons and grandsons and brothers and allies, a deep sorrow took possession of the illustrious monarch. Senseless and trembling, his eyes were bathed in tears. His friends then, themselves filled with anxiety, began to comfort him.   
 
@@ -249,7 +251,7 @@ Hearing these and other piteous lamentations of the princess, Kunti's son, Bhima
 
 
 
-# Section 12   
+## Section 12   
 
 Vaishampayana said, "After the irresistible Bhimasena had set out, that bull of Yadu's race, possessed of eyes like lotus-petals, addressed Kuru's son Yudhishthira, saying, ‘O son of Pandu, this brother of thine, overwhelmed with grief at the slaughter of his sons, proceedeth alone to battle, from desire of slaying the son of Drona. O bull of Bharata's race, of all thy brothers, Bhima is thy dearest! Beholding him fallen into a great danger why dost thou not stir thyself? The weapon called brahmashira, which that subjugator of hostile towns, Drona, communicated to his son, is capable of consuming the whole world. The illustrious and highly blessed preceptor, that foremost of all wielders of bows, delighted with Dhananjaya, had given him that very weapon. Unable to endure it, his only son then begged it of him. Unwillingly he imparted the knowledge of that weapon to Ashvatthama. The illustrious Drona knew the restlessness of his son. Acquainted with all duties, the preceptor laid this command on him, saying, "Even when overtaken by the greatest danger, O child in the midst of battle, thou shouldst never use this weapon, particularly against human beings." Even thus the preceptor Drona spoke unto his son. A little while after he again spoke, saying, "O bull among men, thou wilt not, it seems, walk in the path of the righteous." Hearing those bitter words of his sire, the wicked-souled Ashvatthama, in despair of obtaining every kind of prosperity, began in grief to wander over the earth.   
 
@@ -271,7 +273,7 @@ Having said these words unto me, the son of Drona, taking many couples of steeds
 
 
 
-# Section 13   
+## Section 13   
 
 Vaishampayana said, "Having said these words, that foremost of all wielders of weapons, that delighter of all the Yadavas, mounted upon his excellent car equipped with every kind of powerful weapons. Unto that vehicle were yoked two pairs of foremost steeds of the Kamboja breed, that were adorned with garlands of gold. The dhur of that best of cars was of the hue of the morning sun. On the right was yoked the steed known as Shaibya; on the left was placed Sugriva; the Parshni was borne by two others called Meghapushpa and Balahaka. There was seen on that car a celestial standard decked with gems and gold and created by the divine Artificer, and standing high like the Maya (of Vishnu himself). Upon that standard was Vinata's son (Garuda) shining with great splendour. Indeed, that enemy of snakes perched on the standard-top of Keshava who is Truth embodied.   
 
@@ -283,7 +285,7 @@ Drona's son, beholding that terrible bowman coming towards him bow in hand, and 
 
 
 
-# Section 14   
+## Section 14   
 
 Vaishampayana said, "At the very outset the mighty-armed hero of Dasharha's race understood from signs the intention of Drona's son. Addressing Arjuna, he said, ‘O Arjuna, O son of Pandu, the time is come for the use of that celestial weapon which is in thy memory, knowledge of which was imparted to thee by Drona. For protecting thyself as also thy brothers, O Bharata, shoot in this battle that weapon which is capable of neutralising all weapons.'   
 
@@ -295,7 +297,7 @@ The two rishis said, "Those great car-warriors who have fallen in this battle we
 
 
 
-# Section 15   
+## Section 15   
 
 Vaishampayana said, "At the very sight, O tiger among men, of those two rishis possessed of splendour like that of fire, Dhananjaya quickly resolved to withdraw his celestial shaft. Joining his hands, he addressed those rishis, saying, ‘I used this weapon, saying, "Let it neutralise the (enemy's) weapon!" If I withdraw this high weapon, Drona's son of sinful deeds will then, without doubt, consume us all with the energy of his weapon. Ye two are like gods! It behoveth you to devise some means by which our welfare as also that of the three worlds may be secured!'   
 
@@ -313,7 +315,7 @@ Vaishampayana continued, "The son of Drona, having heard these words of the isla
 
 
 
-# Section 16   
+## Section 16   
 
 Vaishampayana said, "Understanding that that weapon was thrown (into the wombs of the Pandava women) by Drona's son of sinful deeds, Hrishikesha, with a cheerful heart, said these words unto him: ‘A certain brahmana of pious vows, beholding Virata's daughter who is now daughter-in-law to Arjuna, while she was at Upaplavya, said, "While the Kuru line will become extinct, a son will be born to thee. This thy son for that reason, will be called by the name of Parikshit." The words of that pious man shall become true: the Pandavas shall have a son called Parikshit. Unto Govinda, that foremost one of the Satvata race, while he was saying these words, Drona's son, filled with wrath, replied, saying, ‘This, O Keshava, that thou sayest from thy partiality for the Pandavas, shall not happen. O thou of eyes like lotus-petals, my words cannot but be fulfilled. Uplifted by me, this weapon of mine shall fall on the foetus that is in the womb of Virata's daughter, upon that foetus which thou, O Krishna, art desirous of protecting.'   
 
@@ -337,7 +339,7 @@ Draupadi said, "I desired to only pay off our debt for the injury we have sustai
 
 
 
-# Section 17   
+## Section 17   
 
 Vaishampayana said, "After all the troops had been slain during the hour of sleep by those three car-warriors, king Yudhishthira in great grief said these words unto him of Dasharha's race: ‘How, O Krishna, could my sons, all of whom were mighty car-warriors, be slaughtered by the sinful and wretched Ashvatthama of no great skill in battle? How also could Drona's son slay the children of Drupada, all of whom were accomplished in weapons, possessed of great prowess, and capable of battling with hundreds of thousands of foes? How could he slay that foremost of car-warriors, Dhrishtadyumna, before whom the great bowman Drona himself could not appear? What act was done by the preceptor's son, O bull among men, in consequence of which he succeeded in slaying, single-handed, all our men in battle?'   
 
@@ -351,7 +353,7 @@ After the creatures had multiplied and the Grandsire had become well pleased, th
 
 
 
-# Section 18   
+## Section 18   
 
 The holy one said, "After the krita-yuga had elapsed, the gods, desirous of performing a sacrifice, duly made preparation for one according to the directions laid down in the Vedas. They collected clarified butter and the other requisites. And they not only devised what the requisites of their sacrifice should be, but also determined those amongst themselves that should have a share in the sacrificial offerings.   
 

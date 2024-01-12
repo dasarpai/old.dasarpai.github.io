@@ -1,6 +1,6 @@
 ---
 id: 15    
-title: "Corpus: KM Ganguli Mahabharat 15"
+title: "Corpus: KM Ganguli Mahabharat 15 - Asramavasa Parva"
 layout: single
 toc_sticky: true
 permalink: /mb-kmganguli-mahabharat_15
@@ -19,9 +19,9 @@ sidebar:
    nav: "docs"
 ---
 
-# Section I   
+# Asramavasa Parva 
 
-## (Asramavasa Parva)    
+## Section I     
 
 OM! AFTER HAVING bowed down to Narayana, and Nara, the foremost of men, and unto the goddess Saraswati also, must the word Jaya be uttered.   
 
@@ -31,7 +31,7 @@ OM! AFTER HAVING bowed down to Narayana, and Nara, the foremost of men, and unto
 
 
 
-# Section II   
+## Section II   
 
 
 
@@ -41,7 +41,7 @@ OM! AFTER HAVING bowed down to Narayana, and Nara, the foremost of men, and unto
 
 
 
-# Section III   
+## Section III   
 
 
 
@@ -73,7 +73,7 @@ of his father, the son of Kunti, from affection, gently touched every part of hi
 
 
 
-# Section IV   
+## Section IV   
 
 
 
@@ -85,7 +85,7 @@ of his father, the son of Kunti, from affection, gently touched every part of hi
 
 
 
-# Section V   
+## Section V   
 
 
 
@@ -97,7 +97,7 @@ and asses.  Thou shouldst always, O Yudhishthira, be careful to ascertain thy ow
 
 
 
-# Section VI   
+## Section VI   
 
 
 
@@ -107,7 +107,7 @@ victory. When the enemy is strong and one's own side is weak, then the weak king
 
 
 
-# Section VII   
+## Section VII   
 
 
 
@@ -117,7 +117,7 @@ equipt with a good force, march (out against a foe), O scorcher of enemies. He s
 
 
 
-# Section VIII   
+## Section VIII   
 
 
 
@@ -135,7 +135,7 @@ to Yudhishthira, I have enjoyed great happiness. Ye foremost of men, I think tha
 
 
 
-# Section IX   
+## Section IX   
 
 
 
@@ -143,7 +143,7 @@ to Yudhishthira, I have enjoyed great happiness. Ye foremost of men, I think tha
 
 
 
-# Section X   
+## Section X   
 
 
 
@@ -159,7 +159,7 @@ indicated in the Vedas. It is not necessary for either thee or ourselves to look
 
 
 
-# Section XI   
+## Section XI   
 
 
 
@@ -169,7 +169,7 @@ twelve long years, and our residence in deep incognito that was so painful to Dr
 
 
 
-# Section XII   
+## Section XII   
 
 
 
@@ -179,7 +179,7 @@ twelve long years, and our residence in deep incognito that was so painful to Dr
 
 
 
-# Section XIII   
+## Section XIII   
 
 
 
@@ -187,7 +187,7 @@ twelve long years, and our residence in deep incognito that was so painful to Dr
 
 
 
-# Section XIV   
+## Section XIV   
 
 
 
@@ -197,7 +197,7 @@ task of making gifts in such profusion, that great Gift-sacrifice carne to an en
 
 
 
-# Section XV   
+## Section XV   
 
 
 
@@ -207,7 +207,7 @@ of a swarm of she-ospreys. Then the wives of the citizens,--Brahmanas and Kshatr
 
 
 
-# Section XVI   
+## Section XVI   
 
 
 
@@ -219,7 +219,7 @@ of a swarm of she-ospreys. Then the wives of the citizens,--Brahmanas and Kshatr
 
 
 
-# Section XVII   
+## Section XVII   
 
 
 
@@ -229,7 +229,7 @@ for your sake that I had called upon you to follow that advice. O my sons, I do 
 
 
 
-# Section XVIII   
+## Section XVIII   
 
 
 
@@ -239,7 +239,7 @@ of Hastinapura, with its entire population of men, both old and young, and women
 
 
 
-# Section XIX   
+## Section XIX   
 
 
 
@@ -247,7 +247,7 @@ of Hastinapura, with its entire population of men, both old and young, and women
 
 
 
-# Section XX   
+## Section XX   
 
 
 
@@ -263,7 +263,7 @@ of Hastinapura, with its entire population of men, both old and young, and women
 
 
 
-# Section XXI   
+## Section XXI   
 
 
 
@@ -271,7 +271,7 @@ of Hastinapura, with its entire population of men, both old and young, and women
 
 
 
-# Section XXII   
+## Section XXII   
 
 
 
@@ -279,7 +279,7 @@ of Hastinapura, with its entire population of men, both old and young, and women
 
 
 
-# Section XXIII   
+## Section XXIII   
 
 
 
@@ -289,7 +289,7 @@ provinces, desirous of seeing Dhritarashtra, followed the king on diverse kinds 
 
 
 
-# Section XXIV   
+## Section XXIV   
 
 
 
@@ -297,7 +297,7 @@ provinces, desirous of seeing Dhritarashtra, followed the king on diverse kinds 
 
 
 
-# Section XXV   
+## Section XXV   
 
 
 
@@ -311,7 +311,7 @@ who had accompanied the Pandavas, leaving the retreat, sat themselves down at a 
 
 
 
-# Section XXVI   
+## Section XXVI   
 
 
 
@@ -325,7 +325,7 @@ unto the royal son of Vichitraviryya. At this, that king of great splendour, all
 
 
 
-# Section XXVII   
+## Section XXVII   
 
 
 
@@ -335,7 +335,7 @@ gold or copper which he had brought for them, and many deer-skins and blankets a
 
 
 
-# Section XXVIII   
+## Section XXVIII   
 
 
 
@@ -347,7 +347,7 @@ that is Vidura is the (eldest) son of Pandu. That son of Pandu. O king, is capab
 
 
 
-# Section XXIX   
+## Section XXIX   
 
 
 
@@ -361,7 +361,7 @@ that is Vidura is the (eldest) son of Pandu. That son of Pandu. O king, is capab
 
 
 
-# Section XXX   
+## Section XXX   
 
 
 
@@ -371,7 +371,7 @@ deities. They beget (offspring) by thought alone. By word, by sight, by touch, a
 
 
 
-# Section XXXI.   
+## Section XXXI.   
 
 
 
@@ -383,7 +383,7 @@ himself in twain. Dhrishtadyumna who sprung with Draupadi from the sacrificial f
 
 
 
-# Section XXXII   
+## Section XXXII   
 
 
 
@@ -391,7 +391,7 @@ himself in twain. Dhrishtadyumna who sprung with Draupadi from the sacrificial f
 
 
 
-# Section XXXIII   
+## Section XXXIII   
 
 
 
@@ -399,7 +399,7 @@ himself in twain. Dhrishtadyumna who sprung with Draupadi from the sacrificial f
 
 
 
-# Section XXXIV   
+## Section XXXIV   
 
 
 
@@ -413,7 +413,7 @@ that is not possessed of puissance enjoys or endures the fruits of all his acts 
 
 
 
-# Section XXXV   
+## Section XXXV   
 
 
 
@@ -431,7 +431,7 @@ Astika, this sacrifice of mine is fraught with many wonderful incidents, since t
 
 
 
-# Section XXXVI   
+## Section XXXVI   
 
 
 
@@ -451,7 +451,7 @@ according to the rites laid down in the scriptures, and took his leave. Gandhari
 
 
 
-# Section XXXVII   
+## Section XXXVII   
 
 
 
@@ -471,7 +471,7 @@ O king of kings, thou shouldst not grieve for him. The monarch, of his own will,
 
 
 
-# Section XXXVIII   
+## Section XXXVIII   
 
 
 
@@ -479,7 +479,7 @@ O king of kings, thou shouldst not grieve for him. The monarch, of his own will,
 
 
 
-# Section XXXIX   
+## Section XXXIX   
 
 
 

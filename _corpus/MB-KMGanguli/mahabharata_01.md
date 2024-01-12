@@ -1,6 +1,6 @@
 ---
 id: 1    
-title: "Corpus: KM Ganguli Mahabharat 01"
+title: "Corpus: KM Ganguli Mahabharat 01 - Adi Parva"
 layout: single
 toc_sticky: true
 permalink: /mb-kmganguli-mahabharat_01
@@ -19,11 +19,10 @@ sidebar:
    nav: "docs"
 ---
 
-# THE MAHABHARATA ADI PARVA    
+# Adi Parva    
 
-# Section I   
+## Section I   
    
-
 Om! Having bowed down to Narayana and Nara, the most exalted male being, and also to the goddess Saraswati, must the word Jaya be uttered.   
 
 Ugrasrava, the son of Lomaharshana, surnamed Sauti, well-versed in the Puranas, bending with humility, one day approached the great sages of rigid vows, sitting at their ease, who had attended the twelve years' sacrifice of Saunaka, surnamed Kulapati, in the forest of Naimisha. Those ascetics, wishing to hear his wonderful narrations, presently began to address him who had thus arrived at that recluse abode of the inhabitants of the forest of Naimisha. Having been entertained with due respect by those holy men, he saluted those Munis (sages) with joined palms, even all of them, and inquired about the progress of their asceticism. Then all the ascetics being again seated, the son of Lomaharshana humbly occupied the seat that was assigned to him. Seeing that he was comfortably seated, and recovered from fatigue, one of the Rishis beginning the conversation, asked him, 'Whence comest thou, O lotus-eyed Sauti, and where hast thou spent the time? Tell me, who ask thee, in detail.'   
@@ -114,7 +113,7 @@ And it was represented to Dhritarashtra that his son, while partaking of various
 
 
 
-# Section II   
+## Section II   
 
 
 
@@ -184,7 +183,7 @@ Thus endeth the section called Parva-sangraha of the Adi Parva of the blessed Ma
 
 
 
-# Section III   
+## Section III   
 
 
 
@@ -284,7 +283,7 @@ And thus endeth the section called Paushya of the Adi Parva of the blessed Mahab
 
 
 
-# Section IV   
+## Section IV   
 
 
 
@@ -296,7 +295,7 @@ And thus endeth the section called Paushya of the Adi Parva of the blessed Mahab
 
 
 
-# Section V   
+## Section V   
 
 
 
@@ -322,7 +321,7 @@ And thus endeth the section called Paushya of the Adi Parva of the blessed Mahab
 
 
 
-# Section VI   
+## Section VI   
 
 
 
@@ -338,7 +337,7 @@ So ends the sixth section called "the curse on Agni" in the Adi Parva.
 
 
 
-# Section VII   
+## Section VII   
 
 
 
@@ -356,7 +355,7 @@ Thus endeth the seventh section of the Pauloma Parva of the Adi Parva of the ble
 
 
 
-# Section VIII   
+## Section VIII   
 
 
 
@@ -372,7 +371,7 @@ So ends the eighth section of the Pauloma Parva of the Adi Parva of the blessed 
 
 
 
-# Section IX   
+## Section IX   
 
 
 
@@ -394,7 +393,7 @@ So ends the eighth section of the Pauloma Parva of the Adi Parva of the blessed 
 
 
 
-# Section X   
+## Section X   
 
 
 
@@ -410,7 +409,7 @@ And so ends the tenth section of the Pauloma Parva of the Adi Parva.
 
 
 
-# Section XI   
+## Section XI   
 
 
 
@@ -424,7 +423,7 @@ And so ends the eleventh section of the Pauloma Parva of the Adi Parva.
 
 
 
-# Section XII   
+## Section XII   
 
 
 
@@ -440,7 +439,7 @@ So ends the twelfth section in the Pauloma Parva of the Adi Parva.
 
 
 
-# Section XIII   
+## Section XIII   
 
 
 
@@ -470,7 +469,7 @@ So ends the thirteenth section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XIV   
+## Section XIV   
 
 
 
@@ -484,7 +483,7 @@ So ends the thirteenth section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XV   
+## Section XV   
 
 
 
@@ -500,7 +499,7 @@ So ends the fifteenth section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XVI   
+## Section XVI   
 
 
 
@@ -518,7 +517,7 @@ So ends the sixteenth section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XVII   
+## Section XVII   
 
 
 
@@ -534,7 +533,7 @@ So ends the seventeenth section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XVIII   
+## Section XVIII   
 
 
 
@@ -562,7 +561,7 @@ So ends the eighteenth section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XIX   
+## Section XIX   
 
 
 
@@ -584,7 +583,7 @@ And so ends the nineteenth section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XX   
+## Section XX   
 
 
 
@@ -598,7 +597,7 @@ And so ends the twentieth section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XXI   
+## Section XXI   
 
 
 
@@ -612,7 +611,7 @@ And so ends the twenty-first section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XXII   
+## Section XXII   
 
 
 
@@ -626,7 +625,7 @@ And so ends the twenty-second section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XXIII   
+## Section XXIII   
 
 
 
@@ -642,7 +641,7 @@ And thus ends the twenty-third section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XXIV   
+## Section XXIV   
 
 
 
@@ -664,7 +663,7 @@ And so ends the twenty-fourth section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XXV   
+## Section XXV   
 
 
 
@@ -676,7 +675,7 @@ And so ends the twenty-fifth section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XXVI   
+## Section XXVI   
 
 
 
@@ -690,7 +689,7 @@ And so ends the twenty-sixth section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XXVII   
+## Section XXVII   
 
 
 
@@ -702,7 +701,7 @@ And so ends the twenty-sixth section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XXVIII   
+## Section XXVIII   
 
 
 
@@ -716,7 +715,7 @@ So ends the twenty-eighth section in the Astika Parva of Adi Parva.
 
 
 
-# Section XXIX   
+## Section XXIX   
 
 
 
@@ -740,7 +739,7 @@ So ends the twenty-ninth section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XXX   
+## Section XXX   
 
 
 
@@ -766,7 +765,7 @@ So ends the thirtieth section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XXXI   
+## Section XXXI   
 
 
 
@@ -788,7 +787,7 @@ So ends the thirtieth section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XXXII   
+## Section XXXII   
 
 
 
@@ -806,7 +805,7 @@ So ends the thirty-second section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XXXIII   
+## Section XXXIII   
 
 
 
@@ -822,7 +821,7 @@ So ends the thirty-third section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XXXIV   
+## Section XXXIV   
 
 
 
@@ -844,7 +843,7 @@ And so ends the thirty-fourth section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XXXV   
+## Section XXXV   
 
 
 
@@ -862,7 +861,7 @@ So ends the thirty-fifth section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XXXVI   
+## Section XXXVI   
 
 
 
@@ -892,7 +891,7 @@ So ends the thirty-sixth section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XXXVII   
+## Section XXXVII   
 
 
 
@@ -908,7 +907,7 @@ So ends the thirty-seventh section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XXXVIII   
+## Section XXXVIII   
 
 
 
@@ -920,7 +919,7 @@ So ends the thirty-seventh section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XXXIX   
+## Section XXXIX   
 
 
 
@@ -936,7 +935,7 @@ So ends the thirty-seventh section in the Astika Parva of the Adi Parva.
 
 
 
-# Section XL   
+## Section XL   
 
 
 
@@ -964,7 +963,7 @@ Sauti, on hearing these words, began to relate according to what was written in 
 
 
 
-# Section XLI   
+## Section XLI   
 
 
 
@@ -984,7 +983,7 @@ Sauti, on hearing these words, began to relate according to what was written in 
 
 
 
-# Section XLII   
+## Section XLII   
 
 
 
@@ -1010,7 +1009,7 @@ Sauti, on hearing these words, began to relate according to what was written in 
 
 
 
-# Section XLIII   
+## Section XLIII   
 
 
 
@@ -1036,7 +1035,7 @@ Sauti, on hearing these words, began to relate according to what was written in 
 
 
 
-# Section XLIV   
+## Section XLIV   
 
 
 
@@ -1050,7 +1049,7 @@ Sauti, on hearing these words, began to relate according to what was written in 
 
 
 
-# Section XLV   
+## Section XLV   
 
 
 
@@ -1062,7 +1061,7 @@ Sauti, on hearing these words, began to relate according to what was written in 
 
 
 
-# Section XLVI   
+## Section XLVI   
 
 
 
@@ -1078,7 +1077,7 @@ Sauti, on hearing these words, began to relate according to what was written in 
 
 
 
-# Section XLVII   
+## Section XLVII   
 
 
 
@@ -1106,7 +1105,7 @@ Sauti, on hearing these words, began to relate according to what was written in 
 
 
 
-# Section XLVIII   
+## Section XLVIII   
 
 
 
@@ -1124,7 +1123,7 @@ And in due time, the sister of the snakes, O Brahmana, gave birth to a son of th
 
 
 
-# Section XLIX   
+## Section XLIX   
 
 
 
@@ -1146,7 +1145,7 @@ And in due time, the sister of the snakes, O Brahmana, gave birth to a son of th
 
 
 
-# Section L   
+## Section L   
 
 
 
@@ -1170,7 +1169,7 @@ And in due time, the sister of the snakes, O Brahmana, gave birth to a son of th
 
 
 
-# Section LI   
+## Section LI   
 
 
 
@@ -1184,7 +1183,7 @@ And in due time, the sister of the snakes, O Brahmana, gave birth to a son of th
 
 
 
-# Section LII   
+## Section LII   
 
 
 
@@ -1194,7 +1193,7 @@ And in due time, the sister of the snakes, O Brahmana, gave birth to a son of th
 
 
 
-# Section LIII   
+## Section LIII   
 
 
 
@@ -1212,7 +1211,7 @@ Sauti continued, 'Thus encouraged by him, that best of snakes began to dwell in 
 
 
 
-# Section LIV   
+## Section LIV   
 
 
 
@@ -1238,7 +1237,7 @@ Sauti continued, 'Thus encouraged by him, that best of snakes began to dwell in 
 
 
 
-# Section LV   
+## Section LV   
 
 
 
@@ -1250,7 +1249,7 @@ Sauti continued, 'Thus encouraged by him, that best of snakes began to dwell in 
 
 
 
-# Section LVI   
+## Section LVI   
 
 
 
@@ -1290,7 +1289,7 @@ Janamejaya said, 'Though this one is but a boy, he speaks yet like a wise old ma
 
 
 
-# Section LVII   
+## Section LVII   
 
 
 
@@ -1308,7 +1307,7 @@ Janamejaya said, 'Though this one is but a boy, he speaks yet like a wise old ma
 
 
 
-# Section LVIII   
+## Section LVIII   
 
 
 
@@ -1336,7 +1335,7 @@ Janamejaya said, 'Though this one is but a boy, he speaks yet like a wise old ma
 
 
 
-# Section LIX   
+## Section LIX   
 
 
 
@@ -1352,7 +1351,7 @@ Janamejaya said, 'Though this one is but a boy, he speaks yet like a wise old ma
 
 
 
-# Section LX   
+## Section LX   
 
 
 
@@ -1370,7 +1369,7 @@ Janamejaya said, 'Though this one is but a boy, he speaks yet like a wise old ma
 
 
 
-# Section LXI   
+## Section LXI   
 
 
 
@@ -1394,7 +1393,7 @@ Janamejaya said, 'Though this one is but a boy, he speaks yet like a wise old ma
 
 
 
-# Section LXII   
+## Section LXII   
 
 
 
@@ -1410,7 +1409,7 @@ Janamejaya said, 'Though this one is but a boy, he speaks yet like a wise old ma
 
 
 
-# Section LXIII   
+## Section LXIII   
 
 
 
@@ -1454,7 +1453,7 @@ Janamejaya said, 'Though this one is but a boy, he speaks yet like a wise old ma
 
 
 
-# Section LXIV   
+## Section LXIV   
 
 
 
@@ -1474,7 +1473,7 @@ Janamejaya said, 'Though this one is but a boy, he speaks yet like a wise old ma
 
 
 
-# Section LXV   
+## Section LXV   
 
 
 
@@ -1494,7 +1493,7 @@ Janamejaya said, 'Though this one is but a boy, he speaks yet like a wise old ma
 
 
 
-# Section LXVI   
+## Section LXVI   
 
 
 
@@ -1518,7 +1517,7 @@ Janamejaya said, 'Though this one is but a boy, he speaks yet like a wise old ma
 
 
 
-# Section LXVII   
+## Section LXVII   
 
 
 
@@ -1544,7 +1543,7 @@ Janamejaya said, 'Though this one is but a boy, he speaks yet like a wise old ma
 
 
 
-# Section LXVIII   
+## Section LXVIII   
 
 
 
@@ -1558,7 +1557,7 @@ Janamejaya said, 'Though this one is but a boy, he speaks yet like a wise old ma
 
 
 
-# Section LXIX   
+## Section LXIX   
 
 
 
@@ -1574,7 +1573,7 @@ Janamejaya said, 'Though this one is but a boy, he speaks yet like a wise old ma
 
 
 
-# Section LXX   
+## Section LXX   
 
 
 
@@ -1592,7 +1591,7 @@ Janamejaya said, 'Though this one is but a boy, he speaks yet like a wise old ma
 
 
 
-# Section LXXI   
+## Section LXXI   
 
 
 
@@ -1612,7 +1611,7 @@ Janamejaya said, 'Though this one is but a boy, he speaks yet like a wise old ma
 
 
 
-# Section LXXII   
+## Section LXXII   
 
 
 
@@ -1624,7 +1623,7 @@ Kanwa continued, 'And Sakra, thus addressed by her, then commanded him who could
 
 
 
-# Section LXXIII   
+## Section LXXIII   
 
 
 
@@ -1650,7 +1649,7 @@ Kanwa continued, 'And Sakra, thus addressed by her, then commanded him who could
 
 
 
-# Section LXXIV   
+## Section LXXIV   
 
 
 
@@ -1668,7 +1667,7 @@ Kanwa continued, 'And Sakra, thus addressed by her, then commanded him who could
 
 
 
-# Section LXXV   
+## Section LXXV   
 
 
 
@@ -1686,7 +1685,7 @@ Kanwa continued, 'And Sakra, thus addressed by her, then commanded him who could
 
 
 
-# Section LXXVI   
+## Section LXXVI   
 
 
 
@@ -1724,7 +1723,7 @@ Kanwa continued, 'And Sakra, thus addressed by her, then commanded him who could
 
 
 
-# Section LXXVII   
+## Section LXXVII   
 
 
 
@@ -1742,7 +1741,7 @@ Kanwa continued, 'And Sakra, thus addressed by her, then commanded him who could
 
 
 
-# Section LXXVIII   
+## Section LXXVIII   
 
 
 
@@ -1768,7 +1767,7 @@ Kanwa continued, 'And Sakra, thus addressed by her, then commanded him who could
 
 
 
-# Section LXXIX   
+## Section LXXIX   
 
 
 
@@ -1778,7 +1777,7 @@ Kanwa continued, 'And Sakra, thus addressed by her, then commanded him who could
 
 
 
-# Section LXXX   
+## Section LXXX   
 
 
 
@@ -1808,7 +1807,7 @@ Kanwa continued, 'And Sakra, thus addressed by her, then commanded him who could
 
 
 
-# Section LXXXI   
+## Section LXXXI   
 
 
 
@@ -1836,7 +1835,7 @@ Vaisampayana said, 'After some length of time, O best of monarchs, Devayani of t
 
 
 
-# Section LXXXII   
+## Section LXXXII   
 
 
 
@@ -1854,7 +1853,7 @@ Vaisampayana said, 'After some length of time, O best of monarchs, Devayani of t
 
 
 
-# Section LXXXIII   
+## Section LXXXIII   
 
 
 
@@ -1882,7 +1881,7 @@ Vaisampayana said, 'After some length of time, O best of monarchs, Devayani of t
 
 
 
-# Section LXXXIV   
+## Section LXXXIV   
 
 
 
@@ -1906,7 +1905,7 @@ Vaisampayana said, 'After some length of time, O best of monarchs, Devayani of t
 
 
 
-# Section LXXXV   
+## Section LXXXV   
 
 
 
@@ -1926,7 +1925,7 @@ Vaisampayana said, 'After some length of time, O best of monarchs, Devayani of t
 
 
 
-# Section LXXXVI   
+## Section LXXXVI   
 
 
 
@@ -1942,7 +1941,7 @@ Vaisampayana said, 'After some length of time, O best of monarchs, Devayani of t
 
 
 
-# Section LXXXVII   
+## Section LXXXVII   
 
 
 
@@ -1958,7 +1957,7 @@ Vaisampayana said, 'After some length of time, O best of monarchs, Devayani of t
 
 
 
-# Section LXXXVIII   
+## Section LXXXVIII   
 
 
 
@@ -1970,7 +1969,7 @@ Vaisampayana said, 'After some length of time, O best of monarchs, Devayani of t
 
 
 
-# Section LXXXIX   
+## Section LXXXIX   
 
 
 
@@ -1986,7 +1985,7 @@ Vaisampayana said, 'After some length of time, O best of monarchs, Devayani of t
 
 
 
-# Section XC   
+## Section XC   
 
 
 
@@ -2014,7 +2013,7 @@ Vaisampayana said, 'After some length of time, O best of monarchs, Devayani of t
 
 
 
-# Section XCI   
+## Section XCI   
 
 
 
@@ -2034,7 +2033,7 @@ Vaisampayana said, 'After some length of time, O best of monarchs, Devayani of t
 
 
 
-# Section XCII   
+## Section XCII   
 
 
 
@@ -2066,7 +2065,7 @@ Vaisampayana said, 'After some length of time, O best of monarchs, Devayani of t
 
 
 
-# Section XCIII   
+## Section XCIII   
 
 
 
@@ -2110,7 +2109,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section XCIV   
+## Section XCIV   
 
 
 
@@ -2128,7 +2127,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section XCV   
+## Section XCV   
 
 
 
@@ -2156,7 +2155,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section XCVI   
+## Section XCVI   
 
 
 
@@ -2174,7 +2173,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section XCVII   
+## Section XCVII   
 
 
 
@@ -2190,7 +2189,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section XCVIII   
+## Section XCVIII   
 
 
 
@@ -2200,7 +2199,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section XCIX   
+## Section XCIX   
 
 
 
@@ -2224,7 +2223,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section C   
+## Section C   
 
 
 
@@ -2256,7 +2255,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CI   
+## Section CI   
 
 
 
@@ -2266,7 +2265,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CII   
+## Section CII   
 
 
 
@@ -2282,7 +2281,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CIII   
+## Section CIII   
 
 
 
@@ -2294,7 +2293,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CIV   
+## Section CIV   
 
 
 
@@ -2314,7 +2313,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CV   
+## Section CV   
 
 
 
@@ -2340,7 +2339,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CVI   
+## Section CVI   
 
 
 
@@ -2356,7 +2355,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CVII   
+## Section CVII   
 
 
 
@@ -2368,7 +2367,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CVIII   
+## Section CVIII   
 
 
 
@@ -2382,7 +2381,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CIX   
+## Section CIX   
 
 
 
@@ -2392,7 +2391,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CX   
+## Section CX   
 
 
 
@@ -2404,7 +2403,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CXI   
+## Section CXI   
 
 
 
@@ -2420,7 +2419,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CXII   
+## Section CXII   
 
 
 
@@ -2430,7 +2429,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CXIII   
+## Section CXIII   
 
 
 
@@ -2442,7 +2441,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CXIV   
+## Section CXIV   
 
 
 
@@ -2458,7 +2457,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CXV   
+## Section CXV   
 
 
 
@@ -2480,7 +2479,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CXVI   
+## Section CXVI   
 
 
 
@@ -2494,7 +2493,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CXVII   
+## Section CXVII   
 
 
 
@@ -2506,7 +2505,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CXVIII   
+## Section CXVIII   
 
 
 
@@ -2528,7 +2527,7 @@ Yayati answered, 'O Sivi, thou hast indeed, obtained for thyself, possessed of t
 
 
 
-# Section CXIX   
+## Section CXIX   
 
 
 
@@ -2546,7 +2545,7 @@ Pandu replied, 'If, indeed, this your resolve springeth from virtue, then with y
 
 
 
-# Section CXX   
+## Section CXX   
 
 
 
@@ -2566,7 +2565,7 @@ Pandu replied, 'If, indeed, this your resolve springeth from virtue, then with y
 
 
 
-# Section CXXI   
+## Section CXXI   
 
 
 
@@ -2580,7 +2579,7 @@ Pandu replied, 'If, indeed, this your resolve springeth from virtue, then with y
 
 
 
-# Section CXXII   
+## Section CXXII   
 
 
 
@@ -2600,7 +2599,7 @@ Pandu replied, 'If, indeed, this your resolve springeth from virtue, then with y
 
 
 
-# Section CXXIII   
+## Section CXXIII   
 
 
 
@@ -2624,7 +2623,7 @@ Pandu replied, 'If, indeed, this your resolve springeth from virtue, then with y
 
 
 
-# Section CXXIV   
+## Section CXXIV   
 
 
 
@@ -2646,7 +2645,7 @@ Pandu replied, 'If, indeed, this your resolve springeth from virtue, then with y
 
 
 
-# Section CXXV   
+## Section CXXV   
 
 
 
@@ -2664,7 +2663,7 @@ Pandu replied, 'If, indeed, this your resolve springeth from virtue, then with y
 
 
 
-# Section CXXVI   
+## Section CXXVI   
 
 
 
@@ -2678,7 +2677,7 @@ Pandu replied, 'If, indeed, this your resolve springeth from virtue, then with y
 
 
 
-# Section CXXVII   
+## Section CXXVII   
 
 
 
@@ -2696,7 +2695,7 @@ Pandu replied, 'If, indeed, this your resolve springeth from virtue, then with y
 
 
 
-# Section CXXVIII   
+## Section CXXVIII   
 
 
 
@@ -2722,7 +2721,7 @@ Pandu replied, 'If, indeed, this your resolve springeth from virtue, then with y
 
 
 
-# Section CXXIX   
+## Section CXXIX   
 
 
 
@@ -2756,7 +2755,7 @@ Pandu replied, 'If, indeed, this your resolve springeth from virtue, then with y
 
 
 
-# Section CXXX   
+## Section CXXX   
 
 
 
@@ -2770,7 +2769,7 @@ Pandu replied, 'If, indeed, this your resolve springeth from virtue, then with y
 
 
 
-# Section CXXXI   
+## Section CXXXI   
 
 
 
@@ -2794,7 +2793,7 @@ Pandu replied, 'If, indeed, this your resolve springeth from virtue, then with y
 
 
 
-# Section CXXXII   
+## Section CXXXII   
 
 
 
@@ -2806,7 +2805,7 @@ Pandu replied, 'If, indeed, this your resolve springeth from virtue, then with y
 
 
 
-# Section CXXXIII   
+## Section CXXXIII   
 
 
 
@@ -2828,7 +2827,7 @@ Pandu replied, 'If, indeed, this your resolve springeth from virtue, then with y
 
 
 
-# Section CXXXIV   
+## Section CXXXIV   
 
 
 
@@ -2858,7 +2857,7 @@ Pandu replied, 'If, indeed, this your resolve springeth from virtue, then with y
 
 
 
-# Section CXXXV   
+## Section CXXXV   
 
 
 
@@ -2872,7 +2871,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CXXXVI   
+## Section CXXXVI   
 
 
 
@@ -2886,7 +2885,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CXXXVII   
+## Section CXXXVII   
 
 
 
@@ -2904,7 +2903,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CXXXVIII   
+## Section CXXXVIII   
 
 
 
@@ -2922,7 +2921,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CXXXIX   
+## Section CXXXIX   
 
 
 
@@ -2936,7 +2935,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CXL   
+## Section CXL   
 
 
 
@@ -2966,7 +2965,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CXLI   
+## Section CXLI   
 
 
 
@@ -2980,7 +2979,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CXLII   
+## Section CXLII   
 
 
 
@@ -3004,7 +3003,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CXLIII   
+## Section CXLIII   
 
 
 
@@ -3022,7 +3021,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CXLIV   
+## Section CXLIV   
 
 
 
@@ -3038,7 +3037,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CXLV   
+## Section CXLV   
 
 
 
@@ -3052,7 +3051,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CXLVI   
+## Section CXLVI   
 
 
 
@@ -3064,7 +3063,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CXLVII   
+## Section CXLVII   
 
 
 
@@ -3084,7 +3083,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CXLVIII   
+## Section CXLVIII   
 
 
 
@@ -3096,7 +3095,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CXLIX   
+## Section CXLIX   
 
 
 
@@ -3106,7 +3105,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CL   
+## Section CL   
 
 
 
@@ -3120,7 +3119,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CLI   
+## Section CLI   
 
 
 
@@ -3136,7 +3135,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CLII   
+## Section CLII   
 
 
 
@@ -3154,7 +3153,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CLIII   
+## Section CLIII   
 
 
 
@@ -3166,7 +3165,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CLIV   
+## Section CLIV   
 
 
 
@@ -3184,7 +3183,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CLV   
+## Section CLV   
 
 
 
@@ -3206,7 +3205,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CLVI   
+## Section CLVI   
 
 
 
@@ -3224,7 +3223,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CLVII   
+## Section CLVII   
 
 
 
@@ -3242,7 +3241,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CLVIII   
+## Section CLVIII   
 
 
 
@@ -3260,7 +3259,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CLIX   
+## Section CLIX   
 
 
 
@@ -3278,7 +3277,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CLX   
+## Section CLX   
 
 
 
@@ -3288,7 +3287,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CLXI   
+## Section CLXI   
 
 
 
@@ -3298,7 +3297,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CLXII   
+## Section CLXII   
 
 
 
@@ -3310,7 +3309,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CLXIII   
+## Section CLXIII   
 
 
 
@@ -3326,7 +3325,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CLXIV   
+## Section CLXIV   
 
 
 
@@ -3338,7 +3337,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CLXV   
+## Section CLXV   
 
 
 
@@ -3350,7 +3349,7 @@ The preceptor then, addressing him again, said, 'None else in this world will ev
 
 
 
-# Section CLXVI   
+## Section CLXVI   
 
 
 
@@ -3364,7 +3363,7 @@ Then those Brahmanas and Kshatriyas (of the city), hearing this, wondered much. 
 
 
 
-# Section CLXVII   
+## Section CLXVII   
 
 
 
@@ -3382,7 +3381,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXVIII   
+## Section CLXVIII   
 
 
 
@@ -3398,7 +3397,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXIX   
+## Section CLXIX   
 
 
 
@@ -3414,7 +3413,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXX   
+## Section CLXX   
 
 
 
@@ -3426,7 +3425,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXI   
+## Section CLXXI   
 
 
 
@@ -3440,7 +3439,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXII   
+## Section CLXXII   
 
 
 
@@ -3464,7 +3463,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXIII   
+## Section CLXXIII   
 
 
 
@@ -3484,7 +3483,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXIV   
+## Section CLXXIV   
 
 
 
@@ -3496,7 +3495,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXV   
+## Section CLXXV   
 
 
 
@@ -3506,7 +3505,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXVII   
+## Section CLXXVII   
 
 
 
@@ -3520,7 +3519,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXVI   
+## Section CLXXVI   
 
 
 
@@ -3544,7 +3543,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXVIII   
+## Section CLXXVIII   
 
 
 
@@ -3562,7 +3561,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXIX   
+## Section CLXXIX   
 
 
 
@@ -3578,7 +3577,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXX   
+## Section CLXXX   
 
 
 
@@ -3590,7 +3589,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXXI   
+## Section CLXXXI   
 
 
 
@@ -3604,7 +3603,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXXII   
+## Section CLXXXII   
 
 
 
@@ -3620,7 +3619,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXXIII   
+## Section CLXXXIII   
 
 
 
@@ -3634,7 +3633,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXXIV   
+## Section CLXXXIV   
 
 
 
@@ -3646,7 +3645,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXXV   
+## Section CLXXXV   
 
 
 
@@ -3660,7 +3659,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXXVI   
+## Section CLXXXVI   
 
 
 
@@ -3672,7 +3671,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXXVII   
+## Section CLXXXVII   
 
 
 
@@ -3688,7 +3687,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXXVIII   
+## Section CLXXXVIII   
 
 
 
@@ -3698,7 +3697,7 @@ After this citizens returned to their respective houses and the Pandavas continu
 
 
 
-# Section CLXXXIX   
+## Section CLXXXIX   
 
 
 
@@ -3712,7 +3711,7 @@ Then when all those Kshatriyas gave up the task, the heroic king of the Chedis--
 
 
 
-# Section CLXL   
+## Section CLXL   
 
 
 
@@ -3722,7 +3721,7 @@ Then when all those Kshatriyas gave up the task, the heroic king of the Chedis--
 
 
 
-# Section CLXLI   
+## Section CLXLI   
 
 
 
@@ -3734,7 +3733,7 @@ Then when all those Kshatriyas gave up the task, the heroic king of the Chedis--
 
 
 
-# Section CLXLII   
+## Section CLXLII   
 
 
 
@@ -3750,7 +3749,7 @@ Then when all those Kshatriyas gave up the task, the heroic king of the Chedis--
 
 
 
-# Section CLXLIII   
+## Section CLXLIII   
 
 
 
@@ -3768,7 +3767,7 @@ Then when all those Kshatriyas gave up the task, the heroic king of the Chedis--
 
 
 
-# Section CLXLIV   
+## Section CLXLIV   
 
 
 
@@ -3780,7 +3779,7 @@ Then when all those Kshatriyas gave up the task, the heroic king of the Chedis--
 
 
 
-# Section CLXLV   
+## Section CLXLV   
 
 
 
@@ -3796,7 +3795,7 @@ Then when all those Kshatriyas gave up the task, the heroic king of the Chedis--
 
 
 
-# Section CLXLVI   
+## Section CLXLVI   
 
 
 
@@ -3808,7 +3807,7 @@ Then when all those Kshatriyas gave up the task, the heroic king of the Chedis--
 
 
 
-# Section CLXLVII   
+## Section CLXLVII   
 
 
 
@@ -3832,7 +3831,7 @@ Then when all those Kshatriyas gave up the task, the heroic king of the Chedis--
 
 
 
-# Section CLXLVIII   
+## Section CLXLVIII   
 
 
 
@@ -3854,7 +3853,7 @@ Then when all those Kshatriyas gave up the task, the heroic king of the Chedis--
 
 
 
-# Section CLXLIX   
+## Section CLXLIX   
 
 
 
@@ -3876,7 +3875,7 @@ Then when all those Kshatriyas gave up the task, the heroic king of the Chedis--
 
 
 
-# Section CC   
+## Section CC   
 
 
 
@@ -3888,7 +3887,7 @@ Then when all those Kshatriyas gave up the task, the heroic king of the Chedis--
 
 
 
-# Section CCI   
+## Section CCI   
 
 
 
@@ -3900,7 +3899,7 @@ Then when all those Kshatriyas gave up the task, the heroic king of the Chedis--
 
 
 
-# Section CCII   
+## Section CCII   
 
 
 
@@ -3918,7 +3917,7 @@ Then when all those Kshatriyas gave up the task, the heroic king of the Chedis--
 
 
 
-# Section CCIII   
+## Section CCIII   
 
 
 
@@ -3930,7 +3929,7 @@ Then when all those Kshatriyas gave up the task, the heroic king of the Chedis--
 
 
 
-# Section CCIV   
+## Section CCIV   
 
 
 
@@ -3944,7 +3943,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCV   
+## Section CCV   
 
 
 
@@ -3954,7 +3953,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCVI   
+## Section CCVI   
 
 
 
@@ -3968,7 +3967,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCVII   
+## Section CCVII   
 
 
 
@@ -3978,7 +3977,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCVIII   
+## Section CCVIII   
 
 
 
@@ -3992,7 +3991,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCIX   
+## Section CCIX   
 
 
 
@@ -4020,7 +4019,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCX   
+## Section CCX   
 
 
 
@@ -4034,7 +4033,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXI   
+## Section CCXI   
 
 
 
@@ -4046,7 +4045,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXII   
+## Section CCXII   
 
 
 
@@ -4056,7 +4055,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXIII   
+## Section CCXIII   
 
 
 
@@ -4068,7 +4067,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXIV   
+## Section CCXIV   
 
 
 
@@ -4084,7 +4083,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXV   
+## Section CCXV   
 
 
 
@@ -4102,7 +4101,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXVI   
+## Section CCXVI   
 
 
 
@@ -4122,7 +4121,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXVII   
+## Section CCXVII   
 
 
 
@@ -4132,7 +4131,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXVIII   
+## Section CCXVIII   
 
 
 
@@ -4144,7 +4143,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXIX   
+## Section CCXIX   
 
 
 
@@ -4160,7 +4159,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXX   
+## Section CCXX   
 
 
 
@@ -4170,7 +4169,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXXI   
+## Section CCXXI   
 
 
 
@@ -4184,7 +4183,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXXII   
+## Section CCXXII   
 
 
 
@@ -4196,7 +4195,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXXIII   
+## Section CCXXIII   
 
 
 
@@ -4210,7 +4209,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXXIV   
+## Section CCXXIV   
 
 
 
@@ -4226,7 +4225,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXXV   
+## Section CCXXV   
 
 
 
@@ -4244,7 +4243,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXXVI   
+## Section CCXXVI   
 
 
 
@@ -4254,7 +4253,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXXVII   
+## Section CCXXVII   
 
 
 
@@ -4266,7 +4265,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXXVIII   
+## Section CCXXVIII   
 
 
 
@@ -4278,7 +4277,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXXIX   
+## Section CCXXIX   
 
 
 
@@ -4288,7 +4287,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXXX   
+## Section CCXXX   
 
 
 
@@ -4302,7 +4301,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXXXI   
+## Section CCXXXI   
 
 
 
@@ -4318,7 +4317,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXXXII   
+## Section CCXXXII   
 
 
 
@@ -4334,7 +4333,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXXXIII   
+## Section CCXXXIII   
 
 
 
@@ -4348,7 +4347,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
 
 
-# Section CCXXXIV   
+## Section CCXXXIV   
 
 
 
@@ -4380,7 +4379,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
    
 
-# Section CCXXXV   
+## Section CCXXXV   
 
    
 
@@ -4400,7 +4399,7 @@ Vaisampayana continued, "'Then king Dhritarashtra called unto him, all those cel
 
    
 
-# Section CCXXXVI   
+## Section CCXXXVI   
 
    
 

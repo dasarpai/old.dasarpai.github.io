@@ -1,6 +1,6 @@
 ---
 id: 5    
-title: "Corpus: KM Ganguli Mahabharat 05"
+title: "Corpus: KM Ganguli Mahabharat 05 - Udyoga Parva"
 layout: single
 toc_sticky: true
 permalink: /mb-kmganguli-mahabharat_05
@@ -19,10 +19,9 @@ sidebar:
    nav: "docs"
 ---
 
-# Section I   
+# Udyoga Parva
 
-# UDYOGA PARVAVA
-
+## Section I   
 
 OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and also to the goddess Saraswati, must the word Jaya be uttered.   
 
@@ -30,7 +29,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section II   
+## Section II   
 
 
 
@@ -40,7 +39,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section III   
+## Section III   
 
 
 
@@ -48,7 +47,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section IV   
+## Section IV   
 
 
 
@@ -56,7 +55,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section V   
+## Section V   
 
 
 
@@ -66,7 +65,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section VI   
+## Section VI   
 
 
 
@@ -76,7 +75,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section VII   
+## Section VII   
 
 
 
@@ -94,7 +93,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section VIII   
+## Section VIII   
 
 
 
@@ -108,7 +107,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section IX   
+## Section IX   
 
 
 
@@ -124,7 +123,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section X   
+## Section X   
 
 
 
@@ -138,7 +137,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XI   
+## Section XI   
 
 
 
@@ -146,7 +145,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XII   
+## Section XII   
 
 
 
@@ -162,7 +161,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XIII   
+## Section XIII   
 
 
 
@@ -170,7 +169,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XIV   
+## Section XIV   
 
 
 
@@ -178,7 +177,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XV   
+## Section XV   
 
 
 
@@ -196,7 +195,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XVI   
+## Section XVI   
 
 
 
@@ -216,7 +215,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XVII   
+## Section XVII   
 
 
 
@@ -232,7 +231,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XVIII   
+## Section XVIII   
 
 
 
@@ -244,7 +243,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XIX   
+## Section XIX   
 
 
 
@@ -252,7 +251,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XX   
+## Section XX   
 
 
 
@@ -260,7 +259,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XXI   
+## Section XXI   
 
 
 
@@ -272,7 +271,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XXII   
+## Section XXII   
 
 
 
@@ -280,7 +279,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XXIII   
+## Section XXIII   
 
 
 
@@ -290,7 +289,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XXIV   
+## Section XXIV   
 
 
 
@@ -298,7 +297,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XXV   
+## Section XXV   
 
 
 
@@ -306,7 +305,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XXVI   
+## Section XXVI   
 
 
 
@@ -314,7 +313,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XXVII   
+## Section XXVII   
 
 
 
@@ -322,7 +321,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XXVIII   
+## Section XXVIII   
 
 
 
@@ -330,7 +329,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XXIX   
+## Section XXIX   
 
 
 
@@ -338,7 +337,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XXX   
+## Section XXX   
 
 
 
@@ -348,7 +347,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XXXI   
+## Section XXXI   
 
 
 
@@ -356,7 +355,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XXXII   
+## Section XXXII   
 
 
 
@@ -370,7 +369,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XXXIII   
+## Section XXXIII   
 
 
 
@@ -386,7 +385,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XXXIV   
+## Section XXXIV   
 
 
 
@@ -394,7 +393,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XXXV   
+## Section XXXV   
 
 
 
@@ -412,7 +411,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XXXVI   
+## Section XXXVI   
 
 
 
@@ -426,7 +425,7 @@ OM! HAVING BOWED down to Narayana, and Nara the most exalted of male beings, and
 
 
 
-# Section XXXVII   
+## Section XXXVII   
 
 
 
@@ -444,7 +443,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section XXXVIII   
+## Section XXXVIII   
 
 
 
@@ -452,7 +451,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section XXXIX   
+## Section XXXIX   
 
 
 
@@ -466,7 +465,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section XL   
+## Section XL   
 
 
 
@@ -476,7 +475,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section XLI   
+## Section XLI   
 
 
 
@@ -496,7 +495,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section XLII   
+## Section XLII   
 
 
 
@@ -522,7 +521,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section XLIII   
+## Section XLIII   
 
 
 
@@ -558,7 +557,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section XLIV   
+## Section XLIV   
 
 
 
@@ -580,7 +579,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section XLV   
+## Section XLV   
 
 
 
@@ -588,7 +587,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section XLVI   
+## Section XLVI   
 
 
 
@@ -596,7 +595,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section XLVII   
+## Section XLVII   
 
 
 
@@ -604,7 +603,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section XLVIII   
+## Section XLVIII   
 
 
 
@@ -614,7 +613,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section XLIX   
+## Section XLIX   
 
 
 
@@ -630,7 +629,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section L   
+## Section L   
 
 
 
@@ -646,7 +645,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section LI   
+## Section LI   
 
 
 
@@ -654,7 +653,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section LII   
+## Section LII   
 
 
 
@@ -662,7 +661,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section LIII   
+## Section LIII   
 
 
 
@@ -670,7 +669,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section LIV   
+## Section LIV   
 
 
 
@@ -678,7 +677,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section LV   
+## Section LV   
 
 
 
@@ -690,7 +689,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section LVI   
+## Section LVI   
 
 
 
@@ -702,7 +701,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section LVII   
+## Section LVII   
 
 
 
@@ -718,7 +717,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section LVIII   
+## Section LVIII   
 
 
 
@@ -732,7 +731,7 @@ They that are sinful never seek so much to ascertain the good qualities of other
 
 
 
-# Section LIX   
+## Section LIX   
 
 
 
@@ -742,7 +741,7 @@ Dhritarashtra said, 'Tell me, O thou of great wisdom, what high-souled Vasudeva 
 
 
 
-# Section LX   
+## Section LX   
 
 
 
@@ -750,7 +749,7 @@ Dhritarashtra said, 'Tell me, O thou of great wisdom, what high-souled Vasudeva 
 
 
 
-# Section LXI   
+## Section LXI   
 
 
 
@@ -760,7 +759,7 @@ Dhritarashtra said, 'Tell me, O thou of great wisdom, what high-souled Vasudeva 
 
 
 
-# Section LXII   
+## Section LXII   
 
 
 
@@ -780,7 +779,7 @@ Section LXIII
 
 
 
-# Section LXIV   
+## Section LXIV   
 
 
 
@@ -790,7 +789,7 @@ Section LXIII
 
 
 
-# Section LXV   
+## Section LXV   
 
 
 
@@ -798,7 +797,7 @@ Section LXIII
 
 
 
-# Section LXVI   
+## Section LXVI   
 
 
 
@@ -808,7 +807,7 @@ Section LXIII
 
 
 
-# Section LXVII   
+## Section LXVII   
 
 
 
@@ -820,7 +819,7 @@ Section LXIII
 
 
 
-# Section LXVIII   
+## Section LXVIII   
 
 
 
@@ -828,7 +827,7 @@ Section LXIII
 
 
 
-# Section LXIX   
+## Section LXIX   
 
 
 
@@ -854,7 +853,7 @@ Section LXIII
 
 
 
-# Section LXX   
+## Section LXX   
 
 
 
@@ -862,7 +861,7 @@ Section LXIII
 
 
 
-# Section LXXI   
+## Section LXXI   
 
 
 
@@ -870,7 +869,7 @@ Section LXIII
 
 
 
-# Section LXXII   
+## Section LXXII   
 
 
 
@@ -894,7 +893,7 @@ Section LXIII
 
 
 
-# Section LXXIII   
+## Section LXXIII   
 
 
 
@@ -902,7 +901,7 @@ Section LXIII
 
 
 
-# Section LXXIV   
+## Section LXXIV   
 
 
 
@@ -910,7 +909,7 @@ Section LXIII
 
 
 
-# Section LXXV   
+## Section LXXV   
 
 
 
@@ -918,7 +917,7 @@ Section LXIII
 
 
 
-# Section LXXVI   
+## Section LXXVI   
 
 
 
@@ -926,7 +925,7 @@ Section LXIII
 
 
 
-# Section LXXVII   
+## Section LXXVII   
 
 
 
@@ -934,7 +933,7 @@ Section LXIII
 
 
 
-# Section LXXVIII   
+## Section LXXVIII   
 
 
 
@@ -942,7 +941,7 @@ Section LXIII
 
 
 
-# Section LXXIX   
+## Section LXXIX   
 
 
 
@@ -950,7 +949,7 @@ Section LXIII
 
 
 
-# Section LXXX   
+## Section LXXX   
 
 
 
@@ -958,7 +957,7 @@ Section LXIII
 
 
 
-# Section LXXXI   
+## Section LXXXI   
 
 
 
@@ -970,7 +969,7 @@ Section LXIII
 
 
 
-# Section LXXXII   
+## Section LXXXII   
 
 
 
@@ -980,7 +979,7 @@ Section LXIII
 
 
 
-# Section LXXXIII   
+## Section LXXXIII   
 
 
 
@@ -994,7 +993,7 @@ Section LXIII
 
 
 
-# Section LXXXIV   
+## Section LXXXIV   
 
 
 
@@ -1006,7 +1005,7 @@ Section LXIII
 
 
 
-# Section LXXXV   
+## Section LXXXV   
 
 
 
@@ -1014,7 +1013,7 @@ Section LXIII
 
 
 
-# Section LXXXVI   
+## Section LXXXVI   
 
 
 
@@ -1024,7 +1023,7 @@ many. I will give him eighteen thousand woolen blankets soft to the touch, all p
 
 
 
-# Section LXXXVII   
+## Section LXXXVII   
 
 
 
@@ -1032,7 +1031,7 @@ many. I will give him eighteen thousand woolen blankets soft to the touch, all p
 
 
 
-# Section LXXXVIII   
+## Section LXXXVIII   
 
 
 
@@ -1048,7 +1047,7 @@ many. I will give him eighteen thousand woolen blankets soft to the touch, all p
 
 
 
-# Section LXXXIX   
+## Section LXXXIX   
 
 
 
@@ -1056,7 +1055,7 @@ many. I will give him eighteen thousand woolen blankets soft to the touch, all p
 
 
 
-# Section XC   
+## Section XC   
 
 
 
@@ -1072,7 +1071,7 @@ many. I will give him eighteen thousand woolen blankets soft to the touch, all p
 
 
 
-# Section XCI   
+## Section XCI   
 
 
 
@@ -1088,7 +1087,7 @@ many. I will give him eighteen thousand woolen blankets soft to the touch, all p
 
 
 
-# Section XCII   
+## Section XCII   
 
 
 
@@ -1096,7 +1095,7 @@ many. I will give him eighteen thousand woolen blankets soft to the touch, all p
 
 
 
-# Section XCIII   
+## Section XCIII   
 
 
 
@@ -1106,7 +1105,7 @@ many. I will give him eighteen thousand woolen blankets soft to the touch, all p
 
 
 
-# Section XCIV   
+## Section XCIV   
 
 
 
@@ -1114,7 +1113,7 @@ many. I will give him eighteen thousand woolen blankets soft to the touch, all p
 
 
 
-# Section XCV   
+## Section XCV   
 
 
 
@@ -1124,7 +1123,7 @@ many. I will give him eighteen thousand woolen blankets soft to the touch, all p
 
 
 
-# Section XCVI   
+## Section XCVI   
 
 
 
@@ -1136,7 +1135,7 @@ Dambhodbhava with all his troops, desirous of slaying that ascetic, covered all 
 
 
 
-# Section XCVII   
+## Section XCVII   
 
 
 
@@ -1148,7 +1147,7 @@ Dambhodbhava with all his troops, desirous of slaying that ascetic, covered all 
 
 
 
-# Section XCVIII   
+## Section XCVIII   
 
 
 
@@ -1158,7 +1157,7 @@ Dambhodbhava with all his troops, desirous of slaying that ascetic, covered all 
 
 
 
-# Section XCIX   
+## Section XCIX   
 
 
 
@@ -1168,7 +1167,7 @@ first being the king of his tribe. Look, O Matali, if there be any bridegroom he
 
 
 
-# Section C   
+## Section C   
 
 
 
@@ -1176,7 +1175,7 @@ first being the king of his tribe. Look, O Matali, if there be any bridegroom he
 
 
 
-# Section CI   
+## Section CI   
 
 
 
@@ -1184,7 +1183,7 @@ first being the king of his tribe. Look, O Matali, if there be any bridegroom he
 
 
 
-# Section CII   
+## Section CII   
 
 
 
@@ -1192,7 +1191,7 @@ first being the king of his tribe. Look, O Matali, if there be any bridegroom he
 
 
 
-# Section CIII   
+## Section CIII   
 
 
 
@@ -1204,7 +1203,7 @@ first being the king of his tribe. Look, O Matali, if there be any bridegroom he
 
 
 
-# Section CIV   
+## Section CIV   
 
 
 
@@ -1218,7 +1217,7 @@ first being the king of his tribe. Look, O Matali, if there be any bridegroom he
 
 
 
-# Section CV   
+## Section CV   
 
 
 
@@ -1232,7 +1231,7 @@ first being the king of his tribe. Look, O Matali, if there be any bridegroom he
 
 
 
-# Section CVI   
+## Section CVI   
 
 
 
@@ -1246,7 +1245,7 @@ constitute the fruit (that one enjoys in heaven). They are regarded as peace and
 
 
 
-# Section CVII   
+## Section CVII   
 
 
 
@@ -1254,7 +1253,7 @@ constitute the fruit (that one enjoys in heaven). They are regarded as peace and
 
 
 
-# Section CVIII   
+## Section CVIII   
 
 
 
@@ -1262,7 +1261,7 @@ constitute the fruit (that one enjoys in heaven). They are regarded as peace and
 
 
 
-# Section CIX   
+## Section CIX   
 
 
 
@@ -1272,7 +1271,7 @@ overwhelmed by darkness, they cannot, therefore, come hither in bliss. Here, O b
 
 
 
-# Section CX   
+## Section CX   
 
 
 
@@ -1280,7 +1279,7 @@ overwhelmed by darkness, they cannot, therefore, come hither in bliss. Here, O b
 
 
 
-# Section CXI   
+## Section CXI   
 
 
 
@@ -1290,7 +1289,7 @@ It is in this region, O foremost of Brahmanas, that those illustrious and truth-
 
 
 
-# Section CXII   
+## Section CXII   
 
 
 
@@ -1302,7 +1301,7 @@ It is in this region, O foremost of Brahmanas, that those illustrious and truth-
 
 
 
-# Section CXIII   
+## Section CXIII   
 
 
 
@@ -1310,7 +1309,7 @@ It is in this region, O foremost of Brahmanas, that those illustrious and truth-
 
 
 
-# Section CXIV   
+## Section CXIV   
 
 
 
@@ -1318,7 +1317,7 @@ It is in this region, O foremost of Brahmanas, that those illustrious and truth-
 
 
 
-# Section CXV   
+## Section CXV   
 
 
 
@@ -1326,7 +1325,7 @@ It is in this region, O foremost of Brahmanas, that those illustrious and truth-
 
 
 
-# Section CXVI   
+## Section CXVI   
 
 
 
@@ -1340,7 +1339,7 @@ delighted Haryyaswa, said unto him, 'Thou hast, O king obtained a son. Indeed, t
 
 
 
-# Section CXVII   
+## Section CXVII   
 
 
 
@@ -1350,7 +1349,7 @@ delighted Haryyaswa, said unto him, 'Thou hast, O king obtained a son. Indeed, t
 
 
 
-# Section CXVIII   
+## Section CXVIII   
 
 
 
@@ -1358,7 +1357,7 @@ delighted Haryyaswa, said unto him, 'Thou hast, O king obtained a son. Indeed, t
 
 
 
-# Section CXIX   
+## Section CXIX   
 
 
 
@@ -1368,7 +1367,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXX   
+## Section CXX   
 
 
 
@@ -1378,7 +1377,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXI   
+## Section CXXI   
 
 
 
@@ -1388,7 +1387,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXII   
+## Section CXXII   
 
 
 
@@ -1396,7 +1395,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXIII   
+## Section CXXIII   
 
 
 
@@ -1406,7 +1405,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXIV   
+## Section CXXIV   
 
 
 
@@ -1416,7 +1415,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXV   
+## Section CXXV   
 
 
 
@@ -1426,7 +1425,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXVI   
+## Section CXXVI   
 
 
 
@@ -1434,7 +1433,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXVII   
+## Section CXXVII   
 
 
 
@@ -1442,7 +1441,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXVIII   
+## Section CXXVIII   
 
 
 
@@ -1454,7 +1453,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXIX   
+## Section CXXIX   
 
 
 
@@ -1468,7 +1467,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXX   
+## Section CXXX   
 
 
 
@@ -1482,7 +1481,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXXI   
+## Section CXXXI   
 
 
 
@@ -1492,7 +1491,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXXII   
+## Section CXXXII   
 
 
 
@@ -1500,7 +1499,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXXIII   
+## Section CXXXIII   
 
 
 
@@ -1512,7 +1511,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXXIV   
+## Section CXXXIV   
 
 
 
@@ -1520,7 +1519,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXXV   
+## Section CXXXV   
 
 
 
@@ -1538,7 +1537,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXXVI   
+## Section CXXXVI   
 
 
 
@@ -1548,7 +1547,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXXVII   
+## Section CXXXVII   
 
 
 
@@ -1560,7 +1559,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXXVIII   
+## Section CXXXVIII   
 
 
 
@@ -1568,7 +1567,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXXXIX   
+## Section CXXXIX   
 
 
 
@@ -1580,7 +1579,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXL   
+## Section CXL   
 
 
 
@@ -1592,7 +1591,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXLI   
+## Section CXLI   
 
 
 
@@ -1602,7 +1601,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXLII   
+## Section CXLII   
 
 
 
@@ -1610,7 +1609,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXLIII   
+## Section CXLIII   
 
 
 
@@ -1624,7 +1623,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXLIV   
+## Section CXLIV   
 
 
 
@@ -1634,7 +1633,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXLV   
+## Section CXLV   
 
 
 
@@ -1644,7 +1643,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXLVI   
+## Section CXLVI   
 
 
 
@@ -1656,7 +1655,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXLVII   
+## Section CXLVII   
 
 
 
@@ -1668,7 +1667,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXLVIII   
+## Section CXLVIII   
 
 
 
@@ -1680,7 +1679,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXLIX   
+## Section CXLIX   
 
 
 
@@ -1688,7 +1687,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CXLX   
+## Section CXLX   
 
 
 
@@ -1696,7 +1695,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CLI   
+## Section CLI   
 
 
 
@@ -1714,7 +1713,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CLII   
+## Section CLII   
 
 
 
@@ -1722,7 +1721,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CLIII   
+## Section CLIII   
 
 
 
@@ -1730,7 +1729,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CLIV   
+## Section CLIV   
 
 
 
@@ -1740,7 +1739,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CLV   
+## Section CLV   
 
 
 
@@ -1756,7 +1755,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CLVI   
+## Section CLVI   
 
 
 
@@ -1766,7 +1765,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CLVII   
+## Section CLVII   
 
 
 
@@ -1780,7 +1779,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CLVIII   
+## Section CLVIII   
 
 
 
@@ -1796,7 +1795,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CLIX   
+## Section CLIX   
 
 
 
@@ -1806,7 +1805,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CLX   
+## Section CLX   
 
 
 
@@ -1820,7 +1819,7 @@ thou canst never have that which is not to be had. Do thou then, O virtuous one,
 
 
 
-# Section CLXI   
+## Section CLXI   
 
 
 
@@ -1846,7 +1845,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXII   
+## Section CLXII   
 
 
 
@@ -1860,7 +1859,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXIII   
+## Section CLXIII   
 
 
 
@@ -1878,7 +1877,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXIV   
+## Section CLXIV   
 
 
 
@@ -1902,7 +1901,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXV   
+## Section CLXV   
 
 
 
@@ -1910,7 +1909,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXVI   
+## Section CLXVI   
 
 
 
@@ -1924,7 +1923,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXVII   
+## Section CLXVII   
 
 
 
@@ -1932,7 +1931,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXVIII   
+## Section CLXVIII   
 
 
 
@@ -1940,7 +1939,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXIX   
+## Section CLXIX   
 
 
 
@@ -1954,7 +1953,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXX   
+## Section CLXX   
 
 
 
@@ -1964,7 +1963,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXXI   
+## Section CLXXI   
 
 
 
@@ -1972,7 +1971,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXXII   
+## Section CLXXII   
 
 
 
@@ -1980,7 +1979,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXXIII   
+## Section CLXXIII   
 
 
 
@@ -1990,7 +1989,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXXIV   
+## Section CLXXIV   
 
 
 
@@ -2000,7 +1999,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXXV   
+## Section CLXXV   
 
 
 
@@ -2008,7 +2007,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXXVI   
+## Section CLXXVI   
 
 
 
@@ -2018,7 +2017,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXXVII   
+## Section CLXXVII   
 
 
 
@@ -2028,7 +2027,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXXVIII   
+## Section CLXXVIII   
 
 
 
@@ -2042,7 +2041,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXXIX   
+## Section CLXXIX   
 
 
 
@@ -2056,7 +2055,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXXX   
+## Section CLXXX   
 
 
 
@@ -2074,7 +2073,7 @@ Say also, from me, unto Dhrishtadyumna, the prince of Panchalas, these words, vi
 
 
 
-# Section CLXXXI   
+## Section CLXXXI   
 
 
 
@@ -2092,7 +2091,7 @@ incur sin, nor doth one incur any harm by behaving towards a person exactly as t
 
 
 
-# Section CLXXXII   
+## Section CLXXXII   
 
 
 
@@ -2102,7 +2101,7 @@ incur sin, nor doth one incur any harm by behaving towards a person exactly as t
 
 
 
-# Section CLXXXIII   
+## Section CLXXXIII   
 
 
 
@@ -2110,7 +2109,7 @@ incur sin, nor doth one incur any harm by behaving towards a person exactly as t
 
 
 
-# Section CLXXXIV   
+## Section CLXXXIV   
 
 
 
@@ -2118,7 +2117,7 @@ incur sin, nor doth one incur any harm by behaving towards a person exactly as t
 
 
 
-# Section CLXXXV   
+## Section CLXXXV   
 
 
 
@@ -2126,7 +2125,7 @@ incur sin, nor doth one incur any harm by behaving towards a person exactly as t
 
 
 
-# Section CLXXXVI   
+## Section CLXXXVI   
 
 
 
@@ -2134,7 +2133,7 @@ incur sin, nor doth one incur any harm by behaving towards a person exactly as t
 
 
 
-# Section CLXXXVII   
+## Section CLXXXVII   
 
 
 
@@ -2142,7 +2141,7 @@ incur sin, nor doth one incur any harm by behaving towards a person exactly as t
 
 
 
-# Section CLXXXVIII   
+## Section CLXXXVIII   
 
 
 
@@ -2152,7 +2151,7 @@ incur sin, nor doth one incur any harm by behaving towards a person exactly as t
 
 
 
-# Section CLXXXIX   
+## Section CLXXXIX   
 
 
 
@@ -2160,7 +2159,7 @@ incur sin, nor doth one incur any harm by behaving towards a person exactly as t
 
 
 
-# Section CXC   
+## Section CXC   
 
 
 
@@ -2168,7 +2167,7 @@ incur sin, nor doth one incur any harm by behaving towards a person exactly as t
 
 
 
-# Section CXCI   
+## Section CXCI   
 
 
 
@@ -2178,7 +2177,7 @@ incur sin, nor doth one incur any harm by behaving towards a person exactly as t
 
 
 
-# Section CXCII   
+## Section CXCII   
 
 
 
@@ -2186,7 +2185,7 @@ incur sin, nor doth one incur any harm by behaving towards a person exactly as t
 
 
 
-# Section CXCIII   
+## Section CXCIII   
 
 
 
@@ -2196,7 +2195,7 @@ incur sin, nor doth one incur any harm by behaving towards a person exactly as t
 
 
 
-# Section CXCIV   
+## Section CXCIV   
 
 
 
@@ -2204,7 +2203,7 @@ incur sin, nor doth one incur any harm by behaving towards a person exactly as t
 
 
 
-# Section CXCV   
+## Section CXCV   
 
 
 
@@ -2214,7 +2213,7 @@ incur sin, nor doth one incur any harm by behaving towards a person exactly as t
 
 
 
-# Section CXCVI   
+## Section CXCVI   
 
 
 
@@ -2226,7 +2225,7 @@ incur sin, nor doth one incur any harm by behaving towards a person exactly as t
 
 
 
-# Section CXCVII   
+## Section CXCVII   
 
 
 
@@ -2236,7 +2235,7 @@ incur sin, nor doth one incur any harm by behaving towards a person exactly as t
 
 
 
-# Section CXCVIII   
+## Section CXCVIII   
 
 
 

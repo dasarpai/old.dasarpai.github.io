@@ -1,6 +1,6 @@
 ---
 id: 13    
-title: "Corpus: KM Ganguli Mahabharat 13"
+title: "Corpus: KM Ganguli Mahabharat 13 - Anusasana Parva"
 layout: single
 toc_sticky: true
 permalink: /mb-kmganguli-mahabharat_13
@@ -19,13 +19,13 @@ sidebar:
    nav: "docs"
 ---
 
-# ANUSASANA PARVA   
+# Anusasana Parva   
 
 PART I   
 
-# Section I   
+## Section I   
 
-## (Anusasanika Parva)    
+## Anusasanika Parva    
 
 OM! HAVING BOWED down unto Narayana, and Nara the foremost of male beings, and unto the goddess Saraswati, must the word Jaya be uttered.   
 
@@ -89,7 +89,7 @@ Vaisampayana said, "Having heard all this, the powerful and virtuous Yudhishthir
 
 
 
-# Section II   
+## Section II   
 
 
 
@@ -101,7 +101,7 @@ Vaisampayana said, "Having heard all this, the powerful and virtuous Yudhishthir
 
 
 
-# Section III   
+## Section III   
 
 
 
@@ -109,7 +109,7 @@ Vaisampayana said, "Having heard all this, the powerful and virtuous Yudhishthir
 
 
 
-# Section IV   
+## Section IV   
 
 
 
@@ -123,7 +123,7 @@ penances to his wife and then, O king, she gave birth to a blessed son named Jam
 
 
 
-# Section V   
+## Section V   
 
 
 
@@ -135,7 +135,7 @@ penances to his wife and then, O king, she gave birth to a blessed son named Jam
 
 
 
-# Section VI   
+## Section VI   
 
 
 
@@ -149,7 +149,7 @@ In olden times, Yayati, falling from his high estate in heaven descended on the 
 
 
 
-# Section VII   
+## Section VII   
 
 
 
@@ -159,7 +159,7 @@ In olden times, Yayati, falling from his high estate in heaven descended on the 
 
 
 
-# Section VIII   
+## Section VIII   
 
 
 
@@ -173,7 +173,7 @@ the herd, even so should the Kshatriya always protect the Vedas and the Brahmana
 
 
 
-# Section IX   
+## Section IX   
 
 
 
@@ -189,7 +189,7 @@ unto the Brahmanas. O chief of the Bharatas, the Brahmana is regarded as the hig
 
 
 
-# Section X   
+## Section X   
 
 
 
@@ -223,7 +223,7 @@ by persons of uncleansed souls. It is for this reason that ascetics adopt the vo
 
 
 
-# Section XI   
+## Section XI   
 
 
 
@@ -237,7 +237,7 @@ bathing or slaking their thirst. I reside also in infuriate elephants, in bovine
 
 
 
-# Section XII   
+## Section XII   
 
 
 
@@ -255,7 +255,7 @@ day, the king went on a hunting expedition. Saying unto himself--This, indeed, i
 
 
 
-# Section XIII   
+## Section XIII   
 
 
 
@@ -265,7 +265,7 @@ day, the king went on a hunting expedition. Saying unto himself--This, indeed, i
 
 
 
-# Section XIV   
+## Section XIV   
 
 
 
@@ -347,7 +347,7 @@ celestials and myself also, and thus spoke unto me,--We know, O Krishna, that th
 
 
 
-# Section XV   
+## Section XV   
 
 
 
@@ -361,7 +361,7 @@ celestials and myself also, and thus spoke unto me,--We know, O Krishna, that th
 
 
 
-# Section XVI   
+## Section XVI   
 
 
 
@@ -385,7 +385,7 @@ Emancipation from rebirth, that live in dissociation from all enjoyments, and th
 
 
 
-# Section XVII   
+## Section XVII   
 
 
 
@@ -453,7 +453,7 @@ to Gautama. Gautama in his turn, O descendant of Madhu, communicated it to Vaiva
 
 
 
-# Section XVIII   
+## Section XVIII   
 
 
 
@@ -477,7 +477,7 @@ to Gautama. Gautama in his turn, O descendant of Madhu, communicated it to Vaiva
 
 
 
-# Section XIX   
+## Section XIX   
 
 
 
@@ -511,7 +511,7 @@ strain. Yearning springs from liking. Tell me what (else) I am to do. --That lad
 
 
 
-# Section XX   
+## Section XX   
 
 
 
@@ -539,7 +539,7 @@ which he was washed, and the soft hands that were employed in washing him, the R
 
 
 
-# Section XXI   
+## Section XXI   
 
 
 
@@ -555,7 +555,7 @@ which he was washed, and the soft hands that were employed in washing him, the R
 
 
 
-# Section XXII   
+## Section XXII   
 
 
 
@@ -613,7 +613,7 @@ self-restraint are regarded as good. By making gifts unto them one acquires grea
 
 
 
-# Section XXIII   
+## Section XXIII   
 
 
 
@@ -649,7 +649,7 @@ maids, and cloths and robes, succeed in ascending to heaven . Those men who make
 
 
 
-# Section XXIV   
+## Section XXIV   
 
 
 
@@ -659,7 +659,7 @@ maids, and cloths and robes, succeed in ascending to heaven . Those men who make
 
 
 
-# Section XXV   
+## Section XXV   
 
 
 
@@ -675,7 +675,7 @@ which is known by the name of Vaivaswata, one becomes cleansed of all one's sins
 
 
 
-# Section XXVI   
+## Section XXVI   
 
 
 
@@ -705,7 +705,7 @@ merits which belong to the waters of Ganga. Hence, having listened to these part
 
 
 
-# Section XXVII   
+## Section XXVII   
 
 
 
@@ -723,7 +723,7 @@ merits which belong to the waters of Ganga. Hence, having listened to these part
 
 
 
-# Section XXVIII   
+## Section XXVIII   
 
 
 
@@ -731,7 +731,7 @@ merits which belong to the waters of Ganga. Hence, having listened to these part
 
 
 
-# Section XXIX   
+## Section XXIX   
 
 
 
@@ -755,7 +755,7 @@ status of a Brahmana thou now failest to retain it (for thou hast no compassion 
 
 
 
-# Section XXX   
+## Section XXX   
 
 
 
@@ -773,7 +773,7 @@ his shield as he went, he proceeded to the presence of his sire. Beholding the p
 
 
 
-# Section XXXI   
+## Section XXXI   
 
 
 
@@ -791,7 +791,7 @@ crossing all calamities and obstacles. They who bow unto all the deities (withou
 
 
 
-# Section XXXII   
+## Section XXXII   
 
 
 
@@ -811,7 +811,7 @@ crossing all calamities and obstacles. They who bow unto all the deities (withou
 
 
 
-# Section XXXIII   
+## Section XXXIII   
 
 
 
@@ -825,7 +825,7 @@ One cannot seize the wind with one's hands. One cannot touch the moon with one's
 
 
 
-# Section XXXIV   
+## Section XXXIV   
 
 
 
@@ -843,7 +843,7 @@ dark spots on the Moon and the salt waters of the ocean. The great Indra had at 
 
 
 
-# Section XXXV   
+## Section XXXV   
 
 
 
@@ -881,7 +881,7 @@ my sire asked Chandramas the question, 'How do the Brahmanas attain to success?
 
 
 
-# Section XXXVII   
+## Section XXXVII   
 
 
 
@@ -897,7 +897,7 @@ even so, for he spends his breath in vain and seeks to destroy the authority of 
 
 
 
-# Section XXXVIII   
+## Section XXXVIII   
 
 
 
@@ -917,7 +917,7 @@ satiated with men. This, O celestial Rishi. is another mystery connected with wo
 
 
 
-# Section XXXIX   
+## Section XXXIX   
 
 
 
@@ -925,7 +925,7 @@ satiated with men. This, O celestial Rishi. is another mystery connected with wo
 
 
 
-# Section XL   
+## Section XL   
 
 
 
@@ -943,7 +943,7 @@ Bhishma continued, 'Thus addressed by his preceptor, the ascetic Vipula with sen
 
 
 
-# Section XLI   
+## Section XLI   
 
 
 
@@ -957,7 +957,7 @@ Subject to the influence of another, she uttered these words, but became rather 
 
 
 
-# Section XLII   
+## Section XLII   
 
 
 
@@ -967,7 +967,7 @@ Summoning Vipula into his presence Devasarman of severe penances commanded his d
 
 
 
-# Section XLIII   
+## Section XLIII   
 
 
 
@@ -981,7 +981,7 @@ Summoning Vipula into his presence Devasarman of severe penances commanded his d
 
 
 
-# Section XLIV   
+## Section XLIV   
 
 
 
@@ -1011,7 +1011,7 @@ desire of knowing something about the practices of righteous people in respect o
 
 
 
-# Section XLV   
+## Section XLV   
 
 
 
@@ -1027,7 +1027,7 @@ following case I do not see any reason why the status of a daughter's son should
 
 
 
-# Section XLVI   
+## Section XLVI   
 
 
 
@@ -1037,7 +1037,7 @@ should honour them. By cherishing women, O Bharata, one cherishes the goddess of
 
 
 
-# Section XLVII   
+## Section XLVII   
 
 
 
@@ -1059,7 +1059,7 @@ is not equal in point of birth to the Brahmana wife, hence the son of the Brahma
 
 
 
-# Section XLVIII   
+## Section XLVIII   
 
 
 
@@ -1075,7 +1075,7 @@ not by considerations of righteousness but by uncontrolled lust, cause numerous 
 
 
 
-# Section XLIX   
+## Section XLIX   
 
 
 
@@ -1113,7 +1113,7 @@ All this is to be done only when the order of son's true mother cannot be ascert
 
 
 
-# Section L   
+## Section L   
 
 
 
@@ -1127,7 +1127,7 @@ All this is to be done only when the order of son's true mother cannot be ascert
 
 
 
-# Section LI   
+## Section LI   
 
 
 
@@ -1173,7 +1173,7 @@ All this is to be done only when the order of son's true mother cannot be ascert
 
 
 
-# Section LII   
+## Section LII   
 
 
 
@@ -1189,7 +1189,7 @@ All this is to be done only when the order of son's true mother cannot be ascert
 
 
 
-# Section LIII   
+## Section LIII   
 
 
 
@@ -1203,7 +1203,7 @@ of Treasures. At this act also, king Kusika Showed no mark of dissatisfaction. H
 
 
 
-# Section LIV   
+## Section LIV   
 
 
 
@@ -1217,7 +1217,7 @@ usual, and presented the old aspect of its being covered with Kusa grass and ant
 
 
 
-# Section LV   
+## Section LV   
 
 
 
@@ -1233,7 +1233,7 @@ with the dead. It was with this resolution that I slept for one and twenty days 
 
 
 
-# Section LVI   
+## Section LVI   
 
 
 
@@ -1243,7 +1243,7 @@ with the dead. It was with this resolution that I slept for one and twenty days 
 
 
 
-# Section LVII   
+## Section LVII   
 
 
 
@@ -1259,7 +1259,7 @@ gets articles of a similar kind. There is no doubt about it. That person who mak
 
 
 
-# Section LVIII   
+## Section LVIII   
 
 
 
@@ -1271,7 +1271,7 @@ planting trees one acquires fame in the world of men and auspicious rewards in t
 
 
 
-# Section LIX   
+## Section LIX   
 
 
 
@@ -1287,7 +1287,7 @@ contact with the Brahmanas, especially as we shall then have to drag on our exis
 
 
 
-# Section LX   
+## Section LX   
 
 
 
@@ -1299,7 +1299,7 @@ promises Brahmacharins of restrained senses, O son, by eating at one's house in 
 
 
 
-# Section LXI   
+## Section LXI   
 
 
 
@@ -1313,7 +1313,7 @@ as the winged denizens of the air seek the refuge of a large tree. Let all thy k
 
 
 
-# Section LXII   
+## Section LXII   
 
 
 
@@ -1339,7 +1339,7 @@ steeds with excellent vehicles, are always ready for the person how makes gifts 
 
 
 
-# Section LXIII   
+## Section LXIII   
 
 
 
@@ -1355,7 +1355,7 @@ house and solicits it, is said, O chief of the Bharatas, to contribute both life
 
 
 
-# Section LXIV   
+## Section LXIV   
 
 
 
@@ -1373,7 +1373,7 @@ never meets with any calamity and gratifies the Pitris and the deities and attai
 
 
 
-# Section LXV   
+## Section LXV   
 
 
 
@@ -1381,7 +1381,7 @@ never meets with any calamity and gratifies the Pitris and the deities and attai
 
 
 
-# Section LXVI   
+## Section LXVI   
 
 
 
@@ -1407,7 +1407,7 @@ men is taken also by the deities those men worship.  That man who makes a gift o
 
 
 
-# Section LXVII   
+## Section LXVII   
 
 
 
@@ -1417,7 +1417,7 @@ men is taken also by the deities those men worship.  That man who makes a gift o
 
 
 
-# Section LXVIII   
+## Section LXVIII   
 
 
 
@@ -1437,7 +1437,7 @@ tanks and lakes and wells to be excavated. Such acts are rare in the world, O be
 
 
 
-# Section LXIX   
+## Section LXIX   
 
 
 
@@ -1453,7 +1453,7 @@ not be given?
 
 
 
-# Section LXX   
+## Section LXX   
 
 
 
@@ -1463,7 +1463,7 @@ to the presence of the king of the dead. Worshipping me duly Yama addressed me, 
 
 
 
-# Section LXXI   
+## Section LXXI   
 
 
 
@@ -1479,7 +1479,7 @@ all of which approach one like an affectionate mother approaching her beloved ch
 
 
 
-# Section LXXII   
+## Section LXXII   
 
 
 
@@ -1491,7 +1491,7 @@ all of which approach one like an affectionate mother approaching her beloved ch
 
 
 
-# Section LXXIII   
+## Section LXXIII   
 
 
 
@@ -1507,7 +1507,7 @@ that is capable of bearing heavy burden, that is young and strong and docile, th
 
 
 
-# Section LXXIV   
+## Section LXXIV   
 
 
 
@@ -1521,7 +1521,7 @@ enjoys felicity in heaven as the reward of the gift but suffers misery in hell f
 
 
 
-# Section LXXV   
+## Section LXXV   
 
 
 
@@ -1533,7 +1533,7 @@ seen to attach to him who mazes gifts of knowledge? What are the merits acquired
 
 
 
-# Section LXXVI   
+## Section LXXVI   
 
 
 
@@ -1551,7 +1551,7 @@ place. There are, in the world, many men that are bereft of faith. There are amo
 
 
 
-# Section LXXVII   
+## Section LXXVII   
 
 
 
@@ -1577,7 +1577,7 @@ the auspicious wealth, identifiable with nectar, that kine possess!--Having said
 
 
 
-# Section LXXVIII   
+## Section LXXVIII   
 
 
 
@@ -1593,7 +1593,7 @@ great prosperity. One should always take the names of kine. One should never sho
 
 
 
-# Section LXXIX   
+## Section LXXIX   
 
 
 
@@ -1603,7 +1603,7 @@ cow, with calf similar to her, yielding milk, free from every vice, and covered 
 
 
 
-# Section LXXX   
+## Section LXXX   
 
 
 
@@ -1613,7 +1613,7 @@ cow, with calf similar to her, yielding milk, free from every vice, and covered 
 
 
 
-# Section LXXXI   
+## Section LXXXI   
 
 
 
@@ -1631,7 +1631,7 @@ of every wish. Even so, kine are highly blessed. They are the essential requisit
 
 
 
-# Section LXXXII   
+## Section LXXXII   
 
 
 
@@ -1663,7 +1663,7 @@ thou likest. Thou hast already (by answering our questions) gratified us exceedi
 
 
 
-# Section LXXXIII   
+## Section LXXXIII   
 
 
 
@@ -1675,7 +1675,7 @@ hundred eyes, that are Surabhi's are endued with means for the gratification of 
 
 
 
-# Section LXXXIV   
+## Section LXXXIV   
 
 
 
@@ -1691,7 +1691,7 @@ Agni for its essence. Hence it is that the person who makes gifts of gold gives 
 
 
 
-# Section LXXXV   
+## Section LXXXV   
 
 
 
@@ -1735,7 +1735,7 @@ installed as the king of kings in heaven. That person who, at sunrise, makes a g
 
 
 
-# Section LXXXVI   
+## Section LXXXVI   
 
 
 
@@ -1745,7 +1745,7 @@ installed as the king of kings in heaven. That person who, at sunrise, makes a g
 
 
 
-# Section LXXXVII   
+## Section LXXXVII   
 
 
 
@@ -1759,7 +1759,7 @@ in trade. By performing it on the ninth day one acquires many animals of unclove
 
 
 
-# Section LXXXVIII   
+## Section LXXXVIII   
 
 
 
@@ -1771,7 +1771,7 @@ With the meat of the buffalo their gratification lasts for eleven months. With b
 
 
 
-# Section LXXXIX   
+## Section LXXXIX   
 
 
 
@@ -1781,7 +1781,7 @@ sacred fire. Such a person, freed from fear, ascends to heaven with his children
 
 
 
-# Section XC   
+## Section XC   
 
 
 
@@ -1799,7 +1799,7 @@ poured upon the extinguished ashes of a sacrificial fire never reach either the 
 
 
 
-# Section XCI   
+## Section XCI   
 
 
 
@@ -1813,7 +1813,7 @@ All kinds of salt should be excluded from the offerings made at Sraddhas, and al
 
 
 
-# Section XCII   
+## Section XCII   
 
 
 
@@ -1823,7 +1823,7 @@ All kinds of salt should be excluded from the offerings made at Sraddhas, and al
 
 
 
-# Section XCIII   
+## Section XCIII   
 
 
 
@@ -1999,7 +1999,7 @@ incantations of king Vrishadarbhi, she had come here from the desire of slaying 
 
 
 
-# Section XCIV   
+## Section XCIV   
 
 
 
@@ -2073,7 +2073,7 @@ every kind, and endued with merit, he is sure to attain to Heaven. He who studie
 
 
 
-# Section XCV   
+## Section XCV   
 
 
 
@@ -2089,7 +2089,7 @@ every kind, and endued with merit, he is sure to attain to Heaven. He who studie
 
 
 
-# Section XCVI   
+## Section XCVI   
 
 
 
@@ -2111,7 +2111,7 @@ every kind, and endued with merit, he is sure to attain to Heaven. He who studie
 
 
 
-# Section XCVII   
+## Section XCVII   
 
 
 
@@ -2127,7 +2127,7 @@ every kind, and endued with merit, he is sure to attain to Heaven. He who studie
 
 
 
-# Section XCVIII   
+## Section XCVIII   
 
 
 
@@ -2147,7 +2147,7 @@ with the fruits they bring about, that attach to Vali offerings made to the deit
 
 
 
-# Section XCIX   
+## Section XCIX   
 
 
 
@@ -2161,7 +2161,7 @@ with the fruits they bring about, that attach to Vali offerings made to the deit
 
 
 
-# Section C   
+## Section C   
 
 
 
@@ -2175,7 +2175,7 @@ wooden post for hurling king Nahusha from the throne of Heaven. Soon after Nahus
 
 
 
-# Section CI   
+## Section CI   
 
 
 
@@ -2197,7 +2197,7 @@ this life, born in a sinful older! I fail to see clearly how I may succeed in cl
 
 
 
-# Section CII   
+## Section CII   
 
 
 
@@ -2281,7 +2281,7 @@ son, viz., that elephant, proceeded to heaven, that is difficult of attainment b
 
 
 
-# Section CIII   
+## Section CIII   
 
 
 
@@ -2301,7 +2301,7 @@ that I have attained to this region. I worshipped thirty fires, O Brahmana, ever
 
 
 
-# Section CIV   
+## Section CIV   
 
 
 
@@ -2331,7 +2331,7 @@ is conduct that begets righteousness, and it is righteousness that prolongs life
 
 
 
-# Section CV   
+## Section CV   
 
 
 
@@ -2343,7 +2343,7 @@ takes birth becomes subject to every evil. Such a person brings about infamy, an
 
 
 
-# Section CVI   
+## Section CVI   
 
 
 
@@ -2359,7 +2359,7 @@ hears them read, becomes freed from sins of every kind. Not only is such a perso
 
 
 
-# Section CVII   
+## Section CVII   
 
 
 
@@ -2381,7 +2381,7 @@ endued with the greatest beauty. It is drawn by lions and tigers, and produces a
 
 
 
-# Section CVIII   
+## Section CVIII   
 
 
 
@@ -2395,7 +2395,7 @@ reciting the names of the Tirthas, by performing ablutions there, and by offerin
 
 
 
-# Section CIX   
+## Section CIX   
 
 
 
@@ -2407,7 +2407,7 @@ By observing a similar fast on the twelfth day of the month of Vaisakha and wors
 
 
 
-# Section CX   
+## Section CX   
 
 
 
@@ -2419,7 +2419,7 @@ By observing a similar fast on the twelfth day of the month of Vaisakha and wors
 
 
 
-# Section CXI   
+## Section CXI   
 
 
 
@@ -2463,7 +2463,7 @@ Women also, when they act in the way indicated, attain to births of the same kin
 
 
 
-# Section CXII   
+## Section CXII   
 
 
 
@@ -2473,7 +2473,7 @@ Women also, when they act in the way indicated, attain to births of the same kin
 
 
 
-# Section CXIII   
+## Section CXIII   
 
 
 
@@ -2485,7 +2485,7 @@ Women also, when they act in the way indicated, attain to births of the same kin
 
 
 
-# Section CXIV   
+## Section CXIV   
 
 
 
@@ -2499,7 +2499,7 @@ the religion of compassion is surrounded by four considerations. I have thus dec
 
 
 
-# Section CXV   
+## Section CXV   
 
 
 
@@ -2511,7 +2511,7 @@ animals or snakes. All creatures seek his protection. He is an object of confide
 
 
 
-# Section CXVI   
+## Section CXVI   
 
 
 
@@ -2523,7 +2523,7 @@ similar acts done by that other. Whatever acts one does in whatever bodies, one 
 
 
 
-# Section CXVII   
+## Section CXVII   
 
 
 
@@ -2541,7 +2541,7 @@ similar acts done by that other. Whatever acts one does in whatever bodies, one 
 
 
 
-# Section CXVIII   
+## Section CXVIII   
 
 
 
@@ -2557,7 +2557,7 @@ field of battle for the sake of kine or Brahmanas. O prince, enjoying much felic
 
 
 
-# Section CXIX   
+## Section CXIX   
 
 
 
@@ -2575,7 +2575,7 @@ field of battle for the sake of kine or Brahmanas. O prince, enjoying much felic
 
 
 
-# Section CXX   
+## Section CXX   
 
 
 
@@ -2591,7 +2591,7 @@ The conduct of the person who is devoted to Brahma is not regarded either way. H
 
 
 
-# Section CXXI   
+## Section CXXI   
 
 
 
@@ -2607,7 +2607,7 @@ useless. The ignorant Brahmana, by eating the food that is offered to him, destr
 
 
 
-# Section CXXII   
+## Section CXXII   
 
 
 
@@ -2615,7 +2615,7 @@ useless. The ignorant Brahmana, by eating the food that is offered to him, destr
 
 
 
-# Section CXXIII   
+## Section CXXIII   
 
 
 
@@ -2625,7 +2625,7 @@ useless. The ignorant Brahmana, by eating the food that is offered to him, destr
 
 
 
-# Section CXXIV   
+## Section CXXIV   
 
 
 
@@ -2639,7 +2639,7 @@ been able to acquire something upon which thou hast set thy heart for a long tim
 
 
 
-# Section CXXV   
+## Section CXXV   
 
 
 
@@ -2677,7 +2677,7 @@ what the merits are that attach to the setting free of bulls endued with blue co
 
 
 
-# Section CXXVI   
+## Section CXXVI   
 
 
 
@@ -2713,7 +2713,7 @@ to what those merits are. The man who makes such an offering to the Pitris under
 
 
 
-# Section CXXVII   
+## Section CXXVII   
 
 
 
@@ -2733,7 +2733,7 @@ occasion of those rites that are performable on ordinary lunar days or on the es
 
 
 
-# Section CXXVIII   
+## Section CXXVIII   
 
 
 
@@ -2741,7 +2741,7 @@ occasion of those rites that are performable on ordinary lunar days or on the es
 
 
 
-# Section CXXIX   
+## Section CXXIX   
 
 
 
@@ -2749,7 +2749,7 @@ occasion of those rites that are performable on ordinary lunar days or on the es
 
 
 
-# Section CXXX   
+## Section CXXX   
 
 
 
@@ -2763,7 +2763,7 @@ occasion of those rites that are performable on ordinary lunar days or on the es
 
 
 
-# Section CXXXI   
+## Section CXXXI   
 
 
 
@@ -2775,7 +2775,7 @@ these things in their houses always find them free from the inroads of even the 
 
 
 
-# Section CXXXII   
+## Section CXXXII   
 
 
 
@@ -2787,7 +2787,7 @@ these things in their houses always find them free from the inroads of even the 
 
 
 
-# Section CXXXIII   
+## Section CXXXIII   
 
 
 
@@ -2795,7 +2795,7 @@ these things in their houses always find them free from the inroads of even the 
 
 
 
-# Section CXXXIV   
+## Section CXXXIV   
 
 
 
@@ -2807,7 +2807,7 @@ these things in their houses always find them free from the inroads of even the 
 
 
 
-# Section CXXXV   
+## Section CXXXV   
 
 
 
@@ -2817,7 +2817,7 @@ these things in their houses always find them free from the inroads of even the 
 
 
 
-# Section CXXXVI   
+## Section CXXXVI   
 
 
 
@@ -2827,7 +2827,7 @@ these things in their houses always find them free from the inroads of even the 
 
 
 
-# Section CXXXVII   
+## Section CXXXVII   
 
 
 
@@ -2837,7 +2837,7 @@ these things in their houses always find them free from the inroads of even the 
 
 
 
-# Section CXXXVIII   
+## Section CXXXVIII   
 
 
 
@@ -2847,7 +2847,7 @@ these things in their houses always find them free from the inroads of even the 
 
 
 
-# Section CXXXIX   
+## Section CXXXIX   
 
 
 
@@ -2865,7 +2865,7 @@ addressed them in these sweet and refreshing words, 'Why, indeed, has wonder fil
 
 
 
-# Section CXL   
+## Section CXL   
 
 
 
@@ -2883,7 +2883,7 @@ addressed them in these sweet and refreshing words, 'Why, indeed, has wonder fil
 
 
 
-# Section CXLI   
+## Section CXLI   
 
 
 
@@ -2929,7 +2929,7 @@ the deities, hospitality towards all. Abstention from all luxurious viands prepa
 
 
 
-# Section CXLII   
+## Section CXLII   
 
 
 
@@ -2951,7 +2951,7 @@ off his body on the great ocean, succeeds in attaining to the regions of Varuna 
 
 
 
-# Section CXLIII   
+## Section CXLIII   
 
 
 
@@ -2969,7 +2969,7 @@ Sudra, if he is established on good conduct, is regarded as possessed of the sta
 
 
 
-# Section CXLIV   
+## Section CXLIV   
 
 
 
@@ -2991,7 +2991,7 @@ Sudra, if he is established on good conduct, is regarded as possessed of the sta
 
 
 
-# Section CXLV   
+## Section CXLV   
 
 
 
@@ -3015,7 +3015,7 @@ and cooling words, who gives way to one that deserves to have way, who adores hi
 
 
 
-# Section CXLVI   
+## Section CXLVI   
 
 
 
@@ -3039,7 +3039,7 @@ of the family with that share of food which is theirs by the ordinances, and who
 
 
 
-# Section CXLVII   
+## Section CXLVII   
 
 
 
@@ -3051,7 +3051,7 @@ by sincerity, by affluence, by compassion, by excellence of form, and by might. 
 
 
 
-# Section CXLVIII   
+## Section CXLVIII   
 
 
 
@@ -3071,7 +3071,7 @@ Hearing this discourse, fraught with righteousness, between Sankara and Uma, tha
 
 
 
-# Section CXLIX   
+## Section CXLIX   
 
 
 
@@ -3101,7 +3101,7 @@ and memory capable of holding in His mind the contents of all treatises; He that
 
 
 
-# Section CL   
+## Section CL   
 
 
 
@@ -3113,7 +3113,7 @@ out on a journey, or entering a house on coming back, one should recite these Ma
 
 
 
-# Section CLI   
+## Section CLI   
 
 
 
@@ -3123,7 +3123,7 @@ out on a journey, or entering a house on coming back, one should recite these Ma
 
 
 
-# Section CLII   
+## Section CLII   
 
 
 
@@ -3137,7 +3137,7 @@ out on a journey, or entering a house on coming back, one should recite these Ma
 
 
 
-# Section CLIII   
+## Section CLIII   
 
 
 
@@ -3147,7 +3147,7 @@ of golden complexion. Thou art not equal to the Brahmanas. Do thou, O king, seek
 
 
 
-# Section CLIV   
+## Section CLIV   
 
 
 
@@ -3155,7 +3155,7 @@ of golden complexion. Thou art not equal to the Brahmanas. Do thou, O king, seek
 
 
 
-# Section CLV   
+## Section CLV   
 
 
 
@@ -3165,7 +3165,7 @@ of golden complexion. Thou art not equal to the Brahmanas. Do thou, O king, seek
 
 
 
-# Section CLVI   
+## Section CLVI   
 
 
 
@@ -3187,7 +3187,7 @@ of golden complexion. Thou art not equal to the Brahmanas. Do thou, O king, seek
 
 
 
-# Section CLVII   
+## Section CLVII   
 
 
 
@@ -3203,7 +3203,7 @@ of golden complexion. Thou art not equal to the Brahmanas. Do thou, O king, seek
 
 
 
-# Section CLVIII   
+## Section CLVIII   
 
 
 
@@ -3219,7 +3219,7 @@ Whatever is noble and meritorious in the universe, indeed, whatever of good and 
 
 
 
-# Section CLIX   
+## Section CLIX   
 
 
 
@@ -3231,7 +3231,7 @@ my Rukmini endued with youth, as if she were an animal destined to drag the cars
 
 
 
-# Section CLX   
+## Section CLX   
 
 
 
@@ -3245,7 +3245,7 @@ and the god of lightning. He is Chandramas; he is Isana; he is Surya; he is Varu
 
 
 
-# Section CLXI   
+## Section CLXI   
 
 
 
@@ -3253,7 +3253,7 @@ and the god of lightning. He is Chandramas; he is Isana; he is Surya; he is Varu
 
 
 
-# Section CLXII   
+## Section CLXII   
 
 
 
@@ -3285,7 +3285,7 @@ sinful man always proclaims the sins he has committed. Those men who have delibe
 
 
 
-# Section CLXVIII   
+## Section CLXVIII   
 
 
 
@@ -3295,7 +3295,7 @@ sinful man always proclaims the sins he has committed. Those men who have delibe
 
 
 
-# Section CLXIV   
+## Section CLXIV   
 
 
 
@@ -3307,7 +3307,7 @@ that belong to the intermediate orders of existence are equally subject, in the 
 
 
 
-# Section CLXV   
+## Section CLXV   
 
 
 
@@ -3321,7 +3321,7 @@ that belong to the intermediate orders of existence are equally subject, in the 
 
 
 
-# Section CLXVI   
+## Section CLXVI   
 
 
 
@@ -3331,7 +3331,7 @@ that belong to the intermediate orders of existence are equally subject, in the 
 
 
 
-# Section CLXVII   
+## Section CLXVII   
 
 
 

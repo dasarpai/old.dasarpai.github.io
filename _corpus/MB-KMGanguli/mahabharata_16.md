@@ -1,6 +1,6 @@
 ---
 id: 16    
-title: "Corpus: KM Ganguli Mahabharat 16"
+title: "Corpus: KM Ganguli Mahabharat 16 - Mausala Parva"
 layout: single
 toc_sticky: true
 permalink: /mb-kmganguli-mahabharat_16
@@ -19,7 +19,9 @@ sidebar:
    nav: "docs"
 ---
 
-# Section 1   
+# Mausala Parva 
+
+## Section 1   
 
 Om! Having bowed down unto Narayana, and to Nara, the foremost of men, as also to the goddess Sarasvati, should the word "Jaya" be uttered.   
 
@@ -39,13 +41,13 @@ Vaishampayana continued: "One day, the Vrishni heroes numbering Sarana amongst t
 
 
 
-# Section 2   
+## Section 2   
 
 Vaishampayana said: "While the Vrishnis and the Andhakas were thus endeavouring (to avoid the impending calamity), the embodied form of Time (death) every day wandered about their houses. He looked like a man of terrible and fierce aspect. Of bald head, he was black and of tawny complexion. Sometimes he was seen by the Vrishnis as he peered into their houses. The mighty bowmen among the Vrishnis shot hundreds and thousands of shafts at him, but none of these succeeded in piercing him, for he was none else than the Destroyer of all creatures. Day by day strong winds blew, and many were the evil omens that arose, awful and foreboding the destruction of the Vrishnis and the Andhakas. The streets swarmed with rats and mice. Earthen pots showed cracks or broke from no apparent cause. At night, the rats and mice ate away the hair and nails of slumbering men. Sarikas chirped, sitting within the houses of the Vrishnis. The noise made by those birds ceased not for even a short while by day or by night. The Sarashas were heard to imitate the hooting of the owl, and goats imitated the cries, O Bharata, of jackals. Many birds appeared, impelled by Death, that were pale of complexion but that had legs red of hue. Pigeons were seen to always disport in the houses of the Vrishnis. Asses were born of kine, and elephants of mules. Cats were born of bitches, and mouse of the mongoose. The Vrishnis, committing sinful acts, were not seen to feel any shame. They showed disregard for Brahmanas and the Pitris and the deities, They insulted and humiliated their preceptors and seniors. Only Rama and Janardana acted differently. Wives deceived their husbands, and husbands deceived their wives. Fires, when ignited, cast their flames towards the left. Sometimes they threw out flames whose splendour was blue and red. The Sun, whether when rising or setting over the city, seemed to be surrounded by headless trunks of human form. In cook rooms, upon food that was clean and well-boiled, were seen, when it was served out for eating, innumerable worms of diverse kinds. When Brahmanas, receiving gifts, blessed the day or the hour (fixed for this or that undertaking) or when high-souled men were engaged in silent recitations, the heavy tread was heard of innumerable men running about, but no one could be seen to whom the sound of such tread could be ascribed. The constellations were repeatedly seen to be struck by the planets. None amongst the Yadavas could, however, obtain a sight of the constellation of his birth. When the Panchajanya was blown in their houses, asses of dissonant and awful voice brayed aloud from every direction. "Beholding these signs that indicated the perverse course of Time, and seeing that the day of the new moon coincided with the thirteenth (and the fourteenth) lunation, Hrishikesa, summoning the Yadavas, said unto them these words: ‘The fourteenth lunation has been made the fifteenth by Rahu once more. Such a day had happened at the time of the great battle of the Bharatas. It has once more appeared, it seems, for our destruction.’ "The slayer of Keshi, Janardana, thinking upon the omens that Time showed, understood that the thirty-sixth year had come, and that what Gandhari, burning with grief on account of the death of her sons, and deprived of all her kinsmen, had said was about to transpire. ‘The present is exactly similar to that time when Yudhishthira noted at such awful omens when the two armies had been arrayed in order of battle.’ Vasudeva, having said so, endeavoured to bring about those occurrences which would make Gandhari’s words true. That chastiser of foes commanded the Vrishnis to make a pilgrimage to some sacred water. The messengers forthwith proclaimed at the command of Keshava that the Vrishnis should make a journey to the sea-coast for bathing in the sacred waters of the ocean."   
 
 
 
-# Section 3   
+## Section 3   
 
 Vaishampayana said: "At that time the Vrishni ladies dreamed every night that a woman of black complexion and white teeth, entering their abodes, laughed aloud and ran through Dvaraka, snatching from them the auspicious threads in their wrists. The men dreamt that terrible vultures, entering their houses and fire-chambers, gorged themselves on their bodies. Their ornaments and umbrellas and standards and armour were seen to be taken away by terrible Rakshasas. In the very sight of the Vrishnis, the discus of Krishna, given by Agni, made of iron and having its nave composed of hardest adamant, ascended into the firmament. In the very sight of Daruka, the excellent car of Vasudeva, of solar effulgence, and properly equipped, was taken away by the horses yoked unto it. Those foremost of steeds, numbering four, (Saivya, Sugriva, Meghapushpa and Valahaka), and endued with the speed of thought, fled away, dragging the car after them along the surface of the ocean. The two great standards of Krishna’s car and Valadeva’s car, that with the device of Garuda and that bearing the device of the palmyra, which were reverently worshipped by those two heroes, were taken away by Apsaras who, day and night, called upon the Vrishnis and the Andhakas to set out on a pilgrimage to some sacred water. When these omens were seen and heard, those foremost of men, the mighty car-warriors of the Vrishnis and the Andhakas, became desirous of setting out, with their whole families, on a pilgrimage to some sacred water. They prepared diverse kinds of viands and edibles and diverse kinds of wines and meat. The troops of the Vrishnis and the Andhakas, blazing with beauty and endued with fierce energy, then set out from the city on cars and steeds and elephants. The Yadavas, then, with their wives, proceeded to Prabhasa and took up their residence there, each in the (temporary) habitation that was assigned to him, and all having an abundance of provisions consisting of edibles and drink.   
 
@@ -59,7 +61,7 @@ Vaishampayana said: "At that time the Vrishni ladies dreamed every night that a 
 
 
 
-# Section 4   
+## Section 4   
 
 Vaishampayana said: "Then Daruka and Keshava and Vabhru left that spot, following in the wake of Rama (for discovering his retreat). They beheld that hero of infinite energy sitting thoughtfully, reclining his back against a tree, in a solitary spot of earth. Finding Rama of great soul, Krishna commanded Daruka, saying, ‘Going to the Kurus, inform Partha of this great slaughter of the Yadus. Let Arjuna come here quickly, hearing of the destruction of the Yadavas through the Brahmanas’ curse.’   
 
@@ -75,13 +77,13 @@ Vaishampayana said: "Then Daruka and Keshava and Vabhru left that spot, followin
 
 
 
-# Section 5   
+## Section 5   
 
 Vaishampayana said: "Meanwhile Daruka, going to the Kurus and seeing those mighty car-warriors, the son of Pritha, informed them of how the Vrishnis had slain one another with iron bolts. Hearing that the Vrishnis along with the Bhojas and Andhakas and Kukuras had all been slain, the Pandavas, burning with grief, became highly agitated. Then Arjuna, the dear friend of Keshava, bidding them farewell, set out for seeing his maternal uncle. He said that destruction would soon overtake everything. Proceeding to the city of the Vrishnis with Daruka in his company, O puissant king, that hero beheld that the city of Dwaraka looked like a woman bereft of her husband. Those ladies who had, before this, the very Lord of the universe for their protector, were now lordless. Seeing that Partha had come for protecting them, they all set up a loud wail. 16,000 ladies had been wedded to Vasudeva. Indeed, as soon as they saw Arjuna arrive, they uttered a loud cry of sorrow. As soon as the Kuru prince met those beauteous ones deprived of the protection of Krishna and of their sons as well, he was unable to look at them, his vision being obstructed by tears. The Dwaraka river had the Vrishnis and the Andhakas for its water, steeds for its fishes, cars for its rafts, the sound of musical instruments and the rattle of cars for its waves, houses and mansions and public squares for its lakes. Gems and precious stones were its abundant moss. The walls of adamant were the garlands of flowers that floated on it. The streets and roads were the strong currents running in eddies along its surface. The great open squares were the still large lakes in its course. Rama and Krishna were its two mighty alligators. That agreeable river now seemed to Arjuna to be the fierce Vaitarani bound up with Time’s net. Indeed, the son of Vasava, endued with great intelligence, beheld the city to look even thus, reft as it was of the Vrishni heroes. Shorn of beauty, and perfectly cheerless, it presented the aspect of a lotus flower in the season of winter. Beholding the sight that Dwaraka presented, and seeing the numerous wives of Krishna, Arjuna wailed aloud with eyes bathed in tears and fell down on the earth. Then Satya, the daughter of Satrajit, and Rukmini too, O king, fell down beside Dhananjaya and uttered loud wails of grief. Raising him then they caused him to be seated on a golden seat. The ladies sat around that high-souled one, giving expression to their feelings. Praising Govinda and talking with the ladies, the son of Pandu comforted them and then proceeded to see his maternal uncle."   
 
 
 
-# Section 6   
+## Section 6   
 
 Vaishampayana said: "The Kuru prince beheld the heroic and high-souled Anakadundubhi lying on the ground and burning with grief on account of his sons. The broad-chested and mighty-armed son of Pritha, more afflicted than his uncle, with eyes bathed in tears, touched his uncle’s feet, O Bharata. The mighty-armed Anakadundubhi wished to smell the head of his sister’s son but failed to do it, O slayer of foes. The old man of mighty arms, deeply afflicted, embraced Partha with his arms and wept aloud, remembering his sons, brothers, grandsons, daughter’s sons, and friends.   
 
@@ -89,7 +91,7 @@ Vaishampayana said: "The Kuru prince beheld the heroic and high-souled Anakadund
 
 
 
-# Section 7   
+## Section 7   
 
 Vaishampayana said: "That scorcher of foes, Vibhatsu, thus addressed by his maternal uncle, replied, with great cheerlessness of heart, unto Vasudeva who was equally cheerless, saying, ‘O uncle, I am unable to look at this Earth when she is reft of that hero of Vrishni’s race and those my other kinsmen. The king and Bhimasena and Sahadeva and Nakula and Yajnaseni, numbering the sixth, are of the same mind with myself in this matter. The time has come for the departure of the king also. Know this, that the hour of our departure too is at hand. Thou art the foremost of those that are well conversant with the course of time. I shall, however, O chastiser of foes, first remove to Indraprastha the women of the Vrishni race as also the children and the aged.’ Having said so unto his uncle, Arjuna next addressed Daruka, saying, ‘I wish to see without any delay the chief officers of the Vrishni heroes.’ Having uttered these words, the heroic Arjuna, grieving for those great car-warriors (who had been slain), entered the great hall of the Yadavas (where they used to hold their court), called Sudharma. When he had taken his seat there, all the citizens, including the Brahmanas, and all the ministers of state came and stood surrounding him. Then Partha, more grieved than they, addressed those grieving and cheerless citizens and officers who were more dead than alive, and said these words that were well suited to the occasion: ‘I shall take away with me the remnants of the Vrishnis and the Andhakas. The sea will soon engulf this city. Equip all your cars and place on them all your wealth. This Vajra (the grandson of Krishna) will be your king at Shakraprastha. On the seventh day from this, at sunrise, we shall set out. Make your preparations without delay.’   
 
@@ -101,7 +103,7 @@ Vaishampayana said: "That scorcher of foes, Vibhatsu, thus addressed by his mate
 
 
 
-# Section 8   
+## Section 8   
 
 Vaishampayana said: "As Arjuna entered the asylum of the truthful Rishi, he beheld the son of Satyavati seated in a secluded spot.   
 

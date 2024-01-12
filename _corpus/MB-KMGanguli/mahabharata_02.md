@@ -1,6 +1,6 @@
 ---
 id: 2    
-title: "Corpus: KM Ganguli Mahabharat 02"
+title: "Corpus: KM Ganguli Mahabharat 02 - Sabha Parva"
 layout: single
 toc_sticky: true
 permalink: /mb-kmganguli-mahabharat_02
@@ -19,9 +19,9 @@ sidebar:
    nav: "docs"
 ---
 
-# Section I   
+# Sabhakriya Parva  
 
-## (Sabhakriya Parva)    
+## Section I     
 
 Om! After having bowed down to Narayana, and Nara, the most exalted male being, and also to the goddess Saraswati, must the word Jaya be uttered.   
 
@@ -37,7 +37,7 @@ Vaisampayana said,--"Then, O bull of the Bharata race, urged by Maya, Vasudeva r
 
 
 
-# Section II   
+## Section II   
 
 
 
@@ -47,7 +47,7 @@ Vaisampayana continued,--"Meanwhile king Yudhishthira of unfading glory, accompa
 
 
 
-# Section III   
+## Section III   
 
 
 
@@ -55,7 +55,7 @@ Vaisampayana continued,--"Meanwhile king Yudhishthira of unfading glory, accompa
 
 
 
-# Section IV   
+## Section IV   
 
 
 
@@ -63,7 +63,7 @@ Vaisampayana continued,--"Meanwhile king Yudhishthira of unfading glory, accompa
 
 
 
-# Section V   
+## Section V   
 
 
 
@@ -85,7 +85,7 @@ Listenest thou always, O monarch, to the words, fraught with instructions in rel
 
 
 
-# Section VI   
+## Section VI   
 
 
 
@@ -101,7 +101,7 @@ Listenest thou always, O monarch, to the words, fraught with instructions in rel
 
 
 
-# Section VII   
+## Section VII   
 
 
 
@@ -109,7 +109,7 @@ Listenest thou always, O monarch, to the words, fraught with instructions in rel
 
 
 
-# Section VIII   
+## Section VIII   
 
 
 
@@ -117,7 +117,7 @@ Listenest thou always, O monarch, to the words, fraught with instructions in rel
 
 
 
-# Section IX   
+## Section IX   
 
 
 
@@ -125,7 +125,7 @@ Listenest thou always, O monarch, to the words, fraught with instructions in rel
 
 
 
-# Section X   
+## Section X   
 
 
 
@@ -133,7 +133,7 @@ Listenest thou always, O monarch, to the words, fraught with instructions in rel
 
 
 
-# Section XI   
+## Section XI   
 
 
 
@@ -141,7 +141,7 @@ Listenest thou always, O monarch, to the words, fraught with instructions in rel
 
 
 
-# Section XII   
+## Section XII   
 
 
 
@@ -153,7 +153,7 @@ Vaisampayana said,--'O Janamejaya, having said this unto the son of Pritha, Nara
 
 
 
-# Section XIII   
+## Section XIII   
 
 
 
@@ -169,7 +169,7 @@ Vaisampayana said,--"O thou of eyes like lotus-petals, thus asked by the king, t
 
 
 
-# Section XIV   
+## Section XIV   
 
 
 
@@ -179,7 +179,7 @@ Vaisampayana said,--"O thou of eyes like lotus-petals, thus asked by the king, t
 
 
 
-# Section XV   
+## Section XV   
 
 
 
@@ -191,7 +191,7 @@ Vaisampayana said,--"O thou of eyes like lotus-petals, thus asked by the king, t
 
 
 
-# Section XVI   
+## Section XVI   
 
 
 
@@ -201,7 +201,7 @@ Vaisampayana said,--"O thou of eyes like lotus-petals, thus asked by the king, t
 
 
 
-# Section XVII   
+## Section XVII   
 
 
 
@@ -217,7 +217,7 @@ Krishna continued,--"Hearing these words (of the king), the Muni controlling his
 
 
 
-# Section XVIII   
+## Section XVIII   
 
 
 
@@ -227,7 +227,7 @@ Krishna continued,--"Hearing these words (of the king), the Muni controlling his
 
 
 
-# Section XIX   
+## Section XIX   
 
 
 
@@ -237,7 +237,7 @@ Krishna continued,--"Hearing these words (of the king), the Muni controlling his
 
 
 
-# Section XX   
+## Section XX   
 
 
 
@@ -249,7 +249,7 @@ Krishna continued,--"Hearing these words (of the king), the Muni controlling his
 
 
 
-# Section XXI   
+## Section XXI   
 
 
 
@@ -261,7 +261,7 @@ Vaisampayana said,--Thus saying those brothers of abundant energy, viz., he of t
 
 
 
-# Section XXII   
+## Section XXII   
 
 
 
@@ -275,7 +275,7 @@ Vaisampayana said,--"Having spoken thus, and desiring to fight with those heroes
 
 
 
-# Section XXIII   
+## Section XXIII   
 
 
 
@@ -283,7 +283,7 @@ Vaisampayana said,--'then that foremost of all speakers, Krishna of the Yadava r
 
 
 
-# Section XXIV   
+## Section XXIV   
 
 
 
@@ -293,7 +293,7 @@ Vaisampayana said,--"thus addressed, Bhima firmly resolved upon slaying Jarasand
 
 
 
-# Section XXV   
+## Section XXV   
 
 
 
@@ -309,7 +309,7 @@ Vaisampayana continued,--"King Yudhisthira the just, hearing these words of Dhan
 
 
 
-# Section XXVI   
+## Section XXVI   
 
 
 
@@ -317,7 +317,7 @@ Vaisampayana continued,--thus addressed, Dhananjaya replied unto Bhagadatta, say
 
 
 
-# Section XXVII   
+## Section XXVII   
 
 
 
@@ -327,7 +327,7 @@ Vaisampayana said,--"that heroic and foremost of the Pandavas endued with great 
 
 
 
-# Section XXVIII   
+## Section XXVIII   
 
 
 
@@ -335,7 +335,7 @@ Vaisampayana said,--in the meantime, Bhimasena also endued with great energy, ha
 
 
 
-# Section XXIX   
+## Section XXIX   
 
 
 
@@ -343,7 +343,7 @@ Vaisampayana said,--that chastiser of all foes then vanquished king Srenimat of 
 
 
 
-# Section XXX   
+## Section XXX   
 
 
 
@@ -363,7 +363,7 @@ Vaisampayana continued.--'He that will pour clarified butter into Agni reciting 
 
 
 
-# Section XXXI   
+## Section XXXI   
 
 
 
@@ -373,7 +373,7 @@ Vaisampayana said,--"I shall now recite to you the deeds and triumphs of Nakula,
 
 
 
-# Section XXXII   
+## Section XXXII   
 
 
 
@@ -393,7 +393,7 @@ Thus commenced on earth the sacrifice of that unrivalled hero, the illustrious s
 
 
 
-# Section XXXIII   
+## Section XXXIII   
 
 
 
@@ -405,7 +405,7 @@ Thus ends the thirty-fourth section in the Rajasuyika Parva of the Sabha Parva.
 
 
 
-# Section XXXIV   
+## Section XXXIV   
 
 
 
@@ -417,7 +417,7 @@ Vaisampayana said,--"then, O king, Yudhishthira, having approached and worshippe
 
 
 
-# Section XXXV   
+## Section XXXV   
 
 
 
@@ -435,7 +435,7 @@ Vaisampayana said,--"then, O king, Yudhishthira, having approached and worshippe
 
 
 
-# Section XXXVI   
+## Section XXXVI   
 
 
 
@@ -443,7 +443,7 @@ Vaisampayana said,--"then, O king, Yudhishthira, having approached and worshippe
 
 
 
-# Section XXXVII   
+## Section XXXVII   
 
 
 
@@ -453,7 +453,7 @@ Vaisampayana said,--"then, O king, Yudhishthira, having approached and worshippe
 
 
 
-# Section XXXVIII   
+## Section XXXVIII   
 
 
 
@@ -465,7 +465,7 @@ Vaisampayana said,--"then, O king, Yudhishthira, having approached and worshippe
 
 
 
-# Section XXXIX   
+## Section XXXIX   
 
 
 
@@ -479,7 +479,7 @@ Vaisampayana said,--"then, O king, Yudhishthira, having approached and worshippe
 
 
 
-# Section XL   
+## Section XL   
 
 
 
@@ -489,7 +489,7 @@ Vaisampayana said,--"then, O king, Yudhishthira, having approached and worshippe
 
 
 
-# Section XLI   
+## Section XLI   
 
 
 
@@ -499,7 +499,7 @@ Vaisampayana said,--"then, O king, Yudhishthira, having approached and worshippe
 
 
 
-# Section XLII   
+## Section XLII   
 
 
 
@@ -509,7 +509,7 @@ Vaisampayana said,--"then, O king, Yudhishthira, having approached and worshippe
 
 
 
-# Section XLIII   
+## Section XLIII   
 
 
 
@@ -521,7 +521,7 @@ Vaisampayana said,--"then, O king, Yudhishthira, having approached and worshippe
 
 
 
-# Section XLIV   
+## Section XLIV   
 
 
 
@@ -541,7 +541,7 @@ Vaisampayana continued,--"Hearing these words of Vasudeva, all the assembled mon
 
 
 
-# Section XLV   
+## Section XLV   
 
 
 
@@ -555,7 +555,7 @@ Vaisampayana continued,--"Having said this, the illustrious and island-born Vyas
 
 
 
-# Section XLVI   
+## Section XLVI   
 
 
 
@@ -569,7 +569,7 @@ And the heart of king Duryodhana, afflicted at sight of the prosperity of the Pa
 
 
 
-# Section XLVII   
+## Section XLVII   
 
 
 
@@ -587,7 +587,7 @@ And the heart of king Duryodhana, afflicted at sight of the prosperity of the Pa
 
 
 
-# Section XLVIII   
+## Section XLVIII   
 
 
 
@@ -613,7 +613,7 @@ Dhritarashtra replied,--'O Kshatta, if the gods be merciful unto us, assuredly n
 
 
 
-# Section XLIX   
+## Section XLIX   
 
 
 
@@ -629,7 +629,7 @@ Vaisampayana said,--"O best of the Bharatas, O great king, if thou desirest to h
 
 
 
-# Section L   
+## Section L   
 
 
 
@@ -637,7 +637,7 @@ Duryodhana said,--'Listen now, O Bharata, about all the most costly articles I s
 
 
 
-# Section LI   
+## Section LI   
 
 
 
@@ -647,7 +647,7 @@ Duryodhana said,--'O sinless one, listen to me as I describe that large mass of 
 
 
 
-# Section LII   
+## Section LII   
 
 
 
@@ -655,7 +655,7 @@ Duryodhana said,--"Those king that are revered over all the world, who are devot
 
 
 
-# Section LIII   
+## Section LIII   
 
 
 
@@ -663,7 +663,7 @@ Duryodhana said,--"Those king that are revered over all the world, who are devot
 
 
 
-# Section LIV   
+## Section LIV   
 
 
 
@@ -671,7 +671,7 @@ Duryodhana said,--"Those king that are revered over all the world, who are devot
 
 
 
-# Section LV   
+## Section LV   
 
 
 
@@ -693,7 +693,7 @@ Vaisampayana continued--"Having said this, the weak-minded Dhritarashtra regarde
 
 
 
-# Section LVI   
+## Section LVI   
 
 
 
@@ -703,7 +703,7 @@ Vaisampayana said,--"King Dhritarashtra, ascertaining the inclinations of his so
 
 
 
-# Section LVII   
+## Section LVII   
 
 
 
@@ -725,7 +725,7 @@ Vaisampayana continued,--"King Yudhishthira the just having said this unto Vidur
 
 
 
-# Section LVIII   
+## Section LVIII   
 
 
 
@@ -747,7 +747,7 @@ Sakuni said,--'That high-souled player who knoweth the secrets of winning and lo
 
 
 
-# Section LIX   
+## Section LIX   
 
 
 
@@ -761,7 +761,7 @@ Vaisampayana continued,--"Then Sakuni, well-skilled at dice, took up the dice an
 
 
 
-# Section LX   
+## Section LX   
 
 
 
@@ -801,7 +801,7 @@ Vaisampayana continued,--"Hearing this, Sakuni ready at dice, adopting foul mean
 
 
 
-# Section LXI   
+## Section LXI   
 
 
 
@@ -809,7 +809,7 @@ Vaisampayana said,--"During the course of this gambling, certain to bring about 
 
 
 
-# Section LXII   
+## Section LXII   
 
 
 
@@ -817,7 +817,7 @@ Vaisampayana said,--"During the course of this gambling, certain to bring about 
 
 
 
-# Section LXIII   
+## Section LXIII   
 
 
 
@@ -827,7 +827,7 @@ Duryodhana said,--'O Kshatta, thou art always boasting of the fame of our enemie
 
 
 
-# Section LXIV   
+## Section LXIV   
 
 
 
@@ -887,7 +887,7 @@ Vaisampayana continued,--'When the intelligent king Yudhishthira the just has sp
 
 
 
-# Section LXV   
+## Section LXV   
 
 
 
@@ -897,7 +897,7 @@ Duryodhana said,--'Come, Kshatta, bring hither Draupadi the dear and loved wife 
 
 
 
-# Section LXVI   
+## Section LXVI   
 
 
 
@@ -953,7 +953,7 @@ Vaisampayana continued,--"The kings that were there hearing these words of Vidur
 
 
 
-# Section LXVIII   
+## Section LXVIII   
 
 
 
@@ -967,7 +967,7 @@ Vaisampayana said,--"Dragged with greater force than before, the afflicted and h
 
 
 
-# Section LXIX   
+## Section LXIX   
 
 
 
@@ -977,7 +977,7 @@ Vaisampayana continued,--"Unto Bhima who had spoken these words Bhishma and Dron
 
 
 
-# Section LXX   
+## Section LXX   
 
 
 
@@ -1011,7 +1011,7 @@ Draupadi said,--'O best of kings, O illustrious one, covetousness always bringet
 
 
 
-# Section LXXI   
+## Section LXXI   
 
 
 
@@ -1023,7 +1023,7 @@ Vaisampayana continued,--"Hearing these words of Karna in the midst of the Kurus
 
 
 
-# Section LXXII   
+## Section LXXII   
 
 
 
@@ -1035,7 +1035,7 @@ Vaisampayana continued,--"That foremost of the Bharatas--king Yudhishthira the j
 
 
 
-# Section LXXIII   
+## Section LXXIII   
 
 
 
@@ -1051,7 +1051,7 @@ Vaisampayana continued,--"Then Drona, Somadatta and Valhika, Gautama, Vidura, th
 
 
 
-# Section LXXIV   
+## Section LXXIV   
 
 
 
@@ -1061,7 +1061,7 @@ Vaisampayana said,--'O monarch, it was then that the virtuous Gandhari, afflicte
 
 
 
-# Section LXXV   
+## Section LXXV   
 
 
 
@@ -1083,7 +1083,7 @@ Vaisampayana continued,--"Although (a living) animal made of gold was an impossi
 
 
 
-# Section LXXVI   
+## Section LXXVI   
 
 
 
@@ -1111,7 +1111,7 @@ Vaisampayana continued,--"And those tigers among men, all endued with long arms,
 
 
 
-# Section LXXVII   
+## Section LXXVII   
 
 
 
@@ -1129,7 +1129,7 @@ Vaisampayana continued,--"Thus addressed by Vidura, Yudhishthira the son of Pand
 
 
 
-# Section LXXVIII   
+## Section LXXVIII   
 
 
 
@@ -1147,7 +1147,7 @@ Vaisampayana continued,--"The Pandavas then consoled their weeping mother and wi
 
 
 
-# Section LXXIX   
+## Section LXXIX   
 
 
 
@@ -1165,7 +1165,7 @@ Vaisampayana continued,--"Hearing these words of Drona, Dhritarashtra said,--'O 
 
 
 
-# Section LXXX   
+## Section LXXX   
 
 
 

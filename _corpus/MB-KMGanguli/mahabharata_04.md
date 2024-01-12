@@ -19,9 +19,9 @@ sidebar:
    nav: "docs"
 ---
 
-# Section I   
+# Pandava-Pravesa Parva   
 
-## (Pandava-Pravesa Parva)    
+## Section I   
 
 OM! Having bowed down to Narayana, and Nara, the most exalted of male beings, and also to the goddess Saraswati, must the word Jaya be uttered.   
 
@@ -39,7 +39,7 @@ Yudhishthira replied, "Ye sons of the Kuru race, ye bulls among men, hear what I
 
 
 
-# Section II   
+## Section II   
 
 
 
@@ -53,7 +53,7 @@ Vaisampayana continued, "Having said this, Arjuna, that best of men and foremost
 
 
 
-# Section III   
+## Section III   
 
 
 
@@ -75,7 +75,7 @@ Draupadi replied, "There is a class of persons called Sairindhris,  who enter th
 
 
 
-# Section IV   
+## Section IV   
 
 
 
@@ -91,7 +91,7 @@ Vaisampayana continued, "Thus addressed by Yudhishthira, Dhaumya, that best of B
 
 
 
-# Section V   
+## Section V   
 
 
 
@@ -107,7 +107,7 @@ Vaisampayana continued, "Having O bull of the Bharata race spoken thus to king Y
 
 
 
-# Section VI   
+## Section VI   
 
 
 
@@ -119,7 +119,7 @@ Vaisampayana continued, "Thus praised by the son of Pandu, the Goddess showed he
 
 
 
-# Section VII   
+## Section VII   
 
 
 
@@ -141,7 +141,7 @@ Vaisampayana said, "Having thus obtained an interview with Virata's king, and re
 
 
 
-# Section VIII   
+## Section VIII   
 
 
 
@@ -157,7 +157,7 @@ Vaisampayana continued, "Thus appointed in the kitchen, Bhima soon became the fa
 
 
 
-# Section IX   
+## Section IX   
 
 
 
@@ -175,7 +175,7 @@ Vaisampayana said, "Binding her black, soft, fine, long and faultless tresses wi
 
 
 
-# Section X   
+## Section X   
 
 
 
@@ -193,7 +193,7 @@ Vaisampayana said, "Binding her black, soft, fine, long and faultless tresses wi
 
 
 
-# Section XI   
+## Section XI   
 
 
 
@@ -207,7 +207,7 @@ Vaisampayana said, "Binding her black, soft, fine, long and faultless tresses wi
 
 
 
-# Section XII   
+## Section XII   
 
 
 
@@ -221,7 +221,7 @@ Vaisampayana said, "Binding her black, soft, fine, long and faultless tresses wi
 
 
 
-# Section XIII   
+## Section XIII   
 
 
 
@@ -235,7 +235,7 @@ And the king, gratified with him, rewarded him with ample presents. And beholdin
 
 
 
-# Section XIV   
+## Section XIV   
 
 
 
@@ -249,7 +249,7 @@ thy pleasure in the enjoyment of diverse objects of delight, do thou, O blessed 
 
 
 
-# Section XV   
+## Section XV   
 
 
 
@@ -263,7 +263,7 @@ thy pleasure in the enjoyment of diverse objects of delight, do thou, O blessed 
 
 
 
-# Section XVI   
+## Section XVI   
 
 
 
@@ -279,7 +279,7 @@ thy pleasure in the enjoyment of diverse objects of delight, do thou, O blessed 
 
 
 
-# Section XVII   
+## Section XVII   
 
 
 
@@ -289,7 +289,7 @@ thy pleasure in the enjoyment of diverse objects of delight, do thou, O blessed 
 
 
 
-# Section XVIII   
+## Section XVIII   
 
 
 
@@ -297,7 +297,7 @@ thy pleasure in the enjoyment of diverse objects of delight, do thou, O blessed 
 
 
 
-# Section XIX   
+## Section XIX   
 
 
 
@@ -305,7 +305,7 @@ thy pleasure in the enjoyment of diverse objects of delight, do thou, O blessed 
 
 
 
-# Section XX   
+## Section XX   
 
 
 
@@ -319,7 +319,7 @@ myself, would be afflicted with such woe? Surely, I must, in my childhood, have 
 
 
 
-# Section XXI   
+## Section XXI   
 
 
 
@@ -331,7 +331,7 @@ insulted me. Presuming upon his being a favourite of the king, Kichaka, O Bharat
 
 
 
-# Section XXII   
+## Section XXII   
 
 
 
@@ -353,7 +353,7 @@ all the limbs of whose body had been broken into fragments and whose eye-lids we
 
 
 
-# Section XXII   
+## Section XXII   
 
 
 
@@ -367,7 +367,7 @@ all the limbs of whose body had been broken into fragments and whose eye-lids we
 
 
 
-# Section XXIV   
+## Section XXIV   
 
 
 
@@ -383,7 +383,7 @@ the girls, what concern hast thou with Sairindhri's fate to say? Thou hast no gr
 
 
 
-# Section XXV   
+## Section XXV   
 
 
 
@@ -395,7 +395,7 @@ seeing Dhritarashtra's son king Duryodhana of the Kuru race seated in his court 
 
 
 
-# Section XXVI   
+## Section XXVI   
 
 
 
@@ -405,7 +405,7 @@ seeing Dhritarashtra's son king Duryodhana of the Kuru race seated in his court 
 
 
 
-# Section XXVII   
+## Section XXVII   
 
 
 
@@ -413,7 +413,7 @@ seeing Dhritarashtra's son king Duryodhana of the Kuru race seated in his court 
 
 
 
-# Section XXVIII   
+## Section XXVIII   
 
 
 
@@ -423,7 +423,7 @@ of the country where king Yudhishthira resides. The people of the place, where Y
 
 
 
-# Section XXIX   
+## Section XXIX   
 
 
 
@@ -431,7 +431,7 @@ of the country where king Yudhishthira resides. The people of the place, where Y
 
 
 
-# Section XXX   
+## Section XXX   
 
 
 
@@ -443,7 +443,7 @@ of the country where king Yudhishthira resides. The people of the place, where Y
 
 
 
-# Section XXXI   
+## Section XXXI   
 
 
 
@@ -455,7 +455,7 @@ sixty thousand horses. And, O bull among the Bharatas, that force of Virata, O k
 
 
 
-# Section XXXII   
+## Section XXXII   
 
 
 
@@ -463,7 +463,7 @@ sixty thousand horses. And, O bull among the Bharatas, that force of Virata, O k
 
 
 
-# Section XXXIII   
+## Section XXXIII   
 
 
 
@@ -481,7 +481,7 @@ to Susarman, he said, 'Thou art freed. Go thou a free man, and never act again i
 
 
 
-# Section XXXIV   
+## Section XXXIV   
 
 
 
@@ -491,7 +491,7 @@ to Susarman, he said, 'Thou art freed. Go thou a free man, and never act again i
 
 
 
-# Section XXXV   
+## Section XXXV   
 
 
 
@@ -503,7 +503,7 @@ steeds, O lord, of silvery hue, be yoked unto thy car, and let thy standard be h
 
 
 
-# Section XXXVI   
+## Section XXXVI   
 
 
 
@@ -519,7 +519,7 @@ steeds, O lord, of silvery hue, be yoked unto thy car, and let thy standard be h
 
 
 
-# Section XXXVII   
+## Section XXXVII   
 
 
 
@@ -539,7 +539,7 @@ act up to my words, I who am asking this service of thee out of affection, will 
 
 
 
-# Section XXXVIII   
+## Section XXXVIII   
 
 
 
@@ -561,7 +561,7 @@ foremost of car-warriors, and many other splendid bowmen, all skilled in battle.
 
 
 
-# Section XXXIX   
+## Section XXXIX   
 
 
 
@@ -573,7 +573,7 @@ not equal to even a full sixteenth part of myself or Duryodhana!' And Duryodhana
 
 
 
-# Section XL   
+## Section XL   
 
 
 
@@ -581,7 +581,7 @@ not equal to even a full sixteenth part of myself or Duryodhana!' And Duryodhana
 
 
 
-# Section XLI   
+## Section XLI   
 
 
 
@@ -593,7 +593,7 @@ not equal to even a full sixteenth part of myself or Duryodhana!' And Duryodhana
 
 
 
-# Section XLII   
+## Section XLII   
 
 
 
@@ -603,7 +603,7 @@ capable of drinking (the enemy's) blood, and looking like the crescent-shaped mo
 
 
 
-# Section XLIII   
+## Section XLIII   
 
 
 
@@ -611,7 +611,7 @@ capable of drinking (the enemy's) blood, and looking like the crescent-shaped mo
 
 
 
-# Section XLIV   
+## Section XLIV   
 
 
 
@@ -631,7 +631,7 @@ capable of drinking (the enemy's) blood, and looking like the crescent-shaped mo
 
 
 
-# Section XLV   
+## Section XLV   
 
 
 
@@ -651,7 +651,7 @@ capable of drinking (the enemy's) blood, and looking like the crescent-shaped mo
 
 
 
-# Section XLVI   
+## Section XLVI   
 
 
 
@@ -667,7 +667,7 @@ capable of drinking (the enemy's) blood, and looking like the crescent-shaped mo
 
 
 
-# Section XLVII   
+## Section XLVII   
 
 
 
@@ -679,7 +679,7 @@ the intentions of the Pandavas and striketh terror in our hearts. I see that his
 
 
 
-# Section XLVIII   
+## Section XLVIII   
 
 
 
@@ -687,7 +687,7 @@ the intentions of the Pandavas and striketh terror in our hearts. I see that his
 
 
 
-# Section XLIX   
+## Section XLIX   
 
 
 
@@ -695,7 +695,7 @@ the intentions of the Pandavas and striketh terror in our hearts. I see that his
 
 
 
-# Section L   
+## Section L   
 
 
 
@@ -703,7 +703,7 @@ the intentions of the Pandavas and striketh terror in our hearts. I see that his
 
 
 
-# Section LI   
+## Section LI   
 
 
 
@@ -717,7 +717,7 @@ the intentions of the Pandavas and striketh terror in our hearts. I see that his
 
 
 
-# Section LII   
+## Section LII   
 
 
 
@@ -731,7 +731,7 @@ the intentions of the Pandavas and striketh terror in our hearts. I see that his
 
 
 
-# Section LIII   
+## Section LIII   
 
 
 
@@ -747,7 +747,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LIV   
+## Section LIV   
 
 
 
@@ -755,7 +755,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LV   
+## Section LV   
 
 
 
@@ -765,7 +765,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LVI   
+## Section LVI   
 
 
 
@@ -773,7 +773,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LVII   
+## Section LVII   
 
 
 
@@ -783,7 +783,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LVIII   
+## Section LVIII   
 
 
 
@@ -793,7 +793,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LIX   
+## Section LIX   
 
 
 
@@ -801,7 +801,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LX   
+## Section LX   
 
 
 
@@ -811,7 +811,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LXI   
+## Section LXI   
 
 
 
@@ -823,7 +823,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LXII   
+## Section LXII   
 
 
 
@@ -831,7 +831,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LXIII   
+## Section LXIII   
 
 
 
@@ -843,7 +843,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LXIV   
+## Section LXIV   
 
 
 
@@ -851,7 +851,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LXV   
+## Section LXV   
 
 
 
@@ -861,7 +861,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LXVI   
+## Section LXVI   
 
 
 
@@ -879,7 +879,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LXVII   
+## Section LXVII   
 
 
 
@@ -905,7 +905,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LXVIII   
+## Section LXVIII   
 
 
 
@@ -921,7 +921,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LXIX   
+## Section LXIX   
 
 
 
@@ -937,7 +937,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LXX   
+## Section LXX   
 
 
 
@@ -947,7 +947,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LXXI   
+## Section LXXI   
 
 
 
@@ -969,7 +969,7 @@ by the southern road, taking away with him the kine. Leaving this array of car-w
 
 
 
-# Section LXXII   
+## Section LXXII   
 
 
 

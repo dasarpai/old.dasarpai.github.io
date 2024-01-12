@@ -8,7 +8,7 @@ tags: [AI-Usecases, Government]
 categories: 
 
 header:
-    teaser: /assets/images/dspost/dsp6111-KM-Ganguli-Mahabharat-Corpus.jpg
+    teaser: /assets/images/dspost/dsp6111-KM-Ganguli-Mahabharata-Corpus.jpg
 author: Hari Thapliyaal 
 excerpt:
 layout: single  
@@ -18,7 +18,7 @@ toc: False
 toc_sticky: False
 ---
    
-![AI Usecases in Government](/assets/images/dspost/dsp6111-KM-Ganguli-Mahabharat-Corpus.jpg)   
+![KM Ganguli Mahabharat Corpus](/assets/images/dspost/dsp6111-KM-Ganguli-Mahabharata-Corpus.jpg)   
     
 # KM Ganguli Mahabharat Corpus
    
