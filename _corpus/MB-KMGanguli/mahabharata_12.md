@@ -1,9 +1,27 @@
-THE MAHABHARATA   
+---
+id: 12    
+title: "Corpus: KM Ganguli Mahabharat 12"
+layout: single
+toc_sticky: true
+permalink: /mb-kmganguli-mahabharat_12
+date: 2024-01-12
+tags: [Corpus]
+header:
+  teaser: /assets/images/banners/corpus-banner.jpg
+  # overlay_image: /assets/images/projects/Sarcasm-Detection-System-for-Hinglish-Language.jpg
+  # overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
+author_profile: false
+last_modified_at: 2024-01-12T15:46:43-04:00
+toc: false
+mathjax: "true"
+sidebar:
+   nav: "docs"
+---  
     
 
 # Section I   
 
-## SANTI PARVA
+# SANTI PARVA
    
 
  (Rajadharmanusasana Parva)   

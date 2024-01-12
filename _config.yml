@@ -221,6 +221,7 @@ include:
   - _dsblog
   - _gallery
   - _projects
+  - _corpus
   - assets
   - sitemap.xml
 exclude:
@@ -377,7 +378,22 @@ defaults:
       show_date: true
       sidebar:
         nav: "docs"  
-        
+
+  # _corpus
+  - scope:
+      path: "_corpus"
+      type: corpus
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true # true
+      share: true
+      related: true
+      show_date: true
+      sidebar:
+        nav: "docs" 
+
   # _quotations
   - scope:
       path: "_quotations"
@@ -582,7 +598,11 @@ collections:
   gk:
     output: true
     permalink: /:categories/:title/
-    
+
+  corpus:
+    output: true
+    permalink: /:categories/:title/
+
   dslexicon:
     output: true
     permalink: /:categories/:title/

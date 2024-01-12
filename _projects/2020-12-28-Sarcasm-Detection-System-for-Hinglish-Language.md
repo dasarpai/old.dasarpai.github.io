@@ -34,19 +34,19 @@ Hinglish is third most spoken language on the planet. Wikipage, states that 65% 
  - **Eval Metrics:** Accuracy, Recall, Precision, F1 Score
 
 ## Evolution of Hinglish
-![Evolution_Of_Hinglish](/assets/images/projects/sdhl/Images/Ch1.1-Evolution_Of_Hinglish.png)
+![Evolution_Of_Hinglish](/assets/images/projects/sdshl/Images/Ch1.1-Evolution_Of_Hinglish.png)
 
 ### Overall Approach
-![Overall_Approach](/assets/images/projects/sdhl/Images/Ch3.2-Overall_Approach.png)
+![Overall_Approach](/assets/images/projects/sdshl/Images/Ch3.2-Overall_Approach.png)
 
 ### Dataset Creation Steps
-![Dataset_Creation_Steps](/assets/images/projects/sdhl/Images/Ch3.1-Dataset_Creation_Steps.png)
+![Dataset_Creation_Steps](/assets/images/projects/sdshl/Images/Ch3.1-Dataset_Creation_Steps.png)
 
 ### Text Cleaning Steps
-![TextCleaning_Steps](/assets/images/projects/sdhl/Images/TextCleaning_Steps.png)
+![TextCleaning_Steps](/assets/images/projects/sdshl/Images/TextCleaning_Steps.png)
 
 ### Classifier and Embeddings
-![ClassiferEmbeddingFE](/assets/images/projects/sdhl/Images/Ch3.2-ClassiferEmbeddingFE.png)
+![ClassiferEmbeddingFE](/assets/images/projects/sdshl/Images/Ch3.2-ClassiferEmbeddingFE.png)
 
 
 ## Contribution of Work
