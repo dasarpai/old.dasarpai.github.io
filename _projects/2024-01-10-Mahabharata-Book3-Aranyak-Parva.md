@@ -18,7 +18,7 @@ sidebar:
    nav: "docs"
 ---
 
-![Book: Adi Parva Explorations : Mahabharata Book 1](/assets/images/projects/Mahabharata-Book3-bookCover.jpg) 
+![Book: Aranyak Parva Explorations : Mahabharata Book 1](/assets/images/projects/Mahabharata-Book3-bookCover.jpg) 
 
 # Series: Mahabharata Unveiled : Q&A Edition
 # Book Title: Aranyaka Parva Explorations - Mahabharat Book 3

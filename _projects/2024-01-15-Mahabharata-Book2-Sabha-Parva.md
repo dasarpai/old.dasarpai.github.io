@@ -18,15 +18,15 @@ sidebar:
    nav: "docs"
 ---
 
-![Book: Adi Parva Explorations : Mahabharata Book 1](/assets/images/projects/Mahabharata-Book2-bookCover.jpg) 
+![Book: Sabha Parva Explorations : Mahabharata Book 1](/assets/images/projects/Mahabharata-Book2-bookCover.jpg) 
 
 # Series: Mahabharata Unveiled : Q&A Edition
 # Book Title: Sabha Parva Explorations - Mahabharat Book 2
 ## Dive into Lengthy Topics with Short Questions and Answers
 
-[Kindle Read India](https://www.amazon.in/dp/B0CRZB5D5W),
-[Kindle Read US](https://www.amazon.com/dp/B0CRZB5D5W), 
-[Kindle Read UK](https://www.amazon.co.uk/dp/B0CRZB5D5W)   
+[Kindle Read India](https://www.amazon.in/dp/B0CSCSJ2ZG),
+[Kindle Read US](https://www.amazon.com/dp/B0CSCSJ2ZG), 
+[Kindle Read UK](https://www.amazon.co.uk/dp/B0CSCSJ2ZG)   
 
 ## Book Preface   
 English is undeniably an international language, and the fact that you're reading this book signifies our shared ability to communicate through this common language of writing and reading. Yet, every language possesses distinct strengths and inherent weaknesses. Over time, certain languages have gained prominence due to business demands and governmental preferences. In the English language, we use two distinct words: 'History' and 'Mythology.'
