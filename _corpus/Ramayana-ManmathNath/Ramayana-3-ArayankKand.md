@@ -435,8 +435,7 @@ company with his followers. And the grand-father also, beholding that
 Brāhmana, rejoiced greatly, and said,— "Hail!"
 
 
-
-SECTI0N VI.
+## SECTI0N VI.
 
 
 After Sarabhanga had ascended heaven, ascetics in bodies, assembled

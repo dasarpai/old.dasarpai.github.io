@@ -4345,7 +4345,7 @@ ordered the celestial messenger saying—"At my behest, O emissary, do
 thou proceed to the highly picturesque city of Kishkindhā. That golden,
 big and charming city is worthy of Riksharajā. There live many thousand
 monkeys besides others assuming shapes at will. It abounds in various
-jewels, invincible, is inhabited by four _Varnas_, holy and sacred. At
+jewels, invincible, is inhabitbeforeXLXed by four _Varnas_, holy and sacred. At
 my command Visvvakarmā has constructed the celestial and picturesque
 city of Kishkindhā. Do thou place there Riksharāja, the foremost of
 monkeys, with his sons; and having invited the leading monkeys and
@@ -4786,7 +4786,7 @@ of Ayodhyā working to the welfare of Rāma.
 
 
 
-## SECTION XLX.
+## SECTION L.
 
 
 In this wise, the monkeys, bears and Rākshasas spent their days in
@@ -6141,9 +6141,7 @@ Brāhmanas. And thou, without doubt, wilt succeed in effecting the work;
 and it behoveth thee to deliver the sages from a mighty fright."
 
 
-
-
-## SECTION LXXXV.
+## SECTION LXXIV.
 
 
 When the sages had spoken thus, Kakutstha said: "O ascetics, tell me
@@ -6198,7 +6196,7 @@ do the needful."
 
 
 
-## SECTION LXXVI.
+## SECTION LXXV.
 
 
 Thus accosted (by the sages), Rāma answered them with joined hands:
@@ -6245,7 +6243,7 @@ Vasishtha."
 
 
 
-## SECTION LXXVII.
+## SECTION LXXVI.
 
 
 Thus accosted by Rāma, the exceedingly energetic Satrughna was
@@ -6316,7 +6314,7 @@ the prowess of the graceful Nilkantha."
 
 
 
-## SECTION LIXVIII.
+## SECTION LXXVII.
 
 
 Having thus addressed Satrughna, Rāma again and again praised him and
@@ -6953,7 +6951,7 @@ what he was performing ascetic observances.
 
 
 
-## SECTION LXXXV.
+## SECTION LXXXIX.
 
 
 Hearing the words of Rāma of unwearied actions, the ascetic, with his
@@ -7093,7 +7091,7 @@ hearing them, the celestial being related everything unto me."
 
 
 
-## SECTION CXI.
+## SECTION XCI.
 
 
 "O Rāma, hearing my words pregnant with sound reasoning, that heavenly
@@ -7151,7 +7149,7 @@ resembling Indra, conferred upon me this wondrous, celestial ornament."
 
 
 
-## SECTION CXII.
+## SECTION XCII.
 
 
 Hearing the wondrous words of the great saint Kumbhayoni, Rāma, out of
@@ -7322,7 +7320,7 @@ Lakshmana and Bharata bring them here."
 
 
 
-## SECTION CXVI.
+## SECTION XCVI.
 
 
 According to the command of Rāma of unwearied actions, the warders went
@@ -7363,7 +7361,7 @@ even from a boy."
 
 
 
-## SECTION CXVII.
+## SECTION XCVII.
 
 
 After the conversation between Rāma and Bharata had been over,
@@ -8198,7 +8196,7 @@ month in the way, arrived at the Kekaya kingdom in good health.
 
 
 
-## SECTION ICXIV.
+## SECTION CXIV.
 
 
 Hearing of the arrival of the Bharata with the army Gargya and Yudhajit,

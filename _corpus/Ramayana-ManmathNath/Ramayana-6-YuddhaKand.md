@@ -2223,7 +2223,7 @@ unto Daçaratha’s son".
 
 
 
-## SECTION XXXI.
+## SECTION XXVI.
 
 
 Hearing Sārana’s words, pregnant and truthful, king Rāvana addressed
@@ -7648,7 +7648,7 @@ lotuses, paid homage unto Lakshmana working out their welfare.
 
 
 
-## SECTION LXIXII.
+## SECTION LXXII.
 
 
 Hearing Atikāya slain by the high-souled Lakshmana, the king was filled
@@ -9296,7 +9296,7 @@ difficult to get at, and resembling a hill,—stationed on his car.
 
 
 
-## SECTION LXXXVI
+## SECTION LXXXVII.
 
 
 Having spoken thus unto Sumitrā’s son, Bibhishana experienced delight,
@@ -9547,7 +9547,7 @@ came forward in the encounter and took up his post.
 
 
 
-## SECTION LXL.
+## SECTION XC.
 
 
 Seeing the man and the Rākshasa engaged in battle, with their whole
@@ -9678,7 +9678,7 @@ showering excellent sharpened shafts.
 
 
 
-## SECTION LXLI.
+## SECTION XCI.
 
 
 Having his steeds slain, the night-ranger—Indrajit, standing on the
@@ -9897,7 +9897,7 @@ celestials attained the summit of joy.
 
 
 
-## SECTION LXLII.
+## SECTION XCII.
 
 
 Having in the conflict slain that conquerer of enemies, Lakshmana graced
@@ -9966,7 +9966,7 @@ fight, was filled with joy.
 
 
 
-## SECTION LXLIII.
+## SECTION XCIII.
 
 
 When the counsellors of Pulastya’s son, hearing of Indrajit having been
@@ -10132,7 +10132,7 @@ entered the court.
 
 
 
-## SECTION LXLIV.
+## SECTION XCIV.
 
 
 Entering his court, the king, distressed, and exceedingly aggrieved, sat
@@ -10211,7 +10211,7 @@ delighted, sang his praises.
 
 
 
-## SECTION LXLV.
+## SECTION XCV.
 
 
 By Rāma, of unwearied actions, with flaming arrows feathered in burning
@@ -10302,7 +10302,7 @@ being stricken with fear and grief.
 
 
 
-## SECTION LXLVI.
+## SECTION XCVI.
 
 
 Whereupon Rāvana heard in every house of Lankā the piteous cries of the
@@ -10405,7 +10405,7 @@ vehemence of his arrows.
 
 
 
-## SECTION LXLVII.
+## SECTION XCVII.
 
 
 There the earth was covered with monkeys whose bodies were rent with the
@@ -10477,7 +10477,7 @@ engaged in fight and looked like the rising Ganges.
 
 
 
-## SECTION LXLVIII.
+## SECTION XCVIII.
 
 
 Like unto a pond in the summer both the armies became gradually reduced.
@@ -10553,7 +10553,7 @@ earth, having their eyes flushed with joy.
 
 
 
-## SECTION LXLIX.
+## SECTION XCIX.
 
 
 Mahodara being thus slain by Sugriva, the highly powerful Mahāparshwa,

@@ -7752,7 +7752,7 @@ thither, accompanied by _Ritwijas_ and _Sadasyas_.
 
 
 
-## SECTION LXXXX.
+## SECTION XC.
 
 
 Having arrived at (the neighbourhood of) Bharadwāja, asylum, that
@@ -7810,7 +7810,7 @@ saint).
 
 
 
-## SECTION LXXXXI.
+## SECTION XCI.
 
 
 Then the ascetic asked Bharata, the son of Kaikeyi, when he had decided
@@ -7973,7 +7973,7 @@ behold, lay by themselves all around, crushed by the people.
 
 
 
-## SECTION LXXXXII.
+## SECTION XCII.
 
 
 Having passed that night, Bharata having been entertained along with his
@@ -8055,7 +8055,7 @@ and birds, dived into that mighty forest.
 
 
 
-## SECTION LXXXXIII.
+## SECTION XCIII.
 
 
 Afflicted by the mighty force on its way with banners (displayed), those
@@ -8113,7 +8113,7 @@ had arrived (at that place).
 
 
 
-## SECTION LXXXXIV.
+## SECTION XCIV.
 
 
 Having spent a long time in that mountain, that lover of hills and
@@ -8177,7 +8177,7 @@ resulting from observing the duties of one’s race."
 
 
 
-## SECTION LXXXXV.
+## SECTION XCV.
 
 
 Then going out of the mountain, the Lord of Koçala showed unto Mithilā’s
@@ -8227,7 +8227,7 @@ Chitrakata, resembling the collyrium in hue.
 
 
 
-## SECTION LXXXXVI.
+## SECTION XCVI.
 
 
 Having showed unto Mithilā’s daughter the river belonging to the
@@ -8294,7 +8294,7 @@ together with all his forces."
 
 
 
-## SECTION LXXXXVII.
+## SECTION XCVII.
 
 
 Pacifying Sumitrā’s son, Lakshmana, transported with rage and eager for
@@ -8362,7 +8362,7 @@ forces schooled by Bharata in view of pleasing that descendant of Raghu
 
 
 
-## SECTION LXXXXVIII.
+## SECTION XCVIII.
 
 
 Having stationed his troops, that best of men, the master, became
@@ -8404,7 +8404,7 @@ forces, speedily went (in that direction), accompanied by Guha.
 
 
 
-## SECTION LXXXXIX.
+## SECTION XCIX.
 
 
 Having quartered his forces, Bharata eager (to go to Rāma’s place), went
