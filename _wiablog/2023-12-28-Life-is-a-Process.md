@@ -14,6 +14,7 @@ layout: single
 excerpt:        
 author_profile: true        
 share: true        
+Keywords: Purpose of Life, Joyfullness, Happiness
 ---        
         
 ![Life is a Process](/assets/images/wiapost/5244-life-process.jpg)        

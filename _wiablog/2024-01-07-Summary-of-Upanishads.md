@@ -15,7 +15,8 @@ excerpt:
 author_profile: true            
 share: true   
 toc: True  
-toc_sticky: true         
+toc_sticky: true    
+keywords: Vedanta, Upanishad, Purana, Shiva Purana, Vaishnav Purana, Shakta Purana     
 ---            
             
 ![Introduction to Upanishads](/assets/images/wiapost/5247-Introduction-to-Upanishads.jpg)            

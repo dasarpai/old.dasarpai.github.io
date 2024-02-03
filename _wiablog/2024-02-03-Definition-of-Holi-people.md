@@ -15,7 +15,8 @@ excerpt:
 author_profile: true            
 share: true   
 toc: True  
-toc_sticky: true         
+toc_sticky: true   
+keywords: Who is Muni, Who is Rishi, What are Sapta Rishi, Who is Maharshi, Who is Sadguru, Who is Sadhu      
 ---            
             
 ![Definition of Holi people](/assets/images/wiapost/5248-Definition-of-Holi-people-institutions.jpg)            
