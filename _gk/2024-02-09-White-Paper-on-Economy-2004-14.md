@@ -2,7 +2,7 @@
 id: 7008       
 mathjax: true        
 title: White-Paper-on-Indian-Economy    
-date: "2023-12-21T08:33:00+05:30"        
+date: "2024-12-21T08:33:00+05:30"        
 permalink: /gk/White-Paper-on-Indian-Economy        
 tags: [Education, Indian-Economy]        
         
