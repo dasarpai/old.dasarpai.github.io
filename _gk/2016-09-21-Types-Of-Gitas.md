@@ -67,7 +67,7 @@ Gita or Geeta means song. In the wisdom traditions, these are the songs of knowl
     
 ## Rama / Ramayana Based Geeta    
     
-32. Rama Gita-I – Conversation between Sri Rama (Rugu) and his brother Sri Lakshmana. It expounds the Advaita-Vedanta with its different principles of Jiva, Avidya, Isvara, Maya, etc. and the process of the realization of the Brahman. It is part of Adhyatma Ramayana.    
+32. Rama Gita-I – Conversation between Sri Rama (Guru) and his brother Sri Lakshmana. It expounds the Advaita-Vedanta with its different principles of Jiva, Avidya, Isvara, Maya, etc. and the process of the realization of the Brahman. It is part of Adhyatma Ramayana.    
 33. Rama Gita-II – Conversation between Sri Rama (Guru) and Lord Hanuman. It is a scripture of the Anubhava-Dvaitins and stresses upon acquirement of knowledge, and not retirement from the world. It is part of Tattva Sarayana.    
 34. Surya Gita – Conversation between Dakshinamurty (Guru) and Brahma. The Guru tells the story of Surya’s discourse to Aruna, his charioteer. It is part of Guru Gyan Vasishta of Tattva Sarayana.    
 35. Vibhishana Gita – A conversation between Rama and Vibhishana described in Ramayana. It is part of Yuddha Kanda of Ramayana.    
