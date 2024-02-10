@@ -125,6 +125,7 @@ These terms are crucial in understanding the economic challenges, reforms, and p
 ## **Question:** Can you share a table of all these corruptions along with their value, ministry and year?
 
 **Answer:** 
+
 | Corruption Scandal | Value (in crores) | Ministry/Department Involved  | Year      |
 |-------------------------------|-------------------|-----------------------------------------------|-----------|
 | 2G Spectrum Scam              | 1.76 lakh Cr      | Ministry of Communications and Information Technology | 2008      |

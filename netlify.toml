@@ -1,0 +1,5 @@
+[build]
+  command = "bundle install && bundle exec jekyll build"
+  publish = "_site"
+  functions = "functions"
+  environment = { RUBY_VERSION = "3.1.2p20" }  # Replace with your Ruby version
