@@ -1,9 +1,6 @@
 source "https://rubygems.org"
 gemspec
 
-gem "jekyll", "~> 3.9.4"
-gem "jekyll-relative-links", "~> 0.7.0"
-
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem "webrick", "~> 1.7"
