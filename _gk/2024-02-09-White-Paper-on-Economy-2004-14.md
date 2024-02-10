@@ -2,7 +2,7 @@
 id: 7008       
 mathjax: true        
 title: White-Paper-on-Indian-Economy    
-date: "2024-12-21T08:33:00+05:30"        
+date: "2024-02-09T08:33:00+05:30"        
 permalink: /gk/White-Paper-on-Indian-Economy        
 tags: [Education, Indian-Economy]        
         
@@ -18,13 +18,14 @@ toc: true
 toc_sticky: true    
 ---        
 
-![White-Paper-on-Indian-Economy](/assets/images/gk/7008-White-Paper-on-Indian-Economy.jpg)  
-
-# White Paper on Indian Economy 10 Questions and Answers 
+![White-Paper-on-Indian-Economy](/assets/images/gk/7008-White-Paper-on-Indian-Economy.jpg)   
+   
+# White Paper on Indian Economy 10 Questions and Answers   
 
 [**Download White-paper-on-Indian-Economy-2024**](/assets/docs/gk/White-paper-on-Indian-Economy-2024.pdf)
-
-## Introduction 
+   
+## Introduction   
+   
 Government of India presented a white paper on Indian Economy on 9-Feb-24. It is 59 page long technical paper. If you want to know the gist of this in the form of key questions and answers then this article is for you. This article has 10 questions and answers which this paper has in detail. If you want to read the full paper you can use above link.
 
 
@@ -111,7 +112,7 @@ These terms are crucial in understanding the economic challenges, reforms, and p
 
 1. **2G Telecom Scandal**: This scandal involved a loss of about ₹1.76 lakh crore of potential revenue to the government due to corruption in the allocation of 2G spectrum.
 1. **Adarsh Housing Society Scam**: Irregularities in the allocation of apartments in a high-rise building in Mumbai meant for war widows and veterans. The apartments were allegedly allocated to politicians, bureaucrats, and military personnel at below-market rates.
-1. **AgustaWestland Scam**: llegations of corruption in the procurement of helicopters for the Indian Air Force from the Italian company AgustaWestland.
+1. **AgustaWestland Scam**: Legations of corruption in the procurement of helicopters for the Indian Air Force from the Italian company AgustaWestland.
 1. **Chopper Scam**: Allegations of kickbacks in the purchase of helicopters for VVIPs from a foreign defense company.
 1. **Coal Block Allocation Scandal**: Irregularities and corruption in the allocation of coal blocks to private companies for captive use resulted in an estimated loss of approximately ₹1.86 lakh crore to the exchequer.
 1. **Coalgate Scam**: A scandal related to the allocation of coal blocks to private companies without following proper procedures, resulting in significant financial losses to the government. The Supreme Court of India canceled the allocations and ordered a thorough investigation.
@@ -120,6 +121,24 @@ These terms are crucial in understanding the economic challenges, reforms, and p
 1. **PNB-Nirav Modi Scam**: A multi-billion dollar fraud involving jeweler Nirav Modi and his uncle Mehul Choksi in defrauding the Punjab National Bank through fraudulent issuance of Letters of Undertaking.
 1. **Saradha Chit Fund Scam**: A Ponzi scheme operated by the Saradha Group that defrauded thousands of investors, particularly in West Bengal, by promising high returns on their investments. The scam led to financial distress for many depositors.
 1. **Vyapam Scam**: A massive admission and recruitment scam involving politicians, officials, and businessmen in Madhya Pradesh related to entrance examinations and recruitment tests conducted by the Madhya Pradesh Professional Examination Board.
+
+## **Question:** Can you share a table of all these corruptions along with their value, ministry and year?
+
+**Answer:** 
+| Corruption Scandal | Value (in crores) | Ministry/Department Involved  | Year      |
+|-------------------------------|-------------------|-----------------------------------------------|-----------|
+| 2G Spectrum Scam              | 1.76 lakh Cr      | Ministry of Communications and Information Technology | 2008      |
+| Coalgate Scam                 | 1.86 lakh Cr      | Ministry of Coal                              | 2012      |
+| Commonwealth Games Scam       | Not specified     | Ministry of Youth Affairs and Sports          | 2010      |
+| Saradha Chit Fund Scam        | Not specified     | Not specified                                 | 2013      |
+| Vyapam Scam                   | Not specified     | Madhya Pradesh Professional Examination Board | Not specified |
+| Adarsh Housing Society Scam   | Not specified     | Not specified                                 | Not specified |
+| AgustaWestland Scam           | Not specified     | Ministry of Defence                           | Not specified |
+| PNB-Nirav Modi Scam           | 13,000 Cr         | Punjab National Bank                          | 2011      |
+| Chopper Scam                  | Not specified     | Ministry of Defence                           | Not specified |
+| INX Media Case                | Not specified     | Not specified                                 | Not specified |
+| Vyapam Scam                   | Not specified     | Madhya Pradesh Professional Examination Board | Not specified |
+| Adarsh Housing Society Scam   | Not specified     | Not specified                                 | Not specified |
 
 ## **Question:** Why this paper was brought?
 
@@ -147,142 +166,55 @@ Overall, the "White Paper on the Indian Economy" served as a tool to communicate
    - 2013-14: 2.45%
    - 2022-23: 2.72%
 
-2. **Return on Assets (RoA)**:
+1. **Return on Assets (RoA)**:
    - 2013-14: 0.50%
    - 2022-23: 0.79%
 
-3. **Return on Equity (RoE)**:
+1. **Return on Equity (RoE)**:
    - 2013-14: 8.48%
    - 2022-23: 12.35%
 
-4. **Capital Expenditure**:
-   - Share of capital expenditure in total spending by the Central Government improved to 28% in FY24 from 16% in FY14
-
-5. **National Highway Construction**:
-   - Pace of national highway construction increased from 12 km/day in FY15 to 28 km/day in FY23
-
-6. **Length of National Highways**:
-   - Increased from 0.98 lakh km in FY15 to 1.45 lakh km in FY23
-
-7. **Cargo Traffic at Major Ports**:
-   - Rose from 581 million tonnes to 784 million tonnes
-
-8. **Electrified Rail Route**:
-   - Increased from 22,224 km in FY15 to 50,394 km in FY22
-
-9. **Number of Airports**:
-   - Doubled from FY15 to FY23
-
-1. **Inflation**:
-   - Inflation rate decreased from 8.2% (CAGR between FY04-FY14) to 5.0% (CAGR between FY14-FY23)
-
-2. **GDP Per Capita (PPP)**:
-   - Increased from $3,889 (average per capita GDP between FY05-FY14) to $6,016 (average per capita GDP between FY15-FY23)
-
-3. **Electronics Exports**:
-   - Increased from $7.6 billion in FY14 to $22.7 billion in FY23
-
-4. **Foreign Direct Investment (FDI)**:
-   - Sum of Gross FDI increased from $305 billion (FY05-FY14) to $596.5 billion (FY15-Nov 2023)
-
-5. **Multidimensional Poverty**:
-   - Percentage of population in multidimensional poverty decreased from 29.2% (end of 2013-14) to 11.3% (end of 2023)
-
-6. **Indirect Tax Rate**:
-   - Average pre-GST indirect tax rate decreased from 15% to 12.2% (as of March 2023)
-
-7. **Number of Start-ups**:
-   - Increased from 350 companies in 2014 to 1,17,257 companies as of December 2023
-
-8. **Harvard Economic Complexity Index**:
-   - Improved ranking from 52 in 2011 to 42 in 2021, indicating a more sophisticated Indian economy
-
-1. **Capital Expenditure**:
-   - Increased from 1.7% of GDP in FY14 to 3.2% of GDP in FY24 (RE)
-
-2. **Foreign Direct Investment (FDI)**:
-   - Gross FDI inflows almost doubled from USD 305.3 billion mobilized between FY05 and FY14 to USD 596.5 billion in nine years between FY15 and FY23
-
-3. **Rupee Depreciation**:
-   - Managed the current account prudently and ensured its smooth funding via stable FDI, with a significant increase in FDI inflows
-
-4. **Macroeconomic Fundamentals**:
+1. **Macroeconomic Fundamentals**:
    - Current account balance as a percentage of GDP improved from -4.8 in Taper 1 (2012-13) to -1.2 in Taper 2 (2021-22)
    - YoY Real GDP growth increased from 5.5% in Taper 1 to 9.1% in Taper 2
    - Foreign exchange reserves as a percentage of GDP increased from 16.0% to 20.1%
    - Headline YoY inflation decreased from 9.9% to 5.5%
    - Exchange rate depreciation (INR/USD) (YoY) decreased from 6.3% to 3.1%
-
-1. **Number of LPG Connections**:
-   - Increased from 14.5 crore (as of April 2014) to 31.4 crore (as of August 2023)
-
-2. **Number of PNG Connections**:
-   - Increased from 22.3 lakh (as of April 2014) to 119 lakh (as of October 2023)
-
-3. **Electrification Status**:
-   - Improved to 100% electrification as of 2023, up from 85.1% in 2014
-
-4. **Average Availability of Electricity (Rural)**:
-   - Increased from 12 hours in 2014 to 20.6 hours in 2023
-
-5. **Number of Tap Water Connections (Rural)**:
-   - Rose from 3.2 crore (as of August 2019) to 13.8 crore (as of December 2023)
-
-6. **Total Number of DBT Beneficiaries**:
-   - Increased from 10.8 crore (as of FY14) to 166 crore (as of FY23)
-
-7. **Funds Transferred to Underprivileged Households**:
-   - Rose from Rs. 7,367 crore in FY14 to Rs. 7,16,396 crore in FY23
-
-8. **Waste Processed by Urban Local Bodies**:
-   - Increased from 18% of total waste generated in 2014 to 76% as of February 6, 2024
-
-1. **Cities with Metro Rail**:
-   - Increased from 5 cities at the end of 2014 to 20 cities by the end of 2023
-
-2. **National Highway Constructed Length**:
-   - Expanded from 25.7 thousand km to 54.9 thousand km
-
-3. **Pace of Highway Construction**:
-   - Accelerated from 12 km/day in 2013-14 to 28.3 km/day in 2022-23
-
-4. **Consequential Rail Accidents**:
-   - Reduced from an average of 233 accidents between FY05 and FY14 to 34 accidents between FY15 and FY23
-
-5. **Electrified Rail Network**:
-   - Expanded from 21.8 thousand km to 60.8 thousand km
-
-6. **Number of Airports**:
-   - Doubled from 74 airports as of the end of 2014 to 149 airports as of February 2024
-
-7. **Average Toll Plaza Waiting Time**:
-   - Decreased from 12.2 minutes in 2014 to 47 seconds in 2023
-
-8. **Total Installed Power Capacity**:
-   - Increased from 249 GW as of March 2014 to 429 GW as of December 2023
-
-9. **Installed Renewable Energy Capacity**:
-   - Expanded from 76 GW as of March 2014 to 181 GW as of December 2023
+   
+1. **Average Availability of Electricity (Rural)**: Increased from 12 hours in 2014 to 20.6 hours in 2023
+1. **Average Toll Plaza Waiting Time**: Decreased from 12.2 minutes in 2014 to 47 seconds in 2023
+1. **Capital Expenditure**: 
+   - Increased from 1.7% of GDP in FY14 to 3.2% of GDP in FY24 (RE)
+   - Share of capital expenditure in total spending by the Central Government improved to 28% in FY24 from 16% in FY14
+1. **Cargo Traffic at Major Ports**: Rose from 581 million tonnes to 784 million tonnes
+1. **Cities with Metro Rail**: Increased from 5 cities at the end of 2014 to 20 cities by the end of 2023
+1. **Consequential Rail Accidents**: Reduced from an average of 233 accidents between FY05 and FY14 to 34 accidents between FY15 and FY23
+1. **Electrification Status**: Improved to 100% electrification as of 2023, up from 85.1% in 2014
+1. **Electrified Rail Network**: Expanded from 21.8 thousand km to 60.8 thousand km
+1. **Electrified Rail Route**: Increased from 22,224 km in FY15 to 50,394 km in FY22
+1. **Electronics Exports**: Increased from $7.6 billion in FY14 to $22.7 billion in FY23
+1. **Foreign Direct Investment (FDI)**: Sum of Gross FDI increased from $305 billion (FY05-FY14) to $596.5 billion (FY15-Nov 2023)
+1. **Funds Transferred to Underprivileged Households**: Rose from Rs. 7,367 crore in FY14 to Rs. 7,16,396 crore in FY23
+1. **GDP Per Capita (PPP)**: Increased from $3,889 (average per capita GDP between FY05-FY14) to $6,016 (average per capita GDP between FY15-FY23)
+1. **Harvard Economic Complexity Index**: Improved ranking from 52 in 2011 to 42 in 2021, indicating a more sophisticated Indian economy
+1. **Indirect Tax Rate**: Average pre-GST indirect tax rate decreased from 15% to 12.2% (as of March 2023)
+1. **Inflation**: Inflation rate decreased from 8.2% (CAGR between FY04-FY14) to 5.0% (CAGR between FY14-FY23)
+1. **Installed Renewable Energy Capacity**: Expanded from 76 GW as of March 2014 to 181 GW as of December 2023
+1. **Length of National Highways**: Increased from 0.98 lakh km in FY15 to 1.45 lakh km in FY23
+1. **Multidimensional Poverty**: Percentage of population in multidimensional poverty decreased from 29.2% (end of 2013-14) to 11.3% (end of 2023)
+1. **National Highway Constructed Length**: Expanded from 25.7 thousand km to 54.9 thousand km
+1. **National Highway Construction**: Pace of national highway construction increased from 12 km/day in FY15 to 28 km/day in FY23
+1. **Number of Airports**: Doubled from 74 airports as of the end of 2014 to 149 airports as of February 2024
+1. **Number of LPG Connections**: Increased from 14.5 crore (as of April 2014) to 31.4 crore (as of August 2023)
+1. **Number of PNG Connections**: Increased from 22.3 lakh (as of April 2014) to 119 lakh (as of October 2023)
+1. **Number of Start-ups**: Increased from 350 companies in 2014 to 1,17,257 companies as of December 2023
+1. **Number of Tap Water Connections (Rural)**: Rose from 3.2 crore (as of August 2019) to 13.8 crore (as of December 2023)
+1. **Rupee Depreciation**: Managed the current account prudently and ensured its smooth funding via stable FDI, with a significant increase in FDI inflows
+1. **Total Installed Power Capacity**: Increased from 249 GW as of March 2014 to 429 GW as of December 2023
+1. **Total Number of DBT Beneficiaries**: Increased from 10.8 crore (as of FY14) to 166 crore (as of FY23)
+1. **Waste Processed by Urban Local Bodies**: Increased from 18% of total waste generated in 2014 to 76% as of February 6, 2024
 
 These statistics reflect the government's efforts in expanding infrastructure, improving transportation networks, enhancing rail safety, increasing airport connectivity, reducing waiting times, and boosting power generation capacity, including renewable energy sources.
-
-## **Question:** Can you create a table of all these corruptions along with their value, ministry and year?
-
-**Answer:** 
-| Corruption Scandal | Value (in crores) | Ministry/Department Involved  | Year      |
-|-------------------------------|-------------------|-----------------------------------------------|-----------|
-| 2G Spectrum Scam              | 1.76 lakh Cr      | Ministry of Communications and Information Technology | 2008      |
-| Coalgate Scam                 | 1.86 lakh Cr      | Ministry of Coal                              | 2012      |
-| Commonwealth Games Scam       | Not specified     | Ministry of Youth Affairs and Sports          | 2010      |
-| Saradha Chit Fund Scam        | Not specified     | Not specified                                 | 2013      |
-| Vyapam Scam                   | Not specified     | Madhya Pradesh Professional Examination Board | Not specified |
-| Adarsh Housing Society Scam   | Not specified     | Not specified                                 | Not specified |
-| AgustaWestland Scam           | Not specified     | Ministry of Defence                           | Not specified |
-| PNB-Nirav Modi Scam           | 13,000 Cr         | Punjab National Bank                          | 2011      |
-| Chopper Scam                  | Not specified     | Ministry of Defence                           | Not specified |
-| INX Media Case                | Not specified     | Not specified                                 | Not specified |
-| Vyapam Scam                   | Not specified     | Madhya Pradesh Professional Examination Board | Not specified |
-| Adarsh Housing Society Scam   | Not specified     | Not specified                                 | Not specified |
 
 ## **Question:** What actions government has taken in last 10 years. Can you give the list of that?
 
