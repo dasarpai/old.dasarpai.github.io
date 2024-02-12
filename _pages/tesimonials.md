@@ -15,6 +15,8 @@ header:
 author_profile: true
 last_modified_at: 2022-09-11T15:46:43-04:00
 mathjax: "true"
+sidebar:
+   nav: "docs"
 ---
 
 What Partners & Learners Speaks......
