@@ -1,14 +1,14 @@
 ---        
-id: 7008       
+id: 7012       
 mathjax: true        
 title: "Vantage News Summary - 12-Feb-24"    
-date: "2024-02-09T08:33:00+05:30"        
+date: "2024-02-12T08:33:00+05:30"        
 permalink: /gk/vantage-news-summary-12-feb-24        
 tags: [News Summary]        
         
 categories:        
 header:        
-    teaser: /assets/images/gk/7011-Vantage-News-Summary.jpg.jpg        
+    teaser: /assets/images/gk/7011-Vantage-News-Summary.jpg        
 author: Hari Thapliyaal        
 layout: single        
 excerpt:        
@@ -17,6 +17,8 @@ share: true
 toc: true  
 toc_sticky: true    
 ---  
+
+![Vantage News Summary](/assets/images/gk/7011-Vantage-News-Summary.jpg)
 
 # Vantage News Summary - 12-Feb-24
 
