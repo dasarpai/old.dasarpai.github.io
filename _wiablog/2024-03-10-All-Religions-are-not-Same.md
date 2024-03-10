@@ -19,7 +19,7 @@ toc_sticky: true
 keywords: Who is Muni, Who is Rishi, What are Sapta Rishi, Who is Maharshi, Who is Sadguru, Who is Sadhu  
 ---  
   
-![All-Religions-are-not-Same](/assets/images/wiapost/5249-All-Religions-are-not-Sames.jpg)  
+![All-Religions-are-not-Same](/assets/images/wiapost/5249-All-Religions-are-not-Same.jpg)  
   
 # All Religions are not Same  
 
