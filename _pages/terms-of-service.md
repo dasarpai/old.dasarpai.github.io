@@ -13,9 +13,9 @@ sidebar:
    nav: "docs"
 ---
 
-## Terms of Service
+**Effective Date: 01-Dec-2024**
 
-Effective Date: 01-Dec-2024
+# Terms of Service
 
 Thank you for visiting dasarpai.com (the "Website"). These Terms of Service govern your use of the Website and any services, products, or content offered by dasarpai. By accessing or using our Website, you agree to comply with these Terms of Service.
 

@@ -13,9 +13,9 @@ sidebar:
    nav: "docs"
 ---
 
-# Privacy Policy
+**Effective Date: 01-December-2023**
 
-Effective Date: [01-December-2023]
+# Privacy Policy
 
 Thank you for visiting dasarpai.com (the "Website"). At dasarpai, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines the types of information we collect, how we use and protect that information, and your rights regarding your personal data.
 
