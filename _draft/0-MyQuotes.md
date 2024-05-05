@@ -2971,6 +2971,34 @@ But, the life doesn't work that way.
 # Quotation261
 
 
+Talking is a time waste if there is no trust between the parties engaged. To build trust we need to do more than talk.
+
+If you have access to people then stop talking and start getting information from indirect sources is a lack of trust and respect. You may know all the information about others from indirect sources but it will not help directly in building trust.
+
+Those who have Vidhya get money. Those who don't have Vidhya get money. First Vidhya is about the art and science of earning money. The second Vidhya is Atma Vidhya, knowledge of the Self.
+
+If you don't speak I cannot listen. If there is no silence I cannot listen. 
+
+Too many words either by the same person or a different person is noise. Absence of any word is silence. We can draw poem, utterances and noise from silence. Silence is mother of all what can be spoken and listen in past present and future.
+
+People are slave of habits. Habits enables their unconscious living. Break all the habits good or bad. Come to present, be aware of your breath till you are breathing. 
+
+With good habits you get the Sansara of luxury, wealth, pleasure and healthy body. With bad habits you spoil relationship, health, wealth and invite miseries. But when drop all kinds of habits you don't get anything. You reach to the self and start conscious living.
+
+When you really enter into the state of being then What you have, how much you have, where you are, what quality are your possession of, matters none.
+
+
+
+Every Karma has its fala. Hence we do Karma to get that fala. While choosing your career or business keep in mind if you get all the results which you wanted from this Karma will you still do that work? If you say then don't go on that path then don't start today on that. If you say I will still do the same Karma to get more fala then don't do that. Fala is driving you whole life is not good. Karma drives you is fine.
+
+
+The question of where God is wrong is because where means location on a map or land. If you can locate that in a piece of land or map then that is not omnipresent God.
+
+
+
+
+
+
 
 
 

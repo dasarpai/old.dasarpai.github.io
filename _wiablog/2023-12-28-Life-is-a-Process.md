@@ -8,7 +8,7 @@ tags:  [My Views, Life, Philosophy]
         
 categories:        
 header:        
-    teaser: /assets/images/wiapost/5244-life-process.jpg        
+    teaser: /assets/images/wiapost/5244-Life-Process.jpg        
 author: Hari Thapliyaal        
 layout: single        
 excerpt:        
@@ -17,7 +17,7 @@ share: true
 Keywords: Purpose of Life, Joyfullness, Happiness
 ---        
         
-![Life is a Process](/assets/images/wiapost/5244-life-process.jpg)        
+![Life is a Process](/assets/images/wiapost/5244-Life-Process.jpg)        
         
 # Life Process    
     
