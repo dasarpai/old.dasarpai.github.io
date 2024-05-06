@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5112-Human-Faith-And-Need-Of-God.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: single
 excerpt:  
 author_profile: true 
 share: true 

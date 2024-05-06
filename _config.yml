@@ -88,6 +88,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/site-logo.jpg" # Open Graph/Twitter default site image
+
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -133,7 +134,7 @@ author:
       
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "mailto:hari.prasad@vedavit-ps.com"
+      url: "mailto:hari@dasarpai.com"
       
     - label: "StackOverflow"
       icon: "fab fa-stack-overflow"
@@ -171,38 +172,45 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fa fa-envelope"
-      url: "mailto:hari.prasad@vedavit-ps.com"
+      icon: "fab fa-solid fa-envelope"
+      url: "mailto:hari@dasarpai.com"
       
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-solid fa-link"
       url: "https://dasarpai.com"
       
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-solid fa-linkedin"
       url: "https://www.linkedin.com/in/harithapliyal/"
       
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-solid fa-github"
       url: "https://github.com/dasarpai"
       
     - label: "OrcID"
-      icon: "fas fa-id-card"
+      icon: "fab fa-solid fa-id-card"
       url: "https://orcid.org/0000-0001-7907-865X"
       
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-solid fa-twitter-square"
       url: "https://twitter.com/dasarpai"
       
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "fab fa-solid fa-facebook-square"
       url: "https://instagram.com/dasarpai"
       
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-solid fa-instagram"
       url: "https://facebook.com/dasarpai"
-
-
+     
+    - label: "Privacy Policy"
+      icon: "fab fa-solid fa-shield-halved"
+      url: "/privacy"
+     
+    - label: "Terms & Conditions"
+      icon: "fab fa-solid fa-file-contract"
+      url: "/terms-of-service"
+       
 # Reading Files
 include:
   - .htaccess

@@ -3,7 +3,7 @@ id: 27
 title: "Corpus: Manmath Nath - Ramayana 7 - Uttara Kānda"
 layout: single
 toc_sticky: true
-permalink: /manmathnath-ramayana-7
+permalink: /ramayan/manmathnath-ramayana-7
 date: 2024-01-12
 tags: [Corpus]
 header:

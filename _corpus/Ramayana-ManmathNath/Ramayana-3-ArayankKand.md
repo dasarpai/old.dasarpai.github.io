@@ -3,7 +3,7 @@ id: 23
 title: "Corpus: Manmath Nath - Ramayana 3 - Āranya Kāndam"
 layout: single
 toc_sticky: true
-permalink: /manmathnath-ramayana-3
+permalink: /ramayan/manmathnath-ramayana-3
 date: 2024-01-12
 tags: [Corpus]
 header:

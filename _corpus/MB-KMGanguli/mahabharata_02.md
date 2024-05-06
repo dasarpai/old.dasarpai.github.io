@@ -3,7 +3,7 @@ id: 2
 title: "Corpus: KM Ganguli Mahabharat 02 - Sabha Parva"
 layout: single
 toc_sticky: true
-permalink: /mb-kmganguli-mahabharat_02
+permalink: /mahabharat/mb-kmganguli-mahabharat_02
 date: 2024-01-12
 tags: [Corpus]
 header:

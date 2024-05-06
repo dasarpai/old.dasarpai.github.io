@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5093-Who-Is-The-Knower-Of-Brahman.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: single
 excerpt:  
 author_profile: true 
 share: true 

@@ -3,7 +3,7 @@ id: 25
 title: "Corpus: Manmath Nath - Ramayana 5 - SUNDARA KĀNDAM"
 layout: single
 toc_sticky: true
-permalink: /manmathnath-ramayana-5
+permalink: /ramayan/manmathnath-ramayana-5
 date: 2024-01-12
 tags: [Corpus]
 header:

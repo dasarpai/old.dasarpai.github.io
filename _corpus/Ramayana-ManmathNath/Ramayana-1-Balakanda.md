@@ -3,7 +3,7 @@ id: 21
 title: "Corpus: Manmath Nath - Ramayana 1 - Bālakāndam"
 layout: single
 toc_sticky: true
-permalink: /manmathnath-ramayana-1
+permalink: /ramayan/manmathnath-ramayana-1
 date: 2024-01-12
 tags: [Corpus]
 header:

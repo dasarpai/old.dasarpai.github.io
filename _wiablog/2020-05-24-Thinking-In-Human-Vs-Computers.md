@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5128-Thinking-In-Human-Vs-Computers.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: single
 excerpt:  
 author_profile: true 
 share: true 

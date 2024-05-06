@@ -3,7 +3,7 @@ id: 16
 title: "Corpus: KM Ganguli Mahabharat 16 - Mausala Parva"
 layout: single
 toc_sticky: true
-permalink: /mb-kmganguli-mahabharat_16
+permalink: /mahabharat/mb-kmganguli-mahabharat_16
 date: 2024-01-12
 tags: [Corpus]
 header:

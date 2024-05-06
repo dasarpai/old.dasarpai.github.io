@@ -3,7 +3,7 @@ id: 9
 title: "Corpus: KM Ganguli Mahabharat 09 - Shalya Parva"
 layout: single
 toc_sticky: true
-permalink: /mb-kmganguli-mahabharat_09
+permalink: /mahabharat/mb-kmganguli-mahabharat_09
 date: 2024-01-12
 tags: [Corpus]
 header:

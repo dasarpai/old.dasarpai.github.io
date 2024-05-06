@@ -3,7 +3,7 @@ id: 8
 title: "Corpus: KM Ganguli Mahabharat 08 - Karna Parva"
 layout: single
 toc_sticky: true
-permalink: /mb-kmganguli-mahabharat_08
+permalink: /mahabharat/mb-kmganguli-mahabharat_08
 date: 2024-01-12
 tags: [Corpus]
 header:

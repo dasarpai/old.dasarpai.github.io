@@ -3,7 +3,7 @@ id: 10
 title: "Corpus: KM Ganguli Mahabharat 10 - Sauptika Parva"
 layout: single
 toc_sticky: true
-permalink: /mb-kmganguli-mahabharat_10
+permalink: /mahabharat/mb-kmganguli-mahabharat_10
 date: 2024-01-12
 tags: [Corpus]
 header:

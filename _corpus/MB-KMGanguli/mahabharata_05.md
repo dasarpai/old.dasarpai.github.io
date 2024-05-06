@@ -3,7 +3,7 @@ id: 5
 title: "Corpus: KM Ganguli Mahabharat 05 - Udyoga Parva"
 layout: single
 toc_sticky: true
-permalink: /mb-kmganguli-mahabharat_05
+permalink: /mahabharat/mb-kmganguli-mahabharat_05
 date: 2024-01-12
 tags: [Corpus]
 header:

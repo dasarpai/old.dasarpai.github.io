@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5034-What-Is-A-Positive-Mindset.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: single
 excerpt:  
 author_profile: true 
 share: true 

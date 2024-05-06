@@ -3,7 +3,7 @@ id: 18
 title: "Corpus: KM Ganguli Mahabharat 18 - Svargarohana Parva"
 layout: single
 toc_sticky: true
-permalink: /mb-kmganguli-mahabharat_18
+permalink: /mahabharat/mb-kmganguli-mahabharat_18
 date: 2024-01-12
 tags: [Corpus]
 header:

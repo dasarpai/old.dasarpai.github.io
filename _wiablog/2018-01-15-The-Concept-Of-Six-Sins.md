@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5066-The-Concept-Of-Six-Sins.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: single
 excerpt:  
 author_profile: true 
 share: true 

@@ -3,7 +3,7 @@ id: 22
 title: "Corpus: Manmath Nath - Ramayana 2 - Ayodhyākāndam"
 layout: single
 toc_sticky: true
-permalink: /manmathnath-ramayana-2
+permalink: /ramayan/manmathnath-ramayana-2
 date: 2024-01-12
 tags: [Corpus]
 header:

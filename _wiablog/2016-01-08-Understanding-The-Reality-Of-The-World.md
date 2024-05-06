@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5006-Understanding-The-Reality-Of-The-World.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: single
 excerpt:  
 author_profile: true 
 share: true 

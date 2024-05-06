@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5138-Who-Is-The-Creator.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: single
 excerpt:  
 author_profile: true 
 share: true 

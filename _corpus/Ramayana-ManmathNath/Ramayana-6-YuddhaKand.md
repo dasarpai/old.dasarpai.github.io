@@ -3,7 +3,7 @@ id: 26
 title: "Corpus: Manmath Nath - Ramayana 6 - Yuddhakāndam"
 layout: single
 toc_sticky: true
-permalink: /manmathnath-ramayana-6
+permalink: /ramayan/manmathnath-ramayana-6
 date: 2024-01-12
 tags: [Corpus]
 header:

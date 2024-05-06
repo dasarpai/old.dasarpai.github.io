@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5090-Paradox-Of-Learning.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: single
 excerpt:  
 author_profile: true 
 share: true 

@@ -3,7 +3,7 @@ id: 11
 title: "Corpus: KM Ganguli Mahabharat 11 - Stri Parva"
 layout: single
 toc_sticky: true
-permalink: /mb-kmganguli-mahabharat_11
+permalink: /mahabharat/mb-kmganguli-mahabharat_11
 date: 2024-01-12
 tags: [Corpus]
 header:

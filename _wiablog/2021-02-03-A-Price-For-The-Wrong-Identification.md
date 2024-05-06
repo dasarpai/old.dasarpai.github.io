@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5146-A-Price-For-The-Wrong-Identification.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: single
 excerpt:  
 author_profile: true 
 share: true 

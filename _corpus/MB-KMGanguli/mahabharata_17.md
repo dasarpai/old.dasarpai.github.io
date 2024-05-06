@@ -3,7 +3,7 @@ id: 17
 title: "Corpus: KM Ganguli Mahabharat 17 - Mahaprasthanika Parva"
 layout: single
 toc_sticky: true
-permalink: /mb-kmganguli-mahabharat_17
+permalink: /mahabharat/mb-kmganguli-mahabharat_17
 date: 2024-01-12
 tags: [Corpus]
 header:

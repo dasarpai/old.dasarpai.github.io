@@ -10,7 +10,7 @@ categories:
 header:        
     teaser: /assets/images/wiapost/5245-why-do-we-need-family.jpg        
 author: Hari Thapliyaal        
-layout: single        
+layout: single       
 excerpt:        
 author_profile: true        
 share: true        

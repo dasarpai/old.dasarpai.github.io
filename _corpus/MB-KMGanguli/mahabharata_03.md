@@ -3,7 +3,7 @@ id: 3
 title: "Corpus: KM Ganguli Mahabharat 03 - Aranyaka Parva "
 layout: single
 toc_sticky: true
-permalink: /mb-kmganguli-mahabharat_03
+permalink: /mahabharat/mb-kmganguli-mahabharat_03
 date: 2024-01-12
 tags: [Corpus]
 header:

@@ -3,7 +3,7 @@ id: 4
 title: "Corpus: KM Ganguli Mahabharat 04 - Virata Parva"
 layout: single
 toc_sticky: true
-permalink: /mb-kmganguli-mahabharat_04
+permalink: /mahabharat/mb-kmganguli-mahabharat_04
 date: 2024-01-12
 tags: [Corpus]
 header:

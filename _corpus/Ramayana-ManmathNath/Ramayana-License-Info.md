@@ -3,7 +3,7 @@ id: 29
 title: "Corpus: Manmath Nath - Ramayana Text License"
 layout: single
 toc_sticky: true
-permalink: /manmathnath-ramayana-text-license
+permalink: /ramayan/manmathnath-ramayana-text-license
 date: 2024-01-12
 tags: [Corpus]
 header:

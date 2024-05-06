@@ -3,7 +3,7 @@ id: 14
 title: "Corpus: KM Ganguli Mahabharat 14- Aswamedha Parva"
 layout: single
 toc_sticky: true
-permalink: /mb-kmganguli-mahabharat_14
+permalink: /mahabharat/mb-kmganguli-mahabharat_14
 date: 2024-01-12
 tags: [Corpus]
 header:

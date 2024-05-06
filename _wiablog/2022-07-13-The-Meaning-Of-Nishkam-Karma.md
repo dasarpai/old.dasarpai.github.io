@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5195-The-Meaning-Of-Nishkam-Karma.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: single
 excerpt:  
 author_profile: true 
 share: true 

@@ -3,7 +3,7 @@ id: 12
 title: "Corpus: KM Ganguli Mahabharat 12 - Shanti Parva"
 layout: single
 toc_sticky: true
-permalink: /mb-kmganguli-mahabharat_12
+permalink: /mahabharat/mb-kmganguli-mahabharat_12
 date: 2024-01-12
 tags: [Corpus]
 header:

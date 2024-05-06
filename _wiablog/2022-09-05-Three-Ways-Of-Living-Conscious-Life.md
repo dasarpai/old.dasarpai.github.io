@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5199-Three-Ways-Of-Living-Conscious-Life.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: single
 excerpt:  
 author_profile: true 
 share: true 

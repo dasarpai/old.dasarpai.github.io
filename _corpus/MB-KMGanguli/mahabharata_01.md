@@ -3,7 +3,7 @@ id: 1
 title: "Corpus: KM Ganguli Mahabharat 01 - Adi Parva"
 layout: single
 toc_sticky: true
-permalink: /mb-kmganguli-mahabharat_01
+permalink: /mahabharat/mb-kmganguli-mahabharat_01
 date: 2024-01-12
 tags: [Corpus]
 header:

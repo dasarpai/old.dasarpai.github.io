@@ -3,7 +3,7 @@ id: 24
 title: "Corpus: Manmath Nath - Ramayana 4 - KISHKINDHĀ KĀNDAM"
 layout: single
 toc_sticky: true
-permalink: /manmathnath-ramayana-4
+permalink: /ramayan/manmathnath-ramayana-4
 date: 2024-01-12
 tags: [Corpus]
 header:

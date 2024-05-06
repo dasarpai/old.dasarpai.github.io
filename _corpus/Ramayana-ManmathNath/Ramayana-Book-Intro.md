@@ -3,7 +3,7 @@ id: 28
 title: "Corpus: Manmath Nath - Ramayana Corpus Intro"
 layout: single
 toc_sticky: true
-permalink: /manmathnath-ramayana-corpus-intro
+permalink: /ramayan/manmathnath-ramayana-corpus-intro
 date: 2024-01-12
 tags: [Corpus]
 header:

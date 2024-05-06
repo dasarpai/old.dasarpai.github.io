@@ -3,7 +3,7 @@ id: 15
 title: "Corpus: KM Ganguli Mahabharat 15 - Asramavasa Parva"
 layout: single
 toc_sticky: true
-permalink: /mb-kmganguli-mahabharat_15
+permalink: /mahabharat/mb-kmganguli-mahabharat_15
 date: 2024-01-12
 tags: [Corpus]
 header:
