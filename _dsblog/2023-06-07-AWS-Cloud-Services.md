@@ -10,7 +10,7 @@ categories:
 header:
     teaser: /assets/images/dspost/dsp6063-AWS-Cloud-Service-Catalog.jpg
 author: Hari Thapliyaal   
-layout: single   
+layout: dspost-layout   
 excerpt:   
 author_profile: true   
 share: true   

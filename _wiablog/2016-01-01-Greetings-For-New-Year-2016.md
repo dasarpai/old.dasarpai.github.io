@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5005-Greetings-For-New-Year-2016.jpg
 author: Hari Thapliyaal 
-layout: single
+layout: wiapost-layout 
 excerpt:  
 author_profile: true 
 share: true 

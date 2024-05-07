@@ -10,7 +10,7 @@ header:
     teaser: /assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg
 excerpt_separator: "<!--more-->"  
 excerpt:  
-layout: single  
+layout: dspost-layout  
 author_profile: true  
 toc: True  
 toc_sticky: true
@@ -321,4 +321,4 @@ ELMo (Embeddings from Language Models) is a deep contextual word embedding techn
 
 
 # Resources
-If you want to understand all skipgram/cbow caluclation with excel and then you can use this [calucation sheet](https://docs.google.com/spreadsheets/d/1eU4EVtUzD1w_ILcpJVTc6oK2KH9vEDK7OuXFtyv1_gU/edit?usp=sharing)
+If you want to understand all skipgram/cbow caluclation with excel and then you can use this [calculation sheet](https://docs.google.com/spreadsheets/d/1eU4EVtUzD1w_ILcpJVTc6oK2KH9vEDK7OuXFtyv1_gU/edit?usp=sharing)

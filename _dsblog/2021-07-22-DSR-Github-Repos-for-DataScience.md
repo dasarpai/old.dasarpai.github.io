@@ -8,7 +8,7 @@ tags: [DS Resources, Github Repos]
 header:
    teaser: "/assets/images/dspost/dsr122-Github-Repos-to-Learn-DataScience.jpg"
 author: Hari Thapliyaal   
-layout: single   
+layout: dspost-layout   
 excerpt:   
 author_profile: true   
 share: true   

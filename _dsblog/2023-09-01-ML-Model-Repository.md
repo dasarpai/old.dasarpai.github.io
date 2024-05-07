@@ -10,7 +10,7 @@ header:
     teaser: /assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg
 excerpt_separator: "<!--more-->"  
 excerpt:  
-layout: single  
+layout: dspost-layout  
 author_profile: true  
 toc: True  
 toc_sticky: true

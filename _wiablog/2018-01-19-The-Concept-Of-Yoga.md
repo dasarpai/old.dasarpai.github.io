@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5067-The-Concept-Of-Yoga.jpg
 author: Hari Thapliyaal 
-layout: single
+layout: wiapost-layout 
 excerpt:  
 author_profile: true 
 share: true 

@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5180-There-Is-No-God.jpg
 author: Hari Thapliyaal 
-layout: single
+layout: wiapost-layout 
 excerpt:  
 author_profile: true 
 share: true 

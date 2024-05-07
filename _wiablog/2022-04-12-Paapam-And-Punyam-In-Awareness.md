@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5185-Paapam-And-Punyam-In-Awareness.jpg
 author: Hari Thapliyaal 
-layout: single
+layout: wiapost-layout 
 excerpt:  
 author_profile: true 
 share: true 

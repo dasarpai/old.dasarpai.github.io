@@ -11,7 +11,7 @@ header:
     teaser: /assets/images/dspost/dsp6073-Embedding-with-FastText.jpg
 excerpt_separator: "<!--more-->"  
 excerpt:  
-layout: single  
+layout: dspost-layout  
 author_profile: true  
 toc: true  
 toc_sticky: true

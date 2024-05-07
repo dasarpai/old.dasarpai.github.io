@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5035-Human-And-His-Faith.jpg
 author: Hari Thapliyaal 
-layout: single
+layout: wiapost-layout 
 excerpt:  
 author_profile: true 
 share: true 

@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5021-Gate-Of-Mind.jpg
 author: Hari Thapliyaal 
-layout: single
+layout: wiapost-layout 
 excerpt:  
 author_profile: true 
 share: true 

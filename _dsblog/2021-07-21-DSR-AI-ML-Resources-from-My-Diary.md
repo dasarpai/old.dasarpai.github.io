@@ -8,7 +8,7 @@ tags: [DS Resources, AI Diary]
 header:
    teaser: "/assets/images/dspost/dsr121-AI-ML-Resources-from-My-Diary.jpg"
 author: Hari Thapliyaal   
-layout: single   
+layout: dspost-layout   
 excerpt:   
 author_profile: true   
 share: true   

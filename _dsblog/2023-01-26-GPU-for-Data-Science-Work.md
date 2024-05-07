@@ -10,7 +10,7 @@ categories:
 header:
     teaser: /assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg
 author: Hari Thapliyaal   
-layout: single   
+layout: dspost-layout   
 excerpt:   
 author_profile: true   
 share: true   

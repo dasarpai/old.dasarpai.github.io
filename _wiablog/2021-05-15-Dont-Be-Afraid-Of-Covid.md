@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5122-Dont-Be-Afraid-Of-Covid.jpg
 author: Hari Thapliyaal 
-layout: single
+layout: wiapost-layout 
 excerpt:  
 author_profile: true 
 share: true 

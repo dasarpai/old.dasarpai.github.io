@@ -46,7 +46,9 @@ layout: default
             </nav>
           </aside>
         {% endif %}
+		
         {{ content }}
+		
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
@@ -78,6 +80,7 @@ layout: default
         {% endfor %}
       </div>
     </div>
+	
   {% comment %}<!-- otherwise show recent posts if no related when `related: true` -->{% endcomment %}
   {% elsif page.id and page.related %}
     <div class="page__related">

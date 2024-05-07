@@ -11,7 +11,7 @@ header:
     teaser: /assets/images/dspost/dsp6091-rps-Paperwithcode-Resources.jpg
 excerpt_separator: "<!--more-->"  
 excerpt:  
-layout: single  
+layout: dspost-layout  
 author_profile: true  
 toc: false  
 toc_sticky: true

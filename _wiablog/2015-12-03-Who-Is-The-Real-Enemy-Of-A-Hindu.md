@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5003-Who-Is-The-Real-Enemy-Of-A-Hindu.jpg
 author: Hari Thapliyaal 
-layout: single
+layout: wiapost-layout 
 excerpt:  
 author_profile: true 
 share: true 

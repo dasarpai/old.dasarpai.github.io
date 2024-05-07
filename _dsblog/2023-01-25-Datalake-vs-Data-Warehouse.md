@@ -10,7 +10,7 @@ categories:
 header:   
     teaser: /assets/images/dspost/dsp6040-Datalake-vs-Data-Warehouse.jpg   
 author: Hari Thapliyaal   
-layout: single   
+layout: dspost-layout   
 excerpt:   
 author_profile: true   
 share: true   

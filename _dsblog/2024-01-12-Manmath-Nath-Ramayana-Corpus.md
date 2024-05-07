@@ -11,7 +11,7 @@ header:
     teaser: /assets/images/dspost/dsp6112-Manmath-Nath-Ramayana-Corpus.jpg
 author: Hari Thapliyaal 
 excerpt:
-layout: single  
+layout: dspost-layout  
 author_profile: true  
 share: true
 toc: False  

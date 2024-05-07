@@ -10,7 +10,7 @@ categories:
 header:    
     teaser: /assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg    
 author: Hari Thapliyaal       
-layout: single       
+layout: dspost-layout       
 excerpt:       
 author_profile: true       
 share: true       

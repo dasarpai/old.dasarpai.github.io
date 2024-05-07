@@ -11,7 +11,7 @@ author: Hari Thapliyaal
 mathjax: "true"
 share: true
 excerpt:   
-layout: single   
+layout: dspost-layout   
 author_profile: true   
 toc: true   
 toc_sticky: true

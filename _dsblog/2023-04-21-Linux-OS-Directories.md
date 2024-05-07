@@ -10,7 +10,7 @@ categories:
 header:    
     teaser: /assets/images/dspost/dsp6055-Linux-OS-Directories.jpg    
 author: Hari Thapliyaal       
-layout: single       
+layout: dspost-layout       
 excerpt:       
 author_profile: true       
 share: true       

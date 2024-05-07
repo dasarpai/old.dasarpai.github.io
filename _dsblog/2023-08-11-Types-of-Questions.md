@@ -11,7 +11,7 @@ header:
     teaser: /assets/images/dspost/dsp6083-Types-of-Questions.jpg
 excerpt_separator: "<!--more-->"  
 excerpt:  
-layout: single  
+layout: dspost-layout  
 author_profile: true  
 toc: True  
 toc_sticky: true

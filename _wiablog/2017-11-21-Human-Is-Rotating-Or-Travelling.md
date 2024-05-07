@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5063-Human-Is-Rotating-Or-Travelling.jpg
 author: Hari Thapliyaal 
-layout: single
+layout: wiapost-layout 
 excerpt:  
 author_profile: true 
 share: true 

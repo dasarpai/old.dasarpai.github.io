@@ -12,7 +12,7 @@ header:
     teaser: /assets/images/dspost/dsp6086-How-To-Do-Literature-Review.jpg
 excerpt_separator: "<!--more-->"  
 excerpt:  
-layout: single  
+layout: dspost-layout  
 author_profile: true  
 toc: True  
 toc_sticky: true

@@ -115,7 +115,7 @@ author:
   In the dynamic field of Data Science, Hari stands out with more than three years of hands-on experience in software development, training course development, training, and mentoring professionals. His areas of specialization include Data Science, AI, Computer Vision, NLP, complex machine learning algorithms, statistical modeling, pattern identification, and extraction of valuable insights.
 
   Hari's professional journey showcases his diverse experience in planning and executing multiple types of projects. He excels in driving stakeholders to identify and resolve business problems, consistently delivering excellent results. Beyond the professional sphere, Hari finds solace in long meditation, often seeking secluded places or immersing himself in the embrace of nature."
-  location: "Bangalore, India."
+
 
   location         : "Bangalore, India."
   email            : hari@dasarpai.com 
@@ -296,64 +296,6 @@ tag_archive:
 #     tag: /tags/:name/
 
 
-# HTML Compression
-# - https://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-
-
-
 # Defaults
 defaults:   
 
@@ -363,11 +305,11 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: false
-      read_time: false
+      author_profile: true
+      read_time: true
       comments: false
       share: true
-      related: false
+      related: true
       sidebar:
         nav: "docs"   
 
@@ -377,7 +319,7 @@ defaults:
       type: gk
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true # true
       share: true
@@ -392,7 +334,7 @@ defaults:
       type: corpus
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true # true
       share: true
@@ -407,7 +349,7 @@ defaults:
       type: quotations
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true # true
       share: true
@@ -422,7 +364,7 @@ defaults:
       type: dslexicon
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true # true
       share: true
@@ -437,7 +379,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true # true
       share: true
@@ -452,11 +394,11 @@ defaults:
       type: dsresources
     values:
       layout: single
-      author_profile: false
-      read_time: false
+      author_profile: true
+      read_time: true
       comments: false
       share: true
-      related: false
+      related: true
       sidebar:
         nav: "docs"  
      
@@ -465,12 +407,12 @@ defaults:
       path: "_dsblog"
       type: dsblog
     values:
-      layout: single
-      author_profile: false
+      layout: wiapost-layout
+      author_profile: true
       read_time: true
       comments: true
       share: true
-      related: false
+      related: true
       sidebar:
         nav: "docs"  
       
@@ -479,12 +421,12 @@ defaults:
       path: "_wiablog"
       type: wiablog
     values:
-      layout: single
-      author_profile: false
+      layout: dspost-layout
+      author_profile: true
       read_time: true
       comments: true
       share: true
-      related: false
+      related: true
       sidebar:
         nav: "docs"  
  
@@ -494,11 +436,11 @@ defaults:
       type: samskrut
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
-      related: false
+      related: true
       sidebar:
         nav: "docs"  
         
@@ -509,11 +451,11 @@ defaults:
       type: pmblog
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
-      related: false
+      related: true
       sidebar:
         nav: "docs"        
  
@@ -523,11 +465,11 @@ defaults:
       type: pmbok6
     values:
       layout: single
-      author_profile: false
-      read_time: false
+      author_profile: true
+      read_time: true
       comments: true
       share: true
-      related: false
+      related: true
       sidebar:
         nav: "docs"       
         
@@ -537,11 +479,11 @@ defaults:
       type: pmbok6hi
     values:
       layout: single
-      author_profile: false
-      read_time: false
+      author_profile: true
+      read_time: true
       comments: true
       share: true
-      related: false
+      related: true
       sidebar:
         nav: "docs"        
         
@@ -552,12 +494,12 @@ defaults:
     values:
       layout: single
       show_date: false
-      author_profile: false
-      read_time: false
+      author_profile: true
+      read_time: true
       comments: true
       share: true
-      related: false
-      mathjax: true
+      related: true
+      mathjax: false
  
   # _management
   - scope:
@@ -566,12 +508,12 @@ defaults:
     values:
       layout: single
       show_date: false
-      author_profile: false
-      read_time: false
+      author_profile: true
+      read_time: true
       comments: true
       share: true
-      related: false
-      mathjax: true
+      related: true
+      mathjax: false
       
   # _gallery
   - scope:
@@ -579,11 +521,11 @@ defaults:
       type: gallery
     values:
       layout: single
-      author_profile: false
-      read_time: false
+      author_profile: true
+      read_time: true
       comments: false
       share: true
-      related: false
+      related: true
       sidebar:
         nav: "docs"    
       
@@ -593,8 +535,8 @@ defaults:
       type: projects
     values:
       layout: single
-      author_profile: false
-      read_time: false
+      author_profile: true
+      read_time: true
       comments: # true
       share: true
       related: true
@@ -665,7 +607,13 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+    
 # Markdown Processing
 kramdown:
   input: GFM
@@ -691,7 +639,7 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
     
-    
+# mimic GitHub Pages with --safe
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -700,11 +648,4 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
   

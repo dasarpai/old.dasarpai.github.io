@@ -12,7 +12,7 @@ header:
     teaser: /assets/images/dspost/dsp6092-Machine-Learning-Metrics.jpg
 excerpt_separator: "<!--more-->"  
 excerpt:  
-layout: single  
+layout: dspost-layout  
 author_profile: true  
 toc: True  
 toc_sticky: true

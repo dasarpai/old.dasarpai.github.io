@@ -2,13 +2,14 @@
 id: 103    
 title: "Data Science Cheatsheets"
 permalink: /dsblog/data-science-cheatsheets
-date: 2022-07-03
+date: "2022-07-03T08:33:00+05:30"
+last_modified_at: 2022-09-11T15:46:43-04:00
 categories:
 tags: [DS Resources, DS Cheatsheet]
 
 header:
   teaser: /assets/images/dspost/dsr103-Data-Science-Cheatsheets.jpg
-last_modified_at: 2022-09-11T15:46:43-04:00
+
 author: Hari Thapliyaal   
 mathjax: "true"
 share: true

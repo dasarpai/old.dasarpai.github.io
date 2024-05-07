@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5175-Earlier-Hindu-Institutions-And-Todays-Society.jpg
 author: Hari Thapliyaal 
-layout: single
+layout: wiapost-layout 
 excerpt:  
 author_profile: true 
 share: true 

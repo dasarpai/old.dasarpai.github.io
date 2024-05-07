@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5011-An-Example-Of-Web-Of-Problems.jpg
 author: Hari Thapliyaal 
-layout: single
+layout: wiapost-layout 
 excerpt:  
 author_profile: true 
 share: true 

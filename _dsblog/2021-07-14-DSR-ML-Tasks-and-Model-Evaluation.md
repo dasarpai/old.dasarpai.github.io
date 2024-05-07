@@ -9,7 +9,7 @@ header:
   teaser:  /assets/images/dspost/dsr114-ml-tasks-and-model-evaluation.jpg
 last_modified_at: 2021-06-15T15:46:43-04:00
 author: Hari Thapliyaal   
-layout: single   
+layout: dspost-layout   
 excerpt:   
 author_profile: true   
 share: true   

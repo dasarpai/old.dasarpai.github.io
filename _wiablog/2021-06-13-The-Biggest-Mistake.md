@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5162-The-Biggest-Mistake.jpg
 author: Hari Thapliyaal 
-layout: single
+layout: wiapost-layout 
 excerpt:  
 author_profile: true 
 share: true 
