@@ -3,7 +3,7 @@ id: 857
 title: "Sabha Parva Explorations - Mahabharata Book 3"
 layout: single
 toc_sticky: true
-permalink: /mahabharata-sabha-parva-exploration-with-qa
+permalink: /mahabharat/mahabharata-sabha-parva-exploration-with-qa
 date: 2024-01-04
 tags: [Publications]
 header:

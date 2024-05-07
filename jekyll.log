@@ -1,0 +1,214 @@
+Configuration file: D:/github-blog/dasarpai/_config.yml
+To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+            Source: D:/github-blog/dasarpai
+       Destination: D:/github-blog/dasarpai/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/ramayan/manmathnath-ramayana-1.html[0m[0m
+[33m                     - _corpus/Ramayana-ManmathNath/Ramayana-1-Balakanda.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/Ramayana-ManmathNath/Ramayana-1-Balakanda.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/ramayan/manmathnath-ramayana-2.html[0m[0m
+[33m                     - _corpus/Ramayana-ManmathNath/Ramayana-2-AyoddhyaKanda.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/Ramayana-ManmathNath/Ramayana-2-AyoddhyaKanda.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/ramayan/manmathnath-ramayana-3.html[0m[0m
+[33m                     - _corpus/Ramayana-ManmathNath/Ramayana-3-ArayankKand.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/Ramayana-ManmathNath/Ramayana-3-ArayankKand.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/ramayan/manmathnath-ramayana-4.html[0m[0m
+[33m                     - _corpus/Ramayana-ManmathNath/Ramayana-4-KishkindhaKand.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/Ramayana-ManmathNath/Ramayana-4-KishkindhaKand.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/ramayan/manmathnath-ramayana-5.html[0m[0m
+[33m                     - _corpus/Ramayana-ManmathNath/Ramayana-5-SundarKand.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/Ramayana-ManmathNath/Ramayana-5-SundarKand.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/ramayan/manmathnath-ramayana-6.html[0m[0m
+[33m                     - _corpus/Ramayana-ManmathNath/Ramayana-6-YuddhaKand.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/Ramayana-ManmathNath/Ramayana-6-YuddhaKand.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/ramayan/manmathnath-ramayana-7.html[0m[0m
+[33m                     - _corpus/Ramayana-ManmathNath/Ramayana-7-UttaraKand.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/Ramayana-ManmathNath/Ramayana-7-UttaraKand.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/ramayan/manmathnath-ramayana-corpus-intro.html[0m[0m
+[33m                     - _corpus/Ramayana-ManmathNath/Ramayana-Book-Intro.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/Ramayana-ManmathNath/Ramayana-Book-Intro.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/ramayan/manmathnath-ramayana-text-license.html[0m[0m
+[33m                     - _corpus/Ramayana-ManmathNath/Ramayana-License-Info.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/Ramayana-ManmathNath/Ramayana-License-Info.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/mahabharat/mb-kmganguli-mahabharat-01.html[0m[0m
+[33m                     - _corpus/MB-KMGanguli/mahabharata_01.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/MB-KMGanguli/mahabharata_01.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/mahabharat/mb-kmganguli-mahabharat-02.html[0m[0m
+[33m                     - _corpus/MB-KMGanguli/mahabharata_02.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/MB-KMGanguli/mahabharata_02.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/mahabharat/mb-kmganguli-mahabharat-03.html[0m[0m
+[33m                     - _corpus/MB-KMGanguli/mahabharata_03.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/MB-KMGanguli/mahabharata_03.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/mahabharat/mb-kmganguli-mahabharat-04.html[0m[0m
+[33m                     - _corpus/MB-KMGanguli/mahabharata_04.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/MB-KMGanguli/mahabharata_04.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/mahabharat/mb-kmganguli-mahabharat-05.html[0m[0m
+[33m                     - _corpus/MB-KMGanguli/mahabharata_05.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/MB-KMGanguli/mahabharata_05.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/mahabharat/mb-kmganguli-mahabharat-06.html[0m[0m
+[33m                     - _corpus/MB-KMGanguli/mahabharata_06.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/MB-KMGanguli/mahabharata_06.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/mahabharat/mb-kmganguli-mahabharat-07.html[0m[0m
+[33m                     - _corpus/MB-KMGanguli/mahabharata_07.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/MB-KMGanguli/mahabharata_07.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/mahabharat/mb-kmganguli-mahabharat-08.html[0m[0m
+[33m                     - _corpus/MB-KMGanguli/mahabharata_08.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/MB-KMGanguli/mahabharata_08.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/mahabharat/mb-kmganguli-mahabharat-09.html[0m[0m
+[33m                     - _corpus/MB-KMGanguli/mahabharata_09.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/MB-KMGanguli/mahabharata_09.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/mahabharat/mb-kmganguli-mahabharat-10.html[0m[0m
+[33m                     - _corpus/MB-KMGanguli/mahabharata_10.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/MB-KMGanguli/mahabharata_10.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/mahabharat/mb-kmganguli-mahabharat-11.html[0m[0m
+[33m                     - _corpus/MB-KMGanguli/mahabharata_11.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/MB-KMGanguli/mahabharata_11.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/mahabharat/mb-kmganguli-mahabharat-12.html[0m[0m
+[33m                     - _corpus/MB-KMGanguli/mahabharata_12.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/MB-KMGanguli/mahabharata_12.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/mahabharat/mb-kmganguli-mahabharat-13.html[0m[0m
+[33m                     - _corpus/MB-KMGanguli/mahabharata_13.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/MB-KMGanguli/mahabharata_13.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/mahabharat/mb-kmganguli-mahabharat-14.html[0m[0m
+[33m                     - _corpus/MB-KMGanguli/mahabharata_14.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/MB-KMGanguli/mahabharata_14.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/mahabharat/mb-kmganguli-mahabharat-15.html[0m[0m
+[33m                     - _corpus/MB-KMGanguli/mahabharata_15.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/MB-KMGanguli/mahabharata_15.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/mahabharat/mb-kmganguli-mahabharat-16.html[0m[0m
+[33m                     - _corpus/MB-KMGanguli/mahabharata_16.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/MB-KMGanguli/mahabharata_16.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/mahabharat/mb-kmganguli-mahabharat-17.html[0m[0m
+[33m                     - _corpus/MB-KMGanguli/mahabharata_17.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/MB-KMGanguli/mahabharata_17.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/mahabharat/mb-kmganguli-mahabharat-18.html[0m[0m
+[33m                     - _corpus/MB-KMGanguli/mahabharata_18.md[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/MB-KMGanguli/mahabharata_18.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36mD:/github-blog/dasarpai/_site/corpus/:categories.txt[0m[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/GK/2024-02-06-Vantage-News.txt[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/GK/2024-02-07-Vantage-News.txt[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/GK/2024-02-08-Vantage-News.txt[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/GK/2024-02-09-Vantage-News.txt[0m
+[33m                     - D:/github-blog/dasarpai/_corpus/GK/2024-02-12-Vantage-News.txt[0m
+[33m                    [0m
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.3.3   Please append `--trace` to the `serve` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+C:/Ruby32-x64/lib/ruby/3.2.0/fileutils.rb:2291:in `initialize': Invalid argument @ rb_sysopen - D:/github-blog/dasarpai/_site/corpus/:categories.txt (Errno::EINVAL)
+	from C:/Ruby32-x64/lib/ruby/3.2.0/fileutils.rb:2291:in `open'
+	from C:/Ruby32-x64/lib/ruby/3.2.0/fileutils.rb:2291:in `block in copy_file'
+	from C:/Ruby32-x64/lib/ruby/3.2.0/fileutils.rb:2290:in `open'
+	from C:/Ruby32-x64/lib/ruby/3.2.0/fileutils.rb:2290:in `copy_file'
+	from C:/Ruby32-x64/lib/ruby/3.2.0/fileutils.rb:2255:in `copy'
+	from C:/Ruby32-x64/lib/ruby/3.2.0/fileutils.rb:1058:in `block in copy_entry'
+	from C:/Ruby32-x64/lib/ruby/3.2.0/fileutils.rb:2397:in `wrap_traverse'
+	from C:/Ruby32-x64/lib/ruby/3.2.0/fileutils.rb:1055:in `copy_entry'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/jekyll-4.3.3/lib/jekyll/static_file.rb:197:in `copy_file'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/jekyll-4.3.3/lib/jekyll/static_file.rb:107:in `write'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/jekyll-4.3.3/lib/jekyll/site.rb:231:in `block in write'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/jekyll-4.3.3/lib/jekyll/site.rb:364:in `block in each_site_file'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/jekyll-4.3.3/lib/jekyll/site.rb:364:in `each'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/jekyll-4.3.3/lib/jekyll/site.rb:364:in `each_site_file'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/jekyll-4.3.3/lib/jekyll/site.rb:230:in `write'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/jekyll-4.3.3/lib/jekyll/site.rb:82:in `process'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/jekyll-4.3.3/lib/jekyll/command.rb:28:in `process_site'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/jekyll-4.3.3/lib/jekyll/commands/build.rb:65:in `build'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/jekyll-4.3.3/lib/jekyll/commands/build.rb:36:in `process'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/jekyll-4.3.3/lib/jekyll/command.rb:91:in `block in process_with_graceful_fail'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/jekyll-4.3.3/lib/jekyll/command.rb:91:in `each'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/jekyll-4.3.3/lib/jekyll/command.rb:91:in `process_with_graceful_fail'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/jekyll-4.3.3/lib/jekyll/commands/serve.rb:86:in `block (2 levels) in init_with_program'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `block in execute'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `each'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `execute'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in `go'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/mercenary-0.4.0/lib/mercenary.rb:21:in `program'
+	from C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/jekyll-4.3.3/exe/jekyll:15:in `<top (required)>'
+	from C:/Ruby32-x64/bin/jekyll:32:in `load'
+	from C:/Ruby32-x64/bin/jekyll:32:in `<main>'

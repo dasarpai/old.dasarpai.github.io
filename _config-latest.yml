@@ -129,11 +129,11 @@ author:
       url: "https://dasarpai.com"
       
     - label: "Gmail"
-      icon: "fab fa-fw fa-google"
+      icon: "fab fa-google"
       url: "mailto:hari.thapliyal@gmail.com"
       
     - label: "Email"
-      icon: "fab fa-envelope"
+      icon: "fa fa-envelope"
       url: "mailto:hari@dasarpai.com"
       
     - label: "StackOverflow"
@@ -145,11 +145,11 @@ author:
       url: "https://github.com/dasarpai"
       
     - label: "OrcID"
-      icon: "fab fa-fw fa-orcid"
+      icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0001-7907-865X"
       
     - label: "ResearchGate"
-      icon: "fab fa-fw fa-researchgate"
+      icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/hari-thapliyal"
       
     - label: "Instagram"
@@ -165,53 +165,45 @@ author:
       url: "https://www.facebook.com/dasarpai/"
       
     - label: "Discord"
-      icon: "fab fa-fw fa-discord"
+      icon: "fab fa-discord"
       url: "https://discord.com/channels/1024609561820278845/"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fab fa-solid fa-envelope"
       url: "mailto:hari@dasarpai.com"
       
     - label: "Website"
-      icon: "fab fa-fw fa-link"
+      icon: "fab fa-solid fa-link"
       url: "https://dasarpai.com"
       
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-solid fa-linkedin"
       url: "https://www.linkedin.com/in/harithapliyal/"
       
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-solid fa-github"
       url: "https://github.com/dasarpai"
       
     - label: "OrcID"
-      icon: "fab fa-fw fa-id-card"
+      icon: "fab fa-solid fa-id-card"
       url: "https://orcid.org/0000-0001-7907-865X"
       
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-solid fa-twitter-square"
       url: "https://twitter.com/dasarpai"
       
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "fab fa-solid fa-facebook-square"
       url: "https://instagram.com/dasarpai"
       
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-solid fa-instagram"
       url: "https://facebook.com/dasarpai"
 
-    - label: "Terms & Condition"
-      icon: "fab fa-fw fa-file-contract"
-      url: "/terms-of-service"
-      
-    - label: "Privacy Policy"
-      icon: "fab fa-fw fa-user-secret"
-      url: "/privacy"
-
-
+       
 # Reading Files
 include:
   - .htaccess
@@ -266,7 +258,6 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
@@ -302,56 +293,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-
 
 
 # Defaults
@@ -604,58 +545,58 @@ defaults:
 collections:
   gk:
     output: true
-    permalink: /gk/:categories/:title/
+    permalink: /:categories/:title/
 
   corpus:
     output: true
-    permalink: /corpus/:categories/:title/
+    permalink: /:categories/:title/
 
   dslexicon:
     output: true
-    permalink: /dslexicon/:categories/:title/
+    permalink: /:categories/:title/
   dsblog:
     output: true
-    permalink: /dsblog/:categories/:title/
+    permalink: /:categories/:title/
  
   dsresources:
     output: true
-    permalink: /dsresources/:categories/:title/
+    permalink: /:categories/:title/
   dscourses:
     output: true
-    permalink: /dscourses/:categories/:title/
+    permalink: /:categories/:title/
     
   quotations:
     output: true
-    permalink: /quotations/:categories/:title/
+    permalink: /:categories/:title/
   wiablog:
     output: true
-    permalink: /wiablog/:categories/:title/
+    permalink: /:categories/:title/
  
   pmblog:
     output: true
-    permalink: /pmblog/:categories/:title/
+    permalink: /:categories/:title/
   management:
     output: true
-    permalink: /management/:categories/:title/  
+    permalink: /:categories/:title/  
   pmbok6:
     output: true
-    permalink: /pmbok6/:categories/:title/
+    permalink: /:categories/:title/
   pmbok6hi:
     output: true
-    permalink: /pmbok6hi/:categories/:title/
+    permalink: /:categories/:title/
 
   samskrut:
     output: true
-    permalink: /samskrut/:categories/:title/
+    permalink: /:categories/:title/
     
   gallery:
     output: true
-    permalink: /gallery/:categories/:title/
+    permalink: /:categories/:title/
 
   projects:
     output: true
-    permalink: /projects/:categories/:title/
-
+    permalink: /:categories/:title/
+    
 # Code below is creating some problem. For debugging seperating this.
 
 # Conversion
@@ -690,8 +631,7 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-    
-    
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -707,4 +647,3 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  

@@ -3,7 +3,7 @@ id: 855
 title: "Book: Adi Parva Explorations : Mahabharata Book 1"
 layout: single
 toc_sticky: true
-permalink: /mahabharata-adi-parva-exploration-with-qa
+permalink: /mahabharat/mahabharata-adi-parva-exploration-with-qa
 date: 2024-01-04
 tags: [Publications]
 header:

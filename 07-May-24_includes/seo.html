@@ -63,6 +63,11 @@
 <meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
 <meta property="og:url" content="{{ canonical_url }}">
 
+<!-- Keywords block added by Hari -->
+{% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords }}">
+{% endif %}
+
 {% if seo_description %}
   <meta property="og:description" content="{{ seo_description }}">
 {% endif %}
