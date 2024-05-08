@@ -1,6 +1,6 @@
 --- 
 id: 5059
-mathjax: true  
+
 title: About Forgiveness
 date: "2017-09-24T08:33:00+05:30"
 permalink: /wiaposts/about-forgiveness

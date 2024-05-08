@@ -1,6 +1,6 @@
 --- 
 id: 5196
-mathjax: true  
+
 title: Solution of a Problem
 date: "2022-07-26T08:33:00+05:30"
 permalink: /wiaposts/solution-of-a-problem

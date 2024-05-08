@@ -1,6 +1,6 @@
 --- 
 id: 5080
-mathjax: true  
+
 title: God Is My Savior
 date: "2018-09-14T08:33:00+05:30"
 permalink: /wiaposts/god-is-my-savior

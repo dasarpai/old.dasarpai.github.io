@@ -1,6 +1,6 @@
 --- 
 id: 5038
-mathjax: true  
+
 title: About Free Will
 date: "2017-02-03T08:33:00+05:30"
 permalink: /wiaposts/about-free-will

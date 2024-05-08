@@ -1,6 +1,6 @@
 --- 
 id: 5025
-mathjax: true  
+
 title: My Creator
 date: "2016-08-02T08:33:00+05:30"
 permalink: /wiaposts/my-creator

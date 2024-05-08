@@ -1,6 +1,6 @@
 --- 
 id: 5111
-mathjax: true  
+
 title: Dissolving A Drop In The Ocean
 date: "2019-11-10T08:33:00+05:30"
 permalink: /wiaposts/dissolving-a-drop-in-the-ocean

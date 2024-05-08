@@ -1,6 +1,6 @@
 --- 
 id: 5112
-mathjax: true  
+
 title: Human Faith and Need Of God
 date: "2019-11-20T08:33:00+05:30"
 permalink: /wiaposts/human-faith-and-need-of-god

@@ -1,6 +1,6 @@
 --- 
 id: 5164
-mathjax: true  
+
 title: Human Peace
 date: "2021-07-05T08:33:00+05:30"
 permalink: /wiaposts/human-peace

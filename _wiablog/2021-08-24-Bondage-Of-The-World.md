@@ -1,6 +1,6 @@
 --- 
 id: 5168
-mathjax: true  
+
 title: Bondage of the World
 date: "2021-08-24T08:33:00+05:30"
 permalink: /wiaposts/bondage-of-the-world

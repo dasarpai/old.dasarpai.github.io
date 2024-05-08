@@ -1,6 +1,6 @@
 --- 
 id: 5087
-mathjax: true  
+
 title: Who Killed Tantra
 date: "2018-12-06T08:33:00+05:30"
 permalink: /wiaposts/who-killed-tantra

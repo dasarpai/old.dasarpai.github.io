@@ -1,6 +1,6 @@
 --- 
 id: 5018
-mathjax: true  
+
 title: Questions About Meditation
 date: "2016-05-27T08:33:00+05:30"
 permalink: /wiaposts/questions-about-meditation

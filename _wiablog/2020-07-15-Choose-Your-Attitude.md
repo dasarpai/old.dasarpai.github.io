@@ -1,6 +1,6 @@
 --- 
 id: 5132
-mathjax: true  
+
 title: Choose Your Attitude
 date: "2020-07-15T08:33:00+05:30"
 permalink: /wiaposts/choose-your-attitude

@@ -1,6 +1,6 @@
 --- 
 id: 5069
-mathjax: true  
+
 title: The Root Of Body Mass
 date: "2018-02-27T08:33:00+05:30"
 permalink: /wiaposts/the-root-of-body-mass

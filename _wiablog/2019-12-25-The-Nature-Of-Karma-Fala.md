@@ -1,6 +1,6 @@
 --- 
 id: 5114
-mathjax: true  
+
 title: The Nature Of Karma Fala
 date: "2019-12-25T08:33:00+05:30"
 permalink: /wiaposts/the-nature-of-karma-fala

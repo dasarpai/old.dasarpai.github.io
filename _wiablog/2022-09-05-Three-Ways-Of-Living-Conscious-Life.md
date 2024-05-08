@@ -1,6 +1,6 @@
 --- 
 id: 5199
-mathjax: true  
+
 title: Three ways of living conscious life
 date: "2022-09-05T08:33:00+05:30"
 permalink: /wiaposts/three-ways-of-living-conscious-life

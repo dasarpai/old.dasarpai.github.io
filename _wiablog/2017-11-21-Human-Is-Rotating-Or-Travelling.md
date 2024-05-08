@@ -1,6 +1,6 @@
 --- 
 id: 5063
-mathjax: true  
+
 title: Human Is Rotating Or Travelling
 date: "2017-11-21T08:33:00+05:30"
 permalink: /wiaposts/human-is-rotating-or-travelling

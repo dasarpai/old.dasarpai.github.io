@@ -1,6 +1,6 @@
 --- 
 id: 5043
-mathjax: true  
+
 title: How To Acquire New Skills
 date: "2017-03-19T08:33:00+05:30"
 permalink: /wiaposts/how-to-acquire-new-skills

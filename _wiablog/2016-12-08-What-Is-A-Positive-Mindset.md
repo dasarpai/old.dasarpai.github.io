@@ -1,6 +1,6 @@
 --- 
 id: 5034
-mathjax: true  
+
 title: What Is A Positive Mindset
 date: "2016-12-08T08:33:00+05:30"
 permalink: /wiaposts/what-is-a-positive-mindset

@@ -1,6 +1,6 @@
 --- 
 id: 5140
-mathjax: true  
+
 title: Hinduism And Celibacy
 date: "2020-11-08T08:33:00+05:30"
 permalink: /wiaposts/hinduism-and-celibacy

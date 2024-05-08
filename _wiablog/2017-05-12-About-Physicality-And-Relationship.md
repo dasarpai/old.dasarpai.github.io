@@ -1,6 +1,6 @@
 --- 
 id: 5048
-mathjax: true  
+
 title: About Physicality And Relationship
 date: "2017-05-12T08:33:00+05:30"
 permalink: /wiaposts/about-physicality-and-relationship

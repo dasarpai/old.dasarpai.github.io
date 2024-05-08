@@ -1,6 +1,6 @@
 --- 
 id: 5022
-mathjax: true  
+
 title: The Mind Is Friend Or Enemy
 date: "2016-07-10T08:33:00+05:30"
 permalink: /wiaposts/the-mind-is-friend-or-enemy

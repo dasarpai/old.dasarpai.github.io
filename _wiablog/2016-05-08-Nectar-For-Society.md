@@ -1,6 +1,6 @@
 --- 
 id: 5017
-mathjax: true  
+
 title: Nectar For Society
 date: "2016-05-08T08:33:00+05:30"
 permalink: /wiaposts/nectar-for-society

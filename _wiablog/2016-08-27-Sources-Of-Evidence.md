@@ -1,6 +1,6 @@
 --- 
 id: 5028
-mathjax: true  
+
 title: Sources Of Evidence
 date: "2016-08-27T08:33:00+05:30"
 permalink: /wiaposts/sources-of-evidence

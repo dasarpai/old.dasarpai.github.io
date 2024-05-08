@@ -1,6 +1,6 @@
 --- 
 id: 5075
-mathjax: true  
+
 title: Happy Deepawali 2019
 date: "2018-06-17T08:33:00+05:30"
 permalink: /wiaposts/happy-deepawali-2019

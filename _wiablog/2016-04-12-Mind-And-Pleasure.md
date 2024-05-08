@@ -1,6 +1,6 @@
 --- 
 id: 5015
-mathjax: true  
+
 title: Mind And Pleasure
 date: "2016-04-12T08:33:00+05:30"
 permalink: /wiaposts/mind-and-pleasure

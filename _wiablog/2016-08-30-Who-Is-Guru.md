@@ -1,6 +1,6 @@
 --- 
 id: 5029
-mathjax: true  
+
 title: Who Is Guru
 date: "2016-08-30T08:33:00+05:30"
 permalink: /wiaposts/who-is-guru

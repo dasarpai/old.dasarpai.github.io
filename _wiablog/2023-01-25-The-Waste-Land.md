@@ -1,6 +1,6 @@
 ---                            
 id: 5219                            
-mathjax: true                            
+                          
 title:  The Waste Land                    
 date: "2023-01-25T08:33:00+05:30"                            
 permalink: /wiaposts/The-Waste-Land                       

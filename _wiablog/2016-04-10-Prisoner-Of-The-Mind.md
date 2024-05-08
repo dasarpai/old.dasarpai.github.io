@@ -1,6 +1,6 @@
 --- 
 id: 5014
-mathjax: true  
+
 title: Prisoner Of The Mind
 date: "2016-04-10T08:33:00+05:30"
 permalink: /wiaposts/prisoner-of-the-mind

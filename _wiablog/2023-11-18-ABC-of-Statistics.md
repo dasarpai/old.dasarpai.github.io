@@ -1,6 +1,6 @@
 ---        
 id: 5237        
-mathjax: true        
+      
 title:  ABC of Statistics          
 date: "2023-11-18T08:33:00+05:30"        
 permalink: /wiaposts/ABC-of-Statistics      

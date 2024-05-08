@@ -1,6 +1,6 @@
 ---        
 id: 5239        
-mathjax: true        
+      
 title: Language, Script and Devanagari          
 date: "2023-11-28T08:33:00+05:30"        
 permalink: /wiaposts/Language-Script-and-Devanagari      

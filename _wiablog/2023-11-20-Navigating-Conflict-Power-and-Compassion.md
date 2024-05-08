@@ -1,6 +1,6 @@
 ---        
 id: 5238        
-mathjax: true        
+      
 title:  Navigating Conflict, Power, and Compassion          
 date: "2023-11-20T08:33:00+05:30"        
 permalink: /wiaposts/Navigating-Conflict-Power-and-Compassion     

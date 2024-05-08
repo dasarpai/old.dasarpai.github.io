@@ -1,6 +1,6 @@
 --- 
 id: 5062
-mathjax: true  
+
 title: What Is Violence
 date: "2017-11-15T08:33:00+05:30"
 permalink: /wiaposts/what-is-violence

@@ -1,6 +1,6 @@
 --- 
 id: 5081
-mathjax: true  
+
 title: When To Reincarnate?
 date: "2018-10-05T08:33:00+05:30"
 permalink: /wiaposts/when-to-reincarnate

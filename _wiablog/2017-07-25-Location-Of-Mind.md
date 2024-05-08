@@ -1,6 +1,6 @@
 --- 
 id: 5054
-mathjax: true  
+
 title: Location Of Mind
 date: "2017-07-25T08:33:00+05:30"
 permalink: /wiaposts/location-of-mind

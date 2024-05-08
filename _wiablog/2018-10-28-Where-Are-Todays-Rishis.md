@@ -1,6 +1,6 @@
 --- 
 id: 5083
-mathjax: true  
+
 title: Where Are Todays Rishis
 date: "2018-10-28T08:33:00+05:30"
 permalink: /wiaposts/where-are-todays-rishis

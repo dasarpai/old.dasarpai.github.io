@@ -1,6 +1,6 @@
 --- 
 id: 5088
-mathjax: true  
+
 title: About Indian Secularism
 date: "2018-12-16T08:33:00+05:30"
 permalink: /wiaposts/about-indian-secularism

@@ -1,6 +1,6 @@
 --- 
 id: 5024
-mathjax: true  
+
 title: About Relationship
 date: "2016-07-26T08:33:00+05:30"
 permalink: /wiaposts/about-relationship

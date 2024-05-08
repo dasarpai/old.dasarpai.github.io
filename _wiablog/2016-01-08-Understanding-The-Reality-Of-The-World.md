@@ -1,6 +1,6 @@
 --- 
 id: 5006
-mathjax: true  
+
 title: Understanding The Reality Of The World
 date: "2016-01-08T08:33:00+05:30"
 permalink: /wiaposts/understanding-the-reality-of-the-world

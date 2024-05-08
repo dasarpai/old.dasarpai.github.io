@@ -1,6 +1,6 @@
 --- 
 id: 5200
-mathjax: true  
+
 title: Jeevan Mukta
 date: "2022-09-29T08:33:00+05:30"
 permalink: /wiaposts/jeevan-mukta

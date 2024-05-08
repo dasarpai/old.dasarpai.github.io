@@ -1,6 +1,6 @@
 --- 
 id: 5001
-mathjax: true  
+
 title: Greetings For New Year 2013
 date: '2013-01-01T08:33:00+05:30'
 permalink: /wiaposts/greetings-for-new-year-2013

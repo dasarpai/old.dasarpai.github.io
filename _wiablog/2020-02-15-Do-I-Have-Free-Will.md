@@ -1,6 +1,6 @@
 --- 
 id: 5118
-mathjax: true  
+
 title: Do I Have Free Will?
 date: "2020-02-15T08:33:00+05:30"
 permalink: /wiaposts/do-i-have-free-will

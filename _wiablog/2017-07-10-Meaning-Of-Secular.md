@@ -1,6 +1,6 @@
 --- 
 id: 5052
-mathjax: true  
+
 title: Meaning Of Secular
 date: "2017-07-10T08:33:00+05:30"
 permalink: /wiaposts/meaning-of-secular

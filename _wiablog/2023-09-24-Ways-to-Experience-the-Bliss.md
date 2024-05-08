@@ -1,6 +1,6 @@
 ---        
 id: 5235        
-mathjax: true        
+      
 title:  Ways to Experience the Bliss          
 date: "2023-09-24T08:33:00+05:30"        
 permalink: /wiaposts/Ways-to-Experience-the-Bliss      

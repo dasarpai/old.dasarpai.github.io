@@ -1,6 +1,6 @@
 --- 
 id: 5012
-mathjax: true  
+
 title: About Shoonya Zero
 date: "2016-03-02T08:33:00+05:30"
 permalink: /wiaposts/about-shoonya-zero

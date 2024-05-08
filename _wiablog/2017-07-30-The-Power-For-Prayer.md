@@ -1,6 +1,6 @@
 --- 
 id: 5055
-mathjax: true  
+
 title: The Power For Prayer
 date: "2017-07-30T08:33:00+05:30"
 permalink: /wiaposts/the-power-for-prayer

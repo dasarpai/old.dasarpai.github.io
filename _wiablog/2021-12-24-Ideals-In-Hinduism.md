@@ -1,6 +1,6 @@
 --- 
 id: 5176
-mathjax: true  
+
 title: Ideals in Hinduism
 date: "2021-12-24T08:33:00+05:30"
 permalink: /wiaposts/ideals-in-hinduism

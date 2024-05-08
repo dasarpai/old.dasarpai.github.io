@@ -1,6 +1,6 @@
 --- 
 id: 5179
-mathjax: true  
+
 title: Why is life complex?
 date: "2022-01-24T08:33:00+05:30"
 permalink: /wiaposts/why-is-life-complex

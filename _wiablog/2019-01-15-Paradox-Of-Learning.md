@@ -1,6 +1,6 @@
 --- 
 id: 5090
-mathjax: true  
+
 title: Paradox Of Learning
 date: "2019-01-15T08:33:00+05:30"
 permalink: /wiaposts/paradox-of-learning

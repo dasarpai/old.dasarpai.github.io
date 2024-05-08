@@ -1,6 +1,6 @@
 --- 
 id: 5042
-mathjax: true  
+
 title: Characteristics Of A Divinely Person
 date: "2017-03-12T08:33:00+05:30"
 permalink: /wiaposts/characteristics-of-a-divinely-person

@@ -1,6 +1,6 @@
 --- 
 id: 5185
-mathjax: true  
+
 title: Paapam and Punyam in Awareness
 date: "2022-04-12T08:33:00+05:30"
 permalink: /wiaposts/paapam-and-punyam-in-awareness

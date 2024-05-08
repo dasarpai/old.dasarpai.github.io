@@ -125,7 +125,7 @@ author:
       url: "https://www.linkedin.com/in/harithapliyal/"
       
     - label: "Website"
-      icon: "fab fa-fw fa-link"
+      icon: "fab fa-solid fa-link"
       url: "https://dasarpai.com"
       
     - label: "Gmail"
@@ -133,7 +133,7 @@ author:
       url: "mailto:hari.thapliyal@gmail.com"
       
     - label: "Email"
-      icon: "fab fa-envelope"
+      icon: "fab fa-solid fa-envelope"
       url: "mailto:hari@dasarpai.com"
       
     - label: "StackOverflow"
@@ -166,7 +166,7 @@ author:
       
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
-      url: "https://discord.com/channels/1024609561820278845/"
+      url: "https://discord.com/channels/1194908486153285712"
 
 # Site Footer
 footer:
@@ -407,7 +407,7 @@ defaults:
       path: "_dsblog"
       type: dsblog
     values:
-      layout: wiapost-layout
+      layout: dspost-layout
       author_profile: true
       read_time: true
       comments: true
@@ -421,7 +421,7 @@ defaults:
       path: "_wiablog"
       type: wiablog
     values:
-      layout: dspost-layout
+      layout: wiapost-layout
       author_profile: true
       read_time: true
       comments: true

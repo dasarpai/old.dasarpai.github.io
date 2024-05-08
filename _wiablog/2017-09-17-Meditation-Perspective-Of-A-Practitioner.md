@@ -1,6 +1,6 @@
 --- 
 id: 5058
-mathjax: true  
+
 title: Meditation Perspective Of A Practitioner
 date: "2017-09-17T08:33:00+05:30"
 permalink: /wiaposts/meditation-perspective-of-a-practitioner

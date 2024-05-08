@@ -1,6 +1,6 @@
 --- 
 id: 5139
-mathjax: true  
+
 title: What Is Love?
 date: "2020-10-17T08:33:00+05:30"
 permalink: /wiaposts/what-is-love

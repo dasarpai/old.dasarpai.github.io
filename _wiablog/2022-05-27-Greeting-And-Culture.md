@@ -1,6 +1,6 @@
 --- 
 id: 5190
-mathjax: true  
+
 title: Greeting and Culture
 date: "2022-05-27T08:33:00+05:30"
 permalink: /wiaposts/greeting-and-culture

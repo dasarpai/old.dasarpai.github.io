@@ -1,6 +1,6 @@
 --- 
 id: 5031
-mathjax: true  
+
 title: About Silence And Listening
 date: "2016-10-15T08:33:00+05:30"
 permalink: /wiaposts/about-silence-and-listening

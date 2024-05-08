@@ -1,6 +1,6 @@
 --- 
 id: 5175
-mathjax: true  
+
 title: Earlier Hindu Institutions and Today's Society
 date: "2021-12-12T08:33:00+05:30"
 permalink: /wiaposts/earlier-hindu-institutions-and-todays-society

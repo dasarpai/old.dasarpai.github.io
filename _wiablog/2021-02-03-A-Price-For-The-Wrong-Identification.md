@@ -1,6 +1,6 @@
 --- 
 id: 5146
-mathjax: true  
+
 title: A Price For The Wrong Identification
 date: "2021-02-03T08:33:00+05:30"
 permalink: /wiaposts/a-price-for-the-wrong-identification

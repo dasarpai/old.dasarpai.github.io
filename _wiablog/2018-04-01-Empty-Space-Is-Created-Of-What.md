@@ -1,6 +1,6 @@
 --- 
 id: 5071
-mathjax: true  
+
 title: Empty Space Is Created Of What?
 date: "2018-04-01T08:33:00+05:30"
 permalink: /wiaposts/empty-space-is-created-of-what

@@ -1,6 +1,6 @@
 ---        
 id: 5233        
-mathjax: true        
+      
 title:  Questioning & Answering (Problem Solving)         
 date: "2023-09-04T08:33:00+05:30"        
 permalink: /wiaposts/Question-Answering-Problem-Solving      

@@ -1,6 +1,6 @@
 ---        
 id: 5244        
-mathjax: true        
+      
 title:   Life Process          
 date: "2023-12-28T08:33:00+05:30"        
 permalink: /wiaposts/life-is-a-process      

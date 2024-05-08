@@ -1,6 +1,6 @@
 ---  
 id: 5250  
-mathjax: true  
+
 title:  2024 Elections and Life After  
 date: "2024-05-03T08:33:00+05:30"  
 permalink: /wiaposts/2024-Elections-and-Life-After

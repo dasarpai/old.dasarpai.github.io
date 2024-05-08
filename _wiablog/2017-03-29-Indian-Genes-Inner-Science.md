@@ -1,6 +1,6 @@
 --- 
 id: 5045
-mathjax: true  
+
 title: Indian Genes Inner Science
 date: "2017-03-29T08:33:00+05:30"
 permalink: /wiaposts/indian-genes-inner-science

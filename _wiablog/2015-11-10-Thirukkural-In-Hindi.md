@@ -1,6 +1,6 @@
 --- 
 id: 5002
-mathjax: true  
+
 title: Thirukkural In Hindi
 date: "2015-11-10T08:33:00+05:30"
 permalink: /wiaposts/thirukkural-in-hindi

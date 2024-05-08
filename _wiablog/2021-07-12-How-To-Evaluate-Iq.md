@@ -1,6 +1,6 @@
 --- 
 id: 5165
-mathjax: true  
+
 title: How to Evaluate IQ
 date: "2021-07-12T08:33:00+05:30"
 permalink: /wiaposts/how-to-evaluate-iq

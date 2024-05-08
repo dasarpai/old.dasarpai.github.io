@@ -1,6 +1,6 @@
 --- 
 id: 5077
-mathjax: true  
+
 title: Nothing Becoming Everything
 date: "2018-08-04T08:33:00+05:30"
 permalink: /wiaposts/nothing-becoming-everything

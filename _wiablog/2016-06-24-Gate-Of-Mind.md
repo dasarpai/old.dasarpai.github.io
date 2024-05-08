@@ -1,6 +1,6 @@
 --- 
 id: 5021
-mathjax: true  
+
 title: Gate Of Mind
 date: "2016-06-24T08:33:00+05:30"
 permalink: /wiaposts/gate-of-mind

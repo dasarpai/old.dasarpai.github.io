@@ -1,6 +1,6 @@
 --- 
 id: 5082
-mathjax: true  
+
 title: Understanding Maya
 date: "2018-10-12T08:33:00+05:30"
 permalink: /wiaposts/understanding-maya

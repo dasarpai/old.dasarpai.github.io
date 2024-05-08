@@ -1,6 +1,6 @@
 --- 
 id: 5036
-mathjax: true  
+
 title: Which Metrics Does Really Matter?
 date: "2017-01-19T08:33:00+05:30"
 permalink: /wiaposts/which-metrics-does-really-matter

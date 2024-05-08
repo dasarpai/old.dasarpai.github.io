@@ -1,6 +1,6 @@
 --- 
 id: 5013
-mathjax: true  
+
 title: About Responsibility
 date: "2016-03-20T08:33:00+05:30"
 permalink: /wiaposts/about-responsibility

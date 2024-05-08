@@ -1,6 +1,6 @@
 --- 
 id: 5085
-mathjax: true  
+
 title: Where Is The Focus Of Hindus?
 date: "2018-11-05T08:33:00+05:30"
 permalink: /wiaposts/where-is-the-focus-of-hindus

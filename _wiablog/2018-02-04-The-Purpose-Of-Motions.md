@@ -1,6 +1,6 @@
 --- 
 id: 5068
-mathjax: true  
+
 title: The Purpose Of Motions
 date: "2018-02-04T08:33:00+05:30"
 permalink: /wiaposts/the-purpose-of-motions

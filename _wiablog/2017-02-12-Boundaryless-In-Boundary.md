@@ -1,6 +1,6 @@
 --- 
 id: 5039
-mathjax: true  
+
 title: Boundaryless In Boundary
 date: "2017-02-12T08:33:00+05:30"
 permalink: /wiaposts/boundaryless-in-boundary

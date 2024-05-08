@@ -1,6 +1,6 @@
 --- 
 id: 5086
-mathjax: true  
+
 title: Who Is Really Sleeping?
 date: "2018-11-26T08:33:00+05:30"
 permalink: /wiaposts/who-is-really-sleeping

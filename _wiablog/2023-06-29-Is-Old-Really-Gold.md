@@ -1,6 +1,6 @@
 ---    
 id: 5230
-mathjax: true    
+  
 title:  Is old really Gold?      
 date: "2023-06-29T08:33:00+05:30"    
 permalink: /wiaposts/Is-old-really-Gold   

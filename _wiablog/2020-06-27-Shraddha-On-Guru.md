@@ -1,6 +1,6 @@
 --- 
 id: 5130
-mathjax: true  
+
 title: Shraddha On Guru
 date: "2020-06-27T08:33:00+05:30"
 permalink: /wiaposts/shraddha-on-guru

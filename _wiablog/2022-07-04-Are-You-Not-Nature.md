@@ -1,6 +1,6 @@
 --- 
 id: 5192
-mathjax: true  
+
 title: Are you not Nature?
 date: "2022-07-04T08:33:00+05:30"
 permalink: /wiaposts/are-you-not-nature

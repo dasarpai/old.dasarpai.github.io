@@ -1,6 +1,6 @@
 --- 
 id: 5128
-mathjax: true  
+
 title: Thinking In Human Vs Computers
 date: "2020-05-24T08:33:00+05:30"
 permalink: /wiaposts/thinking-in-human-vs-computers

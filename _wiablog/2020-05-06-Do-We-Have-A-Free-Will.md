@@ -1,6 +1,6 @@
 --- 
 id: 5125
-mathjax: true  
+
 title: Do We Have A Free Will
 date: "2020-05-06T08:33:00+05:30"
 permalink: /wiaposts/do-we-have-a-free-will

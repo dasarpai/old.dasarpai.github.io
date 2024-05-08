@@ -1,6 +1,6 @@
 --- 
 id: 5171
-mathjax: true  
+
 title: Awareness and Consciousness
 date: "2021-09-29T08:33:00+05:30"
 permalink: /wiaposts/awareness-and-consciousness

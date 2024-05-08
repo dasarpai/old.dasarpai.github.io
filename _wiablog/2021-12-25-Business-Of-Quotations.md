@@ -1,6 +1,6 @@
 --- 
 id: 5177
-mathjax: true  
+
 title: Business of Quotations
 date: "2021-12-25T08:33:00+05:30"
 permalink: /wiaposts/business-of-quotations

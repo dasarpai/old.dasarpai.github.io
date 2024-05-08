@@ -1,6 +1,6 @@
 --- 
 id: 5061
-mathjax: true  
+
 title: Leadership In Troubled Time
 date: "2017-10-30T08:33:00+05:30"
 permalink: /wiaposts/leadership-in-troubled-time

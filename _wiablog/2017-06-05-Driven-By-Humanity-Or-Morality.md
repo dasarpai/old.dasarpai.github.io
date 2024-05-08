@@ -1,6 +1,6 @@
 --- 
 id: 5050
-mathjax: true  
+
 title: Driven By Humanity Or Morality
 date: "2017-06-05T08:33:00+05:30"
 permalink: /wiaposts/driven-by-humanity-or-morality

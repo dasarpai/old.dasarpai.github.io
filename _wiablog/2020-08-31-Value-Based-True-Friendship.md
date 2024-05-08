@@ -1,6 +1,6 @@
 --- 
 id: 5135
-mathjax: true  
+
 title: Value Based True Friendship
 date: "2020-08-31T08:33:00+05:30"
 permalink: /wiaposts/value-based-true-friendship

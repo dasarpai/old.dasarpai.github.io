@@ -1,6 +1,6 @@
 --- 
 id: 5095
-mathjax: true  
+
 title: Eyes On The Ground
 date: "2019-04-15T08:33:00+05:30"
 permalink: /wiaposts/eyes-on-the-ground

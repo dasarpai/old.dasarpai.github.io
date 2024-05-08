@@ -1,6 +1,6 @@
 --- 
 id: 5041
-mathjax: true  
+
 title: Journey Of The Siddhartha
 date: "2017-03-11T08:33:00+05:30"
 permalink: /wiaposts/journey-of-the-siddhartha

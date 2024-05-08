@@ -1,6 +1,6 @@
 --- 
 id: 5092
-mathjax: true  
+
 title: Four Ways Or One Way
 date: "2019-02-27T08:33:00+05:30"
 permalink: /wiaposts/four-ways-or-one-way

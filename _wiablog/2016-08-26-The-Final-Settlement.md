@@ -1,6 +1,6 @@
 --- 
 id: 5027
-mathjax: true  
+
 title: The Final Settlement
 date: "2016-08-26T08:33:00+05:30"
 permalink: /wiaposts/the-final-settlement

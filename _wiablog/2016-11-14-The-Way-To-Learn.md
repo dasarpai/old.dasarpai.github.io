@@ -1,6 +1,6 @@
 --- 
 id: 5033
-mathjax: true  
+
 title: The Way To Learn
 date: "2016-11-14T08:33:00+05:30"
 permalink: /wiaposts/the-way-to-learn

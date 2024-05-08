@@ -1,6 +1,6 @@
 --- 
 id: 5186
-mathjax: true  
+
 title: Thinking and Feeling
 date: "2022-04-27T08:33:00+05:30"
 permalink: /wiaposts/thinking-and-feeling

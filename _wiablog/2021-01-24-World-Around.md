@@ -1,6 +1,6 @@
 --- 
 id: 5145
-mathjax: true  
+
 title: World Around
 date: "2021-01-24T08:33:00+05:30"
 permalink: /wiaposts/world-around

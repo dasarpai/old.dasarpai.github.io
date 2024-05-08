@@ -1,6 +1,6 @@
 --- 
 id: 5019
-mathjax: true  
+
 title: About Astika
 date: "2016-05-31T08:33:00+05:30"
 permalink: /wiaposts/about-astika

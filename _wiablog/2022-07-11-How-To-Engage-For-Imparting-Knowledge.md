@@ -1,6 +1,6 @@
 --- 
 id: 5193
-mathjax: true  
+
 title: How to Engage for Imparting Knowledge
 date: "2022-07-11T08:33:00+05:30"
 permalink: /wiaposts/how-to-engage-for-imparting-knowledge

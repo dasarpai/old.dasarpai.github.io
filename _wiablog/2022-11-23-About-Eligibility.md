@@ -1,6 +1,6 @@
 ---     
 id: 5203    
-mathjax: true      
+    
 title: About Eligibility    
 date: "2022-11-23T08:33:00+05:30"    
 permalink: /wiaposts/about-eligibility    

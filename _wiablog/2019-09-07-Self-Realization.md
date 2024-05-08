@@ -1,6 +1,6 @@
 --- 
 id: 5106
-mathjax: true  
+
 title: Self Realization
 date: "2019-09-07T08:33:00+05:30"
 permalink: /wiaposts/self-realization

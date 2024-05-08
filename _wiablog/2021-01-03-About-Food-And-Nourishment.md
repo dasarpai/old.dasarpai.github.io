@@ -1,6 +1,6 @@
 --- 
 id: 5143
-mathjax: true  
+
 title: About Food And Nourishment
 date: "2021-01-03T08:33:00+05:30"
 permalink: /wiaposts/about-food-and-nourishment

@@ -1,6 +1,6 @@
 --- 
 id: 5056
-mathjax: true  
+
 title: What Is CSR
 date: "2017-08-17T08:33:00+05:30"
 permalink: /wiaposts/what-is-csr

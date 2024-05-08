@@ -1,6 +1,6 @@
 --- 
 id: 5003
-mathjax: true  
+
 title: Who Is The Real Enemy Of A Hindu
 date: "2015-12-03T08:33:00+05:30"
 permalink: /wiaposts/who-is-the-real-enemy-of-a-hindu

@@ -1,6 +1,6 @@
 --- 
 id: 5133
-mathjax: true  
+
 title: Equation Of Arjunas Arrows
 date: "2020-08-03T08:33:00+05:30"
 permalink: /wiaposts/equation-of-arjunas-arrows

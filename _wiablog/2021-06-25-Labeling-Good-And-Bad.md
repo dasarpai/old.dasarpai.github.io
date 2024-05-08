@@ -1,6 +1,6 @@
 --- 
 id: 5163
-mathjax: true  
+
 title: Labeling Good and Bad
 date: "2021-06-25T08:33:00+05:30"
 permalink: /wiaposts/labeling-good-and-bad

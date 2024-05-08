@@ -1,6 +1,6 @@
 ---    
 id: 5221    
-mathjax: true    
+  
 title:  "Book Summary: The Power of Your Subconscious Mind"     
 date: "2023-04-20T08:33:00+05:30"    
 permalink: /wiaposts/Book-Summary-The-Power-of-Your-Subconscious-Mind   

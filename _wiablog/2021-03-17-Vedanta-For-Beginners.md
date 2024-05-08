@@ -1,6 +1,6 @@
 --- 
 id: 5149
-mathjax: true  
+
 title: Vedanta For Beginners
 date: "2021-03-17T08:33:00+05:30"
 permalink: /wiaposts/vedanta-for-beginners

@@ -1,6 +1,6 @@
 --- 
 id: 5115
-mathjax: true  
+
 title: Relevance Of Guru
 date: "2019-12-30T08:33:00+05:30"
 permalink: /wiaposts/relevance-of-guru

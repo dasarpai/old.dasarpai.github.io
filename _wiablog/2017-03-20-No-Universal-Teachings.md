@@ -1,6 +1,6 @@
 --- 
 id: 5044
-mathjax: true  
+
 title: No Universal Teachings
 date: "2017-03-20T08:33:00+05:30"
 permalink: /wiaposts/no-universal-teachings

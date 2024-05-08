@@ -1,6 +1,6 @@
 --- 
 id: 5007
-mathjax: true  
+
 title: Greetings For New Year 2017
 date: '2017-01-01T08:33:00+05:30'
 permalink: /wiaposts/greetings-for-new-year-2017

@@ -1,6 +1,6 @@
 ---    
 id: 5208    
-mathjax: true    
+  
 title: The Way of Learning    
 date: "2022-12-19T08:33:00+05:30"    
 permalink: /wiaposts/The-Way-of-Learning    

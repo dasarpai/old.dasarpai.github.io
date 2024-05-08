@@ -1,6 +1,6 @@
 --- 
 id: 5105
-mathjax: true  
+
 title: Relationship Of No Relations
 date: "2019-09-05T08:33:00+05:30"
 permalink: /wiaposts/relationship-of-no-relations

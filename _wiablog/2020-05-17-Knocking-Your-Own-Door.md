@@ -1,6 +1,6 @@
 --- 
 id: 5127
-mathjax: true  
+
 title: Knocking Your Own Door
 date: "2020-05-17T08:33:00+05:30"
 permalink: /wiaposts/knocking-your-own-door

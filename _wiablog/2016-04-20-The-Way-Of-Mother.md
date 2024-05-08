@@ -1,6 +1,6 @@
 --- 
 id: 5016
-mathjax: true  
+
 title: The Way Of Mother
 date: "2016-04-20T08:33:00+05:30"
 permalink: /wiaposts/the-way-of-mother

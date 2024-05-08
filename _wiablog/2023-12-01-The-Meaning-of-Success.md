@@ -1,6 +1,6 @@
 ---        
 id: 5240        
-mathjax: true        
+      
 title:  The Meaning of Success          
 date: "2023-12-01T08:33:00+05:30"        
 permalink: /wiaposts/The-Meaning-of-Success        

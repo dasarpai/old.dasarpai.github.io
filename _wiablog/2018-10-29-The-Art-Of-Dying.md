@@ -1,6 +1,6 @@
 --- 
 id: 5084
-mathjax: true  
+
 title: The Art Of Dying
 date: "2018-10-29T08:33:00+05:30"
 permalink: /wiaposts/the-art-of-dying

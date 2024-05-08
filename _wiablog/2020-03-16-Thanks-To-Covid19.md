@@ -1,6 +1,6 @@
 --- 
 id: 5100
-mathjax: true  
+
 title: Thanks To Covid19
 date: '2020-03-16T08:33:00+05:30'
 permalink: /wiaposts/thanks-to-covid19

@@ -1,6 +1,6 @@
 --- 
 id: 5187
-mathjax: true  
+
 title: Effect of Maya
 date: "2022-04-30T08:33:00+05:30"
 permalink: /wiaposts/effect-of-maya

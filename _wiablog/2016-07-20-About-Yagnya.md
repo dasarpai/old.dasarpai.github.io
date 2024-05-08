@@ -1,6 +1,6 @@
 --- 
 id: 5023
-mathjax: true  
+
 title: About Yagnya
 date: "2016-07-20T08:33:00+05:30"
 permalink: /wiaposts/about-yagnya

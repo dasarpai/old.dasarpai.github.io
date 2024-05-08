@@ -1,6 +1,6 @@
 --- 
 id: 5051
-mathjax: true  
+
 title: Religion Of Humanity
 date: "2017-06-24T08:33:00+05:30"
 permalink: /wiaposts/religion-of-humanity

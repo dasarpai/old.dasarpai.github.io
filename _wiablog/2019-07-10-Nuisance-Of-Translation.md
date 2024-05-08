@@ -1,6 +1,6 @@
 --- 
 id: 5101
-mathjax: true  
+
 title: Nuisance Of Translation
 date: "2019-07-10T08:33:00+05:30"
 permalink: /wiaposts/nuisance-of-translation

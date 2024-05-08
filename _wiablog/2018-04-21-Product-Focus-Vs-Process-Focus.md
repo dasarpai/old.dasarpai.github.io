@@ -1,6 +1,6 @@
 --- 
 id: 5072
-mathjax: true  
+
 title: Product Focus Vs Process Focus
 date: "2018-04-21T08:33:00+05:30"
 permalink: /wiaposts/product-focus-vs-process-focus

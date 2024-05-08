@@ -1,6 +1,6 @@
 ---        
 id: 5228        
-mathjax: true        
+      
 title:  Pain and Suffering          
 date: "2023-04-29T08:33:00+05:30"        
 permalink: /wiaposts/Pain-and-Suffering        

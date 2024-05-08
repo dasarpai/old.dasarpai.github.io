@@ -1,6 +1,6 @@
 ---    
 id: 5224    
-mathjax: true    
+  
 title:  Is Dying Painful?    
 date: "2023-04-22T08:33:00+05:30"    
 permalink: /wiaposts/Is-Dying-Painful

@@ -1,6 +1,6 @@
 --- 
 id: 5134
-mathjax: true  
+
 title: Universal Culture
 date: "2020-08-12T08:33:00+05:30"
 permalink: /wiaposts/universal-culture

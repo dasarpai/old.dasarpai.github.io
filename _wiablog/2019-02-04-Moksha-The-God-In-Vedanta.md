@@ -1,6 +1,6 @@
 --- 
 id: 5091
-mathjax: true  
+
 title: Moksha The God In Vedanta
 date: "2019-02-04T08:33:00+05:30"
 permalink: /wiaposts/moksha-the-god-in-vedanta

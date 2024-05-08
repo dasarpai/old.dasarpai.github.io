@@ -1,6 +1,6 @@
 --- 
 id: 5010
-mathjax: true  
+
 title: About Experience
 date: "2016-02-03T08:33:00+05:30"
 permalink: /wiaposts/about-experience

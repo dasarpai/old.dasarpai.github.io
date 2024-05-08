@@ -1,6 +1,6 @@
 ---     
 id: 5206    
-mathjax: true   
+ 
 title: Mind and Manas    
 date: "2022-12-14T08:33:00+05:30"    
 permalink: /wiaposts/mind-and-manas    

@@ -1,6 +1,6 @@
 --- 
 id: 5040
-mathjax: true  
+
 title: Positive And Negative Professions
 date: "2017-03-04T08:33:00+05:30"
 permalink: /wiaposts/positive-and-negative-professions

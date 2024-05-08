@@ -1,6 +1,6 @@
 --- 
 id: 5020
-mathjax: true  
+
 title: About Peace Or The Peace
 date: "2016-06-08T08:33:00+05:30"
 permalink: /wiaposts/about-peace-or-the-peace

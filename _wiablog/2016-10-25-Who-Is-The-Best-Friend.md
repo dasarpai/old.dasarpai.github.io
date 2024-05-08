@@ -1,6 +1,6 @@
 --- 
 id: 5032
-mathjax: true  
+
 title: Who Is The Best Friend?
 date: "2016-10-25T08:33:00+05:30"
 permalink: /wiaposts/who-is-the-best-friend

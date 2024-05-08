@@ -1,6 +1,6 @@
 --- 
 id: 5109
-mathjax: true  
+
 title: Love As A Service
 date: "2019-10-16T08:33:00+05:30"
 permalink: /wiaposts/love-as-a-service

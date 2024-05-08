@@ -8,7 +8,7 @@ tags: [ Concepts, Philosophy]
 categories: 
 header:
      teaser: /assets/images/wiapost/5009-Who-Is-The-Doer.jpg
-mathjax: true  
+
 author: Hari Thapliyaal 
 layout: wiapost-layout 
 excerpt:  

@@ -1,6 +1,6 @@
 --- 
 id: 5035
-mathjax: true  
+
 title: Human And His Faith
 date: "2016-12-31T08:33:00+05:30"
 permalink: /wiaposts/human-and-his-faith

@@ -1,6 +1,6 @@
 --- 
 id: 5011
-mathjax: true  
+
 title: An Example Of Web Of Problems
 date: "2016-02-25T08:33:00+05:30"
 permalink: /wiaposts/an-example-of-web-of-problems

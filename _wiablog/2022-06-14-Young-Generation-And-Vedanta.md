@@ -1,6 +1,6 @@
 --- 
 id: 5191
-mathjax: true  
+
 title: Young Generation and Vedanta
 date: "2022-06-14T08:33:00+05:30"
 permalink: /wiaposts/young-generation-and-vedanta

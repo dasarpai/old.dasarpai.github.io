@@ -1,6 +1,6 @@
 --- 
 id: 5060
-mathjax: true  
+
 title: Rider On Freedom
 date: "2017-10-08T08:33:00+05:30"
 permalink: /wiaposts/rider-on-freedom

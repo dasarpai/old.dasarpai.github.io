@@ -1,6 +1,6 @@
 --- 
 id: 5173
-mathjax: true  
+
 title: Helpless Krishna and Missing Arjuna
 date: "2021-11-12T08:33:00+05:30"
 permalink: /wiaposts/helpless-krishna-and-missing-arjuna

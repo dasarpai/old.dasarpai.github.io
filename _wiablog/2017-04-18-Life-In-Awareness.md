@@ -1,6 +1,6 @@
 --- 
 id: 5047
-mathjax: true  
+
 title: Life In Awareness
 date: "2017-04-18T08:33:00+05:30"
 permalink: /wiaposts/life-in-awareness

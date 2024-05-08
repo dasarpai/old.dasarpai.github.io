@@ -1,6 +1,6 @@
 --- 
 id: 5147
-mathjax: true  
+
 title: The Art Of Dying 2
 date: "2021-02-20T08:33:00+05:30"
 permalink: /wiaposts/the-art-of-dying-2

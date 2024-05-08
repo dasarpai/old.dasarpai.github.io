@@ -1,6 +1,6 @@
 ---  
 id: 5248  
-mathjax: true  
+
 title:  Definitions of Holi people  
 date: "2024-02-03T08:33:00+05:30"  
 permalink: /wiaposts/Definition-of-Holi-people  

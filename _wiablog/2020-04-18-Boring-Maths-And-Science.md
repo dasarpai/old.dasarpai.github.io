@@ -1,6 +1,6 @@
 --- 
 id: 5123
-mathjax: true  
+
 title: Boring Maths and Science
 date: "2020-04-18T08:33:00+05:30"
 permalink: /wiaposts/boring-maths-and-science

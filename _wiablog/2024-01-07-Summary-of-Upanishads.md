@@ -1,6 +1,6 @@
 ---            
 id: 5247            
-mathjax: true            
+          
 title:   Introduction to Upanishads              
 date: "2024-01-01T08:33:00+05:30"            
 permalink: /wiaposts/Introduction-to-Upanishads          

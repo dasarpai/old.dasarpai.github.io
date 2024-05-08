@@ -1,6 +1,6 @@
 --- 
 id: 5037
-mathjax: true  
+
 title: Who Is Ravana?
 date: "2017-01-29T08:33:00+05:30"
 permalink: /wiaposts/who-is-ravana

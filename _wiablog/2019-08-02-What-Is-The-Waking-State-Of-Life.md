@@ -1,6 +1,6 @@
 --- 
 id: 5102
-mathjax: true  
+
 title: What Is The Waking State Of Life?
 date: "2019-08-02T08:33:00+05:30"
 permalink: /wiaposts/what-is-the-waking-state-of-life
