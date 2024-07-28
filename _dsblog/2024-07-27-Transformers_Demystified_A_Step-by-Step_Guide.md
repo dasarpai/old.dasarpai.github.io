@@ -932,7 +932,7 @@ $$ PE(pos, 2i+1) = \cos\left(\frac{pos}{10000^{\frac{2i}{d_{\text{model}}}}}\rig
 Where:
 - pos is the position of the token in the sequence (starting from 0).
 - i is the dimension index (also starting from 0).
-- $d_{\text{model}}$ is the dimensionality of the embeddings.
+- $$d_{\text{model}}$$ is the dimensionality of the embeddings.
 
 ### Explanation
 
@@ -951,22 +951,22 @@ For $$ i = 1 $$:
 $$ PE(1, 1) = \cos\left(\frac{1}{10000^{\frac{0}{8}}}\right) = \cos\left(1\right) $$
 
 For $$ i = 2 $$:
-$$ PE(1, 2) = \sin\left(\frac{1}{10000^{\frac{2}{8}}}\right) = \sin\left(\frac{1}{100}\right) $$
+$$ PE(1, 2) = \sin\left(\frac{1}{10000^{\frac{2}{8}}}\right) = \sin\left(\frac{1}{10}\right) $$
 
 For $$ i = 3 $$:
-$$ PE(1, 3) = \cos\left(\frac{1}{10000^{\frac{2}{8}}}\right) = \cos\left(\frac{1}{100}\right) $$
+$$ PE(1, 3) = \cos\left(\frac{1}{10000^{\frac{2}{8}}}\right) = \cos\left(\frac{1}{10}\right) $$
 
 For $$ i = 4 $$:
-$$ PE(1, 4) = \sin\left(\frac{1}{10000^{\frac{4}{8}}}\right) = \sin\left(\frac{1}{10000}\right) $$
+$$ PE(1, 4) = \sin\left(\frac{1}{10000^{\frac{4}{8}}}\right) = \sin\left(\frac{1}{100}\right) $$
 
 For $$ i = 5 $$:
-$$ PE(1, 5) = \cos\left(\frac{1}{10000^{\frac{4}{8}}}\right) = \cos\left(\frac{1}{10000}\right) $$
+$$ PE(1, 5) = \cos\left(\frac{1}{10000^{\frac{4}{8}}}\right) = \cos\left(\frac{1}{100}\right) $$
 
 For $$ i = 6 $$:
-$$ PE(1, 6) = \sin\left(\frac{1}{10000^{\frac{6}{8}}}\right) = \sin\left(\frac{1}{1000000}\right) $$
+$$ PE(1, 6) = \sin\left(\frac{1}{10000^{\frac{6}{8}}}\right) = \sin\left(\frac{1}{1000}\right) $$
 
 For $$ i = 7 $$:
-$$ PE(1, 7) = \cos\left(\frac{1}{10000^{\frac{6}{8}}}\right) = \cos\left(\frac{1}{1000000}\right) $$
+$$ PE(1, 7) = \cos\left(\frac{1}{10000^{\frac{6}{8}}}\right) = \cos\left(\frac{1}{1000}\right) $$
 
 These values are then added to the corresponding token embeddings to provide the model with information about the position of each token in the sequence.
 
