@@ -10,7 +10,7 @@ categories:
 header:
     teaser: /assets/images/dspost/dsp6060-Unraveling-the-Google-Web.jpg
 author: Hari Thapliyaal   
-layout: single   
+layout: dspost-layout   
 excerpt:   
 author_profile: true   
 share: true   

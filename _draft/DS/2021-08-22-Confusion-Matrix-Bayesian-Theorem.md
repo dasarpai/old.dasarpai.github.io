@@ -26,5 +26,6 @@ If you are like me then you must have struggled enough to understand the confusi
 
 Before starting to evaluate a model performance an ML engineer must establish metrics that he/she want to use to evaluate the model. Hence it becomes extremely critical for an ML engineer to understand what are the different metrics and what is the meaning of each of those metrics. In this presentation, I am putting all the metrics at one page with example and numbers so that it is easier for your to visualize the big picture.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROmlLQEfDo9x7LZDAoazEzRJOqnQ9oKshR_rfXFPqlIom3jIPJAvButKOPuO_G0_FjMWARR5knkdpK/embed?start=false&loop=false&delayms=3000" frameborder="0" width="650" height="350" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS0wIX3eUXZhxP_Nsjo-469wCquINjzWuj6KMFgyhZV7HxYCd-G_9SdUoX9FVZoU57y6vQtj6UbQSJh/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 

@@ -10,7 +10,7 @@ categories:
 header:
     teaser: /assets/images/dspost/dsp6052-Types-of-Technologies.jpg
 author: Hari Thapliyaal   
-layout: single   
+layout: dspost-layout   
 excerpt:   
 author_profile: true   
 share: true   

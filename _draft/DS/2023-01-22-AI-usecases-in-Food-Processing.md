@@ -12,7 +12,7 @@ header:
   teaser: "/assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg"  
 excerpt_separator: "<!--more-->"  
 excerpt:  
-layout: single  
+layout: dspost-layout  
 author_profile: true  
 toc: true  
 toc_sticky: true

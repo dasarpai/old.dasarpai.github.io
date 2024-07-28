@@ -2,16 +2,16 @@
 mathjax: true
 id: 6105
 title: Topic Modeling with BERT
-date: 2023-11-11
-permalink: /dsblog/application-of-rag
-tags: [NLP, NLU, LLM]
+date: 2023-11-13
+permalink: /dsblog/topic-modeling-with-bert
+tags: [NLP, NLU, LLM, Clustering, Topic Modeling]
 categories:
 header:
     teaser: /assets/images/dspost/dsp6105-Topic-Modeling-with-BERT.jpg
     
 excerpt_separator: "<!--more-->"  
 excerpt:  
-layout: single  
+layout: dspost-layout  
 author_profile: true  
 toc: True  
 toc_sticky: true
@@ -67,17 +67,19 @@ BERTopic supports all kinds of topic modeling techniques as below.
 - Merge Models
 
 # Related Resources
-
 - [Advanced Topic Modeling with BERTopic by PINECONE](https://www.pinecone.io/learn/bertopic/)
 - [BERTopic by SpaCy](https://spacy.io/universe/project/bertopic)
 - [BERTopic github](https://github.com/MaartenGr/BERTopic)
 - [BERTopic by Huggingface](https://huggingface.co/blog/bertopic)
 
-![Tools-in-BERTopic](/assets/images/dspost/berttopic/Tools-in-BERTopic.png)
+# Tools in BERTopic
+![Tools-in-BERTopic](/assets/images/dspost/bertopic/Tools-in-BERTopic.png)
 
-![BEST-Tools-in-BERTopic](/assets/images/dspost/berttopic/BEST-Tools-in-BERTopic.png)
+# Best Topic Modeling Tool in BERTopic
+![BEST-Tools-in-BERTopic](/assets/images/dspost/bertopic/BEST-Tools-in-BERTopic.png)
 
-![BERTopic-Model-Building](/assets/images/dspost/berttopic/BERTopic-Model-Building.png)
+# BERTopic Model Building
+![BERTopic-Model-Building](/assets/images/dspost/bertopic/BERTopic-Model-Building.png)
 
 
 

@@ -10,7 +10,7 @@ categories:
 header:
     teaser: /assets/images/dspost/dsp6061-Google-Cloud-Service-Catalog.jpg
 author: Hari Thapliyaal   
-layout: single   
+layout: dspost-layout   
 excerpt:   
 author_profile: true   
 share: true   

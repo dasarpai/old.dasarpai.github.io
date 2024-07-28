@@ -1,3 +1,21 @@
+---
+mathjax: true
+id: 6114
+title: What is Unicode and how does it works?
+date: 2024-07-27
+permalink: /dsblog/6114-what-is-unicode-and-how-does-it-works
+tags: [NLP, NLU, LLM]
+categories:
+header:
+    teaser: /assets/images/dspost/6114-what-is-unicode-and-how-does-it-works.jpg
+excerpt_separator: "<!--more-->"  
+excerpt:  
+layout: single  
+author_profile: true  
+toc: True  
+toc_sticky: true
+---
+
 # What is Unicode and how does it works?
 
 ## What is Unicode: A Universal Character Set

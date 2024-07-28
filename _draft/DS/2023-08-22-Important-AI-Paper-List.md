@@ -11,7 +11,7 @@ header:
     teaser: /assets/images/dspost/dsp6090-rps-Important-AI-Paper-List.jpg
 excerpt_separator: "<!--more-->"  
 excerpt:  
-layout: single  
+layout: dspost-layout  
 author_profile: true  
 toc: false  
 toc_sticky: true
@@ -222,7 +222,7 @@ Albert: A lite bert for self-supervised learning of language representations. ar
 ###### [YangZ2019]
 Xlnet: Generalized autoregressive pretraining for language understanding. Advances in neural information processing systems (2019), 5754–5764.
 
-> **Ctrl: A Conditional Transformer Language Model For Controllable Generation**
+> **CTRL: A Conditional Transformer Language Model For Controllable Generation**
 
 ###### [Mart2016]
 Tensorflow: A system for large-scale machine learning. In 12th {USENIX} Symposium on Operating Systems Design and Imple-mentation ({OSDI} 16), pp. 265–283, 2016.
@@ -386,7 +386,13 @@ Sumqe: a bert-based summary quality estimation model. arXiv preprint arXiv:1909.
 Hotpotqa: A dataset for diverse, explainable multi-hop questionanswering. arXiv preprint arXiv:1809.09600, 2018.
 ###### [Rowan 2019]
 Defending against neural fake news. arXiv preprint arXiv:1905.12616, 2019
-
+###### [Fangxiaoyu2022]
+[Language-agnostic BERT Sentence Embedding - LaBSE](https://arxiv.org/abs/2007.01852)
+- BERT is an effective method for learning monolingual sentence embeddings for semantic similarity and embedding based transfer learning 
+- BERT based cross-lingual sentence embeddings is explored in this paper.
+- It explored combining the best methods for learning monolingual and cross-lingual representations including: masked language modeling (MLM), translation language modeling (TLM)
+- Introducing a pre-trained multilingual language model dramatically reduces the amount of parallel training data required to achieve good performance
+- It produces a model that achieves high bi-text retrieval accuracy over 112 languages 
 
 ## NLP Papers Available on my Google Drive 
 You can download these papers from [link](https://drive.google.com/drive/folders/1UiDwP2EwhQCl6O9t_PCCtNmouLNwTav7?usp=sharing)
@@ -424,7 +430,6 @@ You can download these papers from [link](https://drive.google.com/drive/folders
 1. Automatic satire detection Are you having a laugh.pdf
 1. Bag of tricks for efficient text classification.pdf
 1. Baselines and bigrams Simple, good sentiment and topic classification.pdf
-1. Baselines and Bigrams- Simple, Good Sentiment and Topic Classification.pdf
 1. BERT Explained - A list of Frequently Asked Questions.pdf
 1. BERT Pre-training of deep bidirectional transformers for language understanding.pdf
 1. BHAAV- A Text Corpus for Emotion Analysis from Hindi Stories.pdf
@@ -652,3 +657,8 @@ You can download these papers from [link](https://drive.google.com/drive/folders
 1. XGBoost A Scalable Tree Boosting System-PAPER.pdf
 1. XGBoost Reliable Large-scale Tree Boosting System-PAPER.pdf
 
+## Recent Papers
+1. [Detecting Signs of Disease from External Images of the Eye](https://blog.research.google/2022/03/detecting-signs-of-disease-from.html), THURSDAY, MARCH 24, 2022
+2. [Deep-learning models for the detection and incidence prediction of chronic kidney disease and type 2 diabetes from retinal fundus images](https://www.nature.com/articles/s41551-021-00745-6), 15 June 2021
+3. [Detection of anaemia from retinal fundus images via deep learning](https://www.nature.com/articles/s41551-019-0487-z), 23 December 2019
+3. [Assessing Cardiovascular Risk Factors with Computer Vision](https://blog.research.google/2018/02/assessing-cardiovascular-risk-factors.html), MONDAY, FEBRUARY 19, 2018
