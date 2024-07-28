@@ -3,7 +3,7 @@ mathjax: true
 id: 6115
 title: Why to Finetune LLM?
 date: 2024-07-27
-permalink: /dsblog/6115-why-to-finetune-llm
+permalink: /dsblog/why-to-finetune-llm
 tags: [NLP, NLU, LLM]
 categories:
 header:

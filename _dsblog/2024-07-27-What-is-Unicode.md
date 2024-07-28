@@ -3,7 +3,7 @@ mathjax: true
 id: 6114
 title: What is Unicode and how does it works?
 date: 2024-07-27
-permalink: /dsblog/6114-what-is-unicode-and-how-does-it-works
+permalink: /dsblog/what-is-unicode-and-how-does-it-works
 tags: [NLP, NLU, LLM]
 categories:
 header:
