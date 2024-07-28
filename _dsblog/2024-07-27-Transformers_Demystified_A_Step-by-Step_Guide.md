@@ -938,7 +938,7 @@ Where:
 
 - **Even Index:** For even values of $ i $, the position embedding is computed using the sine function.
 - **Odd Index:** For odd values of $ i $, the position embedding is computed using the cosine function.
-- **Frequency:** The denominator $ 10000^{\frac{2i}{d_{\text{model}}}} $ ensures that different dimensions have different frequencies. The values for sine and cosine vary more slowly for larger dimensions, capturing different levels of granularity.
+- **Frequency:** The denominator $10000^{\frac{2i}{d_{\text{model}}}}$ ensures that different dimensions have different frequencies. The values for sine and cosine vary more slowly for larger dimensions, capturing different levels of granularity.
 
 ### Example
 
