@@ -930,15 +930,15 @@ $$
 $$ PE(pos, 2i+1) = \cos\left(\frac{pos}{10000^{\frac{2i}{d_{\text{model}}}}}\right) $$
 
 Where:
-- $ pos $ is the position of the token in the sequence (starting from 0).
-- $ i $ is the dimension index (also starting from 0).
-- $ d_{\text{model}} $ is the dimensionality of the embeddings.
+- pos is the position of the token in the sequence (starting from 0).
+- i is the dimension index (also starting from 0).
+- $d_{\text{model}}$ is the dimensionality of the embeddings.
 
 ### Explanation
 
-- **Even Index:** For even values of $ i $, the position embedding is computed using the sine function.
-- **Odd Index:** For odd values of $ i $, the position embedding is computed using the cosine function.
-- **Frequency:** The denominator $10000^{\frac{2i}{d_{\text{model}}}}$ ensures that different dimensions have different frequencies. The values for sine and cosine vary more slowly for larger dimensions, capturing different levels of granularity.
+- **Even Index:** For even values of i, the position embedding is computed using the sine function.
+- **Odd Index:** For odd values of i, the position embedding is computed using the cosine function.
+- **Frequency:** The denominator $$10000^{\frac{2i}{d_{\text{model}}}}$$ ensures that different dimensions have different frequencies. The values for sine and cosine vary more slowly for larger dimensions, capturing different levels of granularity.
 
 ### Example
 
