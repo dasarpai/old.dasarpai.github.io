@@ -420,13 +420,13 @@ Where:
 ### Scaled Dot-Product Attention (Per Head):
 
 Each of the 8 heads performs scaled dot-product attention independently:
-$ {Attention}(Q_i, K_i, V_i) = {softmax}\left(\frac{Q_i K_i^T}{\sqrt{d_k}}\right) V_i $
-where \(d_k = 64\) is the dimension of each head.
+$$ {Attention}(Q_i, K_i, V_i) = {softmax}\left(\frac{Q_i K_i^T}{\sqrt{d_k}}\right) V_i $$
+where $$ \(d_k = 64\) $$ is the dimension of each head.
 
 ### Concatenation and Final Linear Layer:
 
 1. The outputs from all 8 heads are concatenated:
-   - Concatenated output shape: ${batch\_size}, {sequence\_length}, 8 \times 64  =  {batch\_size}, {sequence\_length}, 512$.
+   - Concatenated output shape: $$ {batch\_size}, {sequence\_length}, 8 \times 64  =  {batch\_size}, {sequence\_length}, 512 $$ .
 
 2. This concatenated vector is then passed through a final linear layer (with weight matrix of shape \([512, 512]\)) to produce the final output of the multi-head attention mechanism.
 
@@ -496,12 +496,14 @@ We also need to compute position embedding. Refer [Position Embedding Mechanism]
 These embeddings are passed as input to the model.
 
 **Input Matrix**:
+$$ 
 \[
 \begin{bmatrix}
 0.1 & -0.2 & 0.3 & 0.4 & -0.5 & 0.2 & -0.1 & 0.0 \\
 -0.3 & 0.1 & 0.2 & -0.4 & 0.5 & -0.2 & 0.3 & -0.1 \\
 \end{bmatrix}
 \]
+$$ 
 
 ### Step 3: [Self Attention](#self-attention-mechanism)
 
