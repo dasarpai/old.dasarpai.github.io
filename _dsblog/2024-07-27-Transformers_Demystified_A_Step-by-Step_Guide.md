@@ -374,13 +374,13 @@ Example: In the sentence "Barack Obama was born in Hawaii," one head might focus
 ## How attention works?
 The input embedding is linearly projected into three different spaces to generate queries (𝑄), keys (𝐾), and values (𝑉).
 
-${Attention}(Q, K, V) = {softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right) V$
+$${Attention}(Q, K, V) = {softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right) V$$
 
 Where:
-- \( Q \) is the query matrix.
-- \( K \) is the key matrix.
-- \( V \) is the value matrix.
-- \( d_k \) is the dimension of the keys.
+- $ Q $ is the query matrix.
+- $ K $ is the key matrix.
+- $ V $ is the value matrix.
+- $ d_k $ is the dimension of the keys.
 
 ## How multihead attention works.
 - Base model has 512 dim embedding vector, large model has 1024 dim embedding vector.
@@ -394,41 +394,41 @@ Where:
 
 2. **Number of Heads**: 8
 
-3. **Dimension per Head**: Each head will handle \( \frac{512}{8} = 64 \) dimensions.
+3. **Dimension per Head**: Each head will handle $ \frac{512}{8} = 64 $ dimensions.
 
 ### Steps for Multi-Head Attention:
 
 1. **Linear Projections**:
-   - The input embedding (of dimension 512) is linearly projected into three different spaces to generate queries (\(Q\)), keys (\(K\)), and values (\(V\)).
+   - The input embedding (of dimension 512) is linearly projected into three different spaces to generate queries ($Q$), keys ($K$), and values ($V$).
    - Each projection is typically done using separate learned weight matrices.
-   - These projections result in three vectors: \(Q\), \(K\), and \(V\), each of dimension 512.
+   - These projections result in three vectors: $Q$, $K$, and $V$, each of dimension 512.
    - Example: **Linear Projections**:
-      - For the input \(X\) of shape $[ {batch\_size}, {sequence\_length}, 512 ]$:
-      - \(Q = XW_Q\), where \(W_Q\) is a weight matrix of shape \([512, 512]\).
-      - \(K = XW_K\), where \(W_K\) is a weight matrix of shape \([512, 512]\).
-      - \(V = XW_V\), where \(W_V\) is a weight matrix of shape \([512, 512]\).
+      - For the input $X$ of shape $[ {batch\_size}, {sequence\_length}, 512 ]$:
+      - $Q = XW_Q$, where $W_Q$ is a weight matrix of shape $[512, 512]$.
+      - $K = XW_K$, where $W_K$ is a weight matrix of shape $[512, 512]$.
+      - $V = XW_V$, where $W_V$ is a weight matrix of shape $[512, 512]$.
 
 2. **Splitting into Heads**:
-   - After the projection, the \(Q\), \(K\), and \(V\) vectors are split into 8 parts (heads).
-   - Each part will have \( \frac{512}{8} = 64 \) dimensions.
-   - This means each head gets a 64-dimensional sub-vector from \(Q\), \(K\), and \(V\).
+   - After the projection, the $Q$, $K$, and $V$ vectors are split into 8 parts (heads).
+   - Each part will have $ \frac{512}{8} = 64 $ dimensions.
+   - This means each head gets a 64-dimensional sub-vector from $Q$, $K$, and $V$.
    - Example: **Splitting into Heads**:
-      - Each of the \(Q\), \(K\), and \(V\) matrices (of shape $ {batch\_size}, {sequence\_length}, 512 $ is reshaped and split into 8 heads.
+      - Each of the $Q$, $K$, and $V$ matrices (of shape $ {batch\_size}, {sequence\_length}, 512 $ is reshaped and split into 8 heads.
       - For each matrix, this reshaping results in shape $ batch\_size, sequence\_length, 8, 64 $.
-      - The 8 heads mean we now have 8 sets of \(Q\), \(K\), and \(V\) vectors, each of dimension 64.
+      - The 8 heads mean we now have 8 sets of $Q$, $K$, and $V$ vectors, each of dimension 64.
 
 ### Scaled Dot-Product Attention (Per Head):
 
 Each of the 8 heads performs scaled dot-product attention independently:
 $$ {Attention}(Q_i, K_i, V_i) = {softmax}\left(\frac{Q_i K_i^T}{\sqrt{d_k}}\right) V_i $$
-where $$ \(d_k = 64\) $$ is the dimension of each head.
+where $$ d_k = 64 $$ is the dimension of each head.
 
 ### Concatenation and Final Linear Layer:
 
 1. The outputs from all 8 heads are concatenated:
    - Concatenated output shape: $$ {batch\_size}, {sequence\_length}, 8 \times 64  =  {batch\_size}, {sequence\_length}, 512 $$ .
 
-2. This concatenated vector is then passed through a final linear layer (with weight matrix of shape \([512, 512]\)) to produce the final output of the multi-head attention mechanism.
+2. This concatenated vector is then passed through a final linear layer (with weight matrix of shape $[512, 512]$) to produce the final output of the multi-head attention mechanism.
 
 This process ensures that each head independently attends to different parts of the input, capturing diverse aspects of the data.
 
@@ -444,19 +444,19 @@ Apart from number of parameters these floating point precision also make model b
 1. **Double Precision (64-bit)**:
    - **Format**: IEEE 754 double-precision floating-point.
    - **Precision**: Provides about 15-17 significant decimal digits of precision.
-   - **Range**: Can represent values from approximately \( \pm 5 \times 10^{-324} \) to \( \pm 1.79 \times 10^{308} \).
+   - **Range**: Can represent values from approximately $ \pm 5 \times 10^{-324} $ to $ \pm 1.79 \times 10^{308} $.
    - **Use Case**: Often used when high precision is required, but it's less common in practice for embeddings due to the increased computational and memory overhead.
 
 2. **Single Precision (32-bit)**:
    - **Format**: IEEE 754 single-precision floating-point.
    - **Precision**: Provides about 6-9 significant decimal digits of precision.
-   - **Range**: Can represent values from approximately \( \pm 1.18 \times 10^{-38} \) to \( \pm 3.4 \times 10^{38} \).
+   - **Range**: Can represent values from approximately $ \pm 1.18 \times 10^{-38} $ to $ \pm 3.4 \times 10^{38} $.
    - **Use Case**: More common for embeddings due to a good balance between precision and computational efficiency.
 
 3. **Half Precision (16-bit)**:
    - **Format**: IEEE 754 half-precision floating-point.
    - **Precision**: Provides about 3-4 significant decimal digits of precision.
-   - **Range**: Can represent values from approximately \( \pm 6.1 \times 10^{-5} \) to \( \pm 6.5 \times 10^{4} \).
+   - **Range**: Can represent values from approximately $ \pm 6.1 \times 10^{-5} $ to $ \pm 6.5 \times 10^{4} $.
    - **Use Case**: Used to reduce memory usage and increase computational efficiency, especially during training with GPUs that support mixed precision.
 
 4. **BFloat16 (16-bit)**:
@@ -496,6 +496,7 @@ We also need to compute position embedding. Refer [Position Embedding Mechanism]
 These embeddings are passed as input to the model.
 
 **Input Matrix**:
+
 $$ 
 \[
 \begin{bmatrix}
@@ -510,7 +511,7 @@ $$
 - **Multi-Head Self-Attention**
 - **Combining Multi-Head Attention**
 
-For Head 2, similar computations will be performed to obtain \( Q_2 \), \( K_2 \), \( V_2 \), and the attention output. The outputs from both heads will be concatenated and then projected back into the original embedding dimension using a weight matrix \( W^O \).
+For Head 2, similar computations will be performed to obtain $ Q_2 $, $ K_2 $, $ V_2 $, and the attention output. The outputs from both heads will be concatenated and then projected back into the original embedding dimension using a weight matrix $ W^O $.
 
 
 ### Step 4. **Processing Through Transformer Layers**
@@ -528,22 +529,27 @@ After processing through the Transformer layers, we get output vectors (logits) 
 
 **Output Logits for the Next Token**:
 Let's assume our logits for the next token are a 100-dimensional vector (one value per token in the vocabulary). For simplicity:
+
+$$
 \[
 \begin{bmatrix}
 1.5, & -0.3, & \dots, & 0.8 \\
 \end{bmatrix}
 \]
-
+$$
 ### Step 6. **Softmax Function**
 
 The logits are converted to probabilities using the softmax function.
 
 **Softmax Output**:
+
+$$
 \[
 \begin{bmatrix}
 0.1, & 0.05, & \dots, & 0.15 \\
 \end{bmatrix}
 \]
+$$
 
 ### Step 7. **Token Selection**
 
@@ -569,6 +575,7 @@ By repeating this process, the model generates text token by token until a speci
 We'll compute Q, K, and V matrices for each head.
 
 **Weight Matrices for Q, K, V for Head 1**:
+$$
 \[
 W^Q_1, W^K_1, W^V_1 \in \mathbb{R}^{8 \times 4}
 \]
@@ -576,20 +583,24 @@ W^Q_1, W^K_1, W^V_1 \in \mathbb{R}^{8 \times 4}
 \[
 W^Q_2, W^K_2, W^V_2 \in \mathbb{R}^{8 \times 4}
 \]
+$$
 
 For simplicity, let's use random matrices. In practice, these are learned during training.
 
 **Embeddings**:
+$$
 \[
 X = \begin{bmatrix}
 0.1 & -0.2 & 0.3 & 0.4 & -0.5 & 0.2 & -0.1 & 0.0 \\
 -0.3 & 0.1 & 0.2 & -0.4 & 0.5 & -0.2 & 0.3 & -0.1 \\
 \end{bmatrix}
 \]
+$$
 
 **Weight Matrices** (randomly initialized for this example):
 
 Head 1:
+$$
 \[
 W^Q_1 = \begin{bmatrix}
 0.1 & 0.2 & 0.3 & 0.4 \\
@@ -626,8 +637,11 @@ W^V_1 = \begin{bmatrix}
 0.3 & 0.4 & 0.1 & 0.2 \\
 \end{bmatrix}
 \]
+$$
 
 Head 2:
+
+$$
 \[
 W^Q_2 = \begin{bmatrix}
 0.4 & 0.3 & 0.2 & 0.1 \\
@@ -664,10 +678,12 @@ W^V_2 = \begin{bmatrix}
 0.2 & 0.1 & 0.3 & 0.4 \\
 \end{bmatrix}
 \]
+$$
 
 **Compute Q, K, V for each token for each head**:
 
 **Head 1**:
+$$
 \[
 Q_1 = X \cdot W^Q_1 = \begin{bmatrix}
 0.1 & -0.2 & 0.3 & 0.4 & -0.5 & 0.2 & -0.1 & 0.0 \\
@@ -691,6 +707,7 @@ K_2 = X \cdot W^K_2
 \[
 V_2 = X \cdot W^V_2
 \]
+$$
 
 Let's compute these step by step.
 
@@ -699,15 +716,18 @@ Let's compute these step by step.
 ### Compute Q, K, V for Head 1
 
 **Input Embeddings**:
+$$
 \[
 X = \begin{bmatrix}
 0.1 & -0.2 & 0.3 & 0.4 & -0.5 & 0.2 & -0.1 & 0.0 \\
 -0.3 & 0.1 & 0.2 & -0.4 & 0.5 & -0.2 & 0.3 & -0.1 \\
 \end{bmatrix}
 \]
+$$
 
 **Weight Matrices for Head 1**:
 
+$$
 \[
 W^Q_1 = \begin{bmatrix}
 0.1 & 0.2 & 0.3 & 0.4 \\
@@ -744,9 +764,10 @@ W^V_1 = \begin{bmatrix}
 0.3 & 0.4 & 0.1 & 0.2 \\
 \end{bmatrix}
 \]
+$$
 
 #### Compute Q, K, V for each token for Head 1:
-
+$$
 \[
 Q_1 = X \cdot W^Q_1 = \begin{bmatrix}
 0.1 & -0.2 & 0.3 & 0.4 & -0.5 & 0.2 & -0.1 & 0.0 \\
@@ -762,25 +783,31 @@ Q_1 = X \cdot W^Q_1 = \begin{bmatrix}
 0.1 & 0.2 & 0.3 & 0.4 \\
 \end{bmatrix}
 \]
+$$
 
 Performing the matrix multiplication:
+$$
 \[
 Q_1 = \begin{bmatrix}
 (0.1 \times 0.1) + (-0.2 \times 0.1) + (0.3 \times 0.1) + (0.4 \times 0.1) + (-0.5 \times 0.1) + (0.2 \times 0.1) + (-0.1 \times 0.1) + (0 \times 0.1) & \dots & \\
 (-0.3 \times 0.1) + (0.1 \times 0.1) + (0.2 \times 0.1) + (-0.4 \times 0.1) + (0.5 \times 0.1) + (-0.2 \times 0.1) + (0.3 \times 0.1) + (-0.1 \times 0.1) & \dots & \\
 \end{bmatrix}
 \]
+$$
 
 Simplifying:
+$$
 \[
 Q_1 = \begin{bmatrix}
 -0.01 & -0.02 & -0.03 & -0.04 \\
 0.02 & 0.04 & 0.06 & 0.08 \\
 \end{bmatrix}
 \]
+$$
 
-Following the same steps for \( K_1 \) and \( V_1 \):
+Following the same steps for $ K_1 $ and $ V_1 $:
 
+$$
 \[
 K_1 = X \cdot W^K_1
 \]
@@ -800,6 +827,7 @@ V_1 = X \cdot W^V_1
 0.24 & 0.48 & 0.72 & 0.96 \\
 \end{bmatrix}
 \]
+$$
 
 **Similarly you compute for head 2. Finally you concatenate both vectors and get 2x8 size matrix (same size which was input for the self attention)**
 
@@ -808,6 +836,7 @@ V_1 = X \cdot W^V_1
 
 #### Compute attention scores:
 
+$$
 \[
 \text{Scores} = Q_1 \cdot K_1^T = \begin{bmatrix}
 -0.01 & -0.02 & -0.03 & -0.04 \\
@@ -819,16 +848,20 @@ V_1 = X \cdot W^V_1
 0.60 & 0.40 \\
 \end{bmatrix}
 \]
+$$
 
 Performing the matrix multiplication:
+$$
 \[
 \text{Scores} = \begin{bmatrix}
 -0.01 \times 0.15 + -0.02 \times 0.30 + -0.03 \times 0.45 + -0.04 \times 0.60 & -0.01 \times 0.10 + -0.02 \times 0.20 + -0.03 \times 0.30 + -0.04 \times 0.40 \\
 0.02 \times 0.15 + 0.04 \times 0.30 + 0.06 \times 0.45 + 0.08 \times 0.60 & 0.02 \times 0.10 + 0.04 \times 0.20 + 0.06 \times 0.30 + 0.08 \times 0.40 \\
 \end{bmatrix}
 \]
+$$
 
 Simplifying:
+$$
 \[
 \text{Scores} = \begin{bmatrix}
 -0.015 - 0.006 - 0.0135 - 0.024 & -0.01 - 0.004 - 0.009 - 0.016 \\
@@ -842,9 +875,11 @@ Simplifying:
 0.117 & 0.078 \\
 \end{bmatrix}
 \]
+$$
 
 #### Apply softmax to obtain attention weights:
 
+$$
 \[
 \text{Attention Weights} = \text{softmax}(\text{Scores})
 \]
@@ -857,25 +892,30 @@ Simplifying:
 \frac{e^{0.117}}{e^{0.117} + e^{0.078}} & \frac{e^{0.078}}{e^{0.117} + e^{0.078}} \\
 \end{bmatrix}
 \]
+$$
 
 Simplifying:
+$$
 \[
 \text{Attention Weights} = \begin{bmatrix}
 \frac{1}{1 + e^{0.0195}} & \frac{e^{0.0195}}{1 + e^{0.0195}} \\
 \frac{1}{1 + e^{-0.039}} & \frac{e^{-0.039}}{1 + e^{-0.039}} \\
 \end{bmatrix}
 \]
+$$
 
 Approximating the values:
+$$
 \[
 \text{Attention Weights} = \begin{bmatrix}
 0.495 & 0.505 \\
 0.510 & 0.490 \\
 \end{bmatrix}
 \]
+$$
 
 #### Compute the weighted sum of the values:
-
+$$
 \[
 \text{Output} = \text{Attention Weights} \cdot V_1 = \begin{bmatrix}
 0.495 & 0.505 \\
@@ -885,16 +925,20 @@ Approximating the values:
 0.24 & 0.48 & 0.72 & 0.96 \\
 \end{bmatrix}
 \]
+$$
 
 Performing the matrix multiplication:
+$$
 \[
 \text{Output} = \begin{bmatrix}
 0.495 \times 0.28 + 0.505 \times 0.24 & 0.495 \times 0.56 + 0.505 \times 0.48 & 0.495 \times 0.84 + 0.505 \times 0.72 & 0.495 \times 1.12 + 0.505 \times 0.96 \\
 0.510 \times 0.28 + 0.490 \times 0.24 & 0.510 \times 0.56 + 0.490 \times 0.48 & 0.510 \times 0.84 + 0.490 \times 0.72 & 0.510 \times 1.12 + 0.490 \times 0.96 \\
 \end{bmatrix}
 \]
+$$
 
 Simplifying:
+$$
 \[
 \text{Output} = \begin{bmatrix}
 0.1386 + 0.1212 & 0.2772 + 0.2424 & 0.4158 + 0.3636 & 0.5544 + 0.4848 \\
@@ -908,7 +952,7 @@ Simplifying:
 0.2604 & 0.516 & 0.7716 & 1.0272 \\
 \end{bmatrix}
 \]
-
+$$
 
  
 ## Position Embedding Mechanism
@@ -916,52 +960,54 @@ Position embeddings are used in transformers to provide information about the or
 
 ### Formulas for Position Embedding
 
-For a given position \( pos \) and embedding dimension \( i \):
+For a given position $ pos $ and embedding dimension $ i $:
 
 1. **Sine Function for Even Indices:**
+$$
 \[ PE(pos, 2i) = \sin\left(\frac{pos}{10000^{\frac{2i}{d_{\text{model}}}}}\right) \]
+$$
 
 2. **Cosine Function for Odd Indices:**
-\[ PE(pos, 2i+1) = \cos\left(\frac{pos}{10000^{\frac{2i}{d_{\text{model}}}}}\right) \]
+$$\[ PE(pos, 2i+1) = \cos\left(\frac{pos}{10000^{\frac{2i}{d_{\text{model}}}}}\right) \]$$
 
 Where:
-- \( pos \) is the position of the token in the sequence (starting from 0).
-- \( i \) is the dimension index (also starting from 0).
-- \( d_{\text{model}} \) is the dimensionality of the embeddings.
+- $ pos $ is the position of the token in the sequence (starting from 0).
+- $ i $ is the dimension index (also starting from 0).
+- $ d_{\text{model}} $ is the dimensionality of the embeddings.
 
 ### Explanation
 
-- **Even Index:** For even values of \( i \), the position embedding is computed using the sine function.
-- **Odd Index:** For odd values of \( i \), the position embedding is computed using the cosine function.
-- **Frequency:** The denominator \( 10000^{\frac{2i}{d_{\text{model}}}} \) ensures that different dimensions have different frequencies. The values for sine and cosine vary more slowly for larger dimensions, capturing different levels of granularity.
+- **Even Index:** For even values of $ i $, the position embedding is computed using the sine function.
+- **Odd Index:** For odd values of $ i $, the position embedding is computed using the cosine function.
+- **Frequency:** The denominator $ 10000^{\frac{2i}{d_{\text{model}}}} $ ensures that different dimensions have different frequencies. The values for sine and cosine vary more slowly for larger dimensions, capturing different levels of granularity.
 
 ### Example
 
-Let's assume \( d_{\text{model}} = 8 \) (for simplicity), and calculate the position embeddings for \( pos = 1 \).
+Let's assume $ d_{\text{model}} = 8 $ (for simplicity), and calculate the position embeddings for $ pos = 1 $.
 
-For \( i = 0 \):
-\[ PE(1, 0) = \sin\left(\frac{1}{10000^{\frac{0}{8}}}\right) = \sin\left(1\right) \]
+For $ i = 0 $:
+$$\[ PE(1, 0) = \sin\left(\frac{1}{10000^{\frac{0}{8}}}\right) = \sin\left(1\right) \]$$
 
-For \( i = 1 \):
-\[ PE(1, 1) = \cos\left(\frac{1}{10000^{\frac{0}{8}}}\right) = \cos\left(1\right) \]
+For $ i = 1 $:
+$$\[ PE(1, 1) = \cos\left(\frac{1}{10000^{\frac{0}{8}}}\right) = \cos\left(1\right) \]$$
 
-For \( i = 2 \):
-\[ PE(1, 2) = \sin\left(\frac{1}{10000^{\frac{2}{8}}}\right) = \sin\left(\frac{1}{100}\right) \]
+For $ i = 2 $:
+$$\[ PE(1, 2) = \sin\left(\frac{1}{10000^{\frac{2}{8}}}\right) = \sin\left(\frac{1}{100}\right) \]$$
 
-For \( i = 3 \):
-\[ PE(1, 3) = \cos\left(\frac{1}{10000^{\frac{2}{8}}}\right) = \cos\left(\frac{1}{100}\right) \]
+For $ i = 3 $:
+$$\[ PE(1, 3) = \cos\left(\frac{1}{10000^{\frac{2}{8}}}\right) = \cos\left(\frac{1}{100}\right) \]$$
 
-For \( i = 4 \):
-\[ PE(1, 4) = \sin\left(\frac{1}{10000^{\frac{4}{8}}}\right) = \sin\left(\frac{1}{10000}\right) \]
+For $ i = 4 $:
+$$\[ PE(1, 4) = \sin\left(\frac{1}{10000^{\frac{4}{8}}}\right) = \sin\left(\frac{1}{10000}\right) \]$$
 
-For \( i = 5 \):
-\[ PE(1, 5) = \cos\left(\frac{1}{10000^{\frac{4}{8}}}\right) = \cos\left(\frac{1}{10000}\right) \]
+For $ i = 5 $:
+$$\[ PE(1, 5) = \cos\left(\frac{1}{10000^{\frac{4}{8}}}\right) = \cos\left(\frac{1}{10000}\right) \]$$
 
-For \( i = 6 \):
-\[ PE(1, 6) = \sin\left(\frac{1}{10000^{\frac{6}{8}}}\right) = \sin\left(\frac{1}{1000000}\right) \]
+For $ i = 6 $:
+$$\[ PE(1, 6) = \sin\left(\frac{1}{10000^{\frac{6}{8}}}\right) = \sin\left(\frac{1}{1000000}\right) \]$$
 
-For \( i = 7 \):
-\[ PE(1, 7) = \cos\left(\frac{1}{10000^{\frac{6}{8}}}\right) = \cos\left(\frac{1}{1000000}\right) \]
+For $ i = 7 $:
+$$\[ PE(1, 7) = \cos\left(\frac{1}{10000^{\frac{6}{8}}}\right) = \cos\left(\frac{1}{1000000}\right) \]$$
 
 These values are then added to the corresponding token embeddings to provide the model with information about the position of each token in the sequence.
 
