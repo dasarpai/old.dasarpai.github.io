@@ -562,6 +562,73 @@ To generate text, the model uses these layers iteratively, predicting the next t
 
 By repeating this process, the model generates text token by token until a specified end condition is met.
 
+## What different parameters are learned during transformer training?
+Transformer models like GPT3, GPT3.5, GPT4.0, Gemma, PaLM, Llama etc has billions of parameters. What are these parameters which are learned during training?
+
+In large language models like ChatGPT, weights and biases are integral to the model's operation, especially within the transformer architecture. Here’s a detailed breakdown of different weights and biases used in such models, including those related to attention mechanisms:
+
+### 1. **Weights and Biases in Transformer Architecture**
+
+#### **Attention Mechanism Weights**
+
+- **Query Weights (W_q)**: These weights transform the input embeddings or hidden states into query vectors. In the attention mechanism, the query vector is compared against keys to compute attention scores.
+  
+- **Key Weights (W_k)**: These weights transform the input embeddings or hidden states into key vectors. The attention scores are computed by comparing these keys with the query vectors.
+
+- **Value Weights (W_v)**: These weights transform the input embeddings or hidden states into value vectors. The output of the attention mechanism is a weighted sum of these value vectors, based on the attention scores.
+
+- **Output Weights (W_o)**: After applying the attention mechanism, the output vectors are transformed by these weights before being passed to subsequent layers.
+
+#### **Feed-Forward Network Weights**
+
+- **Weights (W_ff)**: The feed-forward network within each transformer block has its own set of weights for transforming the hidden states. This usually includes two sets of weights:
+  - **Weight Matrices for Linear Transformations**: These weights perform linear transformations in the feed-forward network, often involving two layers with an activation function (e.g., ReLU) in between.
+
+- **Biases (b_ff)**: Biases are used along with the weights in the feed-forward network to adjust the activation values.
+
+#### **Layer Normalization Weights**
+
+- **Gamma (γ)**: Scaling parameter used in layer normalization to adjust the normalized output.
+- **Beta (β)**: Shifting parameter used in layer normalization to adjust the mean of the normalized output.
+
+### 2. **Overall Model Weights and Biases**
+
+#### **Embedding Weights**
+
+- **Token Embedding Weights**: These weights map input tokens (words or subwords) to continuous vector representations (embeddings).
+  
+- **Position Embedding Weights**: These weights add positional information to the embeddings to encode the order of tokens in the sequence.
+
+#### **Layer Weights**
+
+- **Weights in Each Transformer Layer**: Each layer of the transformer model has its own set of weights and biases for both the attention mechanism and the feed-forward network.
+
+- **Residual Connection Weights**: Residual connections (or skip connections) within each transformer layer often involve weights for combining the input and output of the layer.
+
+### Summary
+
+In summary, the different weights and biases in a model like ChatGPT are:
+
+- **Attention Mechanism**:
+  - Query Weights (W_q)
+  - Key Weights (W_k)
+  - Value Weights (W_v)
+  - Output Weights (W_o)
+
+- **Feed-Forward Network**:
+  - Weights (W_ff)
+  - Biases (b_ff)
+
+- **Layer Normalization**:
+  - Gamma (γ)
+  - Beta (β)
+
+- **Embedding Weights**:
+  - Token Embedding Weights
+  - Position Embedding Weights
+
+These weights and biases are learned during the training phase and are used during inference to generate responses based on the input data. Each component of the model contributes to its ability to understand and generate human-like text.
+
 
 ## Self Attention Mechanism
 
