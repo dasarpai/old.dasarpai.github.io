@@ -1276,37 +1276,37 @@ Dummy variables, also known as indicator variables or binary variables, are used
 
 ### **Concept of Dummy Variables**
 
-**1. **Purpose:****
+**1. Purpose:**
 - Dummy variables convert categorical data into a format that can be used by regression models. They allow the model to interpret and make predictions based on categorical features.
 
-**2. **Representation:**
+**2. Representation:**
 - For a categorical variable with $$ k $$ distinct categories, you create $$ k-1 $$ dummy variables. Each dummy variable represents one of the $$ k-1 $$ categories, with the remaining category serving as the reference or baseline.
 
-**3. **Binary Encoding:**
+**3. Binary Encoding:**
 - Each dummy variable is binary (0 or 1). A dummy variable takes the value 1 if the observation falls into the category it represents and 0 otherwise.
 
 ### **Creating Dummy Variables:**
 
-**1. **Example:**
+**1. Example:**
 - Consider a categorical variable "Color" with three categories: Red, Blue, and Green.
 
-**2. **Dummy Variables:**
+**2. Dummy Variables:**
 - Create $$ k-1 = 3-1 = 2 $$ dummy variables:
   - **Dummy Variable 1 (Red):** 1 if the color is Red, 0 otherwise.
   - **Dummy Variable 2 (Blue):** 1 if the color is Blue, 0 otherwise.
   - **Green** is the reference category and does not get a separate dummy variable.
 
-**3. **Dummy Variable Matrix:**
+**3. Dummy Variable Matrix:**
 - For an observation where the color is Blue, the dummy variables would be:
   - Red = 0
   - Blue = 1
 
 ### **Incorporating Dummy Variables into Linear Regression:**
 
-**1. **Model Representation:**
+**1. Model Representation:**
 - In a regression model, include dummy variables as predictors along with numerical features. The coefficients of dummy variables indicate the impact of each category compared to the reference category.
 
-**2. **Example Model:**
+**2. Example Model:**
 
   ```python
   import pandas as pd
@@ -1333,15 +1333,15 @@ Dummy variables, also known as indicator variables or binary variables, are used
   print(model.summary())
   ```
 
-**3. **Interpreting Coefficients:**
+**3. Interpreting Coefficients:**
 - The coefficient for a dummy variable represents the difference in the target variable compared to the reference category. For instance, if the coefficient for the Blue dummy variable is 50, it means the Price is 50 units higher for Blue items compared to the reference category (Red).
 
 ### **Handling Multiple Categorical Variables:**
 
-**1. **Multiple Categorical Variables:**
+**1. Multiple Categorical Variables:**
 - If you have multiple categorical variables, create dummy variables for each categorical feature, ensuring to drop one category from each feature to avoid multicollinearity.
 
-**2. **Example:**
+**2. Example:**
 
   ```python
   data = pd.DataFrame({
@@ -1494,26 +1494,26 @@ Partial regression plots are a diagnostic tool used in linear regression to unde
 
 ### **Concept of Partial Regression Plots**
 
-**1. **Purpose:**
+**1. Purpose:**
    - Partial regression plots allow you to visualize the effect of a single predictor variable on the response variable after removing the influence of other predictor variables.
 
-**2. **How They Work:**
+**2. How They Work:**
    - **Partial Residuals:** Calculate the residuals from a regression of the response variable on all other predictors except the one of interest.
    - **Partial Effect:** Plot the residuals from the regression of the predictor variable on all other predictors against the residuals from the response variable on all other predictors.
 
 ### **Creating a Partial Regression Plot**
 
-**1. **Fit the Full Model:**
+**1. Fit the Full Model:**
    - Fit a linear regression model with all predictor variables.
 
-**2. **Fit the Reduced Models:**
+**2. Fit the Reduced Models:**
    - Fit a regression model of the response variable on all predictors except the one of interest.
    - Fit a regression model of the predictor variable on all other predictors.
 
-**3. **Calculate Residuals:**
+**3. Calculate Residuals:**
    - Compute residuals from these regressions.
 
-**4. **Plot Residuals:**
+**4. Plot Residuals:**
    - Create a scatter plot of the residuals from the predictor regression versus the residuals from the response regression.
 
 **Example in Python:**
@@ -1559,23 +1559,23 @@ plt.show()
 
 ### **Interpreting Partial Regression Plots**
 
-**1. **Slope and Intercept:**
+**1. Slope and Intercept:**
    - The slope of the line in the partial regression plot represents the relationship between the predictor variable of interest and the response variable after adjusting for other predictors.
    - A non-zero slope indicates a significant relationship between the predictor and the response.
 
-**2. **Influential Observations:**
+**2. Influential Observations:**
    - Look for points that are far from the center or show strong deviations. These points might be influential observations or outliers.
    - Influential observations can have a disproportionate impact on the regression coefficients and overall model fit.
 
 ### **Identifying Influential Observations**
 
-**1. **Leverage:**
+**1. Leverage:**
    - Points with high leverage have a significant impact on the fit of the regression model. High leverage points can distort the model if not appropriately addressed.
 
-**2. **Cook’s Distance:**
+**2. Cook’s Distance:**
    - Cook’s distance measures the influence of each data point on the fitted values. It combines the leverage and residual of each point.
 
-**3. **Standardized Residuals:**
+**3. Standardized Residuals:**
    - Standardized residuals help identify outliers by measuring the residuals in standard deviation units.
 
 ### **Example of Identifying Influential Observations:**
@@ -1605,10 +1605,10 @@ Cook's Distance is a diagnostic measure used to identify influential observation
 
 ### **Concept of Cook's Distance**
 
-**1. **Definition:**
+**1. Definition:**
    - Cook's Distance combines information from both the leverage of a data point and its residual to quantify its influence on the fitted regression model. It measures the change in the regression coefficients when a particular data point is removed.
 
-**2. **Formula:**
+**2. Formula:**
    - Cook's Distance for the $$ i $$-th observation is calculated as follows:
 
 $$ D_i = \frac{1}{p} \frac{e_i^2}{(1 - h_i)^2} \frac{h_i}{1 - h_i} $$
@@ -1617,7 +1617,7 @@ $$ D_i = \frac{1}{p} \frac{e_i^2}{(1 - h_i)^2} \frac{h_i}{1 - h_i} $$
    - $$ h_i $$ is the leverage of the $$ i $$-th observation.
    - $$ p $$ is the number of parameters in the model (including the intercept).
 
-**3. **Interpretation:**
+**3. Interpretation:**
    - **High Cook’s Distance:** An observation with a high Cook’s Distance indicates that it has a substantial influence on the regression model. This could be due to high leverage, large residual, or both.
    - **Threshold:** Common thresholds are 4 divided by the number of observations ($$ \frac{4}{n} $$) or 1. Observations with Cook’s Distance greater than these thresholds are considered influential.
 
@@ -1723,15 +1723,15 @@ Residual plots display residuals (errors) versus fitted values or predictor vari
 
 ### **Using Residual Plots**
 
-**1. **Assessing Linearity:**
+**1. Assessing Linearity:**
    - **Random Scatter:** Indicates a good fit (residuals are randomly distributed).
    - **Patterns:** Suggest non-linearity (e.g., curves or trends).
 
-**2. **Checking Homoscedasticity:**
+**2. Checking Homoscedasticity:**
    - **Equal Variance:** Residuals spread evenly across the range of fitted values.
    - **Heteroscedasticity:** Residuals show a pattern or funnel shape, suggesting non-constant variance.
 
-**3. **Detecting Outliers and Influential Points:**
+**3. Detecting Outliers and Influential Points:**
    - **Outliers:** Points far from the horizontal line at zero.
    - **Influential Points:** High leverage or large residuals affecting the fit.
 
@@ -1768,20 +1768,20 @@ ANOVA (Analysis of Variance) assesses the differences between group means and co
 
 ### **Concept of ANOVA**
 
-**1. **Purpose:**
+**1. Purpose:**
    - Compares the fit of different models to determine if adding predictors significantly improves the model.
 
-**2. **Types of ANOVA in Regression:**
+**2. Types of ANOVA in Regression:**
    - **One-Way ANOVA:** Compares means across different groups.
    - **ANOVA for Regression Models:** Compares models with different numbers of predictors.
 
 ### **Using ANOVA for Regression Models**
 
-**1. **Models to Compare:**
+**1. Models to Compare:**
    - **Full Model:** Includes all predictors.
    - **Reduced Model:** Includes fewer predictors.
 
-**2. **ANOVA Table:**
+**2. ANOVA Table:**
    - **Sum of Squares (SS):** Measures the variation explained by the model.
      - **SSR (Regression):** Variance explained by the model.
      - **SSE (Error):** Variance not explained by the model.
