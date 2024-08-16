@@ -61,8 +61,6 @@ There are several approaches you can take when choosing the features for a linea
 5. Think about the interpretability of the model: It's often helpful to include features that are easy to understand and interpret in the model, even if they might not be the most predictive on their own.
 6. It's also important to keep in mind that the choice of features will depend on the specific problem you are trying to solve and the data you have available. It may be helpful to try out different combinations of features and see how they impact the performance of the model.
 
-----
-
 ## Question 3: How do you handle multicollinearity in linear regression?
 
 To handle multicollinearity in linear regression:
@@ -173,7 +171,7 @@ To deal with outliers in linear regression, consider the following strategies:
 - For residuals larger than the threshold (delta), the Huber loss function behaves like mean absolute error (MAE), i.e., it is linear. This reduces the influence of outliers since linear loss grows slower than quadratic loss for large errors.
 
 ### **Huber Loss Function:**
-The Huber loss function $ L_{\delta}(r) $ for a residual $ r $ is defined as:
+The Huber loss function $$ L_{\delta}(r) $$ for a residual $ r $ is defined as:
 
 $$
 L_{\delta}(r) =
@@ -183,15 +181,15 @@ L_{\delta}(r) =
 \end{cases}
 $$
 
-- When $ |r| \leq \delta $: It uses a quadratic loss, just like OLS regression.
-- When $ |r| > \delta $: It uses a linear loss, reducing the effect of large residuals (outliers).
+- When $$ |r| \leq \delta $$: It uses a quadratic loss, just like OLS regression.
+- When $$ |r| > \delta $$: It uses a linear loss, reducing the effect of large residuals (outliers).
 
-Here, $ \delta $ is a hyperparameter that defines the threshold between quadratic and linear loss.
+Here, $$ \delta $$ is a hyperparameter that defines the threshold between quadratic and linear loss.
 
 ### **Example**:
 Suppose you're predicting house prices, and a few luxury mansions are skewing your model. Huber regression will treat these extreme errors differently, minimizing their impact on the overall model while still fitting the majority of the data points well.
 
-By adjusting the threshold $\delta$, you can control how sensitive the model is to outliers.
+By adjusting the threshold $$\delta$$, you can control how sensitive the model is to outliers.
 
 
 ## Question 12: Can you explain the difference between L1 and L2 regularization?
@@ -208,7 +206,7 @@ $$
 \text{L1 Penalty} = \lambda \sum_{i=1}^n |w_i|
 $$
 
-where $\lambda$ is the regularization strength, $w_i$ represents the model coefficients, and $n$ is the number of coefficients.
+where $$\lambda$$ is the regularization strength, $$w_i$$ represents the model coefficients, and $$n$$ is the number of coefficients.
 
 **Characteristics:**
 - **Sparsity:** L1 regularization can drive some coefficients to exactly zero, effectively performing feature selection and making the model simpler.
@@ -227,7 +225,7 @@ $$
 \text{L2 Penalty} = \lambda \sum_{i=1}^n w_i^2
 $$
 
-where $ \lambda $ is the regularization strength, $ w_i $ represents the model coefficients, and $ n $ is the number of coefficients.
+where $$ \lambda $$ is the regularization strength, $$ w_i $$ represents the model coefficients, and $$ n $$ is the number of coefficients.
 
 **Characteristics:**
 - **Shrinkage:** L2 regularization shrinks the coefficients towards zero but generally does not set them exactly to zero. This results in smaller, more balanced coefficients.
@@ -250,7 +248,7 @@ $$
 \text{Elastic Net Penalty} = \lambda_1 \sum_{i=1}^n |w_i| + \lambda_2 \sum_{i=1}^n w_i^2
 $$
 
-where $ \lambda_1 $ and $ \lambda_2 $ control the strength of L1 and L2 penalties, respectively.
+where $$ \lambda_1 $$ and $$ \lambda_2 $$ control the strength of L1 and L2 penalties, respectively.
 
 
 ----
@@ -345,7 +343,7 @@ Choose the method based on your needs: **Scikit-learn** for simplicity and ease 
    $$
    \text{RSS} = \sum_{i=1}^n (y_i - \hat{y}_i)^2
    $$
-   where $ y_i $ is the actual value, and $ \hat{y}_i $ is the predicted value from the model.
+   where $$ y_i $$ is the actual value, and $$ \hat{y}_i $$ is the predicted value from the model.
 
 3. **Solution:**
    The OLS solution for the coefficients $\beta$ can be computed using the following formula:
@@ -353,9 +351,9 @@ Choose the method based on your needs: **Scikit-learn** for simplicity and ease 
    \hat{\beta} = (X^T X)^{-1} X^T y
    $$
    where:
-   - $ X $ is the matrix of independent variables (with a column of ones for the intercept).
-   - $ y $ is the vector of dependent variable values.
-   - $ \hat{\beta} $ is the vector of estimated coefficients.
+   - $$ X $$ is the matrix of independent variables (with a column of ones for the intercept).
+   - $$ y $$ is the vector of dependent variable values.
+   - $$ \hat{\beta} $$ is the vector of estimated coefficients.
 
 4. **Assumptions:**
    For OLS estimates to be reliable, several assumptions are made:
@@ -366,12 +364,12 @@ Choose the method based on your needs: **Scikit-learn** for simplicity and ease 
 
 ### **Example:**
 
-Consider a dataset with a single feature $ x $ and a target $ y $. Using OLS, you would estimate the parameters of the linear model:
+Consider a dataset with a single feature $$ x $$ and a target $$ y $$. Using OLS, you would estimate the parameters of the linear model:
 $$
 y = \beta_0 + \beta_1 x
 $$
 
-By minimizing the sum of the squared differences between the observed $ y $ values and the values predicted by the model, OLS provides estimates for $\beta_0$ and $\beta_1$ that best fit the data.
+By minimizing the sum of the squared differences between the observed $$ y $$ values and the values predicted by the model, OLS provides estimates for $\beta_0$ and $\beta_1$ that best fit the data.
 
 OLS is a fundamental technique in linear regression and serves as the basis for many other regression methods and statistical analyses.
 
@@ -564,30 +562,31 @@ Gradient descent is an optimization algorithm used to minimize the cost function
 
 1. **Cost Function:**
    In linear regression, the cost function (also known as the loss function) measures the error between the predicted values and the actual values. For linear regression, this is typically the Mean Squared Error (MSE):
-   \[
+   $$
    J(\theta) = \frac{1}{2m} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)})^2
-   \]
+   $$
+
    where:
-   - \( J(\theta) \) is the cost function.
-   - \( m \) is the number of training examples.
-   - \( h_{\theta}(x^{(i)}) \) is the predicted value for the \(i\)-th example.
-   - \( y^{(i)} \) is the actual value for the \(i\)-th example.
-   - \( \theta \) represents the model parameters (coefficients).
+   - $$ J(\theta) $$ is the cost function.
+   - $$ m $$ is the number of training examples.
+   - $$ h_{\theta}(x^{(i)}) $$ is the predicted value for the $$i$$-th example.
+   - $$ y^{(i)} $$ is the actual value for the $$i$$-th example.
+   - $$ \theta $$ represents the model parameters (coefficients).
 
 2. **Gradient Calculation:**
    The gradient of the cost function with respect to the model parameters gives the direction in which the cost function increases the most. By moving in the opposite direction of the gradient, you reduce the cost function. For linear regression, the gradient for each parameter is calculated as:
-   \[
+   $$
    \frac{\partial J(\theta)}{\partial \theta_j} = \frac{1}{m} \sum_{i=1}^m (h_{\theta}(x^{(i)}) - y^{(i)}) \cdot x_j^{(i)}
-   \]
-   where \( \theta_j \) is the \(j\)-th parameter.
+   $$
+   where $$ \theta_j $$ is the $$j$$-th parameter.
 
 3. **Update Rule:**
-   Gradient descent updates the model parameters iteratively using the gradient and a learning rate \( \alpha \):
-   \[
+   Gradient descent updates the model parameters iteratively using the gradient and a learning rate $$ \alpha $$:
+   $$
    \theta_j := \theta_j - \alpha \cdot \frac{\partial J(\theta)}{\partial \theta_j}
-   \]
+   $$
    where:
-   - \( \alpha \) is the learning rate, a hyperparameter that controls the size of the step taken in each iteration.
+   - $$ \alpha $$ is the learning rate, a hyperparameter that controls the size of the step taken in each iteration.
 
 4. **Iterative Process:**
    The gradient descent algorithm repeats the following steps until convergence (when the change in the cost function is sufficiently small):
@@ -596,9 +595,9 @@ Gradient descent is an optimization algorithm used to minimize the cost function
 
 ### **Example:**
 
-Suppose you have a dataset with features \(X\) and target values \(y\). You initialize the coefficients (parameters) \( \theta \) to some values. Gradient descent will:
+Suppose you have a dataset with features $$X$$ and target values $$y$$. You initialize the coefficients (parameters) $$ \theta $$ to some values. Gradient descent will:
 
-1. **Compute Predictions:** Calculate predictions \( \hat{y} \) based on the current coefficients.
+1. **Compute Predictions:** Calculate predictions $$ \hat{y} $$ based on the current coefficients.
 2. **Calculate Error:** Compute the error between the predictions and actual values.
 3. **Compute Gradient:** Calculate the gradient of the cost function with respect to each coefficient.
 4. **Update Parameters:** Adjust the coefficients in the direction that reduces the error, using the learning rate.
@@ -792,7 +791,7 @@ Updating a linear regression model with new data involves adjusting the model pa
 
 **Example:**
 
-Suppose you have an existing model trained on data \(D_{\text{old}}\) and receive new data \(D_{\text{new}}\). 
+Suppose you have an existing model trained on data $$D_{\text{old}}$$ and receive new data $$D_{\text{new}}$$. 
 
 ```python
 import pandas as pd
@@ -1281,7 +1280,7 @@ Dummy variables, also known as indicator variables or binary variables, are used
 - Dummy variables convert categorical data into a format that can be used by regression models. They allow the model to interpret and make predictions based on categorical features.
 
 **2. **Representation:**
-- For a categorical variable with \( k \) distinct categories, you create \( k-1 \) dummy variables. Each dummy variable represents one of the \( k-1 \) categories, with the remaining category serving as the reference or baseline.
+- For a categorical variable with $$ k $$ distinct categories, you create $$ k-1 $$ dummy variables. Each dummy variable represents one of the $$ k-1 $$ categories, with the remaining category serving as the reference or baseline.
 
 **3. **Binary Encoding:**
 - Each dummy variable is binary (0 or 1). A dummy variable takes the value 1 if the observation falls into the category it represents and 0 otherwise.
@@ -1292,7 +1291,7 @@ Dummy variables, also known as indicator variables or binary variables, are used
 - Consider a categorical variable "Color" with three categories: Red, Blue, and Green.
 
 **2. **Dummy Variables:**
-- Create \( k-1 = 3-1 = 2 \) dummy variables:
+- Create $$ k-1 = 3-1 = 2 $$ dummy variables:
   - **Dummy Variable 1 (Red):** 1 if the color is Red, 0 otherwise.
   - **Dummy Variable 2 (Blue):** 1 if the color is Blue, 0 otherwise.
   - **Green** is the reference category and does not get a separate dummy variable.
@@ -1387,11 +1386,11 @@ To use linear regression for logistic regression, you need to understand that wh
 
 The logistic function, or sigmoid function, is used to map predicted values to probabilities:
 
-\[ \text{Sigmoid}(z) = \frac{1}{1 + e^{-z}} \]
+$$ \text{Sigmoid}(z) = \frac{1}{1 + e^{-z}} $$
 
-where \( z \) is the linear combination of input features:
+where $$ z $$ is the linear combination of input features:
 
-\[ z = \beta_0 + \beta_1X_1 + \beta_2X_2 + \ldots + \beta_nX_n \]
+$$ z = \beta_0 + \beta_1X_1 + \beta_2X_2 + \ldots + \beta_nX_n $$
 
 ### **3. Fitting a Logistic Regression Model**
 
@@ -1401,7 +1400,7 @@ where \( z \) is the linear combination of input features:
    - Use the logistic function to model the probability of the target variable being 1.
 
 2. **Optimize Parameters:**
-   - Fit the model by finding the parameters (\(\beta\)) that maximize the likelihood of the observed data.
+   - Fit the model by finding the parameters ($$\beta$$) that maximize the likelihood of the observed data.
 
 ### **4. Implementation in Python**
 
@@ -1441,17 +1440,17 @@ print(classification_report(y_test, y_pred))
 
 ### **5. Understanding the Output**
 
-- **Coefficients:** The model will output coefficients (\(\beta\)) for each feature, indicating their influence on the probability of the target variable being 1.
-- **Intercept:** The model also outputs an intercept term (\(\beta_0\)).
+- **Coefficients:** The model will output coefficients ($$\beta$$) for each feature, indicating their influence on the probability of the target variable being 1.
+- **Intercept:** The model also outputs an intercept term ($$\beta_0$$).
 
 ### **6. Model Interpretation**
 
 **Log-Odds (Logit):**
 - The logit function (inverse of the sigmoid) represents the log-odds of the outcome:
 
-\[ \text{Logit}(P) = \log \left( \frac{P}{1 - P} \right) \]
+$$ \text{Logit}(P) = \log \left( \frac{P}{1 - P} \right) $$
 
-where \( P \) is the probability of the target variable being 1.
+where $$ P $$ is the probability of the target variable being 1.
 
 **Example:**
 
@@ -1610,17 +1609,17 @@ Cook's Distance is a diagnostic measure used to identify influential observation
    - Cook's Distance combines information from both the leverage of a data point and its residual to quantify its influence on the fitted regression model. It measures the change in the regression coefficients when a particular data point is removed.
 
 **2. **Formula:**
-   - Cook's Distance for the \( i \)-th observation is calculated as follows:
+   - Cook's Distance for the $$ i $$-th observation is calculated as follows:
 
-\[ D_i = \frac{1}{p} \frac{e_i^2}{(1 - h_i)^2} \frac{h_i}{1 - h_i} \]
+$$ D_i = \frac{1}{p} \frac{e_i^2}{(1 - h_i)^2} \frac{h_i}{1 - h_i} $$
 
-   - \( e_i \) is the residual for the \( i \)-th observation.
-   - \( h_i \) is the leverage of the \( i \)-th observation.
-   - \( p \) is the number of parameters in the model (including the intercept).
+   - $$ e_i $$ is the residual for the $$ i $$-th observation.
+   - $$ h_i $$ is the leverage of the $$ i $$-th observation.
+   - $$ p $$ is the number of parameters in the model (including the intercept).
 
 **3. **Interpretation:**
    - **High Cook’s Distance:** An observation with a high Cook’s Distance indicates that it has a substantial influence on the regression model. This could be due to high leverage, large residual, or both.
-   - **Threshold:** Common thresholds are 4 divided by the number of observations (\( \frac{4}{n} \)) or 1. Observations with Cook’s Distance greater than these thresholds are considered influential.
+   - **Threshold:** Common thresholds are 4 divided by the number of observations ($$ \frac{4}{n} $$) or 1. Observations with Cook’s Distance greater than these thresholds are considered influential.
 
 ### **Calculating Cook's Distance in Python**
 
@@ -1666,7 +1665,7 @@ plt.show()
 ### **Visualizing Cook's Distance**
 
 - **Stem Plot:** The stem plot shows the Cook’s Distance for each observation. Points above the threshold line indicate influential observations.
-- **Threshold Line:** A horizontal line at \( \frac{4}{n} \) helps to visually assess which points are influential.
+- **Threshold Line:** A horizontal line at $$ \frac{4}{n} $$ helps to visually assess which points are influential.
 
 ### **Summary**
 
@@ -1680,7 +1679,7 @@ Cook's Distance is an essential diagnostic tool in regression analysis, helping 
 ## Question 28: How do you use linear regression to perform polynomial regression?
 To perform polynomial regression with linear regression:
 
-1. **Transform Features:** Create polynomial features of the original variables (e.g., \(x\), \(x^2\), \(x^3\), etc.).
+1. **Transform Features:** Create polynomial features of the original variables (e.g., $$x$$, $$x^2$$, $$x^3$$, etc.).
 
 2. **Fit Model:** Use linear regression on the transformed features.
 
@@ -1717,7 +1716,7 @@ Residual plots display residuals (errors) versus fitted values or predictor vari
 ### **Concept of Residual Plots**
 
 **1. **Residuals:**
-   - The difference between observed and predicted values: \( e_i = y_i - \hat{y}_i \).
+   - The difference between observed and predicted values: $$ e_i = y_i - \hat{y}_i $$.
 
 **2. **Residual Plot:**
    - A scatter plot of residuals on the vertical axis against fitted values or predictor variables on the horizontal axis.
