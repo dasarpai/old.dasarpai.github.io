@@ -1896,7 +1896,7 @@ y_pred = pls.predict(X)
 
 
 
-## How do you use linear regression to perform principal component regression?
+## Question 33: How do you use linear regression to perform principal component regression?
 
 Principal Component Regression (PCR) combines Principal Component Analysis (PCA) with linear regression. It reduces the dimensionality of predictors by projecting them onto principal components and then performs linear regression on these components.
 
