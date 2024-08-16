@@ -26,7 +26,7 @@ toc_sticky: true
 
 ## Introduction
    
-All these cheat sheets are kept at [my google drive link](https://drive.google.com/drive/folders/1fy5eofa6IQXgK0uAo_dI7i_QeK8tNHcE?usp=sharing). 180+ cheatsheet on ML, DL, DE, DA, NLP, Algorithms, Pandas, Numpy, Dask, Bigdata, Statistics, Python, SQL, Docker, sklearn, git, GNN etc.
+All these cheat sheets are kept at [my google drive link](https://drive.google.com/drive/folders/1LGcKiD_Ntms27-xZvaJrIMBRZdiZgFOc?usp=sharing). 180+ cheatsheet on ML, DL, DE, DA, NLP, Algorithms, Pandas, Numpy, Dask, Bigdata, Statistics, Python, SQL, Docker, sklearn, git, GNN etc.
 
 ## List of Cheatsheets
 1. 21 Types of SQL joins-CHEATSHEET.pdf

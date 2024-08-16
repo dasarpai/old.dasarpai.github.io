@@ -1,3 +1,20 @@
+## pip commands
+pip install transformers
+
+pip show transformers
+Name: transformers
+Version: 4.44.0
+Summary: State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow
+Home-page: https://github.com/huggingface/transformers
+Author: The Hugging Face team (past and future) with the help of all our contributors (https://github.com/huggingface/transformers/graphs/contributors)
+Author-email: transformers@huggingface.co
+License: Apache 2.0 License
+Location: /mnt/d/venvs/tf-env/lib/python3.10/site-packages
+Requires: filelock, huggingface-hub, numpy, packaging, pyyaml, regex, requests, safetensors, tokenizers, tqdm
+Required-by:
+
+pip list
+
 ## 
 Following is the output of command: pip install -r requirments.txt
 I want to understand meaning of each operations like collecting, using, getting, preperating, installing etc. Also why installing build dependicies are happening only few time not every time?
