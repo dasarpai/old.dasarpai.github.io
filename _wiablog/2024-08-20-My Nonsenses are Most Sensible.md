@@ -3,7 +3,7 @@ id: 5259
 mathjax: true        
 title:  My Nonsenses are Most Sensible        
 date: "2024-08-20T08:33:00+05:30"        
-permalink: /wiaposts/my-nonsenses-are-most-sensible-poem   
+permalink: /wiaposts/my-nonsenses-are-most-sensible  
 tags:  [My Views, Life, Philosophy]         
         
 categories:        
@@ -18,7 +18,7 @@ share: true
 
 ![My Nonsenses are Most Sensible](/assets/images/wiapost/5258-My-Nonsenses-are-Most-Sensible.jpg)
 
-# My Nonsenses is Most Sensible  
+# My Nonsenses is the Most Sensible  
 
 Everyone around me seems insane, while I am the only sane one, the only saint! Whatever I do is the right way; whatever you do is senseless, meaningless, illogical.
 
