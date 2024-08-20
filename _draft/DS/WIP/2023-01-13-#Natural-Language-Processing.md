@@ -16,12 +16,9 @@ share: true
 
 ![Natural Language Processing](/assets/images/dspost/dsp6028-What-Is-Natural-Language-Processing.jpg)
 
-48 Categories of tasks in NLP.
-
-## Language Models
-Language Models are models for predicting the next word or character in a document.
-
-Transformer , BERT , RoBERTa , GPT-2 , GPT-3 , T5 , ELMo , BART , GPT , XLNet , ALBERT , mBERT , CAM , XLM-R , DistilBERT , ELECTRA , Electric , Transformer-XL , XLM , mT5 , Longformer , Performer , mBART , ULMFiT , DeBERTa , CodeBERT , ViLBERT , Sparse Transformer, PaLM , ETC , RAG , GPT-Neo , CTRL , Reformer , BigBird , Linformer , Switch Transformer, Synthesizer , Universal Transformer, Levenshtein Transformer, CodeT5 , CharacterBERT , ProphetNet , Primer , Cross-View Training, TNT , Charformer , PLATO-2 , MATE , Bort , MobileBERT , Neural , Routing Transformer, Adaptive Span Transformer, Chinchilla , VideoBERT , EGT , Compressive Transformer, DeeBERT , PMLM , GEE , TAPEX , CuBERT , Subformer , DynaBERT , TernaryBERT , Fastformer , Cross-encoder , CANINE , SHA-RNN , Nyströmformer , Gated Convolution Network, AutoTinyBERT , PermuteFormer , NormFormer , BP-Transformer , IB-BERT , MacBERT , mBARTHez , KE-MLM , SMITH , ClipBERT , I-BERT , SqueezeBERT , ERNIE-GEN , Sandwich Transformer , DeLighT , PAR Transformer , ConvBERT , ESACL , MHMA , RealFormer , Sinkhorn Transformer , SongNet , Funnel Transformer , T-D , SC-GPT , GANformer , BinaryBERT , Adaptively Sparse Transformer , Feedback Transformer
+## What is a Language Models?
+Language Models are models for predicting the next word or character in a document. Some popular transformer models are : 
+BERT , RoBERTa , GPT-2 , GPT-3 , T5 , ELMo , BART , GPT , XLNet , ALBERT , mBERT , CAM , XLM-R , DistilBERT , ELECTRA , Electric , Transformer-XL , XLM , mT5 , Longformer , Performer , mBART , ULMFiT , DeBERTa , CodeBERT , ViLBERT , Sparse Transformer, PaLM , ETC , RAG , GPT-Neo , CTRL , Reformer , BigBird , Linformer , Switch Transformer, Synthesizer , Universal Transformer, Levenshtein Transformer, CodeT5 , CharacterBERT , ProphetNet , Primer , Cross-View Training, TNT , Charformer , PLATO-2 , MATE , Bort , MobileBERT , Neural , Routing Transformer, Adaptive Span Transformer, Chinchilla , VideoBERT , EGT , Compressive Transformer, DeeBERT , PMLM , GEE , TAPEX , CuBERT , Subformer , DynaBERT , TernaryBERT , Fastformer , Cross-encoder , CANINE , SHA-RNN , Nyströmformer , Gated Convolution Network, AutoTinyBERT , PermuteFormer , NormFormer , BP-Transformer , IB-BERT , MacBERT , mBARTHez , KE-MLM , SMITH , ClipBERT , I-BERT , SqueezeBERT , ERNIE-GEN , Sandwich Transformer , DeLighT , PAR Transformer , ConvBERT , ESACL , MHMA , RealFormer , Sinkhorn Transformer , SongNet , Funnel Transformer , T-D , SC-GPT , GANformer , BinaryBERT , Adaptively Sparse Transformer , Feedback Transformer
 
 ## Transformers
 

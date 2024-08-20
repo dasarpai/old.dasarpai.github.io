@@ -2,7 +2,7 @@
 
 Here are some important benchmarks commonly used in evaluating Large Language Models (LLMs). These benchmarks provide a comprehensive overview of various capabilities and aspects of LLMs, from knowledge and reasoning to coding and conversational skills. These benchmarks help in assessing different aspects of LLM performance, such as language understanding, reasoning, coding, and truthfulness, providing a standardized way to compare models and identify areas for improvement. For further details, you can explore the sources and learn more about how these benchmarks are applied and the specific datasets they use.
 
-1. **Graduate-level reasoning (GPQA)**: Evaluates advanced reasoning capabilities akin to graduate-level examinations.
+1. **Graduate-Level Google-Proof Q&A (GPQA)**: Evaluates advanced reasoning capabilities akin to graduate-level examinations.
 
 2. **Undergraduate-level knowledge (MMLU)**: The Massive Multitask Language Understanding (MMLU) benchmark assesses a model's knowledge across 57 subjects, including humanities, social sciences, and STEM, testing from elementary to advanced professional levels
 

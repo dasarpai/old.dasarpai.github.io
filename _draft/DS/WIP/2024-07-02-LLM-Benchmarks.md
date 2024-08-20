@@ -1,3 +1,17 @@
+
+Capability | Benchmark | Description | Gemini 1.0 Pro | Gemini 1.0 Ultra | Gemini 1.5 Pro (Feb 2024) | Gemini 1.5 Flash | Gemini 1.5 Pro (May 2024)
+--- | --- | --- | --- | --- | ---  | --- | --- 
+General | MMLU | Representation of questions in 57 subjects (incl. STEM, humanities, and others) | 71.8% | 83.7% | 81.9% | 78.9% | 85.9%
+Code | Natural2Code | Python code generation. Held out dataset HumanEval-like, not leaked on the web | 69.6% | 74.9% | 77.7% | 77.2% | 82.6%
+Math | MATH | Challenging math problems (incl. algebra, geometry, pre-calculus, and others) | 32.6% | 53.2% | 58.5% | 54.9% | 67.7%
+Reasoning | GPQA (main) | Challenging dataset of questions written by domain experts in biology, physics, and chemistry | 27.9% | 35.7% | 41.5% | 39.5% | 46.2%
+  -- | Big-Bench Hard | Diverse set of challenging tasks requiring multi-step reasoning | 75.0% | 83.6% | 84.0% | 85.5% | 89.2%
+Multilingual | WMT23 | Language translation | 71.7 | 74.4 | 75.2 | 74.1 | 75.3
+Image | MMMU | Multi-discipline college-level reasoning problems | 47.9% | 59.4% | 58.5% | 56.1% | 62.2%
+ --  | MathVista | Mathematical reasoning in visual contexts | 46.6% | 53.0% | 54.7% | 58.4% | 63.9%
+Audio | FLEURS (55 languages) | Automatic speech recognition (based on word error rate, lower is better) | 6.4% | 6.0% | 6.6% | 9.8% | 6.5%
+Video | EgoSchema | Video question answering | 55.7% | 61.5% | 65.1% | 65.7% | 72.2%
+
 ## What are the most popular LLM Benchmarks?
 
 Certainly! Here’s a list of the provided LLM benchmarks with a two-line introduction for each:
