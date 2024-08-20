@@ -73,7 +73,8 @@ For I hold the power, the truth, and the key.
 O Chaitanya, this world spins wild and vast,  
 If you watch without flinching, through all it casts,  
 Then tell me, who’s the sane, and who’s the mad,  
-In this world of chaos, where reason seems clad with Adharma?
+In this world of chaos, 
+where reason seems covered in the cloth of Adharma?
 
 **Hari Om Tat Sat   
 Yours Truly Hari**
@@ -133,7 +134,7 @@ Here is the Hindi translation of the poem:
 कोई बहस नहीं, कोई बात नहीं, मैं तुम्हारी दलील को चुप करा दूँगा,  
 क्योंकि मेरे पास ताकत, सच्चाई, और चाबी है।
 
-हे चैतन्य, ये दुनिया जंगली और विशाल घूमती है,  
-अगर तुम बिना झपकाए इसे देखते हो, जो भी ये दिखाती है,  
+हे चैतन्य, ये दुनिया जंगली है और विशाल घूमती है,  
+अगर तुम बिना पलक झपकाए इसे देखते हो, तो जो भी ये दिखाती है,  
 तो मुझे बताओ, कौन है समझदार, और कौन पागल,  
-इस उथल-पुथल भरी दुनिया में, जहाँ तर्क कपड़े पहने हुए लगता है?
+इस उथल-पुथल भरी दुनिया में, जहाँ तर्क अधर्म के चोले में है।
