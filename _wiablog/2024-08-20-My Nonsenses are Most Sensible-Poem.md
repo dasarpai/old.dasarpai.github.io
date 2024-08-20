@@ -80,7 +80,7 @@ where reason seems covered in the cloth of Adharma?
 Yours Truly Hari**
 
 
-# A Rough Hindi Translation of this of this poem
+# A Rough Hindi Translation of this poem
 
 Here is the Hindi translation of the poem:
 
