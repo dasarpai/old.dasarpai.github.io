@@ -1,5 +1,5 @@
 # Numbering System + Id Generation System for Website
-dsblog : 6001
+
 dsresources: 101
 dscourses : 301
 management : 501
@@ -12,7 +12,9 @@ pmbok6hi : 2000
 pmbok6 : 3000
 samskrut : 4000
 wiablog: 5000
+dsblog : 6001
 gk : 7001
+booksummary: 7501
 quotations : 9001
 
 

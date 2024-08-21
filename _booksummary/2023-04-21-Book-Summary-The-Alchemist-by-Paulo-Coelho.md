@@ -1,14 +1,14 @@
 ---    
-id: 5222    
+id: 7504    
   
 title:  "Book Summary: The Alchemist by Paulo Coelho"       
 date: "2023-04-21T08:33:00+05:30"    
-permalink: /wiaposts/Book-Summary-The-Alchemist-by-Paulo-Coelho     
+permalink: /booksummary/Book-Summary-The-Alchemist-by-Paulo-Coelho     
 tags:  [Book Summary]     
     
 categories:    
 header:    
-    teaser: /assets/images/wiapost/5222-Book-Summary-The-Alchemist-by-Paulo-Coelho.jpg    
+    teaser: /assets/images/booksummary/7504-Book-Summary-The-Alchemist-by-Paulo-Coelho.jpg    
 author: Hari Thapliyaal    
 layout: wiapost-layout    
 excerpt:    
@@ -16,7 +16,7 @@ author_profile: true
 share: true    
 ---    
     
-![Book Summary: The Alchemist by Paulo Coelho](/assets/images/wiapost/5222-Book-Summary-The-Alchemist-by-Paulo-Coelho.jpg)         
+![Book Summary: The Alchemist by Paulo Coelho](/assets/images/booksummary/7504-Book-Summary-The-Alchemist-by-Paulo-Coelho.jpg)         
    
 # Book Summary: The Alchemist by Paulo Coelho   
    
@@ -36,4 +36,4 @@ share: true
 12. Santiago's journey is a symbol of the human need for self-discovery, search for meaning and purpose in life.
 13. The book emphasizes how everything in the universe is connected.
 
-![Mind Map : The Alchemist by Paulo Coelho](/assets/images/wiapost/5222-The-Alchemist-by-Paulo-Coelho.png)
+![Mind Map : The Alchemist by Paulo Coelho](/assets/images/wiapost/7504-The-Alchemist-by-Paulo-Coelho.png)

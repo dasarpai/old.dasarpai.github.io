@@ -271,10 +271,11 @@ Inverses | a+(-a) = 0 (-a)+a = 0 {10} |  | a*a -1 = 1 a -1 *a = 1 if det[a]≠0 
 
 ### Determinant of a Matrix
 #### For a 2×2 Matrix
-$  \begin{bmatrix}
+$  D= \begin{bmatrix}
  3 & 8 \cr
  4 & 6
- \end{bmatrix} = 3x6 - 8x4 = -14$
+ \end{bmatrix} \\
+ \vert D \vert = 3*6 - 8*4 = -14$
 
 #### For a 3×3 Matrix
 $ D= \begin{bmatrix}

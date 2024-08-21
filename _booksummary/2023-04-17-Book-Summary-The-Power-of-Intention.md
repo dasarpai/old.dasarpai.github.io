@@ -1,14 +1,14 @@
 ---    
-id: 5220    
+id: 7502    
   
 title:  "Book Summary : The Power of Intention"      
 date: "2023-04-17T08:33:00+05:30"    
-permalink: /wiaposts/Book-Summary-The-Power-of-Intention     
+permalink: /booksummary/Book-Summary-The-Power-of-Intention     
 tags:  [Book Summary]     
     
 categories:    
 header:    
-    teaser: /assets/images/wiapost/5220-Book-Summary-The-Power-of-Intention.jpg    
+    teaser: /assets/images/booksummary/7502-Book-Summary-The-Power-of-Intention.jpg    
 author: Hari Thapliyaal    
 layout: wiapost-layout    
 excerpt:    
@@ -16,7 +16,7 @@ author_profile: true
 share: true    
 ---    
     
-![Book Summary : The Power of Intention](/assets/images/wiapost/5220-Book-Summary-The-Power-of-Intention.jpg)         
+![Book Summary : The Power of Intention](/assets/images/booksummary/7502-Book-Summary-The-Power-of-Intention.jpg)         
     
 # Book Summary : The Power of Intention   
    
@@ -38,5 +38,5 @@ Key Point from the "The Power of Intention" by Dr. Wayne W. Dyer
 14. Live in the present moment and to let go of the past and the future.
 
 
-![Mind Map : The Power of Intention](/assets/images/wiapost/5220-The-Power-of-Intension.png)
+![Mind Map : The Power of Intention](/assets/images/wiapost/7502-The-Power-of-Intension.png)
 

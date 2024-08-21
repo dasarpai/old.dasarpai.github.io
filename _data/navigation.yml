@@ -102,7 +102,9 @@ docs:
       - title: "GK Blog"
         url: "/gk-blog"        
       - title: "GK Topic"
-        url: "/gk-tags"            
+        url: "/gk-tags" 
+      - title: "Book Summary"
+        url: "/booksummary-blog"           
   - title: "Gallery"
     children:
       - title: "Online AI, DS, ML Training Gallary 1"

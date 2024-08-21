@@ -1,14 +1,14 @@
 ---    
-id: 5221    
+id: 7503    
   
 title:  "Book Summary: The Power of Your Subconscious Mind"     
 date: "2023-04-20T08:33:00+05:30"    
-permalink: /wiaposts/Book-Summary-The-Power-of-Your-Subconscious-Mind   
+permalink: /booksummary/Book-Summary-The-Power-of-Your-Subconscious-Mind   
 tags:  [Book Summary]     
     
 categories:    
 header:    
-    teaser: /assets/images/wiapost/5221-Book-Summary-The-Power-of-Your-Subconscious-Mind.jpg    
+    teaser: /assets/images/booksummary/7503-Book-Summary-The-Power-of-Your-Subconscious-Mind.jpg    
 author: Hari Thapliyaal    
 layout: wiapost-layout    
 excerpt:    
@@ -16,7 +16,7 @@ author_profile: true
 share: true    
 ---    
     
-![Book Summary : The Power of Your Subconscious Mind](/assets/images/wiapost/5221-Book-Summary-The-Power-of-Your-Subconscious-Mind.jpg)         
+![Book Summary : The Power of Your Subconscious Mind](/assets/images/booksummary/7503-Book-Summary-The-Power-of-Your-Subconscious-Mind.jpg)         
    
 # Book Summary : The Power of Your Subconscious Mind   
 
@@ -39,5 +39,5 @@ Key Points from "The Power of Your Subconscious Mind" by Joseph Murphy
 7. Take action and be persistent in one's efforts to tap into the power of the subconscious mind.
 8. Let go of the past and the future.
 
-![Mind Map : The Power of Your Subconscious Mind](/assets/images/wiapost/5221-The-Power-of-Your-Subconscious-Mind.png)
+![Mind Map : The Power of Your Subconscious Mind](/assets/images/wiapost/7503-The-Power-of-Your-Subconscious-Mind.png)
 

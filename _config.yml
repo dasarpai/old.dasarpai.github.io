@@ -231,6 +231,7 @@ include:
   - _gallery
   - _projects
   - _corpus
+  - _booksummary
   - assets
   - sitemap.xml
 exclude:
@@ -327,6 +328,21 @@ defaults:
       show_date: true
       sidebar:
         nav: "docs"  
+
+  # _booksummary
+  - scope:
+      path: "_booksummary"
+      type: booksummary
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true # true
+      share: true
+      related: true
+      show_date: true
+      sidebar:
+        nav: "docs" 
 
   # _corpus
   - scope:
@@ -547,6 +563,10 @@ collections:
   gk:
     output: true
     permalink: /gk/:categories/:title/
+
+  booksummary:
+    output: true
+    permalink: /booksummary/:categories/:title/
 
   corpus:
     output: true
