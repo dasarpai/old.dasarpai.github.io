@@ -4,7 +4,7 @@ id: 7502
 title:  "Book Summary : The Power of Intention"      
 date: "2023-04-17T08:33:00+05:30"    
 permalink: /booksummary/Book-Summary-The-Power-of-Intention     
-tags:  [Book Summary]     
+tags:  [Book Summary, Selfhelp, Mind]     
     
 categories:    
 header:    

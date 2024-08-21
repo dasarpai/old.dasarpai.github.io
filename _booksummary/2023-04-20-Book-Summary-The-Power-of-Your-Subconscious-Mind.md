@@ -4,7 +4,7 @@ id: 7503
 title:  "Book Summary: The Power of Your Subconscious Mind"     
 date: "2023-04-20T08:33:00+05:30"    
 permalink: /booksummary/Book-Summary-The-Power-of-Your-Subconscious-Mind   
-tags:  [Book Summary]     
+tags:  [Book Summary, Selfhelp, Mind]     
     
 categories:    
 header:    
