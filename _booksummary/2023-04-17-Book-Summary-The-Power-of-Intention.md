@@ -38,5 +38,5 @@ Key Point from the "The Power of Intention" by Dr. Wayne W. Dyer
 14. Live in the present moment and to let go of the past and the future.
 
 
-![Mind Map : The Power of Intention](/assets/images/wiapost/7502-The-Power-of-Intension.png)
+![Mind Map : The Power of Intention](/assets/images/booksummary/7502-The-Power-of-Intension.png)
 

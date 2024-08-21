@@ -36,4 +36,4 @@ share: true
 12. Santiago's journey is a symbol of the human need for self-discovery, search for meaning and purpose in life.
 13. The book emphasizes how everything in the universe is connected.
 
-![Mind Map : The Alchemist by Paulo Coelho](/assets/images/wiapost/7504-The-Alchemist-by-Paulo-Coelho.png)
+![Mind Map : The Alchemist by Paulo Coelho](/assets/images/booksummary/7504-The-Alchemist-by-Paulo-Coelho.png)

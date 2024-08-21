@@ -39,5 +39,5 @@ Key Points from "The Power of Your Subconscious Mind" by Joseph Murphy
 7. Take action and be persistent in one's efforts to tap into the power of the subconscious mind.
 8. Let go of the past and the future.
 
-![Mind Map : The Power of Your Subconscious Mind](/assets/images/wiapost/7503-The-Power-of-Your-Subconscious-Mind.png)
+![Mind Map : The Power of Your Subconscious Mind](/assets/images/booksummary/7503-The-Power-of-Your-Subconscious-Mind.png)
 
