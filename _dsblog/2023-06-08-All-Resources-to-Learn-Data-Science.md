@@ -9,13 +9,15 @@ categories:
 
 header:
     teaser: /assets/images/dspost/dsp6064-Resources-to-Learn-Everything-About-AI.jpg
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
 excerpt:   
 author_profile: true   
 share: true   
-toc: false  
-toc_sticky: false 
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![All Resources to Learn Data Science](/assets/images/dspost/dsp6064-Resources-to-Learn-Everything-About-AI.jpg)    

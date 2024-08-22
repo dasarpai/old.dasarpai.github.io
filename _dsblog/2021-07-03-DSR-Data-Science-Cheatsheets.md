@@ -9,15 +9,15 @@ tags: [DS Resources, DS Cheatsheet]
 
 header:
   teaser: /assets/images/dspost/dsr103-Data-Science-Cheatsheets.jpg
-
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-mathjax: "true"
-share: true
+layout: dspost-layout   
 excerpt:   
-layout: single   
 author_profile: true   
-toc: false   
-toc_sticky: true
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Data Science Cheatsheets](/assets/images/dspost/dsr103-Data-Science-Cheatsheets.jpg)   

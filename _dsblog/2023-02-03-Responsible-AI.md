@@ -9,9 +9,15 @@ categories:
 
 header:
     teaser: /assets/images/dspost/dsp6047-Responsible-AI.jpg
-author: Hari Thapliyaal 
-excerpt:
-share: true 
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 ![Responsible-AI](/assets/images/dspost/dsp6047-Responsible-AI.jpg)   
    

@@ -9,13 +9,15 @@ tags: [Database]
 categories:      
 header:      
     teaser: /assets/images/dspost/dsp6041-Type-of-Databases.jpg      
-author: Hari Thapliyaal      
-layout: dspost-layout      
-excerpt:      
-author_profile: true      
-share: true      
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 ---      
        
 ![Type of Databases](/assets/images/dspost/dsp6041-Type-of-Databases.jpg)    

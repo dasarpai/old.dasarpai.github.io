@@ -9,13 +9,15 @@ categories:
    
 header:   
     teaser: /assets/images/dspost/dsp6057-The-Interconnectedness-of-Life-and-Data.jpg   
-author: Hari Thapliyaal  
-layout: dspost-layout  
-excerpt:  
-author_profile: true  
-share: true  
-toc: true  
-toc_sticky: true  
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true" 
 ---   
    
 ![The Interconnectedness of Life and Data](/assets/images/dspost/dsp6057-The-Interconnectedness-of-Life-and-Data.jpg)       

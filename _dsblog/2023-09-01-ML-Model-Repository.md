@@ -8,12 +8,15 @@ tags: [ML Models, Pretrained Models, Deep Learning, NLP, Computer Vision]
 categories:
 header:
     teaser: /assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: True  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![ML Model Respository from Pinto0309](/assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg)

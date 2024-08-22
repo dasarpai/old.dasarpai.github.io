@@ -12,9 +12,14 @@ tags:
 header:
   teaser: "/assets/images/dspost/dsp6007-Why-AI-Project-Fails.jpg"
 excerpt_separator: "<!--more-->"
-excerpt:
-layout: single
-author_profile: true
+author: Hari Thapliyaal   
+mathjax: true
+share: true
+excerpt:   
+layout: dspost-layout   
+author_profile: true   
+toc: true   
+toc_sticky: true
 ---
 
 **Contents**

@@ -15,9 +15,14 @@ tags:
 header:
   teaser: "/assets/images/dspost/dsp6006-Confusion-Matrix-Bayesian-Theorem.jpg"
 excerpt_separator: "<!--more-->"
-excerpt:
-layout: single
-author_profile: true
+author: Hari Thapliyaal   
+mathjax: true
+share: true
+excerpt:   
+layout: dspost-layout   
+author_profile: true   
+toc: true   
+toc_sticky: true
 ---
 
 ![Confusion Matrix](/assets/images/dspost/dsp6006-Confusion-Matrix-Bayesian-Theorem.jpg)   

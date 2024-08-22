@@ -9,12 +9,15 @@ categories:
 
 header:
     teaser: /assets/images/dspost/dsp6068-A-Guide-to-Model-Fine-Tuning-with-OpenAI-API.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: true  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![A Guide to Model Fine Tuning with OpenAI API](/assets/images/dspost/dsp6068-A-Guide-to-Model-Fine-Tuning-with-OpenAI-API.jpg)    

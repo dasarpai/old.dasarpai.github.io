@@ -12,9 +12,14 @@ tags:
 header:   
   teaser: /assets/images/dspost/dsp6014-BookReview-Data-Science-for-Marketing-Analytics.jpg   
 excerpt_separator: "<!--more-->"   
-excerpt:   
+author: Hari Thapliyaal   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"  
 ---   
 [Book Review - Data Science in Marketing Analysis](/assets/images/dspost/dsp6014-BookReview-Data-Science-for-Marketing-Analytics.jpg)   
    

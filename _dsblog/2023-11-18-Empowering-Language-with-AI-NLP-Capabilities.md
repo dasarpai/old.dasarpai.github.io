@@ -9,12 +9,15 @@ categories:
 header:
     teaser: /assets/images/dspost/dsp6106-Empowering-Language-with-AI-NLP-Capabilities.jpg
     
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: True  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Empowering-Language-with-AI-NLP-Capabilities](/assets/images/dspost/dsp6106-Empowering-Language-with-AI-NLP-Capabilities.jpg)

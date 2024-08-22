@@ -9,12 +9,15 @@ categories:
 
 header:
     teaser: /assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: False  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Database and Analytics Product Services from Google Azure AWS]( /assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg)

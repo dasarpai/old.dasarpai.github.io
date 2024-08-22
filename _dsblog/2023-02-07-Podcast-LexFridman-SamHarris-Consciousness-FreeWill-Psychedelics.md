@@ -9,6 +9,7 @@ categories:
 
 header:
     teaser: /assets/images/dspost/dsp6050-Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics.jpg
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
 excerpt:   
@@ -16,6 +17,7 @@ author_profile: true
 share: true   
 toc: true   
 toc_sticky: true 
+mathjax: "true"
 ---
    
 ![Postcast Lex Fridman Sam Harris Consciousness FreeWill Psychedelics](/assets/images/dspost/dsp6050-Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics.jpg)   

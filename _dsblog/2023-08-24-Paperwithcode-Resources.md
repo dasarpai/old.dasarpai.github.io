@@ -9,12 +9,15 @@ categories:
 
 header:
     teaser: /assets/images/dspost/dsp6091-rps-Paperwithcode-Resources.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: false  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Paper with Code Resources](/assets/images/dspost/dsp6091-rps-Paperwithcode-Resources.jpg)

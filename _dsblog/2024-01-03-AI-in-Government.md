@@ -9,13 +9,15 @@ categories:
 
 header:
     teaser: /assets/images/dspost/dsp6110-AI-Usecases-in-Goverment.jpg
-author: Hari Thapliyaal 
-excerpt:
-layout: dspost-layout  
-author_profile: true  
-share: true
-toc: True  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
    
 ![AI Usecases in Government](/assets/images/dspost/dsp6110-AI-Usecases-in-Goverment.jpg)   

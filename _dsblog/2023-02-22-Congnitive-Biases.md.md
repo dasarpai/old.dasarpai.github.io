@@ -9,6 +9,7 @@ categories:
 
 header:
     teaser: /assets/images/dspost/dsp6051-Cognitive-Biases.jpg
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
 excerpt:   
@@ -16,6 +17,7 @@ author_profile: true
 share: true   
 toc: true   
 toc_sticky: true 
+mathjax: "true"
 ---
    
 ![Cognitive Bias](/assets/images/dspost/dsp6051-Cognitive-Biases.jpg)    

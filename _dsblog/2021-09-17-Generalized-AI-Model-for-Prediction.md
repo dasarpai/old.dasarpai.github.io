@@ -10,8 +10,15 @@ tags:
   - Generalized ML Model 
 header:
   teaser: "/assets/images/dspost/dsp6009-Generalized-AI-Model-for-Prediction.jpg"
-excerpt_separator: "<!--more-->"
-excerpt:
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Generalized AI Model for Prediction](/assets/images/dspost/dsp6009-Generalized-AI-Model-for-Prediction.jpg)   

@@ -10,11 +10,14 @@ tags: [OpenAI, NLP, Machine Learning, Natural Language Processing, GPT3]
 header:   
   teaser: "/assets/images/dspost/dsp6020-GPT-Usecases.jpg"   
 excerpt_separator: "<!--more-->"   
-excerpt:   
+author: Hari Thapliyaal   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 --- 
 
    

@@ -9,14 +9,15 @@ tags: [DS Resources, Machine Learning Framework, Library, Tools]
 header:
   teaser:  /assets/images/dspost/dsr113-Machine-Learning-Framework-Library-Tools.jpg
 last_modified_at: 2021-06-15T15:46:43-04:00
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-mathjax: "true"
-share: true
-excerpt:   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
-toc: false   
-toc_sticky: true
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Machine Learning Framework, Library, Tools](/assets/images/dspost/dsr113-Machine-Learning-Framework-Library-Tools.jpg)   

@@ -9,15 +9,20 @@ categories:
 
 header:
     teaser: /assets/images/dspost/dsp6045-Cost-Functions-and-Optimizers-in-Machine-Learning.jpg
-author: Hari Thapliyaal 
-excerpt:
-share: true 
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
-![Cost-Functions-and-Optimizers-in-Machine-Learning](/assets/images/dspost/dsp6045-Cost-Functions-and-Optimizers-in-Machine-Learning.jpg)
+![Cost-Functions-and-Optimizers-in-Machine-Learning](/assets/images/dspost/dsp6045-Cost-Functions-and-Optimizers-in-Machine-Learning.jpg)   
 
-
-# Cost-Functions-and-Optimizers-in-Machine-Learning
+# Cost-Functions-and-Optimizers-in-Machine-Learning   
 
 ## What is machine learning?
 Machine learning is a subfield of artificial intelligence that focuses on the **development of algorithms and statistical models** that enable computers to improve their performance on a specific task through experience.
@@ -164,14 +169,16 @@ Cost functions, also known as loss functions, are mathematical functions used in
 Different cost functions are chosen based on the type of problem (regression, classification, etc.) and the specific characteristics of the data (e.g., presence of outliers). The goal is to find a cost function that aligns well with the task and helps the model converge to an optimal solution during training.
 
 ## What are different cost functions for different Machine learning goals?
-### If the goal is Regression, we want to predict a continuous number, then we can use use these cost/loss functions.
+### Cost Function for Regression 
+If the goal is Regression, we want to predict a continuous number, then we can use use these cost/loss functions.
 - Mean Squared Error (MSE): used for regression problems, measures the average squared difference between the predicted output and the actual output.
 - Mean Absolute Error (MAE): also used for regression problems, measures the average absolute difference between the predicted output and the actual output.
 - Huber Loss: a combination of mean squared error and mean absolute error, used for robust regression.
 - Smooth L1 Loss: also known as the Huber Loss, a combination of mean squared error and mean absolute error, used for object detection in computer vision.
 - Log-Cosh Loss: a smooth approximation of the mean absolute error, used for regression problems.
 
-### If the goal is Classification, we want to predict a class/category, then we can use use these cost/loss functions.
+### Cost Function for Classification 
+If the goal is Classification, we want to predict a class/category, then we can use use these cost/loss functions.
 - Binary Cross-Entropy Loss: a variation of cross-entropy loss, used for binary classification problems.
 - Cross-Entropy Loss: measures the difference between the predicted class probabilities and the actual class label, used for multi-class classification problems.
 - Hinge Loss: used for maximum-margin classification problems, measures the margin between the predicted class and the incorrect class.
@@ -180,14 +187,16 @@ Different cost functions are chosen based on the type of problem (regression, cl
 - Focal Loss: used for object detection in computer vision, adds a term that modulates the cross-entropy loss based on the prediction confidence.
 - Categorical Cross-Entropy Loss: another variation of cross-entropy loss for multi-class classification problems.
 
-### If the goal is Clustering, we want to group samples/records/examples, then we can use use these cost/loss functions.
+### Cost Function for Clustering 
+If the goal is Clustering, we want to group samples/records/examples, then we can use use these cost/loss functions.
 - Sum of Squared Errors (SSE): measures the sum of squared differences between each data point and its nearest cluster center.
 - Within-Cluster Sum of Squared Errors (WCSS): similar to SSE, but measures the sum of squared differences between each data point and its nearest cluster center, averaged across all clusters.
 - Davies-Bouldin Index: measures the similarity between each pair of clusters, based on the distance between their cluster centers and the size of their cluster.
 - Silhouette Score: measures the similarity between each data point and its own cluster compared to other clusters.
 - Calinski-Harabasz Index: measures the ratio of between-cluster variance to within-cluster variance, based on the sum of squared differences from the cluster centers.
 
-### If the goal is Semantic Segmentation (a type of image analysis task in computer vision where the goal is to classify each pixel in an image into a predefined category or class.), then we can use use these cost/loss functions.
+### Cost Function for Sementic Segmenration 
+If the goal is Semantic Segmentation (a type of image analysis task in computer vision where the goal is to classify each pixel in an image into a predefined category or class.), then we can use use these cost/loss functions.
 - Cross-Entropy Loss: measures the difference between the predicted class probabilities and the actual class label.
 - Dice Loss: measures the overlap between the predicted and ground-truth segmentation masks.
 - Intersection over Union (IoU) Loss: similar to Dice loss, measures the overlap between the predicted and ground-truth segmentation masks, but normalizes the overlap based on the size of the masks.
@@ -195,7 +204,8 @@ Different cost functions are chosen based on the type of problem (regression, cl
 - Focal Loss: adds a term that modulates the cross-entropy loss based on the prediction confidence, which can improve the performance of the model on the hard examples.
 
 
-## Can you tell what different loss functions are available to update the parameters during learning in Text Generation models?
+## Cost Function for Text Genration 
+Can you tell what different loss functions are available to update the parameters during learning in Text Generation models?
 
 In text generation models, various loss functions are used to update the model's parameters and improve performance. The choice of loss function depends on the model architecture and the specific text generation task. Here are some common loss functions used in text generation:
 

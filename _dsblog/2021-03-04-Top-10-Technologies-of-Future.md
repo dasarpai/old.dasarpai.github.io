@@ -10,14 +10,15 @@ tags:
   - Naive Bayes
 header:
   teaser: "/assets/images/dspost/dsp6004-Top-10-Future-Technologies.jpg"
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-mathjax: "true"
-share: true
-excerpt:   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Future Technologies](/assets/images/dspost/dsp6004-Top-10-Future-Technologies.jpg)   

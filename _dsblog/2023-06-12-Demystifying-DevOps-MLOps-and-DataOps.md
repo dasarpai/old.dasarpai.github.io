@@ -9,13 +9,15 @@ categories:
     
 header:    
     teaser: /assets/images/dspost/dsp6066-Demystifying-DevOps-MLOps-and-DataOps.jpg    
-author: Hari Thapliyaal       
-layout: dspost-layout       
-excerpt:       
-author_profile: true       
-share: true       
-toc: false      
-toc_sticky: false     
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"     
 ---    
     
 ![All Resources to Learn Data Science](/assets/images/dspost/dsp6066-Demystifying-DevOps-MLOps-and-DataOps.jpg)        

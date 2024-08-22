@@ -8,12 +8,15 @@ tags: [Learning AI, Learning ML, Learning Process, PhD in AI, Question Answering
 categories:
 header:
     teaser: /assets/images/dspost/dsp6100-Journey-from-MS-to-Phd.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: True  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 

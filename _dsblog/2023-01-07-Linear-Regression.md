@@ -10,11 +10,13 @@ tags: [Linear Regression, Interview Question, Machine Learning]
 header:   
   teaser: "/assets/images/dspost/dsp6022-Linear-Regression-Interview-Questions.jpg"   
 excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
 excerpt:   
-layout: single   
 author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
 mathjax: "true"
 --- 
 

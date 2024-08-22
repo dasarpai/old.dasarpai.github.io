@@ -9,13 +9,15 @@ categories:
 
 header:
     teaser: /assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg
-author: Hari Thapliyaal  
-layout: dspost-layout  
-excerpt:  
-author_profile: true  
-share: true  
-toc: true  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Types of Machine Learning](/assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg)     

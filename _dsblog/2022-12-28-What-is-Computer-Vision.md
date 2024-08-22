@@ -10,11 +10,14 @@ tags: [Computer Vision]
 header:   
   teaser: "/assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg"   
 excerpt_separator: "<!--more-->"   
-excerpt:   
+author: Hari Thapliyaal   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 --- 
    
 ![What is Computer Vision](/assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg)   

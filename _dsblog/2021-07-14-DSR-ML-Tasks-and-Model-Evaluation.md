@@ -8,6 +8,7 @@ tags: [DS Resources, Model Evaluation, Machine Learning Tasks, NLP Tasks, NLP Mo
 header:
   teaser:  /assets/images/dspost/dsr114-ml-tasks-and-model-evaluation.jpg
 last_modified_at: 2021-06-15T15:46:43-04:00
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
 excerpt:   
@@ -15,6 +16,7 @@ author_profile: true
 share: true   
 toc: true   
 toc_sticky: true 
+mathjax: "true"
 ---
 ![Deep Learning Tasks and Models](/assets/images/dspost/dsr114-ml-tasks-and-model-evaluation.jpg)    
     

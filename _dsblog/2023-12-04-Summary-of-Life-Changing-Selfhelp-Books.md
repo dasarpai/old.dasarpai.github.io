@@ -9,14 +9,15 @@ categories:
 header:
     teaser: /assets/images/dspost/dsp6107-Summary-of-Life-Changing-Selfhelp-Books.jpg
     
-excerpt_separator: "<!--more-->"  
-excerpt:  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-share: true
-toc: True  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Summary of Life Changing Selfhelp Books](/assets/images/dspost/dsp6107-Summary-of-Life-Changing-Selfhelp-Books.jpg)

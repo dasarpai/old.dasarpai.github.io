@@ -7,6 +7,7 @@ categories:
 tags: [DS Resources, AI Diary] 
 header:
    teaser: "/assets/images/dspost/dsr121-AI-ML-Resources-from-My-Diary.jpg"
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
 excerpt:   
@@ -14,6 +15,7 @@ author_profile: true
 share: true   
 toc: true   
 toc_sticky: true 
+mathjax: "true"
 ---
 ![AI ML Resources from My Diary](/assets/images/dspost/dsr121-AI-ML-Resources-from-My-Diary.jpg)   
    

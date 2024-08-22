@@ -10,12 +10,15 @@ categories:
 
 header:
     teaser: /assets/images/dspost/dsp6093-Distances-in-Machine-Learning.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: True  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Distances in Machine Learning](/assets/images/dspost/dsp6093-Distances-in-Machine-Learning.jpg)

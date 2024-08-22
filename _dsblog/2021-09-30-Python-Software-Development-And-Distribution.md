@@ -10,12 +10,15 @@ tags:
   - Software Distribution
 header:
   teaser: "/assets/images/dspost/dsp6012-Python-Software-Development-and-Distribution.jpg"
-excerpt_separator: "<!--more-->"
-excerpt:
-layout: single
-author_profile: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 ---
 
 **Contents**

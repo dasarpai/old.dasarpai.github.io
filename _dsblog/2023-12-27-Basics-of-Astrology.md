@@ -8,13 +8,15 @@ tags: [Education, Data Science, Astrology, Astronomy]
 categories:
 header:
     teaser: /assets/images/dspost/dsp6108-Basics-of-Astrology.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-share: true
-toc: True  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Basics of Astrology](/assets/images/dspost/dsp6108-Basics-of-Astrology.jpg)     
