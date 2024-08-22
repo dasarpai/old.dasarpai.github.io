@@ -284,7 +284,7 @@ A probability distribution assigns probabilities to different outcomes or events
 
 ### KL Divergence Explained:
 
-**Kullback-Leibler (KL) Divergence** is a measure of how one probability distribution diverges from a second, expected probability distribution. It's not symmetric, meaning $$ (\text{KL}P | Q) $$ is not necessarily the same as $$ \text{KL}(Q | P) $$. The KL divergence is used to quantify how much information is lost when we use the predicted distribution instead of the target distribution.
+**Kullback-Leibler (KL) Divergence** is a measure of how one probability distribution diverges from a second, expected probability distribution. It's not symmetric, meaning $$ (\text{KL}P \| Q) $$ is not necessarily the same as $$ \text{KL}(Q \| P) $$. The KL divergence is used to quantify how much information is lost when we use the predicted distribution instead of the target distribution.
 
 ### Example:
 
@@ -294,7 +294,7 @@ Let's consider a simple example where we have a model that is predicting the nex
 
 Suppose we're trying to predict the next word after "The cat is". The target distribution might look like this based on real-world data:
 
-- Target distribution $ Q $:
+- Target distribution $$ Q $$:
   - "sleeping": 0.7
   - "running": 0.2
   - "eating": 0.1
@@ -303,14 +303,14 @@ This distribution reflects the true probabilities of each word occurring next ba
 
 Now, suppose our model predicts the following distribution:
 
-- Predicted distribution $ P $:
+- Predicted distribution $$ P $$:
   - "sleeping": 0.5
   - "running": 0.3
   - "eating": 0.2
 
 ### KL Divergence Calculation:
 
-The KL divergence between the target distribution $ Q $ and the predicted distribution $ P $ can be calculated as:
+The KL divergence between the target distribution $$ Q $$ and the predicted distribution $$ P $$ can be calculated as:
 
 $$
 \text{KL}(Q \| P) = \sum_{i} Q(i) \log \frac{Q(i)}{P(i)}
@@ -347,7 +347,7 @@ $$
 
 ### Interpretation:
 
-- **KL Divergence Value**: The KL divergence value of 0.1703 indicates that there's some divergence between the predicted and target distributions. If the predicted distribution $ P $ were exactly the same as the target distribution $ Q $, the KL divergence would be 0, indicating no divergence.
+- **KL Divergence Value**: The KL divergence value of 0.1703 indicates that there's some divergence between the predicted and target distributions. If the predicted distribution $$ P $$ were exactly the same as the target distribution $$ Q $$, the KL divergence would be 0, indicating no divergence.
 - **Minimizing KL Divergence**: In practice, during training, we try to minimize the KL divergence to make the model’s predictions as close as possible to the target distribution.
 
 ### Summary:
@@ -364,81 +364,81 @@ Some popular optimisers include stochastic gradient descent (SGD), momentum, Ada
 
 ## Can you explain with example how these optimizers update the model parameters?
 - Stochastic Gradient Descent (SGD) - It updates the model parameters by taking the gradient of the loss function with respect to the parameters and subtracting it from the parameters.   
-	$\theta = \theta - \alpha \frac{\partial J(\theta)}{\partial \theta}$   
+	 $$\theta = \theta - \alpha \frac{\partial J(\theta)}{\partial \theta}$$   
 	
-	where $\theta$ is the model parameter, $\alpha$ is the learning rate, and $J(\theta)$ is the cost function.   
+	where  $$\theta$$ is the model parameter,  $$\alpha$$ is the learning rate, and $$J(\theta)$$ is the cost function.   
 	
 - Momentum - It accumulates the gradient of the previous steps to avoid oscillation and converge faster.   
 	$v = \beta v - \alpha \frac{\partial J(\theta)}{\partial \theta}$   
 
-	$\theta = \theta + v$   
+	 $$\theta = \theta + v$$   
 
-	where $v$ is the velocity term, $\beta$ is the momentum hyperparameter.   
+	where $v$ is the velocity term,  $$\beta$$ is the momentum hyperparameter.   
 
 - Nesterov Accelerated Gradient (NAG) - It is an improved version of Momentum that takes into account the future position of the parameters based on the estimated gradient.   
 	$v = \beta v - \alpha \frac{\partial J(\theta + \beta v)}{\partial \theta}$   
 
-	$\theta = \theta + v$   
+	 $$\theta = \theta + v$$   
 
 - Adagrad - It adapts the learning rate to the parameters, performing larger updates for infrequent parameters and smaller updates for frequent parameters.   
-	$G = G + \left(\frac{\partial J(\theta)}{\partial \theta}\right)^2$   
+	$$G = G + \left(\frac{\partial J(\theta)}{\partial \theta}\right)^2$$   
 
-	$\theta = \theta - \frac{\alpha}{\sqrt{G + \epsilon}} \frac{\partial J(\theta)}{\partial \theta}$   
+	 $$\theta = \theta - \frac{\alpha}{\sqrt{G + \epsilon}} \frac{\partial J(\theta)}{\partial \theta}$$   
 
-	where $G$ is the sum of squares of past gradients, and $\epsilon$ is a small value to prevent division by zero.   
+	where $$G$$ is the sum of squares of past gradients, and $$\epsilon$$ is a small value to prevent division by zero.   
 
 - Adadelta - It is an extension of Adagrad that reduces its aggressive, monotonically decreasing learning rate.
 	$E[g^2]t = \gamma E[g^2]{t-1} + (1 - \gamma)\left(\frac{\partial J(\theta)}{\partial \theta}\right)^2$   
 
-	$\Delta \theta_t = -\frac{\sqrt{E[\Delta \theta^2]_{t-1} + \epsilon}}{\sqrt{E[g^2]_t + \epsilon}} \frac{\partial J(\theta)}{\partial \theta}$   
+	 $$\Delta \theta_t = -\frac{\sqrt{E[\Delta \theta^2]_{t-1} + \epsilon}}{\sqrt{E[g^2]_t + \epsilon}} \frac{\partial J(\theta)}{\partial \theta}$$   
 
-	$\theta = \theta + \Delta \theta_t$   
+	 $$\theta = \theta + \Delta \theta_t$$   
 
-	where $E[g^2]$ and $E[\Delta \theta^2]$ are the moving average of the square of gradients and the square of parameter updates, respectively, and $\gamma$ is the decay rate.  
+	where $E[g^2]$ and $E[\Delta \theta^2]$ are the moving average of the square of gradients and the square of parameter updates, respectively, and  $$\gamma$$ is the decay rate.  
 
 - RProp - It uses the sign of the gradient to determine the direction of the update, with a dynamically adjusted step size for each parameter.
 
-	$\Delta \theta_i = \text{sign}(\frac{\partial J(\theta)}{\partial \theta_i})\Delta \theta_{i,prev}$
+	 $$\Delta \theta_i = \text{sign}(\frac{\partial J(\theta)}{\partial \theta_i})\Delta \theta_{i,prev}$$
 
-	$\theta_i = \theta_i - \Delta \theta_i$
+	 $$\theta_i = \theta_i - \Delta \theta_i$$
 
-	where $\theta_i$ is the current value of a model parameter, $\frac{\partial J(\theta)}{\partial \theta_i}$ is the gradient of the loss function with respect to the parameter, $\Delta \theta_{i,prev}$ is the previous update to the parameter, and $\text{sign}(\cdot)$ is the sign function. The step size $\Delta \theta_i$ is determined dynamically based on the magnitude of the gradient.
+	where  $$\theta_i$$ is the current value of a model parameter,  $$\frac{\partial J(\theta)}{\partial \theta_i}$$ is the gradient of the loss function with respect to the parameter,  $$\Delta \theta_{i,prev}$$ is the previous update to the parameter, and  $$\text{sign}(\cdot)$$ is the sign function. The step size  $$\Delta \theta_i$$ is determined dynamically based on the magnitude of the gradient.
 
 
 - Adam (Adaptive Moment Estimation) - It combines the advantages of Momentum and Adagrad, by considering both the average and the variance of the gradient for parameter updates.   
-	$m = \beta_1 m + (1 - \beta_1) \frac{\partial J(\theta)}{\partial \theta}$   
+	$$m = \beta_1 m + (1 - \beta_1) \frac{\partial J(\theta)}{\partial \theta}$$   
 
-	$v = \beta_2 v + (1 - \beta_2) \left(\frac{\partial J(\theta)}{\partial \theta}\right)^2$   
+	$$v = \beta_2 v + (1 - \beta_2) \left(\frac{\partial J(\theta)}{\partial \theta}\right)^2$$   
 
-	$\hat{m} = \frac{m}{1 - \beta_1^t}$   
+	 $$\hat{m} = \frac{m}{1 - \beta_1^t}$$   
 
-	$\hat{v} = \frac{v}{1 - \beta_2^t}$   
+	 $$\hat{v} = \frac{v}{1 - \beta_2^t}$$   
 
-	$\theta = \theta - \frac{\alpha}{\sqrt{\hat{v}} + \epsilon} \hat{m}$   
+	 $$\theta = \theta - \frac{\alpha}{\sqrt{\hat{v}} + \epsilon} \hat{m}$$   
 
-	where $m$ and $v$ are the first and second moment estimates, respectively, $\beta_1$ and $\beta_2$ are hyperparameters, and the rest of the terms are as defined above.   
+	where $$m$$ and $$v$$ are the first and second moment estimates, respectively,  $$\beta_1$$ and  $$\beta_2$$ are hyperparameters, and the rest of the terms are as defined above.   
 
 
 - AMSGrad - It is an extension of Adam that ensures the learning rate does not get too small, even if the gradient is small.   
 	$m = \beta_1 m + (1 - \beta_1) \frac{\partial J(\theta)}{\partial \theta}$   
 
-	$v = \max(\beta_2 v + (1 - \beta_2) \left(\frac{\partial J(\theta)}{\partial \theta}\right)^2, v_{t-1})$   
+	$$v = \max(\beta_2 v + (1 - \beta_2) \left(\frac{\partial J(\theta)}{\partial \theta}\right)^2, v_{t-1})$$   
 
-	$\hat{m} = \frac{m}{1 - \beta_1^t}$   
+	 $$\hat{m} = \frac{m}{1 - \beta_1^t}$$   
 
-	$\hat{v} = \frac{v}{1 - \beta_2^t}$   
+	 $$\hat{v} = \frac{v}{1 - \beta_2^t}$$   
 
-	$\theta = \theta - \frac{\alpha}{\sqrt{\hat{v}} + \epsilon} \hat{m}$   
+	 $$\theta = \theta - \frac{\alpha}{\sqrt{\hat{v}} + \epsilon} \hat{m}$$   
 
 
 - Nadam (Nesterov-Accelerated Adaptive Moment Estimation) - It combines NAG and Adam to take advantage of the rapid convergence of NAG and the adaptive learning rate of Adam.   
-	$m = \beta_1 m + (1 - \beta_1) \frac{\partial J(\theta)}{\partial \theta}$
+	$$m = \beta_1 m + (1 - \beta_1) \frac{\partial J(\theta)}{\partial \theta}$$
 
-	$v = \beta_2 v + (1 - \beta_2) \left(\frac{\partial J(\theta)}{\partial \theta}\right)^2$   
+	$$v = \beta_2 v + (1 - \beta_2) \left(\frac{\partial J(\theta)}{\partial \theta}\right)^2$$   
 
-	$\hat{m} = \frac{m}{1 - \beta_1^t}$   
+	 $$\hat{m} = \frac{m}{1 - \beta_1^t}$$   
 
-	$\hat{v} = \frac{v}{1 - \beta_2^t}$   
+	 $$\hat{v} = \frac{v}{1 - \beta_2^t}$$   
 
-	$\theta = \theta - \frac{\alpha}{\sqrt{\hat{v}} + \epsilon} \left(\beta_1 \hat{m} + (1 - \beta_1) \frac{\partial J(\theta)}{\partial \theta}\right)$   
+	 $$\theta = \theta - \frac{\alpha}{\sqrt{\hat{v}} + \epsilon} \left(\beta_1 \hat{m} + (1 - \beta_1) \frac{\partial J(\theta)}{\partial \theta}\right)$$   
 
