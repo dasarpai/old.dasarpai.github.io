@@ -18,6 +18,7 @@ share: true
 toc: true   
 toc_sticky: true 
 mathjax: "true"
+comments: true
 ---
 
 ![Why to Finetune LLM?](/assets/images/dspost/6115-why-to-finetune-llm.jpg)
