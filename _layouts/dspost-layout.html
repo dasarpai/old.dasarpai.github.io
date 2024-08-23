@@ -79,7 +79,7 @@ layout: default
           <ul>
             {% if page.tags %}
               {% for tag in page.tags %}
-                <li><a href="{{ site.baseurl }}/datascience-tags/{{ tag | slugify }}">{{ tag }}</a></li>
+                <li><a href="{{ site.baseurl }}/datascience-tags/#{{ tag | slugify }}">{{ tag }}</a></li>
               {% endfor %}
             {% else %}
               <li>No tags</li>
@@ -130,7 +130,7 @@ layout: default
       <div class="dsblog-article-list">
         <ul>
           {% for post in site.dsblog %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}</li>
+            <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" | reverse}}</li>
           {% endfor %}
         </ul>
       </div>
@@ -150,7 +150,7 @@ layout: default
       <h2 class="page__related-title">Related Articles</h2>
       <ul>
           {% if site.dsblog and site.dsblog.size > 0 %}
-              {% assign sorted_posts = site.dsblog | sort: "author_date" %}
+              {% assign sorted_posts = site.dsblog | sort: "author_date" | reverse %}
               {% for post in sorted_posts %}
                   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
               {% endfor %}
