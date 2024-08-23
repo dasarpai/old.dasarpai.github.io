@@ -5,7 +5,8 @@ title: Unraveling the Google Web - Exploring the Purpose of Google's Websites
 date: 2023-06-04
 permalink: '/dsblog/Unraveling-the-Google-Web'
 tags: [Google, Products] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6060-Unraveling-the-Google-Web.jpg

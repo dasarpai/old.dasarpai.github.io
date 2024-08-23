@@ -4,7 +4,7 @@ title: "What is NLP?"
 date: '2022-12-19T15:50:00+05:30'
 permalink: /dsblog/what-is-nlp
 categories:
-
+  - dsblog
 tags: [Machine Learning]
 
 header:

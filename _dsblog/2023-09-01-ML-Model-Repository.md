@@ -6,6 +6,7 @@ date: 2023-09-01
 permalink: /dsblog/ML-Model-Repository-from-Pinto0309
 tags: [ML Models, Pretrained Models, Deep Learning, NLP, Computer Vision]
 categories:
+  - dsblog
 header:
     teaser: /assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg
 excerpt_separator: "<!--more-->"   

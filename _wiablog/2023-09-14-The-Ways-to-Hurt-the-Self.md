@@ -10,7 +10,7 @@ categories:
 header:        
     teaser: /assets/images/wiapost/5234-The-Ways-to-Hurt-the-Self.jpg        
 author: Hari Thapliyaal        
-layout: wiapost-layout        
+layout: wiapost-layout
 excerpt:        
 author_profile: true        
 share: true        

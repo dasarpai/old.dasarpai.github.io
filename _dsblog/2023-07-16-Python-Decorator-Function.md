@@ -5,7 +5,8 @@ title: Python Decorator Function
 date: 2023-07-15
 permalink: '/dsblog/Python-Decorator-Function'
 tags: [Python, Programming] 
-categories: 
+categories:
+  - dsblog 
 
 header:
     teaser: /assets/images/dspost/dsp6074-Python-Decorator-Function.jpg

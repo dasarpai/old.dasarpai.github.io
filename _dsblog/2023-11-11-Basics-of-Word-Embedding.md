@@ -6,6 +6,7 @@ date: 2023-11-11
 permalink: /dsblog/basics-of-word-embedding
 tags: [Word Embedding, Embedding, NLP]
 categories:
+  - dsblog
 header:
     teaser: /assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg
 excerpt_separator: "<!--more-->"   

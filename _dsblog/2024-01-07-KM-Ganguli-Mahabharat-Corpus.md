@@ -5,7 +5,8 @@ title: KM Ganguli Mahabharat Corpus
 date: 2024-01-03
 permalink: /dsblog/KM-Ganguli-Mahabharat-Corpus
 tags: [AI-Usecases, Government] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6111-KM-Ganguli-Mahabharata-Corpus.jpg

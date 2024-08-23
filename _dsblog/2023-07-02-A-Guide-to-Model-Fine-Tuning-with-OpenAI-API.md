@@ -5,7 +5,8 @@ title: 'A Guide to Model Fine Tuning with OpenAI API'
 date: 2023-07-02
 permalink: '/dsblog/Model-Fine-Tuning-with-OpenAI-API'
 tags: [NLP, AI Transformers, Deep Learning, OpenAI] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6068-A-Guide-to-Model-Fine-Tuning-with-OpenAI-API.jpg

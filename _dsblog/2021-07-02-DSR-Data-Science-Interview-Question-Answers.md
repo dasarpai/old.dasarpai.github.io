@@ -4,6 +4,7 @@ title: "Data Science Interview Question Answers"
 permalink: /dsblog/ds-ai-ml-interview-resources
 date: 2020-07-02
 categories:
+  - dsblog
 tags: [DS Resources, AI Interview Questions, Data Science Interview Questions, Machine Learning Interview Questions, Interview Questions]
 
 header:

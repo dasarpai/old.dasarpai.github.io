@@ -4,6 +4,7 @@ title: "My Daily Tools"
 permalink: /dsblog/my-daily-tools
 date: 2021-07-12
 categories:
+  - dsblog
 tags: [DS Resources, Daily Tools, Soft Tools, PM Tools, Design Tools, SEO Tools, AI Tools]
 
 header:

@@ -4,7 +4,7 @@ title: "Data Science/AI Projects Project Ideas"
 date: '2022-10-06T15:50:00+05:30'
 permalink: /dsblog/DS-AI-Projects-Project-Ideas
 categories:
-  - Blog
+  - dsblog
 tags:
   - ML Projects
   - Deep Learning Projects

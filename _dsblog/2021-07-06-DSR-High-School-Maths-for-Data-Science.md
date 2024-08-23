@@ -4,6 +4,7 @@ title: "High School Maths for Data Science"
 permalink: /dsblog/high-school-maths-for-ds
 date: 2021-07-06
 categories:
+  - dsblog
 tags: [DS Resources, Mathematics for Data Scientist]
 
 header:

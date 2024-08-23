@@ -6,6 +6,7 @@ date: 2023-08-21
 permalink: '/dsblog/Comprehensive-Glossary-of-LLM'
 tags: [LLM, Transformer, Encoder, Decoder, Encoder-Decoder, Machine Learning, NLP, Abbreviation]
 categories:
+  - dsblog
 
 
 header:

@@ -3,8 +3,8 @@ id: 6014
 title: Book Review - Data Science in Marketing Analysis   
 date: '2022-10-26T15:50:00+05:30'   
 permalink: /dsblog/bookreview-data-science-for-marketing-analytics   
-categories:   
-  - Blog   
+categories:
+  - dsblog   
 tags:   
   - Book Review   
   - Marketing Analytics   

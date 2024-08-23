@@ -1,6 +1,6 @@
 ---
 id: 801    
-layout: archive
+layout: gallery
 permalink: /gallery
 title: "My Gallery Links"
 author_profile: true

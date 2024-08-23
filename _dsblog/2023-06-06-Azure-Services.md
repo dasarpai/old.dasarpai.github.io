@@ -5,7 +5,8 @@ title:  Unlocking the Power of Azure- Exploring 300+ Cloud Services and Their Pu
 date: 2023-06-06
 permalink: '/dsblog/Azure-Cloud-Service-Catalog'
 tags: [Azure, Cloud] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6062-Azure-Cloud-Service-Catalog.jpg

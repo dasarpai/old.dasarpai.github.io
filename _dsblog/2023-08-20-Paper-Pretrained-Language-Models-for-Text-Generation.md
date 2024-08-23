@@ -6,6 +6,7 @@ date: 2023-08-18
 permalink: '/dsblog/rps-Pretrained-Language-Models-for-Text-Generation'
 tags: [AI Paper, NLP, Pretrained Model]
 categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg

@@ -6,6 +6,7 @@ date: 2024-07-27
 permalink: /dsblog/why-to-finetune-llm
 tags: [NLP, NLU, LLM]
 categories:
+  - dsblog
 header:
     teaser: /assets/images/dspost/6115-why-to-finetune-llm.jpg
 excerpt_separator: "<!--more-->"   

@@ -10,7 +10,7 @@ categories:
 header:        
     teaser: /assets/images/wiapost/5256-Solution-of-Inside-problem-is-not-outside.jpg        
 author: Hari Thapliyaal        
-layout: single        
+layout: wiapost-layout
 excerpt:        
 author_profile: true        
 share: true        

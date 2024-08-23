@@ -5,7 +5,8 @@ title: Introduction to ML Model Deployment
 date: 2023-07-19
 permalink: '/dsblog/Introduction-to-ML-Model-deployment'
 tags: [MLOps, AI Deployment, Model Deployment] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6077-Introduction-to-ML-Model-deployment.jpg

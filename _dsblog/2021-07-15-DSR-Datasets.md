@@ -4,7 +4,8 @@ title: "Datasets"
 permalink: /dsblog/datasets
 date: 2021-07-15
 tags: [DS Resources, Data Science Datasets] 
-categories: 
+categories:
+  - dsblog
 header:
     teaser:  /assets/images/dspost/dsr115-Datasets.jpg  
 excerpt_separator: "<!--more-->"   

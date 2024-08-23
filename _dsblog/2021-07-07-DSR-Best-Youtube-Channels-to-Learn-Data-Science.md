@@ -4,6 +4,7 @@ title: "Best YouTube Channels to Learn Data Science"
 permalink: /dsblog/best-youtube-channels-for-ds
 date: 2021-07-07
 categories:
+  - dsblog
 tags: [DS Resources, YouTube Channels for Data Scientist, YouTube Channels for AI]
 header:
   teaser:  /assets/images/dspost/dsr107-Best-YouTube-Channels-to-Learn-Data-Science.jpg

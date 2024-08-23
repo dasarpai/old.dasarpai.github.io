@@ -6,6 +6,7 @@ date: 2023-11-11
 permalink: /dsblog/graph-of-thoughts
 tags: [NLP, NLU, LLM]
 categories:
+  - dsblog
 header:
     teaser: /assets/images/dspost/dsp6103-Graph-of-Thoughts.jpg
 excerpt_separator: "<!--more-->"   

@@ -4,6 +4,7 @@ title: "AI, ML, DL Blogs Sites"
 permalink: /dsblog/ai-ml-blogs
 date: 2021-07-12
 categories:
+  - dsblog
 tags: [DS Resources, AI Blogs]
 
 header:

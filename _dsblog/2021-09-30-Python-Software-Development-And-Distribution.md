@@ -4,7 +4,7 @@ title: "Python Software Development and Distribution"
 date: '2021-09-30T15:50:00+05:30'
 permalink: /dsblog/Python-Software-Development-and-Distribution
 categories:
-  - Blog
+  - dsblog
 tags:
   - Python Software Development 
   - Software Distribution

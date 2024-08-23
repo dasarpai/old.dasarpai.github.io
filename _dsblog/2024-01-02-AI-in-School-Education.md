@@ -5,7 +5,8 @@ title: AI in School Education
 date: 2024-01-02
 permalink: /dsblog/AI-in-School-Education
 tags: [AI-Usecases, Education] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6109-AI-Usecases-in-Education.jpg

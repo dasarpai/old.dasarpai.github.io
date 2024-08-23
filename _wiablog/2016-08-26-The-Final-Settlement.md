@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5027-The-Final-Settlement.jpg
 author: Hari Thapliyaal 
-layout: wiapost-layout 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 

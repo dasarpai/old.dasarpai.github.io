@@ -4,7 +4,8 @@ id: 6036
 title: "AI Use Cases in Food Processing"  
 date: '2023-01-22T15:50:00+05:30'  
 permalink: /dsblog/AI-Use-Cases-in-Food-Processing
-categories:  
+categories:
+  - dsblog 
    
 tags: [AI Usecases, Food Processing, Computer Vision, NLP]  
    

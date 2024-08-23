@@ -10,7 +10,7 @@ categories:
 header:  
   teaser: /assets/images/wiapost/5250-2024-World-Poltics-and-Life-Beyond.jpg  
 author: Hari Thapliyaal  
-layout: wiapost-layout 
+layout: wiapost-layout
 excerpt:  
 author_profile: true  
 share: true  

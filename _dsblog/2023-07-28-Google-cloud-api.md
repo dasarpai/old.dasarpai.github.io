@@ -5,7 +5,8 @@ title: Google Cloud APIs
 date: 2023-07-28
 permalink: '/dsblog/Google-Cloud-APIS'
 tags: [Google Cloud, APIs] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6082-Google-API-Services.jpg

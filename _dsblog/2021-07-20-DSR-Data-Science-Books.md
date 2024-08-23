@@ -4,6 +4,7 @@ title: "Data Science, AI, ML, eBooks, PDF Books"
 permalink: /dsblog/ds-ai-ml-books
 date: 2022-07-20
 categories:
+  - dsblog
 tags: [DS Resources, AI, Data Science, Machine Learning, eBook, Data Science Books]
 
 header:

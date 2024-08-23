@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5194-What-Is-The-Miracle.jpg
 author: Hari Thapliyaal 
-layout: wiapost-layout 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 

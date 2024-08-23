@@ -5,7 +5,8 @@ title: 'What is CAPTCHA?'
 date: 2023-07-03
 permalink: '/dsblog/What-is-Captcha'
 tags: [Glossary] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6070-What-is-Captcha.jpg

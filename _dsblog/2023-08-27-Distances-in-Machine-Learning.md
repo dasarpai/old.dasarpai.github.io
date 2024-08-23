@@ -6,6 +6,7 @@ date: 2023-08-27
 permalink: '/dsblog/Distances-in-Machine-Learning'
 tags: [Machine Learning, Maths in AI, Abbreviation]
 categories:
+  - dsblog
 
 
 header:

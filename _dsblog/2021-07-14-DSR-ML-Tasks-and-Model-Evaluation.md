@@ -4,6 +4,7 @@ title: "Machine Learning Tasks and Model Evaluation"
 permalink: /dsblog/ml-tasks-and-model-evaluation
 date: 2021-07-14
 categories:
+  - dsblog
 tags: [DS Resources, Model Evaluation, Machine Learning Tasks, NLP Tasks, NLP Model Evaluation]
 header:
   teaser:  /assets/images/dspost/dsr114-ml-tasks-and-model-evaluation.jpg

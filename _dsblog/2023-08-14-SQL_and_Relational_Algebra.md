@@ -5,7 +5,8 @@ title: SQL and Relational Algebra
 date: 2023-08-14
 permalink: '/dsblog/relational-algebra'
 tags: [RDBMS, Database Joins] 
-categories: 
+categories:
+  - dsblog 
 
 header:
     teaser: /assets/images/dspost/dsp6084-Relational-Algebra.jpg

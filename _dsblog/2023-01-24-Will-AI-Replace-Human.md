@@ -6,7 +6,8 @@ date: "2023-01-19T08:33:00+05:30"
 permalink: /dsblog/Will-AI-Replace-Human    
 tags: [Education, AI]   
    
-categories:   
+categories:
+  - dsblog
 header:   
     teaser: /assets/images/dspost/dsp6038-Will-AI-Replace-Human.jpg   
 excerpt_separator: "<!--more-->"   

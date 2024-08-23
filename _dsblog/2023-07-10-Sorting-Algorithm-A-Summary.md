@@ -5,7 +5,8 @@ title: Sorting Algorithm A Summary
 date: 2023-07-10
 permalink: '/dsblog/Sorting-Algorithm-A-Summary'
 tags: [Programming, Algorithms] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6071-Sorting-Algorithm-A-Summary.jpg

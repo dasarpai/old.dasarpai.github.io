@@ -5,7 +5,8 @@ title: 'Introduction to Neural Network'
 date: 2023-01-17
 permalink: '/dsblog/Introduction-to-Neural-Network'
 tags: [NLP] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg

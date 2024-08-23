@@ -4,6 +4,7 @@ title: "My Favorite Chrome Extensions"
 permalink: /dsblog/myfab-chrome-extensions
 date: 2021-07-11
 categories:
+  - dsblog
 tags: [DS Resources, Chrome Tools, Chrome Extensions]
 header:
   teaser:  /assets/images/dspost/dsr111-My-Favorite-Chrome-Extensions.jpg

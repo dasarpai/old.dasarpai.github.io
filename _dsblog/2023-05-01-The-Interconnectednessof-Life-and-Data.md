@@ -5,7 +5,8 @@ title: The Interconnectedness of Life and Data
 date: 2023-05-01   
 permalink: '/dsblog/File-Formats-in-Machine-Learning'   
 tags: [Data Engineering, NLP]    
-categories:    
+categories:
+  - dsblog   
    
 header:   
     teaser: /assets/images/dspost/dsp6057-The-Interconnectedness-of-Life-and-Data.jpg   

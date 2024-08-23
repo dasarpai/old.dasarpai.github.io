@@ -6,6 +6,7 @@ date: 2023-11-07
 permalink: /dsblog/compressing-llm
 tags: [LLM, Large Language Model, Model Compressing]
 categories:
+  - dsblog
 header:
     teaser: /assets/images/dspost/dsp6099-Compressing-LLM.jpg
 excerpt_separator: "<!--more-->"   

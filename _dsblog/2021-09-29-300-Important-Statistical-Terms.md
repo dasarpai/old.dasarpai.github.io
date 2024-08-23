@@ -4,7 +4,7 @@ title: "300 Important Statistical Terms"
 date: '2021-09-29T15:50:00+05:30'
 permalink: /dsblog/300-Important-Statistical-Terms
 categories:
-  - Blog
+  - dsblog
 tags:
   - Statistical Terms
   - Statistics

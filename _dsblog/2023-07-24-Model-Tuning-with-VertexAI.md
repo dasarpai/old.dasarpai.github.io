@@ -5,7 +5,8 @@ title: Model Tuning with VertexAI
 date: 2023-07-24
 permalink: '/dsblog/Model-Tuning-with-VertexAI'
 tags: [LLM, Prompt Engineering, Google Cloud, AWS Cloud, Auzre Cloud, Language Models] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6081-Model-Tuning-with-VertexAI.jpg

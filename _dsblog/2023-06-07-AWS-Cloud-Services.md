@@ -5,7 +5,8 @@ title:  A Comprehensive Guide to 210+ AWS Services
 date: 2023-06-06
 permalink: '/dsblog/AWS-Cloud-Service-Catalog'
 tags: [Cloud, AWS] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6063-AWS-Cloud-Service-Catalog.jpg

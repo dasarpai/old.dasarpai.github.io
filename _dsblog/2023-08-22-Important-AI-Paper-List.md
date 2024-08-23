@@ -6,6 +6,7 @@ date: 2023-08-22
 permalink: '/dsblog/aip'
 tags: [LLM, Transformer, Encoder, Decoder, Encoder-Decoder, Machine Learning, NLP]
 categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6090-rps-Important-AI-Paper-List.jpg

@@ -5,7 +5,8 @@ title: Books on Conciousness
 date: 2023-02-06   
 permalink: '/dsblog/Books-on-Conciousness'   
 tags: [NLP, BOOKS]   
-categories:   
+categories:
+  - dsblog   
    
 header:   
    teaser: /assets/images/dspost/dsp6049-Books-on-Conciousness.jpg   

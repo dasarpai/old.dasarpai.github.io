@@ -5,7 +5,8 @@ title: Cognitive Biases
 date: 2023-02-22
 permalink: '/dsblog/cognitive-biases'
 tags: [NLP, Deep Learning, ML Training, MLOps] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6051-Cognitive-Biases.jpg

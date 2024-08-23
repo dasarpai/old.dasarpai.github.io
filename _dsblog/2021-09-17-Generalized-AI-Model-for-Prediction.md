@@ -4,7 +4,7 @@ title: "Generalized AI Model for Prediction"
 date: '2021-09-17T15:50:00+05:30'
 permalink: /dsblog/Generalized-AI-Model-for-Prediction
 categories:
-  - Blog
+  - dsblog
 tags:
   - Machine Learning Models  
   - Generalized ML Model 

@@ -5,7 +5,8 @@ title: Types of Questions
 date: 2023-08-11
 permalink: '/dsblog/types-of-questions'
 tags: [Google Cloud, APIs] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6083-Types-of-Questions.jpg

@@ -1,4 +1,0 @@
-RewriteEngine On
-RewriteMap redirects txt:redirects-map.txt
-RewriteCond ${redirects:$1|not_found} !not_found
-RewriteRule (.*)$ ${redirects:$1} [R=301,L]

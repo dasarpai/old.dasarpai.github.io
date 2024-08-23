@@ -6,6 +6,7 @@ date: 2023-08-22
 permalink: '/dsblog/paperwithcode-resources'
 tags: [AI Research Paper, ML Libraries, NLP, Deep Learning]
 categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6091-rps-Paperwithcode-Resources.jpg

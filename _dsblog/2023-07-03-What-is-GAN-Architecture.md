@@ -5,7 +5,8 @@ title: 'What is GAN Architecture?'
 date: 2023-07-03
 permalink: '/dsblog/What-is-GAN-Architecture'
 tags: [NLP, AI Transformers, Deep Learning, GAN] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg

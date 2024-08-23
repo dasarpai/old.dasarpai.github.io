@@ -6,6 +6,7 @@ date: 2023-08-21
 permalink: '/dsblog/Machine-Learning-Metrics'
 tags: [Machine Learning, NLP, ML Metrics, Model Evaluation, Abbreviation]
 categories:
+  - dsblog
 
 
 header:

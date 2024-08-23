@@ -4,7 +4,7 @@ title: "How Naive Bayes Classifier Works"
 date: '2021-03-31T15:50:00+05:30'
 permalink: /dsblog/How-Naive-Bayes-Classifier-Works
 categories:
-  - Blog
+  - dsblog
 tags:
   - Naive Bayes Classifier
   - Naive Bayes

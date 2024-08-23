@@ -5,7 +5,8 @@ title: Responsible AI
 date: 2023-02-03
 permalink: '/dsblog/Responsible-AI'
 tags: [AI Ethics] 
-categories: 
+categories:
+  - dsblog 
 
 header:
     teaser: /assets/images/dspost/dsp6047-Responsible-AI.jpg

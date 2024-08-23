@@ -5,7 +5,8 @@ title: God Fathers of AI
 date: 2023-05-05
 permalink: '/dsblog/God-Fathers-of-AI'
 tags: [AI-General, Machine Learning] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6058-God-Fathers-of-AI.jpg

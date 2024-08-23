@@ -6,7 +6,8 @@ date: "2023-01-25T08:33:00+05:30"
 permalink: /dsblog/Type-of-Databases    
 tags: [Database]      
        
-categories:      
+categories:
+  - dsblog 
 header:      
     teaser: /assets/images/dspost/dsp6041-Type-of-Databases.jpg      
 excerpt_separator: "<!--more-->"   

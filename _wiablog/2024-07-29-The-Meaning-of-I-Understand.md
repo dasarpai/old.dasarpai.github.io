@@ -3,14 +3,14 @@ id: 5251
 mathjax: true        
 title:  The Meaning of Understanding          
 date: "2024-07-27T08:33:00+05:30"        
-permalink: /wiaposts/The-Meaning-of-Success        
+permalink: /wiaposts/The-Meaning-of-Understanding        
 tags:  [My Views, Life, Philosophy]         
         
 categories:        
 header:        
     teaser: /assets/images/wiapost/5251-The-Meaning-of-Understanding.jpg        
 author: Hari Thapliyaal        
-layout: single        
+layout: wiapost-layout
 excerpt:        
 author_profile: true        
 share: true        

@@ -5,7 +5,8 @@ title: Introduction to Prompt Engineering
 date: 2023-07-24
 permalink: '/dsblog/Introduction-to-Prompt-Engineering'
 tags: [LLM, Prompt Engineering, Google Cloud, AWS Cloud, Auzre Cloud, Language Models] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6080-Introduction-to-Prompt-Engineering.jpg

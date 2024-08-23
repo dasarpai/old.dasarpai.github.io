@@ -10,7 +10,7 @@ categories:
 header:                    
     teaser: /assets/images/wiapost/5213-Yours-Value-System-and-Contradictions.jpg                   
 author: Hari Thapliyaal                    
-layout: wiapost-layout                    
+layout: wiapost-layout
 excerpt:                    
 author_profile: true                    
 share: true                    

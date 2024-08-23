@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5014-Prisoner-Of-The-Mind.jpg
 author: Hari Thapliyaal 
-layout: wiapost-layout 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 

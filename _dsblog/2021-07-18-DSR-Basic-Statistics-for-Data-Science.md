@@ -4,6 +4,7 @@ title: "Basic Statistics for Data Science"
 permalink: /dsblog/basic-statistics-for-data-science
 date: 2021-07-18
 categories:
+  - dsblog
 tags: [DS Resources, Basic Statistics, Statistics for Data Science]
 
 header:

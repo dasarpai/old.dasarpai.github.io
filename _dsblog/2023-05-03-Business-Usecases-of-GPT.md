@@ -5,7 +5,8 @@ title: Business Usecases of GPT
 date: 2023-05-03
 permalink: '/dsblog/Business-Usecases-of-GPT'
 tags: [NLP, GAN, GPT, Deep Learning] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6059-Business-Usecases-of-GPT.jpg

@@ -5,7 +5,8 @@ title:  Google Cloud Service Catalog - A Comprehensive Overview of 250+ Google C
 date: 2023-06-05
 permalink: '/dsblog/Google-Cloud-Service-Catalog'
 tags: [Google, GCP, Cloud] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6061-Google-Cloud-Service-Catalog.jpg

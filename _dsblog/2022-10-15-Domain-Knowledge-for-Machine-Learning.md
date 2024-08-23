@@ -4,7 +4,7 @@ title: "Domain Knowledge in Machine Learning"
 date: '2022-10-15T15:50:00+05:30'
 permalink: /dsblog/Domain-Knowledge-in-Machine-Learning
 categories:
-
+  - dsblog
 tags: [Machine Learning]
 
 header:

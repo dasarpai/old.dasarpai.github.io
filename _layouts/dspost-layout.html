@@ -49,7 +49,8 @@ layout: default
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
-
+      
+      <!-- Existing Footer Section -->
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
@@ -57,6 +58,47 @@ layout: default
         {% include page__taxonomy.html %}
         {% include page__date.html %}
       </footer>
+
+      <!-- Tags and Categories Section -->
+      <div class="post-meta">
+        <div class="post-categories">
+          <h3>Categories:</h3>
+          <ul>
+            {% if page.categories %}
+              {% for category in page.categories %}
+                <li><a href="{{ site.baseurl }}/{{ category | slugify }}">{{ category }}</a></li>
+              {% endfor %}
+            {% else %}
+              <li>No categories</li>
+            {% endif %}
+          </ul>
+        </div>
+
+        <div class="post-tags">
+          <h3>Tags:</h3>
+          <ul>
+            {% if page.tags %}
+              {% for tag in page.tags %}
+                <li><a href="{{ site.baseurl }}/datascience-tags/{{ tag | slugify }}">{{ tag }}</a></li>
+              {% endfor %}
+            {% else %}
+              <li>No tags</li>
+            {% endif %}
+          </ul>
+        </div>
+      </div>
+
+      <!-- Existing Related Posts Section -->
+      {% if page.id and page.related and site.related_posts.size > 0 %}
+        <div class="page__related">
+          <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
+          <div class="grid__wrapper">
+            {% for post in site.related_posts limit:4 %}
+              {% include archive-single.html type="grid" %}
+            {% endfor %}
+          </div>
+        </div>
+      {% endif %}
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
@@ -79,23 +121,19 @@ layout: default
       </div>
     </div>
   {% comment %}<!-- otherwise show recent posts if no related when `related: true` -->{% endcomment %}
+
   {% elsif page.id and page.related %}
     <div class="page__related">
       <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
 
       <!-- Add this block where you want the list of posts to appear -->
       <div class="dsblog-article-list">
-        <h2>Other Articles in This Series</h2>
         <ul>
-          {% for post in site.categories.dsblog %}
-          <li>
-            <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
-          </li>
+          {% for post in site.dsblog %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}</li>
           {% endfor %}
         </ul>
       </div>
-
-
 
       <div class="grid__wrapper">
         {% for post in site.posts limit:4 %}
@@ -107,16 +145,24 @@ layout: default
       </div>
     </div>
   {% else %}
-   <!-- Add list of articles from the wiaposts collection here -->
+    <!-- Add list of articles from the wiaposts collection here -->
     <div class="page__related">
-        <h2 class="page__related-title">Related Articles</h2>
-        <ul>
-		    {% assign sorted_posts = site.dsblog | sort:"author_date" | reverse %}
-   
-            {% for post in sorted_posts %}
-                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endfor %}
-        </ul>
-    </div>
+      <h2 class="page__related-title">Related Articles</h2>
+      <ul>
+          {% if site.dsblog and site.dsblog.size > 0 %}
+              {% assign sorted_posts = site.dsblog | sort: "author_date" %}
+              {% for post in sorted_posts %}
+                  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+              {% endfor %}
+          {% else %}
+              <li>No related articles available.</li>
+          {% endif %}
+      </ul>
+    </div>    
   {% endif %}
+
+
+
+
+
 </div>

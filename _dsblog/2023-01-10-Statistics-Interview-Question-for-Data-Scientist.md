@@ -3,8 +3,8 @@ id: 6025
 title: "Statistics Interview Question for Data Scientist"  
 date: '2023-01-06T15:50:00+05:30'  
 permalink: /dsblog/Statistics-Interview-Question-for-Data-Scientist
-categories:  
-   
+categories:
+  - dsblog
 tags: [Statistics, Maths, Stats for Data Science]  
    
 header:  

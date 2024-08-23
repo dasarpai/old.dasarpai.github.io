@@ -5,7 +5,8 @@ title: Linux OS Directories
 date: 2023-04-26    
 permalink: '/dsblog/Linux-OS-Directories'    
 tags: [Linux]     
-categories:     
+categories:
+  - dsblog     
     
 header:    
     teaser: /assets/images/dspost/dsp6055-Linux-OS-Directories.jpg    

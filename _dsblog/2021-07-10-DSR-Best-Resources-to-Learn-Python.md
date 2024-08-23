@@ -4,6 +4,7 @@ title: "Best Resources to Learn Python"
 permalink: /dsblog/best-resources-to-learn-python
 date: 2021-07-10
 categories:
+  - dsblog
 tags: [DS Resources, Resource for Python Learning, Python Resources]
 excerpt: #
 header:

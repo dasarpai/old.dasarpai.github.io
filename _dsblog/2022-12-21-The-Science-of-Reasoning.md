@@ -4,7 +4,7 @@ title: "The Science of Reasoning"
 date: '2022-12-21T15:50:00+05:30'
 permalink: /dsblog/The-Science-of-Reasoning
 categories:
-
+  - dsblog
 tags: [Type of Reasoning]
 
 header:

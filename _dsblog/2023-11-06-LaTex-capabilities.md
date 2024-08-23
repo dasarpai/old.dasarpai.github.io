@@ -6,6 +6,7 @@ date: 2023-11-06
 permalink: /dsblog/latex-capabilities
 tags: [LaTeX, Research]
 categories:
+  - dsblog
 header:
     teaser: /assets/images/dspost/dsp6098-Latex-capabilities.jpg
 excerpt_separator: "<!--more-->"   

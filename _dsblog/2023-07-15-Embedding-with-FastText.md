@@ -5,7 +5,8 @@ title: Embedding with FastText
 date: 2023-07-15
 permalink: '/dsblog/Embedding-with-FastText'
 tags: [NLP, Embedding, FastText] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6073-Embedding-with-FastText.jpg

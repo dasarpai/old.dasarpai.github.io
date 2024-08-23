@@ -4,7 +4,7 @@ title: "Dealing with Sensitive Data"
 date: '2020-03-10T15:50:00+05:30'
 permalink: /dsblog/Dealing-with-Sensitive-Data
 categories:
-  - Blog
+  - dsblog
 tags:
   - XAI
   - Explainable AI

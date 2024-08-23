@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5078-The-Process-Of-Cultural-Digestion.jpg
 author: Hari Thapliyaal 
-layout: wiapost-layout 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 

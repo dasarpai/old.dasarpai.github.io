@@ -4,6 +4,7 @@ title: "AI, ML, Deep Learning, NLP Conferences & Journals"
 permalink: /dsblog/ai-ml-dl-nlp-conferences
 date: 2021-07-08
 categories:
+  - dsblog
 tags: [DS Resources, AI Conferences, Machine Learning Conferences, NLP Conferences, Deep Learning Conferences]
 
 header:

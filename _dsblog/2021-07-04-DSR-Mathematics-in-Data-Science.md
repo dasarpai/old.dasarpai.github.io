@@ -4,6 +4,7 @@ title: "Mathematics for Data Scientist"
 permalink: /dsblog/maths-for-ds
 date: 2021-07-04
 categories:
+  - dsblog
 tags: [DS Resources, Mathematics for Data Scientist]
 
 header:

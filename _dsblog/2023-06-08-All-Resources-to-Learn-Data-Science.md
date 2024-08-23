@@ -5,7 +5,8 @@ title:  All Resources to Learn Data Science
 date: 2023-06-08
 permalink: '/dsblog/all-resources-to-learn-data-science'
 tags: [Pinned, AI Resources] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6064-Resources-to-Learn-Everything-About-AI.jpg

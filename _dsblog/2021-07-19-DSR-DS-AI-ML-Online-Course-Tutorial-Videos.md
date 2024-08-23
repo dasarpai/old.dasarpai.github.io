@@ -4,6 +4,7 @@ title: "DS, AI, ML Online Course, Tutorial, Videos"
 permalink: /dsblog/data-science-tutorial-video-resources
 date: 2020-07-02
 categories:
+  - dsblog
 tags: [DS Resources, AI, Data Science, Machine Learning, Online Tutorial, Online Video]
 excerpt: #
 header:

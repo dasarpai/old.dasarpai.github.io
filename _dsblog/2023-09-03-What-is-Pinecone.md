@@ -6,6 +6,7 @@ date: 2023-09-03
 permalink: /dsblog/What-is-Pinecone
 tags: [ML Models, Vector Embedding, LLM]
 categories:
+  - dsblog
 header:
     teaser: /assets/images/dspost/dsp6097-What-is-Pinecone.jpg
 excerpt_separator: "<!--more-->"   

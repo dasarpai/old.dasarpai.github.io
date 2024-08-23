@@ -1,16 +1,16 @@
 ---        
 id: 5261        
 mathjax: true        
-title:  What is Relationship - Poem        
+title:  What is Relationship        
 date: "2024-08-20T08:33:00+05:30"        
-permalink: /wiaposts/what-is-relationship-poem   
+permalink: /wiaposts/what-is-relationship  
 tags:  [My Views, Life, Philosophy]         
         
 categories:        
 header:        
     teaser: /assets/images/wiapost/5260-what-is-relationship.jpg        
 author: Hari Thapliyaal        
-layout: single        
+layout: wiapost-layout        
 excerpt:        
 author_profile: true        
 share: true        

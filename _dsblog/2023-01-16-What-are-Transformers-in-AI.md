@@ -5,7 +5,8 @@ title: 'What Are Transformers in AI'
 date: 2021-08-03
 permalink: '/dsblog/What-Are-Transformers-in-AI'
 tags: [NLP, AI Transformers, Deep Learning] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6031-What-are-Transformers-in-AI.jpg

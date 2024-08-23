@@ -5,7 +5,8 @@ title:  Demystifying DevOps, MLOps, and DataOps
 date: 2023-06-08    
 permalink: '/dsblog/Demystifying-DevOps-MLOps-and-DataOps'    
 tags: [Pinned, AI Resources]     
-categories:     
+categories:
+  - dsblog    
     
 header:    
     teaser: /assets/images/dspost/dsp6066-Demystifying-DevOps-MLOps-and-DataOps.jpg    

@@ -3,8 +3,8 @@ id: 6019
 title: "ChatGPT Usecases"   
 date: '2023-01-04T15:50:00+05:30'   
 permalink: /dsblog/chatgpt-usecases 
-categories:   
-   
+categories:
+  - dsblog
 tags: [NLP, Machine Learning, Natural Language Processing, ChatGPT, GPT3, OpenAI]   
    
 header:   

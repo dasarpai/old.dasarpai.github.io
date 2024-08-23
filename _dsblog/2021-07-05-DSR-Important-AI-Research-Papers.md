@@ -4,6 +4,7 @@ title: "Important AI Research Papers"
 permalink: /dsblog/important-ai-research-papers
 date: 2021-07-05
 categories:
+  - dsblog
 tags: [DS Resources, AI Research Papers]
 
 header:

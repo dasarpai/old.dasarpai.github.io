@@ -6,6 +6,7 @@ date: 2024-07-27
 permalink: /dsblog/what-is-unicode-and-how-does-it-works
 tags: [NLP, NLU, LLM]
 categories:
+  - dsblog
 header:
     teaser: /assets/images/dspost/6114-what-is-unicode-and-how-does-it-works.jpg
 excerpt_separator: "<!--more-->"   

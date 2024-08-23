@@ -4,7 +4,7 @@ title: "EDA & Feature Engineering 101"
 date: '2020-08-24T15:50:00+05:30'
 permalink: /dsblog/EDA-Feature-Engineering-101
 categories:
-  - Blog
+  - dsblog
 tags:
   - Feature Engineering
   - EDA

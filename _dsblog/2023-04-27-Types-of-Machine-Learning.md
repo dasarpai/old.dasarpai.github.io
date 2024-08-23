@@ -6,6 +6,7 @@ date: 2023-04-27
 permalink: '/dsblog/Types-of-Machine-Learning'
 tags: [Machine-Learning]
 categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg

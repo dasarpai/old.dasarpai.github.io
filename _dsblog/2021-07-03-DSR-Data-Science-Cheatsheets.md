@@ -5,6 +5,7 @@ permalink: /dsblog/data-science-cheatsheets
 date: "2022-07-03T08:33:00+05:30"
 last_modified_at: 2022-09-11T15:46:43-04:00
 categories:
+  - dsblog
 tags: [DS Resources, DS Cheatsheet]
 
 header:

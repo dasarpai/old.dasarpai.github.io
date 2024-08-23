@@ -5,7 +5,8 @@ title: 'Capabilities of AI Transformers'
 date: 2023-07-01
 permalink: '/dsblog/Capabilities-of-AI-Transformers'
 tags: [NLP, AI Transformers, Deep Learning] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6067-Capabilities-of-AI-Transformers.jpg

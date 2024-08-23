@@ -4,6 +4,7 @@ title: "Data Scientists and AI, ML Researchers"
 permalink: /dsblog/ds-ai-ml-researchers
 date: 2021-07-17
 categories:
+  - dsblog
 tags: [DS Resources, AI Researchers, ML Researchers, NLP Researchers]
 
 header:

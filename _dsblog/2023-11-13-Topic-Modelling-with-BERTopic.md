@@ -6,6 +6,7 @@ date: 2023-11-13
 permalink: /dsblog/topic-modeling-with-bert
 tags: [NLP, NLU, LLM, Clustering, Topic Modeling]
 categories:
+  - dsblog
 header:
     teaser: /assets/images/dspost/dsp6105-Topic-Modeling-with-BERT.jpg
     

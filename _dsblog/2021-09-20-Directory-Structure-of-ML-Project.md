@@ -4,7 +4,7 @@ title: "Folder Structure for ML Project"
 date: '2021-09-20T15:50:00+05:30'
 permalink: /dsblog/Folder-Structure-for-ML-Project
 categories:
-  - Blog
+  - dsblog
 tags:
   - ML Project Directory Structure
   - Configuration Management  

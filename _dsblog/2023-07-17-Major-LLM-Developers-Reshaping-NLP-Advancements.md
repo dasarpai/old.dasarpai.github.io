@@ -5,7 +5,8 @@ title: Major LLM Developers Shaping the AI Landscape
 date: 2023-07-15
 permalink: '/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements'
 tags: [LLM, NLP, Machine Learning] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6075-Major-LLM-Developers-Reshaping-NLP-Advancements.jpg

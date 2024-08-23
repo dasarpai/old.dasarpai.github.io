@@ -6,6 +6,7 @@ date: "2023-12-27T08:33:00+05:30"
 permalink: /dsblog/Basics-of-Astrology
 tags: [Education, Data Science, Astrology, Astronomy]
 categories:
+  - dsblog
 header:
     teaser: /assets/images/dspost/dsp6108-Basics-of-Astrology.jpg
 excerpt_separator: "<!--more-->"   

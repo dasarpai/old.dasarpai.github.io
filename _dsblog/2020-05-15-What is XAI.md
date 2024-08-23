@@ -4,7 +4,7 @@ title: "What is XAI?"
 date: '2020-05-15T15:50:00+05:30'
 permalink: /dsblog/What-is-XAI
 categories:
-  - Blog
+  - dsblog
 tags:
   - XAI
   - Explainable AI

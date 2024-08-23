@@ -5,7 +5,8 @@ title: AWS SageMaker Jumpstart Models
 date: 2023-07-18
 permalink: '/dsblog/AWS-SageMaker-Jumpstart-Models'
 tags: [Python, Programming] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6076-AWS-SageMaker-Jumpstart-Models.jpg

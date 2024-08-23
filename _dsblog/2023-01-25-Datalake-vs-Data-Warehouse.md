@@ -6,7 +6,8 @@ date: "2023-01-25T08:33:00+05:30"
 permalink: /dsblog/Datalake-vs-Data-Warehouse   
 tags: [Database]   
    
-categories:   
+categories:
+  - dsblog  
 header:   
     teaser: /assets/images/dspost/dsp6040-Datalake-vs-Data-Warehouse.jpg   
 excerpt_separator: "<!--more-->"   

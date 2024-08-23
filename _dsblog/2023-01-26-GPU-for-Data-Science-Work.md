@@ -6,7 +6,8 @@ date: "2023-01-26T08:33:00+05:30"
 permalink: '/dsblog/GPU-for-Data-Science-Work'
 tags: [GPU, Deep Learning] 
 
-categories: 
+categories:
+  - dsblog
 header:
     teaser: /assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg
 author: Hari Thapliyaal   

@@ -4,7 +4,7 @@ title: "Top 10 Technologies of Future"
 date: '2021-03-04T15:50:00+05:30'
 permalink: /dsblog/Top-10-Technologies-of-Future
 categories:
-  - Blog
+  - dsblog
 tags:
   - Naive Bayes Classifier
   - Naive Bayes

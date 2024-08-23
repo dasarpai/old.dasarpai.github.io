@@ -4,7 +4,8 @@ title: "Reinforcement Learning Git Repositories"
 permalink: /dsblog/rl-git-repo
 date: 2020-07-01
 tags: [DS Resources, Reinforcment Learning, RL Git Repositories] 
-categories: 
+categories:
+  - dsblog 
 header:
     teaser:  /assets/images/dspost/dsr101-Reinforcement-Learning-Git-Repositories.jpg
 excerpt_separator: "<!--more-->"   

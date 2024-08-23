@@ -6,6 +6,7 @@ date: 2024-07-27
 permalink: /dsblog/transformers-demystified-a-step-by-step-guide
 tags: [NLP, NLU, LLM]
 categories:
+  - dsblog
 header:
     teaser: /assets/images/dspost/6113-transformers-demystified-a-step-by-step-guide.jpg
 excerpt_separator: "<!--more-->"   

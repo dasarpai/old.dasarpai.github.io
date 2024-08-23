@@ -4,7 +4,7 @@ title: "20 Reasons Why AI Project Fails"
 date: '2021-08-20T15:50:00+05:30'
 permalink: /dsblog/20-Reasons-Why-AI-Project-Fails
 categories:
-  - Blog
+  - dsblog
 tags:
   - Project Management
   - Why AI Project Fail?

@@ -3,8 +3,8 @@ id: 6020
 title: "GPT Usecases"   
 date: '2023-01-05T15:50:00+05:30'   
 permalink: /dsblog/gpt-usecases 
-categories:   
-   
+categories:
+  - dsblog
 tags: [OpenAI, NLP, Machine Learning, Natural Language Processing, GPT3]   
    
 header:   

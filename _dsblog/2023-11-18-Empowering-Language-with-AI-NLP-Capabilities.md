@@ -6,6 +6,7 @@ date: 2023-11-18
 permalink: /dsblog/empowering-language-with-ainlp-capabilities
 tags: [NLP, NLU, LLM]
 categories:
+  - dsblog
 header:
     teaser: /assets/images/dspost/dsp6106-Empowering-Language-with-AI-NLP-Capabilities.jpg
     

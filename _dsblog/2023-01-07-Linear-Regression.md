@@ -3,8 +3,8 @@ id: 6022
 title: "Linear Regression Interview Questions"   
 date: '2023-01-07T15:50:00+05:30'   
 permalink: /dsblog/Linear-Regression-Interview-Questions
-categories:   
-   
+categories:
+  - dsblog
 tags: [Linear Regression, Interview Question, Machine Learning]   
    
 header:   

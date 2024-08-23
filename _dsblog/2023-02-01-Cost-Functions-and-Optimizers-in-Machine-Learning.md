@@ -4,8 +4,9 @@ id: 6045
 title: Cost Functions and Optimizers in Machine Learning 
 date: 2023-02-01
 permalink: '/dsblog/Cost-Functions-and-Optimizers-in-Machine-Learning'
-tags: [NLP] 
-categories: 
+tags: [NLP, Machine Learning, ] 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6045-Cost-Functions-and-Optimizers-in-Machine-Learning.jpg
@@ -74,7 +75,6 @@ The terms "cost function" and "loss function" are often used interchangeably, bu
   $$
 
 In summary, the loss function is a measure of error on a single data point, while the cost function is a measure of error across the entire dataset.
-
 
 The specific form of the cost function will depend on the type of problem being solved and the nature of the output variables. For example, in regression problems, the mean squared error (MSE) is often used as the cost function, while in classification problems, the cross-entropy loss is commonly used.
 

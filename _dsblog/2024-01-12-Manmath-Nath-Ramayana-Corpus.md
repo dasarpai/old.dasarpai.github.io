@@ -5,7 +5,8 @@ title: Manamath Nath - Ramayana Corpus
 date: 2024-01-03
 permalink: /dsblog/manamath-nath-ramayana-corpus
 tags: [AI-Usecases, Government] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6112-Manmath-Nath-Ramayana-Corpus.jpg

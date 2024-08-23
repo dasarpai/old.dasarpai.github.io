@@ -5,7 +5,8 @@ title: AI Product and Services from Google, Azure and AWS
 date: 2023-07-20
 permalink: '/dsblog/AI-Product-and-Services-from-Google-Azure-and-AWS'
 tags: [AWS, Google, Azure, Cloud, AutoML, AI Products] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6078-AI-Product-and-Services-from-Google-Azure-and-AWS.jpg

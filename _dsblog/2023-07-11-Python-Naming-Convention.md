@@ -5,7 +5,8 @@ title: Python Naming Convention
 date: 2023-07-11
 permalink: '/dsblog/Python-Naming-Convention'
 tags: [Programming, Algorithms] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6072-Python-Naming-Convention.jpg

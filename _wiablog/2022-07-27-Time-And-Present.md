@@ -10,7 +10,7 @@ categories:
 header:
      teaser: /assets/images/wiapost/5197-Time-And-Present.jpg
 author: Hari Thapliyaal 
-layout: wiapost-layout 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
