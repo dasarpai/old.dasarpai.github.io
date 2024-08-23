@@ -12,7 +12,7 @@ header:
   overlay_filter: 0
 
 author_profile: false
-last_modified_at: 2024-08-27315:46:43-04:00
+last_modified_at: 2024-08-27T15:46:43-04:00
 toc: true
 mathjax: "true"
 sidebar:
