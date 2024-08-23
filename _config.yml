@@ -179,11 +179,11 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:hari@dasarpai.com"
       
     - label: "Website"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://dasarpai.com"
       
     - label: "LinkedIn"
@@ -195,7 +195,7 @@ footer:
       url: "https://github.com/dasarpai"
       
     - label: "OrcID"
-      icon: "fab fa-fw fa-id-card"
+      icon: "fas fa-fw fa-id-card"
       url: "https://orcid.org/0000-0001-7907-865X"
       
     - label: "Twitter"
@@ -204,19 +204,24 @@ footer:
       
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://instagram.com/dasarpai"
+      url: "https://facebook.com/dasarpai"
       
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://facebook.com/dasarpai"
+      url: "https://instagram.com/dasarpai"
 
     - label: "Terms & Condition"
-      icon: "fab fa-fw fa-file-contract"
+      icon: "fas fa-fw fa-file-contract"
       url: "/terms-of-service"
       
     - label: "Privacy Policy"
-      icon: "fab fa-fw fa-user-secret"
+      icon: "fas fa-fw fa-eye-slash"
       url: "/privacy"
+
+    - label: "Comment Policy"
+      icon: "fas fa-fw fa-comments"
+      url: "/comment-policy"
+
 
 # Reading Files
 include:

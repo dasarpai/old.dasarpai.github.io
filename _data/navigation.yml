@@ -1,6 +1,8 @@
 main:  
   - title: "Home"
     url: "/"
+  - title: "About"
+    url: "/aboutme"
   - title: "My Work & Courses"
     url: "/services" 
   - title: "AI Blogs"
@@ -16,9 +18,10 @@ main:
   - title: "Gallery"
     url: "/gallery"     
   - title: "History Corpus"
-    url: "/corpus-home"    
-  - title: "About"
-    url: "/aboutme"
+    url: "/corpus-home"   
+  - title: "Book Summary"
+    url: "/booksummary-blog"   
+
 
     
 # sidebar navigation for PMLOGY
