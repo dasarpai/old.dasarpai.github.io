@@ -116,8 +116,9 @@ layout: default
       <!-- Add this block where you want the list of posts to appear -->
       <div class="wiablog-article-list">
         <ul>
-          {% for post in site.wiablog %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" | reverse}}</li>
+          {% assign sorted_posts = site.wiablog | sort: "date" | reverse %}
+          {% for post in sorted_posts %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y"}}</li>
           {% endfor %}
         </ul>
       </div>
