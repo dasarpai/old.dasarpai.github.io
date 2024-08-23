@@ -13,12 +13,16 @@ tags:
   - Machine Learning
 header:
   teaser: "/assets/images/dspost/dsp6008-EDA101.jpg"
-excerpt_separator: "<!--more-->"
-excerpt:
-layout: single
-author_profile: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
+comments: true
 ---
 
 **Contents**
