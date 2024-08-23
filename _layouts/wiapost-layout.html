@@ -60,6 +60,19 @@ layout: default
       </footer>
 
       <!-- Tags and Categories Section -->
+	  <div class="post-meta">
+        <div class="post-categories">
+          <h3>Categories:</h3>
+          <ul>
+            {% if page.categories %}
+              {% for category in page.categories %}
+                <li><a href="{{ site.baseurl }}/{{ category | slugify }}">{{ category }}</a></li>
+              {% endfor %}
+            {% else %}
+              <li>No categories</li>
+            {% endif %}
+          </ul>
+        </div>
 
         <div class="post-tags">
           <h3>Tags:</h3>
@@ -73,7 +86,9 @@ layout: default
             {% endif %}
           </ul>
         </div>
-      </div>
+	  </div>
+      
+      
 
       <!-- Existing Related Posts Section -->
       {% if page.id and page.related and site.related_posts.size > 0 %}
