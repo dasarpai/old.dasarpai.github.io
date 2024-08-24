@@ -1,15 +1,15 @@
 ---    
-id: 7505    
+id: 7519    
   
 title:  "Book Summary: Narrative Economics"       
 
-date: "2023-04-21T08:33:00+05:30"    
+date: "2024-08-19T08:33:00+05:30"    
 permalink: /booksummary/Book-Summary-Narrative-Economics     
 tags:  [Book Summary, Economics]     
     
 categories:    
 header:    
-    teaser: /assets/images/booksummary/7505-Book-Summary-Narrative-Economics.jpg    
+    teaser: /assets/images/booksummary/7519-Book-Summary-Narrative-Economics.jpg    
 author: Hari Thapliyaal    
 layout: wiapost-layout    
 excerpt:    
@@ -17,7 +17,7 @@ author_profile: true
 share: true    
 ---    
     
-![Book Summary: Narrative Economics](/assets/images/booksummary/7505-Book-Summary-Narrative-Economics.jpg)   
+![Book Summary: Narrative Economics](/assets/images/booksummary/7519-Book-Summary-Narrative-Economics.jpg)   
 
 # Narrative Economics: How Stories Go Viral and Drive Major Economic Events
 

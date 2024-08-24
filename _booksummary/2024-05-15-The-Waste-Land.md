@@ -1,14 +1,14 @@
 ---                            
-id: 7501                            
+id: 7515                            
                           
 title:  The Waste Land                    
-date: "2023-01-25T08:33:00+05:30"                            
+date: "2024-05-15T08:33:00+05:30"                            
 permalink: /wiaposts/The-Waste-Land                       
 tags: [My Favorite Poems, TS Eliot]                     
                             
 categories:                            
 header:                            
-    teaser: /assets/images/booksummary/7501-The-Waste-Land.jpg                           
+    teaser: /assets/images/booksummary/7515-The-Waste-Land.jpg                           
 author: Hari Thapliyaal                            
 layout: wiapost-layout                            
 excerpt:                            
@@ -16,7 +16,7 @@ author_profile: true
 share: true                            
 ---                            
                             
-![The Waste Land](/assets/images/booksummary/7501-The-Waste-Land.jpg)                                 
+![The Waste Land](/assets/images/booksummary/7515-The-Waste-Land.jpg)                                 
                
 T.S. Eliot's "The Waste Land" is heavily influenced by Indian Vedanta philosophy. The poem references the Upanishads, a collection of ancient Indian texts that are a central part of Vedanta philosophy, and incorporates elements of Hindu and Buddhist myths and symbols. Eliot's use of these references and symbols serves to convey the theme of spiritual and cultural decay in the modern world.
 

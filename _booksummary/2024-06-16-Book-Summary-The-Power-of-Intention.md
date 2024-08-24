@@ -1,14 +1,14 @@
 ---    
-id: 7502    
+id: 7516    
   
 title:  "Book Summary : The Power of Intention"      
-date: "2023-04-17T08:33:00+05:30"    
+date: "2024-06-16T08:33:00+05:30"    
 permalink: /booksummary/Book-Summary-The-Power-of-Intention     
 tags:  [Book Summary, Selfhelp, Mind]     
     
 categories:    
 header:    
-    teaser: /assets/images/booksummary/7502-Book-Summary-The-Power-of-Intention.jpg    
+    teaser: /assets/images/booksummary/7516-Book-Summary-The-Power-of-Intention.jpg    
 author: Hari Thapliyaal    
 layout: wiapost-layout    
 excerpt:    
@@ -16,7 +16,7 @@ author_profile: true
 share: true    
 ---    
     
-![Book Summary : The Power of Intention](/assets/images/booksummary/7502-Book-Summary-The-Power-of-Intention.jpg)         
+![Book Summary : The Power of Intention](/assets/images/booksummary/7516-Book-Summary-The-Power-of-Intention.jpg)         
     
 # Book Summary : The Power of Intention   
    

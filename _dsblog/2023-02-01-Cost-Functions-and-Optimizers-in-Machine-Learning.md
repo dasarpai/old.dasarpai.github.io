@@ -443,3 +443,11 @@ Some popular optimisers include stochastic gradient descent (SGD), momentum, Ada
 
 	 $$\theta = \theta - \frac{\alpha}{\sqrt{\hat{v}} + \epsilon} \left(\beta_1 \hat{m} + (1 - \beta_1) \frac{\partial J(\theta)}{\partial \theta}\right)$$   
 
+
+   
+**Author**   
+Dr Hari Thapliyal   
+https://linkedin.com/in/harithapliyal   
+https://dasarpai.com 
+
+
