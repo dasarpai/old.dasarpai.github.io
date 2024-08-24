@@ -1,3 +1,4 @@
+
 # What is Stanford Alpaca?
 
 ## Introduction
@@ -23,6 +24,12 @@
 	- Self-Instruct: Aligning Language Model with Self Generated Instructions. [Yizhong2022](https://arxiv.org/abs/2212.10560)
 - Data Release
 	- alpaca_data.json contains 52K instruction-following data we used for fine-tuning the Alpaca model. This JSON file is a list of dictionaries, each dictionary contains the following fields: Instruction, input, output (text-davinci-003 geneated answer).
+
+## Capablitities
+This model can perform following tasks.
+
+![](https://raw.githubusercontent.com/tatsu-lab/stanford_alpaca/main/assets/parse_analysis.png)
+
 
 ## Data Generation
 
@@ -149,6 +156,8 @@ The DeepSpeed library also provides some helpful functions to estimate memory us
     python weight_diff.py recover --path_raw <path_to_step_1_dir> --path_diff <path_to_step_2_dir> --path_tuned <path_to_store_recovered_weights>
 Once step 3 completes, you should have a directory with the recovered weights, from which you can load the model like the following
 
+```
 import transformers
 alpaca_model = transformers.AutoModelForCausalLM.from_pretrained("<path_to_store_recovered_weights>")
 alpaca_tokenizer = transformers.AutoTokenizer.from_pretrained("<path_to_store_recovered_weights>")
+```
