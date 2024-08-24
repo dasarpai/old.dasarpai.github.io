@@ -3,7 +3,7 @@ id: 7520
   
 title:  "Book Summary: God is Not Dead"       
 
-date: "2023-08-24T08:33:00+05:30"    
+date: "2024-08-24T08:33:00+05:30"    
 permalink: /booksummary/Book-Summary-God-is-not-Dead     
 tags:  [Book Summary, Science, Spirituality]     
     

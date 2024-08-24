@@ -1,7 +1,7 @@
 ---                            
 id: 7508                            
                           
-title: Book Summary: Focus The Hidden Driver of Excellence by Daniel Goleman                      
+title: "Book Summary: Focus The Hidden Driver of Excellence by Daniel Goleman"                      
 date: "2024-03-08T08:33:00+05:30"                            
 permalink: /booksummary/Focus-The-Hidden-Driver-of-Excellence-by-Daniel-Goleman                      
 tags: [Book Summary]                     

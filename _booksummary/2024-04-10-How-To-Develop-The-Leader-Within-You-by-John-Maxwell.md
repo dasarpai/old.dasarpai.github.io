@@ -1,7 +1,7 @@
 ---                            
 id: 7510                            
                           
-title: Book Summary: How To Develop The Leader Within You by John Maxwell                     
+title: "Book Summary: How To Develop The Leader Within You by John Maxwell"                     
 date: "2024-04-10T08:33:00+05:30"                            
 permalink: /booksummary/How-To-Develop-The-Leader-Within-You-by-John-Maxwell                      
 tags: [Book Summary]                     

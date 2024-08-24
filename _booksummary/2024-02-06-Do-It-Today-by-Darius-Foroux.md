@@ -1,7 +1,7 @@
 ---                            
 id: 7506                            
                           
-title: Book Summary: Do It Today by Darius Foroux                     
+title: "Book Summary: Do It Today by Darius Foroux"                     
 date: "2024-02-06T08:33:00+05:30"                            
 permalink: /booksummary/Do-It-Today-by-Darius-Foroux                      
 tags: [Book Summary]                     

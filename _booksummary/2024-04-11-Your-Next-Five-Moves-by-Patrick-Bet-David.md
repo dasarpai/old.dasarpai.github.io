@@ -1,7 +1,7 @@
 ---                            
 id: 7511                            
                           
-title: Book Summary: Your Next Five Moves by Patrick Bet David                      
+title: "Book Summary: Your Next Five Moves by Patrick Bet David"                      
 date: "2024-04-11T08:33:00+05:30"                            
 permalink: /booksummary/Your-Next-Five-Moves-by-Patrick-Bet-David                      
 tags: [Book Summary]                     

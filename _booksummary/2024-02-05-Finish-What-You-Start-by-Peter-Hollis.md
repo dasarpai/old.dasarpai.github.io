@@ -1,7 +1,7 @@
 ---                            
 id: 7505                            
                           
-title: Book Summary: Finish What You Start by Peter Hollis                     
+title: "Book Summary: Finish What You Start by Peter Hollis"                     
 date: "2024-02-05T08:33:00+05:30"                            
 permalink: /booksummary/Finish-What-You-Start-by-Peter-Hollis                      
 tags: [Book Summary]                     

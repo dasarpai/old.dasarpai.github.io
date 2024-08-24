@@ -1,7 +1,7 @@
 ---                            
 id: 7503                            
                           
-title: Book Summary: How to Listen by Oscar Trimboli                      
+title: "Book Summary: How to Listen by Oscar Trimboli"                      
 date: "2024-01-03T08:33:00+05:30"                            
 permalink: /booksummary/How-to-Listen-by-Oscar-Trimboli                      
 tags: [Book Summary]                     

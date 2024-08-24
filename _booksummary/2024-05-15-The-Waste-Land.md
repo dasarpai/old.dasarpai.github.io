@@ -1,9 +1,9 @@
 ---                            
 id: 7515                            
                           
-title:  The Waste Land                    
+title:  "The Waste Land"                    
 date: "2024-05-15T08:33:00+05:30"                            
-permalink: /wiaposts/The-Waste-Land                       
+permalink: /booksummary/The-Waste-Land                       
 tags: [My Favorite Poems, TS Eliot]                     
                             
 categories:                            

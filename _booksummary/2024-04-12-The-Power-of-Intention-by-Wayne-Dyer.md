@@ -1,7 +1,7 @@
 ---                            
 id: 7512                            
                           
-title: Book Summary: The Power of Intention by Wayne Dyer                     
+title: "Book Summary: The Power of Intention by Wayne Dyer"                     
 date: "2024-04-12T08:33:00+05:30"                            
 permalink: /booksummary/The-Power-of-Intention-by-Wayne-Dyer                      
 tags: [Book Summary]                     

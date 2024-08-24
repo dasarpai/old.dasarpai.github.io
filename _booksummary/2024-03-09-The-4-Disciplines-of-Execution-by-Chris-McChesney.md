@@ -1,7 +1,7 @@
 ---                            
 id: 7509                            
                           
-title: Book Summary: The 4 Disciplines of Execution by Chris McChesney                      
+title: "Book Summary: The 4 Disciplines of Execution by Chris McChesney"                      
 date: "2024-03-09T08:33:00+05:30"                            
 permalink: /booksummary/The-4-Disciplines-of-Execution-by-Chris-McChesney                      
 tags: [Book Summary]                     

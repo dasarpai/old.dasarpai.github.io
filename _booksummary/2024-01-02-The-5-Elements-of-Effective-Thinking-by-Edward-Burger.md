@@ -1,7 +1,7 @@
 ---                            
 id: 7502                            
                           
-title: Book Summary: The 5 Elements of Effective Thinking by Edward Burger                     
+title: "Book Summary: The 5 Elements of Effective Thinking by Edward Burger"                     
 date: "2024-01-02T08:33:00+05:30"                            
 permalink: /booksummary/The-5-Elements-of-Effective-Thinking-by-Edward-Burger                      
 tags: [Book Summary]                     

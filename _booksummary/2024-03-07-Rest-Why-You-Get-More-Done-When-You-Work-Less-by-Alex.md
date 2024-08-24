@@ -1,7 +1,7 @@
 ---                            
 id: 7507                            
                           
-title: Book Summary: Rest : Why You Get More Done When You Work Less by Alex                      
+title: "Book Summary: Rest : Why You Get More Done When You Work Less by Alex"                      
 date: "2024-03-07T08:33:00+05:30"                            
 permalink: /booksummary/Rest-Why-You-Get-More-Done-When-You-Work-Less-by-Alex                      
 tags: [Book Summary]                     

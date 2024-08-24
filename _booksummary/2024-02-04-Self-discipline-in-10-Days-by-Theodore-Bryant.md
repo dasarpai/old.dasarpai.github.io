@@ -1,7 +1,7 @@
 ---                            
 id: 7504                            
                           
-title: Book Summary: Self discipline in 10 Days by Theodore Bryant                      
+title: "Book Summary: Self discipline in 10 Days by Theodore Bryant"                      
 date: "2024-02-04T08:33:00+05:30"                            
 permalink: /booksummary/Self-discipline-in-10-Days-by-Theodore-Bryant                      
 tags: [Book Summary]                     

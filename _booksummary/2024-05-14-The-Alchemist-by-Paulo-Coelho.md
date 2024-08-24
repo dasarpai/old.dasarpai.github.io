@@ -1,7 +1,7 @@
 ---                            
 id: 7514                            
                           
-title: Book Summary: The Alchemist by Paulo Coelho                     
+title: "Book Summary: The Alchemist by Paulo Coelho"                     
 date: "2024-05-14T08:33:00+05:30"                            
 permalink: /booksummary/The-Alchemist-by-Paulo-Coelho                      
 tags: [Book Summary]                     

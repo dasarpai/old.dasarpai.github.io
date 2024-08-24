@@ -1,7 +1,7 @@
 ---                            
 id: 7501                            
                           
-title:  Book Summary: The Inspirational Leader by Gifford Thomas                    
+title:  "Book Summary: The Inspirational Leader by Gifford Thomas"                    
 date: "2024-01-01T08:33:00+05:30"                            
 permalink: /booksummary/The-Inspirational-Leader-by-Gifford-Thomas                      
 tags: [Book Summary]                     

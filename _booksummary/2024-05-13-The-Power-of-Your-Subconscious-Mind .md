@@ -1,7 +1,7 @@
 ---                            
 id: 7513                            
                           
-title:  Book Summary: The Power of Your Subconscious Mind                    
+title:  "Book Summary: The Power of Your Subconscious Mind"                    
 date: "2024-05-13T08:33:00+05:30"                            
 permalink: /booksummary/The-Power-of-Your-Subconscious-Mind                      
 tags: [Book Summary]                     
