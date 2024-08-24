@@ -10,7 +10,7 @@ categories:
 header:    
     teaser: /assets/images/booksummary/7518-Book-Summary-The-Alchemist-by-Paulo-Coelho.jpg    
 author: Hari Thapliyaal    
-layout: wiapost-layout    
+layout: single    
 excerpt:    
 author_profile: true    
 share: true    
