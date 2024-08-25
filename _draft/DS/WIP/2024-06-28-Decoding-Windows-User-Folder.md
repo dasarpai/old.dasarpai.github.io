@@ -1,3 +1,29 @@
+---
+mathjax: true
+id: 6119
+title: Decoding Windows User Folder
+date: 2024-07-27
+permalink: /dsblog/Decoding-Windows-User-Folder
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/dsp6119-Decoding-Windows-User-Folder.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
+
+![Decoding-Windows-User-Folder](/assets/images/dspost/dsp6119-Decoding-Windows-User-Folder.jpg)
+
+# Decoding Windows User Folder
 
 ## My machine c:\users folder has 3 users Detault, harip_, public. What is the purpose of these 3 users?
 

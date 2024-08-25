@@ -1,4 +1,25 @@
-# What are the different kind of Layers a LLM has?
+---
+title: 
+date: 2024-07-27
+permalink: /dsblog/Understanding-LLM-GAN-Transformers
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/6116-Understanding-LLM-GAN-Transformers.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
+
+![{Understanding-LLM-GAN-Transformers}]({/assets/images/dspost/6116-Understanding-LLM-GAN-Transformers.jpg})
 Large Language Models (LLMs) are typically based on Transformer architectures, which consist of several types of layers that work together to process and generate text. Here are the primary kinds of layers found in an LLM:
 
 1. **Embedding Layers**:

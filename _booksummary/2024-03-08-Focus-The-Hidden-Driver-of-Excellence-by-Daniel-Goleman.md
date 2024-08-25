@@ -10,7 +10,7 @@ categories:
 header:                            
     teaser: /assets/images/booksummary/7508-Focus-The-Hidden-Driver-of-Excellence-by-Daniel-Goleman.jpg                         
 author: Hari Thapliyaal                            
-layout: single                            
+layout: booksum-layout                            
 excerpt:                            
 author_profile: true                            
 share: true                            

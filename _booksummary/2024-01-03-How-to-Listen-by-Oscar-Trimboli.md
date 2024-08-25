@@ -10,7 +10,7 @@ categories:
 header:                            
     teaser: /assets/images/booksummary/7503-How-to-Listen-by-Oscar-Trimboli.jpg                         
 author: Hari Thapliyaal                            
-layout: single                            
+layout: booksum-layout                            
 excerpt:                            
 author_profile: true                            
 share: true                            

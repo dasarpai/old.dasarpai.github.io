@@ -1,3 +1,29 @@
+---
+mathjax: true
+id: 6130
+title: LLM Skills and Human Skills
+date: 2024-07-27
+permalink: /dsblog/LLM-Skills-and-Human-Skills
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/dsp6130-LLM-Skills-and-Human-Skills.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
+
+![LLM-Skills-and-Human-Skills](/assets/images/dspost/dsp6130-LLM-Skills-and-Human-Skills.jpg)
+
+# LLM Skills and Human Skills
 
 ## What are the different domains where ChatGPT can perorm human level tasks?
 

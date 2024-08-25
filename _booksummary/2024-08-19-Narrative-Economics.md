@@ -11,7 +11,7 @@ categories:
 header:    
     teaser: /assets/images/booksummary/7519-Book-Summary-Narrative-Economics.jpg    
 author: Hari Thapliyaal    
-layout: single    
+layout: booksum-layout    
 excerpt:    
 author_profile: true    
 share: true    

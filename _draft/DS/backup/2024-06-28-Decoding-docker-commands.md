@@ -1,4 +1,25 @@
-## content of a docker file is following. Can you please explain me the meaning of each line by line.
+---
+title: 
+date: 2024-07-27
+permalink: /dsblog/Decoding-docker-commands
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/6116-Decoding-docker-commands.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
+
+![{Decoding-docker-commands}]({/assets/images/dspost/6116-Decoding-docker-commands.jpg})
 
 ```python
 FROM --platform=amd64 nvcr.io/nvidia/cuda:12.1.0-devel-ubuntu22.04 as base

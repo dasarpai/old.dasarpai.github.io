@@ -1,4 +1,25 @@
-# LLM Benchmark datasets
+---
+title: 
+date: 2024-07-27
+permalink: /dsblog/NLP-BenchMarks1
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/6116-NLP-BenchMarks1.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
+
+![{NLP-BenchMarks1}]({/assets/images/dspost/6116-NLP-BenchMarks1.jpg})
 
 Here are some important benchmarks commonly used in evaluating Large Language Models (LLMs). These benchmarks provide a comprehensive overview of various capabilities and aspects of LLMs, from knowledge and reasoning to coding and conversational skills. These benchmarks help in assessing different aspects of LLM performance, such as language understanding, reasoning, coding, and truthfulness, providing a standardized way to compare models and identify areas for improvement. For further details, you can explore the sources and learn more about how these benchmarks are applied and the specific datasets they use.
 

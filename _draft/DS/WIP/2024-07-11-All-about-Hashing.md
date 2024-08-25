@@ -1,6 +1,30 @@
-# hashing
+---
+mathjax: true
+id: 6123
+title: All about Hashing
+date: 2024-07-27
+permalink: /dsblog/All-about-Hashing
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/dsp6123-All-about-Hashing.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
 
-The hashes provided for a package on a site like PyPI (Python Package Index) serve several important purposes:
+![All-about-Hashing](/assets/images/dspost/dsp6123-All-about-Hashing.jpg)
+
+# All about Hashing
+
 
 1. **Verification of File Integrity**:
    Hashes allow users to verify that the file they downloaded has not been corrupted or altered. By comparing the hash of the downloaded file with the hash provided on the website, users can ensure the file's integrity.

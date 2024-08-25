@@ -1,23 +1,70 @@
 ---
-id: 6030    
-title: "Principal Component Analysis"
+mathjax: true
+id: 6116
+mathjax: true
+id: 6123
+mathjax: true
+id: 6123
+mathjax: true
+id: 6123
+mathjax: true
+id: 6123
+mathjax: true
+id: 6123
+mathjax: true
+id: 6123
+mathjax: true
+id: 6123
+mathjax: true
+id: 6123
+title: #Principal Component Analysis
 date: '2022-11-07T15:50:00+05:30'
-permalink: /dsblog/Principal-Component-Analysis
+permalink: /dsblog/#Principal-Component-Analysis
 categories:
 
 tags: [PCA, Clustering, Dimensionality Reduction]
 
 header:
-  teaser: "/assets/images/dspost/dsp6030-Principal-Component-Analysis.jpg"
+    teaser: /assets/images/dspost/dsp6123-#Principal-Component-Analysis.jpg
 excerpt_separator: "<!--more-->"
 excerpt:
 layout: single
 author_profile: true
 ---
 
-![Principle Component Analysis](/assets/images/dspost/dsp6030-Principal-Component-Analysis.jpg)
+![#Principal-Component-Analysis](/assets/images/dspost/dsp6123-#Principal-Component-Analysis.jpg)
 
-![PCA Transformation](/assets/images/dspost/pca/pca.jpg)
+# #Principal Component Analysis
+
+
+# #Principal Component Analysis
+
+
+# #Principal Component Analysis
+
+
+# #Principal Component Analysis
+
+
+##Principal Component Analysis
+
+
+![#Principal-Component-Analysis](/assets/images/dspost/dsp6123-#Principal-Component-Analysis.jpg)
+
+# #Principal Component Analysis
+
+
+# #Principal Component Analysis
+
+
+# #Principal Component Analysis
+
+
+# #Principal Component Analysis
+
+
+##Principal Component Analysis
+
 
 # Bacground
 In data science whether we want to analyse the data or create model for prediction or forcasting purpose we need data. A structured dataset contains rows and columns. Each row is corresponding to a independent sample and each column is describing that sample. We can see Recurement dataset as following.
@@ -29,7 +76,22 @@ Interviewid | Date of Interview | Total Experience | Relevent Experience | Posit
 
 More the sample or number of rows, better is our conclusion. But if we have more columns analysis and model becomes more complex. If you have a dozen of more columns it is manageable but when columns are in hundreds or thousands or millions then it is not humanly possible to analyse the data or understand the interaction between different variable or create a stable model. More are the dimensions in a model more unstable a model is. This is called curse of dimensionality. 
 
-![Curse of Dimensionality](/assets/images/dspost/pca/Curse-of-Dimensionality.jpg)
+![#Principal-Component-Analysis](/assets/images/dspost/dsp6123-#Principal-Component-Analysis.jpg)
+
+# #Principal Component Analysis
+
+
+# #Principal Component Analysis
+
+
+# #Principal Component Analysis
+
+
+# #Principal Component Analysis
+
+
+##Principal Component Analysis
+
 
 To reduce the dimensions of a dataset we need some tricks and techniques. 
 SelectKBest of scikit-learn 

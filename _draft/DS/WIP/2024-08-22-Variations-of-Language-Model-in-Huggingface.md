@@ -1,3 +1,29 @@
+---
+mathjax: true
+id: 6138
+title: Variations of Language Model in Huggingface
+date: 2024-07-27
+permalink: /dsblog/Variations-of-Language-Model-in-Huggingface
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
+
+![Variations-of-LanguageModel](/assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg)
+
+# Variations of Language Model in Huggingface
 
 ## In huggingface model repository we see other models like GPT2LMHeadModel, GPT2ForSequenceClassification, etc what are these?
 Huggingface picks up base moel like GPT2, BERT, T5 etc and tune these for specific tasks. Therefore these are different variations of GPT-2 models, such as `GPT2LMHeadModel`, `GPT2DoubleHeadsModel`, `GPT2ForSequenceClassification`, etc., were primarily created by Hugging Face. These are adaptations of the original GPT-2 model released by OpenAI, tailored to fit specific tasks in natural language processing (NLP).

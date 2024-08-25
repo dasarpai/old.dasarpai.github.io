@@ -1,3 +1,29 @@
+---
+mathjax: true
+id: 6131
+title: Popular Business Process Frameworks
+date: 2024-07-27
+permalink: /dsblog/Popular-Business-Process-Frameworks
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/dsp6131-Popular-Business-Process-Frameworks.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
+
+![Popular-Business-Process-Frameworks](/assets/images/dspost/dsp6131-Popular-Business-Process-Frameworks.jpg)
+
+# Popular Business Process Frameworks
 
 # What is business process framework?
 Business process frameworks are structured sets of best practices and methodologies designed to improve the efficiency, effectiveness, and consistency of business processes. They often include guidelines for process design, implementation, monitoring, and improvement.

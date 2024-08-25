@@ -10,7 +10,7 @@ categories:
 header:                            
     teaser: /assets/images/booksummary/7510-How-To-Develop-The-Leader-Within-You-by-John-Maxwell.jpg                         
 author: Hari Thapliyaal                            
-layout: single                            
+layout: booksum-layout                            
 excerpt:                            
 author_profile: true                            
 share: true                            

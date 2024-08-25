@@ -1,4 +1,25 @@
+---
+title: 
+date: 2024-07-27
+permalink: /dsblog/Health-Authority-Questions
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/6116-Health-Authority-Questions.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
 
+![{Health-Authority-Questions}]({/assets/images/dspost/6116-Health-Authority-Questions.jpg})
 # AI in Health Care 
 https://www.excelra.com/case-studies/
 

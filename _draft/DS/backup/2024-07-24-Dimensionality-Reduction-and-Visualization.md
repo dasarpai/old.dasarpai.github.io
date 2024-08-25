@@ -1,4 +1,25 @@
-# Dimensionality Reduction and Visulization
+---
+title: 
+date: 2024-07-27
+permalink: /dsblog/Dimensionality-Reduction-and-Visulization
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/6116-Dimensionality-Reduction-and-Visulization.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
+
+![{Dimensionality-Reduction-and-Visulization}]({/assets/images/dspost/6116-Dimensionality-Reduction-and-Visulization.jpg})
 
 ## What are the popular methods of dimensionality reduction?
 

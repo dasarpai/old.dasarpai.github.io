@@ -1,4 +1,30 @@
-# MLOps (Machine Learning Operations) activities and some Popular Tools
+---
+mathjax: true
+id: 6137
+title: MLOps Tools
+date: 2024-07-27
+permalink: /dsblog/MLOps-Tools
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/dsp6137-MLOps-Tools.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
+
+![MLOps-Tools](/assets/images/dspost/dsp6137-MLOps-Tools.jpg)
+
+# MLOps Tools
+
 
 MLOps (Machine Learning Operations) is a set of practices and tools designed to streamline and automate the deployment, monitoring, and management of machine learning models in production environments. It combines principles from both DevOps (Development Operations) and machine learning to ensure that ML models are deployed efficiently, managed effectively, and maintained reliably throughout their lifecycle.
 

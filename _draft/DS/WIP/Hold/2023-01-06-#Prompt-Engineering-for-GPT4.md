@@ -1,14 +1,31 @@
 --- 
-id: 6021       
-title: "Prompt Engineering for GPT4"   
+mathjax: true
+id: 6116
+mathjax: true
+id: 6117
+mathjax: true
+id: 6117
+mathjax: true
+id: 6117
+mathjax: true
+id: 6117
+mathjax: true
+id: 6117
+mathjax: true
+id: 6117
+mathjax: true
+id: 6117
+mathjax: true
+id: 6117
+title: #Prompt Engineering for GPT4
 date: '2023-01-06T15:50:00+05:30'   
-permalink: /dsblog/prompt-engieering
+permalink: /dsblog/#Prompt-Engineering-for-GPT4
 categories:   
    
 tags: [OpenAI, NLP, Machine Learning, Natural Language Processing, Prompt Engineering, GPT]   
    
 header:   
-  teaser: "/assets/images/dspost/dsp6021-Prompt-Engineering-for-GPT4.jpg"   
+    teaser: /assets/images/dspost/dsp6117-#Prompt-Engineering-for-GPT4.jpg
 excerpt_separator: "<!--more-->"   
 excerpt:   
 layout: single   
@@ -18,7 +35,22 @@ toc_sticky: true
 --- 
 
    
-![Prompt Engineering for GPT4](/assets/images/dspost/dsp6021-Prompt-Engineering.jpg)
+![#Prompt-Engineering-for-GPT4](/assets/images/dspost/dsp6117-#Prompt-Engineering-for-GPT4.jpg)
+
+# #Prompt Engineering for GPT4
+
+
+# #Prompt Engineering for GPT4
+
+
+# #Prompt Engineering for GPT4
+
+
+# #Prompt Engineering for GPT4
+
+
+##Prompt Engineering for GPT4
+
 
 # What is Prompting?
 

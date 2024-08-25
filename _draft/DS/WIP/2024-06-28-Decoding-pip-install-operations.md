@@ -1,4 +1,30 @@
-## pip commands
+---
+mathjax: true
+id: 6118
+title: Decoding pip install operations
+date: 2024-07-27
+permalink: /dsblog/Decoding-pip-install-operations
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
+
+![Decoding-pip-install-operations](/assets/images/dspost/dsp6118-Decoding-pip-install-operations.jpg)
+
+# Decoding pip install operations
+
 pip install transformers
 
 pip show transformers

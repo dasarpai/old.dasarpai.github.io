@@ -10,7 +10,7 @@ categories:
 header:                            
     teaser: /assets/images/booksummary/7512-The-Power-of-Intention-by-Wayne-Dyer.jpg                         
 author: Hari Thapliyaal                            
-layout: single                            
+layout: booksum-layout                            
 excerpt:                            
 author_profile: true                            
 share: true                            

@@ -1,3 +1,29 @@
+---
+mathjax: true
+id: 6122
+title: Creating Docker Image
+date: 2024-07-10
+permalink: /dsblog/Creating-Docker-Image
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/dsp6122-Creating-Docker-Image.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
+
+![Creating-Docker-Image](/assets/images/dspost/dsp6122-Creating-Docker-Image.jpg)
+
+# Creating Docker Image
 
 https://docs.docker.com/guides/docker-overview/
 
@@ -8,7 +34,9 @@ Docker provides the ability to package and run an application in a loosely isola
 The isolation and security lets you run many containers simultaneously on a given host. 
 Containers are lightweight and contain everything needed to run the application, so you don't need to rely on what's installed on the host.
 
-![](https://docs.docker.com/guides/images/docker-architecture.webp)
+![Creating-Docker-Image](/assets/images/dspost/dsp6123-Creating-Docker-Image.jpg)
+
+# Creating Docker Image
 
 The Docker daemon
 The Docker daemon (dockerd) listens for Docker API requests and manages Docker objects such as images, containers, networks, and volumes. A daemon can also communicate with other daemons to manage Docker services.

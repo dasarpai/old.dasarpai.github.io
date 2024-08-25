@@ -10,7 +10,7 @@ categories:
 header:                            
     teaser: /assets/images/booksummary/7511-Your-Next-Five-Moves-by-Patrick-Bet-David.jpg                         
 author: Hari Thapliyaal                            
-layout: single                            
+layout: booksum-layout                            
 excerpt:                            
 author_profile: true                            
 share: true                            

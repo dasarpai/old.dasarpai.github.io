@@ -1,5 +1,40 @@
+---
+mathjax: true
+id: 6116
+title: Stanford Alpaca
+date: 2024-07-27
+permalink: /dsblog/Stanford-Alpaca
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/dsp6116-Stanford-Alpaca.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
 
-# What is Stanford Alpaca?
+![Stanford-Alpaca](/assets/images/dspost/dsp6116-Stanford-Alpaca.jpg)
+
+# Stanford Alpaca
+
+
+## Highlevel Actitivies done by Stanford Alpaca team and Project Output
+
+1. **Data Generation**: The team used OpenAI's GPT-3.5 model to generate a dataset of 52,000 instruction-response pairs. They did this by providing GPT-3.5 with a variety of instructions and asking it to produce corresponding responses.
+
+2. **Fine-Tuning**: They used this generated dataset to fine-tune Meta's LLaMA model, making it better at following instructions.
+
+3. **Evaluation**: The fine-tuned Alpaca model was then evaluated for its ability to follow instructions effectively, comparing its performance to more advanced models.
+
+**Output**: The project resulted in a fine-tuned version of the LLaMA model, called Alpaca, which is smaller, more efficient, and capable of following instructions well.
 
 ## Introduction
 [Github Report](https://github.com/tatsu-lab/stanford_alpaca)
@@ -28,7 +63,9 @@
 ## Capablitities
 This model can perform following tasks.
 
-![](https://raw.githubusercontent.com/tatsu-lab/stanford_alpaca/main/assets/parse_analysis.png)
+![Stanford-Alpaca](/assets/images/dspost/dsp6116-Stanford-Alpaca.jpg)
+
+# Stanford Alpaca
 
 
 ## Data Generation
@@ -49,12 +86,15 @@ This model can perform following tasks.
 
 ## Fine-tuning
 Created a fine-tuned model using standard Hugging Face training code. fine-tuned LLaMA-7B and LLaMA-13B with the following hyperparameters:
+
+```
 - Hyperparameter	LLaMA-7B	LLaMA-13B
 - Batch size	128	128
 - Learning rate	2e-5	1e-5
 - Epochs	3	5
 - Max length	512	512
 - Weight decay	0	0
+```
 
 ### Dependency and LLaMa Installation
 

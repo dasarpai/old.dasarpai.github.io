@@ -1,14 +1,31 @@
 --- 
-id: 6029       
-title: "Vectors and Matrix"   
+mathjax: true
+id: 6116
+mathjax: true
+id: 6122
+mathjax: true
+id: 6122
+mathjax: true
+id: 6122
+mathjax: true
+id: 6122
+mathjax: true
+id: 6122
+mathjax: true
+id: 6122
+mathjax: true
+id: 6122
+mathjax: true
+id: 6122
+title: #Vectors and Matrix
 date: '2022-12-29T15:50:00+05:30'   
-permalink: /dsblog/vectors-and-matrix
+permalink: /dsblog/#Vectors-and-Matrix
 categories:   
    
 tags: [Matrix]   
    
 header:   
-  teaser: "/assets/images/dspost/dsp6029-Vectors-and-Matrix.jpg"   
+    teaser: /assets/images/dspost/dsp6122-#Vectors-and-Matrix.jpg
 excerpt_separator: "<!--more-->"   
 excerpt:   
 layout: single   
@@ -17,7 +34,22 @@ toc: true
 toc_sticky: true
 --- 
 
-![Vectors and Matrix](/assets/images/dspost/dsp6029-Vectors-and-Matrix.jpg)
+![#Vectors-and-Matrix](/assets/images/dspost/dsp6122-#Vectors-and-Matrix.jpg)
+
+# #Vectors and Matrix
+
+
+# #Vectors and Matrix
+
+
+# #Vectors and Matrix
+
+
+# #Vectors and Matrix
+
+
+##Vectors and Matrix
+
 
 vectors
 matrix

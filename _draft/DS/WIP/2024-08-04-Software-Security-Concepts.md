@@ -1,3 +1,29 @@
+---
+mathjax: true
+id: 6132
+title: Software Security Concepts
+date: 2024-07-27
+permalink: /dsblog/Software-Security-Concepts
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/dsp6132-Software-Security-Concepts.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
+
+![Software-Security-Concepts](/assets/images/dspost/dsp6132-Software-Security-Concepts.jpg)
+
+# Software Security Concepts
 
 ## What are the major ideas which we need to understand while creating security architecture of any app?
 The security architecture of an application encompasses various concepts and strategies designed to protect the application's data, resources, and services from threats. Here are the main ideas and concepts typically involved:

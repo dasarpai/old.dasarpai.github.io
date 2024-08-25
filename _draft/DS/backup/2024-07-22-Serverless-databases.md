@@ -1,4 +1,25 @@
-Sure, here is a table summarizing the features of the different database platforms:
+---
+title: 
+date: 2024-07-27
+permalink: /dsblog/Serverless-databases
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/6116-Serverless-databases.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
+
+![{Serverless-databases}]({/assets/images/dspost/6116-Serverless-databases.jpg})
 
 | Feature                         | Amazon Aurora       | Google Cloud SQL    | Azure Database for PostgreSQL | Heroku Postgres   | Crunchy Bridge      | ElephantSQL        | CockroachDB         | TimescaleDB         | Neon               |
 |---------------------------------|---------------------|---------------------|------------------------------|-------------------|---------------------|--------------------|---------------------|---------------------|--------------------|

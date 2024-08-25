@@ -10,7 +10,7 @@ categories:
 header:                            
     teaser: /assets/images/booksummary/7502-The-5-Elements-of-Effective-Thinking-by-Edward-Burger.jpg                        
 author: Hari Thapliyaal                            
-layout: single                            
+layout: booksum-layout                            
 excerpt:                            
 author_profile: true                            
 share: true                            

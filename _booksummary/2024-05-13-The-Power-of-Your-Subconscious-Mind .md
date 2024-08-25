@@ -10,7 +10,7 @@ categories:
 header:                            
     teaser: /assets/images/booksummary/7513-The-Power-of-Your-Subconscious-Mind.jpg                        
 author: Hari Thapliyaal                            
-layout: single                            
+layout: booksum-layout                            
 excerpt:                            
 author_profile: true                            
 share: true                            

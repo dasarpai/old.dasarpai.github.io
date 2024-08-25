@@ -10,7 +10,7 @@ categories:
 header:                            
     teaser: /assets/images/booksummary/7507-Rest-Why-You-Get-More-Done-When-You-Work-Less-by-Alex.jpg                         
 author: Hari Thapliyaal                            
-layout: single                            
+layout: booksum-layout                            
 excerpt:                            
 author_profile: true                            
 share: true                            

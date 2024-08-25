@@ -1,4 +1,30 @@
-## Coding Challenge Practice Platforms
+---
+mathjax: true
+id: 6136
+title: Programming Resources
+date: 2024-07-27
+permalink: /dsblog/Programming-Resources
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/dsp6136-Programming-Resources.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
+
+![Programming-Resources](/assets/images/dspost/dsp6136-Programming-Resources.jpg)
+
+# Programming Resources
+
 
 *   [interviewing.io](https://interviewing.io/)
 *   [Leetcode](https://leetcode.com/)

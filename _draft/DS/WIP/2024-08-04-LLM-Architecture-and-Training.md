@@ -1,4 +1,30 @@
-# LLM Architectures, LLM Training and LLM finetuning approaches
+---
+mathjax: true
+id: 6129
+title: LLM Architecture and Training
+date: 2024-07-27
+permalink: /dsblog/LLM-Architecture-and-Training
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
+
+![LLM-Architecture-and-Training](/assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg)
+
+# LLM Architecture and Training
+
 
 ### Large Language Model (LLM) Architectures
 

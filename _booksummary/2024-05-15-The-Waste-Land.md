@@ -10,7 +10,7 @@ categories:
 header:                            
     teaser: /assets/images/booksummary/7515-The-Waste-Land.jpg                           
 author: Hari Thapliyaal                            
-layout: single                            
+layout: booksum-layout                            
 excerpt:                            
 author_profile: true                            
 share: true                            

@@ -1,3 +1,29 @@
+---
+mathjax: true
+id: 6133
+title: How Much Memory Needed for LLM
+date: 2024-07-27
+permalink: /dsblog/How-Much-Memory-Needed-for-LLM
+tags: []
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/dsp6133-How-Much-Memory-Needed-for-LLM.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
+comments: true
+---
+
+![How-Much-Memory-Needed-for-LLM](/assets/images/dspost/dsp6133-How-Much-Memory-Needed-for-LLM.jpg)
+
+# How Much Memory Needed for LLM
 
 ## How much memory is required to host a Llama 3.1 with 405 billion parameters?
 Deploying a large-scale model like Llama 3.1 with 405 billion parameters for inference purposes requires substantial hardware resources. Here are the main considerations:
