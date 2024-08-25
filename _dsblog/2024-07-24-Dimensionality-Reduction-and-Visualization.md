@@ -197,7 +197,9 @@ Perplexity is a parameter in t-SNE that balances the attention between local and
 In summary, perplexity in t-SNE is a crucial parameter that controls the balance between local and global structure in the data. Lower perplexity values emphasize local relationships, while higher values help in capturing more global patterns.
 
 
-##  I have small dataset of 1000 samples and I keep perplexity high (like 70) then the embedding or generated new records from t-sne algorithm will not have effective embedding of those 1000 records?
+##  How to set perplexity size?
+
+**I have small dataset of 1000 samples and I keep perplexity high (like 70) then the embedding or generated new records from t-sne algorithm will not have effective embedding of those 1000 records?**
 
 Yes, that's correct. If you have a small dataset of 1000 records and set the perplexity to a high value like 70, the t-SNE embedding might not be as effective. Here's why:
 
@@ -305,7 +307,7 @@ Sometimes, a combined approach can be useful:
 In many practical cases, starting with PCA and then using t-SNE on the reduced data can combine the strengths of both methods for effective visualization.
 
 
-## How will I know my dataset of 1000 samples and 80 features is complex of simple?
+## How will I know my dataset of 1000 samples and 80 features is complex or simple?
 
 Determining whether your dataset has complex, non-linear relationships or is relatively simple and linear can be approached through a combination of exploratory data analysis and applying different techniques to see how well they perform. Here are some steps and methods you can use to assess the complexity of your dataset:
 

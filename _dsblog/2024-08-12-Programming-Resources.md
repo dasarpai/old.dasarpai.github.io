@@ -53,8 +53,11 @@ comments: true
 ## Jobs
 ### Getting your first programming job 
 
-*   [medium.com/javascript-scene/every-developer-needs-a-code-portfolio](https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110) [Collection of Resources for Interview preparations and practices](https://medium.com/@jayshah_84248/how-to-do-well-in-a-coding-interview-2bcd67e93cb5) [How I cleared the Amazon SDE 2 interview](https://medium.com/@rachit138/how-i-cleared-the-amazon-sde-2-interview-f82a33706ff4) [How I got 7 Job Offers in 8 Weeks](https://blog.usejournal.com/how-i-got-7-job-offers-in-8-weeks-part-1-please-interview-me-21e6f4ded106)
-*   [/master-the-javascript-interview-soft-skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
+* [Every-developer-needs-a-code-portfolio- Javascript](https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110) 
+* [Collection of Resources for Interview preparations and practices](https://medium.com/@jayshah_84248/how-to-do-well-in-a-coding-interview-2bcd67e93cb5) 
+* [How I cleared the Amazon SDE 2 interview](https://medium.com/@rachit138/how-i-cleared-the-amazon-sde-2-interview-f82a33706ff4) 
+* [How I got 7 Job Offers in 8 Weeks](https://blog.usejournal.com/how-i-got-7-job-offers-in-8-weeks-part-1-please-interview-me-21e6f4ded106)
+*   [master-the-javascript-interview-soft-skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
 *   [google-lost-a-chance-to-hire-me-finally-amazon-hired-me](https://medium.com/@jayshah_84248/google-lost-a-chance-to-hire-me-finally-amazon-hired-me-e35076c73fe2)
 *   [the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps](https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00)
 *   [7-key-steps-to-getting-your-first-software-engineering-job](https://medium.freecodecamp.org/7-key-steps-to-getting-your-first-software-engineering-job-6ef80543cad9)
@@ -79,101 +82,101 @@ comments: true
 
 ### Sites for searching developer job
 
-*   Joblist.app - (https://joblist.app)
-*   AngelList - (https://angel.co)
-*   Authentic jobs: (http://authenticjobs.com)
-*   Developers for Hire: (http://developersforhire.com)
-*   DevITjobs uk: (https://devitjobs.uk)
-*   DevITjobs us: (https://devitjobs.us)
-*   Dice: (http://dice.com)
-*   Fullstack Job: (http://fullstackjob.com)
-*   Glassdoor: (http://glassdoor.com)
-*   Hired - (https://hired.com)
-*   Indeed: (http://indeed.com)
-*   Jobs in Europe: (http://landing.jobs)
-*   Jobspresso: [http://jobspresso.co](http://jobspresso.co)
-*   Krop: (http://krop.com)
-*   LinkedIn: (http://linkedIn.com)
-*   Mashable: (http://jobs.mashable.com/jobs)
-*   Monster: (http://monster.com)
-*   Muse: (http://themuse.com/jobs)
-*   PowerToFly: (http://powertofly.com/jobs)
-*   Simply Hired: (http://simplyhired.com)
-*   StackOverflow: (http://stackoverflow.com/jobs)
-*   Toptal: (https://toptal.com)
-*   TripleByte: (https://triplebyte.com)
-*   Tuts+: (http://jobs.tutsplus.com)
+*   [Joblist.app](https://joblist.app)
+*   [AngelList](https://angel.co)
+*   [Authentic jobs](http://authenticjobs.com)
+*   [Developers for Hire](http://developersforhire.com)
+*   [DevITjobs uk](https://devitjobs.uk)
+*   [DevITjobs us](https://devitjobs.us)
+*   [Dice](http://dice.com)
+*   [Fullstack Job](http://fullstackjob.com)
+*   [Glassdoor](http://glassdoor.com)
+*   [Hired](https://hired.com)
+*   [Indeed](http://indeed.com)
+*   [Jobs in Europe](http://landing.jobs)
+*   [Jobspresso](http://jobspresso.co)
+*   [Krop](http://krop.com)
+*   [LinkedIn](http://linkedIn.com)
+*   [Mashable](http://jobs.mashable.com/jobs)
+*   [Monster](http://monster.com)
+*   [Muse](http://themuse.com/jobs)
+*   [PowerToFly](http://powertofly.com/jobs)
+*   [Simply Hired](http://simplyhired.com)
+*   [StackOverflow](http://stackoverflow.com/jobs)
+*   [Toptal](https://toptal.com)
+*   [TripleByte](https://triplebyte.com)
+*   [Tuts+](http://jobs.tutsplus.com)
 
 ### Startup job
 
-*   AngelList: [http://angel.co/jobs](http://angel.co/jobs)
-*   Product Hunt: [http://producthunt.com/jobs](http://producthunt.com/jobs)
-*   Startup Hire: [http://startuphire.com](http://startuphire.com)
-*   Startupers: [http://startupers.com](http://startupers.com)
-*   YCombinator: [http://news.ycombinator.com/jobs](http://news.ycombinator.com/jobs)
+*   [AngelList](http://angel.co/jobs)
+*   [Product Hunt](http://producthunt.com/jobs)
+*   [Startup Hire](http://startuphire.com)
+*   [Startupers](http://startupers.com)
+*   [YCombinator](http://news.ycombinator.com/jobs)
 
 ### Best places to job hunt for remote jobs:
 
-*   DailyRemote - [https://dailyremote.com](https://dailyremote.com)
-*   FlexJobs: [http://flexjobs.com](http://flexjobs.com)
-*   Front-end remote: [http://frontendremotejobs.com](http://frontendremotejobs.com)
-*   IWantRemote: [http://iwantremote.com](http://iwantremote.com)
-*   JS Remotely: [http://jsremotely.com](http://jsremotely.com)
-*   JustRemote: [https://justremote.co/remote-developer-jobs](https://justremote.co/remote-developer-jobs)
-*   Outsourcely: [http://outsourcely.com/remote-web-development-jobs](http://outsourcely.com/remote-web-development-jobs)
-*   Pangian: [https://pangian.com/job-travel-remote/](https://pangian.com/job-travel-remote/)
-*   Remote . co - [https://remote.co/remote-jobs/developer/](https://remote.co/remote-jobs/developer/)
-*   Remote Talent: [http://remotetalent.co/jobs](http://remotetalent.co/jobs)
-*   RemoteLeads: [http://remoteleads.io](http://remoteleads.io)
-*   RemoteLeaf - [https://remoteleaf.com](https://remoteleaf.com)
-*   RemoteOk: [http://remoteok.io/remote-dev-jobs](http://remoteok.io/remote-dev-jobs)
-*   Remoters: [http://remoters.net/jobs/software-development](http://remoters.net/jobs/software-development)
-*   Remotive: [https://remotive.io/remote-jobs/software-dev](https://remotive.io/remote-jobs/software-dev)
-*   Sitepoint - [https://sitepoint.com/jobs/](https://sitepoint.com/jobs/)
-*   Stackoverflow: [http://stackoverflow.com/jobs/remote-developer-jobs](http://stackoverflow.com/jobs/remote-developer-jobs)
-*   WeWorkRemotely: [http://weworkremotely.com](http://weworkremotely.com)
-*   Working Nomads: [http://workingnomads.co/remote-development-jobs](http://workingnomads.co/remote-development-jobs)
+*   [DailyRemote](https://dailyremote.com)
+*   [FlexJobs](http://flexjobs.com)
+*   [Front-end remote](http://frontendremotejobs.com)
+*   [IWantRemote](http://iwantremote.com)
+*   [JS Remotely](http://jsremotely.com)
+*   [JustRemote](https://justremote.co/remote-developer-jobs)
+*   [Outsourcely](http://outsourcely.com/remote-web-development-jobs)
+*   [Pangian](https://pangian.com/job-travel-remote/)
+*   [Remote . co](https://remote.co/remote-jobs/developer/)
+*   [Remote Talent](http://remotetalent.co/jobs)
+*   [RemoteLeads](http://remoteleads.io)
+*   [RemoteLeaf](https://remoteleaf.com)
+*   [RemoteOk](http://remoteok.io/remote-dev-jobs)
+*   [Remoters](http://remoters.net/jobs/software-development)
+*   [Remotive](https://remotive.io/remote-jobs/software-dev)
+*   [Sitepoint](https://sitepoint.com/jobs/)
+*   [Stackoverflow](http://stackoverflow.com/jobs/remote-developer-jobs)
+*   [WeWorkRemotely](http://weworkremotely.com)
+*   [Working Nomads](http://workingnomads.co/remote-development-jobs)
 
 
 ### A few places to hunt for ios, react, vue and more
 
-*   iOS: [http://iosdevjobs.com](http://iosdevjobs.com)
-*   React: [http://reactjobboard.com](http://reactjobboard.com)
-*   Vue jobs: [http://vuejobs.com](http://vuejobs.com)
-*   Ember: [http://jobs.emberjs.com](http://jobs.emberjs.com)
-*   Python Jobs - [http://python.org/jobs](https://python.org/jobs)
+*   [iOS](http://iosdevjobs.com)
+*   [React](http://reactjobboard.com)
+*   [Vue jobs](http://vuejobs.com)
+*   [Ember](http://jobs.emberjs.com)
+*   [Python Jobs](https://python.org/jobs)
 
 
 
 ### Want a list of just JavaScript jobs?
 
-*   JavaScript job XYZ: [http://javascriptjob.xyz](http://javascriptjob.xyz)
-*   Javascript remotely: [http://jsremotely.com](http://jsremotely.com)
+*   [JavaScript job XYZ](http://javascriptjob.xyz)
+*   [Javascript remotely](http://jsremotely.com)
 
 
 ### Are you looking for a junior dev job?
 
 
-*   JrDevJobs: [http://jrdevjobs.com](http://jrdevjobs.com)
-*   Stackoverflow Junior jobs: [https://stackoverflow.com/jobs/junior-developer-jobs](https://stackoverflow.com/jobs/junior-developer-jobs)
+*   [JrDevJobs](http://jrdevjobs.com)
+*   [Stackoverflow Junior jobs](https://stackoverflow.com/jobs/junior-developer-jobs)
 
 
 ### Women focused job boards!
 
 
-*   Women Who Code: [http://womenwhocode.com/jobs](http://womenwhocode.com/jobs)
-*   Tech Ladies - [https://hiretechladies.com](https://hiretechladies.com)
+*   [Women Who Code](http://womenwhocode.com/jobs)
+*   [Tech Ladies](https://hiretechladies.com)
 
 
 ### Want a job as a freelance dev? Here's a list
 
 
-*   Freelancer: [http://freelancer.com/jobs](http://freelancer.com/jobs)
-*   Upwork: [http://upwork.com](https://upwork.com)
-*   FlexJobs: [http://flexjobs.com/jobs](http://flexjobs.com/jobs)
-*   FreelancerMap: [http://freelancermap.com](http://freelancermap.com)
-*   Gun io: [http://gun.io](http://gun.io)
-*   Guru: [http://guru.com/d/jobs](http://guru.com/d/jobs)
+*   [Freelancer](http://freelancer.com/jobs)
+*   [Upwork](https://upwork.com)
+*   [FlexJobs](http://flexjobs.com/jobs)
+*   [FreelancerMap](http://freelancermap.com)
+*   [Gun io](http://gun.io)
+*   [Guru](http://guru.com/d/jobs)
 
 
 ## Learning with Others
@@ -460,21 +463,23 @@ comments: true
 *   [Algorithm Interview Questions](https://www.interviewbit.com/algorithm-interview-questions/)
 
 ### Some resources for JavaScript Interviews
-*   [https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews?utm\_source=hashnode.com](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews?utm_source=hashnode.com) - 10 JavaScript concepts you need to know for interviews
-*   [https://github.com/Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
-*   [https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Question](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) - 123-Essential-JavaScript-Interview-Question
-*   [https://github.com/ggomaeng/awesome-js](https://github.com/ggomaeng/awesome-js) - A curated list of javascript fundamentals and algorithms
-*   [https://hackernoon.com/a-quick-introduction-to-functional-javascript-7e6fe520e7fa](https://hackernoon.com/a-quick-introduction-to-functional-javascript-7e6fe520e7fa) - A Quick Introduction to Functional Javascript
-*   [https://medium.com/coderbyte/a-tricky-javascript-interview-question-asked-by-google-and-amazon-48d212890703](https://medium.com/coderbyte/a-tricky-javascript-interview-question-asked-by-google-and-amazon-48d212890703) - A Tricky JavaScript Interview Question Asked by Google and Amazon
-*   [https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d](https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d) - A perfect guide for cracking a JavaScript interview - A developer’s perspective
-*   [https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a) - Common Misconceptions About Inheritance in JavaScript
-*   [https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36) - Master the JavaScript Interview: What is a Closure?
-*   [https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0) - Master the JavaScript Interview: What is Function Composition?
-*   [https://medium.freecodecamp.org/3-questions-to-watch-out-for-in-a-javascript-interview-725012834ccb](https://medium.freecodecamp.org/3-questions-to-watch-out-for-in-a-javascript-interview-725012834ccb) - 3 JavaScript questions to watch out for during coding interviews
-*   [https://www.thatjsdude.com/interview/dom.html](https://www.thatjsdude.com/interview/dom.html) - JS: Interview Questions Part-3
-*   [https://www.thatjsdude.com/interview/js1.html](https://www.thatjsdude.com/interview/js1.html) - JS: Interview Algorithm Part-1
-*   [https://www.thatjsdude.com/interview/js2.html](https://www.thatjsdude.com/interview/js2.html) - JS: Basics and Tricky Questions Part-2: intermediate
-*   [https://www.toptal.com/javascript/interview-questions](https://www.toptal.com/javascript/interview-questions) - 37 Essential JavaScript Interview Questions
-*   [Javascript Interview Questions\](https://github.com/lydiahallie/javascript-questions](https://www.interviewbit.com/javascript-interview-questions/) - Prepare from this comprehensive list of the latest Javascript Interview Questions and ace your interview.
-*   [Many tricky and common javascript-questions](https://github.com/lydiahallie/javascript-questions)
-*   [master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9) - Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?
+Sure! Here’s the list converted into Markdown link format:
+
+* [10 JavaScript concepts you need to know for interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews?utm_source=hashnode.com)
+* [Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less](https://github.com/Chalarangelo/30-seconds-of-code)
+* [123 Essential JavaScript Interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
+* [A curated list of JavaScript fundamentals and algorithms](https://github.com/ggomaeng/awesome-js)
+* [A Quick Introduction to Functional JavaScript](https://hackernoon.com/a-quick-introduction-to-functional-javascript-7e6fe520e7fa)
+* [A Tricky JavaScript Interview Question Asked by Google and Amazon](https://medium.com/coderbyte/a-tricky-javascript-interview-question-asked-by-google-and-amazon-48d212890703)
+* [A perfect guide for cracking a JavaScript interview - A developer’s perspective](https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d)
+* [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
+* [Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+* [Master the JavaScript Interview: What is Function Composition?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
+* [3 JavaScript questions to watch out for during coding interviews](https://medium.freecodecamp.org/3-questions-to-watch-out-for-in-a-javascript-interview-725012834ccb)
+* [JS: Interview Questions Part-3](https://www.thatjsdude.com/interview/dom.html)
+* [JS: Interview Algorithm Part-1](https://www.thatjsdude.com/interview/js1.html)
+* [JS: Basics and Tricky Questions Part-2: intermediate](https://www.thatjsdude.com/interview/js2.html)
+* [37 Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions)
+* [Prepare from this comprehensive list of the latest JavaScript Interview Questions and ace your interview](https://www.interviewbit.com/javascript-interview-questions/)
+* [Many tricky and common JavaScript questions](https://github.com/lydiahallie/javascript-questions)
+* [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
