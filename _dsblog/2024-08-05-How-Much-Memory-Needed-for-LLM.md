@@ -25,7 +25,26 @@ comments: true
 
 # How Much Memory Needed for LLM?
 
+## What is LLM?
+LLM stands for **Large Language Model**. These are machine learning models that are trained on massive amounts of text data to understand, generate, and work with human language in a way that mimics natural language understanding. They are called "large" because of the significant number of parameters they contain, often numbering in the billions or even trillions.
+
+### What Defines a Large Language Model?
+
+There is no strict or universally accepted benchmark to define what constitutes an LLM purely based on the number of parameters. The term "large" is relative and depends on the current state of technology and the size of models being developed. As technology progresses, what is considered "large" may continue to grow. However, some general guidelines have emerged:
+
+1. **Scale of Parameters**:  
+   - Models with hundreds of millions to billions of parameters are typically referred to as large language models.  
+   - For instance, OpenAI's GPT-2 has 1.5 billion parameters, and GPT-3 has 175 billion parameters. Models like these are typically categorized as LLMs.
+
+2. **Training Data**:  
+   - LLMs are trained on vast and diverse datasets, often encompassing hundreds of gigabytes or even terabytes of text data. This data can include books, websites, articles, and more, which helps the model learn a broad range of language patterns and knowledge.
+
+3. **Capabilities**:  
+   - LLMs are distinguished by their ability to perform a wide variety of tasks without task-specific training. They can generate coherent and contextually relevant text, translate languages, summarize documents, answer questions, and more, simply based on the data they were trained on.
+
 ## How much memory is required to host a Llama 3.1 with 405 billion parameters?
+Training or deploying large language models (LLMs) is a big challenge. The first question that comes to mind is how much memory is required to develop or use these models. How much memory is enough? Training and deploying these models is so expensive that small or mid-sized companies cannot afford to commit resources for the long term unless the value gained exceeds the costs incurred in developing, running, and maintaining these models. This article is not just about memory but overall what kind of hardware we may need to work with LLMs.
+
 Deploying a large-scale model like Llama 3.1 with 405 billion parameters for inference purposes requires substantial hardware resources. Here are the main considerations:
 
 ### GPU Requirements
