@@ -2,7 +2,7 @@
 mathjax: true
 id: 6118
 title: Decoding pip install operations
-date: 2024-07-27
+date: 2024-07-28
 permalink: /dsblog/Decoding-pip-install-operations
 tags: []
 categories:

@@ -2,7 +2,7 @@
 mathjax: true
 id: 6111
 title: KM Ganguli Mahabharat Corpus
-date: 2024-01-03
+date: 2024-01-07
 permalink: /dsblog/KM-Ganguli-Mahabharat-Corpus
 tags: [AI-Usecases, Government] 
 categories:

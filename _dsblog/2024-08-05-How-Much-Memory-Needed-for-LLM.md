@@ -2,7 +2,7 @@
 mathjax: true
 id: 6133
 title: How Much Memory Needed for LLM
-date: 2024-07-27
+date: 2024-08-05
 permalink: /dsblog/How-Much-Memory-Needed-for-LLM
 tags: []
 categories:

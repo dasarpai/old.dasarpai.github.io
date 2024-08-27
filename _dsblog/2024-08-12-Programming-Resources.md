@@ -2,7 +2,7 @@
 mathjax: true
 id: 6136
 title: Programming Resources
-date: 2024-07-27
+date: 2024-08-12
 permalink: /dsblog/Programming-Resources
 tags: []
 categories:
