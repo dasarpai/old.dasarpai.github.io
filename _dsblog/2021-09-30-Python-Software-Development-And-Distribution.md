@@ -82,7 +82,7 @@ You can create virtual environment at any place on hard disk. You need to decide
 
 python3 -m venv tutorial-env
 
-The problem with this approach is very soon you will go crazy with dozens of virtual environments in the different directories, and it will be extremely difficult to manage them. You don’t know how many virtual environments are there on your machine. The second limitation of this approach is sometimes a virtual environment can be used for multiple projects, but if you keep a virtual environment project in a specific folder, then you cannot reuse it.
+The problem with this approach is very soon you will go crazy with dozens of virtual environments in the different directories, and it will be extremely difficult to manage them. You don’t know how many virtual environments are there on your machine. The second limitation of this approach is sometimes a virtual environment can be used for multiple projects, but if you keep a virtual environment project in a specific folder, you need to remember which environment in which project or folder.
 
 After creating the environment to activate the installed environment on Windows, you can use the following command.
 
