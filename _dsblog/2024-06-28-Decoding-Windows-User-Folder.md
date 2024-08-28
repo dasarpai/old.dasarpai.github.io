@@ -25,19 +25,19 @@ comments: true
 
 # Decoding Windows User Folder
 
-## My machine c:\users folder has 3 users Detault, harip_, public. What is the purpose of these 3 users?
+## My machine c:\users folder has 3 users Detault, harip, public. What is the purpose of these 3 users?
 
-The `C:\Users` folder on a Windows machine contains subfolders for each user profile on the system. Here's an explanation of the purpose of the three users you mentioned: `Default`, `hari_`, and `Public`.
+The `C:\Users` folder on a Windows machine contains subfolders for each user profile on the system. Here's an explanation of the purpose of the three users you mentioned: `Default`, `hari`, and `Public`.
 
 ### 1. Default
 - **Purpose**: The `Default` user profile is a template used by Windows when creating new user profiles. When a new user account is created on the system, Windows copies the contents of the `Default` profile to set up the new user's profile.
 - **Contents**: This folder typically contains the default settings and configuration files that new user profiles will inherit.
 - **Location**: `C:\Users\Default`
 
-### 2. harip_
+### 2. hari
 - **Purpose**: This folder is the user profile for the account named `hari_`. It contains personal files, configuration settings, and application data specific to this user.
 - **Contents**: It includes folders such as `Documents`, `Downloads`, `Pictures`, `AppData`, and others that store the user's personal files and preferences.
-- **Location**: `C:\Users\harip_`
+- **Location**: `C:\Users\hari`
 
 ### 3. Public
 - **Purpose**: The `Public` user profile is used to share files and folders among all users on the same computer. Any user account on the computer can access the files stored in the `Public` profile.
@@ -58,12 +58,12 @@ The `Public` folder serves a specific purpose: it provides a common area for sha
 ### Purpose of the Public Folder
 
 1. **Shared Access**:
-    - The `Public` folder is accessible to all user accounts on the machine. If there are multiple users (e.g., `hari_` and `ravi`), both can access the `Public` folder and its contents.
+    - The `Public` folder is accessible to all user accounts on the machine. If there are multiple users (e.g., `hari` and `ravi`), both can access the `Public` folder and its contents.
     - This makes it easy to share files without needing to set up permissions or use external storage devices.
 
 2. **Collaboration**:
     - When multiple users need to work on the same files or share resources, the `Public` folder provides a convenient location.
-    - For example, if `hari_` wants to share a document with `ravi`, `hari_` can place the document in the `Public` folder. `ravi` can then access it from their own user profile.
+    - For example, if `hari` wants to share a document with `ravi`, `hari` can place the document in the `Public` folder. `ravi` can then access it from their own user profile.
 
 3. **Accessibility**:
     - Files in the `Public` folder are not tied to any specific user, so they remain accessible even if the user who placed them there is logged out or has been deleted.
@@ -71,7 +71,7 @@ The `Public` folder serves a specific purpose: it provides a common area for sha
 ### Example Scenario
 
 1. **User Profiles**:
-    - `C:\Users\hari_`: Contains `hari_`'s personal files and settings.
+    - `C:\Users\hari`: Contains `hari`'s personal files and settings.
     - `C:\Users\ravi`: Contains `ravi`'s personal files and settings.
 
 2. **Public Folder**:
@@ -80,10 +80,10 @@ The `Public` folder serves a specific purpose: it provides a common area for sha
 ### How to Use the Public Folder
 
 1. **Placing Files**:
-    - `hari_` can copy or move files into `C:\Users\Public\Documents`, `C:\Users\Public\Downloads`, etc.
+    - `hari` can copy or move files into `C:\Users\Public\Documents`, `C:\Users\Public\Downloads`, etc.
 
 2. **Accessing Files**:
-    - `ravi` can navigate to `C:\Users\Public\Documents` (or other subfolders) and see the files `hari_` placed there.
+    - `ravi` can navigate to `C:\Users\Public\Documents` (or other subfolders) and see the files `hari` placed there.
 
 ### Public Folder Structure
 

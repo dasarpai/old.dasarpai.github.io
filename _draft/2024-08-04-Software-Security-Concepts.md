@@ -176,8 +176,6 @@ OAuth is available in two major versions, OAuth 1.0a and OAuth 2.0, with OAuth 2
 
 ## Can you share popular Compliance and Regulatory Requirements around various industries?
 
-Sure! Here are some popular compliance and regulatory requirements across various industries:
-
 ### 1. **Finance and Banking**
 
 - **PCI DSS (Payment Card Industry Data Security Standard)**: Standards for organizations handling credit card transactions to ensure secure processing, storage, and transmission of cardholder data.

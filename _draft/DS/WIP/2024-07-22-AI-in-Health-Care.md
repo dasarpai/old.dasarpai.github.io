@@ -24,8 +24,6 @@ comments: true
 ![Health-Authority-Questions](/assets/images/dspost/dsp6124-AI-in-Health-Care.jpg)
 
 # AI in Health Care
-
-# AI in Health Care 
 https://www.excelra.com/case-studies/
 
 ## HAQ Responses
