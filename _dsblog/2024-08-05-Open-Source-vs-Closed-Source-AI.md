@@ -23,8 +23,6 @@ comments: true
 
 ![Open-Source-vs-Closed-Source-AI](/assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg)
 
-# Open Source vs Closed Source AI
-
 # Open Source AI vs Closed Source AI 
 
 Major players in the AI industry, such as Google, Microsoft, IBM, Salesforce, etc each have their own proprietary models and infrastructure to host these models. They offer AI services that companies use to develop AI products for either their end customers or internal use. Training or developing AI models requires expensive hardware and highly skilled personnel, making it a costly process. However, the deployment and inference stages are even more expensive, as they involve ongoing costs for hardware and monitoring.
@@ -98,4 +96,9 @@ Proprietary or closed-source AI can pose certain risks and challenges, particula
 
 10. **Potential for Abuse:** Proprietary systems can be used in ways that are not visible or accountable to the public, potentially leading to misuse in areas like surveillance, social manipulation, or discriminatory practices.
 
-While proprietary AI solutions can offer benefits such as polished user experiences, dedicated support, and potentially higher levels of security in some cases, these risks highlight why transparency and openness are important considerations in the development and deployment of AI technologies.
+While proprietary AI solutions can offer benefits such as polished user experiences, dedicated support, and potentially higher levels of security in some cases, they highlight transparency and openness are important considerations in the development and deployment of AI technologies.
+
+## Future of AI Development
+As of 2024, the costs associated with training, fine-tuning, and deploying large language models (LLMs) remain prohibitively high for many researchers, developers, and users. These high costs create barriers to entry and limit the democratization of AI technology. Looking ahead, advancements in computing hardware and the development of high-quality models with fewer parameters are expected to lower these costs, making advanced AI capabilities more accessible. This reduction in cost could transform AI into a widely available commodity, fostering a more competitive market with multiple suppliers.
+
+In this evolving landscape, we are likely to see a greater emphasis on open-source AI solutions. Open-source models offer transparency, community-driven innovation, and lower barriers to entry, making them attractive alternatives to proprietary, closed-source options. As open-source AI becomes more prevalent, new business models will emerge, potentially challenging the dominance of large IT companies. The future will reveal how these shifts will shape the AI industry, balancing the interests of innovation, competition, and ethical considerations.

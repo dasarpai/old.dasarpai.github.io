@@ -25,7 +25,9 @@ comments: true
 
 # Variations of Language Model in Huggingface
 
-## In huggingface model repository we see other models like GPT2LMHeadModel, GPT2ForSequenceClassification, etc what are these?
+## What the Model variable in Huggingface?
+We know base moels like BERT, T5, GPT2, GPT3 etc are developed by researchers working with different companies. But when we look into huggingface model repository we see other models like GPT2LMHeadModel, GPT2ForSequenceClassification, etc what are these?
+
 Huggingface picks up base moel like GPT2, BERT, T5 etc and tune these for specific tasks. Therefore these are different variations of GPT-2 models, such as `GPT2LMHeadModel`, `GPT2DoubleHeadsModel`, `GPT2ForSequenceClassification`, etc., were primarily created by Hugging Face. These are adaptations of the original GPT-2 model released by OpenAI, tailored to fit specific tasks in natural language processing (NLP).
 
 For example, OpenAI released the original GPT-2 model in 2019 as a large-scale transformer-based model for natural language generation. The core model (referred to as `GPT2Model` in Hugging Face's library) was designed primarily for generating text based on input prompts. Hugging Face extended the original GPT-2 model by creating variations such as `GPT2LMHeadModel`, `GPT2DoubleHeadsModel`, `GPT2ForSequenceClassification`, and others. These adaptations are designed to apply GPT-2's architecture to a broader range of tasks, such as sequence classification, token classification, and multiple-choice question answering.
@@ -132,7 +134,9 @@ In the `GPT2DoubleHeadsModel`, the model is structured to handle multiple-choice
 
 This approach allows the model to evaluate the relationship between the question and each possible answer option, ultimately selecting the option that best fits the context provided.
 
-## Can you tell me the difference between GPT2ForTextClassification, GPT2ForDocumentClassification, GPT2ForSequenceClassification model variations?
+## The difference between GPT2ForTextClassification, GPT2ForDocumentClassification, GPT2ForSequenceClassification models.
+
+Can you tell me the difference between GPT2ForTextClassification, GPT2ForDocumentClassification, GPT2ForSequenceClassification model variations?
 
 - **GPT2ForTextClassification**:
   - Focuses on short text inputs.

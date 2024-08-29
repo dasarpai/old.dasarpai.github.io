@@ -184,7 +184,7 @@ eTOM is a valuable framework for telecommunications service providers seeking to
 **Agile** is a methodology and set of principles designed to improve the flexibility and efficiency of project management and software development. It is not a business process framework in the traditional sense, but it can be considered a framework for managing and improving business processes, particularly those related to software development and project management.
 
 ### Key Aspects of Agile
-Agile is based on the **Agile Manifesto**, which outlines four core values and twelve principles for software development.
+Agile is based on the [**Agile Manifesto**](https://agilemanifesto.org/), which outlines four core values and twelve principles for software development.
   
 1. **Values**: 
    - Individuals and interactions over processes and tools.

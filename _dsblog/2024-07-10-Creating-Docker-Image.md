@@ -25,29 +25,28 @@ comments: true
 
 # Creating Docker Image
 
-https://docs.docker.com/guides/docker-overview/
+## What is Docker?
+- Docker is an open platform for developing, shipping, and running applications. 
+- Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. 
+- With Docker, you can manage your infrastructure in the same ways you manage your applications. 
+- Docker provides the ability to package and run an application in a loosely isolated environment called a container. 
+- The isolation and security lets you run many containers simultaneously on a given host. 
+- Containers are lightweight and contain everything needed to run the application, so you don't need to rely on what's installed on the host.
 
-Docker is an open platform for developing, shipping, and running applications. 
-Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. 
-With Docker, you can manage your infrastructure in the same ways you manage your applications. 
-Docker provides the ability to package and run an application in a loosely isolated environment called a container. 
-The isolation and security lets you run many containers simultaneously on a given host. 
-Containers are lightweight and contain everything needed to run the application, so you don't need to rely on what's installed on the host.
 
-![Creating-Docker-Image](/assets/images/dspost/dsp6123-Creating-Docker-Image.jpg)
 
-# Creating Docker Image
+## Basics Terms Related to Docker
 
-The Docker daemon
+### The Docker daemon
 The Docker daemon (dockerd) listens for Docker API requests and manages Docker objects such as images, containers, networks, and volumes. A daemon can also communicate with other daemons to manage Docker services.
 
-The Docker client
+### The Docker client
 The Docker client (docker) is the primary way that many Docker users interact with Docker. When you use commands such as docker run, the client sends these commands to dockerd, which carries them out. The docker command uses the Docker API. The Docker client can communicate with more than one daemon.
 
-Docker Desktop
+### Docker Desktop
 Docker Desktop is an easy-to-install application for your Mac, Windows or Linux environment that enables you to build and share containerized applications and microservices. Docker Desktop includes the Docker daemon (dockerd), the Docker client (docker), Docker Compose, Docker Content Trust, Kubernetes, and Credential Helper. For more information, see Docker Desktop.
 
-Docker registries
+### Docker registries
 A Docker registry stores Docker images. Docker Hub is a public registry that anyone can use, and Docker looks for images on Docker Hub by default. You can even run your own private registry.
 
 When you use the docker pull or docker run commands, Docker pulls the required images from your configured registry. When you use the docker push command, Docker pushes your image to your configured registry.
@@ -57,17 +56,18 @@ docker run -i -t ubuntu /bin/bash
 
 
 
-# Creating a docker image to execute some python program.
+## How to create a docker image of my application?
+Let's say we have a small python program which can display 10 number. How to containerize this program so that irrespective of OS and program dependencies it can run on any machine.
 
-## Install Docker Desktop
+- Install Docker Desktop
+- Run Docker Desktop
+- Create program "count-program"
 
+### Create count-program
+create a folder "count-program"   
+cd count-program   
 
-## Run Docker Desktop
-
-## create a folder "count-program"
-cd count-program
-
-## Create program 
+#### Create program 
 
 create a python program count.py (copy paste the code below) in this folder.
 ```
@@ -76,7 +76,7 @@ for i in range(1, 11):
     print(i)
 ```
 
-## Create Dockerfile 
+### Create Dockerfile 
 
 create a Dockerfile in this same folder. File name must be the "Dockerfile". Copy paste following code.
 ```
@@ -90,7 +90,7 @@ COPY count.py /count.py
 CMD ["python", "/count.py"]
 ```
 
-### ALTERNATIVE Code can be below.
+#### ALTERNATIVE Code can be below.
 
 ```
 ## Use busybox as the base image
@@ -112,12 +112,12 @@ CMD ["python3", "/count.py"]
 ```
 
 
-## Create the image 
+### Create the image 
 ```
 docker build -t count-image .
 ```
 
-## Run the image in a container.
+### Run the image in a container.
 ```
 docker run --rm count-image
 ```
@@ -125,8 +125,7 @@ docker run --rm count-image
 It will run the code and container will stop.
 
 
-
-# what is the difference between "docker build" and docker-compose commands?
+## what is the difference between "docker build" and "docker-compose" commands?
 
 The `docker build` and `docker-compose` commands are both used in the Docker ecosystem but serve different purposes and are used in different contexts. Here's a breakdown of their differences and uses:
 
@@ -180,7 +179,7 @@ The `docker-compose` command is used to define and run multi-container Docker ap
 - **Purpose**: It is used to run, configure, and manage multi-container applications. This can include linking containers, setting up networks, and managing volumes.
 - **Workflow**: With `docker-compose`, you typically use the `docker-compose up` command to start all the services defined in the `docker-compose.yml` file. This command will build the images if they do not exist, create the containers, and start the services.
 
-### When to Use Each
+### When to use these?
 
 - **Use `docker build`**: When you need to build a single Docker image from a Dockerfile. This is often the first step in your Docker workflow, creating an image that you can then run or push to a Docker registry.
   
@@ -231,3 +230,6 @@ The `docker-compose` command is used to define and run multi-container Docker ap
      ```
 
 In summary, use `docker build` to create Docker images from a Dockerfile, and use `docker-compose` to manage and run multi-container Docker applications using a `docker-compose.yml` file.
+
+## Useful References
+- [Docker Overview](https://docs.docker.com/guides/docker-overview/)
