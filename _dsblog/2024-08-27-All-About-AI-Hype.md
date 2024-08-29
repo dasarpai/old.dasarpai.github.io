@@ -4,7 +4,7 @@ id: 6139
 title: All About AI Hype
 date: 2024-08-27
 permalink: /dsblog/All-About-ai-Hype
-tags: []
+tags: [AI Trends, Future with AI]
 categories:
   - dsblog
 header:
@@ -19,6 +19,8 @@ toc: true
 toc_sticky: true 
 mathjax: "true"
 comments: true
+keywords: [AI hype, artificial intelligence trends, future of AI, AI myths, machine learning hype, AI technology 2024, AI applications, AI innovations, understanding AI, AI misconceptions, AI industry growth, deep learning advancements, AI predictions]
+
 ---
 
 ![All About AI Hype](/assets/images/dspost/dsp6139-All-About-ai-Hype.jpg)

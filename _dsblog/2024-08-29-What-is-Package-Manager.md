@@ -4,7 +4,7 @@ id: 6141
 title: What is Package Manager
 date: 2024-08-27
 permalink: /dsblog/What-is-Package-Manager
-tags: []
+tags: [Package Management, Software Installation, Linux Software Installation]
 categories:
   - dsblog
 header:
@@ -19,6 +19,7 @@ toc: true
 toc_sticky: true 
 mathjax: "true"
 comments: true
+keywords: [What is a package manager, package manager overview, software package management, package managers explained, Linux package manager, programming package manager, system package management, dependency management tools, popular package managers, installing software on Linux, package management guide, package manager examples, software installation tools]
 ---
 
 ![Tensorflow GPU Setup on Local Machine](/assets/images/dspost/dsp6141-What-is-Package-Manager.jpg)
@@ -132,3 +133,9 @@ Here are examples of how to use `.rpm` and `.deb` files to install software dire
    These commands will automatically manage and install dependencies.
 
 Using `.deb` and `.rpm` files allows you to install software directly, much like using `.exe` files in Windows, but you often need to handle dependencies to ensure everything works correctly.
+
+## Summary of Commands from Popular Package Managers
+![](/assets/images/dspost/dsp6141-Package_Managers-Commands.jpg)
+## Useful Links
+- [Linux's Package Manager Tools](https://medium.com/@ashfaq.sayeem/linuxs-package-manager-tool-fa5c69886143)
+- [Package manager - wikipedia](https://en.wikipedia.org/wiki//Package_manager)

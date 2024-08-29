@@ -4,7 +4,7 @@ id: 6136
 title: Programming Resources
 date: 2024-08-12
 permalink: /dsblog/Programming-Resources
-tags: []
+tags: [Programming, Interview, Resources, Jobs]
 categories:
   - dsblog
 header:
@@ -19,169 +19,16 @@ toc: true
 toc_sticky: true 
 mathjax: "true"
 comments: true
+keywords: [Programming resources, Best programming resources 2024, Top programming tools, Coding tutorials, Free programming courses, Developer resources guide, Learn to code online, Beginner programming resources, Advanced coding tutorials, Essential developer tools]
 ---
 
 ![Programming-Resources](/assets/images/dspost/dsp6136-Programming-Resources.jpg)
 
 # Programming Resources
 
+## Programming
 
-*   [interviewing.io](https://interviewing.io/)
-*   [Leetcode](https://leetcode.com/)
-*   [HackerRank](https://www.hackerrank.com/)
-*   [CodeForces](http://codeforces.com/)
-*   [CodeChef](https://www.codechef.com)
-*   [Coderbyte](https://coderbyte.com/)
-*   [CodinGame](https://www.codingame.com/)
-*   [Cs Academy](https://csacademy.com/)
-*   [Daily Coding Problem](https://www.dailycodingproblem.com/)
-*   [Spoj](https://spoj.com/)
-*   [HackerEarth](https://hackerearth.com/)
-*   [TopCoder](https://www.topcoder.com/)
-*   [Codewars](https://codewars.com/)
-*   [Exercism](http://www.exercism.io/)
-*   [CodeFights](https://codefights.com/)
-*   [Project Euler](https://projecteuler.net/)
-*   [Interviewcake](https://www.interviewcake.com/)
-*   [InterviewBit](https://www.interviewbit.com/)
-*   [uCoder](/rohan-paul/Awesome-JavaScript-Interviews/blob/master/ucoder.com.br)
-*   [LintCode](https://www.lintcode.com/)
-*   [CodeCombat](https://codecombat.com/)
-
-
-
-## Jobs
-### Getting your first programming job 
-
-* [Every-developer-needs-a-code-portfolio- Javascript](https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110) 
-* [Collection of Resources for Interview preparations and practices](https://medium.com/@jayshah_84248/how-to-do-well-in-a-coding-interview-2bcd67e93cb5) 
-* [How I cleared the Amazon SDE 2 interview](https://medium.com/@rachit138/how-i-cleared-the-amazon-sde-2-interview-f82a33706ff4) 
-* [How I got 7 Job Offers in 8 Weeks](https://blog.usejournal.com/how-i-got-7-job-offers-in-8-weeks-part-1-please-interview-me-21e6f4ded106)
-*   [master-the-javascript-interview-soft-skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
-*   [google-lost-a-chance-to-hire-me-finally-amazon-hired-me](https://medium.com/@jayshah_84248/google-lost-a-chance-to-hire-me-finally-amazon-hired-me-e35076c73fe2)
-*   [the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps](https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00)
-*   [7-key-steps-to-getting-your-first-software-engineering-job](https://medium.freecodecamp.org/7-key-steps-to-getting-your-first-software-engineering-job-6ef80543cad9)
-*   [5-key-learnings-from-the-post-bootcamp-job-search](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
-*   [how-to-get-your-first-developer-job-in-4-months](https://medium.freecodecamp.org/https-medium-com-samwcoding-how-to-get-your-first-developer-job-in-4-months-ec86da6e5d9a)
-*   [how-to-land-your-first-dev-job-even-if-you-don-t-have-a-cs-degree](https://medium.com/swlh/how-to-land-your-first-dev-job-even-if-you-don-t-have-a-cs-degree-e83d08db4615)
-*   [how-to-land-a-top-notch-tech-job-as-a-student](https://medium.freecodecamp.org/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d)
-*   [unlocking-the-javascript-code-interview-an-interviewer-perspective](https://medium.com/appsflyer/unlocking-the-javascript-code-interview-an-interviewer-perspective-f4fe06246b29)
-*   [get-that-job-at-google.html](https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
-*   [i-failed-my-effing-coding-interview-ab720c339c8a](https://blog.usejournal.com/i-failed-my-effing-coding-interview)
-*   [how-i-landed-a-full-stack-developer-job-without-a-tech-degree-or-work-experience](https://medium.freecodecamp.org/how-i-landed-a-full-stack-developer-job-without-a-tech-degree-or-work-experience-6add97be2051)
-*   [here-are-4-best-ways-to-apply-for-software-engineer-jobs-and-exactly-how-to-use-them](https://medium.freecodecamp.org/here-are-4-best-ways-to-apply-for-software-engineer-jobs-and-exactly-how-to-use-them-a644a88b2241)
-*   [how-to-get-a-tech-job-with-no-previous-work-experience](https://medium.freecodecamp.org/how-to-get-a-tech-job-with-no-previous-work-experience-6d3d7d25e1)
-*   [the-hard-thing-about-learning-hard-things](https://medium.freecodecamp.org/the-hard-thing-about-learning-hard-things-168e655ac7f2)
-*   [70-job-find-websites-for-developers-other-tech-professionals](https://medium.com/@traversymedia/70-job-find-websites-for-developers-other-tech-professionals-34cdb45518be)
-*   [YouTube - 70+ Websites To Find Developer Jobs](https://www.youtube.com/watch?v=xKOPqWWmxEQ)
-*   [YouTube - I'm 47 And Now I Want to be a Programmer](https://www.youtube.com/watch?v=EJDZ2L95Sjo)
-*   [YouTube - How To Be A Well-Paid Programmer In 1 Year?](https://www.youtube.com/watch?v=V71Cv7mjgfI)
-*   [the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
-
-
-
-### Sites for searching developer job
-
-*   [Joblist.app](https://joblist.app)
-*   [AngelList](https://angel.co)
-*   [Authentic jobs](http://authenticjobs.com)
-*   [Developers for Hire](http://developersforhire.com)
-*   [DevITjobs uk](https://devitjobs.uk)
-*   [DevITjobs us](https://devitjobs.us)
-*   [Dice](http://dice.com)
-*   [Fullstack Job](http://fullstackjob.com)
-*   [Glassdoor](http://glassdoor.com)
-*   [Hired](https://hired.com)
-*   [Indeed](http://indeed.com)
-*   [Jobs in Europe](http://landing.jobs)
-*   [Jobspresso](http://jobspresso.co)
-*   [Krop](http://krop.com)
-*   [LinkedIn](http://linkedIn.com)
-*   [Mashable](http://jobs.mashable.com/jobs)
-*   [Monster](http://monster.com)
-*   [Muse](http://themuse.com/jobs)
-*   [PowerToFly](http://powertofly.com/jobs)
-*   [Simply Hired](http://simplyhired.com)
-*   [StackOverflow](http://stackoverflow.com/jobs)
-*   [Toptal](https://toptal.com)
-*   [TripleByte](https://triplebyte.com)
-*   [Tuts+](http://jobs.tutsplus.com)
-
-### Startup job
-
-*   [AngelList](http://angel.co/jobs)
-*   [Product Hunt](http://producthunt.com/jobs)
-*   [Startup Hire](http://startuphire.com)
-*   [Startupers](http://startupers.com)
-*   [YCombinator](http://news.ycombinator.com/jobs)
-
-### Best places to job hunt for remote jobs:
-
-*   [DailyRemote](https://dailyremote.com)
-*   [FlexJobs](http://flexjobs.com)
-*   [Front-end remote](http://frontendremotejobs.com)
-*   [IWantRemote](http://iwantremote.com)
-*   [JS Remotely](http://jsremotely.com)
-*   [JustRemote](https://justremote.co/remote-developer-jobs)
-*   [Outsourcely](http://outsourcely.com/remote-web-development-jobs)
-*   [Pangian](https://pangian.com/job-travel-remote/)
-*   [Remote . co](https://remote.co/remote-jobs/developer/)
-*   [Remote Talent](http://remotetalent.co/jobs)
-*   [RemoteLeads](http://remoteleads.io)
-*   [RemoteLeaf](https://remoteleaf.com)
-*   [RemoteOk](http://remoteok.io/remote-dev-jobs)
-*   [Remoters](http://remoters.net/jobs/software-development)
-*   [Remotive](https://remotive.io/remote-jobs/software-dev)
-*   [Sitepoint](https://sitepoint.com/jobs/)
-*   [Stackoverflow](http://stackoverflow.com/jobs/remote-developer-jobs)
-*   [WeWorkRemotely](http://weworkremotely.com)
-*   [Working Nomads](http://workingnomads.co/remote-development-jobs)
-
-
-### A few places to hunt for ios, react, vue and more
-
-*   [iOS](http://iosdevjobs.com)
-*   [React](http://reactjobboard.com)
-*   [Vue jobs](http://vuejobs.com)
-*   [Ember](http://jobs.emberjs.com)
-*   [Python Jobs](https://python.org/jobs)
-
-
-
-### Want a list of just JavaScript jobs?
-
-*   [JavaScript job XYZ](http://javascriptjob.xyz)
-*   [Javascript remotely](http://jsremotely.com)
-
-
-### Are you looking for a junior dev job?
-
-
-*   [JrDevJobs](http://jrdevjobs.com)
-*   [Stackoverflow Junior jobs](https://stackoverflow.com/jobs/junior-developer-jobs)
-
-
-### Women focused job boards!
-
-
-*   [Women Who Code](http://womenwhocode.com/jobs)
-*   [Tech Ladies](https://hiretechladies.com)
-
-
-### Want a job as a freelance dev? Here's a list
-
-
-*   [Freelancer](http://freelancer.com/jobs)
-*   [Upwork](https://upwork.com)
-*   [FlexJobs](http://flexjobs.com/jobs)
-*   [FreelancerMap](http://freelancermap.com)
-*   [Gun io](http://gun.io)
-*   [Guru](http://guru.com/d/jobs)
-
-
-## Learning with Others
-
-
+### Learning with Others
 *   [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
 *   [devRant](https://www.devrant.io) : Community where you can rant and release your stress
 *   [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
@@ -190,19 +37,19 @@ comments: true
 *   [Stackoverflow High Scored JS Questions](https://dashboard.nbshare.io/apps/stackoverflow/top-javascript-questions/) : Dashboard to track top Javascript questions asked on Stackoverflow
 
 
-## Some Project Ideas
+### Some Project Ideas
 
-*   [freeCodeCamp | React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
+*   [freeCodeCamp - React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
 *   [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
 *   [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
 *   [Wrong "big projects" for beginners](https://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
 *   [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
 *   [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
 *   [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
-*   [InterviewBit | JavaScript Projects Ideas](https://www.interviewbit.com/blog/javascript-projects/) : Top 15+ JavaScript Projects Ideas.
+*   [InterviewBit - JavaScript Projects Ideas](https://www.interviewbit.com/blog/javascript-projects/) : Top 15+ JavaScript Projects Ideas.
 
 
-## Some Important Coding Artciles
+### Some Important Coding Artciles
 
 
 *   [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : Ways to become a better dev!
@@ -245,7 +92,7 @@ comments: true
 *   [Working with Webhooks](https://requestbin.com/blog/working-with-webhooks/) : a comprehensive guide on webhooks
 *   [Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel) : Kernel 101 – Let’s write a Kernel
 
-## Coding Style
+### Coding Style
 
 *   [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
 *   [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A ruby style guide by Airbnb
@@ -266,7 +113,7 @@ comments: true
 *   [Source Making](https://sourcemaking.com/) : Design Patterns & Refactoring
 *   [Refactoring Guru](https://refactoring.guru/): Refactoring And Design Patterns
 
-## Collection of Leetcode Problem solution
+### Collection of Leetcode Problem solution
 
 *   [github.com/AlanWei/LeetCode](https://github.com/AlanWei/LeetCode)
 *   [github.com/LiuL0703/algorithm/tree/master/LeetCode/JavaScript](https://github.com/LiuL0703/algorithm/tree/master/LeetCode/JavaScript)
@@ -463,8 +310,6 @@ comments: true
 *   [Algorithm Interview Questions](https://www.interviewbit.com/algorithm-interview-questions/)
 
 ### Some resources for JavaScript Interviews
-Sure! Here’s the list converted into Markdown link format:
-
 * [10 JavaScript concepts you need to know for interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews?utm_source=hashnode.com)
 * [Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less](https://github.com/Chalarangelo/30-seconds-of-code)
 * [123 Essential JavaScript Interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
@@ -483,3 +328,155 @@ Sure! Here’s the list converted into Markdown link format:
 * [Prepare from this comprehensive list of the latest JavaScript Interview Questions and ace your interview](https://www.interviewbit.com/javascript-interview-questions/)
 * [Many tricky and common JavaScript questions](https://github.com/lydiahallie/javascript-questions)
 * [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
+
+
+## Jobs
+### Getting your first programming job 
+
+* [Every-developer-needs-a-code-portfolio- Javascript](https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110) 
+* [Collection of Resources for Interview preparations and practices](https://medium.com/@jayshah_84248/how-to-do-well-in-a-coding-interview-2bcd67e93cb5) 
+* [How I cleared the Amazon SDE 2 interview](https://medium.com/@rachit138/how-i-cleared-the-amazon-sde-2-interview-f82a33706ff4) 
+* [How I got 7 Job Offers in 8 Weeks](https://blog.usejournal.com/how-i-got-7-job-offers-in-8-weeks-part-1-please-interview-me-21e6f4ded106)
+*   [master-the-javascript-interview-soft-skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
+*   [google-lost-a-chance-to-hire-me-finally-amazon-hired-me](https://medium.com/@jayshah_84248/google-lost-a-chance-to-hire-me-finally-amazon-hired-me-e35076c73fe2)
+*   [the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps](https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00)
+*   [7-key-steps-to-getting-your-first-software-engineering-job](https://medium.freecodecamp.org/7-key-steps-to-getting-your-first-software-engineering-job-6ef80543cad9)
+*   [5-key-learnings-from-the-post-bootcamp-job-search](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
+*   [how-to-get-your-first-developer-job-in-4-months](https://medium.freecodecamp.org/https-medium-com-samwcoding-how-to-get-your-first-developer-job-in-4-months-ec86da6e5d9a)
+*   [how-to-land-your-first-dev-job-even-if-you-don-t-have-a-cs-degree](https://medium.com/swlh/how-to-land-your-first-dev-job-even-if-you-don-t-have-a-cs-degree-e83d08db4615)
+*   [how-to-land-a-top-notch-tech-job-as-a-student](https://medium.freecodecamp.org/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d)
+*   [unlocking-the-javascript-code-interview-an-interviewer-perspective](https://medium.com/appsflyer/unlocking-the-javascript-code-interview-an-interviewer-perspective-f4fe06246b29)
+*   [get-that-job-at-google.html](https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+*   [i-failed-my-effing-coding-interview-ab720c339c8a](https://blog.usejournal.com/i-failed-my-effing-coding-interview)
+*   [how-i-landed-a-full-stack-developer-job-without-a-tech-degree-or-work-experience](https://medium.freecodecamp.org/how-i-landed-a-full-stack-developer-job-without-a-tech-degree-or-work-experience-6add97be2051)
+*   [here-are-4-best-ways-to-apply-for-software-engineer-jobs-and-exactly-how-to-use-them](https://medium.freecodecamp.org/here-are-4-best-ways-to-apply-for-software-engineer-jobs-and-exactly-how-to-use-them-a644a88b2241)
+*   [how-to-get-a-tech-job-with-no-previous-work-experience](https://medium.freecodecamp.org/how-to-get-a-tech-job-with-no-previous-work-experience-6d3d7d25e1)
+*   [the-hard-thing-about-learning-hard-things](https://medium.freecodecamp.org/the-hard-thing-about-learning-hard-things-168e655ac7f2)
+*   [70-job-find-websites-for-developers-other-tech-professionals](https://medium.com/@traversymedia/70-job-find-websites-for-developers-other-tech-professionals-34cdb45518be)
+*   [YouTube - 70+ Websites To Find Developer Jobs](https://www.youtube.com/watch?v=xKOPqWWmxEQ)
+*   [YouTube - I'm 47 And Now I Want to be a Programmer](https://www.youtube.com/watch?v=EJDZ2L95Sjo)
+*   [YouTube - How To Be A Well-Paid Programmer In 1 Year?](https://www.youtube.com/watch?v=V71Cv7mjgfI)
+*   [the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
+
+
+
+### Sites for searching developer job
+
+*   [Joblist.app](https://joblist.app)
+*   [AngelList](https://angel.co)
+*   [Authentic jobs](http://authenticjobs.com)
+*   [Developers for Hire](http://developersforhire.com)
+*   [DevITjobs uk](https://devitjobs.uk)
+*   [DevITjobs us](https://devitjobs.us)
+*   [Dice](http://dice.com)
+*   [Fullstack Job](http://fullstackjob.com)
+*   [Glassdoor](http://glassdoor.com)
+*   [Hired](https://hired.com)
+*   [Indeed](http://indeed.com)
+*   [Jobs in Europe](http://landing.jobs)
+*   [Jobspresso](http://jobspresso.co)
+*   [Krop](http://krop.com)
+*   [LinkedIn](http://linkedIn.com)
+*   [Mashable](http://jobs.mashable.com/jobs)
+*   [Monster](http://monster.com)
+*   [Muse](http://themuse.com/jobs)
+*   [PowerToFly](http://powertofly.com/jobs)
+*   [Simply Hired](http://simplyhired.com)
+*   [StackOverflow](http://stackoverflow.com/jobs)
+*   [Toptal](https://toptal.com)
+*   [TripleByte](https://triplebyte.com)
+*   [Tuts+](http://jobs.tutsplus.com)
+
+### Startup job
+
+*   [AngelList](http://angel.co/jobs)
+*   [Product Hunt](http://producthunt.com/jobs)
+*   [Startup Hire](http://startuphire.com)
+*   [Startupers](http://startupers.com)
+*   [YCombinator](http://news.ycombinator.com/jobs)
+
+### Best places to job hunt for remote jobs:
+
+*   [DailyRemote](https://dailyremote.com)
+*   [FlexJobs](http://flexjobs.com)
+*   [Front-end remote](http://frontendremotejobs.com)
+*   [IWantRemote](http://iwantremote.com)
+*   [JS Remotely](http://jsremotely.com)
+*   [JustRemote](https://justremote.co/remote-developer-jobs)
+*   [Outsourcely](http://outsourcely.com/remote-web-development-jobs)
+*   [Pangian](https://pangian.com/job-travel-remote/)
+*   [Remote . co](https://remote.co/remote-jobs/developer/)
+*   [Remote Talent](http://remotetalent.co/jobs)
+*   [RemoteLeads](http://remoteleads.io)
+*   [RemoteLeaf](https://remoteleaf.com)
+*   [RemoteOk](http://remoteok.io/remote-dev-jobs)
+*   [Remoters](http://remoters.net/jobs/software-development)
+*   [Remotive](https://remotive.io/remote-jobs/software-dev)
+*   [Sitepoint](https://sitepoint.com/jobs/)
+*   [Stackoverflow](http://stackoverflow.com/jobs/remote-developer-jobs)
+*   [WeWorkRemotely](http://weworkremotely.com)
+*   [Working Nomads](http://workingnomads.co/remote-development-jobs)
+
+
+### A few places to hunt for ios, react, vue and more
+
+*   [iOS](http://iosdevjobs.com)
+*   [React](http://reactjobboard.com)
+*   [Vue jobs](http://vuejobs.com)
+*   [Ember](http://jobs.emberjs.com)
+*   [Python Jobs](https://python.org/jobs)
+
+
+
+### Want a list of just JavaScript jobs?
+
+*   [JavaScript job XYZ](http://javascriptjob.xyz)
+*   [Javascript remotely](http://jsremotely.com)
+
+
+### Are you looking for a junior dev job?
+
+
+*   [JrDevJobs](http://jrdevjobs.com)
+*   [Stackoverflow Junior jobs](https://stackoverflow.com/jobs/junior-developer-jobs)
+
+
+### Women focused job boards!
+
+
+*   [Women Who Code](http://womenwhocode.com/jobs)
+*   [Tech Ladies](https://hiretechladies.com)
+
+
+### Want a job as a freelance dev? Here's a list
+
+
+*   [Freelancer](http://freelancer.com/jobs)
+*   [Upwork](https://upwork.com)
+*   [FlexJobs](http://flexjobs.com/jobs)
+*   [FreelancerMap](http://freelancermap.com)
+*   [Gun io](http://gun.io)
+*   [Guru](http://guru.com/d/jobs)
+
+## Others 
+*   [interviewing.io](https://interviewing.io/)
+*   [Leetcode](https://leetcode.com/)
+*   [HackerRank](https://www.hackerrank.com/)
+*   [CodeForces](http://codeforces.com/)
+*   [CodeChef](https://www.codechef.com)
+*   [Coderbyte](https://coderbyte.com/)
+*   [CodinGame](https://www.codingame.com/)
+*   [Cs Academy](https://csacademy.com/)
+*   [Daily Coding Problem](https://www.dailycodingproblem.com/)
+*   [Spoj](https://spoj.com/)
+*   [HackerEarth](https://hackerearth.com/)
+*   [TopCoder](https://www.topcoder.com/)
+*   [Codewars](https://codewars.com/)
+*   [Exercism](http://www.exercism.io/)
+*   [CodeFights](https://codefights.com/)
+*   [Project Euler](https://projecteuler.net/)
+*   [Interviewcake](https://www.interviewcake.com/)
+*   [InterviewBit](https://www.interviewbit.com/)
+*   [uCoder](/rohan-paul/Awesome-JavaScript-Interviews/blob/master/ucoder.com.br)
+*   [LintCode](https://www.lintcode.com/)
+*   [CodeCombat](https://codecombat.com/)

@@ -4,7 +4,7 @@ id: 6140
 title: Tensorflow GPU Setup on Local Machine
 date: 2024-08-27
 permalink: /dsblog/Tensorflow-gpu-setup-on-local-machine
-tags: []
+tags: [Tensorflow Installation, Deep Learning, GPU, Docker]
 categories:
   - dsblog
 header:
@@ -19,6 +19,7 @@ toc: true
 toc_sticky: true 
 mathjax: "true"
 comments: true
+keywords: [TensorFlow GPU setup, install TensorFlow GPU, TensorFlow Windows installation, local machine deep learning, GPU acceleration TensorFlow, TensorFlow CUDA setup, deep learning with GPU, TensorFlow GPU configuration, machine learning setup, TensorFlow performance optimization, install CUDA for TensorFlow, cuDNN setup for TensorFlow]
 ---
 
 ![Tensorflow GPU Setup on Local Machine](/assets/images/dspost/dsp6140-Tensorflow-gpu-setup-on-local-machine.jpg)
@@ -47,26 +48,27 @@ When installing packages that support GPU, ensuring that the GPU is available an
 - Launch jupyter notebook and write small code to check whether gpu is available within the jupyter environment or not.
 
 ## Basic Terms
-What is GPU?   
+
+**What is GPU?**   
 The term "GPU" traditionally stands for "Graphics Processing Unit," primarily used for rendering graphics. However, modern GPUs, especially those from NVIDIA, have evolved to handle more than just graphics—they can perform general-purpose computing tasks as well, which is referred to as GPGPU (General-Purpose computing on Graphics Processing Units). With the help of GPGPU, CUDA extends the capabilities of GPUs beyond graphics. It allows developers to write programs that can run on the GPU, making use of its parallel processing power for tasks such as scientific calculations, machine learning, and deep learning.
 
-What is the difference between Library and API?   
+**What is the difference between Library and API?**   
 A library is a collection of pre-written code that provides specific functionalities you can directly use in your programs, like functions or classes. An API (Application Programming Interface) is a set of rules and protocols that defines how software components should interact, specifying how to use the functions and classes in a library without providing the actual implementation. Pandas, Numpy are library. In the context of NVIDIA cuBLAS (CUDA Basic Linear Algebra Subroutines) or cuDNN (CUDA Deep Neural Network) are libraries.
 
-What is **NVIDIA Driver**?   
+**What is NVIDIA Driver**?   
 It acts as a bridge between the operating system and the NVIDIA GPU hardware. It allows the OS and applications to utilize the GPU for computing and rendering tasks.
 Both CUDA and cuDNN require the NVIDIA driver to function, as it provides the basic communication and control capabilities with the GPU.
 
-What is **CUDA (Compute Unified Device Architecture)**   
+**What is CUDA (Compute Unified Device Architecture)**   
 A parallel computing platform and programming model developed by NVIDIA. It enables developers to use NVIDIA GPUs for general-purpose processing (GPGPU), which significantly accelerates tasks like deep learning. It requires the NVIDIA driver. CUDA provides the necessary tools and libraries for interacting with the GPU and forms the foundation for libraries like cuDNN.
 
-What is **cuDNN (CUDA Deep Neural Network Library)**?   
+**What is cuDNN (CUDA Deep Neural Network Library)**?   
 A GPU-accelerated library for deep learning, optimized for running operations common in neural networks, such as convolutions, pooling, normalization, and activation functions. It is created by NVIDIA. It is built on top of CUDA, it requires CUDA to function. cuDNN is specifically tailored to accelerate deep learning workloads and is used by many deep learning frameworks.
 
-What is **TensorFlow**?   
+**What is TensorFlow**?   
 An open-source deep learning framework developed by Google. It provides a comprehensive ecosystem for developing, training, and deploying machine learning models, including neural networks. There is another popular deep learning framework PyTorch, it is developed by Meta. TensorFlow can use cuDNN and CUDA for GPU acceleration, which allows TensorFlow to run computations on the GPU for faster processing. TensorFlow relies on cuDNN for optimized deep learning operations and on CUDA for GPU capabilities.
 
-What is the relationship between NVIDIA Driver, CUDA, cuDNN, TensorFlow?   
+**What is the relationship between NVIDIA Driver, CUDA, cuDNN, TensorFlow?**   
 - **NVIDIA Driver** is the base layer, enabling communication with the GPU.
 - **CUDA** leverages the NVIDIA Driver to provide a platform for GPU-accelerated computing.
 - **cuDNN** is built on top of CUDA to optimize deep learning tasks.
@@ -113,8 +115,9 @@ Before using GPU-enabled packages, make sure that the appropriate GPU drivers ar
   nvidia-smi
   ```
   This command should list the GPU details if the drivers are correctly installed.
-  
+    
   Example output 
+
 ```
 hari@Hari-MSI:/mnt/c/Users/hari_$ nvidia-smi
 
@@ -152,11 +155,13 @@ CUDA (Compute Unified Device Architecture) is a parallel computing platform and 
 
 - **Download CUDA**: Install the CUDA toolkit that matches your NVIDIA driver version. This can be done from the [CUDA Toolkit Archive](https://developer.nvidia.com/cuda-toolkit-archive).
 - **Set Environment Variables**: Ensure that CUDA paths are set in your environment variables. For example, on Linux:
-  ```bash
-  export PATH=/usr/local/cuda-11.2/bin${PATH:+:${PATH}}
-  export LD_LIBRARY_PATH=/usr/local/cuda-11.2/lib64\
-                         ${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
-  ```
+
+```bash
+export PATH=/usr/local/cuda-11.2/bin${PATH:+:${PATH}}
+export LD_LIBRARY_PATH=/usr/local/cuda-11.2/lib64\
+                        ${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+```
+
 ### 3. **Install cuDNN (CUDA Deep Neural Network Library)**
 
 cuDNN is a GPU-accelerated library for deep neural networks, providing highly tuned implementations for standard routines such as forward and backward convolution, pooling, normalization, and activation layers.
@@ -242,8 +247,8 @@ By following these steps, you can ensure that your development environment is co
 
 ## Important Commands
 # How to know which ubunto version on my wsl?
+
 ``` 
-command
 hari@Hari-MSI:/mnt/c/Users/hari_$ lsb_release -a
 
 Output
@@ -253,7 +258,6 @@ Output
 	Release:        22.04
 	Codename:       jammy
 	
-command 
 hari@Hari-MSI:/mnt/c/Users/hari_$ cat /etc/os-release
 
 output
@@ -269,7 +273,6 @@ output
 	BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
 	PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
 	UBUNTU_CODENAME=jammy
-	
 ```
 
 ## How to install CUDA 11.8 and cuDNN 8.1 for tensorflow-2.17.0-gpu?
@@ -351,18 +354,18 @@ https://developer.nvidia.com/cudnn-downloads?target_os=Linux&target_arch=x86_64&
 
 2. **Transfer the cuDNN File into the Docker Container**:
 
-    ```bash
-    docker cp /path/to/cudnn-linux-x86_64-8.1.x.x-cuda11.8-archive.tar.xz <container_id>:/root/
-    ```
+```bash
+docker cp /path/to/cudnn-linux-x86_64-8.1.x.x-cuda11.8-archive.tar.xz <container_id>:/root/
+```
 
 3. **Install cuDNN Inside the Docker Container**:
 
-    ```bash
-    tar -xzvf cudnn-linux-x86_64-8.1.x.x-cuda11.8-archive.tar.xz
-    cp cudnn-linux-x86_64-8.1.x.x-cuda11.8-archive/include/* /usr/local/cuda/include/
-    cp cudnn-linux-x86_64-8.1.x.x-cuda11.8-archive/lib/* /usr/local/cuda/lib64/
-    ldconfig
-    ```
+```bash
+tar -xzvf cudnn-linux-x86_64-8.1.x.x-cuda11.8-archive.tar.xz
+cp cudnn-linux-x86_64-8.1.x.x-cuda11.8-archive/include/* /usr/local/cuda/include/
+cp cudnn-linux-x86_64-8.1.x.x-cuda11.8-archive/lib/* /usr/local/cuda/lib64/
+ldconfig
+```
 
 ### 4. Run Jupyter Notebook
 
@@ -444,17 +447,18 @@ cuDNN: 8.1 and later versions
 
   Create a `Dockerfile` with the following content:
 
-  ```Dockerfile
-  FROM tensorflow/tensorflow:2.17.0-gpu
-  RUN pip install jupyter
-  ```
+```Dockerfile
+FROM tensorflow/tensorflow:2.17.0-gpu
+RUN pip install jupyter
+```
 
   Build and run the Docker image:
 
-  ```bash
-  docker build -t my-tf-jupyter .
-  docker run --gpus all -it --rm -p 9999:8888 my-tf-jupyter jupyter notebook --ip=0.0.0.0 --allow-root
-  ```
+```bash
+docker build -t my-tf-jupyter .
+docker run --gpus all -it --rm -p 9999:8888 my-tf-jupyter jupyter notebook --ip=0.0.0.0 --allow-root
+```
+
 Above command will show one url on the screen, along with port and token. You can go on browser use this information to access the jupyter notebook.   
 
 You can access this from visual code as well. For that purpose on the kernel when IDE ask you for jupyter server you can give this url information.
