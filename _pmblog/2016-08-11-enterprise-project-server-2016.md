@@ -9,16 +9,16 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/MicrosoftProject-Security.jpg'
-layout: single
+  teaser: '/assets/images/pmblog/1014-MicrosoftProject-Security.jpg'
+layout: pmblog-layout 
 
 author: 'Hari Thapliyaal'
-layout: single
+
 excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmblog/MicrosoftProject-Security.jpg)   
+![](/assets/images/pmblog/1014-MicrosoftProject-Security.jpg)   
 
 
 # Enterprise Project Server 2016

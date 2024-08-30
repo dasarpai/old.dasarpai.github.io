@@ -11,9 +11,9 @@ tags:
 categories:
  
 header:
-  teaser: '/assets/images/pmblog/Software-Bug-min.png'
+  teaser: '/assets/images/pmblog/1021-Software-Bug-min.png'
 author: 'Hari Thapliyaal'
-layout: single
+layout: pmblog-layout 
 
 excerpt: #
 author_profile: true
@@ -21,7 +21,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmblog/Software-Bug-min.png)   
+![](/assets/images/pmblog/1021-Software-Bug-min.png)   
 
 # Software Testing Confusing Terms
 

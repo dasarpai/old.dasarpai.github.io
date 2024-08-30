@@ -7,7 +7,7 @@ date: '2021-02-15T06:31:07+00:00'
 author: 'Hari Thapliyaal'
 
 header:
-  teaser: /assets/images/pmlogy/pmbok-general.jpg
+  teaser: /assets/images/pmlogy/1037-pmbok-general.jpg
 tags:
     - 'English Terms'
     - 'PMBOK Inputs Outputs'

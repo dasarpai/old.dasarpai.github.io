@@ -9,15 +9,15 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/project-online-2016-reporting.jpg'
+  teaser: '/assets/images/pmblog/1032-project-online-2016-reporting.jpg'
 author: 'Hari Thapliyaal'
-layout: single
+layout: pmblog-layout 
 
 excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmblog/project-online-2016-reporting.jpg)   
+![](/assets/images/pmblog/1032-project-online-2016-reporting.jpg)   
 
 
 Microsoft Project Online also known as Project Online is an excellent planning tool. It has very powerful inbuilt reporting and analytics templates. These templates can be customized by users based on their needs.

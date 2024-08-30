@@ -9,15 +9,15 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/PMI-Standards-Certification-min.jpg'
+  teaser: '/assets/images/pmblog/1007-PMI-Standards-Certification-min.jpg'
 author: 'Hari Thapliyaal'
-layout: single
+layout: pmblog-layout 
 
 excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmblog/PMI-Standards-Certification-min.jpg)   
+![](/assets/images/pmblog/1007-PMI-Standards-Certification-min.jpg)   
 
 PMI has three types of standards 1- Foundational Standards, 2- Practice Standards, and 3- Extensions. PMI conducts exam for 8 credentials PMP, CAPM, PgMP, PfMP, PMI-SP, PMI-RMP, PMI-ACP, PMI-PBA. How these 14 standards of PMI are used for different PMI credential exams are mentioned in the table below.
 

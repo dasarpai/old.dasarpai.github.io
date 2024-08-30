@@ -10,9 +10,9 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/Virtual-Team-min.jpg'
+  teaser: '/assets/images/pmblog/1006-Virtual-Team-min.jpg'
 author: 'Hari Thapliyaal'
-layout: single
+layout: pmblog-layout 
 
 excerpt: #
 author_profile: true
@@ -21,7 +21,7 @@ toc: true
 toc_sticky: true
 ---
 
-![Managing Virtual Teams](/assets/images/pmblog/Virtual-Team-min.jpg){: width="768"}   
+![Managing Virtual Teams](/assets/images/pmblog/1006-Virtual-Team-min.jpg){: width="768"}   
 ## Tips of Effective Communication
 
 # Introduction

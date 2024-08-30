@@ -10,15 +10,15 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/Exceptional-Performance-min.jpg'
+  teaser: '/assets/images/pmblog/1001-Exceptional-Performance-min.jpg'
 author: 'Hari Thapliyaal'
-layout: single
+layout: pmblog-layout 
 
 excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmblog/Exceptional-Performance-min.jpg)  
+![](/assets/images/pmblog/1001-Exceptional-Performance-min.jpg)  
 
 ## Behaviour that leads to Exceptional performance
 

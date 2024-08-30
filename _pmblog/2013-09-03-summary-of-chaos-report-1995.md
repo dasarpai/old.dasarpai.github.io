@@ -9,15 +9,15 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/ChaosReport.png'
+  teaser: '/assets/images/pmblog/1009-ChaosReport.png'
 author: 'Hari Thapliyaal'
-layout: single
+layout: pmblog-layout 
 
 excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmblog/ChaosReport.png)   
+![](/assets/images/pmblog/1009-ChaosReport.png)   
 
 The data points below are related to Software Development State of Art in America. You can imagine what may be happening in other part of the world.
 
@@ -35,11 +35,11 @@ The data points below are related to Software Development State of Art in Americ
 12. Cost overrun: The average across all companies is 189% of the original cost estimate. The average cost overrun is 178% for large companies, 182% for medium companies, and 214% for small companies.
 13. Features and functions: On average, only 61% of originally specified features and functions were available on these projects. Large companies have the worst record with only 42% of the features and functions in the end product. For medium companies, the percentage is 65%. And for small companies, the percentage is 74%.
 
-![Chaos-2012-Project-Challenges-Factors](/assets/images/pmlogy/Chaos-2012-Project-Challenges-Factors.jpg)Chaos-2012-Project-Challenges-Factors
+![Chaos-2012-Project-Challenges-Factors](/assets/images/pmblog/1009-Chaos-2012-Project-Cancelled-Factors.jpg)Chaos-2012-Project-Challenges-Factors
 
-![Chaos-2012-Project-Cancelled-Factors](/assets/images/pmlogy/Chaos-2012-Project-Cancelled-Factors.jpg)Chaos-2012-Project-Cancelled-Factors
+![Chaos-2012-Project-Cancelled-Factors](/assets/images/pmblog/1009-Chaos-2012-Project-Cancelled-Factors.jpg)Chaos-2012-Project-Cancelled-Factors
 
-![Chaos-2012-Project-Success-Factors](/assets/images/pmlogy/Chaos-2012-Project-Success-Factors.jpg)Chaos-2012-Project-Success-Factors
+![Chaos-2012-Project-Success-Factors](/assets/images/pmblog/1009-Chaos-2012-Project-Success-Factors.jpg)Chaos-2012-Project-Success-Factors
 
 4 Projects were taken for the case study and out of these the HYATT project had the highest points for success criteria and was complete on time, in budget with more features.
 

@@ -6,7 +6,7 @@ date: '2021-02-14T16:13:47+00:00'
 author: 'Hari Thapliyaal'
 
 header:
-  teaser: /assets/images/pmlogy/pmbok-general.jpg
+  teaser: /assets/images/pmlogy/1037-pmbok-general.jpg
 tag:
     - 'English Terms'
     - 'PMBOK Executing PG'

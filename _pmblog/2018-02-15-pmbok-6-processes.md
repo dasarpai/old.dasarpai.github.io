@@ -9,8 +9,8 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/PMBOK6.jpg'
-layout: single
+  teaser: '/assets/images/pmblog/1033-PMBOK6.jpg'
+layout: pmblog-layout 
 
 author: 'Hari Thapliyaal'
 excerpt: #
@@ -18,7 +18,7 @@ author_profile: true
 share: true
 ---
 
-![PMBOK 6 Processes](/assets/images/pmblog/PMBOK6.jpg)   
+![PMBOK 6 Processes](/assets/images/pmblog/1033-PMBOK6.jpg)   
 
 # PMBOK 6 Processes & Process Groups
 

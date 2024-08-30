@@ -5,7 +5,7 @@ date: '2021-02-19T11:15:40+00:00'
 author: 'Hari Thapliyaal'
 permalink: /pmbok6hi/control-procurements-hi/
 header:
-  teaser: /assets/images/pmlogy/pmbok-general.jpg
+  teaser: /assets/images/pmlogy/1037-pmbok-general.jpg
 tags:
     - 'Hindi Terms'
     - 'PMBOK Monitoring and Controlling PG Hindi'

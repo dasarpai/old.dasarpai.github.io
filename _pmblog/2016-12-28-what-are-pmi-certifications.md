@@ -9,15 +9,15 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/PMI-Certification-min.jpg'
+  teaser: '/assets/images/pmblog/1023-PMI-Certification-min.jpg'
 author: 'Hari Thapliyaal'
-layout: single
+layout: pmblog-layout 
 
 excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmblog/PMI-Certification-min.jpg)   
+![](/assets/images/pmblog/1023-PMI-Certification-min.jpg)   
 
 # All PMI Certifications at a glance
 

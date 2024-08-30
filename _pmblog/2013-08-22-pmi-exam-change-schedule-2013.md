@@ -9,15 +9,15 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/Virtual-Team-min.jpg'
+  teaser: '/assets/images/pmblog/1006-Virtual-Team-min.jpg'
 author: 'Hari Thapliyaal'
-layout: single
+layout: pmblog-layout 
 
 excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmblog/Virtual-Team-min.jpg)   
+![](/assets/images/pmblog/1006-Virtual-Team-min.jpg)   
 
 ## PMI Exam Change Schedule 2013
 

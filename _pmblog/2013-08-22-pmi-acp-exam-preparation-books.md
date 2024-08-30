@@ -10,15 +10,15 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/PMI-ACP-Exam-Prep-min.png'
+  teaser: '/assets/images/pmblog/1030-PMI-ACP-Exam-Prep-min.png'
 author: 'Hari Thapliyaal'
-layout: single
+layout: pmblog-layout 
 
 excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmblog/PMI-ACP-Exam-Prep-min.png)   
+![](/assets/images/pmblog/1030-PMI-ACP-Exam-Prep-min.png)   
 
 ## PMI-ACP Exam Preparation Books
 

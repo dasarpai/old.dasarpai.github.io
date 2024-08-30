@@ -9,18 +9,18 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/Project_Success_Criteria.jpg'
-layout: single
+  teaser: '/assets/images/pmblog/1016-Project_Success_Criteria.jpg'
+layout: pmblog-layout 
 
 author: 'Hari Thapliyaal'
-layout: single
+
 excerpt: #
 author_profile: true
 share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmblog/Project_Success_Criteria.jpg)   
+![](/assets/images/pmblog/1016-Project_Success_Criteria.jpg)   
 
 # Project Success Criteria
 

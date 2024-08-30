@@ -9,18 +9,18 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/PMP-PRINCE2-min.png'
-layout: single
+  teaser: '/assets/images/pmblog/1013-PMP-PRINCE2-min.png'
+layout: pmblog-layout 
 
 author: 'Hari Thapliyaal'
-layout: single
+
 excerpt: #
 author_profile: true
 share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmblog/PMP-PRINCE2-min.png)   
+![](/assets/images/pmblog/1013-PMP-PRINCE2-min.png)   
 
 
 ## Difference between PMP and PRINCE2

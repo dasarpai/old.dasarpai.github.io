@@ -5,7 +5,7 @@ date: '2021-02-18T07:20:48+00:00'
 author: 'Hari Thapliyaal'
 permalink: /pmbok6hi/manage-project-knowledge-hi/
 header:
-  teaser: /assets/images/pmlogy/pmbok-general.jpg
+  teaser: /assets/images/pmlogy/1037-pmbok-general.jpg
 tags:
     - 'Hindi Terms'
     - 'PMBOK Executing PG Hindi'

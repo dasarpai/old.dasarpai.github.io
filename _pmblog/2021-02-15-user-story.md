@@ -5,14 +5,15 @@ date: '2021-02-15T02:33:30+00:00'
 author: 'Hari Thapliyaal'
 permalink: '/pmblog/User-Story'
 header:
-   teaser: /assets/images/pmblog//UserStory.jpg
+   teaser: /assets/images/pmblog//1036-UserStory.jpg
 tags:
     - 'Agile Terms'
 toc: true   
 toc_sticky: true	
+layout: pmblog-layout 
 ---
 
-![](/assets/images/pmblog/UserStory.jpg)   
+![](/assets/images/pmblog/1036-UserStory.jpg)   
 
 ## What is a user story?
 

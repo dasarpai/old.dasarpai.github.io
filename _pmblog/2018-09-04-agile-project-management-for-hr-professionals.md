@@ -9,18 +9,18 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/Agile-HR-min.png'
+  teaser: '/assets/images/pmblog/1035-Agile-HR-min.png'
 layout: single
 
 author: 'Hari Thapliyaal'
-layout: single
+layout: pmblog-layout 
 excerpt: #
 author_profile: true
 share: true
 toc: true   
 toc_sticky: true
 ---
-![Agile Project Management for HR Professionals](/assets/images/pmblog/Agile-HR-min.png)   
+![Agile Project Management for HR Professionals](/assets/images/pmblog/1035-Agile-HR-min.png)   
 
 # Agile HR
 

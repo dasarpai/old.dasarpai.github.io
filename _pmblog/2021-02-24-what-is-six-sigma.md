@@ -10,8 +10,8 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/pmlogy-post.jpg'
-layout: single
+  teaser: '/assets/images/pmblog/1038-pmlogy-post.jpg'
+layout: pmblog-layout 
 
 author: 'Hari Thapliyaal'
 
@@ -21,7 +21,7 @@ toc: true
 toc_sticky: true
 ---
 
-![What is Six Sigma?](/assets/images/pmblog/pmlogy-post.jpg)   
+![What is Six Sigma?](/assets/images/pmblog/1038-pmlogy-post.jpg)   
 
 # What is Six Sigma?
 

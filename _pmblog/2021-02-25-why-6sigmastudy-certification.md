@@ -10,16 +10,16 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/pmlogy-post.jpg'
+  teaser: '/assets/images/pmblog/1038-pmlogy-post.jpg'
 
-layout: single
+layout: pmblog-layout 
 excerpt: #
 author_profile: true
 share: true
 
 ---
 
-![](/assets/images/pmblog/pmlogy-post.jpg)   
+![](/assets/images/pmblog/1038-pmlogy-post.jpg)   
 
 
 ## Why 6sigmastudy Certification?   

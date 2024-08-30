@@ -5,7 +5,7 @@ permalink: /pmbok6/Sequence-Activities
 date: '2021-02-14T14:05:31+00:00'
 author: 'Hari Thapliyaal'
 header:
-  teaser: /assets/images/pmlogy/pmbok-general.jpg
+  teaser: /assets/images/pmlogy/1037-pmbok-general.jpg
 tags:
     - 'English Terms'
     - 'PMBOK Planning PG'

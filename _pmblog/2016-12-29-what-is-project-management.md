@@ -9,9 +9,9 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/pmbok.png'
+  teaser: '/assets/images/pmblog/1025-pmbok.png'
 author: 'Hari Thapliyaal'
-layout: single
+layout: pmblog-layout 
 
 excerpt: #
 author_profile: true
@@ -19,7 +19,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmblog/pmbok.png)   
+![](/assets/images/pmblog/1025-pmbok.png)   
 
 # Project Management with PMBOK
 

@@ -12,16 +12,16 @@ tags:
   - MSME
   - QCI
 header:
-  teaser: "/assets/images/pmblog/ZED-V1.jpg"
+  teaser: "/assets/images/pmblog/1044-ZED-V1.jpg"
 excerpt_separator: "<!--more-->"
 excerpt:
-layout: single
+layout: pmblog-layout 
 author_profile: true
 toc: true   
 toc_sticky: true
 ---
 
-[](/assets/images/pmblog/ZED-V1.jpg)   
+[](/assets/images/pmblog/1044-ZED-V1.jpg)   
 
 # ZED Best Practices Based on Version 2
 

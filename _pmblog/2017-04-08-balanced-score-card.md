@@ -11,16 +11,16 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/Balance-Scorecard-min.jpg'
+  teaser: '/assets/images/pmblog/1028-Balance-Scorecard-min.jpg'
 author: 'Hari Thapliyaal'
-layout: single
+layout: pmblog-layout 
 excerpt: #
 author_profile: true
 share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmblog/Balance-Scorecard-min.jpg)   
+![](/assets/images/pmblog/1028-Balance-Scorecard-min.jpg)   
 
 # Balanced Score Card
 

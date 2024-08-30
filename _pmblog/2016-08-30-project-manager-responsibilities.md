@@ -9,18 +9,18 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/Responsibilties-of-Project-Manager-min.jpg'
-layout: single
+  teaser: '/assets/images/pmblog/1017-Responsibilties-of-Project-Manager-min.jpg'
+layout: pmblog-layout 
 
 author: 'Hari Thapliyaal'
-layout: single
+
 excerpt: #
 author_profile: true
 share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmblog/Responsibilties-of-Project-Manager-min.jpg)   
+![](/assets/images/pmblog/1017-Responsibilties-of-Project-Manager-min.jpg)   
 
 # Project Manager Responsibilities &amp; Skills Required  
 

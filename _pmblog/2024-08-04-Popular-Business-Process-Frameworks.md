@@ -1,17 +1,17 @@
 ---
 mathjax: true
-id: 6131
+id: 1045
 title: Popular Business Process Frameworks
 date: 2024-07-27
-permalink: /dsblog/Popular-Business-Process-Frameworks
+permalink: /pmblog/Popular-Business-Process-Frameworks
 tags: []
 categories:
-  - dsblog
+  - pmblog
 header:
-    teaser: /assets/images/dspost/dsp6131-Popular-Business-Process-Frameworks.jpg
+    teaser: /assets/images/pmblog/1045-Popular-Business-Process-Frameworks.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-layout: dspost-layout   
+layout: pmblog-layout   
 excerpt:   
 author_profile: true   
 share: true   
@@ -21,7 +21,7 @@ mathjax: "true"
 comments: true
 ---
 
-![Popular-Business-Process-Frameworks](/assets/images/dspost/dsp6131-Popular-Business-Process-Frameworks.jpg)
+![Popular-Business-Process-Frameworks](/assets/images/pmblog/1045-Popular-Business-Process-Frameworks.jpg)
 
 # Popular Business Process Frameworks
 

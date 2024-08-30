@@ -10,16 +10,15 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/PMBOK5.jpg'
-layout: single
+  teaser: '/assets/images/pmblog/1010-PMBOK5.jpg'
+layout: pmblog-layout 
 
 author: 'Hari Thapliyaal'
-layout: single
 excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmblog/PMBOK5.jpg)   
+![](/assets/images/pmblog/1010-PMBOK5.jpg)   
 
 ## PMBOK 5 Process Summary Table (Acronyms)
 

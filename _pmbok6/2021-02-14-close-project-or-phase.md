@@ -9,7 +9,7 @@ tags:
     - 'PMBOK Closing PG'
     - 'PMBOK Processes'
 header:
-  teaser: /assets/images/pmlogy/pmbok-general.jpg
+  teaser: /assets/images/pmlogy/1037-pmbok-general.jpg
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 ---
 

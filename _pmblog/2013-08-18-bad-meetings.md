@@ -10,15 +10,15 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/Time-Waste-min.png'
+  teaser: '/assets/images/pmblog/1000-Time-Waste-min.png'
 author: 'Hari Thapliyaal'
-layout: single
+layout: pmblog-layout 
 
 excerpt: #
 author_profile: true
 share: true
 ---
-![](/assets/images/pmblog/Time-Waste-min.png)   
+![](/assets/images/pmblog/1000-Time-Waste-min.png)   
 
 ## 30 Ways of Conducting a Bad Business Meeting
 

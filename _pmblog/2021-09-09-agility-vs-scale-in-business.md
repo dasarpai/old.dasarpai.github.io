@@ -9,16 +9,16 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/BusinessAgilityVsScale2.jpg'
+  teaser: '/assets/images/pmblog/1043-BusinessAgilityVsScale2.jpg'
 author: 'Hari Thapliyaal'
-layout: single
+layout: pmblog-layout 
 
 excerpt: #
 author_profile: true
 share: true
 ---
 
-![](/assets/images/pmblog/BusinessAgilityVsScale2.jpg)   
+![](/assets/images/pmblog/1043-BusinessAgilityVsScale2.jpg)   
    
 # Agility vs Scale in Business   
    

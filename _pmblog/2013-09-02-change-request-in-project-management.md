@@ -9,9 +9,9 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/ChangeRequestManagement.jpg'
+  teaser: '/assets/images/pmblog/1008-ChangeRequestManagement.jpg'
 author: 'Hari Thapliyaal'
-layout: single
+layout: pmblog-layout 
 
 excerpt: #
 author_profile: true
@@ -19,7 +19,7 @@ share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmblog/ChangeRequestManagement.jpg)   
+![](/assets/images/pmblog/1008-ChangeRequestManagement.jpg)   
 
 # Change Request Management 
 

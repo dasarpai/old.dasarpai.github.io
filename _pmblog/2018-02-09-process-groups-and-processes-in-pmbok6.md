@@ -9,16 +9,16 @@ tags:
 categories:
 
 header:
-  teaser: '/assets/images/pmblog/PMBOK6.jpg'
+  teaser: '/assets/images/pmblog/1033-PMBOK6.jpg'
 author: 'Hari Thapliyaal'
-layout: single
+layout: pmblog-layout 
 excerpt: #
 author_profile: true
 share: true
 toc: true   
 toc_sticky: true
 ---
-![](/assets/images/pmblog/PMBOK6.jpg)   
+![](/assets/images/pmblog/1033-PMBOK6.jpg)   
 
 # Process Groups and Processes in PMBOK 6
 
