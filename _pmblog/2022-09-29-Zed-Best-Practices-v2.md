@@ -4,7 +4,7 @@ title: "ZED Best Practices v2"
 date: '2022-09-29T15:50:00+05:30'
 permalink: /pmblog/ZED-Best-Practices-v2
 categories:
-  - Blog
+  - pmblog
 tags:
   - ZED Certification  
   - ZED Version 2

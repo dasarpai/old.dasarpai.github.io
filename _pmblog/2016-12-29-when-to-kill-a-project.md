@@ -9,7 +9,7 @@ tags:
     - 'Project Closure Decision'
     - 'Project Termination'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1026-Killing-a-Project-min.png'
 author: 'Hari Thapliyaal'

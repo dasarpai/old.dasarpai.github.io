@@ -7,7 +7,7 @@ permalink: '/pmblog/PMI-ACP-vs-Scrum-Master'
 tags: 
     - PM Certifications
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1019-PMI-ACP-Scrum-min.png'
 author: 'Hari Thapliyaal'

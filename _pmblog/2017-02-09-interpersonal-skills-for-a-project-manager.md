@@ -8,7 +8,7 @@ tags:
     - 'Management Skills & Tools'
     - 'Project Management'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1027-Softskills-Project-Manger-min.jpg'
 author: 'Hari Thapliyaal'

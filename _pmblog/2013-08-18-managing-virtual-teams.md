@@ -8,7 +8,7 @@ tags:
     - 'Management Skills & Tools'
     - 'Project Management'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1006-Virtual-Team-min.jpg'
 author: 'Hari Thapliyaal'

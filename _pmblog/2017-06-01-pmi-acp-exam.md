@@ -8,7 +8,7 @@ tags:
     - 'Agile Project Management'
     - 'Project Management'
 categories:
- 
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1030-PMI-ACP-Exam-Prep-min.png'
 author: 'Hari Thapliyaal'

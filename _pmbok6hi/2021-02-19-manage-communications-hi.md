@@ -5,7 +5,7 @@ date: '2021-02-19T08:23:49+00:00'
 author: 'Hari Thapliyaal'
 permalink: /pmbok6hi/manage-communications-hi/
 header:
-  teaser: /assets/images/pmlogy/1037-pmbok-general.jpg
+  teaser: /assets/images/pmblog/1037-pmbok-general.jpg
 tags:
     - 'Hindi Terms'
     - 'PMBOK Executing PG Hindi'

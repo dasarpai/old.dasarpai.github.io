@@ -10,7 +10,7 @@ tags:
     - 'Customer Vendor Superiority'
     - 'Vendor Management'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1020-Customer-Vendor-Relation.jpg'
 layout: pmblog-layout 
@@ -24,32 +24,40 @@ toc_sticky: true
 ---
 ![](/assets/images/pmblog/1020-Customer-Vendor-Relation.jpg)   
 
-# Settling Superiority of Customer Vendor Relationship
+# Rethinking Superiority in Customer-Vendor Relationships
 
-### Customer Vendor Relationship
+## The Customer-Vendor Dynamic
 
-As a project manager, we are working for someone and we are taking service of someone. So, we are customer and vendor both. We hear from our seniors, elders, and society that a “**customer is a god**“. In some other cultures, we say a “**customer is king**“. Because God or King is superior to humans, so this Customer Vendor Superiority question comes to our mind.
+As project managers, we often find ourselves in dual roles: both as customers and vendors. On one hand, we provide services, and on the other, we procure them. Common wisdom tells us that a “**customer is god**” or a “**customer is king**.” These phrases imply a sense of superiority of the customer over the vendor, creating an inherent imbalance in the customer-vendor relationship.
 
-In 2013 through a common friend, I met few Indian Government officers (IAS) in Dehradun and I asked how do you manage your projects? How our Administrators are equipped with project management best practices? What is the content outline of their project management training? In 2+ hours of meeting with different officers, they shared some of the ideas. In nutshell, they mentioned that we have some modules of project management during our training that but in real life that knowledge does not work. In government projects, we have many vendors and stakeholders and it is extremely difficult to manage all and deliver the project successfully. In real life vendors are totally different they want to maximize their profit without doing quality work. So being in government we have simple logic that we are customer and service or product supplier is our vendor. So, to manage the project successfully we should design contracts very carefully in our favor. Now during the project if we find things are not going as per contract then we give them the reminders and finally if they do not work, then we always have the upper hand because of two reasons A- **we are part of the government**, B- **we are the customer**. So we can pull these vendors in the court and make him straight there. We are well-trained and well-networked people, we know IPC (Indian Panel Code) and CrPC (Code of Criminal Procedure) so it is easier for us to get these people on track.
+In 2013, I had an insightful discussion with a few Indian Administrative Service (IAS) officers in Dehradun about managing government projects. I was curious about the project management practices adopted by administrators, the training they receive, and how effectively they apply these principles in real-world scenarios. During our two-hour meeting, the officers shared their perspective on handling multiple vendors and stakeholders, which is a significant challenge in government projects. 
 
-I was not much surprised after listening to this answer because I have seen this kind of attitude of the customer towards vendors in my typical corporate life too. But I was surprised at the arrogance of officers in our administrative services. They think power is in their hand, therefore, anything can be done. I was thinking from where is this superiority complex has come in our tradition that **customer is god** or **customer is king** and a vendor is nothing, they are greedy people, their arm can be twisted as we want because they want business!
+Their approach, as they described, was straightforward: "We are the customer, and the service or product supplier is our vendor. To manage the project successfully, we should draft contracts in our favor. If things don't go according to the contract, we remind the vendors, and if necessary, we take legal action. As government officials, we hold the upper hand because we are the customer, and we are backed by the power of the government. We can take these vendors to court and ensure compliance." They emphasized their knowledge of the Indian Penal Code (IPC) and the Code of Criminal Procedure (CrPC), which they could leverage to control the vendors.
 
-I was thinking that even after we pull our vendor into court, fight the case with them up to the highest court in the country and win the court case, even then we lose it finally. My experience says that **in project management once you are forced to go in the courts** then even after you win you do not gain much. Because, time, cost, scope, and quality are the primary objectives of the project and due to court war you have to compromise at least one or sometimes all of these objectives. So, what should we do? Should we let the vendor go and let him do whatever he wants? No. But manage your project with the right attitude!
+While their confidence didn’t surprise me, their arrogance did. This attitude of superiority towards vendors is something I've encountered in corporate settings as well. It made me question why we hold onto this notion of the customer as a god or king, while seeing the vendor as merely a service provider who can be pressured or manipulated. 
 
-Who is a customer? One gives money. Who is a vendor? One who gives products or services. Both are giving something to each other. Both are the giver. They exchange their things after the negotiation. In the negotiation, objectives are two folds.
+Even if we win a legal battle against a vendor, what do we truly gain? In my experience, resorting to litigation rarely yields positive outcomes in project management. The costs associated with time, money, scope, and quality are often too high. So, what should we do? Should we allow vendors to do as they please? Absolutely not. But we should manage our projects with the right attitude.
 
-A: The **value of the product or services** for which the customer pay should be equal to the price which the customer is paying. Keep in mind price can be measured but the value is felt.
+## Redefining Roles: A New Perspective
 
-B- The **value of the money** for which the vendor delivers a product/service should be equal to the cost of product + profit.
+Who is a customer? One who provides money. And a vendor? One who delivers products or services. Both parties are givers, engaged in an exchange where both sides negotiate to ensure they get fair value. 
 
-So, here is the revised definition of customer and vendor. One who has **one thing** (currency) to offer is a customer and one who has many things (product or services) to offer in exchange for currency is a vendor. How come the customer is king or superior or god? In India, we avoid using the word god but we prefer to use the word **Devata.**
+**A:** The **value of the product or service** received by the customer should match the price paid. Price is measurable, but value is felt.
 
-Devata is a Sanskrit word driven from the Sanskrit root Dru. The meaning of this is **to give.** So a giver is a Devata. **One who fulfills the desires by giving us the objects of our need is Devata.** But keep in mind that Devata does not give to anybody without any reason. We need to pray for it. So when humans pray to the Devata then Devata fulfills the desire of humans. Here human has only one thing to offer and that is Bhakti (respect, love, prayer, singing his glory or doing Yagya – different name or form of the same thing). But Devata has many objects of your desire to offer to you. By this logic, a human is a customer, a giver of one thing, and Devata is a vendor, a giver of many things. Who is superior? None! There is a mutual dependency between customer and vendor. If we respect this Human-Devata relationship and the customer knows that I am a human and my vendor is my Devata then many of the problems will be solved automatically.
+**B:** The **value of the money** received by the vendor should equal the cost of the product plus a reasonable profit.
 
-Why do I think many problems will be solved? I do not have any research results with me but my belief says that even after many prayers all human desires are not fulfilled by Devatas but there is less dissatisfaction among human and devata relationship. But in a customer-vendor relationship, there is huge dissatisfaction, doubt, and mistrust upon each other. So I feel if we change the attitude and work in good faith with this attitude of mutual respect then the project success rate can be influenced significantly with lots of positive energy in a project environment.
+Thus, a customer is someone who offers something of value (currency), and a vendor is someone who provides multiple offerings (products or services) in exchange. How, then, can one be superior to the other?
 
-Like many vendors, there are many kinds of Devatas who offer various kinds of things to us on our prayer. But this human-devata relation survives only on Shraddha (closest English word is faith) and mutual respect. Similar customer-vendor relationship survives only on this Shraddha &amp; mutual respect.
+In India, the term **Devata** is sometimes preferred over god. The word Devata comes from the Sanskrit root "Dru," meaning "to give." A Devata fulfills desires through giving, but only when approached with respect and devotion. Here, humans (customers) offer devotion (money or respect) to the Devata (vendor), who then provides for their needs. This illustrates a mutual dependency: both the customer and the vendor are givers, and neither is inherently superior.
+
+By adopting this Human-Devata analogy, we can foster healthier relationships. If customers see themselves as humans and their vendors as Devatas, many conflicts can be avoided. 
+
+## The Path to Mutual Respect
+
+Why do I believe this shift in mindset could solve many problems? Although I lack hard research, my belief is rooted in observing human behavior. In the human-Devata relationship, there is less dissatisfaction because it is grounded in faith and mutual respect. In contrast, the customer-vendor relationship often suffers from distrust and dissatisfaction. By promoting an attitude of mutual respect, we can create a more positive and productive project environment.
+
+Just as there are various Devatas who cater to different desires, there are different vendors who provide different services. The key to sustaining these relationships lies in **Shraddha** (faith) and mutual respect. Without these elements, the customer-vendor relationship is unlikely to thrive.
 
 ## Conclusion
 
-Instead of trying to play defensive or in attack mode through our contract negotiation if we focus on developing processes and practices which can harness the culture of mutual respect then working with vendors will be easy. With more sophisticated, technologies, processes, and open market economy customers and vendors know enough about each other, there is nothing much to hide. By virtue of this information, we try to play smart over each other, which we are! But is this smartness the solution to work harmony or healthy relations? This is the question which every project manager, either the customer side or the vendor side needs to ask themselves.
+Instead of adopting a defensive or aggressive stance through contract negotiations, we should focus on developing processes and practices that foster mutual respect. In today's transparent and connected world, customers and vendors are well-informed about each other. While this can lead to attempts at outsmarting one another, true harmony and healthy relationships come from respect, not manipulation. This is a question every project manager should ponder, regardless of which side they represent.

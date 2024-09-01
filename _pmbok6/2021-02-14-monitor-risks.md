@@ -5,7 +5,7 @@ permalink: /pmbok6/Monitor-Risks
 date: '2021-02-14T16:30:11+00:00'
 author: 'Hari Thapliyaal'
 header:
-  teaser: /assets/images/pmlogy/1037-pmbok-general.jpg
+  teaser: /assets/images/pmblog/1037-pmbok-general.jpg
 tags:
     - 'English Terms'
     - 'PMBOK Monitoring and Controlling PG'

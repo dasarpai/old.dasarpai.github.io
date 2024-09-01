@@ -7,7 +7,7 @@ permalink: '/pmblog/What-is-Project-Management'
 tags: 
     - PMBOK
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1025-pmbok.png'
 author: 'Hari Thapliyaal'

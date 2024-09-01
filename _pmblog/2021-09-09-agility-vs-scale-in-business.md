@@ -7,7 +7,7 @@ permalink: /pmblog/Agility-vs-Scale-in-Business
 tags: 
     - 'Project Management'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1043-BusinessAgilityVsScale2.jpg'
 author: 'Hari Thapliyaal'

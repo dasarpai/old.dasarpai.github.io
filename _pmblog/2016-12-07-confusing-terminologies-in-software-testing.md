@@ -9,7 +9,7 @@ tags:
     - 'Product Testing'
     - 'Software Testing'
 categories:
- 
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1021-Software-Bug-min.png'
 author: 'Hari Thapliyaal'

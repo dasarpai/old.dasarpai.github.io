@@ -5,7 +5,7 @@ date: '2021-02-19T08:25:25+00:00'
 author: 'Hari Thapliyaal'
 permalink: /pmbok6hi/monitor-communications-hi/
 header:
-  teaser: /assets/images/pmlogy/1037-pmbok-general.jpg
+  teaser: /assets/images/pmblog/1037-pmbok-general.jpg
 tags:
     - 'Hindi Terms'
     - 'PMBOK Monitoring and Controlling PG Hindi'

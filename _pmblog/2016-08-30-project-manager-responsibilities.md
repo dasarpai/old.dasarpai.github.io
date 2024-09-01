@@ -7,7 +7,7 @@ permalink: '/pmblog/Project-Manager-Responsibilities'
 tags: 
     - 'Project Management'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1017-Responsibilties-of-Project-Manager-min.jpg'
 layout: pmblog-layout 

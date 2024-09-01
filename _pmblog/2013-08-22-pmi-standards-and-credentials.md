@@ -7,7 +7,7 @@ permalink: '/pmblog/PMI-Standards-and-Credentials'
 tags: 
     - PM Certifications
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1007-PMI-Standards-Certification-min.jpg'
 author: 'Hari Thapliyaal'

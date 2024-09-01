@@ -10,7 +10,7 @@ tags:
     - 'PMBOK Monitoring and Controlling PG'
     - 'PMBOK Processes'
 header:
-  teaser: /assets/images/pmlogy/1037-pmbok-general.jpg
+  teaser: /assets/images/pmblog/1037-pmbok-general.jpg
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 ---
 

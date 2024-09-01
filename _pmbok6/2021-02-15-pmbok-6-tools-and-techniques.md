@@ -5,7 +5,7 @@ permalink: /pmbok6/PMBOK-6-Tools-and-Techniques
 date: '2021-02-15T18:16:03+00:00'
 author: 'Hari Thapliyaal'
 header:
-  teaser: /assets/images/pmlogy/1037-pmbok-general.jpg
+  teaser: /assets/images/pmblog/1037-pmbok-general.jpg
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
 
 tags:

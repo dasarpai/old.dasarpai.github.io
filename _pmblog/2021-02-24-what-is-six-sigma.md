@@ -8,7 +8,7 @@ tags:
     - Certifications
     - 'Process Management'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1038-pmlogy-post.jpg'
 layout: pmblog-layout 

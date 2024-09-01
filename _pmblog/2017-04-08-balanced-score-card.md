@@ -9,7 +9,7 @@ tags:
     - 'Project Management Toolkit'
     - 'Strategic Management'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1028-Balance-Scorecard-min.jpg'
 author: 'Hari Thapliyaal'

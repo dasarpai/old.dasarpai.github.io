@@ -7,7 +7,7 @@ permalink: '/pmblog/Agile-Project-Management-for-HR-Professionals'
 tags: 
     - 'Agile Project Management'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1035-Agile-HR-min.png'
 layout: single

@@ -6,7 +6,7 @@ date: '2021-02-15T17:53:59+00:00'
 author: 'Hari Thapliyaal'
 
 header:
-  teaser: /assets/images/pmlogy/1037-pmbok-general.jpg
+  teaser: /assets/images/pmblog/1037-pmbok-general.jpg
 tags:
     - 'English Terms'
     - 'PMBOK Tools and Techniques'

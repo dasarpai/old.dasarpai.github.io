@@ -6,7 +6,7 @@ date: '2021-02-14T15:51:16+00:00'
 author: 'Hari Thapliyaal'
 
 header:
-  teaser: /assets/images/pmlogy/1037-pmbok-general.jpg
+  teaser: /assets/images/pmblog/1037-pmbok-general.jpg
 tags:
     - 'English Terms'
     - 'PMBOK Monitoring and Controlling PG'

@@ -9,6 +9,8 @@ header:
 layout: pmblog-layout 
 tags:
     - 'Agile Terms'
+categories:
+  - pmblog
 ---
 
 ## What is a Technical Spike?

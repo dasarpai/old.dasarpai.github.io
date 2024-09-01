@@ -7,7 +7,7 @@ permalink: '/pmblog/Difference-between-PMP-and-PRINCE2'
 tags: 
     - 'PM Certifications'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1013-PMP-PRINCE2-min.png'
 layout: pmblog-layout 

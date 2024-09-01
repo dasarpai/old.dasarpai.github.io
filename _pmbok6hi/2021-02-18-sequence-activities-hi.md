@@ -5,7 +5,7 @@ date: '2021-02-18T17:14:25+00:00'
 author: 'Hari Thapliyaal'
 permalink: /pmbok6hi/sequence-activities-hi/
 header:
-  teaser: /assets/images/pmlogy/1037-pmbok-general.jpg
+  teaser: /assets/images/pmblog/1037-pmbok-general.jpg
 tags:
     - 'Hindi Terms'
     - 'PMBOK Planning PG Hindi'

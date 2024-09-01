@@ -5,7 +5,7 @@ date: '2021-02-18T17:24:09+00:00'
 author: 'Hari Thapliyaal'
 permalink: /pmbok6hi/develop-schedule-hi/
 header:
-  teaser: /assets/images/pmlogy/1037-pmbok-general.jpg
+  teaser: /assets/images/pmblog/1037-pmbok-general.jpg
 tags:
     - 'Hindi Terms'
     - 'PMBOK Planning PG Hindi'

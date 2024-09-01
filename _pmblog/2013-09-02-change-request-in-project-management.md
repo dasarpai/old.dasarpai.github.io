@@ -7,7 +7,7 @@ permalink: 'pmblog/Change-Request-in-Project-Management'
 tags: 
     - 'Project Management'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1008-ChangeRequestManagement.jpg'
 author: 'Hari Thapliyaal'

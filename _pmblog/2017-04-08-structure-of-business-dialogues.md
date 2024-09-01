@@ -7,7 +7,7 @@ permalink: '/pmblog/Structure-of-Business-Dialogues'
 tags: 
     - 'Project Management'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1029-Structure-of-Dialogue-min.png'
 author: 'Hari Thapliyaal'

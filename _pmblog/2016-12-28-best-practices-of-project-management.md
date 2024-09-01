@@ -9,7 +9,7 @@ tags:
     - 'PMI Best Practices'
     - 'Project Management Best Practices'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1022-IT-PM-Best-Practices-min.png'
 author: 'Hari Thapliyaal'

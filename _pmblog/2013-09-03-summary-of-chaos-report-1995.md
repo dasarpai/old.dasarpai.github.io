@@ -7,7 +7,7 @@ permalink: '/pmblog/Summary-of-Chaos-Report-1995'
 tags: 
     - 'Project Management'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1009-ChaosReport.png'
 author: 'Hari Thapliyaal'

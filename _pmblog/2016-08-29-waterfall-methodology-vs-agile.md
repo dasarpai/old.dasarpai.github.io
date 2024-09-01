@@ -8,7 +8,7 @@ tags:
     - 'Agile Project Management'
     - 'Project Management'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1015-Agile-Waterfall-min.png'
 author: 'Hari Thapliyaal'

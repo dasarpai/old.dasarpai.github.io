@@ -7,7 +7,7 @@ permalink: '/pmblog/What-are-PMI-Certifications'
 tags: 
     - PM Certifications
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1023-PMI-Certification-min.jpg'
 author: 'Hari Thapliyaal'

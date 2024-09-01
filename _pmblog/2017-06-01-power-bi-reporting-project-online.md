@@ -7,7 +7,7 @@ permalink: '/pmblog/Power-BI-Reporting-for-Project-Online'
 tags: 
     - 'Project Management Toolkit'
 categories:
- 
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1031-powerBI-projectOnline.jpg'
 author: 'Hari Thapliyaal'

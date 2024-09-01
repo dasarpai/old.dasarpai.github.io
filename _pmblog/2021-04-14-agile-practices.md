@@ -9,6 +9,8 @@ header:
 layout: pmblog-layout 
 tags:
     - 'Agile Project Management'
+categories:
+  - pmblog
 ---
 
 SA – Scrum Alliance  

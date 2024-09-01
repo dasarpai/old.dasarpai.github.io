@@ -8,6 +8,8 @@ header:
    teaser: /assets/images/pmblog//1036-UserStory.jpg
 tags:
     - 'Agile Terms'
+categories:
+  - pmblog
 toc: true   
 toc_sticky: true	
 layout: pmblog-layout 

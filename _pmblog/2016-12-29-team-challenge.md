@@ -8,7 +8,7 @@ tags:
     - 'Management Skills & Tools'
     - 'Project Management'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1024-Challenge-Team-min.jpg'
 author: 'Hari Thapliyaal'

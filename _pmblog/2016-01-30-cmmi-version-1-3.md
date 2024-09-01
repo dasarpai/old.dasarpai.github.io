@@ -8,7 +8,7 @@ tags:
     - 'PM Certifications'
     - 'Process Management'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1012-SEI-CMMI.jpg'
 layout: pmblog-layout 

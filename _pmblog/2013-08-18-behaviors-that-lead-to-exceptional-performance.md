@@ -8,6 +8,7 @@ tags:
     - 'Management Skills & Tools'
     - 'Project Management'
 categories:
+  - pmblog
 
 header:
   teaser: '/assets/images/pmblog/1001-Exceptional-Performance-min.jpg'
@@ -20,23 +21,38 @@ share: true
 ---
 ![](/assets/images/pmblog/1001-Exceptional-Performance-min.jpg)  
 
-## Behaviour that leads to Exceptional performance
+# Behaviors that lead to Exceptional Performance
 
-Here are key important behaviors that can make one a go-getter with a happy personal life, provided one understands them thoroughly and able to implement them. This article is inspired by several sources, books, articles &amp; obviously my own lifestyle. What others think about is lessor important than what you think about yourself and how consistent you are in your behavior. You may be lessor know personality because of many reasons but you know yourself that how peaceful, go-getter, accommodating, compassionate you are. I hope this summary will inspire you to live like an exceptional leader.
+## Introdunction 
 
-1. **Think like a leader**: Think that ultimately it is my responsibility to get things done so I am in charge and in control. Do not wait till the last moment. Monitor your project and then act proactively. It is not the ability of people around you but your ability of managing situation, people and communication which leads to success. The best leader has the capability of converting dump worker into useful and the worst leader can make the best worker into useless
-2. **Manage your priorities**: Jot down your list of activities. Put two columns before them (Important and Urgent). Mark each activity’s “Important” column as N if it is not important otherwise Y if it is important. Similarly, mark the Urgent column. So, there will be 4 blocks, urgent-important, non-urgent-important, urgent-non-important, non-urgent-non important. If there is more than one item in any block then assign a priority to each task. The first thing you should work on in the morning is the top three priorities which are important and urgent. If time is a constraint then delegate remaining to your team.
-3. **Never avoid necessary confrontation:** Do not try to be a nice guy always and avoid confrontations. Neither fight unnecessarily. Know the importance and urgency of things and fight for a point, if required.
-4. C**heck your ego: Never bring your ego to work:** Make your point clear and never become personal and emotional for the work objective. Even if you are a junior and you bring ego to the work then you have the capability to damage your environment and yourself.
-5. **Think for yourself:** Routinely check the progress of your project and analyze your behavior and attitude to your surrounding and work
-6. **Consult in the situation of difficulty:** If you are in confusion refer to the organization library/knowledge base, if that does not help then discuss with a professional friend/colleague, if this also does not help then refer to industry practices, finally to your immediate boss. For some people, a boss may be very friendly in that case you can take his help as a second source of help.
-7. **Embrace Integrity in all that you do:** In any kind of decision always listen to your inner voice. Never contradict this. Sometimes a decision needs to be taken in abnormal situations where traditional practices, old knowledge, expert judgement from others may not work. Then go with your inner voice and do not try to contradict that. Internal integrity is much more important than anything else to make crucial decisions.
-8. **You cannot please everybody**: Somebody said that I do not know the key to success but the key to failure is trying to please everybody. Understand that people may have several valid points but all cannot be implemented.
-9. **Live in your present moment**: Accept the failure, learn from it, and move forward. “If” “But” “would” “should” are good for analysis and learning lessons, more than this they do not have any meaning
-10. **Define who you choose to be**: Have your brand and plan for that brand. Work for that brand. It helps in creating your identity.
-11. **Treat others as you would like to be treated**: In the long-run success and failure do not makes much impact but how you make others feel when they were with you. Be fair with people. No matter in what official capacity you are making decisions and taking action also keep one thing in mind, somebody is watching your behavior.
-12. **Always eat or drink healthy stuff**, which keeps your body and mind active, light, and agile.
+Achieving exceptional performance involves adopting key behaviors that can make one a go-getter while maintaining a happy personal life. This article draws inspiration from various sources, including books, articles, and personal experiences. What matters most is not how others perceive you, but how you see yourself and how consistently you exhibit these behaviors. You might not be a widely recognized personality, but knowing that you are peaceful, proactive, accommodating, and compassionate can lead to personal and professional fulfillment. I hope this summary will inspire you to live like an exceptional leader.
 
-## Reference, Inspirations &amp; Source
+## 12 Behaviours
 
-1. Whitten, N. (2013). Behaviors that lead to exceptional performance. Paper presented at PMI® Global Congress 2013—North America, New Orleans, LA. Newtown Square, PA: Project Management Institute.
+1. **Think Like a Leader**: Take responsibility for getting things done and see yourself as in charge. Don’t wait until the last minute; instead, monitor your projects and act proactively. Success depends not on the abilities of those around you, but on your skill in managing situations, people, and communication. A great leader can transform a mediocre performer into a valuable team member, while a poor leader can demoralize even the best worker.
+
+2. **Manage Your Priorities**: List your tasks and evaluate each one’s importance and urgency. Use a simple matrix with two columns: Important and Urgent. Mark each task as Y (Yes) or N (No) in both columns. This will create four categories: Urgent-Important, Non-Urgent-Important, Urgent-Non-Important, and Non-Urgent-Non-Important. If multiple tasks fall into the same category, assign a priority to each. Start your day by tackling the top three tasks that are both urgent and important. If time is limited, delegate the remaining tasks to your team.
+
+3. **Don’t Avoid Necessary Confrontation**: Avoid the temptation to always be the “nice guy” who avoids conflict. On the other hand, don’t engage in conflict without good reason. Understand the importance and urgency of issues, and stand up for your point of view when necessary.
+
+4. **Check Your Ego at the Door**: Keep your ego out of the workplace. Be clear and assertive about your points, but don’t take things personally or become overly emotional. Even if you are in a junior position, bringing ego into work can harm both the environment and your own growth.
+
+5. **Think for Yourself**: Regularly review the progress of your projects and assess your behavior and attitude toward your colleagues and work. Self-awareness is key to continuous improvement.
+
+6. **Seek Guidance When Needed**: If you encounter difficulties, consult the organization’s library or knowledge base first. If that doesn’t help, discuss the issue with a trusted colleague or professional friend. If further help is needed, look to industry best practices or consult your immediate supervisor. If your supervisor is approachable, they can be a valuable second line of support.
+
+7. **Embrace Integrity in All That You Do**: In every decision, listen to your inner voice and align your actions with it. Integrity is essential, especially when dealing with complex situations where conventional wisdom may not apply. Trust your inner guidance to make sound decisions.
+
+8. **You Cannot Please Everyone**: As someone wisely said, "I don't know the key to success, but the key to failure is trying to please everyone." Recognize that while people may have valid points, it's impossible to implement everyone's suggestions.
+
+9. **Live in the Present Moment**: Accept failures, learn from them, and move forward. Terms like “if,” “but,” “would,” and “should” are useful for analysis and reflection, but they shouldn't dominate your thinking. Focus on the present and what you can do now.
+
+10. **Define Who You Choose to Be**: Establish your personal brand and actively work to embody it. This helps create a distinct identity and guides your actions and decisions.
+
+11. **Treat Others as You Would Like to Be Treated**: In the long run, your impact on others matters more than specific successes or failures. Be fair and respectful in all your interactions. Remember, someone is always observing your behavior.
+
+12. **Maintain a Healthy Lifestyle**: Consume food and drinks that keep your body and mind active, light, and agile. A healthy lifestyle supports sustained high performance.
+
+## Reference Book
+
+Whitten, N. (2013). Behaviors that lead to exceptional performance. Paper presented at PMI® Global Congress 2013—North America, New Orleans, LA. Newtown Square, PA: Project Management Institute.

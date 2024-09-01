@@ -5,7 +5,7 @@ permalink: /pmbok6/Plan-Scope-Management
 date: '2021-02-14T15:45:04+00:00'
 author: 'Hari Thapliyaal'
 header:
-  teaser: /assets/images/pmlogy/1037-pmbok-general.jpg
+  teaser: /assets/images/pmblog/1037-pmbok-general.jpg
 tags:
     - 'English Terms'
     - 'PMBOK Planning PG'

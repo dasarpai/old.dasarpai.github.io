@@ -7,7 +7,7 @@ permalink: '/pmblog/How-to-Measure-Project-Success-Criteria'
 tags: 
     - 'Project Management'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1016-Project_Success_Criteria.jpg'
 layout: pmblog-layout 

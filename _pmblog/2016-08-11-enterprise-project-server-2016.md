@@ -7,7 +7,7 @@ permalink: '/pmblog/Enterprise-Project-Server-2016'
 tags: 
     - 'Project Management Toolkit'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1014-MicrosoftProject-Security.jpg'
 layout: pmblog-layout 

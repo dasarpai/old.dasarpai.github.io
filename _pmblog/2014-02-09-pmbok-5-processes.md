@@ -7,7 +7,7 @@ permalink: '/pmblog/PMBOK-5-Processes'
 tags: 
     - PMBOK
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1010-PMBOK5.jpg'
 layout: pmblog-layout 

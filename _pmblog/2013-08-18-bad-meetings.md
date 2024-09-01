@@ -8,6 +8,7 @@ tags:
     - 'Management Skills & Tools'
     - 'Project Management'
 categories:
+  - pmblog
 
 header:
   teaser: '/assets/images/pmblog/1000-Time-Waste-min.png'
@@ -20,9 +21,9 @@ share: true
 ---
 ![](/assets/images/pmblog/1000-Time-Waste-min.png)   
 
-## 30 Ways of Conducting a Bad Business Meeting
+# 30 Ways of Conducting a Bad Business Meeting
 
-After analyzing the patterns of hundreds of **meeting** as a consultant, as a manager, as a normal participant, and as a boss I found these are the important points which you should take care of for a meeting.
+After analyzing the patterns of hundreds of **meeting** as a consultant, as a manager, as a normal participant, and as a boss I found these are the important points which one should take care of for a meeting.
 
 1. **Invite everyone**. You wouldn’t want to hurt anyone’s feelings by not including them. However, be careful about inviting people who might try to accomplish something during the meeting. On the other hand, make sure you invite people who tell good jokes, like to goof around, and are generally entertaining.
 2. **Don’t start the meeting until everyone has arrived**. Starting a meeting on time would be rude to those who are late. Plus starting a meeting late helps everyone feel more comfortable about being late next time, which almost assures you will start the meeting late every time.

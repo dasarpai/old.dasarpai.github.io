@@ -7,7 +7,7 @@ permalink: '/pmblog/PMBOK-6th-Edition-Process-Groups'
 tags: 
     - PMBOK
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1033-PMBOK6.jpg'
 author: 'Hari Thapliyaal'

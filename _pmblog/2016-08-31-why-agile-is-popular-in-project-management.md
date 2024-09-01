@@ -9,7 +9,7 @@ tags:
     - 'Agile Skills'
     - 'Ralph Stacey Complexity Matrix'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1018-Why-APM-is-Popular-min.png'
 layout: pmblog-layout 

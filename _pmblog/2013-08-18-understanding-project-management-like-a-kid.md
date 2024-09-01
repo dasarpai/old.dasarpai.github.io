@@ -7,7 +7,7 @@ permalink: '/pmblog/Understanding-Project-Management-like-a-Kid'
 tags: 
     - 'Project Management'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1003-Project-management-terms-with-Construction.jpg'
 author: 'Hari Thapliyaal'
@@ -21,208 +21,198 @@ toc_sticky: true
 ---
 ![](/assets/images/pmblog/1003-Project-management-terms-with-Construction.jpg)   
 
-**Disclosure**: This is a complete made case with made-up numbers. The only purpose of this article is to help readers (non-technical, non-project professionals, beginner) understand key concepts of a project. This is a very simplistic view of the project therefore take it as a pinch of salt and do not assume that project management is so simple. I am not from the construction industry but this is a domain where most of us can relate to a greater extent and hoping most of the readers will be able to relate to the concepts. In the project life cycle, we come across many terminologies which are confusing for many of the beginners. I wish I could make some of these concepts clear to the readers of this article.
+**Disclosure**: This is a fictional case study with made-up numbers, designed to help readers (especially those who are non-technical, non-project professionals, or beginners) grasp key concepts of project management. Please note that this is a simplified view of project management; do not assume that real-world projects are this straightforward. I am not from the construction industry, but I chose it as an example because it is relatable for most people. This article aims to clarify some of the basic project management concepts for its readers.
 
 ## Problem Statement
 
-You (customer) are living in a compact apartment in a city where space is a big problem. You cannot do parties at your home with your friends. There is too much traffic jam and if you want to move out of the city at the weekends you have to struggle 3 hours in traffic to go out. The cost of living is very high i.e. rent of the apartment, cost of water, electricity, security, parking, food, vegetables and transport, etc. The cost of constructing or buying a new good house is also very high. Many of your friends who live in this city including you have a hobby of playing football but we cannot play the game because there is no football ground with city range. Every day you have to travel two hours to reach your office.
+You, as the customer, are living in a compact apartment in a bustling city where space is a premium. Hosting parties at home is challenging due to limited space, and getting out of the city for weekends is a hassle due to heavy traffic, which takes about three hours. The cost of living is high, with expenses on rent, water, electricity, security, parking, food, and transportation adding up. Additionally, buying or constructing a new house is also expensive. You and many of your friends, who also live in this city, enjoy playing football but lack a nearby ground to play. You spend two hours commuting to work every day.
 
-## The benefit of the Existing System
+## Benefits of the Existing System
 
-It is close to the airport, railway station and shopping malls. 24 hours water and electricity supply. School of children is near and the bus comes for pick up and drop.
+Despite these challenges, your current location offers some conveniences: proximity to the airport, railway station, and shopping malls, along with a reliable 24-hour water and electricity supply. Additionally, your children’s school is nearby, with a bus service for pick-up and drop-off.
 
-## High-Level Want
+## High-Level Wants
 
-The customer has Rs 5 Cr. budget for this project. S/He wants 8 bedrooms 2 story luxury building with ample open space, trees, and a garden. The customer likes apples, strawberries garden so would love to have a small orchid.
+You have a budget of Rs 5 Crore for this project. You envision an 8-bedroom, two-story luxury house with ample open space, trees, and a garden. You have a preference for apple and strawberry orchards, and would love to include a small orchard in the garden.
 
-**Wants is like a wish. Because of many technical, procedural, legal, financial,** etc reasons,** those may not be possible to implement at the place of project location or in the project's product.** From our day to day life we know no matter how many resources we have all the wishes cannot be fulfilled.
+**Note**: Wants are like wishes. Due to technical, procedural, legal, financial, or other constraints, not all of these may be feasible at the project location or within the project’s scope. In real life, no matter how many resources are available, all wishes cannot always be fulfilled.
 
 ## Project Scope
 
-Getting a new house for a family of 4 people. It may be an apartment, independent bungalow within the city range.
+The goal is to build a new house for a family of four. This may be an apartment or an independent bungalow within city limits.
 
-Scope helps project team in giving overall direction in terms of project's product. It also need to draw a virtual boundary so that project team knows clearly what is within the boundary of a project or what is outside of the boundary.
+The scope provides the project team with overall direction concerning the project’s product. It also establishes a virtual boundary, making it clear what is included within the project's scope and what falls outside.
 
+## High-Level Customer Needs/Requirements
 
-## High-Level Customer Need/Requirement
+The customer has two children, studying in classes 10 and 12, and needs a house where they can study effectively and pursue their hobbies. The customer desires a place to host weekend parties with family and friends, as well as a football ground for playing with friends. The house should offer a 24-hour water and electricity supply. With every family member owning a car, there should be ample parking space. The customer’s spouse enjoys gardening, so a flower garden is a must. The customer also wants a home theatre and a book library for leisure. For parties, a hall or a covered green space is needed. Occasionally, the customer hosts five family friends, so sufficient guest accommodation is required.
 
-The customer has 2 kids who are studying in class 10 and 12. A house is required where they can study well, pursue their hobbies. A place where s/he can have weekend parties with his family members and friends. A footwall ground where s/he can play with his friends at the weekends. House should have 24 hours water and electricity supply. Every house member wants to have his personal car so there should be a good enough place for parking. The customer’s spouse is fond of flowers and gardening so there should be a flower garden. The customer is fond of reading books and watching movies, therefore, he needs a home theatre and a book library, for party time we need a hall or covered green space. Sometimes s/he has 5 family friends at my home and it becomes very difficult to adjust them in this apartment so a new place should have enough place to take care of these things.
+Requirements are the features or functions a product must have. The absence of a requirement can lead to incomplete implementation and customer dissatisfaction. Requirements are derived from the project's scope and the customer’s wants.
 
+## Types of Requirements
 
-Requirements are the features or function which a product must have implemented. The complete absence of a requirement from a project is considered incomplete implementation and leads to customer dissatisfaction. Requirments are driven from the scope and wants.
+Requirements are generally categorized into two types: **functional requirements** and **non-functional requirements**.
 
+**Functional Requirements** describe what the product should do. For example, the main gate should be a sliding door that opens automatically without manual intervention. Whether someone is allowed inside is decided by a security system.
 
-## Type of Requirements
-
-Broadly requirements are of two types functional requirements and non-functional requirements. **Functional requirements** are the behavioral feature of a product. For example, the main gate door should be a sliding door. It should open automatically without any manual intervention. A person should be allowed or not inside the building is approved by the security system.
-
-**Nonfunctional requirements** are other than functional requirements. Liker performance, compatibility, quality, aesthetic etc. A gate should open within 30 sec after a person come on the gate, it should close automatically within 2 sec. Keeping the same security system if we want to replace the gate at any point of time in the future then it should not cause any portability issue or unknown security threat.
+**Non-functional Requirements** describe how the system performs a function. This includes aspects like performance, compatibility, quality, and aesthetics. For instance, the gate should open within 30 seconds when someone approaches and close automatically within 2 seconds. If a different gate is installed later, it should not cause security issues or compatibility problems.
 
 ## **Requirement Elicitation (RE)**
 
-Requirement elicitation is a process in which the project team wants to understand the requirements in more detail. This may start from the problem statement or ambiguous/unclear requirements or board requirements. There are many methods of doing RE in the example below we are using written question-answer.
+Requirement elicitation involves gathering more detailed information about the project requirements. This can start from the problem statement or broad requirements and use various methods to clarify them. Below is a sample Q&A used in this process:
 
 | **Question** | **Answer** |
-|---|---|
-| What are the hobbies of your children? | Badminton, Chess. |
-| Do you need parking space for your guests? If yes then how many car parkings are required? | 10 Open Car Parking for Guests |
-| If the land where you are going to build this house is not suitable for apples or strawberries then will you prefer another type of tree in the garden or not? If yes then what are the other options. | Only Mango and Guava |
-| Do you expect from us to plant these trees for you? | Yes |
-| What kind of flowers do you want in the garden? | Rose &amp; gold marry |
-| Do you want us that we should give you a house with the planted tree or you want to get it done by somebody else? | You can do that. |
-| You need 24 water supply? Do you need water tank? Yes. What size? | You can calculate the water need of average six people in house. 3 days reserve is enough. |
-| You need 24 electricity, do you prefer generators or a solar plant? How much backup required? | Should support 36 hours power cut in the complete home. |
-|  |  |
+|--------------|------------|
+| What are your children’s hobbies? | Badminton, Chess. |
+| Do you need parking space for guests? If yes, how many spaces? | 10 open car parking spaces for guests. |
+| If the land is unsuitable for apples or strawberries, would you prefer other trees? If so, which ones? | Mango and Guava. |
+| Should we plant these trees for you? | Yes. |
+| What types of flowers do you want in the garden? | Roses and marigolds. |
+| Should we provide the house with planted trees, or will you handle that separately? | You can handle it. |
+| Do you need a 24-hour water supply? Do you need a water tank? If so, what size? | Calculate for six people; a three-day reserve is sufficient. |
+| Do you prefer a generator or a solar plant for backup electricity? How much backup is needed? | Enough for a 36-hour power cut throughout the home. |
 
-Requirement Clarification Questionnaire
-## **Requirement Analysis &amp; RTM** 
+## **Requirement Analysis & Requirement Traceability Matrix (RTM)**
 
-During the planning, execution, testing (verification/ validation) phase of the project, it is important for any project team that the team remain aligned to customer requirements and the customer’s objective behind the project. Hence, they need to track the requirements across different phases of the project. For doing that they need to analyze the requirements and create a unique list of requirements.
+Throughout the project’s planning, execution, and testing phases, it is crucial to ensure the project team remains aligned with the customer’s requirements and the project’s objectives. Tracking these requirements helps ensure all needs are met. A Requirement Traceability Matrix (RTM) helps track each requirement from definition to acceptance.
 
-The requirement traceability matrix is a table that has Requirement ID, Requirement Name, Requirement short description in the first few columns. The remaining columns of this table are different phases of the project through which a requirement needs to be converted into an accepted feature. An example of a unique list of requirements for our project can be as below.
+Here is an example of a unique list of requirements for our project:
 
-1. 2 Bedroom / Study Room for Kids
-2. One Master Bedroom
-3. 5 Bedrooms for Guests
-4. 1 Open Party Hall
-5. 1 Room for Indoor Games
-6. 1 Hall for badminton
-7. 1 Lawn with Rose and Gold Marry Flowers
-8. 1 Orchid of Apple/Guava
-9. 1 Small Footwall Ground
-10. 4 Car covered parking + 10 Open Car Parking Space.
-11. 24 hours water and electricity
-12. Good connectivity to airport, railway station
-13. Near to School of Children and Near to Office
-14. 1 Home theatre
-15. 1 Solar plan
-16. 20K Liter water tank
+1. Two bedrooms/study rooms for the children
+2. One master bedroom
+3. Five guest bedrooms
+4. One open party hall
+5. One room for indoor games
+6. One hall for badminton
+7. One lawn with rose and marigold flowers
+8. One apple or guava orchard
+9. A small football ground
+10. Four covered parking spaces and ten open parking spaces for cars
+11. 24-hour water and electricity supply
+12. Good connectivity to the airport and railway station
+13. Proximity to the children’s school and the customer’s office
+14. A home theatre
+15. A solar plant
+16. A 20,000-liter water tank
 
-The requirement list should not have a requirement that can be tested. For example requirements # 12, 13 in the above list cannot be tested because of their subjectivity.
+Some requirements, such as #12 and #13, cannot be tested due to their subjective nature.
 
-| Req. ID | Req. Name | Req. Description (Req Doc. Section #) | Design Section # | Resources acquired | Work Status | Accepted by Customer |
-|---|---|---|---|---|---|---|
-| 4 | Open Party Hall | FS Doc 1.5 | Design Doc Section 1.2 | Yes | Tested | Yes |
-|  |  |  |  |  |  |  |
+## **Specifications & Constraints**
 
-Requirement Traceability Matrix
-## **Specifications &amp; Constraints**
+Specifications are detailed descriptions of what the product will look like and how it will function. They can be functional or technical. Functional specifications outline the behavior and features of the product, while technical specifications detail dimensions, materials, and other technical aspects, often imposing constraints on the project.
 
-There are two types of specification A- Functional Specifications B- Technical specification. In a bigger project, they are part of 2 separate documents. Function specification document can have multiple names like FRS (Functional Requirement Specification) Document, SRS (System Requirement and Specification Document), Requirement Document. The name of the document depends upon the industry and company procedures. The technical specification also a kind of requirement document from the customer side. It can define the dimensions, quality of material, machine to be used, etc. The technical specification also imposes technical constraints on the project and while developing a product the project team cannot go beyond the technical specs mentioned by the customer.
+Examples of specifications for our project include:
 
-1. Bedroom min size should be 15’X18’
-2. Each parking lot should be able to adjust car like Toyota Innova
+1. Each bedroom should be at least 15’x18’.
+2. Each parking space should accommodate a car the size of a Toyota Innova.
 3. The football ground can be a community ground.
-4. House should not be too far away from the city, because of customer’s friend are in the city.
-5. The chess room size should be 8’X8’
-6. Apple or Guava garden should be half acre
-7. Rose &amp; Gold marry flower lawn should be in .5 acre
-8. The orchid and flower garden should have a deep irrigation facility.
-9. The Party hall should be able to accommodate 500+ people at a time.
-10. Theatre should be able to adjust 50+ people at ease and it should be 30’X60’
-11. No land should be utilized for solar plan
-12. The water tank should not be put on the roof of the house
+4. The house should be near the city because the customer’s friends live there.
+5. The chess room should be 8’x8’.
+6. The orchard should cover half an acre.
+7. The flower lawn should be on 0.5 acres.
+8. The orchard and flower garden should have deep irrigation.
+9. The party hall should accommodate 500+ people.
+10. The theatre should comfortably seat 50+ people and measure 30’x60’.
+11. No land should be used for the solar plant.
+12. The water tank should not be on the house roof.
 
-## **Material Specification** 
+## **Material Specification**
 
-Material is the resources that are consumed in the project and during product development, it becomes part of the product. For example, cement or steel is a material resource in construction projects but JCB or Tracker used is a machine resource. In the software development business software tools which you use for development are called development tools like machine resources discussed earlier. But the licenses of the software which we purchase from the market and shipped along with the developed product are material resources.
+Materials are the resources consumed during the project. For example, cement or steel is a material resource in construction, while machinery like JCBs and tractors are machine resources. In software, development tools are like machinery, whereas licensed software shipped with the product is a material resource.
 
-Once we have functional requirements, technical requirements in place then using technical expertise we can determine what kind of material is required. Some of the material may be common and for that detailed FRS is not required. The material specification can be part of a technical specification or a separate document. For our example project, we can use the following questionnaire to get the answer from the customer.
+Material specifications can vary, and detailed requirements might be needed. Some common material-related questions include:
 
-1. **Question**: What kind of cement should be used?
-2. **Question**: What is the major material of the building? 
-    1. Is this a steel and glass building?
-    2. Is this building mainly made on pillars?
-    3. Is this building made of cement bricks?
-    4. Does this building have an external structure made of steel and internal everything is made of tough glass?
-3. **Question**: What kind of brick/glass/ steel should be used for walls/pillars?
-4. **Question**: What kind of security technology you need in a house?
-5. **Question**: What kind of mud should be put on the lawn of flowers?
-6. **Question**: What kind of tiles you want on the floor?
-7. **Question**: What kind of paint you want on the wall?
-8. **Question**: What kind of material should be used for electricity fitting?
-9. **Question**: What kind of plumbing fitting you want?
+1. What type of cement should be used?
+2. What is the main material for the building (steel, glass, brick, etc.)?
+3. What type of security system is required?
+4. What type of soil is preferred for the flower lawn?
+5. What type of tiles and paint should be used?
 
-## **Estimation** 
+## **Estimation**
 
-We need to estimate the quantity of each resource required, estimate the cost of each resource, estimate the time required to complete each milestone or work package. For example, for our project we need estimate following
+Estimating involves calculating the quantity of each resource needed, the cost of these resources, and the time required to complete various project milestones. For our project, this includes:
 
-1. Bill of Material (the type of material required)
-2. Estimate the amount of material required
-3. Estimate the cost of material
-4. Estimate the land/Space required
+1. Creating a Bill of Materials (BOM)
+2. Estimating the quantity of materials needed
+3. Estimating material costs
+4. Estimating land or space requirements
 
-## **What is the Cost**
+## **What is the Cost?**
 
-There are two viewpoints of the cost customer viewpoint and vendor viewpoint. From a vendor viewpoint, the cost is the money that a vendor spends during the complete project lifecycle to complete various project activities. From the customer’s viewpoint, the cost of the project is money that he pays to the vendor. It is also called price, which a vendor charges to a customer. Project cost can have the following components.
+The concept of cost can be viewed from two perspectives: the customer's and the vendor's. From a vendor's viewpoint, cost refers to the expenses incurred throughout the entire project lifecycle, covering all project activities. For the customer, the cost is the price paid to the vendor. This is essentially the total amount charged by the vendor for the completion of the project. The project cost can include the following components:
 
-1. Cost of the raw material used for construction
-2. Cost of efforts or cost of services. Like Consultant, Architect, Labor, Painter, Plumber, Electrician, etc.
-3. Cost of machines used.
-4. Cost of transportation
-5. Cost of money for government approval
-6. Cost of capital. Cost of the money which you borrowed to make the payment during a project.
+1. Cost of raw materials used for construction.
+2. Cost of services, including those provided by consultants, architects, laborers, painters, plumbers, electricians, etc.
+3. Cost of machinery used during the project.
+4. Transportation costs.
+5. Fees for obtaining government approvals.
+6. Cost of capital, which refers to the interest or financial charges on borrowed funds used to finance the project.
 
-In a construction project, BOM (bill of material) is a good tool to generate high-level cost estimates
+In construction projects, a Bill of Materials (BOM) is a valuable tool for generating high-level cost estimates.
 
 ## **Project Pricing**
 
-In FFP (firm fix price) project complete cost of the project need to be estimated in the advance. This cost needs to be communicated to the customer. Based on this cost customer makes the decision to spend money on the project or not. This is one of the critical inputs for customers for ROI (return on investment) decisions. In other kinds of variable cost projects as well, customers want to know a ballpark estimate that can help them in making a decision.
+In a Firm Fixed Price (FFP) project, the total project cost must be estimated in advance. This estimate is then communicated to the customer, who uses it to decide whether to proceed with the project. Accurate cost estimation is crucial as it is a key input for the customer's Return on Investment (ROI) decisions. Even in projects with variable costs, customers typically seek a ballpark estimate to help them make informed decisions.
 
- When vendor quotes a price to the customer it includes following components.
+When a vendor quotes a price to a customer, it typically includes the following components:
 
-1. Cost as discussed earlier
-2. Risk Management Cost
-3. Profit Margins
+1. The actual costs as discussed earlier.
+2. Risk management costs.
+3. Profit margins.
 
-## Project **Architecture**, Design, Drawing
+## **Project Architecture, Design, and Drawings**
 
-Depending upon the industry different kinds of architecture are developed to understand how the product can be developed? How the product will be used (functional design)? How it will look (UI Design)? How the overall security of the product looks like and how it will be maintained (Security Architecture)? How an optimal performance can be achieved and how it can be maintained (performance architecture). There are many other kinds of design and architecture.
+Different industries require various types of architecture and design to conceptualize how a product will be developed, used, and maintained. This includes functional design, User Interface (UI) design, security architecture, and performance architecture. In construction, these aspects are often represented in drawings and architectural plans, which can vary in detail depending on the project's requirements.
 
-For our construction project, we can draw a high-level diagram based on the requirements, elicited requirements, and detailed specifications. In construction, you call it drawing, architecture, etc., depending upon what level is detailed on the paper. It shows the position of the entrance, doors, windows, water tank, different rooms, connectivity, place and garden, place of lawn, football field, party room, the position of CCTV, security camera, biometric readers, theater, etc. Different kinds of architecture, drawing, and design need to be developed to visualize the overall project. In the construction industry, many times all these documents are called by engineers as a project plan. But that is an incorrect name for the architecture or drawing documents.
+For construction projects, a high-level diagram based on requirements and detailed specifications can be developed. This might include the layout of entrances, doors, windows, water tanks, rooms, gardens, sports fields, security systems, and more. Such documents help visualize the entire project and are sometimes mistakenly referred to as the "project plan" by engineers, although they are more accurately termed architectural or design documents.
 
-Some features of architecture/design are
+Key characteristics of architectural designs include:
 
-1. Even if you change the underlying technology for development, this architecture will not change. For example, if you use different CCTV technology for surveillance overall security architecture remains the same.
-2. Even if you do not know the detailed requirements a high-level architecture can be build from the given high-level requirement.
-3. High-level architecture helps us in the initial estimate.
+1. They remain consistent regardless of changes in the underlying technology. For example, using different CCTV technologies does not alter the overall security architecture.
+2. Even without detailed requirements, high-level architecture can be developed from general specifications.
+3. High-level architecture helps provide initial cost estimates and guides project planning.
 
 ## **Technology**
 
-After preparation of architecture, design, draft documents we have a blueprint of the project before us. Technology selection is part of the design but we buy technology and using technology for developing a product of the project during the development/construction. In the project lifecycle if the technology does not fit or becomes obsolete or becomes expensive then technology alternatives need to be evaluated. While selecting alternative technology we need to ensure that the architecture of the product does not change or change the least.
+After developing the architecture, design, and draft documents, the project has a clear blueprint. Technology selection is a critical part of this process, as it involves choosing tools and systems used during both the construction and operational phases of the project. Technology must be evaluated based on factors like cost, availability, ease of maintenance, scalability, and relevance to the project’s objectives.
 
-Technology for executing a project like machines used for digging, mixing, creating pillars, etc. and technology which is part of the product architecture like security systems, elevators in the building, sewage treatment, water purifier, electricity generation, etc. both need to evaluated based various parameters like cost, availability, each of maintenance, ease of scale, etc. then selected.
+If the chosen technology becomes obsolete, unsuitable, or too expensive, alternative options need to be considered, ensuring minimal changes to the project's architecture. Technologies could include construction machinery, security systems, elevators, sewage treatment systems, water purifiers, and power generation systems, among others.
 
-## **Low-Level Design** &amp; Implementation
+## **Low-Level Design and Implementation**
 
-A project has many characteristics like technology stability and maturity, requirement stability, market competition, availability of the resource required, company culture, bureaucratic processes, alternative technologies, time to market, budget for development, budget for research, need of research, etc. Based on the project characters we need to select a project management methodology. Broadly there are two types of methodologies A- Waterfall, which is suitable when all project characteristics are predictable and fixed. B- Agile, which is suitable when any of the project characteristics are not fixed or can change during the project cycle.
+Project characteristics such as technological maturity, requirement stability, market competition, resource availability, organizational culture, and budget constraints determine the appropriate project management methodology. Generally, two methodologies are considered:
 
-Whatever project management methodology we chose, will have the most impact on the release/ delivery/ milestone of the project. The agile methodology relies on frequent delivery and the waterfall relies on big bang one-time delivery. Agile delivery is iterative and sometimes these iterations are called a sprint. Depending upon the domain of the project iterative may be different, but the focus is we should deliver something which customers can see and value.
+1. **Waterfall**: Suitable when project characteristics are predictable and stable. It relies on a linear and sequential approach.
+2. **Agile**: Suitable for projects where characteristics are dynamic or likely to change. Agile emphasizes flexibility, iterative progress, and frequent delivery.
 
-For example in our construction project sprint or iteration can be like as below.
+The chosen methodology significantly impacts project delivery and milestones. Agile methodologies focus on iterative delivery, with each iteration (or sprint) producing something tangible and valuable to the customer.
 
-**Sprint1: Land Identification**
+For example, in a construction project, sprints or iterations could be structured as follows:
 
-As per your requirements, we need 10-acre land which we have identified for you at 20 KM away from the main city. Please look, approve and sanction money for the registration.
+### **Sprint 1: Land Identification**
 
-**Sprint 2: Architecture**
+As per the requirements, a 10-acre plot has been identified, located 20 kilometers from the main city. The customer is asked to review, approve, and allocate funds for land registration.
 
-The project team and consultants created architecture, design, drawing in the sprint. The blueprint is reviewed with the customer and approval is taken.
+### **Sprint 2: Architecture**
 
-**Sprint 3: Water Tank**
+During this sprint, the project team and consultants develop the architecture, design, and drawings. These blueprints are reviewed with the customer for approval.
 
-We are going to build a tank first because water is necessary for construction.
+### **Sprint 3: Water Tank Construction**
 
-**Detail requirement of the tank** (In Agile Methodology Detail Requirement is not documented earlier but just before the work need to done.)
+A water tank is prioritized because water is essential for construction.
 
-It should be circular, at the height of 20 meters. Should be made of such a material that water does not become hot even in extreme summers because during summer the temperature goes to 45°C. It should be able to hold borewell water and municple corporation water in different compartment.
+**Detailed Requirements for the Tank** (In Agile, detailed requirements are documented just before the relevant work begins):
 
-**Detail Design of the tank**
+- The tank should be circular, with a height of 20 meters.
+- It should be constructed from materials that keep the water cool, even in extreme summer temperatures (up to 45°C).
+- It should accommodate both borewell water and municipal water in separate compartments.
 
-**Construction of the tank**
+**Detailed Design of the Tank**:
 
-**Product Demo/Review:** Review the function and quality of completed tank
+**Tank Construction**:
+
+**Product Demo/Review**: The functionality and quality of the completed tank are reviewed.
 
 ## **Conclusions**
 
-In the article, we tried to understand Project Management and related terminologies using a construction industry example. We know in real-life things do not happen in this simplistic way but to explain the high-level concepts we have taken the shortest route and avoided extra complications. If you are moving into project management then you must have got some idea from this article. If you are experienced but do not these terminologies then you may have understood the subtle difference between different terms. If I forgot to mention anything important and you feel it is important to add then please feel free to add that in the comment box below. If required, based on your feedback I will improve this article.
+This article has provided an overview of project management and related terminologies using a construction industry example. While real-life scenarios are more complex, this simplified explanation aims to clarify high-level concepts. If you're new to project management, this article should offer some foundational understanding. If you're experienced but unfamiliar with these terminologies, you may now appreciate the nuances between different terms. Feel free to share any important points I may have missed in the comments below. Based on your feedback, I will further refine and enhance this article.

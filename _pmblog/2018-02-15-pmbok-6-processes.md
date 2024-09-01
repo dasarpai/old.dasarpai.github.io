@@ -7,7 +7,7 @@ permalink: '/pmblog/PMBOK-6-Processes'
 tags: 
     - PMBOK6
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1033-PMBOK6.jpg'
 layout: pmblog-layout 

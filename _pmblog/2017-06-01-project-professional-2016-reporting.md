@@ -7,7 +7,7 @@ permalink: 'pmblog/Project-Professional-2016-Reporting'
 tags: 
     - 'Project Management Toolkit'
 categories:
-
+  - pmblog
 header:
   teaser: '/assets/images/pmblog/1032-project-online-2016-reporting.jpg'
 author: 'Hari Thapliyaal'
