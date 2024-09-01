@@ -23,11 +23,10 @@ sidebar:
 
 ### Knowing, Learning, Experimenting, Implementing and getting Business results 
 
-|Topic | Hindi |
+|Topic | Extension |
 |--- | ---|
-|* [![Jump to PM Blogs](https://img.shields.io/badge/Goto-PMLOGY_Blog-blue)](/pmlogy-blog) |    | 
 |* [![PM Glossary](https://img.shields.io/badge/Goto-PM_Glossary-blue)](/pmglossary) |  | 
-|* [![PMLOGY Topics](https://img.shields.io/badge/Goto-PMLOGY_Topics-blue)](/pmlogy-tags) |  |
+|* [![Jump to PM Blogs](https://img.shields.io/badge/Goto-PMLOGY_Blog-blue)](/pmlogy-blog) |  * [![PMLOGY Topics](https://img.shields.io/badge/Goto-PMLOGY_Topics-blue)](/pmlogy-tags) | 
 |* [![PMBOK6 Explorer](https://img.shields.io/badge/Goto-PMBOK6_Explorer-blue)](/pmbok6)   | * [![PMBOK6 Hindi Explorer](https://img.shields.io/badge/Goto-PMBOK6_Hindi_Explorer-blue)](/pmbok6hi) |
 | * [![PMBOK6 Topics](https://img.shields.io/badge/Goto-PMBOK6_Topics-blue)](/pmbok6-tags)  | * [![PMBOK6 Hindi Topics](https://img.shields.io/badge/Goto-PMBOK6_Hindi_Topics-blue)](/pmbok6hi-tags) | 
 | * [![PMBOK6](https://img.shields.io/badge/Goto-PMBOK6_Summary-blue)](/pmbok6-summary) | * [![PMBoK6 Hindi](https://img.shields.io/badge/Goto-PMBOK6_Hindi_Summary-blue)](/pmbok6hi-summary) |
