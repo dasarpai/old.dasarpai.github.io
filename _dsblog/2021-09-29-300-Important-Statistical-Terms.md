@@ -327,9 +327,9 @@ Sno | Term | Definition
 297 | Z statistic | A Z statistic is a test statistic whose distribution under the null hypothesis has expected value zero and can be approximated well by the normal curve. Usually, Z statistics are constructed by standardizing some other statistic. The Z statistic is related to the original statistic by Z = (original − expected value of original)/SE(original).
 298 | z-test | An hypothesis test based on approximating thehttps://dasarpai.com/300-important-statistical-terms/ probability histogram of the Z statistic under the null hypothesis by the normal curve.
 
-These definitions are taken from -https://www.stat.berkeley.edu/~stark/SticiGui/Text/gloss.htm
+These definitions are taken from - https://www.stat.berkeley.edu/~stark/SticiGui/Text/gloss.htm
 
-I am maintaining these terms on this page, so that it here for my reference. I am rearranging these terms here. Removing certain unrelated terms (as per me). I may change this table based on my further exploration and understanding. For the original definition please read the above link. If any term is misunderstood or misexplained then please comment below. I will correct it here, after due consideration. If any important term is missing from this table then please mention the commentbox below.
+I am maintaining these terms on this page, so that it here for my reference. I am rearranging these terms here. Removing certain unrelated terms (as per me). I may change this table based on my further exploration and understanding. For the original definition please read from the above link. If any term is misunderstood or misexplained then please comment below. I will correct it here, after due consideration. If any important term is missing from this table then please mention the commentbox below.
 
 
 

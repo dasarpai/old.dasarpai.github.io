@@ -363,3 +363,10 @@ For instructions on prompt engineering strategies and model tuning in the Genera
 - [GPT Usecases by by Hari Thapliyaal](https://dasarpai.com/dsblog/gpt-usecases)
 - [Business Usecase of GPT by Hari Thapliyaal](https://dasarpai.com/dsblog/business-usecases-of-gpt)
 - [Will AI Replace Human by Hari Thapliyaal](https://dasarpai.com/dsblog/will-ai-replace-human)
+
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

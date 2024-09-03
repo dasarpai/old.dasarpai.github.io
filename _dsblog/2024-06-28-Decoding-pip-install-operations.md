@@ -459,3 +459,8 @@ Here’s a step-by-step example for setting up TensorFlow with GPU:
      ```
 
 By following these steps, you can ensure that your development environment is correctly set up to leverage the GPU for model training, thereby speeding up computations and improving performance.
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

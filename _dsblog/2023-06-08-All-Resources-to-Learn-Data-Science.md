@@ -22,7 +22,7 @@ mathjax: "true"
 ---
 
 ![All Resources to Learn Data Science](/assets/images/dspost/dsp6064-Resources-to-Learn-Everything-About-AI.jpg)    
-    
+  
 # All Resources to Learn Data Science   
    
 ## Introduction 

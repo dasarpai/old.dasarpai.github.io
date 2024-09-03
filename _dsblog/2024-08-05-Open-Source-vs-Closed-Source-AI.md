@@ -102,3 +102,9 @@ While proprietary AI solutions can offer benefits such as polished user experien
 As of 2024, the costs associated with training, fine-tuning, and deploying large language models (LLMs) remain prohibitively high for many researchers, developers, and users. These high costs create barriers to entry and limit the democratization of AI technology. Looking ahead, advancements in computing hardware and the development of high-quality models with fewer parameters are expected to lower these costs, making advanced AI capabilities more accessible. This reduction in cost could transform AI into a widely available commodity, fostering a more competitive market with multiple suppliers.
 
 In this evolving landscape, we are likely to see a greater emphasis on open-source AI solutions. Open-source models offer transparency, community-driven innovation, and lower barriers to entry, making them attractive alternatives to proprietary, closed-source options. As open-source AI becomes more prevalent, new business models will emerge, potentially challenging the dominance of large IT companies. The future will reveal how these shifts will shape the AI industry, balancing the interests of innovation, competition, and ethical considerations.
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

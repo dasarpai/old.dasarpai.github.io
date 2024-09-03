@@ -237,9 +237,7 @@ docker-compose up -d
 ## What is the difference between NLP, NLU and NLG.
 When you are processing text for tasks like NER, Sentiment Analysis, and Token Classification you need libraries like Spacy, GloVe, and NLTK. This kind of work is called NLP.
 
-
 When you need to understand the semantic meaning of the text then NLP doesn't work. For example, you are looking for a sentence "Benefits of the Yoga" in a health-related article and it doesn't have any word "Yoga" there. But, it has a section called "Spiritual Gains of Long Meditation". Based on the similar semantic meaning can we pick up the text under this heading and display it to the user? You need a different technology like NLU. LLM (Large Language Models) are good in this task.
-
 
 When you need to generate new text or answer of question after analysing then it is much more complicated. You can put some common sense questions like Ram is standing in front of Mohan, Ram takes a left turn, and walks 200 meters. After that, he moved 20 degrees towards the west and walked 50 meters. How far is Ram from Mohan and what direction is his face? You cannot solve this kind of question by NLP or NLU. You need more sophisticated technology to do this work. This is called NLG. LLM models like ChatGPT, GPT4, PaLM, and BARD are good in NLG tasks.
 
@@ -253,6 +251,12 @@ When you need to generate new text or answer of question after analysing then it
 When a model gives an answer that looks logically correct or convincing but is factually wrong, completely cooked-up answer. This is called hallucination. If you don't understand the domain or don't remember the facts there are chances you won't know that model is hallucinating you.
 
 Sometimes the facts given are correct, logic is correct but the model is trying to connect some completely unrelated stuff without knowing that these ideas are completely unrelated. For example, Rabindranath Tagore who got the Nobel Prize for literature had a very good understanding of Vedanta. Kabirdaas was a great saint and his works reflect his deep understanding of Vedanta. Therefore model says Kabirdaas appreciated the work of Rabindranath Tagore. It is confabulation.
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   
 
 
 

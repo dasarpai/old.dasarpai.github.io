@@ -63,3 +63,9 @@ mathjax: "true"
 | 13. |[AWS Data Pipeline : Orchestration service for periodic, data-driven workflows](https://aws.amazon.com/datapipeline/?nc2=h_ql_prod_an_dp) |  | 
 | 14. |[AWS Glue : Simple, scalable, and serverless data integration](https://aws.amazon.com/glue/?nc2=h_ql_prod_an_glu) |  | 
 | 15. |[AWS Lake Formation : Build, manage, and secure your data lake](https://aws.amazon.com/lake-formation/?nc2=h_ql_prod_an_lkf) |  | 
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

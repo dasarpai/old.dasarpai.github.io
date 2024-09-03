@@ -319,3 +319,12 @@ familiarity principle (in social psychology)** : The tendency to express undue l
 ## Conclusion:
 
 In conclusion, cognitive biases can have a profound impact on the accuracy and effectiveness of AI, ML, NLP, deep learning, and robotics. To mitigate these biases, data scientists should be aware of their existence and actively work to counteract them. By identifying potential sources of bias and taking steps to prevent them, data scientists can ensure that their models accurately represent complex human behaviors and decision-making processes. This, in turn, will lead to more effective and accurate technologies that have the potential to revolutionize many areas of our lives.
+
+## Sources:
+- Various internet pages and wikipedia pages
+
+
+**Recompiled by**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

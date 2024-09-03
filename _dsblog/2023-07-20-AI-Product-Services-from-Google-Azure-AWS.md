@@ -57,3 +57,9 @@ mathjax: "true"
 | 28.| [Azure Applied AI Services:]( https://aka.ms/ScalerHomepage) Specialised services that enable organisations to accelerate time to value in applying AI to solve common scenarios |  | 
 | 29.| [Azure OpenAI Service:]( https://azure.microsoft.com/en-in/products/cognitive-services/openai-service/) Apply advanced coding and language models to a variety of use cases |  | 
 | 30.| [Azure Cognitive Services for Vision:]( https://azure.microsoft.com/en-in/products/cognitive-services/vision-services/) Unlock insights from image and video content with AI |  | 
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

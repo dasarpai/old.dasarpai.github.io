@@ -162,9 +162,6 @@ Output:
 In essence, few-shot learning allows a model to quickly adapt to new tasks by understanding and generalizing from a few examples, leveraging its pre-trained knowledge and powerful pattern recognition capabilities.
 
 
-
-
-
 ## Fewshot learning with prompt engineering and finetuing with machine learning.
 
 ### Few-Shot Learning
@@ -209,8 +206,6 @@ In essence, few-shot learning allows a model to quickly adapt to new tasks by un
 - **Fine-Tuning**: Requires machine learning expertise to further train a pre-trained model on a specific dataset, adjusting its weights to optimize performance for a particular task.
 
 Both approaches leverage pre-trained models but are used in different contexts and require different sets of skills to implement effectively.
-
-
 
 
 ## After we finetune chatgpt3.5 model can we download the finetued model?

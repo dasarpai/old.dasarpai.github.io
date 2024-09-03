@@ -412,3 +412,9 @@ plt.show()
 ```
 
 By following these steps, you can get a good sense of whether your dataset exhibits complex, non-linear relationships or if it is simpler and more linear. This will guide you in choosing the appropriate dimensionality reduction technique and other analysis methods.
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

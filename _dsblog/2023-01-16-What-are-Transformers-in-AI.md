@@ -546,3 +546,9 @@ There are many types of Transformers, such as autoregressive models like GPT, au
 The Transformer's birth chronology spans just a few years, from the original paper in 2017 to the latest models that are being developed today. Its creators include some of the most prominent names in the field of AI, such as Google, Facebook, and OpenAI.
 
 As AI technology continues to evolve, we can expect more exciting developments in the field of Transformers, with even more powerful and sophisticated models that can tackle even more complex tasks. The Transformer architecture has shown us that there is still much to explore in the world of deep learning, and we can't wait to see what the future holds.
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

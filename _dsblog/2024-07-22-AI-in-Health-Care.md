@@ -152,3 +152,8 @@ AI is revolutionizing the field of new drug discovery by significantly accelerat
 ## Useful References
 - [Excelra Case Studies](https://www.excelra.com/case-studies/)
 
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   
+

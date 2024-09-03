@@ -101,3 +101,8 @@ Similarly, in a communist system, AI could optimize resource allocation, enhance
 The outcome will largely depend on the ethical frameworks and governance structures we put in place. Whether in democracies or communist states, the challenge lies in ensuring that AI technologies are aligned with the fundamental values of justice, equity, and respect for human rights. If we can establish global norms and standards for the ethical use of AI, it has the potential to support both democratic and communist ideals by fostering greater social and economic well-being. However, if we allow AI to be used as a tool for surveillance, control, and exploitation, it could threaten the very foundations of both systems, leading to a loss of trust, freedom, and fairness. 
 
 Ultimately, AI's impact on political systems—democratic or communist—will not be determined by the technology itself, but by the choices we make as societies. Is it really up to us to decide whether AI will be a force for good, enhancing governance and human welfare, or a tool of oppression and control? If yes then who is that "us"?
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

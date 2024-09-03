@@ -540,3 +540,9 @@ Federated learning has applications in various domains, including healthcare, fi
 
 Machine learning techniques are essential for solving many real-world problems, from image recognition and natural language processing to self-driving cars and medical diagnosis. Each method has its strengths and limitations, and the choice of technique depends on the specific problem and the available data. By understanding the different types of machine learning techniques, you can select the most appropriate method for your project and achieve better results. As the field of machine learning continues to evolve, we can expect to see new and more powerful techniques emerge, making it an exciting time for anyone interested in artificial intelligence.
 
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   
+

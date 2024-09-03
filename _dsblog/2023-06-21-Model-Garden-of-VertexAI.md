@@ -20,7 +20,7 @@ toc: true
 toc_sticky: true 
 mathjax: "true"    
 ---    
-    
+
 ![All Resources to Learn Data Science](/assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg)        
         
 # Model Garden of VertexAI:     

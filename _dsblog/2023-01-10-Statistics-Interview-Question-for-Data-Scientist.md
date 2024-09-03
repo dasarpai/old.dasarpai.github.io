@@ -929,3 +929,8 @@ A data scientist is dealing with different streams of subjects like statistics, 
 Statistics is a big and complex subject and this is the foundational stone of any data science work, primarily for data analysis and model building. You may not be an expert in this subject and it can take a significant amount of time to get mastery over this subject. But with the help of the above questions a company can evaluate whether you are comfortable enough in the subject to take challenges in a data science project. If you would like to add your favorite questions then you can email me at hari.prasad@vedavit-ps.com
 
 
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

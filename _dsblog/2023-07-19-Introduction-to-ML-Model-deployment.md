@@ -221,3 +221,9 @@ There are several products and libraries designed to accelerate deep learning in
 - [ONNX](https://github.com/onnx/models)
 - [CatalyZex](https://www.catalyzex.com/)
 
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   
+

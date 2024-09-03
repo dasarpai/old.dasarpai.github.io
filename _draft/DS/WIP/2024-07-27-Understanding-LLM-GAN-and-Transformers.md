@@ -25,19 +25,20 @@ comments: true
 
 # Understanding LLM, GAN and Transformers
 
+## LLM Layers
 Large Language Models (LLMs) are typically based on Transformer architectures, which consist of several types of layers that work together to process and generate text. Here are the primary kinds of layers found in an LLM:
 
 1. **Embedding Layers**:
-   - **Token Embedding Layer**: Converts input tokens (words, subwords, or characters) into dense vectors.
+   - **Token Embedding Layer**: Converts input tokens (words, subwords, or characters) into dense n dimensional vectors.
    - **Position Embedding Layer**: Adds positional information to the token embeddings, allowing the model to understand the order of tokens.
 
-2. **Transformer Encoder Layers**:
+2. **Transformer Encoder Layers**: This layer is found in models, which are designed for generating encoded represenration of the input.
    - **Self-Attention Layer**: Computes attention scores to capture dependencies between tokens in the input sequence. It allows the model to weigh the importance of different tokens.
    - **Feedforward Layer**: Applies a fully connected neural network to each token independently, often consisting of two linear transformations with a non-linear activation function (e.g., ReLU) in between.
    - **Layer Normalization**: Normalizes the inputs to each sub-layer, improving training stability.
    - **Residual Connections**: Adds the input of each sub-layer to its output, facilitating gradient flow and improving convergence.
 
-3. **Transformer Decoder Layers** (in models designed for sequence-to-sequence tasks like translation):
+3. **Transformer Decoder Layers**: This layer is found in models, which are designed for sequence-to-sequence tasks like translation.
    - **Masked Self-Attention Layer**: Similar to the self-attention layer in the encoder but with masking to prevent attending to future tokens, ensuring autoregressive generation.
    - **Encoder-Decoder Attention Layer**: Computes attention scores between the decoder tokens and the encoder's output tokens, allowing the decoder to focus on relevant parts of the input sequence.
    - **Feedforward Layer, Layer Normalization, and Residual Connections**: As in the encoder layers.
@@ -50,11 +51,11 @@ Large Language Models (LLMs) are typically based on Transformer architectures, w
    - **Attention Mechanisms Variants**: Variants like multi-head attention, relative position encodings, and cross-attention mechanisms.
    - **Memory Layers**: Augment the model with external memory to store and retrieve long-term dependencies.
    - **Sparse or Adaptive Attention**: Optimize attention mechanisms for efficiency, especially in handling long sequences.
-   - **Adapter Layers**: Lightweight layers added to pre-trained models to allow efficient fine-tuning on new tasks without modifying the original model weights significantly.
+   - **Adapter Layers**: Lightweight layers added to pre-trained models to allow **efficient fine-tuning** on new tasks without modifying the original model weights significantly.
 
 Each of these layers plays a crucial role in enabling LLMs to process, understand, and generate natural language effectively. The combination of these layers, particularly the self-attention mechanism and the feedforward neural networks, is what makes the Transformer architecture so powerful for a wide range of NLP tasks.
 
-# Some Powerful LLM and their developers
+## Some Powerful LLM and their developers
 Here is a list of some recently developed large language models (LLMs) along with their developer organizations:
 
 1. **GPT-4** - OpenAI
@@ -79,7 +80,7 @@ Here is a list of some recently developed large language models (LLMs) along wit
 20. **Jurassic-2** - AI21 Labs
 21. **OPT** - Meta (Facebook)
 
-# Architectures used by these LLMs
+## Architectures used by these LLMs
 
 ### Decoder-Only Architectures:
 1. **GPT-4** - OpenAI
@@ -107,8 +108,8 @@ Here is a list of some recently developed large language models (LLMs) along wit
 
 Different architectures are chosen based on the specific requirements and goals of the model, such as whether it is primarily for text generation (decoder-only) or understanding tasks (encoder-only), or for tasks that benefit from both (encoder-decoder).
 
-# What are different GAN architectures used in language modeling?
-GAN-based approaches for language modeling are less common compared to Transformer-based architectures due to the challenges discussed earlier. However, there have been some attempts to use GANs for text generation and language modeling. Here are a few notable GAN-based models and approaches in the realm of language processing:
+## What are different GAN architectures used in language modeling?
+GAN-based approaches for language modeling are less common compared to Transformer-based architectures due to the challenges discussed later in this artcile. However, there have been some attempts to use GANs for text generation and language modeling. Here are a few notable GAN-based models and approaches in the realm of language processing:
 
 1. **SeqGAN**:
    - **Developed by**: University of Illinois at Urbana-Champaign, Microsoft Research, and University of Edinburgh.
@@ -136,7 +137,7 @@ GAN-based approaches for language modeling are less common compared to Transform
 
 While these models represent notable attempts to apply GANs to language modeling and text generation, they have not achieved the same level of widespread adoption or success as Transformer-based architectures like GPT or BERT. The challenges associated with training GANs for discrete text data and the remarkable performance of Transformer models have led to the latter being the preferred choice for most large-scale language modeling tasks.
 
-# Why researchers are not using GAN for developing LLM?
+## Why researchers are not using GAN for developing LLM?
 Generative Adversarial Networks (GANs) have been incredibly successful in generating realistic images and other types of data, but they are not typically used for large language models (LLMs) due to several challenges and limitations. Here are some key reasons why GANs are not commonly used for LLMs:
 
 1. **Mode Collapse**:
@@ -168,7 +169,7 @@ Generative Adversarial Networks (GANs) have been incredibly successful in genera
 
 Given these reasons, the research and development community has predominantly focused on Transformer-based architectures for large language models, which have demonstrated superior performance and scalability for a wide range of natural language processing tasks. 
 
-# If encoder is for understanding and decoder for generation then how come GPT (decoder only architecture), understands context?
+## If encoder is for understanding and decoder for generation then how come GPT (decoder only architecture), understands context?
 
 The distinction between encoder and decoder roles in Transformers is somewhat generalized. While it's true that encoder layers are primarily designed for understanding and decoder layers for generation, the capabilities of a model like ChatGPT (which uses a decoder-only architecture) to understand and generate coherent responses come from the way these models are trained and designed.
 

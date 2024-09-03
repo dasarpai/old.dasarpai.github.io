@@ -225,3 +225,9 @@ If the computed hash does not match the expected value, consider the following:
 - Ensure no hidden metadata is affecting the file content. 
 
 This approach ensures data integrity and authenticity across different file types and scenarios.
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

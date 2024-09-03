@@ -142,3 +142,7 @@ To address these ethical concerns, several measures can be taken:
 - **Accountability and Governance**: Establishing clear accountability frameworks and governance structures for AI development and deployment.
 - **Inclusive and Equitable Practices**: Ensuring that the benefits of AI are distributed fairly and that marginalized communities are included in AI development processes.
 
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

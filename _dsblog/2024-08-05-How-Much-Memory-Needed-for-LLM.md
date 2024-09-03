@@ -397,3 +397,8 @@ For a 70 billion parameter model, the activation memory required can range appro
 
 These models provide a range of capabilities and are backed by active research and community support. Depending on your specific use case, computational resources, and expertise, you can choose a model that best fits your needs.
 
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

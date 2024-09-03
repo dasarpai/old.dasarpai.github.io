@@ -154,3 +154,9 @@ Can you tell me the difference between GPT2ForTextClassification, GPT2ForDocumen
   - Incorporates a classification head for generating class logits from the final hidden states of the GPT-2 model.
 
 In practice, the differences between these models often come down to the specific application and the length of the text being classified. The choice of model may depend on whether you are working with short snippets of text or lengthy documents.
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

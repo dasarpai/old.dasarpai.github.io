@@ -495,3 +495,9 @@ As of 17-Jul-23, AWS Sagemaker has 463 models in its Model Zoo. They call these 
 
 ## References
 - https://aws.amazon.com/sagemaker/jumpstart/getting-started/
+
+
+**Author**   
+Dr. Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

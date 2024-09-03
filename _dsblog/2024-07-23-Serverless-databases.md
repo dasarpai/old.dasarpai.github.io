@@ -88,3 +88,8 @@ Neon Database offers several features related to data versioning:
 3. **Branching**: Similar to version control systems like Git, branching allows you to create a separate copy of your database at a specific point in time. You can make changes to the branch without affecting the main database, and merge changes back when ready.
 
 These features make Neon Database a powerful tool for managing data versioning, providing flexibility and control over the data lifecycle.
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

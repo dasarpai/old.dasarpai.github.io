@@ -502,3 +502,9 @@ go on the command prompt and execute command: docker build -t my-tf-jupyter .
 ## What should be the content of Dockerfile?
 FROM tensorflow/tensorflow:2.17.0-gpu    
 RUN pip install jupyter
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

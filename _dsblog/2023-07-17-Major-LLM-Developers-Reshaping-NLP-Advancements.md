@@ -108,3 +108,9 @@ The name here are in alphabetic order and it has nothing to do with their value 
 
 ## Conclusion:
 The landscape of Large Language Model (LLM) development is evolving rapidly, with major players like OpenAI, Google, Hugging Face, and collaborative efforts setting the stage for transformative advancements in AI. Each developer brings unique expertise, innovation, and research contributions that have revolutionized natural language processing and understanding. As these pioneers continue to push the boundaries of AI, the future holds exciting possibilities, with LLMs becoming increasingly prevalent in our daily lives, powering everything from virtual assistants to language translation and much more. As we move forward, the collective efforts of these major LLM developers will shape the AI landscape and pave the way for new breakthroughs in the world of artificial intelligence.
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

@@ -569,3 +569,9 @@ Number in the tables below is from the main [repository](https://github.com/PINT
 1.  **[How to install Ubuntu 19.10 aarch64 (64bit) on RaspberryPi4](https://qiita.com/PINTO/items/adc5db7af7a5996c0f72)**
 1.  **[https://github.com/rwightman/posenet-python.git](https://github.com/rwightman/posenet-python.git)**
 1.  **[https://github.com/sayakpaul/Adventures-in-TensorFlow-Lite.git](https://github.com/sayakpaul/Adventures-in-TensorFlow-Lite.git)**
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   
