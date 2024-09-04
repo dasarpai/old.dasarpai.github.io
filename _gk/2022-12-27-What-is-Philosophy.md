@@ -13,7 +13,9 @@ author: Hari Thapliyaal
 layout: single        
 excerpt:        
 author_profile: true        
-share: true        
+share: true     
+toc: true  
+toc_sticky: true       
 ---        
         
 ![The Indian Constitution](/assets/images/gk/7005-What-is-Philosophy.jpg)        

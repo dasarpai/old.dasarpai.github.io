@@ -26,7 +26,7 @@ comments: true
 # LLM Security and Ethics Considerations
 
 
-## for my highly secured data like health industry data, banking, insurnace, security data can I use chatgpt3.5 or gpt4 for finetuning?
+## Question: For my client's highly secured data like health industry data, banking, insurnace, internal security, etc. data can I use gpt4 for finetuning?
 
 For highly sensitive data, such as health industry data, banking information, insurance details, and security data, using models like ChatGPT-3.5 or GPT-4 involves several considerations to ensure security and compliance:
 
@@ -71,7 +71,7 @@ For highly sensitive data, such as health industry data, banking information, in
 In summary, while GPT-3.5 and GPT-4 can be used for fine-tuning with highly sensitive data, it is crucial to carefully manage data security and compliance to protect sensitive information.
 
 
-## Models like Llama 3.1 8b is equally power like gpt4.0. That model is available for download then shouldn't I use that for my banking or health sector data to build AI features in my product?
+## Question: Models like Llama 3.1 8b is equally power like gpt4.0. Llama model is available for download then shouldn't I use it for my banking or health sector data to build AI features in my product?
 
 Using models like Llama 3.1 8B for highly sensitive sectors such as banking or health can be a viable option, but it involves several considerations:
 
@@ -112,9 +112,9 @@ Using models like Llama 3.1 8B for highly sensitive sectors such as banking or h
 By leveraging models like Llama 3.1 8B and implementing robust security practices, you can build AI features for banking or health sector applications while maintaining control over your data and infrastructure.
 
 
-## After training a model on opensource model architecture like llama3.1, to implement Security and Compliance what should i do?
+## Question: After finetuning an opensource model like llama3.1, to implement Security and Compliance what should i do?
 
-Implementing security and compliance for an open-source model architecture like Llama 3.1 after training involves several crucial steps to ensure that your application meets industry standards and protects sensitive data. Here’s a comprehensive guide on what you should do:
+Implementing security and compliance for an open-source model architecture like Llama 3.1 (after finetuning) involves several crucial steps to ensure that your application meets industry standards and protects sensitive data. Here’s a comprehensive guide on what you should do:
 
 ### **1. Data Security**
 

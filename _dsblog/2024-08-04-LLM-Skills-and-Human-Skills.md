@@ -25,9 +25,33 @@ comments: true
 
 # LLM Skills and Human Skills
 
-## What are the different domains where ChatGPT can perorm human level tasks?
+## What is skill?
 
-ChatGPT, like a human in any organization have a certain number of domain experties. It operates based on a vast amount of training data that covers a wide array of topics and fields. These expertise are broad but may not be at human genious level. The model has been trained on diverse text data, allowing it to generate responses across many domains, including but not limited to:
+A skill is the ability to perform a task or activity effectively and efficiently. It involves applying knowledge, experience, and techniques to achieve specific outcomes. Skills can be categorized into various types, including:
+
+Hard Skills: Technical abilities that are often measurable and specific to a job or field, such as programming, writing, or playing an instrument.
+
+Soft Skills: Interpersonal and personal attributes that enable someone to interact effectively with others, such as communication, teamwork, and problem-solving.
+
+Cognitive Skills: Mental abilities like memory, reasoning, and decision-making.
+
+Physical Skills: Abilities that require physical coordination, strength, or dexterity, such as playing sports or performing surgery.
+
+Skills are typically developed through practice, education, and experience, and they can be improved over time.
+
+In the context of natural intelligence, skill refers to the ability to apply the acquired knowledge effectively in practice.
+
+In the context of AI, skill refers to the model's ability to perform specific tasks or functions based on its training. This includes generating text, answering questions, or translating languages, etc. In essence, skill is the practical application of the model's knowledge to perform tasks.
+
+## What are the different domains where ChatGPT can perform human level tasks?
+
+ChatGPT is a frontend interface available for browsers, Android, and iOS devices. It is also referred to as a conversational product. The first version of ChatGPT was released with the GPT-3.5 model. Recently, ChatGPT supports both GPT-3.5 and GPT-4 models.
+
+GPT-4, sometimes written as GPT-4.0 or GPT-4o, is a multi-modal model, which means it can process and generate outputs across different modalities, including text and images. However, as of now, GPT-4 does not support voice or video generation. It is designed to handle a range of inputs, but generating voice and video content typically requires separate models and technologies.
+
+Just as a human can become an expert in multiple subjects depending on their intellectual capabilities, LLMs (large language models) like ChatGPT are trained on a vast corpus of data, including text, images, and sometimes audio. This broad training allows them to understand and generate content related to many subjects. However, LLMs are not experts or geniuses; they are advanced pattern recognition systems. To create an expert in a specific domain, these models often need fine-tuning on subject-specific data.
+
+The model has been trained on diverse text data, allowing it to generate responses across many domains, including but not limited to:
 
 1. **Arts**: Literature, music, visual arts, performing arts.
 1. **Business**: Management, marketing, entrepreneurship, operations.
@@ -56,7 +80,7 @@ ChatGPT, like a human in any organization have a certain number of domain expert
 1. **Travel and Lifestyle**: Travel tips, cultural insights, and lifestyle advice.
 
 
-## What are skills which human has to perform all the humanly tasks?
+## What are different human skills, accross various professions, to perform any task? 
 
 Determining the exact number of skills required by humans can be quite challenging because it varies widely depending on factors such as profession, personal interests, cultural context, and lifestyle. However, we can categorize and list a broad array of common skills that people might need or find useful in their daily lives and work. Here is a tentative list organized by category:
 
@@ -73,7 +97,7 @@ Determining the exact number of skills required by humans can be quite challengi
 1. **Digital Communication**: Social media management, blogging, content creation.
 
 ### Professional Skills
-1. **Technical Skills**:
+1. **Technical Skills**: An example is below, it can be extremely long depending upon business (like healthcare, agriculture, security etc.)
    - **Programming**: Coding in various languages (e.g., Python, Java, JavaScript).
    - **IT Skills**: Network management, cybersecurity, hardware troubleshooting.
    - **Data Analysis**: Statistical analysis, machine learning, data visualization.
@@ -119,6 +143,6 @@ Determining the exact number of skills required by humans can be quite challengi
 1. **Scientific Skills**: Laboratory techniques, scientific research methods.
 1. **Engineering Skills**: Design, construction, systems analysis.
 
-### Conclusion
+## Conclusion
 
-While this list is not exhaustive, it captures a wide range of skills that people might need or find useful in various aspects of life. The specific skills required by any individual will depend on their personal and professional circumstances. The diversity and breadth of skills reflect the complexity of human activities and the different roles people play in society.
+While the list of human skill is not exhaustive, it captures a wide range of skills that people might need or find useful in various aspects of life. The specific skills required by any individual will depend on their personal and professional circumstances. The diversity and breadth of skills reflect the complexity of human activities and the different roles people play in society. The journey of AI system development towards AGI (artificial general intelligence) is the journey of Machine's capabilities towards acquiring these sophisticated skills.
