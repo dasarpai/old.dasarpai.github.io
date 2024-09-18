@@ -298,7 +298,7 @@ This way, you’ll have a well-organized GitHub portfolio that others can benefi
 
 ## Question: What to do when I have made changes in code on the local and want to pull remote repo code
 
-You have two options: either **commit** the local changes or **stash** them for later retrieval. Here's how you can proceed:
+You have three options: either **commit** the local changes or **stash** them for later retrieval or discard. Here's how you can proceed:
 
 ### Option 1: **Commit Your Changes**
 If you want to keep your local changes, commit them before running `git pull`:
