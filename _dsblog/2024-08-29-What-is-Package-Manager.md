@@ -22,7 +22,7 @@ comments: true
 keywords: [What is a package manager, package manager overview, software package management, package managers explained, Linux package manager, programming package manager, system package management, dependency management tools, popular package managers, installing software on Linux, package management guide, package manager examples, software installation tools]
 ---
 
-![Tensorflow GPU Setup on Local Machine](/assets/images/dspost/dsp6141-What-is-Package-Manager.jpg)
+![What-is-Package-Manager](/assets/images/dspost/dsp6141-What-is-Package-Manager.jpg)
 
 ## What is Package Manager?
 Package managers help simplify the process of software installation, updating, and dependency management on their respective platforms. 
