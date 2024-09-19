@@ -75,6 +75,7 @@
     {% assign skipNoIDs = include.skip_no_ids | default: include.skipNoIDs | default: false %}
     {% assign minHeader = include.h_min | default: 1 %}
     {% assign maxHeader = include.h_max | default: 6 %}
+    {% assign tocLevels = page.toc_levels | default: 'all' %}  <!-- Add this line to retrieve toc_levels -->
     {% assign nodes = include.html | strip | split: '<h' %}
 
     {% assign firstHeader = true %}
@@ -93,6 +94,11 @@
         {% if currLevel < minHeader or currLevel > maxHeader %}
             {% continue %}
         {% endif %}
+
+        {% if tocLevels != 'all' and currLevel > tocLevels %}
+        {% continue %}  <!-- Skip headings that exceed the specified toc_levels -->
+        {% endif %}
+
 
         {% assign _workspace = node | split: '</h' %}
 
