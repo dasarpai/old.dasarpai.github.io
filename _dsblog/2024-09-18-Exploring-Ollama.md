@@ -8,7 +8,7 @@ tags: [LLM, Ollama, Meta, Large Language Model]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6142-Exploring-Ollama.jpg
+    teaser: /assets/images/dspost/dsp6143-Exploring-Ollama.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
