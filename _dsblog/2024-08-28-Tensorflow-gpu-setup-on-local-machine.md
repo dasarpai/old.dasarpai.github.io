@@ -17,6 +17,7 @@ author_profile: true
 share: true   
 toc: true   
 toc_sticky: true 
+toc_levels: 2
 mathjax: "true"
 comments: true
 keywords: [TensorFlow GPU setup, install TensorFlow GPU, TensorFlow Windows installation, local machine deep learning, GPU acceleration TensorFlow, TensorFlow CUDA setup, deep learning with GPU, TensorFlow GPU configuration, machine learning setup, TensorFlow performance optimization, install CUDA for TensorFlow, cuDNN setup for TensorFlow]

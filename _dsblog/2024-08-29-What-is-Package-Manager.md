@@ -17,6 +17,7 @@ author_profile: true
 share: true   
 toc: true   
 toc_sticky: true 
+toc_levels: 2
 mathjax: "true"
 comments: true
 keywords: [What is a package manager, package manager overview, software package management, package managers explained, Linux package manager, programming package manager, system package management, dependency management tools, popular package managers, installing software on Linux, package management guide, package manager examples, software installation tools]

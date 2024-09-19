@@ -17,7 +17,7 @@ author_profile: true
 share: true   
 toc: true   
 toc_sticky: true 
-toc_levels: "1"
+toc_levels: 2
 mathjax: "true"
 comments: true
 keywords: []

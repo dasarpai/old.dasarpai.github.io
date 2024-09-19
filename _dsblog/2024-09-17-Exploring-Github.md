@@ -16,6 +16,7 @@ excerpt:
 author_profile: true   
 share: true   
 toc: true   
+toc_levels: 2
 toc_sticky: true 
 mathjax: "true"
 comments: true
