@@ -35,7 +35,7 @@ The `C:\Users` folder on a Windows machine contains subfolders for each user pro
 - **Location**: `C:\Users\Default`
 
 ### 2. hari
-- **Purpose**: This folder is the user profile for the account named `hari_`. It contains personal files, configuration settings, and application data specific to this user.
+- **Purpose**: This folder is the user profile for the account named `hari`. It contains personal files, configuration settings, and application data specific to this user.
 - **Contents**: It includes folders such as `Documents`, `Downloads`, `Pictures`, `AppData`, and others that store the user's personal files and preferences.
 - **Location**: `C:\Users\hari`
 
@@ -51,9 +51,9 @@ The `C:\Users` folder on a Windows machine contains subfolders for each user pro
 
 These user profiles help manage and organize user-specific data and settings, ensuring that each user has a personalized experience while using the computer.
 
-## Public folder is confusing. If there is another user on this machine say "ravi" then it will have its own folder like  "hari_" then what is the user of public?
+## Public folder is confusing. If there is another user on this machine say "ravi" then it will have its own folder like  "hari" has. In that case what is the use of public folder?
 
-The `Public` folder serves a specific purpose: it provides a common area for sharing files and folders among all users on the same computer. Here's why it's useful:
+The `Public` folder is not 'Public' user, like 'hari' folder is for 'hari' user. It serves a specific purpose: it provides a common area for sharing files and folders among all users on the same computer. Here's why it's useful:
 
 ### Purpose of the Public Folder
 
@@ -63,7 +63,7 @@ The `Public` folder serves a specific purpose: it provides a common area for sha
 
 2. **Collaboration**:
     - When multiple users need to work on the same files or share resources, the `Public` folder provides a convenient location.
-    - For example, if `hari` wants to share a document with `ravi`, `hari` can place the document in the `Public` folder. `ravi` can then access it from their own user profile.
+    - For example, if `hari` wants to share a document with `ravi`, `hari` can place the document in the `Public` folder. `ravi` can then access it from his own user profile on this machine.
 
 3. **Accessibility**:
     - Files in the `Public` folder are not tied to any specific user, so they remain accessible even if the user who placed them there is logged out or has been deleted.
@@ -105,13 +105,13 @@ The `Public` folder is useful for:
 - **Collaboration**: Facilitates collaborative work by providing a common space for shared resources.
 - **Ease of Access**: Ensures that shared files are easily accessible to all users, regardless of individual user permissions or profiles.
 
-## Under user\harip_ folder there is appdata  folder it has 3 folders local, locallow, roaming. what is the purpose of these?
+## Under user\hari folder there is Appdata  folder it has 3 folders local, locallow, roaming. what is the purpose of these?
 
 The `AppData` folder is a hidden system folder in Windows that stores application-specific data and settings. It contains three subfolders: `Local`, `LocalLow`, and `Roaming`. Each of these serves different purposes in terms of data storage and usage. Here's a detailed explanation of each:
 
 ### 1. Local
 
-**Path**: `C:\Users\harip_\AppData\Local`
+**Path**: `C:\Users\hari\AppData\Local`
 
 **Purpose**:
 - The `Local` folder is used to store data that is specific to the user's computer. This data is not synchronized with other computers if the user logs in from a different machine.

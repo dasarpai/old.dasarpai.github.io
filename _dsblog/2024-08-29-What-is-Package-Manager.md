@@ -24,7 +24,8 @@ keywords: [What is a package manager, package manager overview, software package
 
 ![What-is-Package-Manager](/assets/images/dspost/dsp6141-What-is-Package-Manager.jpg)
 
-## What is Package Manager?
+# What is Package Manager?
+
 Package managers help simplify the process of software installation, updating, and dependency management on their respective platforms. 
 
 ## System Package Managers:

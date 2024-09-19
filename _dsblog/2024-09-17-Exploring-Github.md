@@ -24,6 +24,7 @@ keywords: [What is a Github, What are Github Actions, What is Github Package, Wh
 
 ![Exploring Github](/assets/images/dspost/dsp6142-Exploring-Github.jpg)
 
+# Exploring Github
 
 ## Question: What is github package and what can I do with this?
 GitHub Packages is a service that allows you to host and manage packages (e.g., code libraries, Docker containers) within GitHub. Here's a breakdown of what you can do or achieve with GitHub Packages:
