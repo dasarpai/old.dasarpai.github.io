@@ -20,7 +20,7 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: []
+keywords: [Ollama AI, On-device AI, Local LLM frameworks, AI model management, LangChain integration]
 ---
 
 ![Exploring Ollama & LM Studio](/assets/images/dspost/dsp6143-Exploring-Ollama.jpg)
