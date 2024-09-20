@@ -423,4 +423,50 @@ GitHub also supports Subversion, and with it, you can check out a specific folde
 
 This method checks out only the desired folder, but it won’t provide the full Git history.
 
+## Question: How to keep big size files in github?
+
+To ensure GitHub Desktop saves large files into Git LFS, follow these steps:
+
+1. git lfs install 
+
+2. **Track specific file types with Git LFS:**
+   You need to tell Git LFS which file types or specific files to track. Run this command in your repository directory (where your `.git` folder is located) in a terminal:
+
+   ```bash
+   git lfs track "*.extension"
+   ```
+
+   Replace `*.extension` with the type of file you want to track, such as `*.png`, `*.jpg`, or any other large file format.
+
+   Example:
+   ```bash
+   git lfs track "*.png"
+   ```
+
+3. **Commit the `.gitattributes` file:**
+   When you run `git lfs track`, it updates a file called `.gitattributes` with the file types being tracked. You need to commit this file to your repository so that others (and GitHub) know to use LFS for these file types.
+
+   Use GitHub Desktop or the terminal to commit:
+   ```bash
+   git add .gitattributes
+   git commit -m "Add .gitattributes for LFS tracking"
+   ```
+
+4. **Push your changes to GitHub:**
+   Once your files are tracked and committed, push your changes to the repository using GitHub Desktop or the command line:
+
+   ```bash
+   git push origin main
+   ```
+
+5. **Verify large files are being tracked:**
+   You can verify that large files are being handled by Git LFS with the following command:
+
+   ```bash
+   git lfs ls-files
+   ```
+
+   This will list the files currently being tracked by LFS.
+
+By following these steps, GitHub Desktop will automatically use Git LFS for the file types you specified, preventing errors when pushing large files.
 
