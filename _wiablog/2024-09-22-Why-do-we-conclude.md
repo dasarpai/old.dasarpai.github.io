@@ -120,10 +120,11 @@ Because if these samples were true,
 they would hold true regardless of time, space, and circumstance.   
 But that doesn't happen.   
    
-Sometimes, it seems that drawing conclusions in life is like seeking death,   
-because there is nothing left to seek.   
-I am in rush and I want to know the truth,   
-By hook or crook tell me the truth quickly,   
+Sometimes, it seems that drawing conclusions in life   
+is like seeking death,   
+because there is nothing left to seek after death.   
+When I am in rush and I want to know the truth,   
+By hook or crook I want to know the truth quickly,   
 So that I can move to another topic,   
 Or know the truth before I leave my body.   
    
@@ -132,8 +133,8 @@ the human mind remains puzzled and confused,
 And we cannot live in that state for long.   
 So we rush to conclusions.   
 But if you conclude everything in the life    
-then what is there to know in your life    
-and what the purpose of life?   
+then what is there to know in your life?    
+and what is the purpose of life?   
    
 Without conclusion we cannot live in darkness longer   
 With all conclusion life looks meaningless.   
