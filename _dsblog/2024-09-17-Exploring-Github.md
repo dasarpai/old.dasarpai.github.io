@@ -470,3 +470,91 @@ To ensure GitHub Desktop saves large files into Git LFS, follow these steps:
 
 By following these steps, GitHub Desktop will automatically use Git LFS for the file types you specified, preventing errors when pushing large files.
 
+## My github repo size is very large I am not able push, what to do?
+
+### 1. **Increase Git Buffer Size**
+Increase the buffer size to handle large pushes better. If you haven’t already tried this, increase it to 1 GB or more:
+```bash
+git config --global http.postBuffer 1048576000
+# 1048576000 is 1 GB, by default it is 1048576 is 1MB
+```
+Then, try pushing again.
+
+### 2. **Use Git LFS for Large Files**
+If the repository contains large binary files (e.g., videos, images), Git LFS (Large File Storage) is the recommended approach. Follow these steps:
+1. Install Git LFS:
+   ```bash
+   git lfs install
+   ```
+2. Track large files:
+   ```bash
+   git lfs track "*.zip"
+   git lfs track "*.mp4"
+   ```
+3. Add and commit your changes again:
+   ```bash
+   git add .gitattributes
+   git commit -m "Use Git LFS for large files"
+   git push
+   ```
+
+### 3. **Push in Smaller Batches**
+Try pushing smaller chunks of the repository to reduce the load on the remote server:
+1. Use the `--recurse-submodules=on-demand` flag to push smaller parts:
+   ```bash
+   git push --recurse-submodules=on-demand
+   ```
+2. Or, manually push small parts of the repo by adding and committing only a few files at a time.
+
+### 4. **Switch to SSH**
+Sometimes, large pushes over HTTPS can cause issues. Switch to SSH, which is often more reliable for large operations.
+1. Set up SSH keys for GitHub.
+2. Change your remote URL to SSH:
+   ```bash
+   git remote set-url origin git@github.com:your-username/Management-PMIPrep.git
+   ```
+3. Push again:
+   ```bash
+   git push -u origin master
+   ```
+
+### 5. **Check File Size Limits**
+GitHub has a 100 MB size limit per file and a 2 GB limit for total repository size. Ensure no single file exceeds the limit:
+```bash
+git ls-files -s | sort -n -k 4
+```
+
+### 6. **Reduce History Depth (Shallow Push)**
+If your repository has a deep history, try pushing only the most recent commits using a shallow push:
+```bash
+git push --depth=1 origin master
+```
+
+By reducing the commit history, the push becomes smaller and is more likely to succeed.
+
+### 7. **Retry Push After Reducing History**
+You can also try to reduce the number of commits in your local repository (if appropriate):
+```bash
+git rebase -i HEAD~<number-of-commits>
+```
+This step removes unnecessary commits, making the push smaller.
+
+Try these workarounds and let me know how it goes!
+
+## What is the advantage of lower buffer size?
+A lower buffer size (like the default 1 MB in Git) offers several advantages:
+
+### 1. **Reduced Memory Usage**
+- A smaller buffer size consumes less memory, which can be important for systems with limited resources. It avoids overloading the system's memory, especially when many simultaneous Git operations are occurring.
+
+### 2. **More Responsive for Small Pushes**
+- For small repositories or pushes, a smaller buffer makes the Git operation more efficient by avoiding unnecessary allocation of large memory blocks. The process completes faster for smaller changes.
+
+### 3. **Better Network Stability on Slow/Unstable Connections**
+- A smaller buffer size sends smaller chunks of data over the network. On slower or unstable internet connections, this can be advantageous because it reduces the likelihood of timeouts or failed transfers due to large packets being dropped.
+
+### 4. **Less Risk of Timeouts for Small Data**
+- Small pushes using a large buffer might result in excessive delay or unnecessary resource use, especially if there's minimal data to be sent. A lower buffer size ensures timely communication, especially for smaller operations.
+
+In short, lower buffer sizes are beneficial for memory-efficient operations, handling smaller data loads, and operating over unreliable or slow connections. However, for large pushes, increasing the buffer size can help avoid errors like the one you're encountering.
+
