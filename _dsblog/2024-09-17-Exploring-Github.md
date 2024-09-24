@@ -526,13 +526,36 @@ Sometimes, large pushes over HTTPS can cause issues. Switch to SSH, which is oft
 git push https://<your-token>@github.com/your-username/Management-PM-Courses.git
 ```
 
-### 6. **Check File Size Limits**
+### 6. **Use SSH**
+If it's a network issue (slow or interrupted connection), try pushing again or check your internet connection. You can also use a different protocol like SSH:
+
+```
+## Generating SSH 
+### Check existing SSH key
+
+Git Bash
+ls -al ~/.ssh
+
+
+### Question: How to generate SSH Key
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
+### Created key is available in 
+ls C:\Users\hari_/.ssh/
+
+Output: id_rsa  id_rsa.pub  known_hosts
+
+git remote set-url origin git@github.com:dasarpai/Management-PMIPrep.git   
+git push -u origin master
+```
+
+### 7. **Check File Size Limits**
 GitHub has a 100 MB size limit per file and a 2 GB limit for total repository size. Ensure no single file exceeds the limit:
 ```bash
 git ls-files -s | sort -n -k 4
 ```
 
-### 7. **Retry Push After Reducing History**
+### 8. **Retry Push After Reducing History**
 You can also try to reduce the number of commits in your local repository (if appropriate):
 ```bash
 git rebase -i HEAD~<number-of-commits>
