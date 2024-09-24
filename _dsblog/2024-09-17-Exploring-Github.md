@@ -470,7 +470,7 @@ To ensure GitHub Desktop saves large files into Git LFS, follow these steps:
 
 By following these steps, GitHub Desktop will automatically use Git LFS for the file types you specified, preventing errors when pushing large files.
 
-## My github repo size is very large I am not able push, what to do?
+## Question: My github repo size is very large I am not able push, it is failing. What to do?
 
 ### 1. **Increase Git Buffer Size**
 Increase the buffer size to handle large pushes better. If you haven’t already tried this, increase it to 1 GB or more:
@@ -509,6 +509,7 @@ Try pushing smaller chunks of the repository to reduce the load on the remote se
 ### 4. **Switch to SSH**
 Sometimes, large pushes over HTTPS can cause issues. Switch to SSH, which is often more reliable for large operations.
 1. Set up SSH keys for GitHub.
+
 2. Change your remote URL to SSH:
    ```bash
    git remote set-url origin git@github.com:your-username/Management-PMIPrep.git
@@ -517,20 +518,19 @@ Sometimes, large pushes over HTTPS can cause issues. Switch to SSH, which is oft
    ```bash
    git push -u origin master
    ```
+### 5. **Use Personal Access Token (PAT)**
+1. Generate PAT : https://github.com/settings/tokens
+2. Use the token instead of your password during the git push command
 
-### 5. **Check File Size Limits**
+```
+git push https://<your-token>@github.com/your-username/Management-PM-Courses.git
+```
+
+### 6. **Check File Size Limits**
 GitHub has a 100 MB size limit per file and a 2 GB limit for total repository size. Ensure no single file exceeds the limit:
 ```bash
 git ls-files -s | sort -n -k 4
 ```
-
-### 6. **Reduce History Depth (Shallow Push)**
-If your repository has a deep history, try pushing only the most recent commits using a shallow push:
-```bash
-git push --depth=1 origin master
-```
-
-By reducing the commit history, the push becomes smaller and is more likely to succeed.
 
 ### 7. **Retry Push After Reducing History**
 You can also try to reduce the number of commits in your local repository (if appropriate):
@@ -541,7 +541,7 @@ This step removes unnecessary commits, making the push smaller.
 
 Try these workarounds and let me know how it goes!
 
-## What is the advantage of lower buffer size?
+## Question: What is the advantage of lower buffer size?
 A lower buffer size (like the default 1 MB in Git) offers several advantages:
 
 ### 1. **Reduced Memory Usage**
@@ -557,4 +557,28 @@ A lower buffer size (like the default 1 MB in Git) offers several advantages:
 - Small pushes using a large buffer might result in excessive delay or unnecessary resource use, especially if there's minimal data to be sent. A lower buffer size ensures timely communication, especially for smaller operations.
 
 In short, lower buffer sizes are beneficial for memory-efficient operations, handling smaller data loads, and operating over unreliable or slow connections. However, for large pushes, increasing the buffer size can help avoid errors like the one you're encountering.
+
+## Question: How to add SSH Key to github?
+Using the SSH protocol, you can connect and authenticate to remote servers and services. With SSH keys, you can connect to GitHub without supplying your username and personal access token at each visit. You can also use an SSH key to sign commits.
+
+### Check existing SSH key
+```
+Git Bash
+ls -al ~/.ssh
+```
+
+### How to generate SSH Key
+```
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
+Created key is available in 
+C:\Users\hari_/.ssh/
+id_rsa  id_rsa.pub  known_hosts
+
+```
+### How to add SSH key in github
+https://github.com/settings/profile   
+https://github.com/settings/keys   
+
+
 
