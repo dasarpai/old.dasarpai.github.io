@@ -14,16 +14,7 @@ layout: wiapost-layout
 excerpt:        
 author_profile: true        
 share: true
-keywords: [Truth-seeking,
-Philosophical reflection,
-Human understanding,
-Logic and reasoning,
-Pursuit of knowledge,
-Karma and Prarabdha,
-Life conclusions,
-Human nature,
-Knowledge and wisdom,
-Self-awareness]        
+keywords: ["Dreams vs Reality", "Illusion of life", "Awakening from ignorance", "Self-realization philosophy", "Renouncing worldly attachments", "Philosophy of suffering and joy", "Spiritual awakening", "Meaning of dreams", "Consciousness and awareness", "Life as a dream metaphor"]        
 --- 
 
 ![What is the Cause of Renunciation?](/assets/images/wiapost/5263-What-is-the-Cause-of-Renunciation.jpg)
