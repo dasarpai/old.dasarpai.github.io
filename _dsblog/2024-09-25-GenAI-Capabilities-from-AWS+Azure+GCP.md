@@ -2,7 +2,7 @@
 mathjax: true
 id: 6144
 title: GenAI Capabilities from AWS, Azure and GCP
-date: 2024-08-27
+date: 2024-09-25
 permalink: /dsblog/GenAI-Capabilities-from-AWS+GCP+Azure
 tags: [GenAI, Large Language Model]
 categories:

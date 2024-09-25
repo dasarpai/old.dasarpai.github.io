@@ -2,7 +2,7 @@
 mathjax: true
 id: 6119
 title: Decoding Windows User Folder
-date: 2024-07-27
+date: 2024-06-30
 permalink: /dsblog/Decoding-Windows-User-Folder
 tags: []
 categories:

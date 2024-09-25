@@ -2,7 +2,7 @@
 mathjax: true
 id: 6143
 title: Exploring Ollama & LM Studio
-date: 2024-08-27
+date: 2024-09-18
 permalink: /dsblog/Exploring-Ollama
 tags: [LLM, Ollama, Meta, Large Language Model]
 categories:

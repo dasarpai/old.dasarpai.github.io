@@ -2,7 +2,7 @@
 mathjax: true
 id: 6142
 title: Exploring Github
-date: 2024-08-27
+date: 2024-09-17
 permalink: /dsblog/Exploring-Github
 tags: [Package Management, Software Installation, Linux Software Installation, Github]
 categories:

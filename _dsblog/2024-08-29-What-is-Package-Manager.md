@@ -2,7 +2,7 @@
 mathjax: true
 id: 6141
 title: "What is Package Manager?"
-date: 2024-08-27
+date: 2024-08-29
 permalink: /dsblog/What-is-Package-Manager
 tags: [Package Management, Software Installation, Linux Software Installation]
 categories:

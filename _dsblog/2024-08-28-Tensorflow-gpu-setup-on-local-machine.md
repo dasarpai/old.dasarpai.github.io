@@ -2,7 +2,7 @@
 mathjax: true
 id: 6140
 title: Tensorflow GPU Setup on Local Machine
-date: 2024-08-27
+date: 2024-08-28
 permalink: /dsblog/Tensorflow-gpu-setup-on-local-machine
 tags: [Tensorflow Installation, Deep Learning, GPU, Docker]
 categories:

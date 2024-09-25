@@ -2,7 +2,7 @@
 mathjax: true
 id: 6124
 title: AI in Health Care
-date: 2024-07-27
+date: 2024-07-22
 permalink: /dsblog/AI-in-Health-Care
 tags: []
 categories:

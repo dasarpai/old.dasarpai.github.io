@@ -2,7 +2,7 @@
 mathjax: true
 id: 6134
 title: Open Source vs Closed Source AI
-date: 2024-07-27
+date: 2024-08-06
 permalink: /dsblog/Open-Source-vs-Closed-Source-AI
 tags: []
 categories:

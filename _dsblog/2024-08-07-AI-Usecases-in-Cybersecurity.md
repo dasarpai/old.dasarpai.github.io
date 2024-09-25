@@ -2,7 +2,7 @@
 mathjax: true
 id: 6135
 title: AI Usecases in Cybersecurity
-date: 2024-08-06
+date: 2024-08-07
 permalink: /dsblog/AI-Usecases-in-Cybersecurity
 tags: []
 categories:

@@ -2,7 +2,7 @@
 mathjax: true
 id: 6125
 title: Serverless databases
-date: 2024-07-27
+date: 2024-07-23
 permalink: /dsblog/Serverless-databases
 tags: []
 categories:

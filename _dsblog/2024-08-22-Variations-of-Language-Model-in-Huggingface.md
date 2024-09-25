@@ -2,7 +2,7 @@
 mathjax: true
 id: 6138
 title: Variations of Language Model in Huggingface
-date: 2024-07-27
+date: 2024-08-22
 permalink: /dsblog/Variations-of-Language-Model-in-Huggingface
 tags: []
 categories:

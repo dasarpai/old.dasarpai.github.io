@@ -2,7 +2,7 @@
 mathjax: true
 id: 6127
 title: Understanding LLM GAN and Transformers
-date: 2024-07-27
+date: 2024-07-26
 permalink: /dsblog/Understanding-LLM-GAN-and-Transformers
 tags: []
 categories:

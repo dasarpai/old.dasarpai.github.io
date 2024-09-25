@@ -2,7 +2,7 @@
 mathjax: true
 id: 6130
 title: LLM Skills and Human Skills
-date: 2024-07-27
+date: 2024-08-04
 permalink: /dsblog/LLM-Skills-and-Human-Skills
 tags: []
 categories:

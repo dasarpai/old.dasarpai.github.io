@@ -2,7 +2,7 @@
 mathjax: true
 id: 6137
 title: MLOps Tools
-date: 2024-07-27
+date: 2024-08-13
 permalink: /dsblog/MLOps-Tools
 tags: []
 categories:
