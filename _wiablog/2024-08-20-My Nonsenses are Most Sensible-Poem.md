@@ -1,7 +1,7 @@
 ---        
 id: 5258        
 mathjax: true        
-title:  My Nonsenses are Most Sensible - Poem        
+title:  "My Nonsenses are Most Sensible - Poem"        
 date: "2024-08-20T08:33:00+05:30"        
 permalink: /wiaposts/my-nonsenses-are-most-sensible-poem   
 tags:  [My Views, Life, Philosophy]         

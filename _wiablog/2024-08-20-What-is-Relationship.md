@@ -1,7 +1,7 @@
 ---        
 id: 5261        
 mathjax: true        
-title:  What is Relationship        
+title:  "What is Relationship?"        
 date: "2024-08-20T08:33:00+05:30"        
 permalink: /wiaposts/what-is-relationship  
 tags:  [My Views, Life, Philosophy]         
@@ -18,7 +18,7 @@ share: true
 
 ![What is Relationships](/assets/images/wiapost/5260-what-is-relationship.jpg)
 
-# What is Relationships
+# What is Relationships?
 
 
 When I was in school, one of my friends had a father who was a very wealthy business tycoon. After my friend turned 18, his father took him to a bank and asked the bank officers to open an account for him.
