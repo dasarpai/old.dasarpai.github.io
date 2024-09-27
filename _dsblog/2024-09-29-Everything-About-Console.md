@@ -1,5 +1,30 @@
+---
+mathjax: true
+id: 6147
+title: "Everything About Developer Console"
+date: 2024-09-28
+permalink: /dsblog/Everything-About-Developer-Console
+tags: [GCP, Machine Learning, IT Infrastructure, IT Security]
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/dsp6148-Everything-About-Developer-Console.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+toc_levels: 2
+mathjax: "true"
+comments: true
+keywords: ["Console programming", "Command-line interface", "Developer console", "Terminal vs. command prompt", "Remote console access", "IDE console", "Database console", "Embedded systems console", "Cloud console", "Debugging console", "Server console"]
+---
 
-# Everything About Console
+![Everything About Developer Console](/assets/images/dspost/dsp6148-Everything-About-Developer-Console.jpg)
+# Console Types Every Programmer Should Know
 
 ## Is this article for me?
 If you are you confused about a term "console" which you heard at many places and in many context, and you want to know the following answers, then continue reading.
@@ -69,3 +94,15 @@ In computer programming, a **console** is an interface that allows interaction b
 - **Bash**: Bourne Again Shell, popular in Unix-like systems.
 - **Developer Tools Console**: Found in web browsers for frontend developers.
 - **MySQL Console**: For querying and managing MySQL databases.
+
+
+## Hashtags
+#Programming
+#DeveloperTools
+#CommandLine
+#ConsoleInterface
+#SoftwareDevelopment
+#Coding
+#CLITools
+#DevOps
+#CloudComputing

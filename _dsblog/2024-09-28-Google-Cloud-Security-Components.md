@@ -2,7 +2,7 @@
 mathjax: true
 id: 6147
 title: "Navigating Google Cloud Security: Key Components, Roles, and Best Practices"
-date: 2024-09-27
+date: 2024-09-28
 permalink: /dsblog/Google-Cloud-Security-Components
 tags: [GCP, Machine Learning, IT Infrastructure, IT Security]
 categories:
@@ -31,8 +31,8 @@ keywords: ["GCP security best practices", "Google Cloud security architecture", 
 If you are looking answers of these questions then continue reading.
 
 - What are various components of GCP security architecture?
-- What is overall hierarchy of GCP Security architecture?
-- What are Principal, Roles and Politics in GCP and how are they interconnected?
+- What is overall hierarchy of GCP Security Components?
+- What are Principal, Permission, Roles and Policies in GCP and how are they interconnected?
 - Can you give examples of Permissions in GCP Security architecture?
 - What are different types of resources available on GCP?
 - Can you help me visualizing organization, folders and project of GCP?
@@ -41,7 +41,7 @@ If you are looking answers of these questions then continue reading.
 Google Cloud Platform (GCP) has a complex security architecture that consists of various components. Here’s a list of key components and their hierarchy in GCP's security model:
 
 ### 1. **Identity and Access Management (IAM)**
-   - **User**: An individual or service account that accesses [GCP resources](#what-are-different-types-of-resources-available-on-gcp).
+   - **User**: An individual or service account that accesses [GCP resources](#question-what-are-different-types-of-resources-available-on-gcp).
    - **Service Account**: A special type of account that belongs to your application or a virtual machine (VM), rather than to an individual user.
    - **Role**: Defines a set of permissions. Roles can be:
      - **Primitive Roles**: Basic roles (Owner, Editor, Viewer) applied at the project level.
@@ -73,7 +73,7 @@ Google Cloud Platform (GCP) has a complex security architecture that consists of
    - **Access Context Manager**: Provides context-aware access controls based on user attributes and environment.
    - **Organization Policies**: Allows you to set restrictions on how resources can be used within your organization.
 
-## Question: What is overall hierarchy of GCP Security architecture?
+## Question: What is overall hierarchy of GCP Security Components?
 1. **Organization**
    - Can contain multiple **Folders**
    - Each **Folder** can contain multiple **Projects**
@@ -83,7 +83,7 @@ Google Cloud Platform (GCP) has a complex security architecture that consists of
 3. **Roles and Policies**
    - Roles define what users can do within a project, and policies govern the bindings of roles to users or service accounts.
 
-## Question: What are Principal, Roles and Politics in GCP and how are they interconnected?
+## Question: What are Principal, Permission, Roles and Policies in GCP and how are they interconnected?
 
 In Google Cloud's security architecture, "principals," "policies," and "roles" play key roles in the Identity and Access Management (IAM) system. Here's how they fit in:
 
