@@ -1,7 +1,7 @@
 ---        
 id: 5264        
 mathjax: true        
-title:  "Why there is conflict in the Society?"        
+title:  "Why is there conflict in the Society?"        
 date: "2024-09-26T08:33:00+05:30"        
 permalink: /wiaposts/Why-there-is-Conflict-in-society
 tags:  [My Views, Life, Philosophy, Conflicts]         
@@ -17,9 +17,9 @@ share: true
 keywords: ["societal conflict", "causes of conflict", "leadership and conflict", "internal vs external conflict", "human behavior and conflict", "conflict resolution", "peace and conflict studies"]        
 --- 
 
-![Why there is conflict in the Society?](/assets/images/wiapost/5264-Why-there-is-Conflict-in-society.jpg)
+![Why is there conflict in the Society?](/assets/images/wiapost/5264-Why-there-is-Conflict-in-society.jpg)
 
-# Why there is conflict in the Society?
+# Why is there conflict in the Society?
 
 There is conflict between societies.  
 There is conflict within society.  
