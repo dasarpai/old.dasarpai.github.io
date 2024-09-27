@@ -1,6 +1,6 @@
 ---
 mathjax: true
-id: 6148
+id: 6149
 title: "Python Code Snippnet from Colab"
 date: 2024-09-30
 permalink: /dsblog/Python-Code-Snippnet-from-Colab
@@ -8,7 +8,7 @@ tags: [GCP, Machine Learning, IT Infrastructure, IT Security]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/dsp6148-Python-Code-Snippnet-from-Colab.jpg
+    teaser: /assets/images/dspost/dsp6149-Python-Code-Snippnet-from-Colab.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
@@ -23,7 +23,7 @@ comments: true
 keywords: ["Console programming", "Command-line interface", "Developer console", "Terminal vs. command prompt", "Remote console access", "IDE console", "Database console", "Embedded systems console", "Cloud console", "Debugging console", "Server console"]
 ---
 
-![Python Code Snippnet from Colab](/assets/images/dspost/dsp6148-Python-Code-Snippnet-from-Colab.jpg)
+![Python Code Snippnet from Colab](/assets/images/dspost/dsp6149-Python-Code-Snippnet-from-Colab.jpg)
 
 # Python Code Snippnet from Colab
 
@@ -161,7 +161,33 @@ This keeps growing.
 1. Visualization: Stacked Histogram in Altair
 1. Visualization: Time Series Line Plot in Altair
 
-A Newest snippet added in Sep'2024   
+
+## Difference between Framework, Package, Library, Module
+Here’s a detailed comparison table of **module**, **library**, **package**, and **framework** based on different variables:
+
+| **Variable**                | **Module**                                                              | **Library**                                                           | **Package**                                                           | **Framework**                                                      |
+|-----------------------------|-------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------|
+| **Made of**                  | A single file containing **functions** and **classes**.                 | Multiple **files** with functions and classes; serves a specific purpose. | Multiple **libraries** and/or **modules** grouped together.          | A collection of **packages**, **libraries**, and **modules** organized for building applications. |
+| **Purpose**                  | Used for small, specific functionality.                                 | Provides specific functionalities to be used **when needed**.          | Organizes related functionality and can be reused across projects.    | Provides a full **structure** for building applications with rules and guidelines.                  |
+| **Installation**             | Typically just **copied** or included in the same project.              | Installed using package managers like **pip** or **npm**.              | Installed using package managers like **pip** or **npm**.             | Installed using package managers like **pip**, **npm**, or specialized tools.                      |
+| **Control**                  | The code **calls** the module whenever needed.                          | The user **calls** the library functions whenever necessary.           | The user **imports** and uses packages across multiple libraries.     | The framework controls the **flow** of the project; your code fits within the framework’s structure.|
+| **Structure**                | No predefined structure; just a file.                                   | No specific structure required; can be used anywhere in the project.   | May require a specific directory structure for **complex packages**.  | Requires a well-defined structure, often with prebuilt directories and files like `views`, `models`.|
+| **Dependency**               | May depend on other modules but generally **self-contained**.           | Can depend on other libraries; dependencies managed via **pip**.        | Can include multiple libraries and modules with **interdependencies**. | May have **many dependencies** and third-party packages included.                                   |
+| **Reusability**              | Reusable but mostly within the same project.                            | Highly reusable across multiple projects.                              | Reusable across multiple projects, typically contains more functionality than libraries.  | Framework code can be reused within projects but often requires adherence to framework-specific guidelines. |
+| **Flexibility**              | Extremely flexible and can be used anywhere.                            | Flexible, usable in any part of the project, without structural constraints. | Mostly flexible but organized, sometimes following naming conventions. | Less flexible, as the framework imposes a certain **structure and rules**.                           |
+| **Inversion of Control (IoC)**| No inversion of control. You are in full control of the flow.           | No inversion of control. You control the code flow.                    | You control the code flow, but packages can have entry points.        | The framework controls when and where your code is executed.                                        |
+| **Scale**                    | Small-scale, limited to specific functionality within a project.        | Medium-scale, provides specific functionality but doesn't organize a project. | Medium to large-scale, organizes functionalities and libraries.      | Large-scale, providing everything needed to organize and manage an entire project or application.   |
+| **Examples**                 | A single Python file defining utility functions.                        | `matplotlib`, `requests`, `NumPy`                                      | `scikit-learn`, `pandas`, `TensorFlow`                                | `Django`, `Flask`, `React`, `Angular`                                                                  |
+
+
+### Additional Notes:
+- **Modules**: Small and self-contained, often written directly as part of a project.
+- **Libraries**: More general-purpose and can be applied to a wide variety of projects without imposing structure.
+- **Packages**: More organized collections that can be shared across multiple projects, combining multiple related libraries.
+- **Frameworks**: Full application structures that provide a skeleton for the entire project and guide development.
+.
+
+## A Newest snippet added in Sep'2024   
 **Gemini: Creating a prompt.**    
 This rich example shows how you can create and configure complex prompts for Gemini.
 ```python
