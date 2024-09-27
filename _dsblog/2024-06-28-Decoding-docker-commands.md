@@ -25,8 +25,22 @@ comments: true
 
 # Decoding docker commands
 
+## Is this article for me?
+If you are coming from IT Infrastructure background and have solid experience in containerization you can skip this. But if you are seeking to learn any of the following topic then keep reading.   
+1. What is docker image, what is docker container, what is docker?
+1. How to create docker image and docker container?
+1. What is the use of docker compose?
+1. What is the meaning of code written inside Dockerfile?
+1. How to create a new python code and put inside the docker?
+1. How to ensure my docker uses my GPU?
+1. How to access my host machine's local drive within the docker?
+1. How to send data out from docker to local host machine's folder?
+1. How to execute command inside docker shell?
+1. How to install python packages inside docker?
+1. What are the common docker commands?
+
 ## Introduction: Why this article?
-Coming from a non-infrastructure background, I found working with Docker frustrating at first. The commands seemed cryptic, and complex environments often required downloading large images, creating custom ones, or modifying existing ones—only to face disappointing results. Investing so much time without clear success, or not knowing if Docker is the right solution from the start, can be disheartening. This article aims to demystify Docker, making it easier to understand and use effectively.
+Coming from a non-infrastructure background, I found working with Docker frustrating at first. The commands seemed cryptic, and complex environments often required downloading large images, creating custom ones, or modifying existing ones—only to face disappointing results. Investing so much time without clear success, or not knowing if Docker is the right solution from the start, can be disheartening. This article aims to demystify Docker, making it easier to understand and use effectively. After you learn the docker you will find that docker is the simplest thing in computer world to make development, testing and deployment more simple. Experts may be laughing at me. :)
 
 ## What is docker?
 Docker is a platform that allows developers to automate the deployment, scaling, and management of applications inside lightweight, portable containers. Containers bundle the application code along with its dependencies, libraries, and configurations, ensuring that the application runs consistently across different computing environments. Docker helps in isolating applications from their environments, making development, testing, and deployment more efficient. It uses a client-server architecture, where the Docker client communicates with the Docker daemon, which performs the heavy lifting of building, running, and distributing containers.
@@ -540,7 +554,7 @@ By doing so you need not to depend upon google's ephimeral machine with limited 
 docker run --gpus all -it --rm -p 8082:8081 -v "$PWD":/opt/colab -v $HOME/.cache/torch:/root/.cache/torch sorokine/docker-colab-local:10.1
 
 
-## what is the difference between "docker build" and "docker-compose" commands?
+## Question: What is the difference between "docker build" and "docker-compose" commands?
 The `docker build` and `docker-compose` commands are both used in the Docker ecosystem but serve different purposes and are used in different contexts. Here's a breakdown of their differences and uses:
 
 ### `docker build`
@@ -796,4 +810,80 @@ If you decide to use an existing image, here’s a general guide:
 docker exec -it container-id-or-name /bin/bash
 
 
+## What are available commands in Docker?
+
+### Common Commands:
+```
+  run         Create and run a new container from an image
+  exec        Execute a command in a running container
+  ps          List containers
+  build       Build an image from a Dockerfile
+  pull        Download an image from a registry
+  push        Upload an image to a registry
+  images      List images
+  login       Log in to a registry
+  logout      Log out from a registry
+  search      Search Docker Hub for images
+  version     Show the Docker version information
+  info        Display system-wide information
+```
+
+### Management Commands:
+```
+  builder     Manage builds
+  buildx*     Docker Buildx
+  compose*    Docker Compose
+  container   Manage containers
+  context     Manage contexts
+  debug*      Get a shell into any image or container
+  dev*        Docker Dev Environments
+  extension*  Manages Docker extensions
+  feedback*   Provide feedback, right in your terminal!
+  image       Manage images
+  init*       Creates Docker-related starter files for your project
+  manifest    Manage Docker image manifests and manifest lists
+  network     Manage networks
+  plugin      Manage plugins
+  sbom*       View the packaged-based Software Bill Of Materials (SBOM) for an image
+  scout*      Docker Scout
+  system      Manage Docker
+  trust       Manage trust on Docker images
+  volume      Manage volumes
+```
+### Swarm Commands:
+```
+  swarm       Manage Swarm
+```
+
+### Commands:
+```
+  attach      Attach local standard input, output, and error streams to a running container
+  commit      Create a new image from a container's changes
+  cp          Copy files/folders between a container and the local filesystem
+  create      Create a new container
+  diff        Inspect changes to files or directories on a container's filesystem
+  events      Get real time events from the server
+  export      Export a container's filesystem as a tar archive
+  history     Show the history of an image
+  import      Import the contents from a tarball to create a filesystem image
+  inspect     Return low-level information on Docker objects
+  kill        Kill one or more running containers
+  load        Load an image from a tar archive or STDIN
+  logs        Fetch the logs of a container
+  pause       Pause all processes within one or more containers
+  port        List port mappings or a specific mapping for the container
+  rename      Rename a container
+  restart     Restart one or more containers
+  rm          Remove one or more containers
+  rmi         Remove one or more images
+  save        Save one or more images to a tar archive (streamed to STDOUT by default)
+  start       Start one or more stopped containers
+  stats       Display a live stream of container(s) resource usage statistics
+  stop        Stop one or more running containers
+  tag         Create a tag TARGET_IMAGE that refers to SOURCE_IMAGE
+  top         Display the running processes of a container
+  unpause     Unpause all processes within one or more containers
+  update      Update configuration of one or more containers
+  wait        Block until one or more containers stop, then print their exit codes
+```
 
