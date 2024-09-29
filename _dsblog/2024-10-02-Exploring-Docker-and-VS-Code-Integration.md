@@ -33,9 +33,9 @@ keywords: ["VS Code Remote Containers setup", "Local VS Code vs Remote Container
 If you are interested in docker, containers, VS Code and development and looking answers for the following questions then keep reading.
 - Question: What is use of target in docker container's volume?
 - Question: If I remove the contents of /vscode folder then what will happen?
-- Question: When I have VS Code installed on my machine then why I need VS Code Remote - Containers?
-- Question: Can I use VS Code Remote - Containers with local VS Code?
-- Question: Can I use VS Code Remote - Containers without local VS Code?
+- Question: When I have VS Code installed on my machine then why I need "VS Code Remote - Containers"?
+- Question: Can I use "VS Code Remote - Containers" with local VS Code?
+- Question: Can I use "VS Code Remote - Containers" without local VS Code?
 - Question: What are formatters, linters, debuggers, profiler etc other related terms?
 - Question: I have datasets on my local drive d:/project-datasets. How to access them from docker?
 
@@ -83,10 +83,6 @@ This output provides details about a Docker container's configuration and volume
 5. **`/tmp/vscode-wayland-95f9fcad-6416-4d07-b97f-5a14dcefde96.sock`**:
    - This appears to be a socket file used for communication between processes within the container, likely related to Wayland (a display server protocol) or VS Code's remote server functionality.
 
-### Conclusion:
-- This setup is likely a **development environment** for working on Kubernetes and AI projects. The container seems preconfigured for `minikube` (Kubernetes) and may be used in combination with VS Code as the development editor. 
-
-
 ## Question: If I remove the contents of /vscode folder then what will happen?
 
 If you remove the contents of the `/vscode` folder inside your Docker container, the following things might happen depending on what the folder contains:
@@ -98,7 +94,7 @@ If you remove the contents of the `/vscode` folder inside your Docker container,
      - Loss of configurations for things like **formatters, linters, debuggers**, or other tools integrated with VS Code.
 
 2. **Remote Development Connectivity**:
-   - If you're using **VS Code Remote - Containers**, this folder may hold the **VS Code server** that runs inside the container to communicate with your local VS Code instance. Removing the folder could:
+   - If you're using **"VS Code Remote - Containers"**, this folder may hold the **VS Code server** that runs inside the container to communicate with your local VS Code instance. Removing the folder could:
      - Cause VS Code to lose connection to the container or fail to work with it until the VS Code server is reinstalled or reset.
      - Potentially disrupt the remote development workflow until VS Code reestablishes itself in the container.
 
@@ -115,8 +111,8 @@ If you remove the contents of the `/vscode` folder inside your Docker container,
 If you rely on VS Code extensions and configurations for your development environment, it's best to avoid removing this folder unless you're prepared to reinstall or reset those settings.
 
 
-## Question: When I have VS Code installed on my machine then why I need VS Code Remote - Containers?
-VS Code is a powerful code editor that can run locally on your machine. However, **VS Code Remote - Containers** offers additional benefits, particularly for scenarios where isolating your development environment from your local machine is crucial. Here’s why you might want to use **VS Code Remote - Containers** even if you have VS Code installed locally:
+## Question: When I have VS Code installed on my machine then why I need "VS Code Remote - Containers"?
+VS Code is a powerful code editor that can run locally on your machine. However, **"VS Code Remote - Containers"** offers additional benefits, particularly for scenarios where isolating your development environment from your local machine is crucial. Here’s why you might want to use **"VS Code Remote - Containers"** even if you have VS Code installed locally:
 
 ### 1. **Consistent Development Environment**
    - **Problem**: Different projects often require different development environments (e.g., Python versions, Node.js versions, specific libraries). Setting these up locally can create conflicts between projects.
@@ -161,33 +157,33 @@ VS Code is a powerful code editor that can run locally on your machine. However,
    - **Solution**: By sharing a container configuration (`.devcontainer` folder), everyone on the team can easily spin up the exact same environment, ensuring consistency and reducing the "it works on my machine" problems.
 
 ### Summary:
-While VS Code installed locally is powerful, **VS Code Remote - Containers** provides a more consistent, isolated, and flexible development environment. This approach solves issues related to dependency conflicts, cross-platform development, environment consistency, and allows for easier project sharing and collaboration. It effectively creates a reproducible environment for your code, isolated from your local system, which is particularly useful for complex, multi-tool, or multi-language projects.
+While VS Code installed locally is powerful, **"VS Code Remote - Containers"** provides a more consistent, isolated, and flexible development environment. This approach solves issues related to dependency conflicts, cross-platform development, environment consistency, and allows for easier project sharing and collaboration. It effectively creates a reproducible environment for your code, isolated from your local system, which is particularly useful for complex, multi-tool, or multi-language projects.
 
-## Question: Can I use VS Code Remote - Containers with local VS Code?
-Yes, you can absolutely use **VS Code Remote - Containers** with your local VS Code installation! Here's how it works and what you need to do:
+## Question: Can I use "VS Code Remote - Containers" with local VS Code?
+Yes, you can absolutely use **"VS Code Remote - Containers"** with your local VS Code installation! Here's how it works and what you need to do:
 
-### How VS Code Remote - Containers Works with Local VS Code
-- **VS Code Remote - Containers** allows your locally installed VS Code to connect to a **Docker container** running either on your local machine or on a remote server.
+### How "VS Code Remote - Containers" Works with Local VS Code
+- **"VS Code Remote - Containers"** allows your locally installed VS Code to connect to a **Docker container** running either on your local machine or on a remote server.
 - When using this feature, VS Code runs a **remote server** inside the Docker container. Your local VS Code interface (the editor UI) connects to that remote server and interacts with files, dependencies, and tools inside the container.
 - This way, your **VS Code UI stays local**, but the actual development environment is running inside a container, isolating the dependencies and configurations for that particular project.
 
 ### Requirements
 1. **Docker**: 
-   - You need Docker installed and running on your local machine. VS Code Remote - Containers requires Docker to manage and run containers.
+   - You need Docker installed and running on your local machine. "VS Code Remote - Containers" requires Docker to manage and run containers.
      - **For Windows/macOS**: You can use [Docker Desktop](https://www.docker.com/products/docker-desktop).
      - **For Linux**: You can install Docker following your distro's instructions.
 
 2. **VS Code**: 
    - You need the latest version of VS Code installed on your machine.
 
-3. **VS Code Remote - Containers Extension**:
+3. **"VS Code Remote - Containers" Extension**:
    - Install the **Remote - Containers** extension from the Visual Studio Code marketplace. You can do this directly within VS Code:
      - Go to the **Extensions** tab (or press `Ctrl+Shift+X`).
      - Search for **"Remote - Containers"** and install it.
 
-### How to Use VS Code Remote - Containers Locally
+### How to Use "VS Code Remote - Containers" Locally
 
-#### Step 1: Install Docker and the VS Code Remote - Containers Extension
+#### Step 1: Install Docker and the "VS Code Remote - Containers" Extension
    - Ensure Docker is installed and running.
    - Install the **Remote - Containers** extension as described above.
 
@@ -212,17 +208,17 @@ You can either create a **new containerized development environment** or connect
 2. **Consistent Environment**: Any dependencies you install will only exist inside the container. This avoids polluting your local environment or causing version conflicts with other projects.
 3. **VS Code UI stays local**: The editor remains on your machine, so performance is responsive. Only the code execution, dependencies, and environment run inside the container.
 
-### Benefits of Using VS Code Remote - Containers Locally
+### Benefits of Using "VS Code Remote - Containers" Locally
 - **Local Isolation**: Even though your VS Code is running locally, the project is isolated in a container, so you avoid cluttering your local machine with project-specific dependencies.
 - **Environment Consistency**: You can ensure that the environment inside the container remains consistent across different machines or team members, even if you're working locally.
 - **Seamless Debugging**: You can debug your code inside the container just as you would locally, but with the added benefit of the isolated environment.
 - **Cross-platform Development**: On a Windows or macOS machine, you can easily run a Linux-based development environment using Docker, which is especially useful for projects that need to run in Linux environments (like production servers).
 
 ### Summary
-Even though you have VS Code installed locally, **VS Code Remote - Containers** helps you set up and work within Docker containers for development. This gives you the benefits of isolated environments, consistent setups across teams or projects, and a cleaner local system—all while still using your local VS Code editor.
+Even though you have VS Code installed locally, **"VS Code Remote - Containers"** helps you set up and work within Docker containers for development. This gives you the benefits of isolated environments, consistent setups across teams or projects, and a cleaner local system—all while still using your local VS Code editor.
 
-## Question: Can I use VS Code Remote - Containers without local VS Code?
-Yes, you can use **VS Code Remote - Containers** without having VS Code installed **locally** by using **GitHub Codespaces** or **Visual Studio Code for the Web**. Both options allow you to develop in a containerized environment directly from your web browser without needing to install VS Code on your local machine.
+## Question: Can I use "VS Code Remote - Containers" without local VS Code?
+Yes, you can use **"VS Code Remote - Containers"** without having VS Code installed **locally** by using **GitHub Codespaces** or **Visual Studio Code for the Web**. Both options allow you to develop in a containerized environment directly from your web browser without needing to install VS Code on your local machine.
 
 Here’s how each option works:
 
@@ -232,14 +228,14 @@ Here’s how each option works:
 #### How it works:
 - **Cloud-hosted containers**: GitHub Codespaces runs your development environment in a container in the cloud, and you access it via a web-based version of VS Code.
 - **Full VS Code experience in the browser**: You get all the features of VS Code, including extensions, debugging, and a terminal, but it’s all running in the browser.
-- **Pre-configured environments**: Like with VS Code Remote - Containers, you can define the environment using a `.devcontainer` configuration file, ensuring that your container is set up with the exact tools and dependencies you need.
+- **Pre-configured environments**: Like with "VS Code Remote - Containers", you can define the environment using a `.devcontainer` configuration file, ensuring that your container is set up with the exact tools and dependencies you need.
 
 #### How to get started with GitHub Codespaces:
 1. **Sign in to GitHub**.
 2. Navigate to a repository you want to work on.
 3. Click the **Code** button, and if Codespaces is enabled for your account, you’ll see the **"Codespaces"** tab.
 4. From there, you can create a new codespace, which launches a browser-based VS Code environment that is containerized.
-5. You can define a `.devcontainer/devcontainer.json` file in the repository to customize the container environment, similar to how you would with VS Code Remote - Containers.
+5. You can define a `.devcontainer/devcontainer.json` file in the repository to customize the container environment, similar to how you would with "VS Code Remote - Containers".
 
 #### Benefits of GitHub Codespaces:
 - **No local setup required**: You don’t need to install Docker, VS Code, or any development tools on your machine.
@@ -263,7 +259,7 @@ Here’s how each option works:
 - While **VS Code for the Web** can edit files and work with basic Git integration, it does not run local code directly. For more complex setups (like debugging or running code), you’ll need to connect it to a GitHub Codespace that runs the container in the cloud.
 
 ### Summary:
-You can use **VS Code Remote - Containers** without installing VS Code locally by leveraging **GitHub Codespaces** or **VS Code for the Web**. Both of these services allow you to work in containerized environments directly from your browser. With **GitHub Codespaces**, you get a full-featured cloud-based development environment, while **VS Code for the Web** offers a lightweight option that can be linked to cloud-based containers for more powerful functionality.
+You can use **"VS Code Remote - Containers"** without installing VS Code locally by leveraging **GitHub Codespaces** or **VS Code for the Web**. Both of these services allow you to work in containerized environments directly from your browser. With **GitHub Codespaces**, you get a full-featured cloud-based development environment, while **VS Code for the Web** offers a lightweight option that can be linked to cloud-based containers for more powerful functionality.
 
 ## Question: What are formatters, linters, debuggers, profiler etc other related terms?
 Here’s a list of related terms in the category of **development tools** and **programming environment utilities**, starting from **formatters**, **linters**, and **debuggers**:
