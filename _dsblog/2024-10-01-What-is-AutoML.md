@@ -1,8 +1,8 @@
 ---
 mathjax: true
 id: 6150
-title: "Auto"
-date: 2024-09-30
+title: "Automated Machine Learning"
+date: 2024-10-02
 permalink: /dsblog/AutoML-Tools
 tags: [AutoML, GCP AutoML, AWS AutoML, Azure AutoML, Machine Learning]
 categories:
@@ -25,6 +25,7 @@ keywords: []
 
 ![What is AutoML](/assets/images/dspost/dsp6150-AutoML-Tools.jpg)
 
+# Automated Machine Learning
 
 ## Is this article for me?
 This is article is for you, if you know
