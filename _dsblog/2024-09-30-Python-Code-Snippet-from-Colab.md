@@ -4,7 +4,7 @@ id: 6149
 title: "Python Code Snippnet from Colab"
 date: 2024-09-30
 permalink: /dsblog/Python-Code-Snippnet-from-Colab
-tags: [GCP, Machine Learning, IT Infrastructure, IT Security]
+tags: [Python, Python Programming, OOPs]
 categories:
   - dsblog
 header:
@@ -59,7 +59,7 @@ This snippet can be used in any Python project to quickly read a file.
 ### Where Snippets are Used:
 - **Code editors**: Many code editors like Visual Studio Code, PyCharm, and Sublime Text offer built-in snippets that can be quickly inserted into your code.
 - **Online resources**: Websites like StackOverflow and GitHub Gist are filled with snippets shared by developers for specific tasks.
-- **Google Colab**: Snippets are available as pre-built, reusable blocks of code to solve common data science tasks, for example.
+- **Google Colab**: Snippets are available as pre-built, reusable blocks of code to solve common data science tasks.
 
 Snippets save time and effort, allowing developers to focus on more complex or unique aspects of their projects.
 
