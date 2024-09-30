@@ -2,7 +2,7 @@
 mathjax: true
 id: 6150
 title: "Automated Machine Learning"
-date: 2024-10-02
+date: 2024-10-01
 permalink: /dsblog/AutoML-Tools
 tags: [AutoML, GCP AutoML, AWS AutoML, Azure AutoML, Machine Learning]
 categories:

@@ -2,9 +2,9 @@
 mathjax: true
 id: 6151
 title: "Exploring Docker and VS Code Integration"
-date: 2024-10-01
+date: 2024-10-02
 permalink: /dsblog/Exploring-Docker-and-VS-Code-Integration
-tags: [Python, IDE, VS Code]
+tags: [Python, IDE, VS Code, Docker, Containerization]
 categories:
   - dsblog
 header:
