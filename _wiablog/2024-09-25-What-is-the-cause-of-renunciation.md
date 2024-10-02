@@ -18,9 +18,9 @@ keywords: ["Dreams vs Reality", "Illusion of life", "Awakening from ignorance", 
 --- 
 
 ![What is the Cause of Renunciation?](/assets/images/wiapost/5263-What-is-the-Cause-of-Renunciation.jpg)
-
-# What is the Cause of Renunciation?   
-
+   
+# What is the Cause of Renunciation?    
+   
 In my college days, I had a very young friend named Pratibimb.  
 One day, we met during a morning walk.  
 

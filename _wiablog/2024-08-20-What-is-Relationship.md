@@ -17,9 +17,9 @@ share: true
 ---     
 
 ![What is Relationships](/assets/images/wiapost/5260-what-is-relationship.jpg)
-
-# What is Relationships?   
-
+   
+# What is Relationships?    
+   
 When I was in school, one of my friends had a father who was a very wealthy business tycoon. After my friend turned 18, his father took him to a bank and asked the bank officers to open an account for him.
 
 One day, I needed some money, and my friend somehow knew that my poor parents couldn’t easily come up with that amount. To help me, he went to the bank and asked the banker for money, saying that he had a bank account there.

@@ -16,11 +16,10 @@ author_profile: true
 share: true        
 ---        
         
-![What-is-Sin](/assets/images/wiapost/5255-What-is-Sin.jpg)             
-        
+![What-is-Sin](/assets/images/wiapost/5255-What-is-Sin.jpg)                
 		
 # What Is Sin?   
-
+   
 You lose a loved one, a bond, or your health,   
 Blame it on God, Fate, or Karma’s stealth.   
 You feel consoled, the burden shared,   

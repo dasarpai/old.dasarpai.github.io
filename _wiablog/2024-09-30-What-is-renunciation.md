@@ -17,11 +17,10 @@ share: true
 keywords: ["Renunciation philosophy", "Meaning of Tyaga and Sanyasa", "What is renunciation in life", "Renunciation vs detachment", "Spiritual renunciation", "True renunciation meaning", "Philosophy of letting go", "Inner peace through renunciation"]       
 --- 
 
-![What is Renunciation?](/assets/images/wiapost/5265-What-is-renunciation.jpg)
-
-
+![What is Renunciation?](/assets/images/wiapost/5265-What-is-renunciation.jpg)   
+   
 # What is Renunciation?   
-
+   
 In Sanskrit, there are two words: *Sanyasa* and *Tyaga*.  
 People in the English-speaking world think both mean renunciation.  
 They are related but not the same.  

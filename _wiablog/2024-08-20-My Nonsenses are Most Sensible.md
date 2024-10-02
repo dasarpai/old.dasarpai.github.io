@@ -17,9 +17,9 @@ share: true
 ---     
 
 ![My Nonsenses are Most Sensible](/assets/images/wiapost/5258-My-Nonsenses-are-Most-Sensible.jpg)
-
-# My Nonsenses is the Most Sensible     
-
+   
+# My Nonsenses is the Most Sensible      
+   
 Everyone around me seems insane, while I am the only sane one, the only saint! Whatever I do is the right way; whatever you do is senseless, meaningless, illogical.
 
 I smoke in my room, filling it with smoke, and if my family members are disturbed, that's their problem. Tell me, if I can't live my life and smoke in my own room, where on earth should I go?

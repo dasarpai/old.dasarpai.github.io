@@ -16,10 +16,10 @@ author_profile: true
 share: true        
 ---  
 
-![](/assets/images/wiapost/5254-The-Power-Within.jpg)
-
+![](/assets/images/wiapost/5254-The-Power-Within.jpg)   
+   
 # The Power Within    
-  
+   
 We all have the power to heal our own soul,  
 Yet many still suffer, not feeling whole.  
 Some can heal others, it’s their choice to make,  

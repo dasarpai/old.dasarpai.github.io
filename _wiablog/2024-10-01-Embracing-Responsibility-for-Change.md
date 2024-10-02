@@ -17,11 +17,10 @@ share: true
 keywords: [ "Personal Responsibility", "Social Change", "Self-Reflection", "Accountability", "Change from Within", "Inner Growth", "Society and Corruption", "Modern Life Problems", "Fixing Society", "Satyug and Kalyug"]     
 --- 
 
-![Embracing Responsibility for Change](/assets/images/wiapost/5266-Embracing-Responsibility-for-Change.jpg)
-
-
-# Embracing Responsibility for Change   
-
+![Embracing Responsibility for Change](/assets/images/wiapost/5266-Embracing-Responsibility-for-Change.jpg)   
+   
+# Embracing Responsibility for Change      
+   
 When we say nowadays the surrounding is corrupt,  
 we need to ask: where does this surrounding start?  
 At my heart, skin, bedroom, flat, apartment, district, state, etc.?  

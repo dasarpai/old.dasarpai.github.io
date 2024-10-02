@@ -17,9 +17,9 @@ share: true
 ---     
 
 ![What is Relationships - Poem](/assets/images/wiapost/5260-what-is-relationship.jpg)
-
+   
 # What is Relationships - Poem   
-
+   
 In school, a friend with wealth so grand,  
 His father took him by the hand,  
 To the bank, where an account was made,  

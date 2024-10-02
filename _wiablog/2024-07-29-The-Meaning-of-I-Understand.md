@@ -17,9 +17,9 @@ share: true
 ---        
 
 ![The Meaning of Understanding](/assets/images/wiapost/5251-The-Meaning-of-Understanding.jpg)
-
-# The Meaning of Understanding    
-
+   
+# The Meaning of Understanding     
+   
 What do you mean when you say, "I understand"? Sometimes, you might say, "I really understand."
 
 Suppose you have a piece of software code before you, or a philosophical idea is revealed to you (e.g., "God is knowledge and infinite, Satyam Jnyanam Anantam Brahma"), or you have a document (e.g., project requirements) before you. You have read the document or listened to the idea completely, and now you say, "I understand." What does that mean?

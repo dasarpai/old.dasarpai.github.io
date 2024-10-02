@@ -17,10 +17,9 @@ share: true
 ---        
         
 ![Solution of Inside problem is not outside](/assets/images/wiapost/5256-Solution-of-Inside-problem-is-not-outside.jpg)             
-        
 		
 # Solution of Inside Problem is not Outside   
-
+   
 When your mind is weary, burdened and low,   
 Defeated, exhausted, where do you go?   
 Lonely, sad, with shadows that cling,   

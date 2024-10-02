@@ -193,6 +193,10 @@ There are several MLOps tools that help manage machine learning workflows, exper
    - **Features**: Argo is an open-source workflow engine that orchestrates parallel jobs on Kubernetes. It supports complex workflows, including those involved in machine learning pipelines, by defining them as DAGs. Argo integrates well with Kubernetes, making it suitable for CI/CD pipelines, batch processing, and data processing tasks.
    - **Use Cases**: CI/CD pipelines, workflow orchestration in Kubernetes, batch processing, and machine learning pipeline orchestration.
 
+### 17. **MLflow**
+   - **Features**: MLflow is an open-source platform that supports the entire machine learning lifecycle, including experiment tracking, model management, and deployment. It offers four key components: Tracking, Projects, Models, and Registry, which allow users to manage experiments, package code, manage models, and streamline model deployment workflows. It integrates well with various ML libraries and cloud services. 
+   - **Use Cases**: Experiment tracking, model versioning, reproducibility, production deployment, and model registry.
+
 These tools vary in their focus, with some offering comprehensive MLOps solutions and others focusing on specific aspects such as data versioning, deployment, or pipeline orchestration. The choice of tool depends on your specific needs, infrastructure, and the scale of your ML operations.
 
 

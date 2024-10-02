@@ -18,9 +18,9 @@ keywords: ["Truth-seeking", "Philosophical reflection", "Human understanding", "
 ---     
 
 ![why do we conclude?](/assets/images/wiapost/5262-why-do-we-conclude.jpg)
-
-# Why do we conclude?   
-
+   
+# Why do we conclude?    
+   
 We think that we give birth.   
 He thinks that we create.   
 We think that we can kill, destroy, and finish.   
