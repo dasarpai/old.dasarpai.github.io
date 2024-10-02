@@ -1,6 +1,6 @@
 --- 
 id: 5182
-mathjax: true  
+
 title: Undying Love
 date: "2022-03-05T08:33:00+05:30"
 permalink: /wiaposts/undying-love
@@ -10,18 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5182-Undying-Love.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Undying Love](/assets/images/wiapost/5182-Undying-Love.jpg)     
-
-## Undying Love
-
-    
-    
+   
+# Undying Love   
+   
 Love, Respect, and Trust are     
 the foundation of any relationship.    
 You name any relation like your Ishta, mother, father,     

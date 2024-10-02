@@ -1,6 +1,6 @@
 --- 
 id: 5129
-mathjax: true  
+
 title: What Test To Know The Self?
 date: "2020-06-09T08:33:00+05:30"
 permalink: /wiaposts/what-test-to-know-the-self
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5129-What-Test-To-Know-The-Self.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![What Test To Know The Self?](/assets/images/wiapost/5129-What-Test-To-Know-The-Self.jpg)     
-
-## What Test To Know The Self?
-
+   
+# What Test To Know The Self?   
     
 Every object around us including our body has two kinds of properties physical properties like color, mass, density, shape, size, etc., and chemical properties like object are poison, acid, base, the reaction of an object when mixed with other objects, etc.    
     

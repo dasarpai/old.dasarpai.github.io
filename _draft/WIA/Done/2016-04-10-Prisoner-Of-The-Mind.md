@@ -1,6 +1,6 @@
 --- 
 id: 5014
-mathjax: true  
+
 title: Prisoner Of The Mind
 date: "2016-04-10T08:33:00+05:30"
 permalink: /wiaposts/prisoner-of-the-mind
@@ -10,18 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5014-Prisoner-Of-The-Mind.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Prisoner Of The Mind](/assets/images/wiapost/5014-Prisoner-Of-The-Mind.jpg)     
-
-## Prisoner Of The Mind
-
-    
-Namaste,    
+   
+# Prisoner Of The Mind     
     
 When I came to this planet,     
 I had a body full of memories but a mind without many memories.     

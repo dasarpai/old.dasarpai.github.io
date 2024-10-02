@@ -4,20 +4,21 @@ title: "What is XAI?"
 date: '2020-05-15T15:50:00+05:30'
 permalink: /dsblog/What-is-XAI
 categories:
-  - Blog
+  - dsblog
 tags:
   - XAI
   - Explainable AI
 header:
   teaser: "/assets/images/dspost/dsp6003-XAI.jpg"
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-mathjax: "true"
-share: true
-excerpt:   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![XAI](/assets/images/dspost/dsp6003-XAI.jpg)    

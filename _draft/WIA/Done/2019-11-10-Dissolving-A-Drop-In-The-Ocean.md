@@ -1,6 +1,6 @@
 --- 
 id: 5111
-mathjax: true  
+
 title: Dissolving A Drop In The Ocean
 date: "2019-11-10T08:33:00+05:30"
 permalink: /wiaposts/dissolving-a-drop-in-the-ocean
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5111-Dissolving-A-Drop-In-The-Ocean.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Dissolving A Drop In The Ocean](/assets/images/wiapost/5111-Dissolving-A-Drop-In-The-Ocean.jpg)     
-
-## Dissolving A Drop In The Ocean
-
+   
+# Dissolving A Drop In The Ocean
     
 Some drops are hard as stone     
 It takes millions of years to make     

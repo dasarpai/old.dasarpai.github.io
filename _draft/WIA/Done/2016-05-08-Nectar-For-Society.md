@@ -1,6 +1,6 @@
 --- 
 id: 5017
-mathjax: true  
+
 title: Nectar For Society
 date: "2016-05-08T08:33:00+05:30"
 permalink: /wiaposts/nectar-for-society
@@ -10,18 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5017-Nectar-For-Society.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Nectar For Society](/assets/images/wiapost/5017-Nectar-For-Society.jpg)     
-
-## Nectar For Society
-
-    
-Namaste,     
+   
+# Nectar For Society    
     
 There are three kinds of human-looking beings.    
     

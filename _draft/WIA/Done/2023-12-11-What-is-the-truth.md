@@ -1,6 +1,6 @@
 ---        
 id: 5242        
-mathjax: true        
+      
 title:  What is the Truth          
 date: "2023-12-11T08:33:00+05:30"        
 permalink: /wiaposts/What-is-the-Truth      
@@ -10,16 +10,16 @@ categories:
 header:        
     teaser: /assets/images/wiapost/5242-What-is-the-Truth.jpg        
 author: Hari Thapliyaal        
-layout: single        
+layout: wiapost-layout
 excerpt:        
 author_profile: true        
 share: true        
 ---        
       
-![What is the Truth](/assets/images/wiapost/5242-What-is-the-Truth.jpg)	 
- 
-# What is the Truth
-
+![What is the Truth](/assets/images/wiapost/5242-What-is-the-Truth.jpg)	   
+    
+# What is the Truth   
+    
 Your son fails in 12th class exam or you get promoted in your job.    
 One brings suffering and another brings happiness.
 
@@ -42,7 +42,8 @@ Some believe happiness and suffering both because of God's wish.
 He wants us to bring closer to Him and for that    
 He wants us to get results of our Karma, get exhausted and reach to him.  
    
-Some believe happiness and suffering is neither because of God nor because of Karma.    
+Some believe happiness and suffering is neither   
+because of God nor because of Karma.    
 Because they don't exist.    
 It is our own mental imagination    
 we can impose happy happiness or suffering on any event.    

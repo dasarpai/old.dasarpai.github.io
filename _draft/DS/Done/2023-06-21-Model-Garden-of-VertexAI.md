@@ -5,19 +5,22 @@ title:  Model Garden of VertexAI
 date: 2023-06-21    
 permalink: '/dsblog/Model-Garden-of-VertexAI'    
 tags: [Pinned, AI Resources]     
-categories:     
+categories:
+  - dsblog   
     
 header:    
     teaser: /assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg    
-author: Hari Thapliyaal       
-layout: dspost-layout       
-excerpt:       
-author_profile: true       
-share: true       
-toc: false      
-toc_sticky: false     
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"    
 ---    
-    
+
 ![All Resources to Learn Data Science](/assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg)        
         
 # Model Garden of VertexAI:     

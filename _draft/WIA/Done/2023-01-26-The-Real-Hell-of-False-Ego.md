@@ -1,6 +1,6 @@
 ---                                
 id: 5218                                
-mathjax: true                                
+                              
 title:  The Real Hell of False Ego                        
 date: "2023-01-26T08:33:00+05:30"                                
 permalink: /wiaposts/The-Real-Hell-of-False-Ego                          
@@ -10,7 +10,7 @@ categories:
 header:                                
     teaser: /assets/images/wiapost/5218-The-Real-Hell-of-False-Ego.jpg                               
 author: Hari Thapliyaal                                
-layout: single                                
+layout: wiapost-layout
 excerpt:                                
 author_profile: true                                
 share: true                                

@@ -1,6 +1,6 @@
 --- 
 id: 5010
-mathjax: true  
+
 title: About Experience
 date: "2016-02-03T08:33:00+05:30"
 permalink: /wiaposts/about-experience
@@ -10,18 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5010-About-Experience.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![About Experience](/assets/images/wiapost/5010-About-Experience.jpg)     
-
-## About Experience
-
-    
-Namaste,    
+   
+# About Experience   
     
 The tick of the time never stops.     
 For the body, it simply means from birthplace to crematorium.     

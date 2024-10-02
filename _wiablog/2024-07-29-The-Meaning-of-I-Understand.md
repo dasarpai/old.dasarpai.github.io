@@ -18,7 +18,7 @@ share: true
 
 ![The Meaning of Understanding](/assets/images/wiapost/5251-The-Meaning-of-Understanding.jpg)
 
-# The Meaning of Understanding 
+# The Meaning of Understanding    
 
 What do you mean when you say, "I understand"? Sometimes, you might say, "I really understand."
 

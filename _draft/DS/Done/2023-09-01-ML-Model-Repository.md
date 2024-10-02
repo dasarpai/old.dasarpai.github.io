@@ -6,14 +6,18 @@ date: 2023-09-01
 permalink: /dsblog/ML-Model-Repository-from-Pinto0309
 tags: [ML Models, Pretrained Models, Deep Learning, NLP, Computer Vision]
 categories:
+  - dsblog
 header:
     teaser: /assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: True  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![ML Model Respository from Pinto0309](/assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg)
@@ -565,3 +569,9 @@ Number in the tables below is from the main [repository](https://github.com/PINT
 1.  **[How to install Ubuntu 19.10 aarch64 (64bit) on RaspberryPi4](https://qiita.com/PINTO/items/adc5db7af7a5996c0f72)**
 1.  **[https://github.com/rwightman/posenet-python.git](https://github.com/rwightman/posenet-python.git)**
 1.  **[https://github.com/sayakpaul/Adventures-in-TensorFlow-Lite.git](https://github.com/sayakpaul/Adventures-in-TensorFlow-Lite.git)**
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

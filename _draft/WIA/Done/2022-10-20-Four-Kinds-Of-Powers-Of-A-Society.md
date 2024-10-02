@@ -1,6 +1,6 @@
 --- 
 id: 5201
-mathjax: true  
+
 title: Four Kinds of Powers of a Society
 date: "2022-10-20T08:33:00+05:30"
 permalink: /wiaposts/four-kinds-of-powers-of-a-society
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5201-Four-Kinds-Of-Powers-Of-A-Society.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Four Kinds of Powers of a Society](/assets/images/wiapost/5201-Four-Kinds-Of-Powers-Of-A-Society.jpg)        
-
-# Four Kinds of Powers of a Society
-
+![Four Kinds of Powers of a Society](/assets/images/wiapost/5201-Four-Kinds-Of-Powers-Of-A-Society.jpg)    
+    
+# Four Kinds of Powers of a Society    
      
 Whether you appreciate this or not, ancient Indian wisdom says the following.     
 If you are constantly losing intellectual debate, narrative then Brahminhood of your society is in danger.     

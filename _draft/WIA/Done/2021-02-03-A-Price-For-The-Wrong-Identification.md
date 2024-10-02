@@ -1,6 +1,6 @@
 --- 
 id: 5146
-mathjax: true  
+
 title: A Price For The Wrong Identification
 date: "2021-02-03T08:33:00+05:30"
 permalink: /wiaposts/a-price-for-the-wrong-identification
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5146-A-Price-For-The-Wrong-Identification.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![A Price For The Wrong Identification](/assets/images/wiapost/5146-A-Price-For-The-Wrong-Identification.jpg)     
-
-## A Price For The Wrong Identification
-
+![A Price For The Wrong Identification](/assets/images/wiapost/5146-A-Price-For-The-Wrong-Identification.jpg)    
     
-Namaste,    
-    
+# A Price For The Wrong Identification       
+       
 If someone asks us, who are you?     
 Or we ask ourselves, who am I?     
 Or we ask someone, who are you?     

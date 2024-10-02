@@ -1,6 +1,6 @@
 --- 
 id: 5060
-mathjax: true  
+
 title: Rider On Freedom
 date: "2017-10-08T08:33:00+05:30"
 permalink: /wiaposts/rider-on-freedom
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5060-Rider-On-Freedom.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Rider On Freedom](/assets/images/wiapost/5060-Rider-On-Freedom.jpg)     
-
-## Rider On Freedom
-
-    
-Namaste    
-    
+   
+# Rider On Freedom  
+     
 Is it possible to tame a human mind without religion?    
     
 Is it necessary we need to tame a human mind or     

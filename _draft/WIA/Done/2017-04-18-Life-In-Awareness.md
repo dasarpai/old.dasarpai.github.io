@@ -1,6 +1,6 @@
 --- 
 id: 5047
-mathjax: true  
+
 title: Life In Awareness
 date: "2017-04-18T08:33:00+05:30"
 permalink: /wiaposts/life-in-awareness
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5047-Life-In-Awareness.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Life In Awareness](/assets/images/wiapost/5047-Life-In-Awareness.jpg)     
-
-## Life In Awareness
-
+   
+# Life In Awareness
     
 When you are in a deep sleep     
 There is no dream, no awareness     

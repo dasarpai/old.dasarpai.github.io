@@ -1,6 +1,6 @@
 --- 
 id: 5007
-mathjax: true  
+
 title: Greetings For New Year 2017
 date: '2017-01-01T08:33:00+05:30'
 permalink: /wiaposts/greetings-for-new-year-2017
@@ -10,16 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5007-Greetings-For-New-Year-2017.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Greetings For New Year 2017](/assets/images/wiapost/5007-Greetings-For-New-Year-2017.jpg)     
-
-## Greetings For New Year 2017
-
+   
+# Greetings For New Year 2017
+   
 In our life, a new day comes every day  
 but only once in 365 days a new day also comes with the new year.  
 Like the circle of 360 degrees, 365 days of a year also represents a circle of time.  

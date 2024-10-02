@@ -1,6 +1,6 @@
 --- 
 id: 5103
-mathjax: true  
+
 title: The Play Is Over
 date: "2019-08-07T08:33:00+05:30"
 permalink: /wiaposts/the-play-is-over
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5103-The-Play-Is-Over.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![The Play Is Over](/assets/images/wiapost/5103-The-Play-Is-Over.jpg)     
-
-## The Play Is Over
-
+   
+# The Play Is Over   
     
 When I was small, I used to cry for toys,     
 My parents gave me those     

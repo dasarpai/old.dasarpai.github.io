@@ -1,6 +1,6 @@
 --- 
 id: 5012
-mathjax: true  
+
 title: About Shoonya Zero
 date: "2016-03-02T08:33:00+05:30"
 permalink: /wiaposts/about-shoonya-zero
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5012-About-Shoonya-Zero.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![About Shoonya Zero](/assets/images/wiapost/5012-About-Shoonya-Zero.jpg)     
-
-## About Shoonya Zero
-
-    
-Namaste,    
-    
+   
+## About Shoonya Zero     
+   
 Do you have experience of Shoonya?     
 Have you seen Shoonya?     
 If you experienced it then what time and what place it existed?     

@@ -1,6 +1,6 @@
 --- 
 id: 5163
-mathjax: true  
+
 title: Labeling Good and Bad
 date: "2021-06-25T08:33:00+05:30"
 permalink: /wiaposts/labeling-good-and-bad
@@ -10,18 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5163-Labeling-Good-And-Bad.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Labeling Good and Bad](/assets/images/wiapost/5163-Labeling-Good-And-Bad.jpg)     
-
-## Labeling Good and Bad
-
-    
-Namaste,    
+   
+## Labeling Good and Bad   
     
 A raw mango on the branch of a tree    
 is good for some purposes and bad for others.    

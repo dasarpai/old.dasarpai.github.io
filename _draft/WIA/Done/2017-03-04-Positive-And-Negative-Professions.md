@@ -1,6 +1,6 @@
 --- 
 id: 5040
-mathjax: true  
+
 title: Positive And Negative Professions
 date: "2017-03-04T08:33:00+05:30"
 permalink: /wiaposts/positive-and-negative-professions
@@ -10,17 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5040-Positive-And-Negative-Professions.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Positive And Negative Professions](/assets/images/wiapost/5040-Positive-And-Negative-Professions.jpg)     
-
-## Positive And Negative Professions
-
-    
+   
+# Positive And Negative Professions
+       
 There is a city, every road in this city     
 Has potholes and it is causing     
 Lots of accidents, court case, and pain     

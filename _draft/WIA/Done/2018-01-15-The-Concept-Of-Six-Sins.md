@@ -1,6 +1,6 @@
 --- 
 id: 5066
-mathjax: true  
+
 title: The Concept Of Six Sins
 date: "2018-01-15T08:33:00+05:30"
 permalink: /wiaposts/the-concept-of-six-sins
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5066-The-Concept-Of-Six-Sins.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![The Concept Of Six Sins](/assets/images/wiapost/5066-The-Concept-Of-Six-Sins.jpg)     
-
-## The Concept Of Six Sins
-
+   
+# The Concept Of Six Sins
     
 Science taught us that     
 we evolved from unicellular life     

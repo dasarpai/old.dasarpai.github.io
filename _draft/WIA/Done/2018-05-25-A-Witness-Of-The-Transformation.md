@@ -1,6 +1,6 @@
 --- 
 id: 5074
-mathjax: true  
+
 title: A Witness Of The Transformation
 date: "2018-05-25T08:33:00+05:30"
 permalink: /wiaposts/a-witness-of-the-transformation
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5074-A-Witness-Of-The-Transformation.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![A Witness Of The Transformation](/assets/images/wiapost/5074-A-Witness-Of-The-Transformation.jpg)     
-
-## A Witness Of The Transformation
-
+   
+# A Witness Of The Transformation   
     
 On far top-hill either water getting heated     
 and then you see the vapors in the sky or     

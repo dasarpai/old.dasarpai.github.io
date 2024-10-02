@@ -3,14 +3,14 @@ id: 5251
 mathjax: true        
 title:  The Meaning of Understanding          
 date: "2024-07-27T08:33:00+05:30"        
-permalink: /wiaposts/The-Meaning-of-Success        
+permalink: /wiaposts/The-Meaning-of-Understanding        
 tags:  [My Views, Life, Philosophy]         
         
 categories:        
 header:        
     teaser: /assets/images/wiapost/5251-The-Meaning-of-Understanding.jpg        
 author: Hari Thapliyaal        
-layout: single        
+layout: wiapost-layout
 excerpt:        
 author_profile: true        
 share: true        
@@ -18,7 +18,7 @@ share: true
 
 ![The Meaning of Understanding](/assets/images/wiapost/5251-The-Meaning-of-Understanding.jpg)
 
-# The Meaning of Understanding 
+# The Meaning of Understanding    
 
 What do you mean when you say, "I understand"? Sometimes, you might say, "I really understand."
 

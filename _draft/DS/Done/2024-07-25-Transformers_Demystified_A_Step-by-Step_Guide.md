@@ -2,36 +2,55 @@
 mathjax: true
 id: 6113
 title: Transformers Demystified A Step-by-Step Guide
-date: 2024-07-27
-permalink: /dsblog/6113-transformers-demystified-a-step-by-step-guide
+date: 2024-07-25
+permalink: /dsblog/transformers-demystified-a-step-by-step-guide
 tags: [NLP, NLU, LLM]
 categories:
+  - dsblog
 header:
     teaser: /assets/images/dspost/6113-transformers-demystified-a-step-by-step-guide.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: single  
-author_profile: true  
-toc: True  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
+
+![Transformers Demystified A Step-by-Step Guide](/assets/images/dspost/6113-transformers-demystified-a-step-by-step-guide.jpg)
 
 # Transformers Demystified A Step-by-Step Guide
 
 All modern Transformers are based on a paper "Attention is all you need"
 
-## Agenda
-This was the mother paper of all the transformer architectures we see today around NLP, Multimodal, Deep Learning. It was presented by Ashish Vaswani et al from Deep Learning / Google in 2017. We will discuss following and anything whatever question/observation/idea we have.
+## Introduction
+This was the mother paper of all the transformer architectures we see today around NLP, Multimodal, Deep Learning. It was presented by Ashish Vaswani et al from Deep Learning / Google in 2017. We will discuss following and anything whatever question/observation/idea I have.
 - The need
   Why this paper was needed? What problem it solved?
-- Transformer:
-   What is transformer? What is encoder transformer? What is decoder transformer? What is encoder-decoder transformer?
-- Embedding:
-    What is embedding? What is need to embedding? What are different types of embedding? What embeddingg is proposed in this work
-- Results;
-    What benchmark dataset was used, what metrics were used and what was the performance of this model?
+- What is transformer? What is encoder transformer? What is decoder transformer? What is encoder-decoder transformer?
+- What is embedding? What is need for embedding? What are different types of embedding? What embeddingg is proposed in this work
+- What benchmark dataset was used, what metrics were used and what was the performance of this model?
+- Finally we will looks all the calculations with one illustration.
 
-Encourage all to read this paper and make this interaction valuable for all.
+Encourage all to read this [original paper](https://arxiv.org/abs/1706.03762).
+
+## What was need of this work?
+This paper addressed several limitations of previous sequence-to-sequence models used for tasks such as machine translation, text summarization, and other natural language processing (NLP) applications. The need for this paper arose from various challenges and limitations in existing models:
+
+### Limitations of Previous Models
+1. **Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) Networks**:
+   - **Sequential Computation**: RNNs and LSTMs process sequences step-by-step, which makes it difficult to parallelize computations and slows down training and inference.
+   - **Long-Range Dependencies**: RNNs and LSTMs struggle to capture dependencies in long sequences, leading to difficulties in understanding context over long distances.
+   - **Gradient Issues**: These models can suffer from vanishing or exploding gradient problems, particularly with long sequences.
+
+2. **Convolutional Neural Networks (CNNs)**:
+   - **Fixed Context Size**: CNNs have a fixed receptive field, which can limit their ability to capture long-range dependencies effectively.
+   - **Complexity**: Extending CNNs to capture longer contexts can significantly increase the model's complexity and computational cost.
+
+The introduction of the Transformer architecture had a profound impact on the field of NLP and beyond. It paved the way for the development of large-scale pre-trained language models like BERT, GPT, and others, which have since become the foundation for many state-of-the-art AI applications. The principles of the Transformer architecture have also been adapted for other domains, such as image processing and reinforcement learning.
 
 ## NLP Tasks 
 1. **Text Classification**:
@@ -359,13 +378,13 @@ Example: In the sentence "Barack Obama was born in Hawaii," one head might focus
 ## How attention works?
 The input embedding is linearly projected into three different spaces to generate queries (𝑄), keys (𝐾), and values (𝑉).
 
-${Attention}(Q, K, V) = {softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right) V$
+$${Attention}(Q, K, V) = {softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right) V$$
 
 Where:
-- \( Q \) is the query matrix.
-- \( K \) is the key matrix.
-- \( V \) is the value matrix.
-- \( d_k \) is the dimension of the keys.
+- Q is the query matrix.
+- K is the key matrix.
+- V is the value matrix.
+- $d_k$ is the dimension of the keys.
 
 ## How multihead attention works.
 - Base model has 512 dim embedding vector, large model has 1024 dim embedding vector.
@@ -379,41 +398,41 @@ Where:
 
 2. **Number of Heads**: 8
 
-3. **Dimension per Head**: Each head will handle \( \frac{512}{8} = 64 \) dimensions.
+3. **Dimension per Head**: Each head will handle $$\frac{512}{8} = 64$$ dimensions.
 
 ### Steps for Multi-Head Attention:
 
 1. **Linear Projections**:
-   - The input embedding (of dimension 512) is linearly projected into three different spaces to generate queries (\(Q\)), keys (\(K\)), and values (\(V\)).
+   - The input embedding (of dimension 512) is linearly projected into three different spaces to generate queries ($$Q$$), keys ($K$), and values ($V$).
    - Each projection is typically done using separate learned weight matrices.
-   - These projections result in three vectors: \(Q\), \(K\), and \(V\), each of dimension 512.
+   - These projections result in three vectors: $Q$, $K$, and $V$, each of dimension 512.
    - Example: **Linear Projections**:
-      - For the input \(X\) of shape $[ {batch\_size}, {sequence\_length}, 512 ]$:
-      - \(Q = XW_Q\), where \(W_Q\) is a weight matrix of shape \([512, 512]\).
-      - \(K = XW_K\), where \(W_K\) is a weight matrix of shape \([512, 512]\).
-      - \(V = XW_V\), where \(W_V\) is a weight matrix of shape \([512, 512]\).
+      - For the input $X$ of shape $$[ batch_size, sequence_length, 512 ]$:
+      - $Q = XW_Q$, where $W_Q$ is a weight matrix of shape $[512, 512]$.
+      - $K = XW_K$, where $W_K$ is a weight matrix of shape $[512, 512]$.
+      - $V = XW_V$, where $W_V$ is a weight matrix of shape $[512, 512]$.
 
 2. **Splitting into Heads**:
-   - After the projection, the \(Q\), \(K\), and \(V\) vectors are split into 8 parts (heads).
-   - Each part will have \( \frac{512}{8} = 64 \) dimensions.
-   - This means each head gets a 64-dimensional sub-vector from \(Q\), \(K\), and \(V\).
+   - After the projection, the $$Q$$, $$K$$, and $$V$$ vectors are split into 8 parts (heads).
+   - Each part will have $$ \frac{512}{8} = 64 $$ dimensions.
+   - This means each head gets a 64-dimensional sub-vector from $$Q$$, $$K$$, and $$V$$.
    - Example: **Splitting into Heads**:
-      - Each of the \(Q\), \(K\), and \(V\) matrices (of shape $ {batch\_size}, {sequence\_length}, 512 $ is reshaped and split into 8 heads.
-      - For each matrix, this reshaping results in shape $ batch\_size, sequence\_length, 8, 64 $.
-      - The 8 heads mean we now have 8 sets of \(Q\), \(K\), and \(V\) vectors, each of dimension 64.
+      - Each of the $$Q$$, $$K$$, and $$V$$ matrices (of shape $$ {batch_size}, {sequence_length}, 512 $$ is reshaped and split into 8 heads.
+      - For each matrix, this reshaping results in shape $$ batch_size, sequence_length, 8, 64 $$.
+      - The 8 heads mean we now have 8 sets of $$Q$$, $$K$$, and $$V$$ vectors, each of dimension 64.
 
 ### Scaled Dot-Product Attention (Per Head):
 
 Each of the 8 heads performs scaled dot-product attention independently:
-$ {Attention}(Q_i, K_i, V_i) = {softmax}\left(\frac{Q_i K_i^T}{\sqrt{d_k}}\right) V_i $
-where \(d_k = 64\) is the dimension of each head.
+$$ {Attention}(Q_i, K_i, V_i) = {softmax}\left(\frac{Q_i K_i^T}{\sqrt{d_k}}\right) V_i $$
+where $$ d_k = 64 $$ is the dimension of each head.
 
 ### Concatenation and Final Linear Layer:
 
 1. The outputs from all 8 heads are concatenated:
-   - Concatenated output shape: ${batch\_size}, {sequence\_length}, 8 \times 64  =  {batch\_size}, {sequence\_length}, 512$.
+   - Concatenated output shape: $$batch\_size, sequence\_length, 8 \times 64  =  batch\_size, sequence\_length, 512$$ .
 
-2. This concatenated vector is then passed through a final linear layer (with weight matrix of shape \([512, 512]\)) to produce the final output of the multi-head attention mechanism.
+2. This concatenated vector is then passed through a final linear layer (with weight matrix of shape $$[512, 512]$$) to produce the final output of the multi-head attention mechanism.
 
 This process ensures that each head independently attends to different parts of the input, capturing diverse aspects of the data.
 
@@ -429,19 +448,19 @@ Apart from number of parameters these floating point precision also make model b
 1. **Double Precision (64-bit)**:
    - **Format**: IEEE 754 double-precision floating-point.
    - **Precision**: Provides about 15-17 significant decimal digits of precision.
-   - **Range**: Can represent values from approximately \( \pm 5 \times 10^{-324} \) to \( \pm 1.79 \times 10^{308} \).
+   - **Range**: Can represent values from approximately $$ \pm 5 \times 10^{-324} $$ to $$ \pm 1.79 \times 10^{308} $$.
    - **Use Case**: Often used when high precision is required, but it's less common in practice for embeddings due to the increased computational and memory overhead.
 
 2. **Single Precision (32-bit)**:
    - **Format**: IEEE 754 single-precision floating-point.
    - **Precision**: Provides about 6-9 significant decimal digits of precision.
-   - **Range**: Can represent values from approximately \( \pm 1.18 \times 10^{-38} \) to \( \pm 3.4 \times 10^{38} \).
+   - **Range**: Can represent values from approximately $$ \pm 1.18 \times 10^{-38} $$ to $$ \pm 3.4 \times 10^{38} $$.
    - **Use Case**: More common for embeddings due to a good balance between precision and computational efficiency.
 
 3. **Half Precision (16-bit)**:
    - **Format**: IEEE 754 half-precision floating-point.
    - **Precision**: Provides about 3-4 significant decimal digits of precision.
-   - **Range**: Can represent values from approximately \( \pm 6.1 \times 10^{-5} \) to \( \pm 6.5 \times 10^{4} \).
+   - **Range**: Can represent values from approximately $$ \pm 6.1 \times 10^{-5} $$ to $$ \pm 6.5 \times 10^{4} $$.
    - **Use Case**: Used to reduce memory usage and increase computational efficiency, especially during training with GPUs that support mixed precision.
 
 4. **BFloat16 (16-bit)**:
@@ -481,19 +500,20 @@ We also need to compute position embedding. Refer [Position Embedding Mechanism]
 These embeddings are passed as input to the model.
 
 **Input Matrix**:
-\[
+
+$$ 
 \begin{bmatrix}
 0.1 & -0.2 & 0.3 & 0.4 & -0.5 & 0.2 & -0.1 & 0.0 \\
 -0.3 & 0.1 & 0.2 & -0.4 & 0.5 & -0.2 & 0.3 & -0.1 \\
 \end{bmatrix}
-\]
+$$ 
 
 ### Step 3: [Self Attention](#self-attention-mechanism)
 
 - **Multi-Head Self-Attention**
 - **Combining Multi-Head Attention**
 
-For Head 2, similar computations will be performed to obtain \( Q_2 \), \( K_2 \), \( V_2 \), and the attention output. The outputs from both heads will be concatenated and then projected back into the original embedding dimension using a weight matrix \( W^O \).
+For Head 2, similar computations will be performed to obtain $$ Q_2 $$, $$ K_2 $$, $$ V_2 $$, and the attention output. The outputs from both heads will be concatenated and then projected back into the original embedding dimension using a weight matrix $$ W^O $$.
 
 
 ### Step 4. **Processing Through Transformer Layers**
@@ -511,22 +531,24 @@ After processing through the Transformer layers, we get output vectors (logits) 
 
 **Output Logits for the Next Token**:
 Let's assume our logits for the next token are a 100-dimensional vector (one value per token in the vocabulary). For simplicity:
-\[
+
+$$
 \begin{bmatrix}
 1.5, & -0.3, & \dots, & 0.8 \\
 \end{bmatrix}
-\]
+$$
 
 ### Step 6. **Softmax Function**
 
 The logits are converted to probabilities using the softmax function.
 
 **Softmax Output**:
-\[
+
+$$
 \begin{bmatrix}
 0.1, & 0.05, & \dots, & 0.15 \\
 \end{bmatrix}
-\]
+$$
 
 ### Step 7. **Token Selection**
 
@@ -544,6 +566,73 @@ To generate text, the model uses these layers iteratively, predicting the next t
 
 By repeating this process, the model generates text token by token until a specified end condition is met.
 
+## What different parameters are learned during transformer training?
+Transformer models like GPT3, GPT3.5, GPT4.0, Gemma, PaLM, Llama etc has billions of parameters. What are these parameters which are learned during training?
+
+In large language models like ChatGPT, weights and biases are integral to the model's operation, especially within the transformer architecture. Here’s a detailed breakdown of different weights and biases used in such models, including those related to attention mechanisms:
+
+### 1. **Weights and Biases in Transformer Architecture**
+
+#### **Attention Mechanism Weights**
+
+- **Query Weights (W_q)**: These weights transform the input embeddings or hidden states into query vectors. In the attention mechanism, the query vector is compared against keys to compute attention scores.
+  
+- **Key Weights (W_k)**: These weights transform the input embeddings or hidden states into key vectors. The attention scores are computed by comparing these keys with the query vectors.
+
+- **Value Weights (W_v)**: These weights transform the input embeddings or hidden states into value vectors. The output of the attention mechanism is a weighted sum of these value vectors, based on the attention scores.
+
+- **Output Weights (W_o)**: After applying the attention mechanism, the output vectors are transformed by these weights before being passed to subsequent layers.
+
+#### **Feed-Forward Network Weights**
+
+- **Weights (W_ff)**: The feed-forward network within each transformer block has its own set of weights for transforming the hidden states. This usually includes two sets of weights:
+  - **Weight Matrices for Linear Transformations**: These weights perform linear transformations in the feed-forward network, often involving two layers with an activation function (e.g., ReLU) in between.
+
+- **Biases (b_ff)**: Biases are used along with the weights in the feed-forward network to adjust the activation values.
+
+#### **Layer Normalization Weights**
+
+- **Gamma (γ)**: Scaling parameter used in layer normalization to adjust the normalized output.
+- **Beta (β)**: Shifting parameter used in layer normalization to adjust the mean of the normalized output.
+
+### 2. **Overall Model Weights and Biases**
+
+#### **Embedding Weights**
+
+- **Token Embedding Weights**: These weights map input tokens (words or subwords) to continuous vector representations (embeddings).
+  
+- **Position Embedding Weights**: These weights add positional information to the embeddings to encode the order of tokens in the sequence.
+
+#### **Layer Weights**
+
+- **Weights in Each Transformer Layer**: Each layer of the transformer model has its own set of weights and biases for both the attention mechanism and the feed-forward network.
+
+- **Residual Connection Weights**: Residual connections (or skip connections) within each transformer layer often involve weights for combining the input and output of the layer.
+
+### Summary
+
+In summary, the different weights and biases in a model like ChatGPT are:
+
+- **Attention Mechanism**:
+  - Query Weights (W_q)
+  - Key Weights (W_k)
+  - Value Weights (W_v)
+  - Output Weights (W_o)
+
+- **Feed-Forward Network**:
+  - Weights (W_ff)
+  - Biases (b_ff)
+
+- **Layer Normalization**:
+  - Gamma (γ)
+  - Beta (β)
+
+- **Embedding Weights**:
+  - Token Embedding Weights
+  - Position Embedding Weights
+
+These weights and biases are learned during the training phase and are used during inference to generate responses based on the input data. Each component of the model contributes to its ability to understand and generate human-like text.
+
 
 ## Self Attention Mechanism
 
@@ -552,28 +641,31 @@ By repeating this process, the model generates text token by token until a speci
 We'll compute Q, K, and V matrices for each head.
 
 **Weight Matrices for Q, K, V for Head 1**:
-\[
-W^Q_1, W^K_1, W^V_1 \in \mathbb{R}^{8 \times 4}
-\]
+
+$$
+W^Q_1, W^K_1, W^V_1 \in \mathbb{R}^{8 \times 4}$$
+
 **Weight Matrices for Q, K, V for Head 2**:
-\[
-W^Q_2, W^K_2, W^V_2 \in \mathbb{R}^{8 \times 4}
-\]
+
+$$W^Q_2, W^K_2, W^V_2 \in \mathbb{R}^{8 \times 4}
+$$
 
 For simplicity, let's use random matrices. In practice, these are learned during training.
 
 **Embeddings**:
-\[
+
+$$
 X = \begin{bmatrix}
 0.1 & -0.2 & 0.3 & 0.4 & -0.5 & 0.2 & -0.1 & 0.0 \\
 -0.3 & 0.1 & 0.2 & -0.4 & 0.5 & -0.2 & 0.3 & -0.1 \\
 \end{bmatrix}
-\]
+$$
 
 **Weight Matrices** (randomly initialized for this example):
 
 Head 1:
-\[
+
+$$
 W^Q_1 = \begin{bmatrix}
 0.1 & 0.2 & 0.3 & 0.4 \\
 0.1 & 0.2 & 0.3 & 0.4 \\
@@ -584,8 +676,8 @@ W^Q_1 = \begin{bmatrix}
 0.1 & 0.2 & 0.3 & 0.4 \\
 0.1 & 0.2 & 0.3 & 0.4 \\
 \end{bmatrix}
-\]
-\[
+
+
 W^K_1 = \begin{bmatrix}
 0.2 & 0.1 & 0.4 & 0.3 \\
 0.2 & 0.1 & 0.4 & 0.3 \\
@@ -596,8 +688,8 @@ W^K_1 = \begin{bmatrix}
 0.2 & 0.1 & 0.4 & 0.3 \\
 0.2 & 0.1 & 0.4 & 0.3 \\
 \end{bmatrix}
-\]
-\[
+
+
 W^V_1 = \begin{bmatrix}
 0.3 & 0.4 & 0.1 & 0.2 \\
 0.3 & 0.4 & 0.1 & 0.2 \\
@@ -608,10 +700,11 @@ W^V_1 = \begin{bmatrix}
 0.3 & 0.4 & 0.1 & 0.2 \\
 0.3 & 0.4 & 0.1 & 0.2 \\
 \end{bmatrix}
-\]
+$$
 
 Head 2:
-\[
+
+$$
 W^Q_2 = \begin{bmatrix}
 0.4 & 0.3 & 0.2 & 0.1 \\
 0.4 & 0.3 & 0.2 & 0.1 \\
@@ -622,8 +715,8 @@ W^Q_2 = \begin{bmatrix}
 0.4 & 0.3 & 0.2 & 0.1 \\
 0.4 & 0.3 & 0.2 & 0.1 \\
 \end{bmatrix}
-\]
-\[
+
+
 W^K_2 = \begin{bmatrix}
 0.3 & 0.4 & 0.1 & 0.2 \\
 0.3 & 0.4 & 0.1 & 0.2 \\
@@ -634,8 +727,8 @@ W^K_2 = \begin{bmatrix}
 0.3 & 0.4 & 0.1 & 0.2 \\
 0.3 & 0.4 & 0.1 & 0.2 \\
 \end{bmatrix}
-\]
-\[
+
+
 W^V_2 = \begin{bmatrix}
 0.2 & 0.1 & 0.3 & 0.4 \\
 0.2 & 0.1 & 0.3 & 0.4 \\
@@ -646,34 +739,34 @@ W^V_2 = \begin{bmatrix}
 0.2 & 0.1 & 0.3 & 0.4 \\
 0.2 & 0.1 & 0.3 & 0.4 \\
 \end{bmatrix}
-\]
+$$
 
 **Compute Q, K, V for each token for each head**:
 
 **Head 1**:
-\[
+
+$$
 Q_1 = X \cdot W^Q_1 = \begin{bmatrix}
 0.1 & -0.2 & 0.3 & 0.4 & -0.5 & 0.2 & -0.1 & 0.0 \\
 -0.3 & 0.1 & 0.2 & -0.4 & 0.5 & -0.2 & 0.3 & -0.1 \\
 \end{bmatrix} \cdot W^Q_1
-\]
-\[
+
 K_1 = X \cdot W^K_1
-\]
-\[
+
 V_1 = X \cdot W^V_1
-\]
+$$
 
 **Head 2**:
-\[
+
+$$
 Q_2 = X \cdot W^Q_2
-\]
-\[
+
+
 K_2 = X \cdot W^K_2
-\]
-\[
+
+
 V_2 = X \cdot W^V_2
-\]
+$$
 
 Let's compute these step by step.
 
@@ -682,16 +775,17 @@ Let's compute these step by step.
 ### Compute Q, K, V for Head 1
 
 **Input Embeddings**:
-\[
+
+$$
 X = \begin{bmatrix}
 0.1 & -0.2 & 0.3 & 0.4 & -0.5 & 0.2 & -0.1 & 0.0 \\
 -0.3 & 0.1 & 0.2 & -0.4 & 0.5 & -0.2 & 0.3 & -0.1 \\
 \end{bmatrix}
-\]
+$$
 
 **Weight Matrices for Head 1**:
 
-\[
+$$
 W^Q_1 = \begin{bmatrix}
 0.1 & 0.2 & 0.3 & 0.4 \\
 0.1 & 0.2 & 0.3 & 0.4 \\
@@ -702,8 +796,8 @@ W^Q_1 = \begin{bmatrix}
 0.1 & 0.2 & 0.3 & 0.4 \\
 0.1 & 0.2 & 0.3 & 0.4 \\
 \end{bmatrix}
-\]
-\[
+
+
 W^K_1 = \begin{bmatrix}
 0.2 & 0.1 & 0.4 & 0.3 \\
 0.2 & 0.1 & 0.4 & 0.3 \\
@@ -714,8 +808,8 @@ W^K_1 = \begin{bmatrix}
 0.2 & 0.1 & 0.4 & 0.3 \\
 0.2 & 0.1 & 0.4 & 0.3 \\
 \end{bmatrix}
-\]
-\[
+
+
 W^V_1 = \begin{bmatrix}
 0.3 & 0.4 & 0.1 & 0.2 \\
 0.3 & 0.4 & 0.1 & 0.2 \\
@@ -726,11 +820,11 @@ W^V_1 = \begin{bmatrix}
 0.3 & 0.4 & 0.1 & 0.2 \\
 0.3 & 0.4 & 0.1 & 0.2 \\
 \end{bmatrix}
-\]
+$$
 
 #### Compute Q, K, V for each token for Head 1:
 
-\[
+$$
 Q_1 = X \cdot W^Q_1 = \begin{bmatrix}
 0.1 & -0.2 & 0.3 & 0.4 & -0.5 & 0.2 & -0.1 & 0.0 \\
 -0.3 & 0.1 & 0.2 & -0.4 & 0.5 & -0.2 & 0.3 & -0.1 \\
@@ -744,45 +838,43 @@ Q_1 = X \cdot W^Q_1 = \begin{bmatrix}
 0.1 & 0.2 & 0.3 & 0.4 \\
 0.1 & 0.2 & 0.3 & 0.4 \\
 \end{bmatrix}
-\]
+$$
 
 Performing the matrix multiplication:
-\[
+
+$$
 Q_1 = \begin{bmatrix}
 (0.1 \times 0.1) + (-0.2 \times 0.1) + (0.3 \times 0.1) + (0.4 \times 0.1) + (-0.5 \times 0.1) + (0.2 \times 0.1) + (-0.1 \times 0.1) + (0 \times 0.1) & \dots & \\
 (-0.3 \times 0.1) + (0.1 \times 0.1) + (0.2 \times 0.1) + (-0.4 \times 0.1) + (0.5 \times 0.1) + (-0.2 \times 0.1) + (0.3 \times 0.1) + (-0.1 \times 0.1) & \dots & \\
 \end{bmatrix}
-\]
+$$
 
 Simplifying:
-\[
+
+$$
 Q_1 = \begin{bmatrix}
 -0.01 & -0.02 & -0.03 & -0.04 \\
 0.02 & 0.04 & 0.06 & 0.08 \\
 \end{bmatrix}
-\]
+$$
 
-Following the same steps for \( K_1 \) and \( V_1 \):
+Following the same steps for $$ K_1 $$ and $$ V_1 $$:
 
-\[
+$$
 K_1 = X \cdot W^K_1
-\]
-\[
+
 = \begin{bmatrix}
 0.15 & 0.30 & 0.45 & 0.60 \\
 0.10 & 0.20 & 0.30 & 0.40 \\
 \end{bmatrix}
-\]
 
-\[
 V_1 = X \cdot W^V_1
-\]
-\[
+
 = \begin{bmatrix}
 0.28 & 0.56 & 0.84 & 1.12 \\
 0.24 & 0.48 & 0.72 & 0.96 \\
 \end{bmatrix}
-\]
+$$
 
 **Similarly you compute for head 2. Finally you concatenate both vectors and get 2x8 size matrix (same size which was input for the self attention)**
 
@@ -791,7 +883,7 @@ V_1 = X \cdot W^V_1
 
 #### Compute attention scores:
 
-\[
+$$
 \text{Scores} = Q_1 \cdot K_1^T = \begin{bmatrix}
 -0.01 & -0.02 & -0.03 & -0.04 \\
 0.02 & 0.04 & 0.06 & 0.08 \\
@@ -801,65 +893,63 @@ V_1 = X \cdot W^V_1
 0.45 & 0.30 \\
 0.60 & 0.40 \\
 \end{bmatrix}
-\]
+$$
 
 Performing the matrix multiplication:
-\[
+
+$$
 \text{Scores} = \begin{bmatrix}
 -0.01 \times 0.15 + -0.02 \times 0.30 + -0.03 \times 0.45 + -0.04 \times 0.60 & -0.01 \times 0.10 + -0.02 \times 0.20 + -0.03 \times 0.30 + -0.04 \times 0.40 \\
 0.02 \times 0.15 + 0.04 \times 0.30 + 0.06 \times 0.45 + 0.08 \times 0.60 & 0.02 \times 0.10 + 0.04 \times 0.20 + 0.06 \times 0.30 + 0.08 \times 0.40 \\
 \end{bmatrix}
-\]
+$$
 
 Simplifying:
-\[
+
+$$
 \text{Scores} = \begin{bmatrix}
 -0.015 - 0.006 - 0.0135 - 0.024 & -0.01 - 0.004 - 0.009 - 0.016 \\
 0.03 + 0.012 + 0.027 + 0.048 & 0.02 + 0.008 + 0.018 + 0.032 \\
 \end{bmatrix}
-\]
 
-\[
 \text{Scores} = \begin{bmatrix}
 -0.0585 & -0.039 \\
 0.117 & 0.078 \\
 \end{bmatrix}
-\]
+$$
 
 #### Apply softmax to obtain attention weights:
 
-\[
+$$
 \text{Attention Weights} = \text{softmax}(\text{Scores})
-\]
 
-\[
 \text{Attention Weights} = \begin{bmatrix}
-\frac{e^{-0.0585}}{e^{-0.0585} + e^{-0.039}} & \frac{e^{-0.039
-
-}}{e^{-0.0585} + e^{-0.039}} \\
+\frac{e^{-0.0585}}{e^{-0.0585} + e^{-0.039}} & \frac{e^{-0.039}}{e^{-0.0585} + e^{-0.039}} \\
 \frac{e^{0.117}}{e^{0.117} + e^{0.078}} & \frac{e^{0.078}}{e^{0.117} + e^{0.078}} \\
 \end{bmatrix}
-\]
+$$
 
 Simplifying:
-\[
+
+$$
 \text{Attention Weights} = \begin{bmatrix}
 \frac{1}{1 + e^{0.0195}} & \frac{e^{0.0195}}{1 + e^{0.0195}} \\
 \frac{1}{1 + e^{-0.039}} & \frac{e^{-0.039}}{1 + e^{-0.039}} \\
 \end{bmatrix}
-\]
+$$
 
 Approximating the values:
-\[
+
+$$
 \text{Attention Weights} = \begin{bmatrix}
 0.495 & 0.505 \\
 0.510 & 0.490 \\
 \end{bmatrix}
-\]
+$$
 
 #### Compute the weighted sum of the values:
 
-\[
+$$
 \text{Output} = \text{Attention Weights} \cdot V_1 = \begin{bmatrix}
 0.495 & 0.505 \\
 0.510 & 0.490 \\
@@ -867,31 +957,30 @@ Approximating the values:
 0.28 & 0.56 & 0.84 & 1.12 \\
 0.24 & 0.48 & 0.72 & 0.96 \\
 \end{bmatrix}
-\]
+$$
 
 Performing the matrix multiplication:
-\[
+
+$$
 \text{Output} = \begin{bmatrix}
 0.495 \times 0.28 + 0.505 \times 0.24 & 0.495 \times 0.56 + 0.505 \times 0.48 & 0.495 \times 0.84 + 0.505 \times 0.72 & 0.495 \times 1.12 + 0.505 \times 0.96 \\
 0.510 \times 0.28 + 0.490 \times 0.24 & 0.510 \times 0.56 + 0.490 \times 0.48 & 0.510 \times 0.84 + 0.490 \times 0.72 & 0.510 \times 1.12 + 0.490 \times 0.96 \\
 \end{bmatrix}
-\]
+$$
 
 Simplifying:
-\[
+
+$$
 \text{Output} = \begin{bmatrix}
 0.1386 + 0.1212 & 0.2772 + 0.2424 & 0.4158 + 0.3636 & 0.5544 + 0.4848 \\
 0.1428 + 0.1176 & 0.2856 + 0.2304 & 0.4284 + 0.3432 & 0.5712 + 0.456 \\
 \end{bmatrix}
-\]
 
-\[
 \text{Output} = \begin{bmatrix}
 0.2598 & 0.5196 & 0.7794 & 1.0392 \\
 0.2604 & 0.516 & 0.7716 & 1.0272 \\
 \end{bmatrix}
-\]
-
+$$
 
  
 ## Position Embedding Mechanism
@@ -899,52 +988,56 @@ Position embeddings are used in transformers to provide information about the or
 
 ### Formulas for Position Embedding
 
-For a given position \( pos \) and embedding dimension \( i \):
+For a given position $$ pos $$ and embedding dimension $$ i $$:
 
 1. **Sine Function for Even Indices:**
-\[ PE(pos, 2i) = \sin\left(\frac{pos}{10000^{\frac{2i}{d_{\text{model}}}}}\right) \]
+
+$$
+ PE(pos, 2i) = \sin\left(\frac{pos}{10000^{\frac{2i}{d_{\text{model}}}}}\right) 
+$$
 
 2. **Cosine Function for Odd Indices:**
-\[ PE(pos, 2i+1) = \cos\left(\frac{pos}{10000^{\frac{2i}{d_{\text{model}}}}}\right) \]
+
+$$ PE(pos, 2i+1) = \cos\left(\frac{pos}{10000^{\frac{2i}{d_{\text{model}}}}}\right) $$
 
 Where:
-- \( pos \) is the position of the token in the sequence (starting from 0).
-- \( i \) is the dimension index (also starting from 0).
-- \( d_{\text{model}} \) is the dimensionality of the embeddings.
+- pos is the position of the token in the sequence (starting from 0).
+- i is the dimension index (also starting from 0).
+- $$d_{\text{model}}$$ is the dimensionality of the embeddings.
 
 ### Explanation
 
-- **Even Index:** For even values of \( i \), the position embedding is computed using the sine function.
-- **Odd Index:** For odd values of \( i \), the position embedding is computed using the cosine function.
-- **Frequency:** The denominator \( 10000^{\frac{2i}{d_{\text{model}}}} \) ensures that different dimensions have different frequencies. The values for sine and cosine vary more slowly for larger dimensions, capturing different levels of granularity.
+- **Even Index:** For even values of i, the position embedding is computed using the sine function.
+- **Odd Index:** For odd values of i, the position embedding is computed using the cosine function.
+- **Frequency:** The denominator $$10000^{\frac{2i}{d_{\text{model}}}}$$ ensures that different dimensions have different frequencies. The values for sine and cosine vary more slowly for larger dimensions, capturing different levels of granularity.
 
 ### Example
 
-Let's assume \( d_{\text{model}} = 8 \) (for simplicity), and calculate the position embeddings for \( pos = 1 \).
+Let's assume $$ d_{\text{model}} = 8 $$ (for simplicity), and calculate the position embeddings for $$ pos = 1 $$.
 
-For \( i = 0 \):
-\[ PE(1, 0) = \sin\left(\frac{1}{10000^{\frac{0}{8}}}\right) = \sin\left(1\right) \]
+For $$ i = 0 $$:
+$$ PE(1, 0) = \sin\left(\frac{1}{10000^{\frac{0}{8}}}\right) = \sin\left(1\right) $$
 
-For \( i = 1 \):
-\[ PE(1, 1) = \cos\left(\frac{1}{10000^{\frac{0}{8}}}\right) = \cos\left(1\right) \]
+For $$ i = 1 $$:
+$$ PE(1, 1) = \cos\left(\frac{1}{10000^{\frac{0}{8}}}\right) = \cos\left(1\right) $$
 
-For \( i = 2 \):
-\[ PE(1, 2) = \sin\left(\frac{1}{10000^{\frac{2}{8}}}\right) = \sin\left(\frac{1}{100}\right) \]
+For $$ i = 2 $$:
+$$ PE(1, 2) = \sin\left(\frac{1}{10000^{\frac{2}{8}}}\right) = \sin\left(\frac{1}{10}\right) $$
 
-For \( i = 3 \):
-\[ PE(1, 3) = \cos\left(\frac{1}{10000^{\frac{2}{8}}}\right) = \cos\left(\frac{1}{100}\right) \]
+For $$ i = 3 $$:
+$$ PE(1, 3) = \cos\left(\frac{1}{10000^{\frac{2}{8}}}\right) = \cos\left(\frac{1}{10}\right) $$
 
-For \( i = 4 \):
-\[ PE(1, 4) = \sin\left(\frac{1}{10000^{\frac{4}{8}}}\right) = \sin\left(\frac{1}{10000}\right) \]
+For $$ i = 4 $$:
+$$ PE(1, 4) = \sin\left(\frac{1}{10000^{\frac{4}{8}}}\right) = \sin\left(\frac{1}{100}\right) $$
 
-For \( i = 5 \):
-\[ PE(1, 5) = \cos\left(\frac{1}{10000^{\frac{4}{8}}}\right) = \cos\left(\frac{1}{10000}\right) \]
+For $$ i = 5 $$:
+$$ PE(1, 5) = \cos\left(\frac{1}{10000^{\frac{4}{8}}}\right) = \cos\left(\frac{1}{100}\right) $$
 
-For \( i = 6 \):
-\[ PE(1, 6) = \sin\left(\frac{1}{10000^{\frac{6}{8}}}\right) = \sin\left(\frac{1}{1000000}\right) \]
+For $$ i = 6 $$:
+$$ PE(1, 6) = \sin\left(\frac{1}{10000^{\frac{6}{8}}}\right) = \sin\left(\frac{1}{1000}\right) $$
 
-For \( i = 7 \):
-\[ PE(1, 7) = \cos\left(\frac{1}{10000^{\frac{6}{8}}}\right) = \cos\left(\frac{1}{1000000}\right) \]
+For $$ i = 7 $$:
+$$ PE(1, 7) = \cos\left(\frac{1}{10000^{\frac{6}{8}}}\right) = \cos\left(\frac{1}{1000}\right) $$
 
 These values are then added to the corresponding token embeddings to provide the model with information about the position of each token in the sequence.
 

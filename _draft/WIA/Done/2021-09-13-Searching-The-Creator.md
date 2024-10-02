@@ -1,6 +1,6 @@
 --- 
 id: 5170
-mathjax: true  
+
 title: Searching the Creator
 date: "2021-09-13T08:33:00+05:30"
 permalink: /wiaposts/searching-the-creator
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5170-Searching-The-Creator.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Searching the Creator](/assets/images/wiapost/5170-Searching-The-Creator.jpg)     
-
-## Searching the Creator
-
-    
-Namaste,     
-    
+   
+## Searching the Creator      
+   
 Without seeing or hearing about many things we know about their existence from the results of their functions.     
     
 I can see, this proves that I have eyes.    

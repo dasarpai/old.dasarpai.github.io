@@ -4,20 +4,21 @@ title: "Top 10 Technologies of Future"
 date: '2021-03-04T15:50:00+05:30'
 permalink: /dsblog/Top-10-Technologies-of-Future
 categories:
-  - Blog
+  - dsblog
 tags:
   - Naive Bayes Classifier
   - Naive Bayes
 header:
   teaser: "/assets/images/dspost/dsp6004-Top-10-Future-Technologies.jpg"
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-mathjax: "true"
-share: true
-excerpt:   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Future Technologies](/assets/images/dspost/dsp6004-Top-10-Future-Technologies.jpg)   

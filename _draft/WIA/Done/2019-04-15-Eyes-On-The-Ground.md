@@ -1,6 +1,6 @@
 --- 
 id: 5095
-mathjax: true  
+
 title: Eyes On The Ground
 date: "2019-04-15T08:33:00+05:30"
 permalink: /wiaposts/eyes-on-the-ground
@@ -10,17 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5095-Eyes-On-The-Ground.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Eyes On The Ground](/assets/images/wiapost/5095-Eyes-On-The-Ground.jpg)     
-
-## Eyes On The Ground
-
-    
+![Eyes On The Ground](/assets/images/wiapost/5095-Eyes-On-The-Ground.jpg)    
+   
+# Eyes On The Ground   
+       
 Whether I walk, jog or run     
 If I have continuous eyes on the ground     
 I will not fall because of environmental reasons.    

@@ -4,7 +4,7 @@ title: "Dealing with Sensitive Data"
 date: '2020-03-10T15:50:00+05:30'
 permalink: /dsblog/Dealing-with-Sensitive-Data
 categories:
-  - Blog
+  - dsblog
 tags:
   - XAI
   - Explainable AI
@@ -12,13 +12,13 @@ header:
   teaser: "/assets/images/dspost/dsp6001-Dealing-with-Sensitive-Data.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-mathjax: "true"
-share: true
-excerpt:   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 ---
 ![XAI](/assets/images/dspost/dsp6001-Dealing-with-Sensitive-Data.jpg)   
 

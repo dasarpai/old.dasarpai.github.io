@@ -1,6 +1,6 @@
 --- 
 id: 5184
-mathjax: true  
+
 title: Light vs Darkness
 date: "2022-04-07T08:33:00+05:30"
 permalink: /wiaposts/light-vs-darkness
@@ -10,18 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5184-Light-Vs-Darkness.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Light vs Darkness](/assets/images/wiapost/5184-Light-Vs-Darkness.jpg)     
-
-## Light vs Darkness
-
-    
-    
+![Light vs Darkness](/assets/images/wiapost/5184-Light-Vs-Darkness.jpg)   
+   
+# Light vs Darkness   
+        
 Darkness in the whole existence is natural.    
 It need not be created.    
 Darkness is universal.    

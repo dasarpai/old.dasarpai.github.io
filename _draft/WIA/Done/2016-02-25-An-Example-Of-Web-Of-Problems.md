@@ -1,6 +1,6 @@
 --- 
 id: 5011
-mathjax: true  
+
 title: An Example Of Web Of Problems
 date: "2016-02-25T08:33:00+05:30"
 permalink: /wiaposts/an-example-of-web-of-problems
@@ -10,18 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5011-An-Example-Of-Web-Of-Problems.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![An Example Of Web Of Problems](/assets/images/wiapost/5011-An-Example-Of-Web-Of-Problems.jpg)     
-
-## An Example Of Web Of Problems
-
-    
-Namaste,     
+   
+# An Example Of Web Of Problems  
     
 Whatever can wrong, will go wrong. Today I wanted to file my Annual GST return and this is what happened to me. I don’t know whether this much ever happened to any of you!    
     

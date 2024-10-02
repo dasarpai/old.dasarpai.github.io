@@ -1,6 +1,6 @@
 --- 
 id: 5033
-mathjax: true  
+
 title: The Way To Learn
 date: "2016-11-14T08:33:00+05:30"
 permalink: /wiaposts/the-way-to-learn
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5033-The-Way-To-Learn.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![The Way To Learn](/assets/images/wiapost/5033-The-Way-To-Learn.jpg)     
-
-## The Way To Learn
-
+   
+# The Way To Learn
     
 What is the food of a mind?     
 No matter how good is the food     

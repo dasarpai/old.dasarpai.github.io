@@ -1,6 +1,6 @@
 --- 
 id: 5077
-mathjax: true  
+
 title: Nothing Becoming Everything
 date: "2018-08-04T08:33:00+05:30"
 permalink: /wiaposts/nothing-becoming-everything
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5077-Nothing-Becoming-Everything.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Nothing Becoming Everything](/assets/images/wiapost/5077-Nothing-Becoming-Everything.jpg)     
-
-## Nothing Becoming Everything
-
+![Nothing Becoming Everything](/assets/images/wiapost/5077-Nothing-Becoming-Everything.jpg)   
+   
+# Nothing Becoming Everything
     
 Objects live in the space and     
 they need some 3D space in the space     

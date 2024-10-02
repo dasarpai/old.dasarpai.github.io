@@ -1,6 +1,6 @@
 --- 
 id: 5100
-mathjax: true  
+
 title: Thanks To Covid19
 date: '2020-03-16T08:33:00+05:30'
 permalink: /wiaposts/thanks-to-covid19
@@ -10,16 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5100-Thanks-To-Covid19.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Thanks To Covid19](/assets/images/wiapost/5100-Thanks-To-Covid19.jpg)     
-
-##  Thanks To Covid19
-
+   
+#  Thanks To Covid19   
+   
 We are a nation where people can pee anywhere  
 spit anywhere and sneeze on anybody’s face.  
 Thanks to corona some control has come.

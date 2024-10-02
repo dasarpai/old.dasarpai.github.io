@@ -5,16 +5,20 @@ title: Introduction to Prompt Engineering
 date: 2023-07-24
 permalink: '/dsblog/Introduction-to-Prompt-Engineering'
 tags: [LLM, Prompt Engineering, Google Cloud, AWS Cloud, Auzre Cloud, Language Models] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6080-Introduction-to-Prompt-Engineering.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: True  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Introduction to Prompt Engineering](/assets/images/dspost/dsp6080-Introduction-to-Prompt-Engineering.jpg)
@@ -359,3 +363,10 @@ For instructions on prompt engineering strategies and model tuning in the Genera
 - [GPT Usecases by by Hari Thapliyaal](https://dasarpai.com/dsblog/gpt-usecases)
 - [Business Usecase of GPT by Hari Thapliyaal](https://dasarpai.com/dsblog/business-usecases-of-gpt)
 - [Will AI Replace Human by Hari Thapliyaal](https://dasarpai.com/dsblog/will-ai-replace-human)
+
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

@@ -1,6 +1,6 @@
 --- 
 id: 5041
-mathjax: true  
+
 title: Journey Of The Siddhartha
 date: "2017-03-11T08:33:00+05:30"
 permalink: /wiaposts/journey-of-the-siddhartha
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5041-Journey-Of-The-Siddhartha.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Journey Of The Siddhartha](/assets/images/wiapost/5041-Journey-Of-The-Siddhartha.jpg)     
-
-## Journey Of The Siddhartha
-
+   
+# Journey Of The Siddhartha
     
 The world around us has mysterious ways,     
 to teach some deeper lessons of life.     

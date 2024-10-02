@@ -1,6 +1,6 @@
 --- 
 id: 5092
-mathjax: true  
+
 title: Four Ways Or One Way
 date: "2019-02-27T08:33:00+05:30"
 permalink: /wiaposts/four-ways-or-one-way
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5092-Four-Ways-Or-One-Way.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Four Ways Or One Way](/assets/images/wiapost/5092-Four-Ways-Or-One-Way.jpg)     
-
-## Four Ways Or One Way
-
+   
+# Four Ways Or One Way   
     
 Generally, people think,     
 Bhakti Yoga, Karma Yoga,     

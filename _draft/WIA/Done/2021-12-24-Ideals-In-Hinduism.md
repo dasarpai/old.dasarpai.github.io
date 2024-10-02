@@ -1,6 +1,6 @@
 --- 
 id: 5176
-mathjax: true  
+
 title: Ideals in Hinduism
 date: "2021-12-24T08:33:00+05:30"
 permalink: /wiaposts/ideals-in-hinduism
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5176-Ideals-In-Hinduism.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Ideals in Hinduism](/assets/images/wiapost/5176-Ideals-In-Hinduism.jpg)     
-
-## Ideals in Hinduism
-
-    
-Namaste,     
-    
+   
+## Ideals in Hinduism   
+   
 People Question Rama, why he left Sita because someone questioned Sita's character? Rama should have defended and continued as king.    
     
 Do you remember once Uma took the form of Sita to test the divinity of Rama. But, just because Shiva had seen Sita in Uma for a short time, he denounced Uma as wife and said you are my Mother now because Rama is my Aradhya. Such are the ideals in Hinduism. Post this event she went to her father's house and in some incident jumped into fire. Shiva became disturbed and he destroyed Yagnya of Daksha. He carried Uma on her shoulders for many years and finally Vishnu cut the dead body into pieces. Post this Shiva goes to long Meditation.     

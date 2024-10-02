@@ -1,6 +1,6 @@
 --- 
 id: 5194
-mathjax: true  
+
 title: What is the Miracle?
 date: "2022-07-12T08:33:00+05:30"
 permalink: /wiaposts/what-is-the-miracle
@@ -10,18 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5194-What-Is-The-Miracle.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![What is the Miracle?](/assets/images/wiapost/5194-What-Is-The-Miracle.jpg)        
-
-## What is the Miracle?
-
     
-    
+# What is the Miracle?      
+   
 When some hot water falls on the body     
 and it burns the body,     
 burning didn’t happen because of a miracle.    

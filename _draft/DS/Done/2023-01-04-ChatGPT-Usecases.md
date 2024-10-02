@@ -3,18 +3,21 @@ id: 6019
 title: "ChatGPT Usecases"   
 date: '2023-01-04T15:50:00+05:30'   
 permalink: /dsblog/chatgpt-usecases 
-categories:   
-   
+categories:
+  - dsblog
 tags: [NLP, Machine Learning, Natural Language Processing, ChatGPT, GPT3, OpenAI]   
    
 header:   
   teaser: "/assets/images/dspost/dsp6019-ChatGPT-Usecases.jpg"   
 excerpt_separator: "<!--more-->"   
-excerpt:   
+author: Hari Thapliyaal   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 --- 
 
    

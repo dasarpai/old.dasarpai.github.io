@@ -5,10 +5,12 @@ title: Podcast Lex Fridman Sam Harris Consciousness Free Will Psychedelics
 date: 2023-02-07
 permalink: '/dsblog/Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics'
 tags: [AI Podcast Summary, Lex Fridman, Consciousness] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6050-Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics.jpg
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
 excerpt:   
@@ -16,6 +18,7 @@ author_profile: true
 share: true   
 toc: true   
 toc_sticky: true 
+mathjax: "true"
 ---
    
 ![Postcast Lex Fridman Sam Harris Consciousness FreeWill Psychedelics](/assets/images/dspost/dsp6050-Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics.jpg)   

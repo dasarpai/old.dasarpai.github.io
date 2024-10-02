@@ -6,16 +6,19 @@ date: "2023-01-25T08:33:00+05:30"
 permalink: /dsblog/Type-of-Databases    
 tags: [Database]      
        
-categories:      
+categories:
+  - dsblog 
 header:      
     teaser: /assets/images/dspost/dsp6041-Type-of-Databases.jpg      
-author: Hari Thapliyaal      
-layout: dspost-layout      
-excerpt:      
-author_profile: true      
-share: true      
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 ---      
        
 ![Type of Databases](/assets/images/dspost/dsp6041-Type-of-Databases.jpg)    

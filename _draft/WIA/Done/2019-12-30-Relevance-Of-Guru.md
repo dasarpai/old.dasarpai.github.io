@@ -1,6 +1,6 @@
 --- 
 id: 5115
-mathjax: true  
+
 title: Relevance Of Guru
 date: "2019-12-30T08:33:00+05:30"
 permalink: /wiaposts/relevance-of-guru
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5115-Relevance-Of-Guru.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Relevance Of Guru](/assets/images/wiapost/5115-Relevance-Of-Guru.jpg)     
-
-## Relevance Of Guru
-
+   
+# Relevance Of Guru
     
 Without Questions in life what is the need for a Guru?     
 If my questions are well defined then do I need a Guru?     

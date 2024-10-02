@@ -6,15 +6,19 @@ date: 2023-08-22
 permalink: '/dsblog/paperwithcode-resources'
 tags: [AI Research Paper, ML Libraries, NLP, Deep Learning]
 categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6091-rps-Paperwithcode-Resources.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: false  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Paper with Code Resources](/assets/images/dspost/dsp6091-rps-Paperwithcode-Resources.jpg)
@@ -680,3 +684,9 @@ toc_sticky: true
 
 ## References
 - https://www.paperdigest.org/2022/06/cvpr-2022-papers-with-code-data/
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

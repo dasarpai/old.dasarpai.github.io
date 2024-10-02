@@ -1,6 +1,6 @@
 --- 
 id: 5085
-mathjax: true  
+
 title: Where Is The Focus Of Hindus?
 date: "2018-11-05T08:33:00+05:30"
 permalink: /wiaposts/where-is-the-focus-of-hindus
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5085-Where-Is-The-Focus-Of-Hindus.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Where Is The Focus Of Hindus?](/assets/images/wiapost/5085-Where-Is-The-Focus-Of-Hindus.jpg)     
-
-## Where Is The Focus Of Hindus?
-
+   
+# Where Is The Focus Of Hindus?   
     
 Every religion has three main functions     
 Inspire the public to believe in god, called Bhakti.     

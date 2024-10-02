@@ -1,6 +1,6 @@
 --- 
 id: 5131
-mathjax: true  
+
 title: What Is Balance Food Diet?
 date: "2020-07-09T08:33:00+05:30"
 permalink: /wiaposts/what-is-balance-food-diet
@@ -10,17 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5131-What-Is-Balance-Food-Diet.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![What Is Balance Food Diet?](/assets/images/wiapost/5131-What-Is-Balance-Food-Diet.jpg)     
-
-## What Is Balance Food Diet?
-
-    
+   
+# What Is Balance Food Diet?
+       
 Food, sex, religion, and politics are four topics where everyone has his own experience, a perspective of looking into, and a view about.    
     
 Here I am putting My view about food. If you disagree with my views, then I would love to listen and learn more from every thinking man and woman.    

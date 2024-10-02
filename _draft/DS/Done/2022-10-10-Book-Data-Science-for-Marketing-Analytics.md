@@ -3,8 +3,8 @@ id: 6014
 title: Book Review - Data Science in Marketing Analysis   
 date: '2022-10-26T15:50:00+05:30'   
 permalink: /dsblog/bookreview-data-science-for-marketing-analytics   
-categories:   
-  - Blog   
+categories:
+  - dsblog   
 tags:   
   - Book Review   
   - Marketing Analytics   
@@ -12,9 +12,14 @@ tags:
 header:   
   teaser: /assets/images/dspost/dsp6014-BookReview-Data-Science-for-Marketing-Analytics.jpg   
 excerpt_separator: "<!--more-->"   
-excerpt:   
+author: Hari Thapliyaal   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"  
 ---   
 [Book Review - Data Science in Marketing Analysis](/assets/images/dspost/dsp6014-BookReview-Data-Science-for-Marketing-Analytics.jpg)   
    

@@ -1,6 +1,6 @@
 --- 
 id: 5138
-mathjax: true  
+
 title: Who Is The Creator?
 date: "2020-09-28T08:33:00+05:30"
 permalink: /wiaposts/who-is-the-creator
@@ -10,18 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5138-Who-Is-The-Creator.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Who Is The Creator?](/assets/images/wiapost/5138-Who-Is-The-Creator.jpg)     
-
-## Who Is The Creator?
-
-    
-Namaste,     
+   
+# Who Is The Creator?    
     
 Faith can move mountains, but faith should be well-founded,     
 and you should be able to wait for enough.     

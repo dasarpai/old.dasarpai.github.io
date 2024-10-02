@@ -1,6 +1,6 @@
 --- 
 id: 5164
-mathjax: true  
+
 title: Human Peace
 date: "2021-07-05T08:33:00+05:30"
 permalink: /wiaposts/human-peace
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5164-Human-Peace.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Human Peace](/assets/images/wiapost/5164-Human-Peace.jpg)     
-
+![Human Peace](/assets/images/wiapost/5164-Human-Peace.jpg)   
+   
 ## Human Peace   
-
-    
-Namaste,    
-    
+       
 Information has become abundant     
 and it is free through search engines like Google, bing, yahoo etc.    
     

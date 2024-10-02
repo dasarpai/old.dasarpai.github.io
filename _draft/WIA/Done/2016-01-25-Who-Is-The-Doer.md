@@ -1,6 +1,5 @@
 --- 
 id: 5009
-mathjax: true  
 title: Who Is The Doer?
 date: "2016-01-25T08:33:00+05:30"
 permalink: /wiaposts/who-is-the-doer
@@ -9,19 +8,17 @@ tags: [ Concepts, Philosophy]
 categories: 
 header:
      teaser: /assets/images/wiapost/5009-Who-Is-The-Doer.jpg
+
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Who Is The Doer?](/assets/images/wiapost/5009-Who-Is-The-Doer.jpg)     
-
-## Who Is The Doer?
-
-    
-Namaste,    
+   
+# Who Is The Doer?
     
 Who is the cause of doing?     
 Who gets the fruit of action?     

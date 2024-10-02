@@ -1,6 +1,6 @@
 --- 
 id: 5037
-mathjax: true  
+
 title: Who Is Ravana?
 date: "2017-01-29T08:33:00+05:30"
 permalink: /wiaposts/who-is-ravana
@@ -10,19 +10,17 @@ categories:
 header:
      teaser: /assets/images/wiapost/5037-Who-Is-Ravana.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Who Is Ravana?](/assets/images/wiapost/5037-Who-Is-Ravana.jpg)     
-
-## Who Is Ravana?
-
-    
-### The Raavana 2.0    
-    
+   
+# Who Is Ravana?
+## The Raavana 2.0    
+       
 Pratibimba got a temporary power     
 A power to travel the time     
 and then make others to travel the time along with him     

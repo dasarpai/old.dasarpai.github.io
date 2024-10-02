@@ -1,6 +1,6 @@
 --- 
 id: 5064
-mathjax: true  
+
 title: Most Prayer Worthy Self Mind
 date: "2017-12-13T08:33:00+05:30"
 permalink: /wiaposts/most-prayer-worthy-self-mind
@@ -10,20 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5064-Most-Prayer-Worthy-Self-Mind.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Most Prayer Worthy Self Mind](/assets/images/wiapost/5064-Most-Prayer-Worthy-Self-Mind.jpg)     
-
-## Most Prayer Worthy Self Mind
-
-    
-### Whom should we pray?    
-    
-### Most Prayer Worthy is the Mind of Self!    
+   
+# Whom should we pray?   
+## Most Prayer Worthy is the Mind of Self!    
     
 Whether we pass an exam or not,     
 get married or not,     

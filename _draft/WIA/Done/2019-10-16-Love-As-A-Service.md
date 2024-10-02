@@ -1,6 +1,6 @@
 --- 
 id: 5109
-mathjax: true  
+
 title: Love As A Service
 date: "2019-10-16T08:33:00+05:30"
 permalink: /wiaposts/love-as-a-service
@@ -10,17 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5109-Love-As-A-Service.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Love As A Service](/assets/images/wiapost/5109-Love-As-A-Service.jpg)     
-
-## Love As A Service
-
-    
+![Love As A Service](/assets/images/wiapost/5109-Love-As-A-Service.jpg)    
+   
+## Love As A Service   
+   
 Have you ever seen a person     
 Who hires someone else to love     
 his/her spouse and children?    

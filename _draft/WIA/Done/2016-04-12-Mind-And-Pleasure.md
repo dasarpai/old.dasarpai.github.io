@@ -1,6 +1,6 @@
 --- 
 id: 5015
-mathjax: true  
+
 title: Mind And Pleasure
 date: "2016-04-12T08:33:00+05:30"
 permalink: /wiaposts/mind-and-pleasure
@@ -10,18 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5015-Mind-And-Pleasure.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Mind And Pleasure](/assets/images/wiapost/5015-Mind-And-Pleasure.jpg)     
-
-## Mind And Pleasure
-
-    
-Namaste,    
+   
+# Mind And Pleasure   
     
 What is the mind? Don’t mistake it for the brain.     
 The brain is physical and it is located inside the physical head.     

@@ -1,6 +1,6 @@
 --- 
 id: 5050
-mathjax: true  
+
 title: Driven By Humanity Or Morality
 date: "2017-06-05T08:33:00+05:30"
 permalink: /wiaposts/driven-by-humanity-or-morality
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5050-Driven-By-Humanity-Or-Morality.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Driven By Humanity Or Morality](/assets/images/wiapost/5050-Driven-By-Humanity-Or-Morality.jpg)     
-
-## Driven By Humanity Or Morality
-
+   
+# Driven By Humanity Or Morality
     
 Fear, pain, reward, and punishment,     
 either from government or authorities or God or Karma     

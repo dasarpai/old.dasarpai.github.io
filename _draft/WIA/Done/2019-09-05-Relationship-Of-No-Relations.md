@@ -1,6 +1,6 @@
 --- 
 id: 5105
-mathjax: true  
+
 title: Relationship Of No Relations
 date: "2019-09-05T08:33:00+05:30"
 permalink: /wiaposts/relationship-of-no-relations
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5105-Relationship-Of-No-Relations.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Relationship Of No Relations](/assets/images/wiapost/5105-Relationship-Of-No-Relations.jpg)     
-
-## Relationship Of No Relations
-
+   
+# Relationship Of No Relations   
     
 My universe, my world, my nation, my city,     
 my religion, my society, my family, my child,     

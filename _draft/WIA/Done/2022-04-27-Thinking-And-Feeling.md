@@ -1,6 +1,6 @@
 --- 
 id: 5186
-mathjax: true  
+
 title: Thinking and Feeling
 date: "2022-04-27T08:33:00+05:30"
 permalink: /wiaposts/thinking-and-feeling
@@ -10,18 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5186-Thinking-And-Feeling.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Thinking and Feeling](/assets/images/wiapost/5186-Thinking-And-Feeling.jpg)     
-
-## Thinking and Feeling
-
-    
-    
+   
+# Thinking and Feeling    
+   
 Feeling and Thinking are two different process in human     
 And both work from different parts of the human brain.     
 Metaphorically people say     

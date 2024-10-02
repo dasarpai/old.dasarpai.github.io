@@ -1,6 +1,6 @@
 --- 
 id: 5078
-mathjax: true  
+
 title: The Process Of Cultural Digestion
 date: "2018-08-18T08:33:00+05:30"
 permalink: /wiaposts/the-process-of-cultural-digestion
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5078-The-Process-Of-Cultural-Digestion.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![The Process Of Cultural Digestion](/assets/images/wiapost/5078-The-Process-Of-Cultural-Digestion.jpg)     
-
-## The Process Of Cultural Digestion
-
+![The Process Of Cultural Digestion](/assets/images/wiapost/5078-The-Process-Of-Cultural-Digestion.jpg)  
+   
+# The Process Of Cultural Digestion   
     
 Carefully observe the below multiplication.    
     

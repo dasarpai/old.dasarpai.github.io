@@ -2,20 +2,23 @@
 mathjax: true
 id: 6112
 title: Manamath Nath - Ramayana Corpus
-date: 2024-01-03
+date: 2024-01-12
 permalink: /dsblog/manamath-nath-ramayana-corpus
 tags: [AI-Usecases, Government] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6112-Manmath-Nath-Ramayana-Corpus.jpg
-author: Hari Thapliyaal 
-excerpt:
-layout: dspost-layout  
-author_profile: true  
-share: true
-toc: False  
-toc_sticky: False
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
    
 ![Manmath Nath - Ramayana Corpus](/assets/images/dspost/dsp6112-Manmath-Nath-Ramayana-Corpus.jpg)   

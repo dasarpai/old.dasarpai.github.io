@@ -3,18 +3,21 @@ id: 6025
 title: "Statistics Interview Question for Data Scientist"  
 date: '2023-01-06T15:50:00+05:30'  
 permalink: /dsblog/Statistics-Interview-Question-for-Data-Scientist
-categories:  
-   
+categories:
+  - dsblog
 tags: [Statistics, Maths, Stats for Data Science]  
    
 header:  
   teaser: "/assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg"  
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: true  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
    
@@ -926,3 +929,8 @@ A data scientist is dealing with different streams of subjects like statistics, 
 Statistics is a big and complex subject and this is the foundational stone of any data science work, primarily for data analysis and model building. You may not be an expert in this subject and it can take a significant amount of time to get mastery over this subject. But with the help of the above questions a company can evaluate whether you are comfortable enough in the subject to take challenges in a data science project. If you would like to add your favorite questions then you can email me at hari.prasad@vedavit-ps.com
 
 
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

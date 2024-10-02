@@ -1,6 +1,6 @@
 ---        
 id: 5234        
-mathjax: true        
+      
 title:  The Ways to Hurt the Self          
 date: "2023-09-14T08:33:00+05:30"        
 permalink: /wiaposts/The-Ways-to-Hurt-the-Self      
@@ -10,16 +10,16 @@ categories:
 header:        
     teaser: /assets/images/wiapost/5234-The-Ways-to-Hurt-the-Self.jpg        
 author: Hari Thapliyaal        
-layout: single        
+layout: wiapost-layout
 excerpt:        
 author_profile: true        
 share: true        
 ---        
         
-![The Ways to Hurt the Self](/assets/images/wiapost/5234-The-Ways-to-Hurt-the-Self.jpg)             
-
-# The Ways to Hurt the Self
-   
+![The Ways to Hurt the Self](/assets/images/wiapost/5234-The-Ways-to-Hurt-the-Self.jpg)     
+    
+# The Ways to Hurt the Self    
+      
 People say your words are more painful and    
 I cannot forget them in my life.   
 They say, physical pain is less painful then the pain caused by harsh words.

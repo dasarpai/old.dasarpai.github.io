@@ -1,6 +1,6 @@
 --- 
 id: 5048
-mathjax: true  
+
 title: About Physicality And Relationship
 date: "2017-05-12T08:33:00+05:30"
 permalink: /wiaposts/about-physicality-and-relationship
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5048-About-Physicality-And-Relationship.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![About Physicality And Relationship](/assets/images/wiapost/5048-About-Physicality-And-Relationship.jpg)     
-
-## About Physicality And Relationship
-
+   
+# About Physicality And Relationship
     
 What is that in this world with which I don’t have a relationship?     
 Name of the relationships may be different     

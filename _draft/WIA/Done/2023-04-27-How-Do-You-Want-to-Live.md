@@ -10,14 +10,15 @@ categories:
 header:
     teaser: /assets/images/wiapost/5225-How-Do-You-Want-to-Live.jpg
 author: Hari Thapliyaal
-layout: single
+layout: wiapost-layout
 excerpt:
 author_profile: true
 share: true
 ---
 
 ![How Do You Want to Live?](/assets/images/wiapost/5225-How-Do-You-Want-to-Live.jpg)     
-## How Do You Want to Live?    
+   
+# How Do You Want to Live?    
     
 Birth and death are certain.    
 Life is full of uncertainties.    

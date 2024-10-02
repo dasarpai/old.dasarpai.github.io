@@ -1,6 +1,6 @@
 --- 
 id: 5067
-mathjax: true  
+
 title: The Concept Of Yoga
 date: "2018-01-19T08:33:00+05:30"
 permalink: /wiaposts/the-concept-of-yoga
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5067-The-Concept-Of-Yoga.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![The Concept Of Yoga](/assets/images/wiapost/5067-The-Concept-Of-Yoga.jpg)     
-
-## The Concept Of Yoga
-
+   
+# The Concept Of Yoga
     
 Cleaning and alignment of a person     
 at the physical, emotional, intellectual, and energy     

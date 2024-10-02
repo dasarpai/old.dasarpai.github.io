@@ -1,6 +1,6 @@
 --- 
 id: 5031
-mathjax: true  
+
 title: About Silence And Listening
 date: "2016-10-15T08:33:00+05:30"
 permalink: /wiaposts/about-silence-and-listening
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5031-About-Silence-And-Listening.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![About Silence And Listening](/assets/images/wiapost/5031-About-Silence-And-Listening.jpg)     
-
-## About Silence And Listening
-
+   
+# About Silence And Listening
     
 Hearing is a **natural phenomenon** to normal ears.     
 Listening is a **conscious phenomenon** from a willing mind.     

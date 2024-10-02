@@ -5,13 +5,20 @@ title: AI in Energy Management
 date: 2023-01-02
 permalink: /dsblog/AI-in-Energy-Management
 tags: [AI-Usecases, Energy] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6046-AI-Usecases-in-Energy-Management.jpg
-author: Hari Thapliyaal 
-excerpt:
-share: true 
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![AI in Energy Management](/assets/images/dspost/dsp6046-AI-Usecases-in-Energy-Management.jpg)

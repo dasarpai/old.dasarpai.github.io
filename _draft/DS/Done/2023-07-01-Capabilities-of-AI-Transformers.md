@@ -5,16 +5,20 @@ title: 'Capabilities of AI Transformers'
 date: 2023-07-01
 permalink: '/dsblog/Capabilities-of-AI-Transformers'
 tags: [NLP, AI Transformers, Deep Learning] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6067-Capabilities-of-AI-Transformers.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: true  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Capabilities of AI Transformers](/assets/images/dspost/dsp6067-Capabilities-of-AI-Transformers.jpg)   

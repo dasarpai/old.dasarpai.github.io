@@ -1,6 +1,6 @@
 --- 
 id: 5036
-mathjax: true  
+
 title: Which Metrics Does Really Matter?
 date: "2017-01-19T08:33:00+05:30"
 permalink: /wiaposts/which-metrics-does-really-matter
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5036-Which-Metrics-Does-Really-Matter.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Which Metrics Does Really Matter?](/assets/images/wiapost/5036-Which-Metrics-Does-Really-Matter.jpg)     
-
-## Which Metrics Does Really Matter?
-
+   
+# Which Metrics Does Really Matter?
     
 Whether our general knowledge     
 or our value system     

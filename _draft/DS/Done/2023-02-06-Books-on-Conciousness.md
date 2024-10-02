@@ -4,18 +4,21 @@ id: 6049
 title: Books on Conciousness   
 date: 2023-02-06   
 permalink: '/dsblog/Books-on-Conciousness'   
-tags: [NLP]   
-categories:   
+tags: [NLP, BOOKS]   
+categories:
+  - dsblog   
    
 header:   
    teaser: /assets/images/dspost/dsp6049-Books-on-Conciousness.jpg   
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
 excerpt:   
 author_profile: true   
 share: true   
 toc: true   
-toc_sticky: true   
+toc_sticky: true 
+mathjax: "true" 
 ---   
    
 ![Books-on-Conciousness](/assets/images/dspost/dsp6049-Books-on-Conciousness.jpg)   
@@ -592,3 +595,9 @@ Gary Zukav, 2021
 The Seat of the Soul shows us step-by-fascinating-step how to create a life of love and where that now leads. Universal Human gives us new tools to grow spiritually and shows us how to transform everyday experiences of hopelessness, emptiness, and pain into fulfillment, meaning, and joy.
 
 It points us toward a startling new destination (a species that is beyond culture, religion, nation, ethnic group, and gender a species whose allegiance is to Life first and all else second) and shows us how to get there. Universal Human examines our disintegrating social structures and the new social structures that are replacing them. It shows us a new creation story (our new creation story—as we create it with our choices, our deeds, and our words. A new human consciousness is replacing the old human consciousness. Authentic power—the alignment of the personality with soul) is replacing external power, the ability to manipulate and control. Author explains that the potential of a new era of humanity based on love instead of fear is upon us, but only we can bring it into being. Universal Human shows us how.
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

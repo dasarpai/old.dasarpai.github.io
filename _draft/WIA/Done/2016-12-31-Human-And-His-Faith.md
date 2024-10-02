@@ -1,6 +1,6 @@
 --- 
 id: 5035
-mathjax: true  
+
 title: Human And His Faith
 date: "2016-12-31T08:33:00+05:30"
 permalink: /wiaposts/human-and-his-faith
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5035-Human-And-His-Faith.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Human And His Faith](/assets/images/wiapost/5035-Human-And-His-Faith.jpg)     
-
-## Human And His Faith
-
+   
+# Human And His Faith
     
 If you look at life deeper,     
 There is no other purpose of life other than to live.     

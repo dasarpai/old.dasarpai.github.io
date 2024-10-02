@@ -1,6 +1,6 @@
 --- 
 id: 5088
-mathjax: true  
+
 title: About Indian Secularism
 date: "2018-12-16T08:33:00+05:30"
 permalink: /wiaposts/about-indian-secularism
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5088-About-Indian-Secularism.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![About Indian Secularism](/assets/images/wiapost/5088-About-Indian-Secularism.jpg)     
-
-## About Indian Secularism
-
+   
+# About Indian Secularism   
     
 I was thinking, as a society and as an individual     
 how low we will go in our thinking?    

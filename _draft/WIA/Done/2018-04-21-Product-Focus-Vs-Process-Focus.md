@@ -1,6 +1,6 @@
 --- 
 id: 5072
-mathjax: true  
+
 title: Product Focus Vs Process Focus
 date: "2018-04-21T08:33:00+05:30"
 permalink: /wiaposts/product-focus-vs-process-focus
@@ -10,19 +10,17 @@ categories:
 header:
      teaser: /assets/images/wiapost/5072-Product-Focus-Vs-Process-Focus.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Product Focus Vs Process Focus](/assets/images/wiapost/5072-Product-Focus-Vs-Process-Focus.jpg)     
-
-## Product Focus Vs Process Focus
-
-    
-### Jugaad vs Karmanye Vadhikaraste    
-    
+![Product Focus Vs Process Focus](/assets/images/wiapost/5072-Product-Focus-Vs-Process-Focus.jpg)   
+   
+# Product Focus Vs Process Focus    
+## Jugaad vs Karmanye Vadhikaraste    
+       
 Teaching philosophy is one thing living is another.    
     
 “Karmanye Vadhikaraste”.     

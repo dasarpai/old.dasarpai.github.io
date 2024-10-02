@@ -1,6 +1,6 @@
 --- 
 id: 5149
-mathjax: true  
+
 title: Vedanta For Beginners
 date: "2021-03-17T08:33:00+05:30"
 permalink: /wiaposts/vedanta-for-beginners
@@ -10,21 +10,18 @@ categories:
 header:
      teaser: /assets/images/wiapost/5149-Vedanta-For-Beginners.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Vedanta For Beginners](/assets/images/wiapost/5149-Vedanta-For-Beginners.jpg)     
-
-## Vedanta For Beginners
-
+   
+# Vedanta For Beginners   
     
-### By Sri Swami Sivananda, Founder of The Divine    
-    
-Namaste,    
-    
+## By Sri Swami Sivananda, Founder of The Divine    
+   
 **BASICS OF VEDANTA**    
     
 - The fourfold **Antahkarana** or the internal organ: Manas (mind), Buddhi (intellect), Chitta (memory or subconscious), Ahamkara (egoism).    

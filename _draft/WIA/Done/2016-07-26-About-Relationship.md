@@ -1,6 +1,6 @@
 --- 
 id: 5024
-mathjax: true  
+
 title: About Relationship
 date: "2016-07-26T08:33:00+05:30"
 permalink: /wiaposts/about-relationship
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5024-About-Relationship.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![About Relationship](/assets/images/wiapost/5024-About-Relationship.jpg)     
-
-## About Relationship
-
+   
+# About Relationship
     
 Tell me who is near to you?     
 Your friend, brother, sister, mother, child     

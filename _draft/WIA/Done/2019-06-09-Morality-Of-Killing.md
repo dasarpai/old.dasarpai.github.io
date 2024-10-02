@@ -1,6 +1,6 @@
 --- 
 id: 5099
-mathjax: true  
+
 title: Morality Of Killing
 date: "2019-06-09T08:33:00+05:30"
 permalink: /wiaposts/morality-of-killing
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5099-Morality-Of-Killing.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Morality Of Killing](/assets/images/wiapost/5099-Morality-Of-Killing.jpg)     
-
-## Morality Of Killing
-
+   
+# Morality Of Killing   
     
 Killing is sin and it is immoral.     
 What I want to kill is not existing because of my action     

@@ -1,6 +1,6 @@
 --- 
 id: 5197
-mathjax: true  
+
 title: Time and Present
 date: "2022-07-27T08:33:00+05:30"
 permalink: /wiaposts/time-and-present
@@ -10,17 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5197-Time-And-Present.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Time and Present](/assets/images/wiapost/5197-Time-And-Present.jpg)        
-
-## Time and Present
-
+![Time and Present](/assets/images/wiapost/5197-Time-And-Present.jpg)      
     
+## Time and Present      
     
 One second is made of 1000 milliseconds.    
 One millisecond is made of 1000 microseconds.    

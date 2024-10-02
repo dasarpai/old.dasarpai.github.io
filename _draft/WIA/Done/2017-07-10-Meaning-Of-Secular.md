@@ -1,6 +1,6 @@
 --- 
 id: 5052
-mathjax: true  
+
 title: Meaning Of Secular
 date: "2017-07-10T08:33:00+05:30"
 permalink: /wiaposts/meaning-of-secular
@@ -10,18 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5052-Meaning-Of-Secular.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Meaning Of Secular](/assets/images/wiapost/5052-Meaning-Of-Secular.jpg)     
-
-## Meaning Of Secular
-
-    
-Namaste    
+   
+# Meaning Of Secular   
     
 I am from the land of Krishna,     
 who never told in his life-time that he is Hindu     

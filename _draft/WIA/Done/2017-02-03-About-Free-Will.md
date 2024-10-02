@@ -1,6 +1,6 @@
 --- 
 id: 5038
-mathjax: true  
+
 title: About Free Will
 date: "2017-02-03T08:33:00+05:30"
 permalink: /wiaposts/about-free-will
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5038-About-Free-Will.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![About Free Will](/assets/images/wiapost/5038-About-Free-Will.jpg)     
-
-## About Free Will
-
+   
+# About Free Will
     
 To understand About free will     
 Let us assume you are hungry     

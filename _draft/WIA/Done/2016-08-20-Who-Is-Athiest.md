@@ -1,6 +1,6 @@
 --- 
 id: 5026
-mathjax: true  
+
 title: Who Is Athiest
 date: "2016-08-20T08:33:00+05:30"
 permalink: /wiaposts/who-is-athiest
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5026-Who-Is-Athiest.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Who Is Athiest](/assets/images/wiapost/5026-Who-Is-Athiest.jpg)     
-
-## Who Is Athiest
-
+   
+# Who Is Athiest
     
 Completely unaware and ignorant of the competition     
 of the various religions, gods and their followers     

@@ -1,6 +1,6 @@
 ---        
 id: 5233        
-mathjax: true        
+      
 title:  Questioning & Answering (Problem Solving)         
 date: "2023-09-04T08:33:00+05:30"        
 permalink: /wiaposts/Question-Answering-Problem-Solving      
@@ -10,16 +10,16 @@ categories:
 header:        
     teaser: /assets/images/wiapost/5233-Question-Answering.jpg        
 author: Hari Thapliyaal        
-layout: single        
+layout: wiapost-layout
 excerpt:        
 author_profile: true        
 share: true        
 ---        
         
 ![Question Answering](/assets/images/wiapost/5233-Question-Answering.jpg)             
-
-# Questioning & Answering (Problem Solving)
-
+    
+# Questioning & Answering (Problem Solving)    
+    
 When we are searching on internet or   
 engaging with people and asking them a question  
 We get incomplete answer or incorrect answer    

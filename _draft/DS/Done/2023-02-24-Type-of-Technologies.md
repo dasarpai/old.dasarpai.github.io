@@ -5,10 +5,12 @@ title: Types of Technologies
 date: 2023-02-24
 permalink: '/dsblog/Types-of-Technologies'
 tags: [AI, ML, Technologies] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6052-Types-of-Technologies.jpg
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
 excerpt:   
@@ -16,6 +18,7 @@ author_profile: true
 share: true   
 toc: true   
 toc_sticky: true 
+mathjax: "true"
 ---
    
 ![Types of Technologies](/assets/images/dspost/dsp6052-Types-of-Technologies.jpg)   

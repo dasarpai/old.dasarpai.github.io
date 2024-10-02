@@ -1,6 +1,6 @@
 --- 
 id: 5143
-mathjax: true  
+
 title: About Food And Nourishment
 date: "2021-01-03T08:33:00+05:30"
 permalink: /wiaposts/about-food-and-nourishment
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5143-About-Food-And-Nourishment.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![About Food And Nourishment](/assets/images/wiapost/5143-About-Food-And-Nourishment.jpg)     
-
-## About Food And Nourishment
-
-    
-Namaste,    
-    
+   
+# About Food And Nourishment   
+        
 We have three living bodies embedded together     
 But superficially it looks one.     
 When it comes to nourishing, it is our responsibility to nourish all three.     

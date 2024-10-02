@@ -1,6 +1,6 @@
 --- 
 id: 5126
-mathjax: true  
+
 title: Human Compulsiveness
 date: "2020-05-16T08:33:00+05:30"
 permalink: /wiaposts/human-compulsiveness
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5126-Human-Compulsiveness.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Human Compulsiveness](/assets/images/wiapost/5126-Human-Compulsiveness.jpg)     
-
-## Human Compulsiveness
-
+    
+# Human Compulsiveness
     
 Compulsiveness is slavery. Generally people people confuse this with their freedom.    
     

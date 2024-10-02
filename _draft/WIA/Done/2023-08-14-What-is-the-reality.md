@@ -1,6 +1,6 @@
 ---        
 id: 5231        
-mathjax: true        
+      
 title:  What is the Reality?          
 date: "2023-08-14T08:33:00+05:30"        
 permalink: /wiaposts/What-is-the-Reality      
@@ -10,7 +10,7 @@ categories:
 header:        
     teaser: /assets/images/wiapost/5231-What-is-the-Reality.jpg        
 author: Hari Thapliyaal        
-layout: single        
+layout: wiapost-layout
 excerpt:        
 author_profile: true        
 share: true        
@@ -19,7 +19,7 @@ share: true
 ![PWhat is the Reality?](/assets/images/wiapost/5231-What-is-the-Reality.jpg)             
         
 # What is the Reality     
-
+    
 You see something on a table and you ask yourself, "What is that?"    
 Answer: It looks like an apple, so it is an apple.    
 Then you ask, "How many apples are there?"    

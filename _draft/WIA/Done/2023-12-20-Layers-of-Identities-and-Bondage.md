@@ -1,6 +1,6 @@
 ---        
 id: 5243        
-mathjax: true        
+      
 title:  Layers of Identities and Bondage          
 date: "2023-09-04T08:33:00+05:30"        
 permalink: /wiaposts/Layers-of-Identities-and-Bondage      
@@ -10,17 +10,16 @@ categories:
 header:        
     teaser: /assets/images/wiapost/5243-Layers-of-Identities-and-Bondage.jpg        
 author: Hari Thapliyaal        
-layout: single        
+layout: wiapost-layout
 excerpt:        
 author_profile: true        
 share: true        
 ---        
         
-![Layers of Identities and Bondage](/assets/images/wiapost/5243-Layers-of-Identities-and-Bondage.jpg)             
+![Layers of Identities and Bondage](/assets/images/wiapost/5243-Layers-of-Identities-and-Bondage.jpg)        
         
-		
-# Layers of Identities and Bondage
-
+# Layers of Identities and Bondage    
+    
 The waking state is when I am fully aware of    
 the objects and events around my physical body and within it.   
    
@@ -36,21 +35,28 @@ Only then can I say this is me and that not me.
    
 Complete awareness requires 100% certainty of my awareness.   
    
-In the waking state, humans wear thousands of layers of identities,    
+In the waking state,   
+humans wear thousands of layers of identities,    
 tightly entwined with them,    
 often unaware that these layers are distinct from their core self.    
    
 Therefore, if one get hurt or appreciated at one layer    
-they experience the hurt at their physical body or mental body.   
-We never know this deeply till one of these layers is significantly shaken.   
+they also experience the hurt at their physical body or mental body.   
+But, we never know this deeply   
+until one of these layers is shaken vigorously.   
+If you want to understand    
+which layer you are glued with    
+you can make note from the following examples. 
    
-I am a man - a layer that I acknowledge,    
+I am a man - this is a layer that I acknowledge,    
 yet this realization crystallizes    
-when a woman remarks on men being selfish.   
+when a woman remarks on men being selfish.  
+I feel terrible bad for this judgment. 
    
 I am a manager - a layer I recognize,    
 but its significance deepens    
-when a worker criticizes managers as heartless or ruthless.   
+when a worker tags managers as heartless or ruthless.   
+I feel uncomfortable for this sweeping generalization.   
    
 I am a Guru or Swami - a layer I understand,    
 but this understanding sharpens    

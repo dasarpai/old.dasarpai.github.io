@@ -1,6 +1,6 @@
 --- 
 id: 5181
-mathjax: true  
+
 title: Awareness and Who Am I
 date: "2022-02-27T08:33:00+05:30"
 permalink: /wiaposts/awareness-and-who-am-i
@@ -10,17 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5181-Awareness-And-Who-Am-I.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Awareness and Who Am I](/assets/images/wiapost/5181-Awareness-And-Who-Am-I.jpg)     
-
-## Awareness and Who Am I
-
-    
+![Awareness and Who Am I](/assets/images/wiapost/5181-Awareness-And-Who-Am-I.jpg)   
+   
+# Awareness and Who Am I   
     
 Birds, Animals and Human all breath     
 and exists as long as they breath    

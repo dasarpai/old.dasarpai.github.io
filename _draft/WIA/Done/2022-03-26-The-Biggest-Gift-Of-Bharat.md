@@ -1,6 +1,6 @@
 --- 
 id: 5183
-mathjax: true  
+
 title: The Biggest Gift of Bharat
 date: "2022-03-26T08:33:00+05:30"
 permalink: /wiaposts/the-biggest-gift-of-bharat
@@ -10,18 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5183-The-Biggest-Gift-Of-Bharat.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![The Biggest Gift of Bharat](/assets/images/wiapost/5183-The-Biggest-Gift-Of-Bharat.jpg)     
-
-## The Biggest Gift of Bharat
-
-    
-    
+   
+# The Biggest Gift of Bharat  
+   
 Three the biggest things which Bharat gave to the world     
 but even our own people don't understand these fully.    
     

@@ -1,6 +1,6 @@
 --- 
 id: 5093
-mathjax: true  
+
 title: Who Is The Knower Of Brahman?
 date: "2019-03-15T08:33:00+05:30"
 permalink: /wiaposts/who-is-the-knower-of-brahman
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5093-Who-Is-The-Knower-Of-Brahman.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Who Is The Knower Of Brahman?](/assets/images/wiapost/5093-Who-Is-The-Knower-Of-Brahman.jpg)     
-
-## Who Is The Knower Of Brahman?
-
+![Who Is The Knower Of Brahman?](/assets/images/wiapost/5093-Who-Is-The-Knower-Of-Brahman.jpg)  
+   
+# Who Is The Knower Of Brahman?   
     
 Don’t make the mistake of thinking that     
 Brahma Gnyani knows everything,     

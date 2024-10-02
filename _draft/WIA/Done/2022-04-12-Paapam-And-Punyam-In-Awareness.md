@@ -1,6 +1,6 @@
 --- 
 id: 5185
-mathjax: true  
+
 title: Paapam and Punyam in Awareness
 date: "2022-04-12T08:33:00+05:30"
 permalink: /wiaposts/paapam-and-punyam-in-awareness
@@ -10,17 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5185-Paapam-And-Punyam-In-Awareness.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Paapam and Punyam in Awareness](/assets/images/wiapost/5185-Paapam-And-Punyam-In-Awareness.jpg)     
-
-## Paapam and Punyam in Awareness
-
-    
+![Paapam and Punyam in Awareness](/assets/images/wiapost/5185-Paapam-And-Punyam-In-Awareness.jpg)    
+   
+# Paapam and Punyam in Awareness   
     
 A person is in comma or deep sleep and     
 something horrible related to him     

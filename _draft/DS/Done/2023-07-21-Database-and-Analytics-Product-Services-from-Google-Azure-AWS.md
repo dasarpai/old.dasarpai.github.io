@@ -5,16 +5,20 @@ title: Database and Analytics Product Services from Google Azure AWS
 date: 2023-07-21
 permalink: '/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS'
 tags: [AWS, Google, Azure, Cloud, AutoML, Data Analytics, Databases] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: False  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Database and Analytics Product Services from Google Azure AWS]( /assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg)
@@ -59,3 +63,9 @@ toc_sticky: true
 | 13. |[AWS Data Pipeline : Orchestration service for periodic, data-driven workflows](https://aws.amazon.com/datapipeline/?nc2=h_ql_prod_an_dp) |  | 
 | 14. |[AWS Glue : Simple, scalable, and serverless data integration](https://aws.amazon.com/glue/?nc2=h_ql_prod_an_glu) |  | 
 | 15. |[AWS Lake Formation : Build, manage, and secure your data lake](https://aws.amazon.com/lake-formation/?nc2=h_ql_prod_an_lkf) |  | 
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

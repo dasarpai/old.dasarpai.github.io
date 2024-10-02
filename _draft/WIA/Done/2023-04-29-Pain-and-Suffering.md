@@ -1,6 +1,6 @@
 ---        
 id: 5228        
-mathjax: true        
+      
 title:  Pain and Suffering          
 date: "2023-04-29T08:33:00+05:30"        
 permalink: /wiaposts/Pain-and-Suffering        
@@ -10,7 +10,7 @@ categories:
 header:        
     teaser: /assets/images/wiapost/5228-Pain-and-Suffering.jpg        
 author: Hari Thapliyaal        
-layout: single        
+layout: wiapost-layout
 excerpt:        
 author_profile: true        
 share: true        

@@ -1,6 +1,6 @@
 --- 
 id: 5153
-mathjax: true  
+
 title: What Is Success?
 date: "2021-04-22T08:33:00+05:30"
 permalink: /wiaposts/what-is-success
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5153-What-Is-Success.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![What Is Success?](/assets/images/wiapost/5153-What-Is-Success.jpg)     
-
-## What Is Success?
-
-    
-Namaste,    
-    
+   
+# What Is Success?   
+     
 A mosquito or flee is roaming around and disturbing you     
 You plan to kill it, and you killed it, it is a success.     
 An employee is looking for rupees 10000     

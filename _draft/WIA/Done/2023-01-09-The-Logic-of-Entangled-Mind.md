@@ -1,6 +1,6 @@
 ---            
 id: 5211            
-mathjax: true            
+          
 title: The Logic of Entangled Mind           
 date: "2023-01-09T08:33:00+05:30"            
 permalink: /wiaposts/Logic-of-Entangled-Mind         
@@ -10,14 +10,14 @@ categories:
 header:            
     teaser: /assets/images/wiapost/5211-The-Logic-of-Entangled-Mind.jpg            
 author: Hari Thapliyaal            
-layout: single            
+layout: wiapost-layout
 excerpt:            
 author_profile: true            
 share: true            
 ---            
             
 ![The Logic of Entangled Mind](/assets/images/wiapost/5211-The-Logic-of-Entangled-Mind.jpg )            
-               
+       
 # The Logic of Entangled Mind      
     
 Saints, Mahatmas, Rishis of the East Developed a philosophy     

@@ -4,17 +4,22 @@ title: "300 Important Statistical Terms"
 date: '2021-09-29T15:50:00+05:30'
 permalink: /dsblog/300-Important-Statistical-Terms
 categories:
-  - Blog
+  - dsblog
 tags:
   - Statistical Terms
   - Statistics
   - Statistics for Data Science
 header:
   teaser: "/assets/images/dspost/dsp6011-300+Important-Statitical-Terms.jpg"
-excerpt_separator: "<!--more-->"
-excerpt:
-layout: single
-author_profile: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 # Important Statistical Terms   
@@ -322,9 +327,9 @@ Sno | Term | Definition
 297 | Z statistic | A Z statistic is a test statistic whose distribution under the null hypothesis has expected value zero and can be approximated well by the normal curve. Usually, Z statistics are constructed by standardizing some other statistic. The Z statistic is related to the original statistic by Z = (original − expected value of original)/SE(original).
 298 | z-test | An hypothesis test based on approximating thehttps://dasarpai.com/300-important-statistical-terms/ probability histogram of the Z statistic under the null hypothesis by the normal curve.
 
-These definitions are taken from -https://www.stat.berkeley.edu/~stark/SticiGui/Text/gloss.htm
+These definitions are taken from - https://www.stat.berkeley.edu/~stark/SticiGui/Text/gloss.htm
 
-I am maintaining these terms on this page, so that it here for my reference. I am rearranging these terms here. Removing certain unrelated terms (as per me). I may change this table based on my further exploration and understanding. For the original definition please read the above link. If any term is misunderstood or misexplained then please comment below. I will correct it here, after due consideration. If any important term is missing from this table then please mention the commentbox below.
+I am maintaining these terms on this page, so that it here for my reference. I am rearranging these terms here. Removing certain unrelated terms (as per me). I may change this table based on my further exploration and understanding. For the original definition please read from the above link. If any term is misunderstood or misexplained then please comment below. I will correct it here, after due consideration. If any important term is missing from this table then please mention the commentbox below.
 
 
 

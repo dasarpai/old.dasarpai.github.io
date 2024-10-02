@@ -1,6 +1,6 @@
 --- 
 id: 5075
-mathjax: true  
+
 title: Happy Deepawali 2019
 date: "2018-06-17T08:33:00+05:30"
 permalink: /wiaposts/happy-deepawali-2019
@@ -10,19 +10,17 @@ categories:
 header:
      teaser: /assets/images/wiapost/5075-Happy-Deepawali-2019.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Happy Deepawali 2019](/assets/images/wiapost/5075-Happy-Deepawali-2019.jpg)     
-
-## Happy Deepawali 2019
-
-    
-### Happy Diwali    
-    
+![Happy Deepawali 2019](/assets/images/wiapost/5075-Happy-Deepawali-2019.jpg)   
+   
+# Happy Deepawali 2019   
+## Happy Diwali  
+     
 Before we emerge ourselves     
 in the long celebrations of Deepawali,     
 I wanted to share with you one thought.    

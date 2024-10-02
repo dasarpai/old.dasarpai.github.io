@@ -1,6 +1,6 @@
 --- 
 id: 5016
-mathjax: true  
+
 title: The Way Of Mother
 date: "2016-04-20T08:33:00+05:30"
 permalink: /wiaposts/the-way-of-mother
@@ -10,18 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5016-The-Way-Of-Mother.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![The Way Of Mother](/assets/images/wiapost/5016-The-Way-Of-Mother.jpg)     
-
-## The Way Of Mother
-
-    
-Namaste,    
+   
+# The Way Of Mother  
     
 A twelve years old boy in a deep mountain     
 quite engrossed in his play with crops, trees, mud, cattle, and fountain.     

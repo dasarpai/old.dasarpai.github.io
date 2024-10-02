@@ -1,6 +1,6 @@
 ---   
 id: 5214   
-mathjax: true   
+ 
 title: Continuum of life   
 date: "2023-01-16T08:33:00+05:30"   
 permalink: /wiaposts/Continuum-of-life    
@@ -10,7 +10,7 @@ categories:
 header:   
     teaser: /assets/images/wiapost/5214-Continuum-of-life.jpg   
 author: Hari Thapliyaal   
-layout: single   
+layout: wiapost-layout
 excerpt:   
 author_profile: true   
 share: true   

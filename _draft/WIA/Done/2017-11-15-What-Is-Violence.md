@@ -1,6 +1,6 @@
 --- 
 id: 5062
-mathjax: true  
+
 title: What Is Violence
 date: "2017-11-15T08:33:00+05:30"
 permalink: /wiaposts/what-is-violence
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5062-What-Is-Violence.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![What Is Violence](/assets/images/wiapost/5062-What-Is-Violence.jpg)     
-
-## What Is Violence
-
-    
-Namaste,    
-    
+   
+# What Is Violence   
+   
 In nature every entity has life.     
 Life means takes birth, grows, decay, and die.     
 Look around and identify     

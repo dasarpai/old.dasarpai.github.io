@@ -1,6 +1,6 @@
 --- 
 id: 5004
-mathjax: true  
+
 title: Greetings For New Year 2015
 date: '2015-01-01T08:33:00+05:30'
 permalink: /wiaposts/greetings-for-new-year-2015
@@ -10,18 +10,18 @@ categories:
 header:
      teaser: /assets/images/wiapost/5004-Greetings-For-New-Year-2015.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Greetings For New Year 2015](/assets/images/wiapost/5004-Greetings-For-New-Year-2015.jpg)     
-
-## Greetings For New Year 2015
-
-Dear Friend,
-
+![Greetings For New Year 2015](/assets/images/wiapost/5004-Greetings-For-New-Year-2015.jpg)  
+   
+# Greetings For New Year 2015   
+   
+Dear Friend,   
+   
 I would like to wish you a healthy, rewarding and productive new year 2015 & Mary Christmas.
 
 If you are living in India or doing business in India then I hope you agree with me that this year we have restored systems which is much stable, faithful and interested in the growth of all. And coming year is about actions within the system to strengthen the nation and profession.

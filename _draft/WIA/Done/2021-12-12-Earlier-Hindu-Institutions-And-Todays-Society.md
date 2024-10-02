@@ -1,6 +1,6 @@
 --- 
 id: 5175
-mathjax: true  
+
 title: Earlier Hindu Institutions and Today's Society
 date: "2021-12-12T08:33:00+05:30"
 permalink: /wiaposts/earlier-hindu-institutions-and-todays-society
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5175-Earlier-Hindu-Institutions-And-Todays-Society.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Earlier Hindu Institutions and Today's Society](/assets/images/wiapost/5175-Earlier-Hindu-Institutions-And-Todays-Society.jpg)     
-
-## Earlier Hindu Institutions and Today's Society
-
-    
-Namaste,     
-    
+   
+# Earlier Hindu Institutions and Today's Society   
+       
 Joint Families, where each family, Kula, has a Guru and elders. Land belongs to those who can cultivate and feed others. Knowledge belongs to those who can enhance and benefit others with his knowledge. Power belongs to those who can protect others with their power. And money belongs to those who trade with other societies for the benefits of their society. Children belong to the whole village and whole family.     
     
 Temple is a place where a Bhakta and his Aradhya live together. Other Bhakta come to meditate and offer praise and flowers. Nobody other than devotee sleep and live permanently in temple premises    

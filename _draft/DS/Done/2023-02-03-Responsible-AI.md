@@ -5,13 +5,20 @@ title: Responsible AI
 date: 2023-02-03
 permalink: '/dsblog/Responsible-AI'
 tags: [AI Ethics] 
-categories: 
+categories:
+  - dsblog 
 
 header:
     teaser: /assets/images/dspost/dsp6047-Responsible-AI.jpg
-author: Hari Thapliyaal 
-excerpt:
-share: true 
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 ![Responsible-AI](/assets/images/dspost/dsp6047-Responsible-AI.jpg)   
    
@@ -58,7 +65,9 @@ The development and deployment of AI has the potential to bring about significan
 
 ## Resources
 
-You can find all these books, reports, presentations at my [google drive](https://drive.google.com/drive/folders/1UcXNEOZND7GdoaV7k93lNH21DoJAFZMz?usp=sharing)   
+You can find all these books, reports, presentations at <a href="https://drive.google.com/drive/folders/1BB1xnuZ3KT87FAZlne1E3SGs5arH9Otp?usp=sharing" target="_blank"> this link</a>.
+
+[google drive](https://drive.google.com/drive/folders/1UcXNEOZND7GdoaV7k93lNH21DoJAFZMz?usp=sharing)   
 
 1. 10 Keys to AI Success in 2021-by-DataRobot-PPT.pdf
 1. 19 Slides on AI, AI-Ethics, and XAI - Murat Durmus-PPT.pdf

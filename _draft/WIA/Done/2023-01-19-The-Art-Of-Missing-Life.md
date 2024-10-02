@@ -1,6 +1,6 @@
 ---                        
 id: 5215                        
-mathjax: true                        
+                      
 title:  The Art -Of Missing Life                 
 date: "2023-01-19T08:33:00+05:30"                        
 permalink: /wiaposts/The-Art-Of-Missing-Life                   
@@ -10,7 +10,7 @@ categories:
 header:                        
     teaser: /assets/images/wiapost/5215-The-Art-Of-Missing-Life.jpg                       
 author: Hari Thapliyaal                        
-layout: single                        
+layout: wiapost-layout
 excerpt:                        
 author_profile: true                        
 share: true                        

@@ -1,6 +1,6 @@
 --- 
 id: 5046
-mathjax: true  
+
 title: My Significance
 date: "2017-04-09T08:33:00+05:30"
 permalink: /wiaposts/my-significance
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5046-My-Significance.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![My Significance](/assets/images/wiapost/5046-My-Significance.jpg)     
-
-## My Significance
-
+   
+# My Significance
     
 One day, I came out of my apartment     
 Went one a long travel to the mountains     

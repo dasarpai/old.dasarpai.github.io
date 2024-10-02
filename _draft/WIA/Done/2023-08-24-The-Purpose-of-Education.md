@@ -1,25 +1,25 @@
 ---        
 id: 5232        
-mathjax: true        
+      
 title:  The Purpose of Education          
 date: "2023-08-24T08:33:00+05:30"        
-permalink: /wiaposts/What-is-the-Reality      
+permalink: /wiaposts/The-Purpose-of-Education     
 tags:  [My Views, Life, Philosophy]         
         
 categories:        
 header:        
     teaser: /assets/images/wiapost/5232-The-Purpose-of-Education.jpg        
 author: Hari Thapliyaal        
-layout: single        
+layout: wiapost-layout
 excerpt:        
 author_profile: true        
 share: true        
 ---        
         
-![The Purpose of Education](/assets/images/wiapost/5232-The-Purpose-of-Education.jpg)             
-
-# The Purpose of Education 
-
+![The Purpose of Education](/assets/images/wiapost/5232-The-Purpose-of-Education.jpg)     
+    
+# The Purpose of Education     
+    
 The purpose of literacy is to learn
 how to count, write, read, and understand
 what subjects are there to learn about.

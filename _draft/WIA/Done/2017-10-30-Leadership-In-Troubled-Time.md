@@ -1,6 +1,6 @@
 --- 
 id: 5061
-mathjax: true  
+
 title: Leadership In Troubled Time
 date: "2017-10-30T08:33:00+05:30"
 permalink: /wiaposts/leadership-in-troubled-time
@@ -10,17 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5061-Leadership-In-Troubled-Time.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Leadership In Troubled Time](/assets/images/wiapost/5061-Leadership-In-Troubled-Time.jpg)     
-
-## Leadership In Troubled Time
-
-    
+   
+# Leadership In Troubled Time
+   
 Enough we read, hear and lecture     
 Especially in the management profession and leadership positions.     
 Life every moment unfolds surprises     

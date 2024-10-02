@@ -1,6 +1,6 @@
 --- 
 id: 5070
-mathjax: true  
+
 title: What Kind Of Education?
 date: "2018-03-23T08:33:00+05:30"
 permalink: /wiaposts/what-kind-of-education
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5070-What-Kind-Of-Education.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![What Kind Of Education?](/assets/images/wiapost/5070-What-Kind-Of-Education.jpg)     
-
-## What Kind Of Education?
-
+   
+## What Kind Of Education?   
     
 Religious education teaches you     
 relative morality, rituals, and traditions.     

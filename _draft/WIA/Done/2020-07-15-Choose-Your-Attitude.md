@@ -1,6 +1,6 @@
 --- 
 id: 5132
-mathjax: true  
+
 title: Choose Your Attitude
 date: "2020-07-15T08:33:00+05:30"
 permalink: /wiaposts/choose-your-attitude
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5132-Choose-Your-Attitude.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Choose Your Attitude](/assets/images/wiapost/5132-Choose-Your-Attitude.jpg)     
-
-## Choose Your Attitude
-
+   
+# Choose Your Attitude   
     
 The world around us is either a warfield or playground.     
 If it is warfield then we keep fighting.     

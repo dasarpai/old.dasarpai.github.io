@@ -2,20 +2,23 @@
 mathjax: true
 id: 6111
 title: KM Ganguli Mahabharat Corpus
-date: 2024-01-03
+date: 2024-01-07
 permalink: /dsblog/KM-Ganguli-Mahabharat-Corpus
 tags: [AI-Usecases, Government] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6111-KM-Ganguli-Mahabharata-Corpus.jpg
-author: Hari Thapliyaal 
-excerpt:
-layout: dspost-layout  
-author_profile: true  
-share: true
-toc: False  
-toc_sticky: False
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
    
 ![KM Ganguli Mahabharat Corpus](/assets/images/dspost/dsp6111-KM-Ganguli-Mahabharata-Corpus.jpg)   

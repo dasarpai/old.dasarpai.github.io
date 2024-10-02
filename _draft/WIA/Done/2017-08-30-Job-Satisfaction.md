@@ -1,6 +1,6 @@
 --- 
 id: 5057
-mathjax: true  
+
 title: Job Satisfaction
 date: "2017-08-30T08:33:00+05:30"
 permalink: /wiaposts/job-satisfaction
@@ -10,21 +10,17 @@ categories:
 header:
      teaser: /assets/images/wiapost/5057-Job-Satisfaction.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Job Satisfaction](/assets/images/wiapost/5057-Job-Satisfaction.jpg)     
-
-## Job Satisfaction
-
-    
-### About Enjoyment    
-    
-Namaste,    
-    
+   
+# Job Satisfaction
+## About Enjoyment    
+   
 Life is a process and in life we do processes     
 Something is given to us as an input     
 We do some actions on the given input     

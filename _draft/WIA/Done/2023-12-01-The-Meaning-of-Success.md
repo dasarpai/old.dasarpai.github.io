@@ -1,6 +1,6 @@
 ---        
 id: 5240        
-mathjax: true        
+      
 title:  The Meaning of Success          
 date: "2023-12-01T08:33:00+05:30"        
 permalink: /wiaposts/The-Meaning-of-Success        
@@ -10,16 +10,16 @@ categories:
 header:        
     teaser: /assets/images/wiapost/5240-The-Meaning-of-Success.jpg        
 author: Hari Thapliyaal        
-layout: single        
+layout: wiapost-layout
 excerpt:        
 author_profile: true        
 share: true        
 ---        
 
-![The Meaning of Success](/assets/images/wiapost/5240-The-Meaning-of-Success.jpg)
-
-# The Meaning of Success  
-
+![The Meaning of Success](/assets/images/wiapost/5240-The-Meaning-of-Success.jpg)    
+    
+# The Meaning of Success    
+   
 Every parent wants his children to be successful.   
 Every citizen wants his state or country to be prosperous.   
 Every teacher wants his students to become successful.   
@@ -33,7 +33,7 @@ And others want to walk any length to become successful.
    
 Inspiring success in children's mind or adolescent mind is easy   
 Because they want to enjoy the life, have adventure in the life   
-Have lots of money to buy anything on this planet.   
+They want to have lots of money to buy anything on this planet.   
 Because that is the meaning of success for them.   
 But when matured people define the success this way   
 Then it is sign of immaturity,   
@@ -45,14 +45,15 @@ No matter how much wealth, fame, money, status, happiness,
 pleasure, buying power you attach to yourself, you will never feel enough.   
 You will not find a single person of past and present   
 who fit your definition of success.   
-This takes you into further ignorance,   
+
+This idea will takes you into further ignorance,   
 That I am unique, nobody in past happened like me,   
 I will live my life in unique way   
 All this is fine, till you start feeling   
 You will do that and achieve that in your life which nobody did in the past.   
    
    
-You want to work hard, or sleep on a stone in the forest. That is your choice.   
+You want to work hard, or sleep on a stone in some forest. That is your choice.   
 You want to make lots of money, or give away all your wealth. That is your choice.   
 You want to have a healthy body, or have enough money    
 to buy any kind of health treatment. That is your choice.   
@@ -65,7 +66,7 @@ on the dawn of every new year's goal setting.
 That is the path of anything but success.   
    
    
-For refreshing your memory I am giving list of a few people and organization   
+For refreshing your memory I am giving list of a few people and organizations   
 Some of these are no more, some still exist around us.   
 Read it and ask yourself what is the meaning of success in life?   
 Until we die, anything can happen to living life or living organization.   
@@ -95,7 +96,7 @@ And how long owners and employee experienced the success?
 1. **Borders Group** :Bookstore chain, faced bankruptcy due to competition from e-commerce and digital books.
 1. **CarWale** :Automotive classifieds website, acquired by CarTrade due to industry consolidation.
 1. **CELSIUS NETWORK**, United States, Liabilities :$5.5 billion
-1. **China Evergrande, China, $200 billion in unpaid bills
+1. **China Evergrande**, China, $200 billion in unpaid bills
 1. **CINEWORLD GROUP**,  United Kingdom, Liabilities :$10.38 billion
 1. **Circuit City** :Electronics retailer, faced bankruptcy due to financial issues and increased competition.
 1. **Compaq** :Computer manufacturer, acquired by HP due to competitive pressures and industry changes.
@@ -127,7 +128,7 @@ And how long owners and employee experienced the success?
 1. **Jet Airways** :Indian airline, faced financial mismanagement and debt, resulting in suspension of operations.
 1. **Johnson Publishing Company** :Media company, publisher of Ebony and Jet magazines, faced declining print media sales and filed for bankruptcy.
 1. **Kingfisher Airlines** :Indian airline, faced financial issues and operational challenges, leading to shutdown.
-1. **Kingfisher Beer** :Beer brand associated with the Kingfisher Group, still operational and one of India's popular beer brands.
+1. **Deccan Airways** : Closed because of dozens of reasons and finally couldn't survive.
 1. **Kodak** :Photography company, faced challenges in transitioning from film to digital, declared bankruptcy but continues with a focus on commercial imaging.
 1. **LeEco** :Technology conglomerate in China, expanded rapidly into various sectors but faced financial troubles and scaled back operations.
 1. **Lehman Brothers** :Investment bank, collapsed during the 2008 financial crisis due to subprime mortgage exposure.
@@ -143,8 +144,6 @@ And how long owners and employee experienced the success?
 1. **Mumbai Angels** :Angel investor network in India, still operational, supporting startups and entrepreneurs.
 1. **MySpace** :Social networking platform, faced fierce competition from Facebook and declining user engagement, leading to a decline in popularity.
 1. **OI S.A.**, Brazil, Liabilities :$9.82 billion
-1. **Ola Electric** :Branch of Ola focusing on electric vehicles, still operational and expanding its electric vehicle offerings.
-1. **OYO Rooms (OYO Hotels & Homes)** :Indian hospitality company, faced scrutiny over quality issues but remains operational and expanding globally.
 1. **Pan Am** :Iconic American airline, faced financial troubles and increased competition, leading to bankruptcy and closure.
 1. **PepperTap** :Online grocery delivery platform in India, faced operational challenges and shut down its operations.
 1. **Pets.com** :Online pet supply retailer, faced challenges in its business model and shut down during the dot-com bubble burst.
@@ -183,7 +182,6 @@ And how long owners and employee experienced the success?
 1. **Vine (the company)** :Short-form video platform, owned by Twitter, discontinued due to lack of profitability and competition.
 1. **Voonik** :Indian fashion e-commerce platform, faced funding issues but continues to operate.
 1. **Webvan** :Online grocery delivery service in the US, faced financial challenges and shut down during the dot-com bubble burst.
-1. **WeWork** :Co-working space company, faced financial issues and leadership controversies, leading to a decline in valuation.
 1. **WOW Air** :Icelandic airline, faced financial difficulties and ceased operations abruptly.
 1. **Yebhi** :Indian online shopping platform, faced operational challenges and shut down.
 1. **ZebPay** :Indian cryptocurrency exchange, faced regulatory challenges and temporarily halted operations but continues in some markets.
@@ -191,14 +189,21 @@ And how long owners and employee experienced the success?
 1. **Zynga** :Game development company, faced declining user base and shifted focus to mobile games, continues to develop and publish games
 
 # People
-1. **Raj Kundra**: He is a British-Indian businessman who was arrested in 2021 for his alleged involvement in a pornography racket ².
-1. **Sreesanth**: He is a former Indian cricketer who was banned from cricket for life by the Board of Control for Cricket in India (BCCI) for his alleged involvement in spot-fixing during the 2013 Indian Premier League (IPL) ².
-1. **Rahul Gandhi**: He is an Indian politician who has faced criticism for his leadership skills and political acumen ².
-1. **Arvind Kejriwal**: He is an Indian politician who has been involved in several controversies related to his political career, including allegations of corruption and misuse of power ².
-1. **Kapil Sibal**: He is an Indian politician and former Union Minister who has been embroiled in several controversies related to corruption and money laundering ².
-1. **Vikram Bhatt**: He is an Indian film director who has been involved in several controversies related to plagiarism and copyright infringement ².
-1. **Anurag Kashyap**: He is an Indian film director who has been accused of sexual harassment by multiple women ².
-1. **Karan Johar**: He is an Indian film director and producer who faced backlash for promoting nepotism in the Hindi film industry ².
+These individuals have been, or were, exceptionally intelligent or hardworking or fortunate to have reached the heights they did or born in filthy rich family or mix of these — a recognition that preceded their inclusion in this list. What twists in life led them to this roster? Can we consider these individuals successful now? Passing judgment on life is effortless, especially within the confines of our minds, and without public consequences. Yet, living in the moment confronts us with myriad temptations, catch us by our neck and persisting until our last breath. After perusing this list, discovering their start, their journey, their acquisitions, and eventually their fate, you'll be compelled to reassess your personal definition of success. I have randomly added these names here, whatever came on top of my mind.
+
+1. **Subhash Chadra Bose** : As per theories he died in 1985, and only 15 people on his cremation. No one actually know what happened to Neta Ji.
+1. **Karl Marks** : German-born philosopher, economist, political theorist, historian, sociologist, journalist, and revolutionary socialist. Only 13 people were present at his funeral.
+1. **Srinivasa Ramanujan & Janaki Ammal** : Ramanujan died at the age of 32 due to TB and Janaki remain widow whole life, survived on her tailoring work and little penson of her husband.
+1. **Chanda Kocchar** : ICICI Bank CEO
+1. **Chung Mong-hun** : Hyundai Group CEO. Sucide from 12th floor.
+1. **VG Siddharth** : CEO of CCD. Sucide.
+1. **Raj Kundra**: He is a British-Indian businessman who was arrested in 2021 for his alleged involvement in a pornography racket.
+1. **Sreesanth**: He is a former Indian cricketer who was banned from cricket for life by the Board of Control for Cricket in India (BCCI) for his alleged involvement in spot-fixing during the 2013 Indian Premier League (IPL).
+1. **Rahul Gandhi**: He is an Indian politician who has faced criticism for his leadership skills and political acumen.
+1. **Arvind Kejriwal**: He is an Indian politician who has been involved in several controversies related to his political career, including allegations of corruption and misuse of power.
+1. **Kapil Sibal**: He is an Indian politician and former Union Minister who has been embroiled in several controversies related to corruption and money laundering.
+1. **Vikram Bhatt**: He is an Indian film director who has been involved in several controversies related to plagiarism and copyright infringement.
+1. **Anurag Kashyap**: He is an Indian film director who has been accused of sexual harassment by multiple women.
 1. **Vijay Mallya**: He is a former Indian businessman and politician who was declared a fugitive economic offender by the Indian government in 2019 ⁴.
 1. **Nirav Modi**: He is a former Indian diamond merchant who was accused of defrauding the Punjab National Bank of over $2 billion ⁴.
 1. **Subrata Roy**: He was an Indian businessman and the founder of Sahara India Pariwar, which has been involved in several controversies and legal battles ⁴.
@@ -217,6 +222,6 @@ And how long owners and employee experienced the success?
 1. **Suresh Nanda**: He is an Indian businessman who was involved in several controversies related to arms dealing and corruption ⁴.
 1. **Madhu Koda**: He is an Indian politician who was accused of involvement in a major mining scam that caused losses worth billions of dollars to the Indian exchequer ⁴.
 
-# Resources
+# More Resources
 - https://intellizence.com/insights/bankruptcy/leading-companies-filing-for-bankruptcy/
 - https://gfmag.com/data/worlds-biggest-bankruptcies/

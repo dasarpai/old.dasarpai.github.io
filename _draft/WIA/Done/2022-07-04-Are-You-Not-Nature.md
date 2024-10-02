@@ -1,6 +1,6 @@
 --- 
 id: 5192
-mathjax: true  
+
 title: Are you not Nature?
 date: "2022-07-04T08:33:00+05:30"
 permalink: /wiaposts/are-you-not-nature
@@ -10,18 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5192-Are-You-Not-Nature.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Are you not Nature?](/assets/images/wiapost/5192-Are-You-Not-Nature.jpg)     
-
-## Are you not Nature?
-
-    
-    
+   
+# Are you not Nature?   
+   
 If a man thinks he has done something against Mother Nature     
 that is why nature is punishing him or going to punish him then     
 he forgets that he himself is part of the parcel of nature.     

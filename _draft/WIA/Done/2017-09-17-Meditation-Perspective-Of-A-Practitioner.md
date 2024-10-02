@@ -1,6 +1,6 @@
 --- 
 id: 5058
-mathjax: true  
+
 title: Meditation Perspective Of A Practitioner
 date: "2017-09-17T08:33:00+05:30"
 permalink: /wiaposts/meditation-perspective-of-a-practitioner
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5058-Meditation-Perspective-Of-A-Practitioner.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Meditation Perspective Of A Practitioner](/assets/images/wiapost/5058-Meditation-Perspective-Of-A-Practitioner.jpg)     
-
-## Meditation Perspective Of A Practitioner
-
-    
-Namaste    
-    
+   
+# Meditation Perspective Of A Practitioner
+   
 An English word Meditation has many meanings     
 Today I sharing my perceptive on a Samskrut word Dhyanam,     
 which is an integral part of Indian yogic traditions.    

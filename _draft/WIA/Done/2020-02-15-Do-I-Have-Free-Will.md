@@ -1,6 +1,6 @@
 --- 
 id: 5118
-mathjax: true  
+
 title: Do I Have Free Will?
 date: "2020-02-15T08:33:00+05:30"
 permalink: /wiaposts/do-i-have-free-will
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5118-Do-I-Have-Free-Will.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Do I Have Free Will?](/assets/images/wiapost/5118-Do-I-Have-Free-Will.jpg)     
-
-## Do I Have Free Will?
-
+   
+# Do I Have Free Will?   
     
 Since the time first life came in the existence,     
 It is struggling to establish itself separate     

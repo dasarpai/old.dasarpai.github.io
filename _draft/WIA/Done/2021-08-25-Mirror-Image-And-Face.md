@@ -1,6 +1,6 @@
 --- 
 id: 5169
-mathjax: true  
+
 title: Mirror, Image and Face
 date: "2021-08-25T08:33:00+05:30"
 permalink: /wiaposts/mirror-image-and-face
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5169-Mirror-Image-And-Face.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Mirror, Image and Face](/assets/images/wiapost/5169-Mirror-Image-And-Face.jpg)     
-
-## Mirror, Image and Face
-
-    
-Namaste,    
-    
+   
+# Mirror, Image and Face     
+   
 You go before a mirror for various reasons. When you have doubt, when there is a curiosity, when someone compliments or points something out or just for the time-pass.    
     
 When you are before the mirror and the mirror is clean then you can never miss your image while looking there. Here are three entities: you, mirror and your image in the mirror.     

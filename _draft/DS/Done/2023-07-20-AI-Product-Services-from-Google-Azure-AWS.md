@@ -5,16 +5,20 @@ title: AI Product and Services from Google, Azure and AWS
 date: 2023-07-20
 permalink: '/dsblog/AI-Product-and-Services-from-Google-Azure-and-AWS'
 tags: [AWS, Google, Azure, Cloud, AutoML, AI Products] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6078-AI-Product-and-Services-from-Google-Azure-and-AWS.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: False  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![AI Product and Services from Google, Azure and AWS](/assets/images/dspost/dsp6078-AI-Product-and-Services-from-Google-Azure-and-AWS.jpg)
@@ -53,3 +57,9 @@ toc_sticky: true
 | 28.| [Azure Applied AI Services:]( https://aka.ms/ScalerHomepage) Specialised services that enable organisations to accelerate time to value in applying AI to solve common scenarios |  | 
 | 29.| [Azure OpenAI Service:]( https://azure.microsoft.com/en-in/products/cognitive-services/openai-service/) Apply advanced coding and language models to a variety of use cases |  | 
 | 30.| [Azure Cognitive Services for Vision:]( https://azure.microsoft.com/en-in/products/cognitive-services/vision-services/) Unlock insights from image and video content with AI |  | 
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

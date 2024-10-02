@@ -1,6 +1,6 @@
 --- 
 id: 5081
-mathjax: true  
+
 title: When To Reincarnate?
 date: "2018-10-05T08:33:00+05:30"
 permalink: /wiaposts/when-to-reincarnate
@@ -10,17 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5081-When-To-Reincarnate.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![When To Reincarnate?](/assets/images/wiapost/5081-When-To-Reincarnate.jpg)     
-
-## When To Reincarnate?
-
-    
+![When To Reincarnate?](/assets/images/wiapost/5081-When-To-Reincarnate.jpg)  
+   
+# When To Reincarnate?   
+      
 Either by choice or by chance you are in a profession     
 which you feel pride in or makes your living from.     
 Some are saints, some are robbers and thieves,     

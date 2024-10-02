@@ -3,18 +3,24 @@ mathjax: true
 id: 6114
 title: What is Unicode and how does it works?
 date: 2024-07-27
-permalink: /dsblog/6114-what-is-unicode-and-how-does-it-works
+permalink: /dsblog/what-is-unicode-and-how-does-it-works
 tags: [NLP, NLU, LLM]
 categories:
+  - dsblog
 header:
     teaser: /assets/images/dspost/6114-what-is-unicode-and-how-does-it-works.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: single  
-author_profile: true  
-toc: True  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
+
+![What is Unicode and how does it works?](/assets/images/dspost/6114-what-is-unicode-and-how-does-it-works.jpg)
 
 # What is Unicode and how does it works?
 

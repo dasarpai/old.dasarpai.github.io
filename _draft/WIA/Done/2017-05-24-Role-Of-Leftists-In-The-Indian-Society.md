@@ -1,6 +1,6 @@
 --- 
 id: 5049
-mathjax: true  
+
 title: Role Of Leftists In The Indian Society
 date: "2017-05-24T08:33:00+05:30"
 permalink: /wiaposts/role-of-leftists-in-the-indian-society
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5049-Role-Of-Leftists-In-The-Indian-Society.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Role Of Leftists In The Indian Society](/assets/images/wiapost/5049-Role-Of-Leftists-In-The-Indian-Society.jpg)     
-
-## Role Of Leftists In The Indian Society
-
+   
+# Role Of Leftists In The Indian Society
     
 Unit of an idea is a thought     
 A thought of love, respect, value, care, preservation, etc.     

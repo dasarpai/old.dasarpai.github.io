@@ -1,6 +1,6 @@
 --- 
 id: 5190
-mathjax: true  
+
 title: Greeting and Culture
 date: "2022-05-27T08:33:00+05:30"
 permalink: /wiaposts/greeting-and-culture
@@ -10,18 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5190-Greeting-And-Culture.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Greeting and Culture](/assets/images/wiapost/5190-Greeting-And-Culture.jpg)     
-
-## Greeting and Culture
-
-    
-    
+   
+# Greeting and Culture   
+   
 What we know, that is because of our efforts     
 and the support of family and friends.     
     

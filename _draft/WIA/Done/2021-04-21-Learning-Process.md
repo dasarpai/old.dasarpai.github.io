@@ -1,6 +1,6 @@
 --- 
 id: 5152
-mathjax: true  
+
 title: Learning Process
 date: "2021-04-21T08:33:00+05:30"
 permalink: /wiaposts/learning-process
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5152-Learning-Process.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Learning Process](/assets/images/wiapost/5152-Learning-Process.jpg)     
-
-## Learning Process
-
     
-Namaste,    
-    
+# Learning Process    
+     
 When you see some long physics or maths formula then don’t get scared of it. It is just a way to represent the reality. Is it an absolute reality? No, it just represents that reality, and the absolute reality is very close to this. Whether it is a formula of gravity or force or angular momentum or energy calculations or anything else.    
     
 But how do these formulas come into existence? Inquisitiveness, a deep thinking mind, and a habit of learning are instrumental to this.    

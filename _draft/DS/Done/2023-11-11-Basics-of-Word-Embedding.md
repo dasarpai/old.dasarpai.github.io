@@ -6,14 +6,18 @@ date: 2023-11-11
 permalink: /dsblog/basics-of-word-embedding
 tags: [Word Embedding, Embedding, NLP]
 categories:
+  - dsblog
 header:
     teaser: /assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: True  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Basics of Word Embedding](/assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg)

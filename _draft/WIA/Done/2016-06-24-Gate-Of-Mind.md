@@ -1,6 +1,6 @@
 --- 
 id: 5021
-mathjax: true  
+
 title: Gate Of Mind
 date: "2016-06-24T08:33:00+05:30"
 permalink: /wiaposts/gate-of-mind
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5021-Gate-Of-Mind.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Gate Of Mind](/assets/images/wiapost/5021-Gate-Of-Mind.jpg)     
-
-## Gate Of Mind
-
+   
+# Gate Of Mind
     
 I am a prisoner of the mind     
 Nobody forced me here     

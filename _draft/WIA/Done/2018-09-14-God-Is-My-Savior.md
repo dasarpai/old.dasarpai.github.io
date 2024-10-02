@@ -1,6 +1,6 @@
 --- 
 id: 5080
-mathjax: true  
+
 title: God Is My Savior
 date: "2018-09-14T08:33:00+05:30"
 permalink: /wiaposts/god-is-my-savior
@@ -10,17 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5080-God-Is-My-Savior.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![God Is My Savior](/assets/images/wiapost/5080-God-Is-My-Savior.jpg)     
-
-## God Is My Savior
-
-    
+   
+# God Is My Savior   
+       
 When a human kills,    
 cooks and eats helpless creature    
 and no God, Allah, Devi, Devta, Jesus    

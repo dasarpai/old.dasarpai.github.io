@@ -1,6 +1,6 @@
 --- 
 id: 5130
-mathjax: true  
+
 title: Shraddha On Guru
 date: "2020-06-27T08:33:00+05:30"
 permalink: /wiaposts/shraddha-on-guru
@@ -10,18 +10,17 @@ categories:
 header:
      teaser: /assets/images/wiapost/5130-Shraddha-On-Guru.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Shraddha On Guru](/assets/images/wiapost/5130-Shraddha-On-Guru.jpg)     
-
-## Shraddha On Guru
-
-    
-### Guru Purnima 2021    
+![Shraddha On Guru](/assets/images/wiapost/5130-Shraddha-On-Guru.jpg)  
+   
+# Shraddha On Guru
+   
+## Guru Purnima 2021    
     
 Darkness was prevalent all over     
 Because it was dark everywhere outside     

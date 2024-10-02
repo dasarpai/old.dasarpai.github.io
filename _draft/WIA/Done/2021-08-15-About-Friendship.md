@@ -1,6 +1,6 @@
 --- 
 id: 5167
-mathjax: true  
+
 title: About Friendship
 date: "2021-08-15T08:33:00+05:30"
 permalink: /wiaposts/about-friendship
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5167-About-Friendship.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![About Friendship](/assets/images/wiapost/5167-About-Friendship.jpg)     
-
-## About Friendship
-
-    
-Namaste,     
-    
+   
+## About Friendship   
+        
 The definition of friendship in real life is not the same as in social media. In the age of social media Connecting relatives, colleagues, like minded people is considered friendship. It has its own utility. Having relationships like spouse, children, parents, uncle, aunt doesn't mean friendship. Friendship is a special relationship. In every life very few relations deserve to qualify for that special friendship. Otherwise all are transactions of give and take depending upon time, place, and situation. The role of people can change from squeezer to squeezed.     
     
 It takes time to build relationships, some come from bloodline, but they can spoil because of a few abnormal transactions.     

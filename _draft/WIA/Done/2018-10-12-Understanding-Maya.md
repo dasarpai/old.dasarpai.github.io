@@ -1,6 +1,6 @@
 --- 
 id: 5082
-mathjax: true  
+
 title: Understanding Maya
 date: "2018-10-12T08:33:00+05:30"
 permalink: /wiaposts/understanding-maya
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5082-Understanding-Maya.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Understanding Maya](/assets/images/wiapost/5082-Understanding-Maya.jpg)     
-
-## Understanding Maya
-
+![Understanding Maya](/assets/images/wiapost/5082-Understanding-Maya.jpg)        
+   
+# Understanding Maya
     
 If you live near a river or ocean     
 then water is everything for you.     

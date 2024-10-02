@@ -4,7 +4,7 @@ title: "Data Science/AI Projects Project Ideas"
 date: '2022-10-06T15:50:00+05:30'
 permalink: /dsblog/DS-AI-Projects-Project-Ideas
 categories:
-  - Blog
+  - dsblog
 tags:
   - ML Projects
   - Deep Learning Projects
@@ -16,10 +16,15 @@ tags:
   - NLP Project Ideas
 header:
   teaser: /assets/images/dspost/dsp6013-Data-Science-Project-Ideas.jpg
-excerpt_separator: "<!--more-->"
-excerpt:
-layout: single
-author_profile: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 [AI Projects Project Ideas](/assets/images/dspost/dsp6013-Data-Science-Project-Ideas.jpg)   

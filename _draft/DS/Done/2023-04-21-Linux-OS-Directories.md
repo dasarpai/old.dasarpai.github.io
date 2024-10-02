@@ -5,17 +5,20 @@ title: Linux OS Directories
 date: 2023-04-26    
 permalink: '/dsblog/Linux-OS-Directories'    
 tags: [Linux]     
-categories:     
+categories:
+  - dsblog     
     
 header:    
     teaser: /assets/images/dspost/dsp6055-Linux-OS-Directories.jpg    
-author: Hari Thapliyaal       
-layout: dspost-layout       
-excerpt:       
-author_profile: true       
-share: true       
-toc: true       
-toc_sticky: true     
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"    
 ---    
     
 ![Linux OS Directories](/assets/images/dspost/dsp6055-Linux-OS-Directories.jpg)    

@@ -1,6 +1,6 @@
 --- 
 id: 5135
-mathjax: true  
+
 title: Value Based True Friendship
 date: "2020-08-31T08:33:00+05:30"
 permalink: /wiaposts/value-based-true-friendship
@@ -10,19 +10,18 @@ categories:
 header:
      teaser: /assets/images/wiapost/5135-Value-Based-True-Friendship.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Value Based True Friendship](/assets/images/wiapost/5135-Value-Based-True-Friendship.jpg)     
-
-## Value Based True Friendship
-
+![Value Based True Friendship](/assets/images/wiapost/5135-Value-Based-True-Friendship.jpg)    
     
-### When Sir MV blackmailed DVG    
+# Value Based True Friendship   
     
+## When Sir MV blackmailed DVG    
+     
 Sir M Visvesvaraiah was the Dewan of the Mysore State from 1912 to 1918. Sir MV, as he was popularly known, had a fairly large circle of friends and among them was eminent Kannada writer and thinker D V Gundappa (DVG).    
     
 DVG was not merely a writer but was also a journalist, eminent thinker, and a visionary. In 1945, he set up the Gokhale Institute of Public Affairs in NR Colony, Bangalore, and he was instrumental in beginning the Popular Education League and the Social Service League.    

@@ -1,6 +1,6 @@
 --- 
 id: 5147
-mathjax: true  
+
 title: The Art Of Dying 2
 date: "2021-02-20T08:33:00+05:30"
 permalink: /wiaposts/the-art-of-dying-2
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5147-The-Art-Of-Dying-2.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![The Art Of Dying 2](/assets/images/wiapost/5147-The-Art-Of-Dying-2.jpg)     
-
-## The Art Of Dying 2
-
-    
-Namaste,    
-    
+   
+## The Art Of Dying 2   
+       
 Inhaling is different from exhaling and     
 Exhaling is different from inhaling     
 Both never happens to us at the same time     

@@ -1,6 +1,6 @@
 --- 
 id: 5025
-mathjax: true  
+
 title: My Creator
 date: "2016-08-02T08:33:00+05:30"
 permalink: /wiaposts/my-creator
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5025-My-Creator.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![My Creator](/assets/images/wiapost/5025-My-Creator.jpg)     
-
-## My Creator
-
+   
+# My Creator
     
 There was the time     
 When I had no eyes but could navigate the world better     

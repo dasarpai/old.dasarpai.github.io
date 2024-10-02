@@ -1,6 +1,6 @@
 --- 
 id: 5079
-mathjax: true  
+
 title: Happening Human Reasoning
 date: "2018-08-24T08:33:00+05:30"
 permalink: /wiaposts/happening-human-reasoning
@@ -10,17 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5079-Happening-Human-Reasoning.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Happening Human Reasoning](/assets/images/wiapost/5079-Happening-Human-Reasoning.jpg)     
-
-## Happening Human Reasoning
-
-    
+   
+# Happening Human Reasoning
+       
 Think about any ten unconnected things.     
 Connect them all in a half-page story.     
 Any human can do this.     

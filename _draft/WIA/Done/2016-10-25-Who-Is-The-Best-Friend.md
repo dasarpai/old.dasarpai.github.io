@@ -1,6 +1,6 @@
 --- 
 id: 5032
-mathjax: true  
+
 title: Who Is The Best Friend?
 date: "2016-10-25T08:33:00+05:30"
 permalink: /wiaposts/who-is-the-best-friend
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5032-Who-Is-The-Best-Friend.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Who Is The Best Friend?](/assets/images/wiapost/5032-Who-Is-The-Best-Friend.jpg)     
-
-## Who Is The Best Friend?
-
+   
+# Who Is The Best Friend?
     
 Pratibimba is my childhood friend,     
 One day I asked him     

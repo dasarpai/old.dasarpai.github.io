@@ -5,10 +5,12 @@ title: Application of AI in BFSI
 date: 2023-01-28
 permalink: '/dsblog/Application-of-AI-in-BFSI'
 tags: [AI Usecases, BFSI] 
-categories: 
+categories:
+  - dsblog
 
 header:
    teaser: /assets/images/dspost/dsp6048-Application-of-AI-in-BFSI.jpg
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
 excerpt:   
@@ -16,6 +18,7 @@ author_profile: true
 share: true   
 toc: true   
 toc_sticky: true 
+mathjax: "true"
 ---
    
 ![Application-of-AI-in-BFSI](/assets/images/dspost/dsp6048-Application-of-AI-in-BFSI.jpg)   

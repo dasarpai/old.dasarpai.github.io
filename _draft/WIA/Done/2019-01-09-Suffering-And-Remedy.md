@@ -1,6 +1,6 @@
 --- 
 id: 5089
-mathjax: true  
+
 title: Suffering And Remedy
 date: "2019-01-09T08:33:00+05:30"
 permalink: /wiaposts/suffering-and-remedy
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5089-Suffering-And-Remedy.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Suffering And Remedy](/assets/images/wiapost/5089-Suffering-And-Remedy.jpg)     
-
-## Suffering And Remedy
-
+    
+# Suffering And Remedy
     
 If you know the cause of all your pain and suffering     
 is ignorance of the subject from you are suffering     

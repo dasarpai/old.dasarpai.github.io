@@ -1,6 +1,6 @@
 ---     
 id: 5207    
-mathjax: true   
+ 
 title: Are You Feeling Stuck in Life    
 date: "2022-12-16T08:33:00+05:30"    
 permalink: /wiaposts/Are-You-Feeling-Stuck-in-Life    
@@ -10,7 +10,7 @@ categories:
 header:    
     teaser: /assets/images/wiapost/5207-Are-You-Feeling-Stuck-in-Life.jpg    
 author: Hari Thapliyaal     
-layout: single     
+layout: wiapost-layout
 excerpt:   
 author_profile: true     
 share: true     

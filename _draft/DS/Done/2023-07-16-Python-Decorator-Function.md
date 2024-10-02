@@ -5,16 +5,20 @@ title: Python Decorator Function
 date: 2023-07-15
 permalink: '/dsblog/Python-Decorator-Function'
 tags: [Python, Programming] 
-categories: 
+categories:
+  - dsblog 
 
 header:
     teaser: /assets/images/dspost/dsp6074-Python-Decorator-Function.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: true  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Python Decorator Function](/assets/images/dspost/dsp6074-Python-Decorator-Function.jpg)   

@@ -1,6 +1,6 @@
 --- 
 id: 5094
-mathjax: true  
+
 title: The Meaning Of Namaste
 date: "2019-03-24T08:33:00+05:30"
 permalink: /wiaposts/the-meaning-of-namaste
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5094-The-Meaning-Of-Namaste.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
-
+  
 ![The Meaning Of Namaste](/assets/images/wiapost/5094-The-Meaning-Of-Namaste.jpg)     
-
-## The Meaning Of Namaste
-
+   
+# The Meaning Of Namaste
     
 “नम्” धातु + ङे प्रत्यय = नम:+ते= नमस्ते     
 नम् means bow down     

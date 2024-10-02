@@ -1,6 +1,6 @@
 --- 
 id: 5022
-mathjax: true  
+
 title: The Mind Is Friend Or Enemy
 date: "2016-07-10T08:33:00+05:30"
 permalink: /wiaposts/the-mind-is-friend-or-enemy
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5022-The-Mind-Is-Friend-Or-Enemy.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![The Mind Is Friend Or Enemy](/assets/images/wiapost/5022-The-Mind-Is-Friend-Or-Enemy.jpg)     
-
-## The Mind Is Friend Or Enemy
-
+   
+# The Mind Is Friend Or Enemy
     
 For any human being, his mind is     
 either an asset or a huge liability     

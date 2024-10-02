@@ -3,18 +3,21 @@ id: 6018
 title: "What is Computer Vision"   
 date: '2022-12-28T15:50:00+05:30'   
 permalink: /dsblog/what-is-computer-vision 
-categories:   
-   
+categories:
+  - dsblog
 tags: [Computer Vision]   
    
 header:   
   teaser: "/assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg"   
 excerpt_separator: "<!--more-->"   
-excerpt:   
+author: Hari Thapliyaal   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 --- 
    
 ![What is Computer Vision](/assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg)   

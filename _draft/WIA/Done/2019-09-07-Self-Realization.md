@@ -1,6 +1,6 @@
 --- 
 id: 5106
-mathjax: true  
+
 title: Self Realization
 date: "2019-09-07T08:33:00+05:30"
 permalink: /wiaposts/self-realization
@@ -10,17 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5106-Self-Realization.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Self Realization](/assets/images/wiapost/5106-Self-Realization.jpg)     
-
-## Self Realization
-
-    
+![Self Realization](/assets/images/wiapost/5106-Self-Realization.jpg)   
+   
+# Self Realization   
+       
 What is the meaning of Self-Realization?     
 What is the meaning of Liberation?     
 What is the meaning of Self-Actualization?     

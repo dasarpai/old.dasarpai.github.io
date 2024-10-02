@@ -1,6 +1,6 @@
 --- 
 id: 5148
-mathjax: true  
+
 title: AI And Free Soul
 date: "2021-03-10T08:33:00+05:30"
 permalink: /wiaposts/ai-and-free-soul
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5148-Ai-And-Free-Soul.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![AI And Free Soul](/assets/images/wiapost/5148-Ai-And-Free-Soul.jpg)     
-
-## AI And Free Soul
-
-    
-Namaste,    
-    
+![AI And Free Soul](/assets/images/wiapost/5148-Ai-And-Free-Soul.jpg)       
+   
+# AI And Free Soul     
+   
 Human likes certainty but enjoys good surprises     
 and learns from bad surprises.     
 To make the future certain and predictable,     

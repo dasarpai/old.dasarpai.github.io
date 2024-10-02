@@ -1,6 +1,6 @@
 --- 
 id: 5187
-mathjax: true  
+
 title: Effect of Maya
 date: "2022-04-30T08:33:00+05:30"
 permalink: /wiaposts/effect-of-maya
@@ -10,18 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5187-Effect-Of-Maya.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Effect of Maya](/assets/images/wiapost/5187-Effect-Of-Maya.jpg)     
-
-## Effect of Maya
-
-    
-    
+   
+# Effect of Maya   
+   
 If there is no object then the presence of light cannot be sensed.     
 If there is no environment on earth then the blueness of the sky cannot be sensed.     
     

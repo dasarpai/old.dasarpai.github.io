@@ -1,6 +1,6 @@
 --- 
 id: 5069
-mathjax: true  
+
 title: The Root Of Body Mass
 date: "2018-02-27T08:33:00+05:30"
 permalink: /wiaposts/the-root-of-body-mass
@@ -10,17 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5069-The-Root-Of-Body-Mass.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![The Root Of Body Mass](/assets/images/wiapost/5069-The-Root-Of-Body-Mass.jpg)     
-
-## The Root Of Body Mass
-
-    
+   
+# The Root Of Body Mass
     
 All lives including humans are made of proteins.     
 Protein is made of molecules.     

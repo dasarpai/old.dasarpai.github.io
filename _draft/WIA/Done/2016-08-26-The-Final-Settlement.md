@@ -1,6 +1,6 @@
 --- 
 id: 5027
-mathjax: true  
+
 title: The Final Settlement
 date: "2016-08-26T08:33:00+05:30"
 permalink: /wiaposts/the-final-settlement
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5027-The-Final-Settlement.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![The Final Settlement](/assets/images/wiapost/5027-The-Final-Settlement.jpg)     
-
-## The Final Settlement
-
+   
+# The Final Settlement
     
 A man from a village,     
 Met me after so many years.     

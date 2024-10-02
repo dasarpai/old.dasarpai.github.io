@@ -1,6 +1,6 @@
 --- 
 id: 5028
-mathjax: true  
+
 title: Sources Of Evidence
 date: "2016-08-27T08:33:00+05:30"
 permalink: /wiaposts/sources-of-evidence
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5028-Sources-Of-Evidence.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Sources Of Evidence](/assets/images/wiapost/5028-Sources-Of-Evidence.jpg)     
-
-## Sources Of Evidence
-
+   
+# Sources Of Evidence
     
 Suppose you have vast land and no one around you.     
 For you living you want to work in the field     

@@ -1,6 +1,6 @@
 --- 
 id: 5076
-mathjax: true  
+
 title: Managing Source Of Energy
 date: "2018-07-11T08:33:00+05:30"
 permalink: /wiaposts/managing-source-of-energy
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5076-Managing-Source-Of-Energy.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Managing Source Of Energy](/assets/images/wiapost/5076-Managing-Source-Of-Energy.jpg)     
-
-## Managing Source Of Energy
-
+   
+# Managing Source Of Energy   
     
 If we group people based on     
 their energy characteristics     

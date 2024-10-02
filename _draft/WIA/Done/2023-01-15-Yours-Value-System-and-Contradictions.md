@@ -1,6 +1,6 @@
 ---                    
 id: 5213                    
-mathjax: true                    
+                  
 title: Yours Value System and Contradictions                 
 date: "2023-01-15T08:33:00+05:30"                    
 permalink: /wiaposts/Yours-Value-System-and-Contradictions               
@@ -10,7 +10,7 @@ categories:
 header:                    
     teaser: /assets/images/wiapost/5213-Yours-Value-System-and-Contradictions.jpg                   
 author: Hari Thapliyaal                    
-layout: single                    
+layout: wiapost-layout
 excerpt:                    
 author_profile: true                    
 share: true                    

@@ -6,16 +6,20 @@ date: 2023-08-21
 permalink: '/dsblog/Machine-Learning-Metrics'
 tags: [Machine Learning, NLP, ML Metrics, Model Evaluation, Abbreviation]
 categories:
+  - dsblog
 
 
 header:
     teaser: /assets/images/dspost/dsp6092-Machine-Learning-Metrics.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: True  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Comprehensive Glossary of LLM](/assets/images/dspost/dsp6092-Machine-Learning-Metrics.jpg)
@@ -872,3 +876,9 @@ The dataset is used to measure the performance of LLMs on commonsense reasoning 
 - [AI Google - NaturalQuestions/leaderboard](https://ai.google.com/research/NaturalQuestions/leaderboard)
 - [Eval AI](https://eval.ai/web/challenges/challenge-page/514/leaderboard/1386)
 - [QuAC- Question Answering in Context](https://quac.ai/)
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

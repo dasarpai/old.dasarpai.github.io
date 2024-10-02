@@ -1,6 +1,6 @@
 --- 
 id: 5141
-mathjax: true  
+
 title: Limitations Of Logic
 date: "2020-11-20T08:33:00+05:30"
 permalink: /wiaposts/limitations-of-logic
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5141-Limitations-Of-Logic.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Limitations Of Logic](/assets/images/wiapost/5141-Limitations-Of-Logic.jpg)     
-
-## Limitations Of Logic
-
-    
-Namaste,    
-    
+   
+# Limitations Of Logic   
+   
 Logic is a lately developed human phenomenon.     
 But in reality, there is no logic anywhere in the existence.     
 Humans give meaning to life.     

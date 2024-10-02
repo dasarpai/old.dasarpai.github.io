@@ -1,6 +1,6 @@
 --- 
 id: 5043
-mathjax: true  
+
 title: How To Acquire New Skills
 date: "2017-03-19T08:33:00+05:30"
 permalink: /wiaposts/how-to-acquire-new-skills
@@ -10,19 +10,17 @@ categories:
 header:
      teaser: /assets/images/wiapost/5043-How-To-Acquire-New-Skills.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![How To Acquire New Skills](/assets/images/wiapost/5043-How-To-Acquire-New-Skills.jpg)     
-
-## How To Acquire New Skills
-
-    
-### About Science and Art of Learning    
-    
+   
+# How To Acquire New Skills    
+## About Science and Art of Learning    
+       
 Science means rules, formula, process,     
 Repeatability, reproducibility, scalability    
     

@@ -6,16 +6,19 @@ date: 2023-04-27
 permalink: '/dsblog/Types-of-Machine-Learning'
 tags: [Machine-Learning]
 categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg
-author: Hari Thapliyaal  
-layout: dspost-layout  
-excerpt:  
-author_profile: true  
-share: true  
-toc: true  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Types of Machine Learning](/assets/images/dspost/dsp6056-Types-of-Machine-Learning.jpg)     
@@ -25,8 +28,78 @@ toc_sticky: true
 ## Introduction   
 Machine learning is a field of artificial intelligence that focuses on developing algorithms that can learn from data and make predictions or decisions. There are several types of machine learning techniques, each with its strengths and weaknesses. In this post, we will explore some of the most commonly used machine learning techniques, including supervised learning, unsupervised learning, reinforcement learning, and more. This post is not about deep diving into these topics but to give you a oneliner understanding and the difference between these different techniques.
 
+Before we dive into different kind of learning let's understand few related important concepts.
 
+## What is pre-training and what is pre-trained model?
+**Pre-Training**: The process of training a machine learning model on a large, general dataset to learn broad patterns and features.
+
+**Pre-Trained Model**: A model that has already undergone pre-training and learned general features, which can be further adapted or fine-tuned for specific tasks.
+
+Pre-trained models are developed using extensive and diverse datasets, sometime diverse modalities, allowing them to learn a broad range of features, patterns, and representations. For example, a pre-trained image classification model might be trained on millions of images across various categories.
+
+Pre-trained models are often used in transfer learning, where they are adapted to a new, often more specific task. Instead of training a model from scratch, which can be time-consuming and require large amounts of data, you start with a pre-trained model and fine-tune it on your specific dataset.
+
+Using pre-trained models can significantly reduce training time and computational resources, as the model already has learned useful features and representations that can be leveraged for new tasks.
+
+In NLP Models like GPT-3, BERT, and T5 are pre-trained on large text corpora and can be fine-tuned for specific tasks like sentiment analysis, translation, or summarization. In Computer Vision Models like ResNet, VGG, and EfficientNet are pre-trained on large image datasets like ImageNet and can be fine-tuned for tasks like object detection or medical image analysis.
+
+### Benefits of Pretrained Models
+
+- **Reduced Training Time**: Leveraging existing pre-trained models saves time compared to training a model from scratch.
+- **Improved Performance**: Pre-trained models often achieve better performance on specific tasks due to their exposure to extensive and diverse data during pre-training.
+- **Resource Efficiency**: Less computational power is required since the model is already trained on large datasets.
+
+## Fine-tuning vs shot-learning 
+Fine-tuning and shot learning looks same but here is a shuttle difference between them.
+
+| Aspect                  | Fine-Tuning                                | Shot Learning                               |
+|-------------------------|--------------------------------------------|---------------------------------------------|
+| **Definition**          | Further training of a pre-trained model on a smaller, task-specific dataset. | Training a model to perform well with very few examples or even just one. |
+| **Training Data**       | Typically involves a moderate-sized dataset related to the specific task. | Involves minimal data (few-shot or one-shot examples). |
+| **Weight Updates**      | Weights of the model are updated during the fine-tuning process. | Often involves minimal weight updates (for deep learing), no weight update in LLM; focuses on adapting to new tasks quickly. |
+| **Purpose**             | Adapt a general-purpose model to a specific application or domain. | Enable quick adaptation to new tasks or classes with limited examples. |
+| **Examples**            | Fine-tuning a language model on specific industry jargon/concept/process/idea. | Using a few examples to teach a model to classify new types of images. |
+| **Techniques**          | Transfer learning, domain adaptation.      | Meta-learning, prototypical networks, relation networks. |
+| **Computational Cost**  | Moderate, depending on the size of the fine-tuning dataset. | Low, as only a small amount of data is used for adaptation. |
+
+## Shot learning in the context of Deep Learning vs LLM
+
+Due to LLM flood in the market, nowadays when people hear about shot learning they think it is prompt engineering. But shot-learning is different in the context of deep learning vs its usage in LLM.
+
+Certainly! Here’s a comparison of shot learning in the context of Deep Learning versus Large Language Models (LLMs):
+
+| Aspect                    | Deep Learning                              | Large Language Models (LLMs)                 |
+|---------------------------|--------------------------------------------|----------------------------------------------|
+| **Definition**            | Training models to recognize or perform tasks with very few examples. | Adapting models to handle new tasks with minimal examples in the prompt. |
+| **Training Process**      | Involves techniques like meta-learning, where the model's weights are updated with a few examples. | Uses in-context learning, where the model adapts to tasks based on the examples provided in the prompt without updating weights. |
+| **Weight Updates**        | Model weights are updated during training with few examples (e.g., few-shot learning). | No weight updates; the model uses examples to infer how to perform the task at inference time. |
+| **Examples**              | Few-shot learning for image classification where the model is fine-tuned with a few images per class. | Few-shot prompting for text generation where a few example inputs and outputs are provided in the prompt. |
+| **Contextual Adaptation** | Adapts through learning mechanisms specific to the task (e.g., metric learning or prototype-based methods). | Adapts using the context provided in the prompt to understand and perform new tasks. |
+| **Common Techniques**     | Prototypical Networks, Matching Networks, Meta-Learning (e.g., MAML). | In-context learning, prompt engineering, zero-shot and few-shot prompting. |
+| **Computational Cost**    | Can be higher due to fine-tuning or training with few examples. | Generally lower, as it involves using the pre-trained model directly with example prompts. |
+| **Data Efficiency**       | Requires careful selection of few examples for effective learning. | Leverages pre-trained knowledge to perform well with minimal data in prompts. |
+
+## What is Zero-shot learning?
+**Zero-Shot Learning** is a technique where a model performs a task or recognizes a class it was not explicitly trained on, using its pre-existing knowledge. Keep in mind this is not learning in traditional sense, because there is not weight and bias updatation happening. A pretrained model is being used for inference purpose in the development environment. If you are satisfied then you can move it to production.
+
+### Key Points
+
+- **Pre-Trained Knowledge**: The model has been trained on a large and diverse dataset, learning general patterns and features.
+- **No Additional Training**: The model performs the new task without further training or weight updates specific to that task.
+- **Task Generalization**: The model uses its broad understanding from pre-training to generalize and handle new tasks or categories.
+- **Inference**: The process involves applying learned knowledge to new tasks based on descriptions, prompts, or context provided.
+
+### Example
+
+A model trained on general text data can classify sentiment, answer questions, or perform named entity recognition on new, unseen tasks by leveraging its pre-trained knowledge.
+
+In essence, zero-shot learning enables models to tackle new tasks effectively without task-specific training.
+
+
+
+**Now let's understand different type of machine learning, which is the main topic of this artcile.**
 ## Machine Learning Techniques   
+
 
 ### 1. Supervised learning   
 It is a type of machine learning where the model is trained on labeled data. In supervised learning, the model learns from a set of examples where the input data and the corresponding output labels are provided. Supervised learning is used for most common regression and classification tasks.
@@ -303,9 +376,10 @@ Some examples of self-supervised learning:
 
 - Pretext tasks: Pretext tasks are a general category of self-supervised learning methods that involve training a neural network to perform a specific task that is not the ultimate task of interest, but is related to it. For example, a network may be trained to predict the rotation or colorization of an image and then fine-tuned on a downstream task such as image classification.
 
+### Shot Learning 
 
-### 15. Zero-shot learning
-Zero-shot learning is a machine learning technique that allows a model to recognize and classify objects that it has never seen before. In zero-shot learning, the model is trained on a set of classes but is expected to recognize and classify instances of new classes that were not part of the training set. This is achieved by learning a semantic embedding space that maps the objects to a semantic space, where classes are represented as points or regions, and objects are classified based on their proximity to these points or regions. Zero-shot learning is particularly useful in situations where it is difficult or impossible to obtain labeled training data for all possible classes. An example of zero-shot learning is recognizing a new species of bird based on its visual characteristics, without having any labeled examples of that bird species in the training set.
+#### 15. Zero-shot learning
+Zero-shot learning is a machine learning technique that allows a model to recognize and classify objects that it has never seen before. In zero-shot learning, the model is trained on a set of classes but is expected to recognize and classify instances of new classes that were not part of the training set. This is achieved by learning a semantic embedding space that maps the objects to a semantic space, where classes are represented as points or regions, and objects are classified based on their proximity to these points or regions. Zero-shot learning is particularly useful in situations where it is difficult or impossible to obtain labeled training data for all possible classes. An example of zero-shot learning is recognizing a new species of bird based on its visual characteristics, without having any labeled examples of that bird species in the training set. 
 
 
 Various Models which help Zero-shot learning:
@@ -315,7 +389,7 @@ Various Models which help Zero-shot learning:
 - Hybrid models: These models combine different approaches, such as attribute-based and semantic embedding models, to improve performance and generalize across different types of objects.
 
 
-### 16. One-shot learning
+#### 16. One-shot learning
 It is a type of machine learning where the model can learn from a single example. One-shot learning is used in applications such as facial recognition and handwriting recognition.
 
 
@@ -328,7 +402,7 @@ Models for one-shot learning, including:
 - Meta-learning (or Learning-to-learn) Models: Meta-learning models learn to learn from a few examples by training on many similar tasks. The idea is to learn a set of shared parameters that can be quickly adapted to a new task with few examples. One example of such models is MAML (Model-Agnostic Meta-Learning).
 
 
-### 17. Few-shot learning
+#### 17. Few-shot learning
 Few-shot learning is a type of machine learning where a model is trained to learn from a few examples of a new task or class. This is useful in scenarios where the dataset for a particular task is limited, but the model needs to generalize well and perform well on unseen data.
 
 
@@ -465,4 +539,10 @@ Federated learning has applications in various domains, including healthcare, fi
 ## Conclusion
 
 Machine learning techniques are essential for solving many real-world problems, from image recognition and natural language processing to self-driving cars and medical diagnosis. Each method has its strengths and limitations, and the choice of technique depends on the specific problem and the available data. By understanding the different types of machine learning techniques, you can select the most appropriate method for your project and achieve better results. As the field of machine learning continues to evolve, we can expect to see new and more powerful techniques emerge, making it an exciting time for anyone interested in artificial intelligence.
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   
 

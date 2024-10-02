@@ -6,15 +6,19 @@ date: 2023-11-13
 permalink: /dsblog/topic-modeling-with-bert
 tags: [NLP, NLU, LLM, Clustering, Topic Modeling]
 categories:
+  - dsblog
 header:
     teaser: /assets/images/dspost/dsp6105-Topic-Modeling-with-BERT.jpg
     
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: True  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Topic Modeling with BERT](/assets/images/dspost/dsp6105-Topic-Modeling-with-BERT.jpg)

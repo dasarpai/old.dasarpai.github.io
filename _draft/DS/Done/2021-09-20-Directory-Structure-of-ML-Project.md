@@ -4,7 +4,7 @@ title: "Folder Structure for ML Project"
 date: '2021-09-20T15:50:00+05:30'
 permalink: /dsblog/Folder-Structure-for-ML-Project
 categories:
-  - Blog
+  - dsblog
 tags:
   - ML Project Directory Structure
   - Configuration Management  
@@ -12,12 +12,15 @@ tags:
   - MLOps
 header:
   teaser: "/assets/images/dspost/dsp6010-Directory-Strucutre-of-ML-Project.jpg"
-excerpt_separator: "<!--more-->"
-excerpt:
-layout: single
-author_profile: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Configuration Management](/assets/images/dspost/dsp6010-Directory-Strucutre-of-ML-Project.jpg)   

@@ -1,6 +1,6 @@
 --- 
 id: 5124
-mathjax: true  
+
 title: Cause Of Pain And Suffering
 date: "2020-04-26T08:33:00+05:30"
 permalink: /wiaposts/cause-of-pain-and-suffering
@@ -10,17 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5124-Cause-Of-Pain-And-Suffering.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Cause Of Pain And Suffering](/assets/images/wiapost/5124-Cause-Of-Pain-And-Suffering.jpg)     
-
-## Cause Of Pain And Suffering
-
-    
+   
+# Cause Of Pain And Suffering   
+   
 I am a body.     
 Therefore I must have pain and comfort.     
 And I can cause pain and comfort for others.    

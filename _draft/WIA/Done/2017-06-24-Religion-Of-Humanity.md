@@ -1,6 +1,6 @@
 --- 
 id: 5051
-mathjax: true  
+
 title: Religion Of Humanity
 date: "2017-06-24T08:33:00+05:30"
 permalink: /wiaposts/religion-of-humanity
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5051-Religion-Of-Humanity.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Religion Of Humanity](/assets/images/wiapost/5051-Religion-Of-Humanity.jpg)     
-
-## Religion Of Humanity
-
+   
+# Religion Of Humanity
     
 We know for sure that birds, insects, reptiles & animals     
 are the citizen of this planet.     

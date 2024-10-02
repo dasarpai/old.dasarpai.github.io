@@ -1,6 +1,6 @@
 --- 
 id: 5120
-mathjax: true  
+
 title: I Don't Know
 date: "2020-03-06T08:33:00+05:30"
 permalink: /wiaposts/i-dont-know
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5120-I-Dont-Know.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![I Don't Know](/assets/images/wiapost/5120-I-Dont-Know.jpg)     
-
-## I Don't Know
-
+   
+# I Don't Know   
     
 When physics is saying 95% of the cosmos is dark matter and dark energy, and what we are analyzing is only 5% of the whole matter and energy. This 5% is made of the atom, which is 99.9999% empty. This empty space is again unknown.    
     

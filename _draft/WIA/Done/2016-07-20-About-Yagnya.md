@@ -1,6 +1,6 @@
 --- 
 id: 5023
-mathjax: true  
+
 title: About Yagnya
 date: "2016-07-20T08:33:00+05:30"
 permalink: /wiaposts/about-yagnya
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5023-About-Yagnya.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![About Yagnya](/assets/images/wiapost/5023-About-Yagnya.jpg)     
-
-## About Yagnya
-
+   
+# About Yagnya
     
 A process that has five elements.     
 A goal, A sponsor (Yajmaan), A Performer (Purohit),     

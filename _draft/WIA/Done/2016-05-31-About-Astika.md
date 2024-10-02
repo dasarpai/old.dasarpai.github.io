@@ -1,6 +1,6 @@
 --- 
 id: 5019
-mathjax: true  
+
 title: About Astika
 date: "2016-05-31T08:33:00+05:30"
 permalink: /wiaposts/about-astika
@@ -10,18 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5019-About-Astika.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![About Astika](/assets/images/wiapost/5019-About-Astika.jpg)     
-
-## About Astika
-
-    
-Namaste,    
+   
+# About Astika   
     
 Astika word come from a “as” “अस्” dhaato (root word)     
 of the Samskrut (संस्कृत) language.     

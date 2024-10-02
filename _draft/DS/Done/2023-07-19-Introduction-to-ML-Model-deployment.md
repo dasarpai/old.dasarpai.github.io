@@ -5,16 +5,20 @@ title: Introduction to ML Model Deployment
 date: 2023-07-19
 permalink: '/dsblog/Introduction-to-ML-Model-deployment'
 tags: [MLOps, AI Deployment, Model Deployment] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6077-Introduction-to-ML-Model-deployment.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: true  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Introduction to AI Model Deployement](/assets/images/dspost/dsp6077-Introduction-to-ML-Model-deployment.jpg)  
@@ -216,4 +220,10 @@ There are several products and libraries designed to accelerate deep learning in
 - [Pinto Model zoo on github](https://github.com/PINTO0309/PINTO_model_zoo)
 - [ONNX](https://github.com/onnx/models)
 - [CatalyZex](https://www.catalyzex.com/)
+
+
+**Author**   
+Dr Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   
 

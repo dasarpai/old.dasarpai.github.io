@@ -1,6 +1,6 @@
 --- 
 id: 5086
-mathjax: true  
+
 title: Who Is Really Sleeping?
 date: "2018-11-26T08:33:00+05:30"
 permalink: /wiaposts/who-is-really-sleeping
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5086-Who-Is-Really-Sleeping.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Who Is Really Sleeping?](/assets/images/wiapost/5086-Who-Is-Really-Sleeping.jpg)     
-
+![Who Is Really Sleeping?](/assets/images/wiapost/5086-Who-Is-Really-Sleeping.jpg)   
+   
 ## Who Is Really Sleeping?
-
     
 Waking to one who is sleeping is easy.     
 Waking to one who is awake is difficult.     

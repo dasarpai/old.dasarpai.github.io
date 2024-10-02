@@ -1,6 +1,6 @@
 --- 
 id: 5039
-mathjax: true  
+
 title: Boundaryless In Boundary
 date: "2017-02-12T08:33:00+05:30"
 permalink: /wiaposts/boundaryless-in-boundary
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5039-Boundaryless-In-Boundary.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Boundaryless In Boundary](/assets/images/wiapost/5039-Boundaryless-In-Boundary.jpg)     
-
-## Boundaryless In Boundary
-
+   
+# Boundaryless In Boundary
     
 O wise one you know your limitations,     
 You know your helplessness,     

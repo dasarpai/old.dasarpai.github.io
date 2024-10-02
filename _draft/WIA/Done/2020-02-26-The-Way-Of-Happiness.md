@@ -1,6 +1,6 @@
 --- 
 id: 5119
-mathjax: true  
+
 title: The Way Of Happiness
 date: "2020-02-26T08:33:00+05:30"
 permalink: /wiaposts/the-way-of-happiness
@@ -10,17 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5119-The-Way-Of-Happiness.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![The Way Of Happiness](/assets/images/wiapost/5119-The-Way-Of-Happiness.jpg)     
-
-## The Way Of Happiness
-
-    
+   
+# The Way Of Happiness
+       
 The Sanskrit term Sukham has multiple     
 English translations like happiness, pleasure, joy, etc.    
     

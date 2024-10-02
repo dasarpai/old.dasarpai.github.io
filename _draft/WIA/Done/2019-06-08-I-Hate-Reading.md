@@ -1,6 +1,6 @@
 --- 
 id: 5098
-mathjax: true  
+
 title: I Hate Reading
 date: "2019-06-08T08:33:00+05:30"
 permalink: /wiaposts/i-hate-reading
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5098-I-Hate-Reading.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![I Hate Reading](/assets/images/wiapost/5098-I-Hate-Reading.jpg)     
-
-## I Hate Reading
-
+![I Hate Reading](/assets/images/wiapost/5098-I-Hate-Reading.jpg)       
+   
+# I Hate Reading   
     
 Childhood was over and I was in school     
 I need to read books and write exams     

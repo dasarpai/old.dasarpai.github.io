@@ -1,6 +1,6 @@
 --- 
 id: 5045
-mathjax: true  
+
 title: Indian Genes Inner Science
 date: "2017-03-29T08:33:00+05:30"
 permalink: /wiaposts/indian-genes-inner-science
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5045-Indian-Genes-Inner-Science.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Indian Genes Inner Science](/assets/images/wiapost/5045-Indian-Genes-Inner-Science.jpg)     
-
-## Indian Genes Inner Science
-
+   
+# Indian Genes Inner Science
     
 With time we explore the world outside     
 With time we dive into the world inside     

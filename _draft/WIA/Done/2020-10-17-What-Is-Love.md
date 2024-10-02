@@ -1,6 +1,6 @@
 --- 
 id: 5139
-mathjax: true  
+
 title: What Is Love?
 date: "2020-10-17T08:33:00+05:30"
 permalink: /wiaposts/what-is-love
@@ -10,18 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5139-What-Is-Love.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![What Is Love?](/assets/images/wiapost/5139-What-Is-Love.jpg)     
-
-## What Is Love?
-
-    
-Namaste,    
+   
+## What Is Love?       
     
 Normally people think love is between opposite genders.     
 Some people think love is about sex.     

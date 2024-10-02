@@ -4,15 +4,20 @@ title: "Domain Knowledge in Machine Learning"
 date: '2022-10-15T15:50:00+05:30'
 permalink: /dsblog/Domain-Knowledge-in-Machine-Learning
 categories:
-
+  - dsblog
 tags: [Machine Learning]
 
 header:
   teaser: "/assets/images/dspost/dsp6015-domain-knowledge-in-machine-learning.jpg"
-excerpt_separator: "<!--more-->"
-excerpt:
-layout: single
-author_profile: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Domain Knowledge in Machine Learning](/assets/images/dspost/dsp6015-domain-knowledge-in-machine-learning.jpg)   

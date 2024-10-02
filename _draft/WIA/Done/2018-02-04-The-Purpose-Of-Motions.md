@@ -1,6 +1,6 @@
 --- 
 id: 5068
-mathjax: true  
+
 title: The Purpose Of Motions
 date: "2018-02-04T08:33:00+05:30"
 permalink: /wiaposts/the-purpose-of-motions
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5068-The-Purpose-Of-Motions.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![The Purpose Of Motions](/assets/images/wiapost/5068-The-Purpose-Of-Motions.jpg)     
-
-## The Purpose Of Motions
-
+   
+# The Purpose Of Motions
     
 As per the law of physics all the planets, stars and galaxies    
 want to go in a straight line    

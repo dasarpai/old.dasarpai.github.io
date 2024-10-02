@@ -1,6 +1,6 @@
 --- 
 id: 5174
-mathjax: true  
+
 title: Appreciate the Architecture of Mind
 date: "2021-12-02T08:33:00+05:30"
 permalink: /wiaposts/appreciate-the-architecture-of-mind
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5174-Appreciate-The-Architecture-Of-Mind.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Appreciate the Architecture of Mind](/assets/images/wiapost/5174-Appreciate-The-Architecture-Of-Mind.jpg)     
-
-## Appreciate the Architecture of Mind
-
-    
-Namaste,     
-    
+   
+# Appreciate the Architecture of Mind      
+   
 We blame the mind like a monkey, it keeps dancing and makes the body and the world around dance and create problems.     
     
 See the beauty of mind, it can dance and without your notice, it can leap to a completely unrelated subject, location and time. Without this capability of mind no creativity is possible. No 'hope' is possible. No temporary relief from present problems is possible.     

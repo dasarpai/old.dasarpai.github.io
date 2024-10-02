@@ -1,6 +1,6 @@
 ---    
 id: 5227    
-mathjax: true    
+  
 title:  Importance of Skills in The AI Age      
 date: "2023-04-28T08:33:00+05:30"    
 permalink: /wiaposts/Importance-of-Skills-in-the-AI-Age    
@@ -10,7 +10,7 @@ categories:
 header:    
     teaser: /assets/images/wiapost/5227-Importance-of-Skills-in-the-AI-Age.jpg    
 author: Hari Thapliyaal    
-layout: single    
+layout: wiapost-layout
 excerpt:    
 author_profile: true    
 share: true    

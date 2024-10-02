@@ -1,6 +1,6 @@
 --- 
 id: 5154
-mathjax: true  
+
 title: What Is Death?
 date: "2021-04-30T08:33:00+05:30"
 permalink: /wiaposts/what-is-death
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5154-What-Is-Death.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![What Is Death?](/assets/images/wiapost/5154-What-Is-Death.jpg)     
-
-## What Is Death?
-
-    
-Namaste,    
-    
+![What Is Death?](/assets/images/wiapost/5154-What-Is-Death.jpg)   
+   
+# What Is Death?    
+       
 Death cannot be understood     
 without dwelling on the term called life.    
     

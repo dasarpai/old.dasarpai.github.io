@@ -1,6 +1,6 @@
 --- 
 id: 5137
-mathjax: true  
+
 title: Universal Constants
 date: "2020-09-26T08:33:00+05:30"
 permalink: /wiaposts/universal-constants
@@ -10,17 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5137-Universal-Constants.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Universal Constants](/assets/images/wiapost/5137-Universal-Constants.jpg)     
-
-## Universal Constants
-
-    
+   
+# Universal Constants   
+        
 There are many other important constants in physics, chemistry, and mathematics. But these are the foundational constant of our known cosmos. If these values were different, then our existence could have not been possible.    
     
 | # | Constant Name | Symbol | value |    

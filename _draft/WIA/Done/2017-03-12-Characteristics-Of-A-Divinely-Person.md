@@ -1,6 +1,6 @@
 --- 
 id: 5042
-mathjax: true  
+
 title: Characteristics Of A Divinely Person
 date: "2017-03-12T08:33:00+05:30"
 permalink: /wiaposts/characteristics-of-a-divinely-person
@@ -10,19 +10,17 @@ categories:
 header:
      teaser: /assets/images/wiapost/5042-Characteristics-Of-A-Divinely-Person.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Characteristics Of A Divinely Person](/assets/images/wiapost/5042-Characteristics-Of-A-Divinely-Person.jpg)     
-
-## Characteristics Of A Divinely Person
-
-    
-### Assets of Divinely Person    
-    
+   
+# Characteristics Of A Divinely Person
+## Assets of Divinely Person    
+       
 Many people get confused about what is good and whatnot,     
 what is right and whatnot.     
 Obviously, it is the context that makes things     

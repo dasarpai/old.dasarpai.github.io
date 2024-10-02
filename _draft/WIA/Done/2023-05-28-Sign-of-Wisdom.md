@@ -1,6 +1,6 @@
 ---    
 id: 5229    
-mathjax: true    
+  
 title:  Sign of Wisdom      
 date: "2023-04-28T08:33:00+05:30"    
 permalink: /wiaposts/Sign-of-Wisdom   
@@ -10,16 +10,16 @@ categories:
 header:    
     teaser: /assets/images/wiapost/5229-Sign-of-Wisdom.jpg    
 author: Hari Thapliyaal    
-layout: single    
+layout: wiapost-layout
 excerpt:    
 author_profile: true    
 share: true    
 ---    
     
 ![Dream Body and Physical Action](/assets/images/wiapost/5229-Sign-of-Wisdom.jpg)    
-
-# Sign of Wisdom
-
+    
+# Sign of Wisdom   
+   
 Your surroundings comprise people, lives,    
 the government, and systems around you,    
 including family members, office hierarchy,    

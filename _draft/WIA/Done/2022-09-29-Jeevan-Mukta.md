@@ -1,6 +1,6 @@
 --- 
 id: 5200
-mathjax: true  
+
 title: Jeevan Mukta
 date: "2022-09-29T08:33:00+05:30"
 permalink: /wiaposts/jeevan-mukta
@@ -10,16 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5200-Jeevan-Mukta.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Jeevan Mukta](/assets/images/wiapost/5200-Jeevan-Mukta.jpg)        
-
-# Jeevan Mukta
-    
+![Jeevan Mukta](/assets/images/wiapost/5200-Jeevan-Mukta.jpg)    
+       
+# Jeevan Mukta     
+     
 In the process of evolution humans acquired the capability of imagination.     
 This enables humans to think about the future.     
 That is why vision and visionary are most respected by sensible humans.     

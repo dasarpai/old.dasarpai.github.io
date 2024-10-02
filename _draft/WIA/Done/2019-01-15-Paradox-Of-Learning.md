@@ -1,6 +1,6 @@
 --- 
 id: 5090
-mathjax: true  
+
 title: Paradox Of Learning
 date: "2019-01-15T08:33:00+05:30"
 permalink: /wiaposts/paradox-of-learning
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5090-Paradox-Of-Learning.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Paradox Of Learning](/assets/images/wiapost/5090-Paradox-Of-Learning.jpg)     
-
-## Paradox Of Learning
-
+   
+# Paradox Of Learning
     
 If you listen to some idea with an empty mind,     
 no previous knowledge or     

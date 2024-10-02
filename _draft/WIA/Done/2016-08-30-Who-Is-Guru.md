@@ -1,6 +1,6 @@
 --- 
 id: 5029
-mathjax: true  
+
 title: Who Is Guru
 date: "2016-08-30T08:33:00+05:30"
 permalink: /wiaposts/who-is-guru
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5029-Who-Is-Guru.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Who Is Guru](/assets/images/wiapost/5029-Who-Is-Guru.jpg)     
-
-## Who Is Guru
-
+   
+# Who Is Guru
     
 We all know the Samskrut definition of Guru     
 The remover of darkness.     

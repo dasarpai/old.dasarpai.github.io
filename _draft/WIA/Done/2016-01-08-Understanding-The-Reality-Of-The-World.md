@@ -1,6 +1,6 @@
 --- 
 id: 5006
-mathjax: true  
+
 title: Understanding The Reality Of The World
 date: "2016-01-08T08:33:00+05:30"
 permalink: /wiaposts/understanding-the-reality-of-the-world
@@ -10,20 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5006-Understanding-The-Reality-Of-The-World.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Understanding The Reality Of The World](/assets/images/wiapost/5006-Understanding-The-Reality-Of-The-World.jpg)     
-
-## Understanding The Reality Of The World
-
-    
-### The reality in the Reflection    
-    
-Namaste,     
+   
+# Understanding The Reality Of The World    
+## The reality in the Reflection        
     
 I am not sure how many of you will be able to recollect this sloka from Bhagwat Geeta Chapter 15.    
     

@@ -5,18 +5,20 @@ title: AI in School Education
 date: 2024-01-02
 permalink: /dsblog/AI-in-School-Education
 tags: [AI-Usecases, Education] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6109-AI-Usecases-in-Education.jpg
-author: Hari Thapliyaal 
-excerpt:
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-share: true
-toc: True  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![AI in School Education](/assets/images/dspost/dsp6109-AI-Usecases-in-Education.jpg)   

@@ -1,6 +1,6 @@
 --- 
 id: 5134
-mathjax: true  
+
 title: Universal Culture
 date: "2020-08-12T08:33:00+05:30"
 permalink: /wiaposts/universal-culture
@@ -10,17 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5134-Universal-Culture.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Universal Culture](/assets/images/wiapost/5134-Universal-Culture.jpg)     
-
-## Universal Culture
-
-    
+   
+# Universal Culture
+       
 All humans have the same body structure eyes, ears, hands, feet, etc., except very few gender level differences. We make this little difference of the body so much that it becomes a gender issue. It looks like a huge issue as if men and women are coming from different planets, or they are made of different materials. On this little difference, we have issues of feminism, patriarchy, etc. But leaving that little difference aside, **there are many differences at the non-physical level which are non-trivial**, and they are much more important differences than the physical difference of males and females.    
     
 Just think **why do people, societies, and nations argue, fight and go to war?** Not because of physical level differences. They enter there because of some reasons, and these reasons come from emotion. When you feel strongly about something, you want others to follow that. When someone attacks you, then you defend yourself. Not only defends, sometimes you crazily attack someone who does not have similar emotions as you. Sometimes these attacks are physical, sometimes emotional, and other times verbal.    

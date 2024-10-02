@@ -1,6 +1,6 @@
 --- 
 id: 5044
-mathjax: true  
+
 title: No Universal Teachings
 date: "2017-03-20T08:33:00+05:30"
 permalink: /wiaposts/no-universal-teachings
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5044-No-Universal-Teachings.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![No Universal Teachings](/assets/images/wiapost/5044-No-Universal-Teachings.jpg)     
-
-## No Universal Teachings
-
+   
+# No Universal Teachings
     
 To live a meaningful and joyful life     
 Context is the key for wise one,    

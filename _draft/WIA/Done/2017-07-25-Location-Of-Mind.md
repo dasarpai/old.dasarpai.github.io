@@ -1,6 +1,6 @@
 --- 
 id: 5054
-mathjax: true  
+
 title: Location Of Mind
 date: "2017-07-25T08:33:00+05:30"
 permalink: /wiaposts/location-of-mind
@@ -10,19 +10,17 @@ categories:
 header:
      teaser: /assets/images/wiapost/5054-Location-Of-Mind.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Location Of Mind](/assets/images/wiapost/5054-Location-Of-Mind.jpg)     
-
-## Location Of Mind
-
-    
-### Where is the human mind located?    
-    
+   
+# Location Of Mind 
+## Where is the human mind located?    
+       
 Today I am using this space to provoke you to ask subtler questions and know the answer from your experience. There is no answer below but many questions for you. Enjoy reading.    
     
 Namaste    

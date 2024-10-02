@@ -1,6 +1,6 @@
 --- 
 id: 5171
-mathjax: true  
+
 title: Awareness and Consciousness
 date: "2021-09-29T08:33:00+05:30"
 permalink: /wiaposts/awareness-and-consciousness
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5171-Awareness-And-Consciousness.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![Awareness and Consciousness](/assets/images/wiapost/5171-Awareness-And-Consciousness.jpg)     
-
-## Awareness and Consciousness
-
-    
-Namaste,    
-    
+![Awareness and Consciousness](/assets/images/wiapost/5171-Awareness-And-Consciousness.jpg)    
+   
+# Awareness and Consciousness      
+   
 Awareness comes from consciousness; they both are not the same. Consciousness is everywhere in the entire universe but awareness belongs to life. Plants, insects, animals, and humans have awareness. When you are sleeping you are conscious but not aware. Body parts which make life, like tissues, cells and protein have awareness. Do molecules, atoms, electrons, protons, and neutrons have awareness? Does the earth, moon, sun and other stars have awareness? Ancient eastern wisdom says the cosmos is not dead therefore even the sky has awareness.    
     
 Even after death, for sometime some body parts are conscious locally but body level awareness is lost.    

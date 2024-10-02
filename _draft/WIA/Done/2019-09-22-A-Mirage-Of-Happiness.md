@@ -1,6 +1,6 @@
 --- 
 id: 5108
-mathjax: true  
+
 title: A Mirage Of Happiness
 date: "2019-09-22T08:33:00+05:30"
 permalink: /wiaposts/a-mirage-of-happiness
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5108-A-Mirage-Of-Happiness.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![A Mirage Of Happiness](/assets/images/wiapost/5108-A-Mirage-Of-Happiness.jpg)     
-
-## A Mirage Of Happiness
-
+   
+# A Mirage Of Happiness
     
 People are Chasing Happiness     
 And arguing measuring Happiness Index     

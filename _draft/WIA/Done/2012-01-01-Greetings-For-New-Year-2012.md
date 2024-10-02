@@ -1,6 +1,6 @@
 --- 
 id: 5000
-mathjax: true  
+
 title: Greetings For New Year 2012
 date: '2012-01-01T08:33:00+05:30'
 permalink: /wiaposts/greetings-for-new-year-2012
@@ -10,18 +10,18 @@ categories:
 header:
      teaser: /assets/images/wiapost/5000-Greetings-For-New-Year-2012.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Greetings For New Year 2012](/assets/images/wiapost/5000-Greetings-For-New-Year-2012.jpg)     
-
-## Greetings For New Year 2012
-
-Dear Friends
-
+    
+# Greetings For New Year 2012   
+   
+Dear Friends   
+   
 Dharma is not about justice nor it is about religion.  
 It is about empathy, compassion, co-existence.  
 When you fight for Dharma you do not win or lose but everyone wins.  

@@ -1,6 +1,6 @@
 --- 
 id: 5114
-mathjax: true  
+
 title: The Nature Of Karma Fala
 date: "2019-12-25T08:33:00+05:30"
 permalink: /wiaposts/the-nature-of-karma-fala
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5114-The-Nature-Of-Karma-Fala.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
-![The Nature Of Karma Fala](/assets/images/wiapost/5114-The-Nature-Of-Karma-Fala.jpg)     
-
-## The Nature Of Karma Fala
-
+![The Nature Of Karma Fala](/assets/images/wiapost/5114-The-Nature-Of-Karma-Fala.jpg)      
+   
+## The Nature Of Karma Fala   
     
 Fruits may be sweet or bitter, rotten, ripe, or raw.     
 These are the attributes attached to a fruit.     

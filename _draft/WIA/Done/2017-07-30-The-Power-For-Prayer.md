@@ -1,6 +1,6 @@
 --- 
 id: 5055
-mathjax: true  
+
 title: The Power For Prayer
 date: "2017-07-30T08:33:00+05:30"
 permalink: /wiaposts/the-power-for-prayer
@@ -10,19 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5055-The-Power-For-Prayer.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![The Power For Prayer](/assets/images/wiapost/5055-The-Power-For-Prayer.jpg)     
-
-## The Power For Prayer
-
-    
-Namaste    
-    
+   
+## The Power For Prayer      
+     
 If you believe there is no power in the prayer     
 Then you can stop doing any prayer of any type.     
 If you believe there is power in the prayer     

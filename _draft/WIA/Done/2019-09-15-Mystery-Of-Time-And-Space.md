@@ -1,6 +1,6 @@
 --- 
 id: 5107
-mathjax: true  
+
 title: Mystery Of Time And Space
 date: "2019-09-15T08:33:00+05:30"
 permalink: /wiaposts/mystery-of-time-and-space
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5107-Mystery-Of-Time-And-Space.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Mystery Of Time And Space](/assets/images/wiapost/5107-Mystery-Of-Time-And-Space.jpg)     
-
-## Mystery Of Time And Space
-
+   
+# Mystery Of Time And Space   
     
 Let us look into time first.    
 One minute is made of 60 seconds    

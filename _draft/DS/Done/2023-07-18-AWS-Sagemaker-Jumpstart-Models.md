@@ -5,16 +5,20 @@ title: AWS SageMaker Jumpstart Models
 date: 2023-07-18
 permalink: '/dsblog/AWS-SageMaker-Jumpstart-Models'
 tags: [Python, Programming] 
-categories: 
+categories:
+  - dsblog
 
 header:
     teaser: /assets/images/dspost/dsp6076-AWS-SageMaker-Jumpstart-Models.jpg
-excerpt_separator: "<!--more-->"  
-excerpt:  
-layout: dspost-layout  
-author_profile: true  
-toc: true  
-toc_sticky: true
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![AWS SageMaker Jumpstart Models](/assets/images/dspost/dsp6076-AWS-SageMaker-Jumpstart-Models.jpg)   
@@ -491,3 +495,9 @@ As of 17-Jul-23, AWS Sagemaker has 463 models in its Model Zoo. They call these 
 
 ## References
 - https://aws.amazon.com/sagemaker/jumpstart/getting-started/
+
+
+**Author**   
+Dr. Hari Thapliyaal   
+dasarpai.com    
+linkedin.com/in/harithapliyal   

@@ -1,6 +1,6 @@
 --- 
 id: 5018
-mathjax: true  
+
 title: Questions About Meditation
 date: "2016-05-27T08:33:00+05:30"
 permalink: /wiaposts/questions-about-meditation
@@ -10,18 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5018-Questions-About-Meditation.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Questions About Meditation](/assets/images/wiapost/5018-Questions-About-Meditation.jpg)     
-
-## Questions About Meditation
-
-    
-Namaste,    
+   
+# Questions About Meditation   
     
 Meditation is a process or result of a process?    
     

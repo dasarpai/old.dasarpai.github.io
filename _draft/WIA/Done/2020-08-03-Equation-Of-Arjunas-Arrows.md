@@ -1,6 +1,6 @@
 --- 
 id: 5133
-mathjax: true  
+
 title: Equation Of Arjunas Arrows
 date: "2020-08-03T08:33:00+05:30"
 permalink: /wiaposts/equation-of-arjunas-arrows
@@ -10,19 +10,17 @@ categories:
 header:
      teaser: /assets/images/wiapost/5133-Equation-Of-Arjunas-Arrows.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Equation Of Arjunas Arrows](/assets/images/wiapost/5133-Equation-Of-Arjunas-Arrows.jpg)     
-
-## Equation Of Arjunas Arrows
-
-    
-### Arjuna’s Arrows and Algebra (Beejganit)!    
-    
+   
+# Equation Of Arjunas Arrows    
+## Arjuna’s Arrows and Algebra (Beejganit)!    
+       
 Bhāskarāchārya (1114 -1185 CE), has been called the greatest mathematician of medieval India. And is considered the progenitor of Differential Calculus. He was 500 years before Newton and Leibniz!    
     
 Bhāskarāchārya wrote at least four mathematical treatises in Sanskrit. One of them, titled [Leelavati](https://drive.google.com/file/d/13dHKOYI3sofLWdUbTQt3SLv7cFCdeOqa/view?usp=sharing), contains many algebra-related teasers, which have become the subject of significant research by scholars. These teasers are in the form of shlokas which pose the problems. The shlokas need to be interpreted correctly to decipher the meaning in order to find the solution.    

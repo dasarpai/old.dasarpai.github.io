@@ -1,6 +1,6 @@
 --- 
 id: 5034
-mathjax: true  
+
 title: What Is A Positive Mindset
 date: "2016-12-08T08:33:00+05:30"
 permalink: /wiaposts/what-is-a-positive-mindset
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5034-What-Is-A-Positive-Mindset.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![What Is A Positive Mindset](/assets/images/wiapost/5034-What-Is-A-Positive-Mindset.jpg)     
-
-## What Is A Positive Mindset
-
+   
+# What Is A Positive Mindset
     
 What is positivity? What is positive thinking?     
 What is a positive mindset?     

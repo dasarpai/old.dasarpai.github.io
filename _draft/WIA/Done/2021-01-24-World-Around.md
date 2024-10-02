@@ -1,6 +1,6 @@
 --- 
 id: 5145
-mathjax: true  
+
 title: World Around
 date: "2021-01-24T08:33:00+05:30"
 permalink: /wiaposts/world-around
@@ -10,18 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5145-World-Around.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![World Around](/assets/images/wiapost/5145-World-Around.jpg)     
-
-## World Around
-
-    
-Namaste,    
+   
+# World Around    
     
 There is the world that exists outside,     
 That is the objective world.     

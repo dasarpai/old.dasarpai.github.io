@@ -1,6 +1,6 @@
 --- 
 id: 5083
-mathjax: true  
+
 title: Where Are Todays Rishis
 date: "2018-10-28T08:33:00+05:30"
 permalink: /wiaposts/where-are-todays-rishis
@@ -10,17 +10,16 @@ categories:
 header:
      teaser: /assets/images/wiapost/5083-Where-Are-Todays-Rishis.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Where Are Todays Rishis](/assets/images/wiapost/5083-Where-Are-Todays-Rishis.jpg)     
-
-## Where Are Todays Rishis
-
-    
+   
+# Where Are Todays Rishis   
+       
 All Sciences, particle physics, and quantum physics     
 in particular, tells us some truth of this cosmos.     
 But they also tell us,     

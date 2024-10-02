@@ -1,6 +1,6 @@
 --- 
 id: 5101
-mathjax: true  
+
 title: Nuisance Of Translation
 date: "2019-07-10T08:33:00+05:30"
 permalink: /wiaposts/nuisance-of-translation
@@ -10,16 +10,15 @@ categories:
 header:
      teaser: /assets/images/wiapost/5101-Nuisance-Of-Translation.jpg
 author: Hari Thapliyaal 
-layout: single 
+layout: wiapost-layout
 excerpt:  
 author_profile: true 
 share: true 
 ---
 
 ![Nuisance Of Translation](/assets/images/wiapost/5101-Nuisance-Of-Translation.jpg)     
-
-## Nuisance Of Translation
-
+   
+# Nuisance Of Translation   
     
 My name is Hari Prasad and I like two food items Rasam and Idly.    
     

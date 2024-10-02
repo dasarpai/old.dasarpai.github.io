@@ -1,6 +1,6 @@
 ---        
 id: 5241        
-mathjax: true        
+      
 title:  The Middle Path          
 date: "2023-12-05T08:33:00+05:30"        
 permalink: /wiaposts/The-Middle-Path      
@@ -10,16 +10,16 @@ categories:
 header:        
     teaser: /assets/images/wiapost/5241-The-Middle-Path.jpg        
 author: Hari Thapliyaal        
-layout: single        
+layout: wiapost-layout
 excerpt:        
 author_profile: true        
 share: true        
 ---        
 
-![The Middle Path](/assets/images/wiapost/5241-The-Middle-Path.jpg)
-
-# The Middle Path
-
+![The Middle Path](/assets/images/wiapost/5241-The-Middle-Path.jpg)    
+    
+# The Middle Path   
+   
 We hear very commonly that you don't go to extreme of anything in the life,    
 Walk the middle path, settle on middle ground, Madhya Maarga.    
 Yet, no matter how hard we try, living on the middle path seems unsustainable.    

@@ -42,7 +42,8 @@ Some believe happiness and suffering both because of God's wish.
 He wants us to bring closer to Him and for that    
 He wants us to get results of our Karma, get exhausted and reach to him.  
    
-Some believe happiness and suffering is neither because of God nor because of Karma.    
+Some believe happiness and suffering is neither   
+because of God nor because of Karma.    
 Because they don't exist.    
 It is our own mental imagination    
 we can impose happy happiness or suffering on any event.    
