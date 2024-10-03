@@ -1,5 +1,5 @@
 ---
-id: 747    1. 
+id: 747
 title: "Summary of AI ML Project"
 layout: single
 toc_sticky: true
@@ -30,11 +30,26 @@ sidebar:
 
 
 
-# AI/ML - Industries - Developed/ Created/ Expended work
+# AI/ML - Industries - Developed/ Created/ Expanded work
 ## <font color=green>Agri</font>
 
 ## <font color=green>Airlines</font>
 ### Flightdelay-Analysis-Bigdata
+Apache Hive is a data warehousing and SQL-like query engine built on top of Hadoop. Hadoop has Hadoop Distributed File System (HDFS). It can handle distributed storage and processing of the data in hand. Hive can handle billions of transactions. We can perform any kind of SQL Query without bothering whether aggregation functions or filter function will be ever completed or not. Hive can handle all CRUD operations.
+
+In this project a folder "\server\airlines" on the server has hundreds of files which contains airlines daily flight information like Origin,Dest, Distance,DepTime, CRSDepTime, ArrTime, CRSArrTime, UniqueCarrier, FlightNum, TailNum, ActualElapsedTime, CRSElapsedTime, AirTime, ArrDelay, DepDelay, TaxiIn, TaxiOut, Cancelled, CancellationCode, Diverted, CarrierDelay, WeatherDelay, NASDelay, SecurityDelay, LateAircraftDelay. Airlines wanted to analyze the of last 20 years.
+
+Activities (Pipeline) in project: 
+- Creating hive table (for storage) from the external files
+- Create partition table schema
+- Parition hive table based on the year and putting data in partition table.
+- Performing sql querries on the partitioned table
+
+**Tech Stack:** Hadoop/HDFS, Hive, SQL, HiveQL, ORC (Optimized Row Columnar) or Parquet.   
+[My article on Hive](dsblog/Exploring-Apache-Hive)  
+[Github Code](https://github.com/dasarpai/DAI-Projects/tree/main/Airlines/Flightdelay-Analysis-Bigdata)
+
+
 
 ## <font color=green>BFSI</font>
 ### Credit-Fraud-Detection
@@ -293,7 +308,7 @@ sidebar:
     1. 14-SEO-PMLOGY
     1. A01-ContractManagement
     1. P01-PRINCE2
-- 12-Project-PM-NGO
+- 12-Project-NGO
     1. S01-Rajiv-Malhotra
     1. S02-YFS
     1. S03-HSP
@@ -306,7 +321,7 @@ sidebar:
     1. Process-ISO
     1. Process-SixSigma
     1. Process-ZED
-- 52-Work-PMI
+- 52-Work-PMI-Chapters
     1. 2012 LIMC Application Information
     1. CPC_Presentation_Foundations.ppt
     1. ITnTelecom-Webinars
@@ -336,12 +351,22 @@ sidebar:
 1. PM-RMP
 1. PM-SharePoint
 1. PM-SoftwareSizeEstimation
+
+## ## Management-PMO
 1. PM-Templates
 1. PMO
 
 ## Management-PMIPrep
 
 ## Training-Feedbacks
+
+# Web+Mobile App Development - POC Work
+1. Android
+1. Falcon_Android
+1. ImageRecognition
+1. Java
+1. nodejs
+1. react
 
 # AI/ML Datasets
 There is no dearth of datasets but during training sessions when I or my learners need some dataset that we need to struggle for these datasets. Either they are removed ore renamed or internet availablity/restriction etc issue waste lot of time. To avoid that I have created this github repo of datasets. These are for classical machine learning. They are not for deeplearning or LLM, until mentioned specifically. 
@@ -368,8 +393,7 @@ There is no dearth of datasets but during training sessions when I or my learner
 1. CarPrice.csv
 1. CarPrice_DescribeData.csv
 1. Census Income
-1. childweight_SCA01.20230725102117-Full-DF.csv
-1. childweight_SCA01.20230725102117-Test-DF.csv
+1. childweight_SCA01.csv
 1. Concrete Compressive Strength
 1. Coronavirus
 1. Daily Demand Forecasting Orders
