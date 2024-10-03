@@ -1,6 +1,5 @@
 ---        
-id: 5228        
-      
+id: 5228  
 title:  Pain and Suffering          
 date: "2023-04-29T08:33:00+05:30"        
 permalink: /wiaposts/Pain-and-Suffering        

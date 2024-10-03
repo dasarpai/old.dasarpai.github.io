@@ -1,6 +1,5 @@
 --- 
-id: 5186
-
+id: 5186 
 title: Thinking and Feeling
 date: "2022-04-27T08:33:00+05:30"
 permalink: /wiaposts/thinking-and-feeling

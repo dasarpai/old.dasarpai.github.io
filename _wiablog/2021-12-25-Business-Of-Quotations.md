@@ -1,6 +1,5 @@
 --- 
-id: 5177
-
+id: 5177 
 title: Business of Quotations
 date: "2021-12-25T08:33:00+05:30"
 permalink: /wiaposts/business-of-quotations

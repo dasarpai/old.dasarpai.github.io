@@ -1,6 +1,6 @@
 ---    
 mathjax: true    
-id:  6066    
+id: 6066    
 title:  Demystifying DevOps, MLOps, and DataOps     
 date: 2023-06-08    
 permalink: '/dsblog/Demystifying-DevOps-MLOps-and-DataOps'    

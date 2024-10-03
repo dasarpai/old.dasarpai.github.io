@@ -1,6 +1,5 @@
 ---        
-id: 5241        
-      
+id: 5241  
 title:  The Middle Path          
 date: "2023-12-05T08:33:00+05:30"        
 permalink: /wiaposts/The-Middle-Path      

@@ -1,6 +1,5 @@
 --- 
-id: 5094
-
+id: 5094 
 title: The Meaning Of Namaste
 date: "2019-03-24T08:33:00+05:30"
 permalink: /wiaposts/the-meaning-of-namaste

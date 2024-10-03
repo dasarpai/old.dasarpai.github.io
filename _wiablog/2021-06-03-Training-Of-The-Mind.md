@@ -1,6 +1,5 @@
 --- 
-id: 5161
-
+id: 5161 
 title: Training of the mind
 date: "2021-06-03T08:33:00+05:30"
 permalink: /wiaposts/training-of-the-mind

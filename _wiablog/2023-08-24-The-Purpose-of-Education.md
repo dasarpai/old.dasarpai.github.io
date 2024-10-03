@@ -1,6 +1,5 @@
 ---        
-id: 5232        
-      
+id: 5232 
 title:  The Purpose of Education          
 date: "2023-08-24T08:33:00+05:30"        
 permalink: /wiaposts/The-Purpose-of-Education     

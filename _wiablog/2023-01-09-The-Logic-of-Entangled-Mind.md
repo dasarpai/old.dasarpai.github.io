@@ -1,6 +1,5 @@
 ---            
-id: 5211            
-          
+id: 5211
 title: The Logic of Entangled Mind           
 date: "2023-01-09T08:33:00+05:30"            
 permalink: /wiaposts/Logic-of-Entangled-Mind         

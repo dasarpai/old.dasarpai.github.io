@@ -1,6 +1,5 @@
 --- 
-id: 5131
-
+id: 5131 
 title: What Is Balance Food Diet?
 date: "2020-07-09T08:33:00+05:30"
 permalink: /wiaposts/what-is-balance-food-diet

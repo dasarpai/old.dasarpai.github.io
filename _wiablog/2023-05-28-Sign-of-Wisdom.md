@@ -1,6 +1,5 @@
 ---    
-id: 5229    
-  
+id: 5229   
 title:  Sign of Wisdom      
 date: "2023-04-28T08:33:00+05:30"    
 permalink: /wiaposts/Sign-of-Wisdom   

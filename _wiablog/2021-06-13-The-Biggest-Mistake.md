@@ -1,6 +1,5 @@
 --- 
-id: 5162
-
+id: 5162 
 title: The Biggest Mistake
 date: "2021-06-13T08:33:00+05:30"
 permalink: /wiaposts/the-biggest-mistake

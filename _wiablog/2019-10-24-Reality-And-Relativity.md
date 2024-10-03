@@ -1,6 +1,5 @@
 --- 
-id: 5110
-
+id: 5110 
 title: Reality And Relativity
 date: "2019-10-24T08:33:00+05:30"
 permalink: /wiaposts/reality-and-relativity

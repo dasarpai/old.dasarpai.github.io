@@ -1,6 +1,5 @@
 ---                        
-id: 5215                        
-                      
+id: 5215 
 title:  The Art -Of Missing Life                 
 date: "2023-01-19T08:33:00+05:30"                        
 permalink: /wiaposts/The-Art-Of-Missing-Life                   

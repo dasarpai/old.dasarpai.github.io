@@ -1,6 +1,5 @@
 --- 
-id: 5122
-
+id: 5122 
 title: Don't Be Afraid Of Covid
 date: '2021-05-15T08:33:00+05:30'
 permalink: /wiaposts/dont-be-afraid-of-covid

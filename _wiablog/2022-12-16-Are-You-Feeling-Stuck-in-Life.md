@@ -1,6 +1,5 @@
 ---     
-id: 5207    
- 
+id: 5207  
 title: Are You Feeling Stuck in Life    
 date: "2022-12-16T08:33:00+05:30"    
 permalink: /wiaposts/Are-You-Feeling-Stuck-in-Life    

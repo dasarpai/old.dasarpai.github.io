@@ -1,6 +1,5 @@
 ---     
-id: 5203    
-    
+id: 5203  
 title: About Eligibility    
 date: "2022-11-23T08:33:00+05:30"    
 permalink: /wiaposts/about-eligibility    

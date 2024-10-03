@@ -1,6 +1,5 @@
 ---  
-id: 5249  
-
+id: 5249 
 title:  All Religions are not Same  
 date: "2024-02-03T08:33:00+05:30"  
 permalink: /wiaposts/All-Religions-are-not-Same  

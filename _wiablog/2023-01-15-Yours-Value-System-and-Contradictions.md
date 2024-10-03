@@ -1,6 +1,5 @@
 ---                    
-id: 5213                    
-                  
+id: 5213  
 title: Yours Value System and Contradictions                 
 date: "2023-01-15T08:33:00+05:30"                    
 permalink: /wiaposts/Yours-Value-System-and-Contradictions               

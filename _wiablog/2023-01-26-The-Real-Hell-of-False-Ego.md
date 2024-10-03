@@ -1,6 +1,5 @@
 ---                                
-id: 5218                                
-                              
+id: 5218    
 title:  The Real Hell of False Ego                        
 date: "2023-01-26T08:33:00+05:30"                                
 permalink: /wiaposts/The-Real-Hell-of-False-Ego                          

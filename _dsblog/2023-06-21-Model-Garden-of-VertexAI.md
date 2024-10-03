@@ -1,6 +1,6 @@
 ---    
 mathjax: true    
-id:  6065    
+id: 6065    
 title:  Model Garden of VertexAI     
 date: 2023-06-21    
 permalink: '/dsblog/Model-Garden-of-VertexAI'    

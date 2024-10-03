@@ -1,5 +1,5 @@
 ---        
-id: 5262        
+id: 5262 
 mathjax: true        
 title:  "The Search for Truth: Why Do We Rush to Conclusions?"        
 date: "2024-09-22T08:33:00+05:30"        

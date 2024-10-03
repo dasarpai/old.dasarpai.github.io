@@ -1,6 +1,5 @@
 --- 
-id: 5174
-
+id: 5174 
 title: Appreciate the Architecture of Mind
 date: "2021-12-02T08:33:00+05:30"
 permalink: /wiaposts/appreciate-the-architecture-of-mind

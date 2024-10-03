@@ -1,6 +1,6 @@
 ---        
 mathjax: true   
-id:  6108       
+id: 6108       
 title: Data Science and Basics of Astrology    
 date: "2023-12-27T08:33:00+05:30"        
 permalink: /dsblog/Basics-of-Astrology

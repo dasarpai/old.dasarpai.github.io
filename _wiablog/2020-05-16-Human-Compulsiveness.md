@@ -1,6 +1,5 @@
 --- 
-id: 5126
-
+id: 5126 
 title: Human Compulsiveness
 date: "2020-05-16T08:33:00+05:30"
 permalink: /wiaposts/human-compulsiveness

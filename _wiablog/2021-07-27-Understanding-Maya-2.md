@@ -1,6 +1,5 @@
 --- 
-id: 5166
-
+id: 5166 
 title: Understanding Maya 2
 date: "2021-07-27T08:33:00+05:30"
 permalink: /wiaposts/understanding-maya-2

@@ -1,6 +1,5 @@
 --- 
-id: 5099
-
+id: 5099 
 title: Morality Of Killing
 date: "2019-06-09T08:33:00+05:30"
 permalink: /wiaposts/morality-of-killing

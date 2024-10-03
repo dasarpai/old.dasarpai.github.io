@@ -1,6 +1,5 @@
 --- 
-id: 5198
-
+id: 5198 
 title: Indian Technological Advancement with Zero connection to Past
 date: "2022-08-13T08:33:00+05:30"
 permalink: /wiaposts/indian-technological-advancement-with-zero-connection-to-past

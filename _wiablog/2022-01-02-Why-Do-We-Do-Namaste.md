@@ -1,6 +1,5 @@
 --- 
-id: 5178
-
+id: 5178 
 title: Why Do We Do Namaste?
 date: "2022-01-02T08:33:00+05:30"
 permalink: /wiaposts/why-do-we-do-namaste

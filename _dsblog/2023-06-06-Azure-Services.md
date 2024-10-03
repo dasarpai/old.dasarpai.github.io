@@ -1,6 +1,6 @@
 ---
 mathjax: true
-id:  6062
+id: 6062
 title:  Unlocking the Power of Azure- Exploring 300+ Cloud Services and Their Purposes 
 date: 2023-06-06
 permalink: '/dsblog/Azure-Cloud-Service-Catalog'

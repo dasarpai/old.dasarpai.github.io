@@ -1,6 +1,5 @@
 ---        
-id: 5242        
-      
+id: 5242 
 title:  What is the Truth          
 date: "2023-12-11T08:33:00+05:30"        
 permalink: /wiaposts/What-is-the-Truth      

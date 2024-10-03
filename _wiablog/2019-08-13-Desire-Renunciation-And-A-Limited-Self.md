@@ -1,6 +1,5 @@
 --- 
-id: 5104
-
+id: 5104 
 title: Desire Renunciation And A Limited Self
 date: "2019-08-13T08:33:00+05:30"
 permalink: /wiaposts/desire-renunciation-and-a-limited-self

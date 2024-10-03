@@ -1,6 +1,6 @@
 ---
 mathjax: true
-id:  6061
+id: 6061
 title:  Google Cloud Service Catalog - A Comprehensive Overview of 250+ Google Cloud Services 
 date: 2023-06-05
 permalink: '/dsblog/Google-Cloud-Service-Catalog'

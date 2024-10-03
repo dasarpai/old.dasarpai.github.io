@@ -1,6 +1,5 @@
 --- 
-id: 5124
-
+id: 5124 
 title: Cause Of Pain And Suffering
 date: "2020-04-26T08:33:00+05:30"
 permalink: /wiaposts/cause-of-pain-and-suffering

@@ -1,6 +1,5 @@
 --- 
-id: 5097
-
+id: 5097 
 title: Greetings For New Year 2020
 date: '2020-01-01T08:33:00+05:30'
 permalink: /wiaposts/greetings-for-new-year-2020

@@ -1,6 +1,5 @@
 ---        
-id: 5237        
-      
+id: 5237 
 title:  ABC of Statistics          
 date: "2023-11-18T08:33:00+05:30"        
 permalink: /wiaposts/ABC-of-Statistics      

@@ -1,6 +1,5 @@
 --- 
-id: 5169
-
+id: 5169 
 title: Mirror, Image and Face
 date: "2021-08-25T08:33:00+05:30"
 permalink: /wiaposts/mirror-image-and-face

@@ -1,6 +1,5 @@
 ---            
-id: 5247            
-          
+id: 5247 
 title:   Introduction to Upanishads              
 date: "2024-01-07T08:33:00+05:30"            
 permalink: /wiaposts/Introduction-to-Upanishads          

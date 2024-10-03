@@ -1,6 +1,5 @@
 --- 
-id: 5202
-
+id: 5202 
 title: Efforts to Become Happy and Joyful
 date: "2022-11-09T08:33:00+05:30"
 permalink: /wiaposts/efforts-to-become-happy-and-joyful

@@ -1,6 +1,5 @@
 ---        
-id: 5239        
-      
+id: 5239 
 title: Language, Script and Devanagari          
 date: "2023-11-28T08:33:00+05:30"        
 permalink: /wiaposts/Language-Script-and-Devanagari      

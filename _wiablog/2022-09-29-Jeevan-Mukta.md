@@ -1,6 +1,5 @@
 --- 
-id: 5200
-
+id: 5200 
 title: Jeevan Mukta
 date: "2022-09-29T08:33:00+05:30"
 permalink: /wiaposts/jeevan-mukta

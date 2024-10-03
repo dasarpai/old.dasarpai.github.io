@@ -1,5 +1,5 @@
 ---
-id: 5225
+id: 5225 
 mathjax: true
 title:  How Do You Want to Live?   
 date: "2023-04-27T08:33:00+05:30"

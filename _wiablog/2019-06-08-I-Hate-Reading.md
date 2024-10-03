@@ -1,6 +1,5 @@
 --- 
-id: 5098
-
+id: 5098 
 title: I Hate Reading
 date: "2019-06-08T08:33:00+05:30"
 permalink: /wiaposts/i-hate-reading

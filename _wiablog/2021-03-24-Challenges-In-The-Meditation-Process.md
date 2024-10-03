@@ -1,6 +1,5 @@
 --- 
-id: 5150
-
+id: 5150 
 title: Challenges In The Meditation Process
 date: "2021-03-24T08:33:00+05:30"
 permalink: /wiaposts/challenges-in-the-meditation-process

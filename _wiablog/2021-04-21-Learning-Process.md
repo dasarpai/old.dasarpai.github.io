@@ -1,6 +1,5 @@
 --- 
-id: 5152
-
+id: 5152 
 title: Learning Process
 date: "2021-04-21T08:33:00+05:30"
 permalink: /wiaposts/learning-process

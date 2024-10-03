@@ -1,6 +1,5 @@
 --- 
-id: 5151
-
+id: 5151 
 title: Earnings Of Life
 date: "2021-04-10T08:33:00+05:30"
 permalink: /wiaposts/earnings-of-life

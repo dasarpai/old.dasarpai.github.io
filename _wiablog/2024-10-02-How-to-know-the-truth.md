@@ -1,5 +1,5 @@
 ---        
-id: 5267        
+id: 5267 
 mathjax: true        
 title:  "How to know the truth?"        
 date: "2024-10-01T08:33:00+05:30"        

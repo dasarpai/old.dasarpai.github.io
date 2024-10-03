@@ -1,6 +1,5 @@
 ---        
-id: 5234        
-      
+id: 5234  
 title:  The Ways to Hurt the Self          
 date: "2023-09-14T08:33:00+05:30"        
 permalink: /wiaposts/The-Ways-to-Hurt-the-Self      

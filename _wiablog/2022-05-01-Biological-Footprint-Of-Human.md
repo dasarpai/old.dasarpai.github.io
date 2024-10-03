@@ -1,6 +1,5 @@
 --- 
-id: 5188
-
+id: 5188 
 title: Biological Footprint of Human
 date: "2022-05-01T08:33:00+05:30"
 permalink: /wiaposts/biological-footprint-of-human

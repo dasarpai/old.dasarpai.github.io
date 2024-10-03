@@ -1,6 +1,5 @@
 --- 
-id: 5167
-
+id: 5167 
 title: About Friendship
 date: "2021-08-15T08:33:00+05:30"
 permalink: /wiaposts/about-friendship

@@ -1,5 +1,5 @@
 ---        
-id: 5264        
+id: 5264 
 mathjax: true        
 title:  "Why is there conflict in the Society?"        
 date: "2024-09-26T08:33:00+05:30"        

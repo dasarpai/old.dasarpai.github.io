@@ -1,6 +1,5 @@
 --- 
-id: 5172
-
+id: 5172 
 title: Play on your Strength
 date: "2021-10-19T08:33:00+05:30"
 permalink: /wiaposts/play-on-your-strength

@@ -1,5 +1,5 @@
 ---        
-id: 5255        
+id: 5255 
 mathjax: true        
 title:  What is Sin?        
 date: "2024-06-25T08:33:00+05:30"        

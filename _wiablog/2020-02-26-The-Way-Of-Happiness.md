@@ -1,6 +1,5 @@
 --- 
-id: 5119
-
+id: 5119 
 title: The Way Of Happiness
 date: "2020-02-26T08:33:00+05:30"
 permalink: /wiaposts/the-way-of-happiness

@@ -1,6 +1,5 @@
 ---        
-id: 5243        
-      
+id: 5243  
 title:  Layers of Identities and Bondage          
 date: "2023-09-04T08:33:00+05:30"        
 permalink: /wiaposts/Layers-of-Identities-and-Bondage      

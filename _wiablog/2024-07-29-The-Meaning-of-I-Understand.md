@@ -1,5 +1,5 @@
 ---        
-id: 5251       
+id: 5251 
 mathjax: true        
 title:  The Meaning of Understanding          
 date: "2024-07-27T08:33:00+05:30"        

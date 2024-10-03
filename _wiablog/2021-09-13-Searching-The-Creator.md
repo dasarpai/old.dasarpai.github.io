@@ -1,6 +1,5 @@
 --- 
-id: 5170
-
+id: 5170 
 title: Searching the Creator
 date: "2021-09-13T08:33:00+05:30"
 permalink: /wiaposts/searching-the-creator

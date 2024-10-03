@@ -1,6 +1,5 @@
 --- 
-id: 5148
-
+id: 5148 
 title: AI And Free Soul
 date: "2021-03-10T08:33:00+05:30"
 permalink: /wiaposts/ai-and-free-soul

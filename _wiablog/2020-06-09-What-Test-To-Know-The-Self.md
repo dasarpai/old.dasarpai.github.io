@@ -1,6 +1,5 @@
 --- 
-id: 5129
-
+id: 5129 
 title: What Test To Know The Self?
 date: "2020-06-09T08:33:00+05:30"
 permalink: /wiaposts/what-test-to-know-the-self

@@ -1,6 +1,5 @@
 --- 
-id: 5121
-
+id: 5121 
 title: Meaning Of Understanding
 date: "2020-03-18T08:33:00+05:30"
 permalink: /wiaposts/meaning-of-understanding

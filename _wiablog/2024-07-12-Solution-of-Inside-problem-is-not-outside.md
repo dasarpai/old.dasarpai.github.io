@@ -1,5 +1,5 @@
 ---        
-id: 5256        
+id: 5256 
 mathjax: true        
 title:  Solution of Inside problem is not outside          
 date: "2024-07-12T08:33:00+05:30"        

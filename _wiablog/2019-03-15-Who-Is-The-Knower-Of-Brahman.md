@@ -1,6 +1,5 @@
 --- 
-id: 5093
-
+id: 5093 
 title: Who Is The Knower Of Brahman?
 date: "2019-03-15T08:33:00+05:30"
 permalink: /wiaposts/who-is-the-knower-of-brahman

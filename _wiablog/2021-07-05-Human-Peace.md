@@ -1,6 +1,5 @@
 --- 
-id: 5164
-
+id: 5164 
 title: Human Peace
 date: "2021-07-05T08:33:00+05:30"
 permalink: /wiaposts/human-peace

@@ -1,6 +1,5 @@
 --- 
 id: 5089
-
 title: Suffering And Remedy
 date: "2019-01-09T08:33:00+05:30"
 permalink: /wiaposts/suffering-and-remedy

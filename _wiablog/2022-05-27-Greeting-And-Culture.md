@@ -1,6 +1,5 @@
 --- 
-id: 5190
-
+id: 5190 
 title: Greeting and Culture
 date: "2022-05-27T08:33:00+05:30"
 permalink: /wiaposts/greeting-and-culture

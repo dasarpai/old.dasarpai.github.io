@@ -1,5 +1,5 @@
 ---        
-id: 5266        
+id: 5266 
 mathjax: true        
 title:  "Embracing Responsibility for Change"        
 date: "2024-10-01T08:33:00+05:30"        

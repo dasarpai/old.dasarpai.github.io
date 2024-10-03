@@ -1,5 +1,5 @@
 ---        
-id: 5263        
+id: 5263 
 mathjax: true        
 title:  "What is the Cause of Renunciation?"        
 date: "2024-09-25T08:33:00+05:30"        

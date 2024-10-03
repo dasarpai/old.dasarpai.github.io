@@ -1,6 +1,5 @@
 ---                    
-id: 5212                    
-                  
+id: 5212 
 title: You Can Never Speak The Truth                 
 date: "2023-01-14T08:33:00+05:30"                    
 permalink: /wiaposts/You-Can-Never-Speak-the-Truth                 

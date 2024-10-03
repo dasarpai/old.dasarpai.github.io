@@ -1,6 +1,6 @@
 ---
 mathjax: true
-id:  6064
+id: 6064
 title:  All Resources to Learn Data Science 
 date: 2023-06-08
 permalink: '/dsblog/all-resources-to-learn-data-science'

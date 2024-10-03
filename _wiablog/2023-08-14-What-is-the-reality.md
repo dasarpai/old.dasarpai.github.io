@@ -1,6 +1,5 @@
 ---        
-id: 5231        
-      
+id: 5231
 title:  What is the Reality?          
 date: "2023-08-14T08:33:00+05:30"        
 permalink: /wiaposts/What-is-the-Reality      

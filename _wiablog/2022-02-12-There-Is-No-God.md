@@ -1,6 +1,5 @@
 --- 
-id: 5180
-
+id: 5180 
 title: There is no God!
 date: "2022-02-12T08:33:00+05:30"
 permalink: /wiaposts/there-is-no-god

@@ -1,5 +1,5 @@
 ---        
-id: 5264        
+id: 5264 
 mathjax: true        
 title:  "What is Renunciation?"        
 date: "2024-09-30T08:33:00+05:30"        

@@ -1,6 +1,5 @@
 --- 
-id: 5138
-
+id: 5138 
 title: Who Is The Creator?
 date: "2020-09-28T08:33:00+05:30"
 permalink: /wiaposts/who-is-the-creator

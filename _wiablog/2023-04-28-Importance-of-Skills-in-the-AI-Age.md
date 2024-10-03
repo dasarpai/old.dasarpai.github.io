@@ -1,6 +1,5 @@
 ---    
-id: 5227    
-  
+id: 5227   
 title:  Importance of Skills in The AI Age      
 date: "2023-04-28T08:33:00+05:30"    
 permalink: /wiaposts/Importance-of-Skills-in-the-AI-Age    

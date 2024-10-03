@@ -1,6 +1,5 @@
 --- 
-id: 5134
-
+id: 5134 
 title: Universal Culture
 date: "2020-08-12T08:33:00+05:30"
 permalink: /wiaposts/universal-culture
