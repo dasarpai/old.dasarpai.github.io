@@ -121,54 +121,148 @@ sidebar:
 
 # AI/ML - Technology Stack - Developed/ Created/ Expended work
 ## 0-Experiments
-## Analytics
-## Audio
-## Bigdata
-## Cloud
-## CV
-## DE
-## EdgeModels
-## GAN
-## IOT
-## LLM
-## Misc
-## ML
-## MLOps
-## NLP
-## Python-Automation
-## R-Projects
-## RL
-## Stats
-## Tech-Products
-## Timeseries
-## Transfer-Learning
-## Utils-JypterNB
+##  <font color=green> Analytics</font>
+### bokeh
+### pandas
+### plotly
+### PyGWalker
+### tableau
+
+##  <font color=green> Audio</font>
+### Speech Recogntion
+
+##  <font color=green> Bigdata</font>
+### Bigdata-HiveScoop
+### Bigdata-mySQL
+
+##  <font color=green> Cloud</font>
+### AWS-Amazon-Bedrock-for-Serverless-LLM
+### AWS-SageMaker
+### GCP 
+
+##  <font color=green> CV</font>
+### Flower-Prediction
+### ImageAugmentation
+### ImageProcessing
+### MNIST-Experiments
+### Object-Detection-InBrowser
+
+##  <font color=green> DE</font>
+### DataCleaning
+### Datacollection
+### PyWebScrapping
+
+##  <font color=green> EdgeModels</font>
+### mobilenet-v2
+
+##  <font color=green> GAN</font>
+### MusicGeneration
+
+##  <font color=green> IOT</font>
+### BOLTIOT
+
+##  <font color=green> LLM</font>
+### finetune-bloom-7b
+### finetune-llama2
+### finetune-llama3-8b
+### huggingface
+### Langchain
+### neo2.7b
+### openAI
+### openai-quickstart-python
+### quantization
+### RAG
+
+##  <font color=green> Misc</font>
+
+##  <font color=green> ML</font>
+### Classification
+### Clustering
+### DataImbalance
+### ML-Retraining
+### Regression
+### ROC
+
+##  <font color=green> MLOps</font>
+### ML-Pipelines
+### naptune
+
+##  <font color=green> NLP</font>
+### embedding
+### LSTM.ipynb
+### NLP
+### NLP-Concepts
+### NLP-Hindi-Bible
+### NLP-Plugin20Event
+### NLP-rasa
+### NLP-SanskritTrans
+
+##  <font color=green> Python-Automation</font>
+##  <font color=green> R-Projects</font>
+##  <font color=green> RL</font>
+##  <font color=green> Stats</font>
+##  <font color=green> Tech-Products</font>
+### Hive
+### mongodb
+### PowerBI
+### TensorFlow-ImageRecognition
+
+##  <font color=green> Timeseries</font>
+### TS-multivariate
+### TS-Smoothing
+
+##  <font color=green> Transfer-Learning</font>
+
+##  <font color=green> Utils-JypterNB</font>
+
 ## Readme.md
 
 # AI/ML - Forked
-## 100Days-ML
-## automl
-## chroma
-## diffusers
-## evalml
-## gcp-python-docs-samples
-## GFPGAN
-## google-gemini-cookbook
-## intel-scikit-learn-intelex
-## langchain
-## langgraph
-## Learning-Pandas-Second-Edition
-## LeetCode-js
-## microsoft-generative-ai-for-beginners
-## ML+DL-Code-for-my-YouTube-Channel-Rohan
-## packages
-## stanford_alpaca
-## tensorboard
-## tensorflow
-## tensorflow-examples
-## tfjs-examples
-## Visualization
-## viz-github-repo
+## <font color=green>100Days-ML</font>
+ 
+## <font color=green>automl</font>
+ 
+## <font color=green>chroma</font>
+ 
+## <font color=green>diffusers</font>
+ 
+## <font color=green>evalml</font>
+ 
+## <font color=green>gcp-python-docs-samples</font>
+ 
+## <font color=green>GFPGAN</font>
+ 
+## <font color=green>google-gemini-cookbook</font>
+ 
+## <font color=green>intel-scikit-learn-intelex</font>
+ 
+## <font color=green>langchain</font>
+ 
+## <font color=green>langgraph</font>
+ 
+## <font color=green>Learning-Pandas-Second-Edition</font>
+ 
+## <font color=green>LeetCode-js</font>
+ 
+## <font color=green>microsoft-generative-ai-for-beginners</font>
+ 
+## <font color=green>ML+DL-Code-for-my-YouTube-Channel-Rohan</font>
+ 
+## <font color=green>packages</font>
+ 
+## <font color=green>stanford_alpaca</font>
+ 
+## <font color=green>tensorboard</font>
+ 
+## <font color=green>tensorflow</font>
+ 
+## <font color=green>tensorflow-examples</font>
+ 
+## <font color=green>tfjs-examples</font>
+ 
+## <font color=green>Visualization</font>
+ 
+## <font color=green>viz-github-repo</font>
 ## README-forked-repo.md
 
 # Management
