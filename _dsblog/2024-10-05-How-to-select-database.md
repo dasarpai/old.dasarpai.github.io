@@ -20,7 +20,7 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: ["Apache Hive", "Big Data", "Hadoop", "Data Warehousing", "SQL on Hadoop", "HiveQL", "Distributed Computing", "Data Partitioning", "ETL Processing", "Query Optimization", "HDFS", "MapReduce", "Hive vs. SQL"]
+keywords: ["Database selection criteria", "CAP theorem explained", "Sharding vs partitioning", "Distributed vs centralized databases", "Database compression techniques", "ACID transaction support in databases", "Schema flexibility in databases", "Volume handling in big data", "Database query performance", "Concurrent processing in databases"]
 
 ---
 
@@ -207,3 +207,16 @@ According to the CAP theorem, a distributed database can only guarantee two out 
    - **Challenges:**
      - More complex query planning.
      - Potential skew if the partitioning logic is not evenly distributed.
+
+## Hashtags
+
+#DatabaseSelection
+#BigData
+#DistributedSystems
+#CAPTheorem
+#Sharding
+#Partitioning
+#ACIDTransactions
+#DataStorage
+#DataManagement
+#TechInsights
