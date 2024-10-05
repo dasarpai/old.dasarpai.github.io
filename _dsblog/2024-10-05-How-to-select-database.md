@@ -30,13 +30,13 @@ keywords: ["Apache Hive", "Big Data", "Hadoop", "Data Warehousing", "SQL on Hado
 
 ## Is this article for me?
 If you are looking answer for these questions then "Yes".
-- What parameters should you consider to choose a database for our project?
+- What parameters should you consider to choose a database for your project?
 - What are different data formats for bigdata?
 - What is the difference between OCR and Parquet data formats?
 - What is CAP Theorem?
 - What is the difference between Sharding and Partitioning
 
-## What parameters should you consider to choose a database for our project?
+## What parameters should you consider to choose a database for your project?
 When you are developing an application which need to store the data or you need to pull data from some format for your project work that time you need to take care of many parameters. Sometimes it looks there is an ovbious choice to go for a certain type of database for some specific work but most of the time it is challenging. What are those aspects of a database which you need to take care of?
 
 Here are more parameters to consider when selecting a database:
