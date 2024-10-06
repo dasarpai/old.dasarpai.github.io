@@ -2,7 +2,7 @@
 id: 5261 
 mathjax: true        
 title:  "What is Relationship?"        
-date: "2024-08-20T08:33:00+05:30"        
+date: "2024-08-23T08:33:00+05:30"        
 permalink: /wiaposts/what-is-relationship  
 tags:  [My Views, Life, Philosophy]         
         
