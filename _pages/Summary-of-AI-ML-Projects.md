@@ -59,10 +59,9 @@ sidebar:
 - **Statistics:** Descriptive/Inferential Statistics, Prescriptive Statistics in AI.
 
 
-Language: Python, Markdown, LaTEX 
-MLOPs: mlflow, tensf
-
 # AI/ML - Industries - Developed/ Created/ Expanded work
+**Projects in this section are listed according to Industry/Business Domain.**
+
 ## <font color=green>Agri</font>
 
 ## <font color=green>Airlines</font>
@@ -167,6 +166,8 @@ Activities (Pipeline) in project:
 ## README.md
 
 # AI/ML - Technology Stack - Developed/ Created/ Expended work
+**Projects in this section are listed according to Technology/Tech Product/POC**
+
 ## 0-Experiments
 ##  <font color=green> Analytics</font>
 ### bokeh
