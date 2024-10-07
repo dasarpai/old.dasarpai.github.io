@@ -199,8 +199,14 @@ Activities (Pipeline) in project:
 ### Datacollection
 ### PyWebScrapping
 
-##  <font color=green> EdgeModels</font>
+##  <font color=green> Machine Learning Frameworks</font>
 ### mobilenet-v2
+Using deep learning model on mobile.
+[Github Read me](https://github.com/dasarpai/DAI-Techstack/tree/main/MLFrameworks/mobilenet-v2)
+
+### Tensofrlow Lite for Regression
+[Github Code for App and Model](https://github.com/dasarpai/DAI-Techstack/tree/main/MLFrameworks/tensorflow-lite)
+
 
 ##  <font color=green> GAN</font>
 ### MusicGeneration
@@ -219,6 +225,9 @@ Activities (Pipeline) in project:
 ### openai-quickstart-python
 ### quantization
 ### RAG
+
+### GroqCloud
+
 
 ##  <font color=green> Misc</font>
 
