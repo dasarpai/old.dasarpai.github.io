@@ -27,8 +27,40 @@ sidebar:
 - These github repositories are related to all my projects, consultings, courses and POC (proof of concepts), technology explorations, github opensource contributions etc.
 - These projects are related to Project Management, AI/ML, LLM, NLP, Cloud Computing, Software Architectures and Solutions,
 - The purpose of this listing is dual, to help other's knowing what is possible and what I have explored. Second, to remind myself what I already have explored and worked vs what didn't work.
+- Bigdata: Hadoop, Hive, Spark
 
 
+# Tech Skills
+
+- **LLM Expertise:** Prompt Engineering, Finetuning & Deployment (chatGPT, GPT4, Bard, LLaMA, LaMDA, PaLM, ).
+
+- **ML Model Development:** Feature Engineering, Tuning, Evaluation, Cross-Validation, Classical ML, NLP metrics, egression/Classification/Clustering, Ensemble Trees, Decision Tree, Random Forest, SVM.
+
+- **AutoML:** Automated ML (PyCaret, TPOT).
+
+- **MLOps/DevOps:**
+
+- **Deep Learning / NLP & Embedding:** Huggingface, RNN, LSTM, GRU, Transformers, BERT, FastText, NLTK, SpaCy, Word Embedding, Keras, PyTorch, TensorFlow, OpenAI, Embedding Transfer, CV model evaluation, CNN, YOLO
+
+- **Big Data & Cloud:** Hadoop, Spark, PySpark, Kafka, NoSQL (Cassandra, MongoDB)
+
+- **Cloud Platforms:** AWS, GCP, Azure, AWS Sagemaker, Aure AutoML, VertexAI
+
+- **ML Frameworks:** Tensorflow, Tensorflow lite/LiteRT, Tensorflow.js, Pytorch 
+
+- **Data Visualization:** PowerBI, Tableau, Plotly, Seaborn, Matplotlib,
+
+- **Mobile/Web App Dev:** Flask, Gradio, Streamlit, Android Studio, Flutter
+
+- **Programming Laguages:** Python, R, Package Managers (pip, conda, npm), Dart
+
+- **Markup Language:** Markdown, LaTex, HTML/CSS
+
+- **Statistics:** Descriptive/Inferential Statistics, Prescriptive Statistics in AI.
+
+
+Language: Python, Markdown, LaTEX 
+MLOPs: mlflow, tensf
 
 # AI/ML - Industries - Developed/ Created/ Expanded work
 ## <font color=green>Agri</font>
@@ -45,7 +77,7 @@ Activities (Pipeline) in project:
 - Parition hive table based on the year and putting data in partition table.
 - Performing sql querries on the partitioned table
 
-**Tech Stack:** Hadoop/HDFS, Hive, SQL, HiveQL, ORC (Optimized Row Columnar) or Parquet.   
+**Tech Stack:** Hadoop/HDFS, Hive, SQL, HiveQL, ORC (Optimized Row Columnar) or Parquet, Python, Matplotlib/Seaborn.   
 [My article on Hive](dsblog/Exploring-Apache-Hive)  
 [Github Code](https://github.com/dasarpai/DAI-Projects/tree/main/Airlines/Flightdelay-Analysis-Bigdata)
 
