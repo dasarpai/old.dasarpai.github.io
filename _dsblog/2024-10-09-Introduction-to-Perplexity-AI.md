@@ -32,7 +32,8 @@ keywords: [LLM, Perplexity AI, AI, Chatbot, Search Engine]
 ## What is Perplexity AI?
 Perplexity AI Founded in 2022 is based in San Francisco, California. Perplexity AI is an AI-powered search engine that uses a large language model to answer questions and provide information. It is a free, open-source search engine that is built on top of the latest advancements in AI and natural language processing. Perplexity AI distinguishes itself as a unique blend of a search engine and an AI chatbot, offering several features that set it apart from traditional search engines like Google and other AI models such as ChatGPT.
 
-## What are the Challenges which traditional search engines and ChatGPT? 
+## What are the Challenges which traditional search engines?
+Some of these limitations are even with ChatGPT. 
 - They are not able to provide real-time information.
 - They are not able to provide direct answers with citations.
 - They are not able to provide follow-up questions.
@@ -40,13 +41,13 @@ Perplexity AI Founded in 2022 is based in San Francisco, California. Perplexity 
 - Searching capability of many AI enabled search engines is limited to text.
 - They are not able to provide a conversational interface with contextual memory.
 - They are tied to limited AI models. 
+- Not able to answers from my knowledge base.
 - They are too verbose, especially search engines like Google, Bing provide too much information, often information overload.
 - Too many ads and distractions.
 
 ## How does Perplexity AI work?
 
 Perplexity AI uses a large language model to understand the user's query and provide a relevant answer. The language model is trained on a large corpus of data, including books, web pages, and other sources of information.
-
 
 
 ## Key Differences

@@ -271,28 +271,31 @@ By checking the differences before rebasing, you can:
 This approach helps maintain a cleaner history and reduces the likelihood of unexpected issues during the rebase process.
 
 ## How to merge two commits into one?
+To merge two commits into one in Git (a process called squashing), you can use an interactive rebase to combine multiple commits into a single one. This is useful when you want to clean up your commit history before pushing to a remote repository or submitting a pull request.
+1. Identify the commits you want to merge. Command below will show the commit history in a condensed format.
+   ```
+   git log --oneline
+   ```
+2. Start an interactive rebase. Suppose you want to squash the last two commits.
+   ```
+   git rebase -i HEAD~2
+   ```
+3. Modify the rebase instruction. An interactive editor will open, showing the commits:
+   ```
+   pick e456f8b Second commit
+   pick d123abc First commit
+   Change the word pick on the second line (for the older commit) to squash. This tells Git to "squash" the second commit into the first one.
+   ```
+4. Save and close the editor
+5. Edit the commit message
+6. Push the squashed commit
+   ```
+   git push --force origin <branch-name>
 
-To merge two commits into one, you can use the `squash` option in the interactive rebase process. Here’s how you can do it:
+   OR
 
-1. Start the interactive rebase process:
-
-```bash
-git rebase -i HEAD~2
-```
-
-2. In the editor that opens, find the commits you want to merge. For example, if you want to merge the last two commits into one, you would change the `pick` for the second-to-last commit to `squash`.
-
-3. Save and close the editor. Git will prompt you to enter a commit message for the new, merged commit.
-
-4. Push the changes to the remote repository:
-
-```bash
-git push --force  
-```
-
-Note: This will overwrite the remote branch with your new, merged commit. Make sure to coordinate with your team to avoid conflicts.
-
-This method helps streamline your commit history by merging multiple commits into one, making it easier to manage and review changes.
+   git push origin <branch-name> 
+   ```
 
 ## What does "sync fork" link in github do?
 
@@ -303,32 +306,26 @@ The "Sync fork" link in GitHub is used to update your local copy of a repository
 Yes, it's a good practice to sync your fork with the original repository before sending a pull request. This ensures that your changes are based on the latest code and reduces the risk of conflicts. Here’s how you can do it:
 
 1. **Add the original repository as an upstream remote:**
-
-```bash
-git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
-```
-
+   ```bash
+   git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+   ```
 2. **Fetch the latest changes from the original repository:**
 
-```bash
-git fetch upstream
-```
-
+   ```bash
+   git fetch upstream
+   ```
 3. Switch to your main branch (or the branch you are planning to send the PR from): 
-```bash
-git checkout main
-```
+   ```bash
+   git checkout main
+   ```
 4. **Merge the latest changes into your local repository:**
-
-```bash
-git merge upstream/main
-```
-
+   ```bash
+   git merge upstream/main
+   ```
 5. **Push the updated changes to your fork on GitHub:** 
-
-```bash
-git push origin main
-```
+   ```bash
+   git push origin main
+   ```
 
 This ensures that your pull request is based on the latest code from the original repository.
 
@@ -353,21 +350,21 @@ In summary, `git fetch` is used to update your local repository with the latest 
 1. **Permissions needed**
 You need write access to the original repository. If you're a maintainer, collaborator, or part of an organization that manages the repository, you can create branches directly in the original repository.
 2. **Clone Repository**
-```bash 
-git clone https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
-```
+   ```bash 
+   git clone https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+   ```
 3. **Change folder**
 cd ORIGINAL_REPOSITORY
 
 4. Create a new branch locally.
-```bash 
-git checkout -b my-new-branch
-```
+   ```bash 
+   git checkout -b my-new-branch
+   ```
 
 5. Push the branch to the original repository (also called the "remote"):
-```
-git push origin my-new-branch
-```
+   ```
+   git push origin my-new-branch
+   ```
 
 ## What is Codespace in github?
 
