@@ -27,6 +27,23 @@ keywords: [Ollama AI, On-device AI, Local LLM frameworks, AI model management, L
 
 # Exploring Ollama & LM Studio
 
+## Is this article for me?
+If you are looking answers to the following questions, then this article is for you:
+
+- Question: What is Ollama? Is it like Docker?
+- Question: How is Ollama different from Docker?
+- Question: How to install ollama on my machine?
+- Question: How to create customized LLM Model (docker like image)?
+- Question: What are the LLM available on ollama?
+- Question: Can we integrate these hundreds with different UI like ChatGPT?
+- Question: If I want to use all these Ollama models via Jupyter Notebook then what to do?
+- Question: Does Ollama have plugins like github copilot? Can I use those from my visual code?
+- Question: What kind of software are LM Studio or Ollama?
+- Question: What is LM Studio and how different it is from Ollama?
+- Question: What are different formats to save model, specifically LLMs?
+- Question: What is gguf model extention?
+- Question: If I have finetuned my models using clouds like aws sagemaker, vertexai, azure and kept there then can I use them inside my ollama and LM Studio?
+
 ## Question: What is Ollama? Is it like Docker?
 Ollama is a platform designed to make running and interacting with large language models (LLMs) easier. It abstracts away the complexities of managing LLM models, GPU resources, and related configurations by offering a simple CLI interface. With Ollama, you can run, manage, and deploy LLMs locally or in various cloud environments without having to worry about the intricate details of setting up environments, downloading models, or configuring them.
 
