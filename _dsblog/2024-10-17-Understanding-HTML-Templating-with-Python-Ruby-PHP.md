@@ -1,3 +1,27 @@
+---
+mathjax: true
+id: 6164
+title: "Understanding HTML Templating with PHP, Python, and Ruby"
+date: 2024-10-17
+permalink: /dsblog/Understanding-HTML-Templating-with-Python-Ruby-PHP
+tags: [Programming, Python, Ruby, PHP, HTML, "Web Development"]
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+toc_levels: 2
+mathjax: "true"
+comments: true
+keywords: ["server-side templating", "PHP in HTML", "Jinja2 templates", "ERB templates", "dynamic web pages", "HTML templating", "embedding code in HTML", "web development"]
+---
 
 ![Understanding HTML Templating with PHP, Python, and Ruby](/assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg)
 
