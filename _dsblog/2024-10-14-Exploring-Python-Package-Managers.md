@@ -4,11 +4,11 @@ id: 6161
 title: "Exploring Python Package Manager"
 date: 2024-10-14
 permalink: /dsblog/Exploring-Python-Package-Manager
-tags: []
+tags: ["Package Management", Programming, Python]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost//assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg
+    teaser: /assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
@@ -17,16 +17,20 @@ author_profile: true
 share: true   
 toc: true   
 toc_sticky: true 
-toc_levels: 2
+toc_levels: 3
 mathjax: "true"
 comments: true
 keywords: ["Python package managers", "Pip", "Conda", "Installing packages", "Managing dependencies", "Python libraries", "Pip commands", "Conda commands", "Pip vs Conda", "Python development tools"]
 ---
 
-# Exploring Python Package Managers
 ![Exploring Python Package Managers](/assets/images/dspost/dsp6161-Exploring-Python-Package-Managers.jpg)
 
+# Exploring Python Package Managers   
+
+## What is Package Manager?
+
 A **package manager** is a tool that automates the process of installing, upgrading, configuring, and removing software packages (libraries, frameworks, tools, etc.). It helps manage dependencies between packages and ensures that the correct versions are installed.
+
 
 ### Key Functions of a Package Manager:
 1. **Install Packages**: Automatically downloads and installs software from a central repository or local source.

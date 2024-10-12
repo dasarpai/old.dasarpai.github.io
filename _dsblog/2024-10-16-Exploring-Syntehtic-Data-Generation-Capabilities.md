@@ -4,7 +4,7 @@ id: 6163
 title: "Exploring Synthetic Data Generation Capabilities"
 date: 2024-10-16
 permalink: /dsblog/Exploring-Synthetic-Data-Generation-Capabilities
-tags: []
+tags: ["Synthetic Data", "Data Privacy", "Data Anonymization", Programming]
 categories:
   - dsblog
 header:

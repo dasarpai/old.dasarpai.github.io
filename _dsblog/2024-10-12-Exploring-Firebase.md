@@ -1,10 +1,10 @@
 ---
 mathjax: true
 id: 6159
-title: "Exploring Dense Embedding Models in AI"
+title: "Exploring Google Firebase"
 date: 2024-10-12
 permalink: /dsblog/Exploring-Firebase
-tags: []
+tags: ["Google Cloud","Application Integration", Programming]
 categories:
   - dsblog
 header:
@@ -24,6 +24,8 @@ keywords: ["Firebase integration", "Python Firebase", "Firebase Admin SDK", "Fir
 ---
 
 ![Exploring Firebase](/assets/images/dspost/dsp6159-Exploring-Firebase.jpg)
+
+# Exploring Firebase
 
 ## What is Firebase?
 Originally, Firebase started as a product called **Envolve** in 2011, which was a real-time chat service. It was co-founded by **James Tamplin** and **Andrew Lee**. While developing Envolve, they realized that developers were using its real-time system to sync application data, not just chat messages. This led them to pivot and create Firebase as a real-time database product in 2012. Google acquired Firebase in **2014** and integrated it into its broader ecosystem, expanding it into a full-fledged platform for app development.

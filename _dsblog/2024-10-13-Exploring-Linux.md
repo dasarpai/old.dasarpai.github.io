@@ -4,7 +4,7 @@ id: 6160
 title: "Understanding Linux Distributions"
 date: 2024-10-13
 permalink: /dsblog/Exploring-Linux-Distributions
-tags: []
+tags: ["Shell Commands", "Linux Distributions", "CLI", "Programming"]
 categories:
   - dsblog
 header:

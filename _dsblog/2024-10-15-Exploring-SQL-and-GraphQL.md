@@ -4,7 +4,7 @@ id: 6162
 title: "Exploring SQL and GraphQL Commands"
 date: 2024-10-15
 permalink: /dsblog/Exploring-SQL-and-GraphQL-Commands
-tags: [LLM Embeddings, LLM, Embeddings]
+tags: [SQL, GraphQL, Programming]
 categories:
   - dsblog
 header:

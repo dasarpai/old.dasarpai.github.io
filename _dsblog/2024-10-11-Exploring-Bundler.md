@@ -1,14 +1,14 @@
 ---
 mathjax: true
 id: 6158
-title: "Exploring Dense Embedding Models in AI"
+title: "What is Bundler?"
 date: 2024-10-11
 permalink: /dsblog/Exploring-Bundler
-tags: [LLM Embeddings, LLM, Embeddings]
+tags: ["Package Management", Programming]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost//assets/images/dspost/dsp6158-Exploring-Bundler.jpg)
+    teaser: /assets/images/dspost/dsp6158-Exploring-Bundler.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
@@ -48,15 +48,15 @@ keywords: ["Bundler" , "Ruby" , "Gemfile" , "Dependency management" , "Ruby gems
 2. **bundle update** - Updates gems to the latest versions in Gemfile.
 3. **bundle exec** - Runs a command in the context of the Gemfile.
 4. **bundle init** - Creates a new Gemfile in the current directory.
-5. **bundle add <gem>** - Adds a gem to the Gemfile.
-6. **bundle remove <gem>** - Removes a gem from the Gemfile.
+5. **bundle add \<gem\>** - Adds a gem to the Gemfile.
+6. **bundle remove \<gem\>** - Removes a gem from the Gemfile.
 7. **bundle check** - Checks if dependencies are installed.
 8. **bundle clean** - Cleans up unused gems.
 9. **bundle outdated** - Lists gems that have newer versions.
 10. **bundle lock** - Locks the Gemfile with the exact versions.
-11. **bundle open <gem>** - Opens the source for a gem in your editor.
+11. **bundle open \<gem\>** - Opens the source for a gem in your editor.
 12. **bundle console** - Opens an IRB session with the Gemfile's gems.
-13. **bundle show <gem>** - Shows the location of the gem.
+13. **bundle show \<gem\>** - Shows the location of the gem.
 14. **bundle config** - Manages bundler configuration settings.
 15. **bundle cache** - Caches the gems for offline use.
 16. **bundle outdated --local** - Checks for outdated gems locally.
@@ -65,23 +65,23 @@ keywords: ["Bundler" , "Ruby" , "Gemfile" , "Dependency management" , "Ruby gems
 19. **bundle pristine** - Restores installed gems to pristine condition.
 20. **bundle list** - Lists all installed gems.
 21. **bundle doctor** - Verifies the bundle environment.
-22. **bundle gem <name>** - Creates a skeleton for a new gem.
-23. **bundle outdated <gem>** - Checks for outdated versions of a specific gem.
+22. **bundle gem \<name\>** - Creates a skeleton for a new gem.
+23. **bundle outdated \<gem\>** - Checks for outdated versions of a specific gem.
 24. **bundle show --paths** - Displays the gem install paths.
-25. **bundle info <gem>** - Shows detailed information about a gem.
-26. **bundle exec rails <cmd>** - Executes Rails commands in bundle context.
-27. **bundle install --without <group>** - Excludes specified gem groups.
-28. **bundle install --path <dir>** - Installs gems to a specific directory.
-29. **bundle update --group <group>** - Updates gems in a specific group.
-30. **bundle update <gem>** - Updates only a specific gem.
+25. **bundle info \<gem\>** - Shows detailed information about a gem.
+26. **bundle exec rails \<cmd\>** - Executes Rails commands in bundle context.
+27. **bundle install --without \<group\>** - Excludes specified gem groups.
+28. **bundle install --path \<dir\>** - Installs gems to a specific directory.
+29. **bundle update --group \<group\>** - Updates gems in a specific group.
+30. **bundle update \<gem\>** - Updates only a specific gem.
 31. **bundle install --deployment** - Installs gems for deployment.
 32. **bundle lock --add-platform** - Adds an additional platform to the lockfile.
 33. **bundle install --local** - Installs gems from local cache.
-34. **bundle inject <gem> <version>** - Injects a gem directly into the lockfile.
+34. **bundle inject \<gem\> \<version\>** - Injects a gem directly into the lockfile.
 35. **bundle install --binstubs** - Generates binstubs for the gems.
 36. **bundle exec rspec** - Runs RSpec within the bundle environment.
-37. **bundle install --jobs <n>** - Parallelizes gem installation with `n` jobs.
-38. **bundle install --retry <n>** - Retries installation if it fails.
+37. **bundle install --jobs \<n\>** - Parallelizes gem installation with `n` jobs.
+38. **bundle install --retry \<n\>** - Retries installation if it fails.
 39. **bundle update --patch** - Updates gems to the latest patch version.
 40. **bundle update --minor** - Updates gems to the latest minor version.
 41. **bundle update --major** - Updates gems to the latest major version.
