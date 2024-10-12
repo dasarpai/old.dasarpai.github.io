@@ -45,6 +45,8 @@ Yes, there are problems in families, societies, nations, and the world. All thes
 - **Chapter 9**: *Nishumbha’s* army, and then Nishumbha.
 - **Chapter 10**: *Shumbha’s* army, and then Shumbha.
 
+I wish, if not all atleast one Asura within is destroyed by you so that you may experience inner peace and self-fulfillment in your life. What that one is you can identify yourself, based on your own experience priority.
+
 Wish you a very joyful Vijayadashami!
 
 Hari Om Tat Sat  
