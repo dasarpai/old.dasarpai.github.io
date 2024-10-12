@@ -4,7 +4,7 @@ id: 6156
 title: "Introduction to Perplexity AI"
 date: 2024-10-04
 permalink: /dsblog/Introduction-to-Perplexity-AI
-tags: [Github]
+tags: [LLM, AI, Chatbot, Search Engine]
 categories:
   - dsblog
 header:
