@@ -81,18 +81,18 @@ pip show transformers
 
 This will output:
 
-```
-Name: transformers
-Version: 4.44.0
-Summary: State-of-the-art Machine Learning for JAX, PyTorch, and TensorFlow
-Home-page: https://github.com/huggingface/transformers
-Author: The Hugging Face team (past and future) with the help of all our contributors (https://github.com/huggingface/transformers/graphs/contributors)
-Author-email: transformers@huggingface.co
-License: Apache 2.0 License
-Location: /mnt/d/venvs/tf-env/lib/python3.10/site-packages
-Requires: filelock, huggingface-hub, numpy, packaging, pyyaml, regex, requests, safetensors, tokenizers, tqdm
-Required-by:
-```
+
+Name: transformers   
+Version: 4.44.0   
+Summary: State-of-the-art Machine Learning for JAX, PyTorch, and TensorFlow   
+Home-page: https://github.com/huggingface/transformers   
+Author: The Hugging Face team (past and future) with the help of all our contributors (https://github.com/huggingface/transformers/graphs/contributors)   
+Author-email: transformers@huggingface.co   
+License: Apache 2.0 License   
+Location: /mnt/d/venvs/tf-env/lib/python3.10/site-packages   
+Requires: filelock, huggingface-hub, numpy, packaging, pyyaml, regex, requests, safetensors, tokenizers, tqdm   
+Required-by:   
+
 
 To check the list of all packages installed in the current environment, use:
 
@@ -130,88 +130,103 @@ I want to understand meaning of each operations like collecting, using, getting,
 
 
 D:\venvpy\mistral-agentic-rag>pip install -r requirements.txt
+
 ```
-Collecting absl-py==1.4.0 (from -r requirements.txt (line 1))
-  Using cached absl_py-1.4.0-py3-none-any.whl.metadata (2.3 kB)
-Collecting accelerate==0.31.0 (from -r requirements.txt (line 2))
-  Using cached accelerate-0.31.0-py3-none-any.whl.metadata (19 kB)
-Collecting aiohttp==3.9.5 (from -r requirements.txt (line 3))
-  Using cached aiohttp-3.9.5-cp312-cp312-win_amd64.whl.metadata (7.7 kB)
-Collecting aiosignal==1.3.1 (from -r requirements.txt (line 4))
-  Using cached aiosignal-1.3.1-py3-none-any.whl.metadata (4.0 kB)
-Collecting alabaster==0.7.16 (from -r requirements.txt (line 5))
-  Using cached alabaster-0.7.16-py3-none-any.whl.metadata (2.9 kB)
-Collecting albumentations==1.3.1 (from -r requirements.txt (line 6))
-  Using cached albumentations-1.3.1-py3-none-any.whl.metadata (34 kB)
-Collecting altair==4.2.2 (from -r requirements.txt (line 7))
-  Using cached altair-4.2.2-py3-none-any.whl.metadata (13 kB)
-Collecting arviz==0.15.1 (from -r requirements.txt (line 8))
-  Using cached arviz-0.15.1-py3-none-any.whl.metadata (8.5 kB)
-Collecting asgiref==3.8.1 (from -r requirements.txt (line 9))
-  Using cached asgiref-3.8.1-py3-none-any.whl.metadata (9.3 kB)
-Collecting astropy==5.3.4 (from -r requirements.txt (line 10))
-  Using cached astropy-5.3.4-cp312-cp312-win_amd64.whl.metadata (9.6 kB)
-Collecting astunparse==1.6.3 (from -r requirements.txt (line 11))
-  Using cached astunparse-1.6.3-py2.py3-none-any.whl.metadata (4.4 kB)
-Collecting async-timeout==4.0.3 (from -r requirements.txt (line 12))
-  Using cached async_timeout-4.0.3-py3-none-any.whl.metadata (4.2 kB)
-Collecting atpublic==4.1.0 (from -r requirements.txt (line 13))
-  Using cached atpublic-4.1.0-py3-none-any.whl.metadata (1.8 kB)
-Requirement already satisfied: attrs==23.2.0 in c:\python312\lib\site-packages (from -r requirements.txt (line 14)) (23.2.0)
-Collecting audioread==3.0.1 (from -r requirements.txt (line 15))
-  Using cached audioread-3.0.1-py3-none-any.whl.metadata (8.4 kB)
-Collecting autograd==1.6.2 (from -r requirements.txt (line 16))
-  Using cached autograd-1.6.2-py3-none-any.whl.metadata (706 bytes)
-Requirement already satisfied: Babel==2.15.0 in c:\python312\lib\site-packages (from -r requirements.txt (line 17)) (2.15.0)
-Collecting backcall==0.2.0 (from -r requirements.txt (line 18))
-  Using cached backcall-0.2.0-py2.py3-none-any.whl.metadata (2.0 kB)
-Collecting backoff==2.2.1 (from -r requirements.txt (line 19))
-  Using cached backoff-2.2.1-py3-none-any.whl.metadata (14 kB)
-Collecting bcrypt==4.1.3 (from -r requirements.txt (line 20))
-  Using cached bcrypt-4.1.3-cp39-abi3-win_amd64.whl.metadata (9.8 kB)
-Requirement already satisfied: beautifulsoup4==4.12.3 in c:\python312\lib\site-packages (from -r requirements.txt (line 21)) (4.12.3)
-Collecting bidict==0.23.1 (from -r requirements.txt (line 22))
-  Using cached bidict-0.23.1-py3-none-any.whl.metadata (8.7 kB)
-Collecting bigframes==1.9.0 (from -r requirements.txt (line 23))
-  Using cached bigframes-1.9.0-py2.py3-none-any.whl.metadata (4.9 kB)
-Requirement already satisfied: bleach==6.1.0 in c:\python312\lib\site-packages (from -r requirements.txt (line 24)) (6.1.0)
-Collecting blinker==1.4 (from -r requirements.txt (line 25))
-  Using cached blinker-1.4.tar.gz (111 kB)
-  Installing build dependencies ... done
-  Getting requirements to build wheel ... done
-  Preparing metadata (pyproject.toml) ... done
-Collecting blis==0.7.11 (from -r requirements.txt (line 26))
-  Using cached blis-0.7.11-cp312-cp312-win_amd64.whl.metadata (7.6 kB)
-Collecting blosc2==2.0.0 (from -r requirements.txt (line 27))
-  Using cached blosc2-2.0.0.tar.gz (3.0 MB)
-  Installing build dependencies ... done
-  Getting requirements to build wheel ... done
-  Preparing metadata (pyproject.toml) ... done
-Collecting bokeh==3.3.4 (from -r requirements.txt (line 28))
-  Using cached bokeh-3.3.4-py3-none-any.whl.metadata (12 kB)
-Collecting bqplot==0.12.43 (from -r requirements.txt (line 29))
-  Using cached bqplot-0.12.43-py2.py3-none-any.whl.metadata (6.4 kB)
-Collecting branca==0.7.2 (from -r requirements.txt (line 30))
-  Using cached branca-0.7.2-py3-none-any.whl.metadata (1.5 kB)
-Collecting build==1.2.1 (from -r requirements.txt (line 31))
-  Using cached build-1.2.1-py3-none-any.whl.metadata (4.3 kB)
-Collecting CacheControl==0.14.0 (from -r requirements.txt (line 32))
-  Using cached cachecontrol-0.14.0-py3-none-any.whl.metadata (3.1 kB)
-Collecting cachetools==5.3.3 (from -r requirements.txt (line 33))
-  Using cached cachetools-5.3.3-py3-none-any.whl.metadata (5.3 kB)
-Collecting catalogue==2.0.10 (from -r requirements.txt (line 34))
-  Using cached catalogue-2.0.10-py3-none-any.whl.metadata (14 kB)
-Requirement already satisfied: certifi==2024.6.2 in c:\python312\lib\site-packages (from -r requirements.txt (line 35)) (2024.6.2)
-Requirement already satisfied: cffi==1.16.0 in c:\python312\lib\site-packages (from -r requirements.txt (line 36)) (1.16.0)
-Collecting chardet==5.2.0 (from -r requirements.txt (line 37))
-  Using cached chardet-5.2.0-py3-none-any.whl.metadata (3.4 kB)
-Requirement already satisfied: charset-normalizer==3.3.2 in c:\python312\lib\site-packages (from -r requirements.txt (line 38)) (3.3.2)
-Collecting chex==0.1.86 (from -r requirements.txt (line 39))
-  Using cached chex-0.1.86-py3-none-any.whl.metadata (17 kB)
-Collecting chroma-hnswlib==0.7.3 (from -r requirements.txt (line 40))
-  Using cached chroma-hnswlib-0.7.3.tar.gz (31 kB)
-  Installing build dependencies ... done
-  Getting requirements to build wheel ... done
+Collecting absl-py==1.4.0 (from -r requirements.txt (line 1))   
+  Using cached absl_py-1.4.0-py3-none-any.whl.metadata (2.3 kB)   
+Collecting accelerate==0.31.0 (from -r requirements.txt (line 2))   
+  Using cached accelerate-0.31.0-py3-none-any.whl.metadata (19 kB)   
+Collecting aiohttp==3.9.5 (from -r requirements.txt (line 3))   
+  Using cached aiohttp-3.9.5-cp312-cp312-win_amd64.whl.metadata (7.7 kB)   
+Collecting aiosignal==1.3.1 (from -r requirements.txt (line 4))   
+  Using cached aiosignal-1.3.1-py3-none-any.whl.metadata (4.0 kB)   
+Collecting alabaster==0.7.16 (from -r requirements.txt (line 5))   
+  Using cached alabaster-0.7.16-py3-none-any.whl.metadata (2.9 kB)   
+Collecting albumentations==1.3.1 (from -r requirements.txt (line 6))   
+  Using cached albumentations-1.3.1-py3-none-any.whl.metadata (34 kB)   
+Collecting altair==4.2.2 (from -r requirements.txt (line 7))   
+  Using cached altair-4.2.2-py3-none-any.whl.metadata (13 kB)   
+Collecting arviz==0.15.1 (from -r requirements.txt (line 8))   
+  Using cached arviz-0.15.1-py3-none-any.whl.metadata (8.5 kB)   
+Collecting asgiref==3.8.1 (from -r requirements.txt (line 9))   
+  Using cached asgiref-3.8.1-py3-none-any.whl.metadata (9.3 kB)   
+Collecting astropy==5.3.4 (from -r requirements.txt (line 10))   
+  Using cached astropy-5.3.4-cp312-cp312-win_amd64.whl.metadata (9.6 kB)   
+Collecting astunparse==1.6.3 (from -r requirements.txt (line 11))   
+  Using cached astunparse-1.6.3-py2.py3-none-any.whl.metadata (4.4 kB)   
+Collecting async-timeout==4.0.3 (from -r requirements.txt (line 12))   
+  Using cached async_timeout-4.0.3-py3-none-any.whl.metadata (4.2 kB)   
+Collecting atpublic==4.1.0 (from -r requirements.txt (line 13))   
+  Using cached atpublic-4.1.0-py3-none-any.whl.metadata (1.8 kB)   
+Requirement already satisfied: attrs==23.2.0 
+in c:\python312\lib\site-packages (from -r requirements.txt (line 14)) (23.2.0)   
+
+Collecting audioread==3.0.1 (from -r requirements.txt (line 15))   
+  Using cached audioread-3.0.1-py3-none-any.whl.metadata (8.4 kB)   
+Collecting autograd==1.6.2 (from -r requirements.txt (line 16))   
+  Using cached autograd-1.6.2-py3-none-any.whl.metadata (706 bytes)   
+Requirement already satisfied: Babel==2.15.0 
+in c:\python312\lib\site-packages (from -r requirements.txt (line 17)) (2.15.0) 
+  
+Collecting backcall==0.2.0 (from -r requirements.txt (line 18))   
+  Using cached backcall-0.2.0-py2.py3-none-any.whl.metadata (2.0 kB)   
+Collecting backoff==2.2.1 (from -r requirements.txt (line 19))   
+  Using cached backoff-2.2.1-py3-none-any.whl.metadata (14 kB)   
+Collecting bcrypt==4.1.3 (from -r requirements.txt (line 20))   
+  Using cached bcrypt-4.1.3-cp39-abi3-win_amd64.whl.metadata (9.8 kB)   
+Requirement already satisfied: beautifulsoup4==4.12.3 
+in c:\python312\lib\site-packages (from -r requirements.txt (line 21)) (4.12.3)   
+
+Collecting bidict==0.23.1 (from -r requirements.txt (line 22))   
+  Using cached bidict-0.23.1-py3-none-any.whl.metadata (8.7 kB)   
+Collecting bigframes==1.9.0 (from -r requirements.txt (line 23))   
+  Using cached bigframes-1.9.0-py2.py3-none-any.whl.metadata (4.9 kB)   
+Requirement already satisfied: bleach==6.1.0   
+in c:\python312\lib\site-packages (from -r requirements.txt (line 24)) (6.1.0)   
+
+Collecting blinker==1.4 (from -r requirements.txt (line 25))   
+  Using cached blinker-1.4.tar.gz (111 kB)   
+  Installing build dependencies ... done   
+  Getting requirements to build wheel ... done   
+  Preparing metadata (pyproject.toml) ... done   
+Collecting blis==0.7.11 (from -r requirements.txt (line 26))   
+  Using cached blis-0.7.11-cp312-cp312-win_amd64.whl.metadata (7.6 kB)   
+Collecting blosc2==2.0.0 (from -r requirements.txt (line 27))   
+  Using cached blosc2-2.0.0.tar.gz (3.0 MB)   
+  Installing build dependencies ... done   
+  Getting requirements to build wheel ... done   
+  Preparing metadata (pyproject.toml) ... done   
+Collecting bokeh==3.3.4 (from -r requirements.txt (line 28))   
+  Using cached bokeh-3.3.4-py3-none-any.whl.metadata (12 kB)   
+Collecting bqplot==0.12.43 (from -r requirements.txt (line 29))   
+  Using cached bqplot-0.12.43-py2.py3-none-any.whl.metadata (6.4 kB)   
+Collecting branca==0.7.2 (from -r requirements.txt (line 30))   
+  Using cached branca-0.7.2-py3-none-any.whl.metadata (1.5 kB)   
+Collecting build==1.2.1 (from -r requirements.txt (line 31))   
+  Using cached build-1.2.1-py3-none-any.whl.metadata (4.3 kB)   
+Collecting CacheControl==0.14.0 (from -r requirements.txt (line 32))   
+  Using cached cachecontrol-0.14.0-py3-none-any.whl.metadata (3.1 kB)   
+Collecting cachetools==5.3.3 (from -r requirements.txt (line 33))   
+  Using cached cachetools-5.3.3-py3-none-any.whl.metadata (5.3 kB)   
+Collecting catalogue==2.0.10 (from -r requirements.txt (line 34))   
+  Using cached catalogue-2.0.10-py3-none-any.whl.metadata (14 kB)   
+Requirement already satisfied: certifi==2024.6.2   
+in c:\python312\lib\site-packages (from -r requirements.txt (line 35)) (2024.6.2)   
+
+Requirement already satisfied: cffi==1.16.0 
+in c:\python312\lib\site-packages (from -r requirements.txt (line 36)) (1.16.0) 
+  
+Collecting chardet==5.2.0 (from -r requirements.txt (line 37))   
+  Using cached chardet-5.2.0-py3-none-any.whl.metadata (3.4 kB)   
+Requirement already satisfied: charset-normalizer==3.3.2 
+in c:\python312\lib\site-packages (from -r requirements.txt (line 38)) (3.3.2)
+   
+Collecting chex==0.1.86 (from -r requirements.txt (line 39))   
+  Using cached chex-0.1.86-py3-none-any.whl.metadata (17 kB)   
+Collecting chroma-hnswlib==0.7.3 (from -r requirements.txt (line 40))   
+  Using cached chroma-hnswlib-0.7.3.tar.gz (31 kB)   
+  Installing build dependencies ... done   
+  Getting requirements to build wheel ... done   
   Preparing metadata (pyproject.toml) ... done
 ```
 
