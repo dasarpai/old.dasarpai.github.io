@@ -1,27 +1,3 @@
----
-mathjax: true
-id: 6164
-title: "Understanding HTML Templating with PHP, Python, and Ruby"
-date: 2024-10-17
-permalink: /dsblog/Understanding-HTML-Templating-with-Python-Ruby-PHP
-tags: [Programming, Python, Ruby, PHP, HTML, "Web Development"]
-categories:
-  - dsblog
-header:
-    teaser: /assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg
-excerpt_separator: "<!--more-->"   
-author: Hari Thapliyaal   
-layout: dspost-layout   
-excerpt:   
-author_profile: true   
-share: true   
-toc: true   
-toc_sticky: true 
-toc_levels: 2
-mathjax: "true"
-comments: true
-keywords: ["server-side templating", "PHP in HTML", "Jinja2 templates", "ERB templates", "dynamic web pages", "HTML templating", "embedding code in HTML", "web development"]
----
 
 ![Understanding HTML Templating with PHP, Python, and Ruby](/assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg)
 
@@ -30,16 +6,17 @@ keywords: ["server-side templating", "PHP in HTML", "Jinja2 templates", "ERB tem
 ## What is HTML Templating?
 This concept is widely used across different frameworks and languages to build dynamic, server-rendered web applications.
 
-The concept of mixing a programming or scripting language with HTML is commonly referred to as **"Server-Side Templating"** or **"Embedding Server-Side Code in HTML"**. This approach allows dynamic generation of web pages by combining HTML (for structure and presentation) with server-side logic \(like PHP, Python, Ruby, etc.\) to create dynamic content.
+The concept of mixing a programming or scripting language with HTML is commonly referred to as **"Server-Side Templating"** or **"Embedding Server-Side Code in HTML"**. This approach allows dynamic generation of web pages by combining HTML (for structure and presentation) with server-side logic (like PHP, Python, Ruby, etc.) to create dynamic content.
 
 ### Common Terms for This Concept:
 1. **HTML Templating**: More general, referring to any form of mixing dynamic code into an HTML template (using languages like PHP, Python, Ruby, JavaScript, etc.).
-
-2. **Server-Side Templating**: Refers to the practice of embedding server-side code in HTML using templating engines \(like Jinja for Python, ERB for Ruby, or native PHP syntax\).
+   
+2. **Server-Side Templating**: Refers to the practice of embedding server-side code in HTML using templating engines (like Jinja for Python, ERB for Ruby, or native PHP syntax).
    
 3. **Embedded Code**: Refers to any server-side or scripting code that is embedded within HTML tags.
 
 4. **Dynamic Web Pages**: Refers to web pages that are generated with dynamic content based on server-side processing.
+
 
 ## What are Jinja2 syntax? (HTML + Python)
 If you want to call python code within html then you need to use Jinja2 syntax.
@@ -47,21 +24,21 @@ If you want to call python code within html then you need to use Jinja2 syntax.
 Some important Jinja2 syntax elements used for embedding Python code in HTML templates are as following.
 
 ### 1. **Variable Output**
-- **`{{ variable }}`**: Renders the value of the variable.
-  ```
+- **{{ variable }}**: Renders the value of the variable.
+  ```jinja
   <p>{{ username }}</p>
   ```
 
 ### 2. **Control Structures**
-- **`{% if condition %}`**: Starts an if statement.
-  ```
+- **{% if condition %}**: Starts an if statement.
+  ```jinja
   {% if user.is_authenticated %}
       <p>Welcome, {{ user.username }}!</p>
   {% endif %}
   ```
 
-- **`{% elif condition %}`**: Adds an else-if condition.
-  ```
+- **{% elif condition %}**: Adds an else-if condition.
+  ```jinja
   {% if user.is_authenticated %}
       <p>Welcome, {{ user.username }}!</p>
   {% elif user.is_guest %}
@@ -69,8 +46,8 @@ Some important Jinja2 syntax elements used for embedding Python code in HTML tem
   {% endif %}
   ```
 
-- **`{% else %}`**: Defines an else block.
-  ```
+- **{% else %}**: Defines an else block.
+  ```jinja
   {% if user.is_authenticated %}
       <p>Welcome, {{ user.username }}!</p>
   {% else %}
@@ -79,7 +56,7 @@ Some important Jinja2 syntax elements used for embedding Python code in HTML tem
   ```
 
 - **`{% for item in list %}`**: Starts a loop through a list.
-  ```
+  ```jinja
   <ul>
       {% for item in items %}
           <li>{{ item }}</li>
@@ -92,7 +69,7 @@ Some important Jinja2 syntax elements used for embedding Python code in HTML tem
 
 ### 3. **Filters**
 - **`{{ variable | filter }}`**: Applies a filter to a variable.
-  ```
+  ```jinja
   <p>{{ username | capitalize }}</p>
   ```
 
@@ -104,13 +81,13 @@ Some important Jinja2 syntax elements used for embedding Python code in HTML tem
 
 ### 4. **Comments**
 - **`{# comment #}`**: Adds a comment that won’t be rendered in the output.
-  ```
+  ```jinja
   {# This is a comment #}
   ```
 
 ### 5. **Macros**
 - **`{% macro macro_name(args) %}`**: Defines a reusable block of code.
-  ```
+  ```jinja
   {% macro render_item(item) %}
       <li>{{ item }}</li>
   {% endmacro %}
@@ -139,7 +116,7 @@ Some important Jinja2 syntax elements used for embedding Python code in HTML tem
 
 ### 7. **Test Statements**
 - **`{% if variable is test %}`**: Checks if a variable meets a condition.
-  ```
+  ```jinja
   {% if user is none %}
       <p>No user found.</p>
   {% endif %}
@@ -154,13 +131,13 @@ Some important Jinja2 syntax elements used for embedding Python code in HTML tem
 
 ### 8. **Global Functions**
 - **`{{ function() }}`**: Calls global functions defined in your Flask app.
-  ```
+  ```jinja
   <p>Current Time: {{ current_time() }}</p>
   ```
 
 ### 9. **With Statement**
 - **`{% with variable = expression %}`**: Assigns a value to a variable for use within a block.
-  ```
+  ```jinja
   {% with total = items|length %}
       <p>Total items: {{ total }}</p>
   {% endwith %}
@@ -168,7 +145,7 @@ Some important Jinja2 syntax elements used for embedding Python code in HTML tem
 
 ### 10. **Include Statement**
 - **`{% include "filename.html" %}`**: Includes another template file.
-  ```
+  ```jinja
   {% include "header.html" %}
   ```
 
@@ -184,7 +161,7 @@ Here’s a list of important syntax and commands that are commonly used in **`.h
 1. **`<% %>`**:
    - Executes Ruby code but **does not print output**.
    - Example (control structures):
-     ```
+     ```erb
      <% @articles.each do |article| %>
        <!-- HTML content here -->
      <% end %>
@@ -193,14 +170,14 @@ Here’s a list of important syntax and commands that are commonly used in **`.h
 2. **`<%= %>`**:
    - Executes Ruby code and **prints the output** to the HTML.
    - Example (outputting data):
-     ```
+     ```erb
      <p><%= article.title %></p>
      ```
 
 3. **`<%- %>`** and **`<%= -%>`**:
    - Executes Ruby code but **trims whitespace** around the code.
    - Example (trimmed output):
-     ```
+     ```erb
      <%- @articles.each do |article| -%>
        <%= article.title -%>
      <%- end -%>
@@ -210,7 +187,7 @@ Here’s a list of important syntax and commands that are commonly used in **`.h
 1. **Loops**:
    - You can use Ruby's loop structures like `each`, `times`, etc.
    - Example:
-     ```
+     ```erb
      <ul>
        <% @items.each do |item| %>
          <li><%= item.name %></li>
@@ -221,7 +198,7 @@ Here’s a list of important syntax and commands that are commonly used in **`.h
 2. **Conditionals**:
    - You can use `if`, `elsif`, `else`, `unless` statements for conditional logic.
    - Example:
-     ```
+     ```erb
      <% if @user %>
        <p>Welcome, <%= @user.name %>!</p>
      <% else %>
@@ -232,7 +209,7 @@ Here’s a list of important syntax and commands that are commonly used in **`.h
 3. **Iterating with `each_with_index`**:
    - Useful for displaying an index along with each element.
    - Example:
-     ```
+     ```erb
      <% @items.each_with_index do |item, index| %>
        <p><%= index + 1 %>. <%= item.name %></p>
      <% end %>
@@ -242,14 +219,14 @@ Here’s a list of important syntax and commands that are commonly used in **`.h
 1. **`link_to`**:
    - Creates a hyperlink.
    - Example:
-     ```
+     ```erb
      <%= link_to 'Home', root_path %>
      ```
 
 2. **`form_for`**:
    - Creates a form bound to an ActiveRecord model.
    - Example:
-     ```
+     ```erb
      <%= form_for @article do |f| %>
        <p>
          <%= f.label :title %><br>
@@ -270,14 +247,14 @@ Here’s a list of important syntax and commands that are commonly used in **`.h
 3. **`image_tag`**:
    - Renders an image tag.
    - Example:
-     ```
+     ```erb
      <%= image_tag "logo.png", alt: "Company Logo" %>
      ```
 
 4. **`form_tag`**:
    - Creates a form not bound to a specific model.
    - Example:
-     ```
+     ```erb
      <%= form_tag search_path, method: :get do %>
        <%= text_field_tag :query %>
        <%= submit_tag "Search" %>
@@ -287,26 +264,26 @@ Here’s a list of important syntax and commands that are commonly used in **`.h
 5. **`button_to`**:
    - Creates a form with a button.
    - Example:
-     ```
+     ```erb
      <%= button_to 'Delete', article_path(@article), method: :delete %>
      ```
 
 6. **`render`**:
    - Renders a partial template or collection.
    - Example (partial):
-     ```
+     ```erb
      <%= render 'shared/header' %>
      ```
 
    - Example (collection):
-     ```
+     ```erb
      <%= render @articles %>
      ```
 
 7. **`content_for` and `yield`**:
    - Defines and renders content in specific parts of a layout.
    - Example:
-     ```
+     ```erb
      <% content_for :title do %>
        Article List
      <% end %>
@@ -317,14 +294,14 @@ Here’s a list of important syntax and commands that are commonly used in **`.h
 8. **`pluralize`**:
    - Returns singular or plural text based on a count.
    - Example:
-     ```
+     ```erb
      <%= pluralize(@articles.count, 'article') %>
      ```
 
 9. **`time_ago_in_words`**:
    - Displays a human-readable time difference.
    - Example:
-     ```
+     ```erb
      <%= time_ago_in_words(@article.created_at) %> ago
      ```
 
@@ -332,34 +309,34 @@ Here’s a list of important syntax and commands that are commonly used in **`.h
 1. **`text_field_tag`**:
    - Creates a text input field.
    - Example:
-     ```
+     ```erb
      <%= text_field_tag :name %>
      ```
 
 2. **`password_field_tag`**:
    - Creates a password input field.
    - Example:
-     ```
+     ```erb
      <%= password_field_tag :password %>
      ```
 
 3. **`submit_tag`**:
    - Creates a submit button.
    - Example:
-     ```
+     ```erb
      <%= submit_tag "Save" %>
      ```
 
 4. **`check_box_tag`**:
    - Creates a checkbox input.
    - Example:
-     ```
+     ```erb
      <%= check_box_tag 'accept_terms', 'yes' %> Accept Terms
      ```
 
 ### Flash Messages:
 - To display flash messages for notifications.
-  ```
+  ```erb
   <% if flash[:notice] %>
     <p><%= flash[:notice] %></p>
   <% end %>
@@ -373,14 +350,14 @@ Here’s a list of important syntax and commands that are commonly used in **`.h
 1. **`t` (translate)**:
    - Used for translating text based on locale.
    - Example:
-     ```
+     ```erb
      <%= t 'welcome_message' %>
      ```
 
 ### Routes:
 - Using Rails route helpers to link to paths or resources.
   - Example:
-    ```
+    ```erb
     <%= link_to 'Edit', edit_article_path(@article) %>
     ```
 
@@ -388,14 +365,14 @@ Here’s a list of important syntax and commands that are commonly used in **`.h
 1. **`javascript_include_tag`**:
    - Embeds JavaScript files.
    - Example:
-     ```
+     ```erb
      <%= javascript_include_tag 'application' %>
      ```
 
 2. **`stylesheet_link_tag`**:
    - Embeds CSS files.
    - Example:
-     ```
+     ```erb
      <%= stylesheet_link_tag 'application', media: 'all' %>
      ```
 
@@ -403,14 +380,14 @@ Here’s a list of important syntax and commands that are commonly used in **`.h
 1. **Comments in ERB**:
    - Ruby code comments in ERB.
    - Example:
-     ```
+     ```erb
      <%# This is a comment that won't be rendered in HTML %>
      ```
 
 2. **Escape HTML**:
    - To safely escape user input and prevent XSS.
    - Example:
-     ```
+     ```erb
      <%= h user_input %>
      ```
 
@@ -610,5 +587,3 @@ These PHP tags and syntax options allow embedding dynamic logic and content dire
 
 ## Hashtags:
 #webdevelopment, #serversidetemplating, #dynamicwebpages, #htmltemplating, #PHP, #Jinja2, #RubyOnRails
-
-
