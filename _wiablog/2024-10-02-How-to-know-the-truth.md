@@ -20,7 +20,7 @@ keywords: ["What is truth", "Philosophy of truth", "Existential questions", "How
 ![How to Know the Truth?](/assets/images/wiapost/5267-How-to-know-the-truth.jpg)
    
 # How to Know the Truth?   
-
+   
 Suppose I come to your home.  
 You offer me food, and I say,  
 "No, I won't take it."

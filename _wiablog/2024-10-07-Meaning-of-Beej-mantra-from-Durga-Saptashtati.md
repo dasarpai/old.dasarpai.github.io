@@ -17,12 +17,12 @@ keywords: ["Beeja Mantra", "Siddha Kunjika Stotram", "Om Aim Hreem Kleem", "Cham
 --- 
 
 ![How to Know the Truth?](/assets/images/wiapost/5270-Meaning-of-Beej-Mantra-from-Durga-Saptashati.jpg)
-
-# Meaning of Beej Mantra from Durga Saptashati
-
+   
+# Meaning of Beej Mantra from Durga Saptashati   
+   
 In Hindu traditions, when the omnipotent, omniscient, and omnipresent power is worshipped as the Divine Feminine, we use different **Beeja Mantras** for **Jap** (chanting) and invocation purposes.
 
-## What is a Mantra?
+## What is a Mantra?   
 
 A "Mantra" is a syllable or verse that you repeat mentally or verbally to seek support from cosmic power. Before you start repeating it, you need to set an intention. Why are you repeating this mantra? What do you want to achieve? Depending on the situation and need, people repeat mantras for various reasons. Some seek health, others want wealth, success, children, jobs, or business growth. Sometimes, the sole intention is **Satsangati** (the desire to be in the presence of the Divine), where simply being in communion with the Divine is the only wish.
 

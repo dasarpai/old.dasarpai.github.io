@@ -16,8 +16,7 @@ author_profile: true
 share: true
 keywords: ["Truth-seeking", "Philosophical reflection", "Human understanding", "Logic and reasoning", "Pursuit of knowledge", "Karma and Prarabdha", "Life conclusions", "Human nature", "Knowledge and wisdom", "Self-awareness"]        
 ---     
-
-![why do we conclude?](/assets/images/wiapost/5262-why-do-we-conclude.jpg)
+![why do we conclude?](/assets/images/wiapost/5262-why-do-we-conclude.jpg)  
    
 # Why do we conclude?    
    

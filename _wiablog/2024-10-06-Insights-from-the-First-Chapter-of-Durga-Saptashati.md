@@ -16,11 +16,14 @@ share: true
 keywords: ["Durga Saptashati", "Purana", "Hindu mythology", "Madhu and Kaitabha", "Divine Feminine", "Markandeya Purana", "Lessons from Durga Saptashati", "Ignorance and delusion in Hindu texts", "Significance of Puranas", "Teachings from Hindu scriptures"]    
 --- 
 
-![How to Know the Truth?](/assets/images/wiapost/5268-Insights-from-the-First-Chapter-of-Durga-Saptashati.jpg)
+![What is Purana?](/assets/images/wiapost/5268-Insights-from-the-First-Chapter-of-Durga-Saptashati.jpg)
+  
+# Insights from the First Chapter of Durga Saptashati   
+      
+**The Significance of Durga Saptashati: Insights from the First Chapter**  
+   
+## What is Purana?   
 
-**The Significance of Durga Saptashati: Insights from the First Chapter**
-
-## What is Purana?
 Scholars can provide many meanings and interpretations of this term. Here’s one: A **Purana** is a genre of ancient Hindu texts that contains narratives of the history of the universe, cosmology, myths, legends, and religious teachings. The word "Purana" itself means "ancient" or "old" in Sanskrit. These texts often include stories about gods and goddesses, sages, kings, and heroes, along with philosophical and moral instructions.
 
 There are **18 major Puranas** and numerous minor ones, categorized into three groups: those glorifying **Vishnu**, **Shiva**, and **Shakti** (the Divine Mother). Each Purana typically consists of five main elements:
