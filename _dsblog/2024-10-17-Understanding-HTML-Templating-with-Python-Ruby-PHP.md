@@ -1,28 +1,3 @@
----
-mathjax: true
-id: 6164
-title: "Understanding HTML Templating with PHP, Python, and Ruby"
-date: 2024-10-17
-permalink: /dsblog/Understanding-HTML-Templating-with-Python-Ruby-PHP
-tags: [Programming, Python, Ruby, PHP, HTML, "Web Development"]
-categories:
-  - dsblog
-header:
-    teaser: /assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg
-excerpt_separator: "<!--more-->"   
-author: Hari Thapliyaal   
-layout: dspost-layout   
-excerpt:   
-author_profile: true   
-share: true   
-toc: true   
-toc_sticky: true 
-toc_levels: 2
-mathjax: "true"
-comments: true
-keywords: ["server-side templating", "PHP in HTML", "Jinja2 templates", "ERB templates", "dynamic web pages", "HTML templating", "embedding code in HTML", "web development"]
----
-
 ![Understanding HTML Templating with PHP, Python, and Ruby](/assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg)
 
 # Understanding HTML Templating with PHP, Python, and Ruby
@@ -61,7 +36,7 @@ Some important Jinja2 syntax elements used for embedding Python code in HTML tem
   {% endif %}
   ```
 
-- **{% elif condition %}**: Adds an else-if condition.
+- **\{\% elif condition \%\}**: Adds an else-if condition.
   ```jinja
   {% if user.is_authenticated %}
       <p>Welcome, {{ user.username }}!</p>
@@ -70,7 +45,7 @@ Some important Jinja2 syntax elements used for embedding Python code in HTML tem
   {% endif %}
   ```
 
-- **{% else %}**: Defines an else block.
+- **\{\% else \%\}**: Defines an else block.
   ```jinja
   {% if user.is_authenticated %}
       <p>Welcome, {{ user.username }}!</p>
@@ -79,7 +54,7 @@ Some important Jinja2 syntax elements used for embedding Python code in HTML tem
   {% endif %}
   ```
 
-- **`{% for item in list %}`**: Starts a loop through a list.
+- **`\{\% for item in list \%\}`**: Starts a loop through a list.
   ```jinja
   <ul>
       {% for item in items %}
@@ -88,13 +63,13 @@ Some important Jinja2 syntax elements used for embedding Python code in HTML tem
   </ul>
   ```
 
-- **`{% break %}`**: Exits the current loop.
-- **`{% continue %}`**: Skips the current iteration and continues to the next one.
+- **`\{\% break \%\}`**: Exits the current loop.
+- **`\{\% continue \%\}`**: Skips the current iteration and continues to the next one.
 
 ### 3. **Filters**
-- **`{{ variable | filter }}`**: Applies a filter to a variable.
+- **`\{\{ variable \| filter \}\}`**: Applies a filter to a variable.
   ```jinja
-  <p>{{ username | capitalize }}</p>
+  <p>\{\{ username \| capitalize \}\}</p>
   ```
 
 - **Common Filters**:
@@ -104,26 +79,26 @@ Some important Jinja2 syntax elements used for embedding Python code in HTML tem
   - `safe`: Marks a string as safe HTML. It will convert &, %, $ etc text of the variable into html code.
 
 ### 4. **Comments**
-- **`{# comment #}`**: Adds a comment that won’t be rendered in the output.
+- **`\{\# comment \#\}`**: Adds a comment that won’t be rendered in the output.
   ```jinja
-  {# This is a comment #}
+  \{\# This is a comment \#\}
   ```
 
 ### 5. **Macros**
 - **`{% macro macro_name(args) %}`**: Defines a reusable block of code.
   ```jinja
-  {% macro render_item(item) %}
+  \{\% macro render_item(item) \%\}
       <li>{{ item }}</li>
-  {% endmacro %}
+  \{\% endmacro \%\}
 
   
   # To call above function you have to write
   
   <ul>
-    {% for item in items %}
-        {{ render_item(item) }}  <!-- Calling the macro here -->
-    {% endfor %}
-</ul>
+    \{\% for item in items \%\}
+        \{\{ render_item(item) \}\}  <!-- Calling the macro here -->
+    \{\% endfor \%\}
+  </ul>
 
   ```
 
@@ -131,19 +106,19 @@ Some important Jinja2 syntax elements used for embedding Python code in HTML tem
 - **`{% extends "base.html" %}`**: Inherits from a parent template.
 - **`{% block block_name %}`**: Defines a block that can be overridden in child templates.
   ```jinja
-  {% extends "base.html" %}
+  \{\% extends "base.html" \%\}
 
-  {% block content %}
+  \{\% block content \%\}
       <h1>Title</h1>
-  {% endblock %}
+  \{\% endblock \%\}
   ```
 
 ### 7. **Test Statements**
-- **`{% if variable is test %}`**: Checks if a variable meets a condition.
+- **`\{\% if variable is test \%\}`**: Checks if a variable meets a condition.
   ```jinja
-  {% if user is none %}
+  \{\% if user is none \%\}
       <p>No user found.</p>
-  {% endif %}
+  \{\% endif \%\}
   ```
 
 - Common Tests:
@@ -154,23 +129,23 @@ Some important Jinja2 syntax elements used for embedding Python code in HTML tem
   - `empty`
 
 ### 8. **Global Functions**
-- **`{{ function() }}`**: Calls global functions defined in your Flask app.
+- **`\{\{ function() \}\}`**: Calls global functions defined in your Flask app.
   ```jinja
-  <p>Current Time: {{ current_time() }}</p>
+  <p>Current Time: \{\{ current_time() \}\}</p>
   ```
 
 ### 9. **With Statement**
-- **`{% with variable = expression %}`**: Assigns a value to a variable for use within a block.
+- **`\{\% with variable = expression \%\}`**: Assigns a value to a variable for use within a block.
   ```jinja
-  {% with total = items|length %}
+  \{\% with total = items|length \%\}
       <p>Total items: {{ total }}</p>
-  {% endwith %}
+  \{\% endwith \%\}
   ```
 
 ### 10. **Include Statement**
-- **`{% include "filename.html" %}`**: Includes another template file.
+- **`\{\% include "filename.html" \%\}`**: Includes another template file.
   ```jinja
-  {% include "header.html" %}
+  \{\% include "header.html" \%\}
   ```
 
 ## What are ERB Tags? (HTML + Ruby Templating)

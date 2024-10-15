@@ -4,7 +4,7 @@ mathjax: true
 title: "विजयादशमी 2024 की हार्दिक शुभकामनाएँ"        
 date: "2024-10-01T08:33:00+05:30"        
 permalink: /wiaposts/Happy-Vijayadashami-2024-Hindi
-tags: [My Views, Hinduism, Hindu Culture, Devi, "Annual Wishes]         
+tags: [My Views, Hinduism, Hindu Culture, Devi, "Annual Wishes"]         
 categories:  
 header:        
     teaser: /assets/images/wiapost/5271-Happy-Vijaydashmi-2024.jpg               
