@@ -68,4 +68,3 @@ share: true
 गंगास्तोत्रमिदं भवसारं वांछितफलदं विमलं सारम ।    
 शंकरसेवकशंकरचितं पठति सुखी स्तव इति च समाप्त: ।।    
     
-https://sanskrit.dasarpai.com/shri-ganga-stotram/

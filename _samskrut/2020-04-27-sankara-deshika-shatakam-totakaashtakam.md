@@ -52,4 +52,3 @@ share: true
 विदिता न मया विशदैककला न च किंचन काञ्चनमस्ति गुरो ।    
 द्रुतमेव विधेहि कृपां सहजां भव शंकर देशिक मे शरणम् ॥ ८॥    
     
-https://sanskrit.dasarpai.com/sankara-deshika-shatakam-totakaashtakam/

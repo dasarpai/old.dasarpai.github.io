@@ -28,4 +28,3 @@ share: true
 
 I will add text very soon.
 
-https://sanskrit.dasarpai.com/gunasagar-nirguna/

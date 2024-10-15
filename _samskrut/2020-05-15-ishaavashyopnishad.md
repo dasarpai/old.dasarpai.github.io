@@ -93,4 +93,3 @@ For सस्वर chanting please use this image.
 ॐ शांतिः शांतिः शांतिः ॥    
     
     
-https://sanskrit.dasarpai.com/ishaavashyopnishad/

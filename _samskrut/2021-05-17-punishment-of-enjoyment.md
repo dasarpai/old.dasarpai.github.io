@@ -52,4 +52,3 @@ Punishment of Enjoyment
 हरि थपलियालः    
 बैंगलोरः    
     
-https://sanskrit.dasarpai.com/punishment-of-enjoyment/

@@ -43,4 +43,3 @@ share: true
 सकलगुणनिधानं वानराणामधीशं    
 रघुपतिप्रियभक्तं वातजातं नमामि॥3॥    
     
-https://sanskrit.dasarpai.com/sundarkand-dhyanam/

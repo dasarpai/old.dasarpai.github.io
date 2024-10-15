@@ -108,4 +108,3 @@ share: true
     
 इति वैकृतिकं रहस्यं सम्पूर्णम्।    
     
-https://sanskrit.dasarpai.com/devi-vaikrutikam-rahashy/

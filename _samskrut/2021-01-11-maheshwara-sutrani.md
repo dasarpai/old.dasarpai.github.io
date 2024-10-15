@@ -65,4 +65,3 @@ But Panini Rushi considers only following 41 Pratyahara
     
 Hari Om Tat Sat    
     
-https://sanskrit.dasarpai.com/maheshwara-sutrani/

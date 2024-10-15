@@ -90,4 +90,3 @@ share: true
 इति देवीसूक्तम् समाप्तम् ।    
     
     
-https://sanskrit.dasarpai.com/tantroktam-devisuktam/

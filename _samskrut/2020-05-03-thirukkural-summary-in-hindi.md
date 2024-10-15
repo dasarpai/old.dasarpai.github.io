@@ -202,4 +202,3 @@ share: true
 
 [Download Thirukkural in Hindi](/assets/images/wiapost/Thirukkural-in-Hindi.pdf)    
     
-https://sanskrit.dasarpai.com/thirukkural-summary-in-hindi/

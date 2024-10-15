@@ -78,4 +78,3 @@ share: true
     
 लक्ष्मीनृसिंहचरणाब्जमधुव्रतेन स्तोत्रं कृतं शुभकरं भुवि शङ्करेण |    
 ये तत्पठन्ति मनुजा हरिभक्तियुक्ता-स्ते यान्ति तत्पदसरोजमखण्डरूपम् || 17 ||    
-https://sanskrit.dasarpai.com/lakshmi-nrusimha-karavalamba-stotram/

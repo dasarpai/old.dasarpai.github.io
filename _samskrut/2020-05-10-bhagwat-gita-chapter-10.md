@@ -120,4 +120,3 @@ share: true
 ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे    
 विभूतियोगो नाम दशमोऽध्यायः ॥ १०॥    
     
-https://sanskrit.dasarpai.com/bhagwat-gita-chapter-10/

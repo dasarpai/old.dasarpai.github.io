@@ -343,4 +343,3 @@ share: true
 आओ मानव मानवी चलें धर्म के पंथ ,    
 इस पथ चलते बुद्ध जन इस पथ चलते संत।    
     
-https://sanskrit.dasarpai.com/vipasana-dohe-manas/

@@ -65,4 +65,3 @@ share: true
 शन्नो॑ अस्तु द्वि॒पदे᳚ । शं चतु॑ष्पदे ॥    
 ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥    
     
-https://sanskrit.dasarpai.com/pavmaan-suktam/

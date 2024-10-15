@@ -100,4 +100,3 @@ share: true
     
 ॥ इति कृष्ण यजुर्वेदेऽमृतबिन्दूपनिषत् समाप्ता ॥    
     
-https://sanskrit.dasarpai.com/amrutbindu-upanishad/

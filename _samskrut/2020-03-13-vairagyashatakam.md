@@ -462,4 +462,3 @@ share: true
 इति भर्तृहरिविरचितं वैराग्यशतकं सम्पूर्णम् ।सम्पूर्णम्
 
 
-https://sanskrit.dasarpai.com/vairagyashatakam/

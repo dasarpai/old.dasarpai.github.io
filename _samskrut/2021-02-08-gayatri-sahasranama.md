@@ -531,4 +531,3 @@ share: true
     
 ॥इति श्रीदेवीभागवते महापुराणे द्वादश-स्कन्धे गायत्री-सहस्रनाम स्तोत्रकथनं नाम षष्ठोध्यायः॥    
     
-https://sanskrit.dasarpai.com/gayatri-sahasranama/

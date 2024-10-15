@@ -52,4 +52,3 @@ share: true
 जय गोकुलभूषण कंसनिषूदन सात्वतजीवन देहि पदम्।    
 जय योगपरायण संसृतिवारण ब्रह्मनिरञ्जन देहि पदम् ॥८॥    
     
-https://sanskrit.dasarpai.com/sri-madana-mohana-ashtakam/

@@ -319,4 +319,3 @@ share: true
 ॥ इति  षोडशः खण्डः ॥    
 ॥ इति षष्ठोऽध्यायः ॥    
     
-https://sanskrit.dasarpai.com/chandogyopnishad-6/

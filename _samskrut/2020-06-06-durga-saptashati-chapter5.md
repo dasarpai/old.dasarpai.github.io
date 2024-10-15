@@ -211,4 +211,3 @@ share: true
 दूतसंवादो नाम पञ्चमोऽध्यायः॥५॥    
 उवाच ९, त्रिपान्मन्त्राः ६६, श्‍लोकाः ५४, एवम् १२९, एवमादितः॥३८८॥    
     
-https://sanskrit.dasarpai.com/durga-saptashati-chapter5/

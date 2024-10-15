@@ -99,4 +99,3 @@ share: true
 शुम्भवधो नाम दशमोऽध्यायः॥१०॥    
 उवाच ४, अर्धश्‍लोकः १, श्‍लोकाः २७, एवम् ३२, एवमादितः॥५७५॥    
     
-https://sanskrit.dasarpai.com/durga-saptashati-chapter10/

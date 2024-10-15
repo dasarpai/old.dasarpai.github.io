@@ -52,4 +52,3 @@ share: true
     
 श्रीदुर्गार्पणमस्तु।    
 
-https://sanskrit.dasarpai.com/devi-kshama-prarthana/

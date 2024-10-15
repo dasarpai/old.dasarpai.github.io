@@ -354,4 +354,3 @@ share: true
     
 ॥ इति  छान्दोग्योऽपनिषद् ॥    
     
-https://sanskrit.dasarpai.com/chandogyopnishad-8/

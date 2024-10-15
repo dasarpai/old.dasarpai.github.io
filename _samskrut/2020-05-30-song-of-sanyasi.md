@@ -236,4 +236,3 @@ Say–“Om Tat Sat, Om!”
 (Complete Works of Swami Vivekananda. Vol.4- Page 392)    
 Translated into Hindi by Hari Thapliyal    
     
-https://sanskrit.dasarpai.com/song-of-sanyasi/

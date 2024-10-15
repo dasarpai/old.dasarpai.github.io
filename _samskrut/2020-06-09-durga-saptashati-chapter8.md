@@ -161,4 +161,3 @@ share: true
 रक्तबीजवधो नामाष्टमोऽध्यायः॥८॥    
 उवाच १, अर्धश्‍लोकः १, श्‍लोकाः ६१, एवम् ६३, एवमादितः॥५०२॥    
     
-https://sanskrit.dasarpai.com/durga-saptashati-chapter8/

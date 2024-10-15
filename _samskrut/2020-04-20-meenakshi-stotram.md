@@ -71,4 +71,3 @@ share: true
 श्रीमच्छंकरभगवतः कृतौ    
 मीनाक्षीस्तोत्रं संपूर्णम् ॥    
     
-https://sanskrit.dasarpai.com/meenakshi-stotram/

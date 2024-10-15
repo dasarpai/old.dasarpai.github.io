@@ -164,4 +164,3 @@ In Indian Bhakti tradition Kabirdaas holds a very unique position. Because of hi
 हू तन तो सब बन भया करम भए कुहांडि । आप आप कूँ काटि है, कहै कबीर बिचारि॥    
     
     
-https://sanskrit.dasarpai.com/kabirdaas-dohe/

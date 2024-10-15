@@ -227,4 +227,3 @@ share: true
 मधुकैटभवधो नाम प्रथमोऽध्यायः॥१॥    
 उवाच १४, अर्धश्लोकाः २४, श्लोकाः ६६, एवमादितः॥१०४॥    
     
-https://sanskrit.dasarpai.com/durga-saptashati-chapter1/

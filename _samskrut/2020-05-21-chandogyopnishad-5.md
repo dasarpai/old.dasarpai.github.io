@@ -422,4 +422,3 @@ share: true
 ॥ इति  चतुर्विंशः खण्डः ॥    
 ॥ इति पञ्चमोऽध्यायः ॥    
     
-https://sanskrit.dasarpai.com/chandogyopnishad-5/

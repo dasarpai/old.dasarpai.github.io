@@ -33,4 +33,3 @@ share: true
 विद्या है तू हि अविद्या । तू मूल शक्ति है आद्या,    
 तू ने डाला बन्धन में, तू ही इसका क्षय कर दे ।।    
     
-https://sanskrit.dasarpai.com/durgatinaashinidurge

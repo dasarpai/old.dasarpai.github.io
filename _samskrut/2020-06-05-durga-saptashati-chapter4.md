@@ -162,4 +162,3 @@ share: true
 शक्रादिस्तुतिर्नाम चतुर्थोऽध्यायः॥४॥    
 उवाच ५, अर्धश्‍लोकौः २, श्‍लोकाः ३५, एवम् ४२, एवमादितः॥२५९॥    
     
-https://sanskrit.dasarpai.com/durga-saptashati-chapter4/

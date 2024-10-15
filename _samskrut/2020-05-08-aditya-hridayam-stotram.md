@@ -90,4 +90,3 @@ share: true
 अथ रविरवदन्निरीक्ष्य रामं मुदितमनाः परमं प्रहृष्यमाणः।    
 निशिचरपतिसंक्षयं विदित्वा सुरगणमध्यगतो वचस्त्वरेति॥ ३१    
     
-https://sanskrit.dasarpai.com/aditya-hridayam-stotram/

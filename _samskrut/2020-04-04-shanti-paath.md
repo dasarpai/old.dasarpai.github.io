@@ -113,4 +113,3 @@ Shanti Paath
 ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥
 
 
-https://sanskrit.dasarpai.com/shanti-paath/

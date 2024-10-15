@@ -332,4 +332,3 @@ share: true
     
 ॥ ओं शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥    
     
-https://sanskrit.dasarpai.com/rudra-prashna/

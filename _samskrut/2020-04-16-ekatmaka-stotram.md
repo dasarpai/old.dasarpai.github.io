@@ -127,4 +127,3 @@ share: true
     
 || भारत माता की जय ||    
     
-https://sanskrit.dasarpai.com/ekatmaka-stotram/

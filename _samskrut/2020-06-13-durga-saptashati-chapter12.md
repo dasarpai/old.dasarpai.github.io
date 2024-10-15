@@ -117,4 +117,3 @@ share: true
 फलस्तुतिर्नाम द्वादशोऽध्यायः॥१२॥    
 उवाच २, अर्धश्‍लोकौ २, श्‍लोकाः ३७, एवम् ४१, एवमादितः॥६७१॥    
     
-https://sanskrit.dasarpai.com/durga-saptashati-chapter12/

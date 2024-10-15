@@ -93,4 +93,3 @@ share: true
 स सर्वसौभाग्यफलानि    
 भुङ्क्ते शतायुरान्ते शिवलोकमेति || 13 ||    
     
-https://sanskrit.dasarpai.com/uma-maheshwara-stotram/

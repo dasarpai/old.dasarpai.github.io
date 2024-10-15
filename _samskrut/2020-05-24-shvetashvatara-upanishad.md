@@ -300,4 +300,3 @@ share: true
 तेजस्वि नावधीतमस्तु । मा विद्विषावहै ॥    
 ॐ शान्तिः शान्तिः शान्तिः ॥    
     
-https://sanskrit.dasarpai.com/shvetashvatara-upanishad/

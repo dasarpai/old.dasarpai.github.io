@@ -25,4 +25,4 @@ share: true
     
 {% include embed-audio.html src = "/assets/mp3/018-ShivJaiJaiKar.mp3" %}     
     
-https://sanskrit.dasarpai.com/shiv-jai-jai-kaar/    
+

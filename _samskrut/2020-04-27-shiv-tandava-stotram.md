@@ -107,4 +107,3 @@ share: true
     
 ॥ इति शिव तांडव स्तोत्रं संपूर्णम्‌॥     
     
-https://sanskrit.dasarpai.com/shiv-tandava-stotram/

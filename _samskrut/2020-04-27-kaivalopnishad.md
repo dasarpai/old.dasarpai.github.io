@@ -124,4 +124,3 @@ Khand 2
     
 इत्यथर्ववेदीया कैवल्योपनिषत्समाप्ता ॥    
     
-https://sanskrit.dasarpai.com/kaivalopnishad/

@@ -165,4 +165,3 @@ share: true
     
 From the life and work of Shri S.N. Goenka Ji.    
     
-https://sanskrit.dasarpai.com/vipasana-dohe-dharma/

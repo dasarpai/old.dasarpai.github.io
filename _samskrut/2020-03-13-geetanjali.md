@@ -47,4 +47,3 @@ Into that heaven of freedom, my Father, let my country awake.
   
 **From** Geetanjali (Rabindranath Tagore)
 
-https://sanskrit.dasarpai.com/geetanjali

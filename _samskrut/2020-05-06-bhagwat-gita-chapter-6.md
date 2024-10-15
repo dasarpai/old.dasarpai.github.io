@@ -133,4 +133,3 @@ share: true
 ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे    
 आत्मसंयमयोगो नाम षष्ठोऽध्यायः ॥ ६॥    
     
-https://sanskrit.dasarpai.com/bhagwat-gita-chapter-6/

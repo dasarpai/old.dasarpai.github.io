@@ -206,4 +206,3 @@ share: true
     
 लभते परमं रूपं शिवेन सह मोदते ॥ ॐ ॥ ५६॥    
     
-https://sanskrit.dasarpai.com/devi-kavacham/

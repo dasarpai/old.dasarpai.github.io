@@ -219,4 +219,3 @@ share: true
     
 ॥ इति शीक्षावल्ली समाप्ता ॥    
     
-https://sanskrit.dasarpai.com/taitriya-upnishad-sheeksha-valli/

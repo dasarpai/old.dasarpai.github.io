@@ -155,4 +155,3 @@ share: true
     
 ॥ हरिः ॐ तत्सत् ॥    
     
-https://sanskrit.dasarpai.com/aatmopnishad/

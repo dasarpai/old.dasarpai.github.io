@@ -90,4 +90,4 @@ Hari Om Tat Sat
 
 Yours Truely Hari
 
-https://sanskrit.dasarpai.com/nasadiya-sukta/
+

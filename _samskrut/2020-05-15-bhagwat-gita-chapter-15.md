@@ -72,4 +72,3 @@ share: true
 ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुन संवादे    
 पुरुषोत्तमयोगो नाम पञ्चदशोऽध्यायः ॥ १५॥    
     
-https://sanskrit.dasarpai.com/bhagwat-gita-chapter-15/

@@ -90,4 +90,3 @@ share: true
 ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे    
 अक्षरब्रह्मयोगो नामाष्टमोऽध्यायः ॥ ८॥    
     
-https://sanskrit.dasarpai.com/bhagwat-gita-chapter-8/

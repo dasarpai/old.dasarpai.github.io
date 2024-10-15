@@ -90,4 +90,3 @@ share: true
 ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे    
 गुणत्रयविभागयोगो नाम चतुर्दशोऽध्यायः ॥ १४॥    
     
-https://sanskrit.dasarpai.com/bhagwat-gita-chapter-14/

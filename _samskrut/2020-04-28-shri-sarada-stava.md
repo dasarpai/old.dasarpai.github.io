@@ -59,4 +59,3 @@ share: true
 जननीं सारदां देवीं रामकृष्णं जगद्गुरुम्।    
 पादपद्मे तयोः श्रित्वा प्रणमामि मुहुर्मुहुः॥9॥    
     
-https://sanskrit.dasarpai.com/shri-sarada-stava/

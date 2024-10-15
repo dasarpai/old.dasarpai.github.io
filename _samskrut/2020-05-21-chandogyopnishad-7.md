@@ -352,4 +352,3 @@ share: true
 ॥ इति  षड्विंशः खण्डः ॥    
 ॥ इति सप्तमोऽध्यायः ॥     
     
-https://sanskrit.dasarpai.com/chandogyopnishad-7/

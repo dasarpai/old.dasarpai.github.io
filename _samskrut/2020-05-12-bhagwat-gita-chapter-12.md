@@ -74,4 +74,3 @@ share: true
 ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे    
 भक्तियोगो नाम द्वादशोऽध्यायः ॥ १२॥    
     
-https://sanskrit.dasarpai.com/bhagwat-gita-chapter-12/

@@ -153,4 +153,3 @@ share: true
 देव्याः स्तुतिर्नामैकादशोऽध्यायः॥११॥    
 उवाच ४, अर्धश्‍लोकः १, श्‍लोकाः ५०, एवम् ५५, एवमादितः॥६३०॥    
     
-https://sanskrit.dasarpai.com/durga-saptashati-chapter11/

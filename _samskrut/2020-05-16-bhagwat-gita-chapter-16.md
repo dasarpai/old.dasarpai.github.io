@@ -80,4 +80,3 @@ share: true
 ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे    
 दैवासुरसम्पद्विभागयोगो नाम षोडशोऽध्यायः ॥ १६॥    
     
-https://sanskrit.dasarpai.com/bhagwat-gita-chapter-16/

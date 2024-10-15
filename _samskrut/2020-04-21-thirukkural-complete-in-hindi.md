@@ -458,4 +458,3 @@ I prostrate before the Bhagwan and Guru Thiruvalluvar (तिरूवल्ल�
     
 I will put remaining text after this.    
     
-https://sanskrit.dasarpai.com/thirukkural-complete-in-hindi/

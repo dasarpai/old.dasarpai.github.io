@@ -54,4 +54,3 @@ share: true
 विहितमविहितं वा सर्वमेतत्क्षमस्व    
 जय जय करुणाब्धे श्रीमहादेव शम्भो ॥५॥    
     
-https://sanskrit.dasarpai.com/shivmaanaspooja/

@@ -42,4 +42,3 @@ Ghana-pāṭha
     
 What is Ghana Path: https://en.wikipedia.org/wiki/Vedic_chant    
     
-https://sanskrit.dasarpai.com/rudraghan-paath/

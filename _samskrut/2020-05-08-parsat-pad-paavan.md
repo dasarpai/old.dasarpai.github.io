@@ -54,4 +54,3 @@ share: true
 अस प्रभु दीनबंधु हरि कारन रहित दयाल।    
 तुलसिदास सठ तेहि भजु छाड़ि कपट जंजाल।।    
     
-https://sanskrit.dasarpai.com/parsat-pad-paavan/

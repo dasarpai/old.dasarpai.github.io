@@ -63,4 +63,3 @@ When Ravana is killed by Raama then this prayer is done to Raama by Brahma. Keep
 बिनय कीन्हि चतुरानन प्रेम पुलक अति गात।    
 सोभासिंधु बिलोकत लोचन नहीं अघात।।    
     
-https://sanskrit.dasarpai.com/jai-raama-sada-sada-sukhdham-hare/

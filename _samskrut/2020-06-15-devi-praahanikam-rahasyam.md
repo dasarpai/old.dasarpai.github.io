@@ -96,4 +96,3 @@ share: true
     
 इति प्राधानिकं रहस्यं सम्पूर्णम्।    
     
-https://sanskrit.dasarpai.com/devi-praahanikam-rahasyam/

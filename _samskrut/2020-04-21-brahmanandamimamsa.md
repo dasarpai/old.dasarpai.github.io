@@ -85,4 +85,3 @@ share: true
 ते॒ज॒स्विना॒वधी॑तमस्तु॒ मा वि॑द्विषा॒वहै᳚ ।    
 ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥    
     
-https://sanskrit.dasarpai.com/brahmanandamimamsa/

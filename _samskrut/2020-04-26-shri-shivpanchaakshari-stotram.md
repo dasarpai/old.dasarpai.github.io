@@ -62,4 +62,3 @@ share: true
 वा – वायु तत्त्व का और    
 य – आकाश तत्त्व का प्रतिनिधित्व करता है।    
     
-https://sanskrit.dasarpai.com/shri-shivpanchaakshari-stotram/

@@ -76,4 +76,3 @@ share: true
 
 
 
-https://sanskrit.dasarpai.com/vikatkavi

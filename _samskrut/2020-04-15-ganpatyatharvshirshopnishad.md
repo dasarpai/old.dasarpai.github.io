@@ -105,4 +105,3 @@ share: true
         
  शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥    
     
-https://sanskrit.dasarpai.com/ganpatyatharvshirshopnishad/

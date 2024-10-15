@@ -85,4 +85,3 @@ share: true
     
 समस्ता उवाचमन्त्राः ५७, अर्धश्‍लोकाः ४२, श्‍लोकाः ५३५, अवदानानि॥६६॥    
     
-https://sanskrit.dasarpai.com/durga-saptashati-chapter13/

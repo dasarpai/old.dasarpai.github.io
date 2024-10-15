@@ -64,4 +64,3 @@ Kakbushandi (Crow Sage) says to Bainteya (King of birds) that at the time of Cor
 बैनतेय सुनु संभु तब आए जहँ रघुबीर    
 बिनय करत गदगद गिरा पूरित पुलक सरीर ॥13 ख॥    
     
-https://sanskrit.dasarpai.com/jai-sagun-nirgun-roop/

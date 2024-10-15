@@ -97,4 +97,3 @@ share: true
     
 इति दुर्गातन्‍त्रे दुर्गामानसपूजा समाप्ता।    
     
-https://sanskrit.dasarpai.com/shri-durga-manas-puja/

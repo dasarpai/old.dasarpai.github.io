@@ -91,4 +91,3 @@ share: true
 ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे    
 संन्यासयोगो नाम पञ्चमोऽध्यायः ॥ ५॥    
     
-https://sanskrit.dasarpai.com/bhagwat-gita-chapter-5/

@@ -154,4 +154,3 @@ Meaning:
 12.2: My Friends are the devotees of Shiva, and my Country is all the Three Worlds (Whose Lord is Shiva-Parvati).    
     
     
-https://sanskrit.dasarpai.com/annapurna-stotram/

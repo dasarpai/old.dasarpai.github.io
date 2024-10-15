@@ -179,4 +179,3 @@ share: true
 महिषासुरसैन्यवधो नाम द्वितीयोऽध्यायः॥२॥    
 उवाच १, श्‍लोकाः ६८, एवम् ६९, एवमादितः॥१७३॥     
     
-https://sanskrit.dasarpai.com/durga-saptashati-chapter2/

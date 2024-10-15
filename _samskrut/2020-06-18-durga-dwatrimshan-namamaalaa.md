@@ -39,4 +39,3 @@ share: true
 पठेत् सर्वभयान्मुक्तो भविष्यति न संशयः॥    
     
 इति दुर्गाद्वात्रिंशन्नाममाला सम्पूर्णम्।    
-https://sanskrit.dasarpai.com/durga-dwatrimshan-namamaalaa/

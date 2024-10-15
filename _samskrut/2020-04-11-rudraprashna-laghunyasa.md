@@ -113,4 +113,3 @@ share: true
 च॒ मेऽभ॑यं च मे सु॒गं च॑ मे॒ शय॑नं च मे सू॒षा च॑ मे सु॒दिनं॑    
 च मे ॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥    
     
-https://sanskrit.dasarpai.com/rudraprashna-laghunyasa/

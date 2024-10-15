@@ -124,4 +124,3 @@ share: true
 महिषासुरवधो नाम तृतीयोऽध्यायः॥३॥    
 उवाच ३, श्‍लोकाः ४१, एवम् ४४, एवमादितः॥२१७॥    
     
-https://sanskrit.dasarpai.com/durga-saptashati-chapter3/

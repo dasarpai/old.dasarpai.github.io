@@ -67,4 +67,3 @@ share: true
     
 ऋग्वेद १०-१२५    
     
-https://sanskrit.dasarpai.com/devi-suktam-saswara/

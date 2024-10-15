@@ -55,4 +55,3 @@ share: true
 लिंगाष्टकमिदं पुण्यं यः पठेत् शिवसन्निधौ ।    
 शिवलोकमवाप्नोति शिवेन सह मोदते ॥    
     
-https://sanskrit.dasarpai.com/lingastakam-stotra/

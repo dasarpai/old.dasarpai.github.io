@@ -727,4 +727,3 @@ There are 5 versions of VishnuSahasraNaamStotram. They differ in their Dhyana St
     
 The main content is taken from sanskritdocuments.org. I have taken the liberty of concluding some spelling errors and restructuring of the content for better presentation,     
     
-https://sanskrit.dasarpai.com/vishnu-sahasranaam/

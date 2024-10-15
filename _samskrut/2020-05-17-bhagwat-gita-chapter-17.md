@@ -90,4 +90,3 @@ share: true
 ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे    
 श्रद्धात्रयविभागयोगो नाम सप्तदशोऽध्यायः ॥ १७॥    
     
-https://sanskrit.dasarpai.com/bhagwat-gita-chapter-17/

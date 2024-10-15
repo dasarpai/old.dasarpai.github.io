@@ -84,4 +84,3 @@ share: true
 शुम्भनिशुम्भसेनानीधूम्रलोचनवधो नाम षष्ठोऽध्यायः॥६॥    
 उवाच ४, श्‍लोकाः २०, एवम्‌ २४, एवमादितः॥४१२॥    
     
-https://sanskrit.dasarpai.com/durga-saptashati-chapter6/

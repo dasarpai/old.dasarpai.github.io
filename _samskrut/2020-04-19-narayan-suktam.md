@@ -72,4 +72,3 @@ share: true
 तन्नो विष्णुः प्रचोदयात् ॥    
 ॐ शांतिः शांतिः शांतिः ॥    
     
-https://sanskrit.dasarpai.com/narayan-suktam/

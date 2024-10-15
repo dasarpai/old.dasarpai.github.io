@@ -64,4 +64,3 @@ share: true
 बरनि उमापति राम गुन हरषि गए कैलास।    
 तब प्रभु कपिन्ह दिवाए सब बिधि सुखप्रद बास॥    
     
-https://sanskrit.dasarpai.com/jai-raam-rama-ramanam-samanam/

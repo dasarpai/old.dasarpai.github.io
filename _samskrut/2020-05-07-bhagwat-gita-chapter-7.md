@@ -92,4 +92,3 @@ share: true
 ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे    
 ज्ञानविज्ञानयोगो नाम सप्तमोऽध्यायः ॥ ७॥    
     
-https://sanskrit.dasarpai.com/bhagwat-gita-chapter-7/

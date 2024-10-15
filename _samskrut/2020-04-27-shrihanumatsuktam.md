@@ -45,4 +45,3 @@ share: true
 इदं श्रीहनुमत्सूक्तं यो धीमानेकवारं पठेद्यदि    
 सर्वेभ्यः पापेभ्यो विमुक्तो भूयात् ।    
     
-https://sanskrit.dasarpai.com/shrihanumatsuktam/

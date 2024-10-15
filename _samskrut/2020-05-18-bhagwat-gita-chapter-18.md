@@ -199,4 +199,3 @@ share: true
 लक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यम् ।    
 वन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम् ॥    
     
-https://sanskrit.dasarpai.com/bhagwat-gita-chapter-18/

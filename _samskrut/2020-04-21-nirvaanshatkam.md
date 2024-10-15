@@ -60,4 +60,3 @@ share: true
     
 ॥ इति श्रीमच्छङ्कराचार्यविरचितं आत्मषट्कं सम्पूर्णम् ॥    
     
-https://sanskrit.dasarpai.com/nirvaanshatkam/

@@ -1082,4 +1082,3 @@ on her forehead and is red and tender like the japa flower.
 श्रीं ह्रीं ऐं ॐ एवं श्रीललितादेव्या नाम्नां साहस्रकं जगुः॥    
 इति श्रीब्रह्माण्डपुराणे उत्तराखण्डे श्रीहयग्रीवागस्त्यसंवादे श्रीललितासहस्रनामस्तोत्रकथनं सम्पूर्णम् ॥    
     
-https://sanskrit.dasarpai.com/lalitasaharanam-with-meaning/

@@ -35,4 +35,3 @@ share: true
 अचंचलाय मंगलं अकिंचनाय मंगलम्।     
 जगच्छिवाय मंगलं नमः शिवाय मंगलम् ॥    
     
-https://sanskrit.dasarpai.com/shankarya-mangalam/

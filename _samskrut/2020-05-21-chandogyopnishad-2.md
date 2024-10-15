@@ -354,4 +354,3 @@ share: true
 ॥ इति  चतुर्विंशः खण्डः ॥    
 ॥ इति द्वितीयोऽध्यायः ॥    
     
-https://sanskrit.dasarpai.com/chandogyopnishad-2/

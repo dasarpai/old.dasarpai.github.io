@@ -51,4 +51,3 @@ share: true
 जय सद्गुरु ईश्वर-प्रापक हे । भवरोग-विकार-विनाशक हे ।।    
 मन जेन रहे तव श्रीचरणे । गुरुदेव दया करो दीनजने ।८।    
     
-https://sanskrit.dasarpai.com/shri-guru-prarthana/

@@ -62,4 +62,3 @@ share: true
 पठंति ये स्तवं इदं । नरादरेण ते पदं ॥    
 व्रजंति नात्र संशयं । त्वदीय भक्ति संयुताः ॥    
     
-https://sanskrit.dasarpai.com/ramchandra-stuti/

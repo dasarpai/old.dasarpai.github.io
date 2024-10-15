@@ -46,4 +46,3 @@ share: true
 यत्र यत्र स्थितो देवः सर्वव्यापी महेश्वरः ।    
 यो गुरुः सर्वदेवानां यकाराय नमो नमः ॥६॥    
     
-https://sanskrit.dasarpai.com/shiva-shadakshara-stotram/

@@ -251,4 +251,3 @@ share: true
     
 [Meaning in English](https://sanskritdocuments.org/doc_shiva/shivamahimean.html?lang=sa)    
     
-https://sanskrit.dasarpai.com/shiv-mahimnstotra/

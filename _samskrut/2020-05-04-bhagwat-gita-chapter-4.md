@@ -120,4 +120,3 @@ share: true
 ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे    
 ज्ञानकर्मसंन्यासयोगो नाम चतुर्थोऽध्यायः ॥ ४॥    
     
-https://sanskrit.dasarpai.com/bhagwat-gita-chapter-4/

@@ -48,4 +48,3 @@ From Brahama. Along with Devas.
 Dharma leads. In Truth he is established
 
 
-https://sanskrit.dasarpai.com/yaksha-prashna

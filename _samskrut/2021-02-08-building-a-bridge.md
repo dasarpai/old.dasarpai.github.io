@@ -47,4 +47,3 @@ Shared by
 Dr. Usharani Sanka Bhagini via WhatsApp    
 She Works as a faculty at [Vyoma](https://www.sanskritfromhome.in/)    
     
-https://sanskrit.dasarpai.com/building-a-bridge/

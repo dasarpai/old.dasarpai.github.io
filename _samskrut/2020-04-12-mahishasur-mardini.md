@@ -260,4 +260,3 @@ Meaning:
 21.3 Please do Whatever is Appropriate at this time, O Worshipful Mother, to Remove the Sorrows and Afflictions (of the world) which has become Difficult for me to bear    
     
 English meaning is taken from https://www.greenmesg.org/stotras/durga/mahishasura_mardini_stotram.php    
-https://sanskrit.dasarpai.com/mahishasur-mardini/

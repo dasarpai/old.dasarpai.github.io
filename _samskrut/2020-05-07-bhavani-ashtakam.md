@@ -68,4 +68,3 @@ share: true
 विपत्तौ प्रविष्टः प्रनष्टः सदाहं    
 गतिस्त्वं गतिस्त्वं त्वमेका भवानि ॥८॥    
     
-https://sanskrit.dasarpai.com/bhavani-ashtakam/

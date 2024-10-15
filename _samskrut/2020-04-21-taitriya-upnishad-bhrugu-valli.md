@@ -168,4 +168,3 @@ share: true
 ॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥    
     
 ॥ हरिः ॐ ॥    
-https://sanskrit.dasarpai.com/taitriya-upnishad-bhrugu-valli/

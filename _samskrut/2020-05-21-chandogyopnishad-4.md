@@ -352,4 +352,3 @@ share: true
 ॥ इति  सप्तदशः खण्डः ॥    
 ॥ इति चतुर्थोऽध्यायः ॥    
     
-https://sanskrit.dasarpai.com/chandogyopnishad-4/

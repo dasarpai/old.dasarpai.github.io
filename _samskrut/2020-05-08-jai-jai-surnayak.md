@@ -52,4 +52,3 @@ share: true
 भव बारिधि मंदर सब बिधि सुंदर गुनमंदिर सुखपुंजा।    
 मुनि सिद्ध सकल सुर परम भयातुर नमत नाथ पद कंजा।।    
     
-https://sanskrit.dasarpai.com/jai-jai-surnayak/

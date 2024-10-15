@@ -90,4 +90,3 @@ share: true
 चण्डमुण्डवधो नाम सप्तमोऽध्यायः॥७॥    
 उवाच २, श्‍लोकाः २५, एवम् २७, एवमादितः॥४३९॥    
     
-https://sanskrit.dasarpai.com/durga-saptashati-chapter7/

@@ -54,4 +54,3 @@ share: true
 कुञ्चितैः कुन्तलैर्भ्राजमानाननं रत्नमौलिं लसत्कुण्डलं गण्डयोः।    
 हारकेयूरकं कङ्कणप्रोज्ज्वलं किङ्किणीमञ्जुलं श्यामलं तं भजे॥८॥    
     
-https://sanskrit.dasarpai.com/achyutashtakam-acyutam-keshavam-ramanarayanam/

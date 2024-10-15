@@ -428,4 +428,3 @@ share: true
 ॥ इति  त्रयोदशः खण्डः ॥    
 ॥ इति प्रथमोऽध्यायः ॥    
     
-https://sanskrit.dasarpai.com/chandogyopnishad-1/

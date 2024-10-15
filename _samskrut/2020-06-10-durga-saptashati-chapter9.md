@@ -118,4 +118,3 @@ share: true
 निशुम्भवधो नाम नवमोऽध्यायः॥९॥    
 उवाच २, श्‍लोकाः ३९, एवम् ४१, एवमादितः॥५४३॥    
     
-https://sanskrit.dasarpai.com/durga-saptashati-chapter9/

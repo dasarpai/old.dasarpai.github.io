@@ -70,4 +70,3 @@ share: true
 लाल देह लाली लसे, अरू धरि लाल लंगूर ।    
 बज्र देह दानव दलन, जय जय जय कपि सूर ॥    
     
-https://sanskrit.dasarpai.com/hanuman-ashtakam/

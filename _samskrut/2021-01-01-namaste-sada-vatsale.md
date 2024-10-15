@@ -50,4 +50,3 @@ share: true
     
 ।। भारत माता की जय ।।    
     
-https://sanskrit.dasarpai.com/namaste-sada-vatsale/

@@ -55,4 +55,3 @@ share: true
     
 ॐ शान्तिः शान्तिः शान्तिः ॥    
     
-https://sanskrit.dasarpai.com/durgasuktam/

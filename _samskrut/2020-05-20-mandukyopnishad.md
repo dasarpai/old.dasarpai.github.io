@@ -65,4 +65,3 @@ share: true
     
 ॥ अथर्ववेदीय माण्डूक्योपनिषद समाप्त ॥    
     
-https://sanskrit.dasarpai.com/mandukyopnishad/

@@ -50,4 +50,3 @@ share: true
 दोहा- जानि गौरी अनुकूल सिय हिय हरषु न जाइ कहि ।    
 मंजुल मंगल मूल बाम अंग फरकन लगे ॥    
     
-https://sanskrit.dasarpai.com/ramchandra-stavan/

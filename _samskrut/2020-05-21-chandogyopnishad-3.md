@@ -411,4 +411,3 @@ share: true
 ॥ इति  एकोनविंशः खण्डः ॥    
 ॥ इति तृतीयोऽध्यायः ॥    
     
-https://sanskrit.dasarpai.com/chandogyopnishad-3/

@@ -74,4 +74,3 @@ Madalasa Updesh sung by **Gabriella Burnel**
 
 
 
-https://sanskrit.dasarpai.com/madalasa-upadesha/

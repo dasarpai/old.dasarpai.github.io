@@ -161,4 +161,3 @@ share: true
     
 इति याज्ञवल्क्योपनिषत्समाप्ता ॥    
     
-https://sanskrit.dasarpai.com/yaagyavalkyopnishad/

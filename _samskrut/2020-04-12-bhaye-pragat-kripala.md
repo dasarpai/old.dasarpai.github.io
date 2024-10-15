@@ -53,4 +53,3 @@ When Bhagawan Vishnu incarnate as Raam from Maharani Kaushaliya then this is the
 सुनि बचन सुजाना रोदन ठाना होइ बालक सुरभूपा।    
 यह चरित जे गावहिं हरि पद पावहिं ते न परहिं भवकूपा।।8।।    
     
-https://sanskrit.dasarpai.com/bhaye-pragat-kripala/

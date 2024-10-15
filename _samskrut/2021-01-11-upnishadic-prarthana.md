@@ -26,4 +26,3 @@ share: true
     
 {% include embed-audio.html src = "/assets/mp3/004-UpanishadicPrarthana.m4a" %}     
     
-https://sanskrit.dasarpai.com/upnishadic-prarthana/

@@ -67,4 +67,3 @@ share: true
 मन जेन रहे तव श्रीचरणे ।    
 गुरुदेव दया करो दीनजने ॥८॥    
     
-https://sanskrit.dasarpai.com/bhava-sagara-tarana-karana-he/

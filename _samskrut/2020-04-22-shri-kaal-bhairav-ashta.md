@@ -74,4 +74,3 @@ share: true
 शोकमोह लोभदैन्य कोपताप नाशनं    
 ते प्रयान्ति कालभैरवाङ्घ्रि सन्निधिं ध्रवम्‌ ॥9॥    
     
-https://sanskrit.dasarpai.com/shri-kaal-bhairav-ashta/

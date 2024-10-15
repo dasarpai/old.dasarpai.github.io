@@ -61,4 +61,3 @@ share: true
     
 ॥ इति श्रीवसिष्ठविरचितं दारिद्र्यदहनशिवस्तोत्रं सम्पूर्णम् ॥    
     
-https://sanskrit.dasarpai.com/daridrya-dahan-shivstotram/

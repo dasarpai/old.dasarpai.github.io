@@ -138,4 +138,3 @@ Bhajgovindam Sung by Gabriella Burnel
 भजगोविन्दं भजगोविन्दं, गोविन्दं भजमूढमते।    
 नामस्मरणादन्यमुपायं, नहि पश्यामो भवतरणे॥३५॥    
     
-https://sanskrit.dasarpai.com/bhaj-govindam/

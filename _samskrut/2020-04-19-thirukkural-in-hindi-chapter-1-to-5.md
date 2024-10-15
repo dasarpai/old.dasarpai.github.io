@@ -103,4 +103,3 @@ I prostrate before the Bhagwan and Guru Thiruvalluvar (तिरूवल्ल�
     
 I have taken Hindi Text from [this](https://www.geocities.ws/nvkashraf/kur-hind/Hin12.htm) website and corrected many grammatical errors and putting it here for my Devnagari and Hindi readers.    
     
-https://sanskrit.dasarpai.com/thirukkural-in-hindi-chapter-1-to-5/

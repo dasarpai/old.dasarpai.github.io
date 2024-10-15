@@ -72,4 +72,3 @@ share: true
     
 गुरुरादिरनादिश्च गुरुः परमदैवतम् ।    
 गुरोः परतरं नास्ति तस्मै श्रीगुरवे नमः ॥१५॥    
-https://sanskrit.dasarpai.com/guru-stotram/

@@ -37,4 +37,3 @@ To remember list of all Purana
 
 1- Matsya-Markandeya, 3- Bhagwat-Bhavishya, 5- Brahmand-Brahma-Brahmavaivart, 8- Vishnu-Vaman-Vayu-Varaha, 12-Agni, 13-Narayana, 14-Padma, 15-Linga, 16-Garduda, 17-Kurma, 18-Skanda
 
-https://sanskrit.dasarpai.com/important-samskrut-sloka/

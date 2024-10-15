@@ -192,4 +192,3 @@ Say–“Om Tat Sat, Om!”
 Translated into Sanskrit by Hari Thapliyal    
     
     
-https://sanskrit.dasarpai.com/song-of-sanyasi-sanskrit/

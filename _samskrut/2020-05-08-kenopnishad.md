@@ -147,4 +147,3 @@ share: true
     
 ॥ इति केनोपनिषदि चतुर्थः खण्डः ॥    
     
-https://sanskrit.dasarpai.com/kenopnishad/

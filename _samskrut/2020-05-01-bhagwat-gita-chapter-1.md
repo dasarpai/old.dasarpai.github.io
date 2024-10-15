@@ -140,4 +140,3 @@ share: true
 ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे    
 अर्जुनविषादयोगो नाम प्रथमोऽध्यायः ॥ १॥    
     
-https://sanskrit.dasarpai.com/bhagwat-gita-chapter-1/

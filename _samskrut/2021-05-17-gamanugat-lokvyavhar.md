@@ -58,4 +58,3 @@ Inspiration: Pratibha Satyanarayan Bhagini @ Sanskrit Bharati
     
 These stories are written to motivate the public to learn Sanskrit. It is very easy to learn a language if you learn with small sentences, writing, and conversing. Trying to learn a language using rules is a very painful way.    
     
-https://sanskrit.dasarpai.com/gamanugat-lokvyavhar/

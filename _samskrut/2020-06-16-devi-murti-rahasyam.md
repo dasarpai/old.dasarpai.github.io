@@ -82,4 +82,3 @@ share: true
     
 इति मूर्तिरहस्यं सम्पूर्णम्।    
     
-https://sanskrit.dasarpai.com/devi-murti-rahasyam/

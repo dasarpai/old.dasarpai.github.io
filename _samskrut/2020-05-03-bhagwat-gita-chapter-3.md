@@ -126,4 +126,3 @@ share: true
     
     
     
-https://sanskrit.dasarpai.com/bhagwat-gita-chapter-3/

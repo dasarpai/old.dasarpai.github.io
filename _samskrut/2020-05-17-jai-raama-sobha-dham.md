@@ -60,4 +60,3 @@ When Ravana is killed by Raama then this prayer is done to Raama by Devtas led b
 सुर बृंद रंजन द्वंद भंजन मनुज तनु अतुलितबलं।    
 ब्रह्मादि संकर सेब्य राम नमामि करुना कोमलं।।    
     
-https://sanskrit.dasarpai.com/jai-raama-sobha-dham/

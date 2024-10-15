@@ -258,4 +258,3 @@ share: true
 स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः स्वस्ति नो बृहस्पतिर्दधातु।    
 ॥ ॐ शान्तिः शान्तिः शान्तिः ॥    
     
-https://sanskrit.dasarpai.com/mundakoupnishad/

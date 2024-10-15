@@ -89,4 +89,3 @@ share: true
     
 इति निर्वाणोपनिषत् समाप्ता ।    
     
-https://sanskrit.dasarpai.com/nirvanopnishad/

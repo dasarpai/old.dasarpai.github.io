@@ -81,4 +81,3 @@ share: true
 मत्समः पातकी नास्ति पापघ्नी त्वत्समा न हि ।    
 एवं ज्ञात्वा महादेवि यथा योग्यं तथा कुरु ॥ 12॥    
     
-https://sanskrit.dasarpai.com/devi-aparaadh-kshamapan-stotram/
