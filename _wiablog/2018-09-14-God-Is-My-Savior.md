@@ -6,7 +6,7 @@ date: "2018-09-14T08:33:00+05:30"
 permalink: /wiaposts/god-is-my-savior
 tags: [ Devotion, Dharma, Vedanta]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5080-God-Is-My-Savior.jpg
 author: Hari Thapliyaal 

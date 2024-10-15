@@ -5,7 +5,7 @@ date: '2021-05-15T08:33:00+05:30'
 permalink: /wiaposts/dont-be-afraid-of-covid
 tags: [ Education, Life, Mind, 'My Views', Nature, Philosophy]
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5122-Dont-Be-Afraid-Of-Covid.jpg
 author: Hari Thapliyaal 

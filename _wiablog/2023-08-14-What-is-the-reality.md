@@ -5,7 +5,7 @@ date: "2023-08-14T08:33:00+05:30"
 permalink: /wiaposts/What-is-the-Reality      
 tags:  [My Views, Life, Philosophy]         
         
-categories:        
+categories: [wiablog] 
 header:        
     teaser: /assets/images/wiapost/5231-What-is-the-Reality.jpg        
 author: Hari Thapliyaal        

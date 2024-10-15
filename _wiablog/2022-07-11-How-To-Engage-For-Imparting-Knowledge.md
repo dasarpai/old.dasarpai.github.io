@@ -5,7 +5,7 @@ date: "2022-07-11T08:33:00+05:30"
 permalink: /wiaposts/how-to-engage-for-imparting-knowledge
 tags: [Education ]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5193-How-To-Engage-For-Imparting-Knowledge.jpg
 author: Hari Thapliyaal 

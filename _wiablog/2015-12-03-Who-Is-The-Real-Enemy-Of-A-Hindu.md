@@ -6,7 +6,7 @@ date: "2015-12-03T08:33:00+05:30"
 permalink: /wiaposts/who-is-the-real-enemy-of-a-hindu
 tags: [My Views, Real Enemy, Hindu Society]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5003-Who-Is-The-Real-Enemy-Of-A-Hindu.jpg
 author: Hari Thapliyaal 

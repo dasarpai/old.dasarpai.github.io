@@ -5,7 +5,7 @@ title:  "Meaning of Beej Mantra from Durga Saptashati"
 date: "2024-10-01T08:33:00+05:30"        
 permalink: /wiaposts/Meaning-of-Beej-Mantra-from-Durga-Saptashati
 tags:  [My Views, Hinduism, Hindu Culture, Devi]         
-categories:  
+categories: [wiablog] 
 header:        
     teaser: /assets/images/wiapost/5270-Meaning-of-Beej-Mantra-from-Durga-Saptashati.jpg               
 author: Hari Thapliyaal        

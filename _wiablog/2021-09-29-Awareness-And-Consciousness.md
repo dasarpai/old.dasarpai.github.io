@@ -5,7 +5,7 @@ date: "2021-09-29T08:33:00+05:30"
 permalink: /wiaposts/awareness-and-consciousness
 tags: [Meditation, Awareness, Consciousness ]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5171-Awareness-And-Consciousness.jpg
 author: Hari Thapliyaal 

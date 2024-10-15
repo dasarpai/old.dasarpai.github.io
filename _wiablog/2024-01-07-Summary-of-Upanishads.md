@@ -5,7 +5,7 @@ date: "2024-01-07T08:33:00+05:30"
 permalink: /wiaposts/Introduction-to-Upanishads          
 tags:  [Vedanta]             
             
-categories:            
+categories: [wiablog] 
 header:            
     teaser: /assets/images/wiapost/5247-Introduction-to-Upanishads.jpg            
 author: Hari Thapliyaal            

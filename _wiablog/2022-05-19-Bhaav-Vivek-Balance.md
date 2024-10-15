@@ -5,7 +5,7 @@ date: "2022-05-19T08:33:00+05:30"
 permalink: /wiaposts/bhaav-vivek-balance
 tags: [Mind, Life ]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5189-Bhaav-Vivek-Balance.jpg
 author: Hari Thapliyaal 

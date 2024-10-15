@@ -5,7 +5,7 @@ date: "2023-01-26T08:33:00+05:30"
 permalink: /wiaposts/The-Real-Hell-of-False-Ego                          
 tags: [My Views, Life, Society]                       
                                 
-categories:                                
+categories: [wiablog] 
 header:                                
     teaser: /assets/images/wiapost/5218-The-Real-Hell-of-False-Ego.jpg                               
 author: Hari Thapliyaal                                

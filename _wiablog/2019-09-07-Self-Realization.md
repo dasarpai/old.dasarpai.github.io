@@ -5,7 +5,7 @@ date: "2019-09-07T08:33:00+05:30"
 permalink: /wiaposts/self-realization
 tags: [ Moksha, Philosophy, Poetry]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5106-Self-Realization.jpg
 author: Hari Thapliyaal 

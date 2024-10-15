@@ -5,7 +5,7 @@ date: "2021-08-25T08:33:00+05:30"
 permalink: /wiaposts/mirror-image-and-face
 tags: [Life, Meditation, Karma ]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5169-Mirror-Image-And-Face.jpg
 author: Hari Thapliyaal 

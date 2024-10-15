@@ -5,7 +5,7 @@ date: "2021-04-21T08:33:00+05:30"
 permalink: /wiaposts/learning-process
 tags: [ Education, 'My Views']    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5152-Learning-Process.jpg
 author: Hari Thapliyaal 

@@ -5,7 +5,7 @@ date: "2019-10-24T08:33:00+05:30"
 permalink: /wiaposts/reality-and-relativity
 tags: [ Philosophy, Poetry]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5110-Reality-And-Relativity.jpg
 author: Hari Thapliyaal 

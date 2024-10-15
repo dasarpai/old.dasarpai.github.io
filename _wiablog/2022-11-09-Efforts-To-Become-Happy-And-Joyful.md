@@ -5,7 +5,7 @@ date: "2022-11-09T08:33:00+05:30"
 permalink: /wiaposts/efforts-to-become-happy-and-joyful
 tags: [Life ]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5202-Efforts-To-Become-Happy-And-Joyful.jpg
 author: Hari Thapliyaal 

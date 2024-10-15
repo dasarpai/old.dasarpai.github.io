@@ -60,9 +60,21 @@ layout: default
       </footer>
 
       <!-- Tags and Categories Section -->
-	  
-
-        <div class="post-tags">
+	  <div class="post-meta">
+         <div class="post-categories">
+          <h3>Categories:</h3>
+          <ul>
+            {% if page.categories %}
+              {% for category in page.categories %}
+                <li><a href="{{ site.baseurl }}/{{ category | slugify }}">{{ category }}</a></li>
+              {% endfor %}
+            {% else %}
+              <li>No categories</li>
+            {% endif %}
+          </ul>
+        </div>				
+		
+		<div class="post-tags">
           <h3>Tags:</h3>
           <ul>
             {% if page.tags %}
@@ -74,8 +86,8 @@ layout: default
             {% endif %}
           </ul>
         </div>
+	  </div>
 	  
- 
       <!-- Existing Related Posts Section -->
       {% if page.id and page.related and site.related_posts.size > 0 %}
         <div class="page__related">
@@ -120,58 +132,66 @@ layout: default
       <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
       
+	  
       </article>
 
       {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
       {% if page.id and page.related and site.related_posts.size > 0 %}
       <div class="page__related">
-      <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
-      <div class="grid__wrapper">
-        {% for post in site.related_posts limit:4 %}
-          {% include archive-single.html type="grid" %}
-        {% endfor %}
-      </div>
+	    <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
+		<div class="grid__wrapper">
+			{% for post in site.related_posts limit:4 %}
+			  {% include archive-single.html type="grid" %}
+			{% endfor %}
+		</div>
       </div>
       {% comment %}<!-- otherwise show recent posts if no related when `related: true` -->{% endcomment %}
 
+
+
+
       {% elsif page.id and page.related %}
-      <div class="page__related">
-      <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
+		<div class="page__related">
+			<h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
 
-      <!-- Add this block where you want the list of posts to appear -->
-      <div class="wiablog-article-list">
-        <ul>
-          {% assign sorted_posts = site.wiablog | sort: "date" | reverse %}
-          {% for post in sorted_posts %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y"}}</li>
-          {% endfor %}
-        </ul>
-      </div>
+			<!-- Add this block where you want the list of posts to appear -->
+			<div class="wiablog-article-list">
+				<ul>
+				  {% assign sorted_posts = site.wiablog | sort: "date" | reverse %}
+				  {% for post in sorted_posts %}
+					<li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y"}}</li>
+				  {% endfor %}
+				</ul>
+			</div>
 
-      <div class="grid__wrapper">
-        {% for post in site.posts limit:4 %}
-          {% if post.id == page.id %}
-            {% continue %}
-          {% endif %}
-          {% include archive-single.html type="grid" %}
-        {% endfor %}
-      </div>
-      </div>
+			<div class="grid__wrapper">
+				{% for post in site.posts limit:4 %}
+				  {% if post.id == page.id %}
+					{% continue %}
+				  {% endif %}
+				  {% include archive-single.html type="grid" %}
+				{% endfor %}
+			</div>
+		</div>
       {% else %}
-      <!-- Add list of articles from the wiaposts collection here -->
-      <div class="page__related">
-      <h2 class="page__related-title">Related Articles</h2>
-      <ul>
-          {% if site.wiablog and site.wiablog.size > 0 %}
-              {% assign sorted_posts = site.wiablog | sort: "author_date" | reverse %}
-              {% for post in sorted_posts %}
-                  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-              {% endfor %}
-          {% else %}
-              <li>No related articles available.</li>
-          {% endif %}
-      </ul>
-      </div>    
+		  <!-- Add list of articles from the wiaposts collection here -->
+		  <div class="page__related">
+			<h2 class="page__related-title">Related Articles</h2>
+			<ul>
+			  {% if site.wiablog and site.wiablog.size > 0 %}
+				  {% assign sorted_posts = site.wiablog | sort: "author_date" | reverse %}
+				  {% for post in sorted_posts %}
+					  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+				  {% endfor %}
+			  {% else %}
+				  <li>No related articles available.</li>
+			  {% endif %}
+			</ul>
+		</div>    
       {% endif %}
+
+
+
+
 
 </div>

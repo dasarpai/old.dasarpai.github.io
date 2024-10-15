@@ -5,7 +5,7 @@ date: "2019-11-20T08:33:00+05:30"
 permalink: /wiaposts/human-faith-and-need-of-god
 tags: [ Dharma, Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5112-Human-Faith-And-Need-Of-God.jpg
 author: Hari Thapliyaal 

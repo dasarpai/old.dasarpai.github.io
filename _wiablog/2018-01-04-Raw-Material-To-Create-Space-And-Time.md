@@ -6,7 +6,7 @@ date: "2018-01-04T08:33:00+05:30"
 permalink: /wiaposts/raw-material-to-create-space-and-time
 tags: [ Concepts, Philosophy, Science, Vedanta]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5065-Raw-Material-To-Create-Space-And-Time.jpg
 author: Hari Thapliyaal 

@@ -6,7 +6,7 @@ date: "2017-03-12T08:33:00+05:30"
 permalink: /wiaposts/characteristics-of-a-divinely-person
 tags: [ 'Bhagwat Gita', Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5042-Characteristics-Of-A-Divinely-Person.jpg
 author: Hari Thapliyaal 

@@ -5,7 +5,7 @@ date: "2023-11-18T08:33:00+05:30"
 permalink: /wiaposts/ABC-of-Statistics      
 tags:  [Science]         
         
-categories:        
+categories: [wiablog] 
 header:        
     teaser: /assets/images/wiapost/5237-ABC-of-Statistics.jpg        
 author: Hari Thapliyaal        

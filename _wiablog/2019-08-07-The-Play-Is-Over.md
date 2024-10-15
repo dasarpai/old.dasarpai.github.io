@@ -5,7 +5,7 @@ date: "2019-08-07T08:33:00+05:30"
 permalink: /wiaposts/the-play-is-over
 tags: [ Mindfulness, Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5103-The-Play-Is-Over.jpg
 author: Hari Thapliyaal 

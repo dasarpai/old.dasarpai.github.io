@@ -5,7 +5,7 @@ date: "2022-09-05T08:33:00+05:30"
 permalink: /wiaposts/three-ways-of-living-conscious-life
 tags: [Life, Meditation]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5199-Three-Ways-Of-Living-Conscious-Life.jpg
 author: Hari Thapliyaal 

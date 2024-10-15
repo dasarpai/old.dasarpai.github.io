@@ -6,7 +6,7 @@ date: "2018-05-25T08:33:00+05:30"
 permalink: /wiaposts/a-witness-of-the-transformation
 tags: [ Concepts, Life, Mindfulness, Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5074-A-Witness-Of-The-Transformation.jpg
 author: Hari Thapliyaal 

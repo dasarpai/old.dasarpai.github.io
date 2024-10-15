@@ -5,7 +5,7 @@ date: "2019-02-27T08:33:00+05:30"
 permalink: /wiaposts/four-ways-or-one-way
 tags: [ 'Bhagwat Gita', Dharma, Moksha, Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5092-Four-Ways-Or-One-Way.jpg
 author: Hari Thapliyaal 

@@ -6,7 +6,7 @@ date: "2017-07-20T08:33:00+05:30"
 permalink: /wiaposts/learning-from-the-nature
 tags: [ 'Indian Culture', Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5053-Learning-From-The-Nature.jpg
 author: Hari Thapliyaal 

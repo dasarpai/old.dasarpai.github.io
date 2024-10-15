@@ -6,7 +6,7 @@ date: "2024-06-25T08:33:00+05:30"
 permalink: /wiaposts/What-is-Sin   
 tags:  [My Views, Life, Philosophy]         
         
-categories:        
+categories: [wiablog] 
 header:        
     teaser: /assets/images/wiapost/5255-What-is-Sin.jpg        
 author: Hari Thapliyaal        

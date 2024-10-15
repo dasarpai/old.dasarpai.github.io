@@ -5,7 +5,7 @@ date: "2022-01-02T08:33:00+05:30"
 permalink: /wiaposts/why-do-we-do-namaste
 tags: [ Indian Culture, Concept, Namaste]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5178-Why-Do-We-Do-Namaste.jpg
 author: Hari Thapliyaal 

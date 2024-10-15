@@ -5,7 +5,7 @@ date: "2020-02-15T08:33:00+05:30"
 permalink: /wiaposts/do-i-have-free-will
 tags: [ Vedanta]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5118-Do-I-Have-Free-Will.jpg
 author: Hari Thapliyaal 

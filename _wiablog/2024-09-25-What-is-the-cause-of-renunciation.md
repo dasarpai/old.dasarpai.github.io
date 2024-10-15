@@ -6,7 +6,7 @@ date: "2024-09-25T08:33:00+05:30"
 permalink: /wiaposts/what-is-the-cause-of-renunciation
 tags:  [My Views, Life, Philosophy]         
         
-categories:        
+categories: [wiablog] 
 header:        
     teaser: /assets/images/wiapost/5263-What-is-the-Cause-of-Renunciation.jpg        
 author: Hari Thapliyaal        

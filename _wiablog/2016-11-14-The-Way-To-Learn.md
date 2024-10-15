@@ -6,7 +6,7 @@ date: "2016-11-14T08:33:00+05:30"
 permalink: /wiaposts/the-way-to-learn
 tags: [ Education, Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5033-The-Way-To-Learn.jpg
 author: Hari Thapliyaal 

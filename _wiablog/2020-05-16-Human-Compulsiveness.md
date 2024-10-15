@@ -5,7 +5,7 @@ date: "2020-05-16T08:33:00+05:30"
 permalink: /wiaposts/human-compulsiveness
 tags: [ Education, 'Ethics and Morality', Mindfulness, 'My Views', Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5126-Human-Compulsiveness.jpg
 author: Hari Thapliyaal 

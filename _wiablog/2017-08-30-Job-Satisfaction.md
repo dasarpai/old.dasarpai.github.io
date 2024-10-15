@@ -6,7 +6,7 @@ date: "2017-08-30T08:33:00+05:30"
 permalink: /wiaposts/job-satisfaction
 tags: [ Concepts, Philosophy, 'Pleasure & Joy']    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5057-Job-Satisfaction.jpg
 author: Hari Thapliyaal 

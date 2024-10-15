@@ -5,7 +5,7 @@ date: "2023-04-28T08:33:00+05:30"
 permalink: /wiaposts/Sign-of-Wisdom   
 tags:  [My Views, Life, Philosophy]     
     
-categories:    
+categories: [wiablog] 
 header:    
     teaser: /assets/images/wiapost/5229-Sign-of-Wisdom.jpg    
 author: Hari Thapliyaal    

@@ -6,7 +6,7 @@ date: "2016-04-12T08:33:00+05:30"
 permalink: /wiaposts/mind-and-pleasure
 tags: [ Mind, Mindfulness, Philosophy, 'Pleasure & Joy']    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5015-Mind-And-Pleasure.jpg
 author: Hari Thapliyaal 

@@ -6,7 +6,7 @@ date: "2016-07-26T08:33:00+05:30"
 permalink: /wiaposts/about-relationship
 tags: [ Concepts, Philosophy, Vedanta]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5024-About-Relationship.jpg
 author: Hari Thapliyaal 

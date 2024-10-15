@@ -6,7 +6,7 @@ date: "2016-08-02T08:33:00+05:30"
 permalink: /wiaposts/my-creator
 tags: [ Mindfulness, Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5025-My-Creator.jpg
 author: Hari Thapliyaal 

@@ -6,7 +6,7 @@ date: "2018-03-23T08:33:00+05:30"
 permalink: /wiaposts/what-kind-of-education
 tags: [ Education]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5070-What-Kind-Of-Education.jpg
 author: Hari Thapliyaal 

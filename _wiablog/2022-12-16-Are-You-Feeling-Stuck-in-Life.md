@@ -5,7 +5,7 @@ date: "2022-12-16T08:33:00+05:30"
 permalink: /wiaposts/Are-You-Feeling-Stuck-in-Life    
 tags: [ Life]     
     
-categories:     
+categories: [wiablog] 
 header:    
     teaser: /assets/images/wiapost/5207-Are-You-Feeling-Stuck-in-Life.jpg    
 author: Hari Thapliyaal     

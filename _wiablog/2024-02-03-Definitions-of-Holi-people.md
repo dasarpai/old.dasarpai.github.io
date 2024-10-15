@@ -5,7 +5,7 @@ date: "2024-02-03T08:33:00+05:30"
 permalink: /wiaposts/Definition-of-Holi-people  
 tags:  [Vedanta]  
   
-categories:  
+categories: [wiablog] 
 header:  
   teaser: /assets/images/wiapost/5248-Definition-of-Holi-people-institutions.jpg  
 author: Hari Thapliyaal  

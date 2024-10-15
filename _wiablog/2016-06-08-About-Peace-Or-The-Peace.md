@@ -6,7 +6,7 @@ date: "2016-06-08T08:33:00+05:30"
 permalink: /wiaposts/about-peace-or-the-peace
 tags: [ Concepts, Dharma, 'Ethics and Morality', Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5020-About-Peace-Or-The-Peace.jpg
 author: Hari Thapliyaal 

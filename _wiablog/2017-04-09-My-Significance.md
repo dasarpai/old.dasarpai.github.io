@@ -6,7 +6,7 @@ date: "2017-04-09T08:33:00+05:30"
 permalink: /wiaposts/my-significance
 tags: [ Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5046-My-Significance.jpg
 author: Hari Thapliyaal 

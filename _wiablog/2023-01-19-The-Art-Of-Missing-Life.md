@@ -5,7 +5,7 @@ date: "2023-01-19T08:33:00+05:30"
 permalink: /wiaposts/The-Art-Of-Missing-Life                   
 tags: [Philosophy, My Views, Life]                 
                         
-categories:                        
+categories: [wiablog] 
 header:                        
     teaser: /assets/images/wiapost/5215-The-Art-Of-Missing-Life.jpg                       
 author: Hari Thapliyaal                        

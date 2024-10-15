@@ -5,7 +5,7 @@ date: "2023-06-29T08:33:00+05:30"
 permalink: /wiaposts/Is-old-really-Gold   
 tags:  [My Views, Life, Philosophy]     
     
-categories:    
+categories: [wiablog] 
 header:    
     teaser: /assets/images/wiapost/5230-Is-old-really-Gold.jpg    
 author: Hari Thapliyaal    

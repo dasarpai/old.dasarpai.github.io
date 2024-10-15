@@ -6,7 +6,7 @@ date: "2016-08-26T08:33:00+05:30"
 permalink: /wiaposts/the-final-settlement
 tags: [ Philosophy, Vedanta]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5027-The-Final-Settlement.jpg
 author: Hari Thapliyaal 

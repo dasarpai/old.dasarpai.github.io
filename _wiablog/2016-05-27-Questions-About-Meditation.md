@@ -6,7 +6,7 @@ date: "2016-05-27T08:33:00+05:30"
 permalink: /wiaposts/questions-about-meditation
 tags: [ Mind, Mindfulness, Poetry, Vedanta]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5018-Questions-About-Meditation.jpg
 author: Hari Thapliyaal 

@@ -5,7 +5,7 @@ date: "2020-09-28T08:33:00+05:30"
 permalink: /wiaposts/who-is-the-creator
 tags: [ Philosophy, Vedanta]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5138-Who-Is-The-Creator.jpg
 author: Hari Thapliyaal 

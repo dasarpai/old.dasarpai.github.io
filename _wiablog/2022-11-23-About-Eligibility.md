@@ -5,7 +5,7 @@ date: "2022-11-23T08:33:00+05:30"
 permalink: /wiaposts/about-eligibility    
 tags: [ Education ]        
     
-categories:     
+categories: [wiablog] 
 header:    
     teaser: /assets/images/wiapost/5203-About-Eligibility.jpg    
 author: Hari Thapliyaal     

@@ -6,7 +6,7 @@ date: "2018-10-29T08:33:00+05:30"
 permalink: /wiaposts/the-art-of-dying
 tags: [ Death, Life, Philosophy, Poetry, Vedanta]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5084-The-Art-Of-Dying.jpg
 author: Hari Thapliyaal 

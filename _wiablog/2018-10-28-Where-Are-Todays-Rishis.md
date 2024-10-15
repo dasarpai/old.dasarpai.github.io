@@ -6,7 +6,7 @@ date: "2018-10-28T08:33:00+05:30"
 permalink: /wiaposts/where-are-todays-rishis
 tags: [ 'Indian Culture', Poetry]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5083-Where-Are-Todays-Rishis.jpg
 author: Hari Thapliyaal 

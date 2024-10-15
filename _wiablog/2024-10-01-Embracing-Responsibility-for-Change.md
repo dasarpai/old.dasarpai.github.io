@@ -6,7 +6,7 @@ date: "2024-10-01T08:33:00+05:30"
 permalink: /wiaposts/Embracing-Responsibility-for-Change
 tags:  [My Views, Life, Philosophy, Responsibility]         
         
-categories:        
+categories: [wiablog] 
 header:        
     teaser: /assets/images/wiapost/5266-Embracing-Responsibility-for-Change.jpg        
 author: Hari Thapliyaal        

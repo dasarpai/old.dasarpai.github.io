@@ -5,7 +5,7 @@ date: "2020-09-26T08:33:00+05:30"
 permalink: /wiaposts/universal-constants
 tags: [ Nature, Science]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5137-Universal-Constants.jpg
 author: Hari Thapliyaal 

@@ -6,7 +6,7 @@ date: "2016-03-20T08:33:00+05:30"
 permalink: /wiaposts/about-responsibility
 tags: [ Concepts, Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5013-About-Responsibility.jpg
 author: Hari Thapliyaal 

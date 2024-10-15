@@ -5,7 +5,7 @@ date: "2022-07-26T08:33:00+05:30"
 permalink: /wiaposts/solution-of-a-problem
 tags: [Life, Vedanta ]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5196-Solution-Of-A-Problem.jpg
 author: Hari Thapliyaal 

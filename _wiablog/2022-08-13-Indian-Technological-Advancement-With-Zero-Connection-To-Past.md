@@ -5,7 +5,7 @@ date: "2022-08-13T08:33:00+05:30"
 permalink: /wiaposts/indian-technological-advancement-with-zero-connection-to-past
 tags: [Indian Culture, Science ]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5198-Indian-Technological-Advancement-With-Zero-Connection-To-Past.jpg
 author: Hari Thapliyaal 

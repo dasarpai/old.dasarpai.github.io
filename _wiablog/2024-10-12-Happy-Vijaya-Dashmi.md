@@ -5,7 +5,7 @@ title:  "Happy Vijayadashami 2024"
 date: "2024-10-01T08:33:00+05:30"        
 permalink: /wiaposts/Happy-Vijayadashami-2024
 tags:  [My Views, Hinduism, Hindu Culture, Devi, "Annual Wishes"]         
-categories:  
+categories: [wiablog] 
 header:        
     teaser: /assets/images/wiapost/5271-Happy-Vijaydashmi-2024.jpg               
 author: Hari Thapliyaal        

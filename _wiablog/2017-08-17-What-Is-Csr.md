@@ -6,7 +6,7 @@ date: "2017-08-17T08:33:00+05:30"
 permalink: /wiaposts/what-is-csr
 tags: [ 'Bhagwat Gita', 'Ethics & Morality', 'My Views', Philosophy, 'Philosophy for Business']    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5056-What-Is-Csr.jpg
 author: Hari Thapliyaal 

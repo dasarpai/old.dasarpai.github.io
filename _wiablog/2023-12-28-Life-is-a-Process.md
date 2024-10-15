@@ -5,7 +5,7 @@ date: "2023-12-28T08:33:00+05:30"
 permalink: /wiaposts/life-is-a-process      
 tags:  [My Views, Life, Philosophy]         
         
-categories:        
+categories: [wiablog] 
 header:        
     teaser: /assets/images/wiapost/5244-Life-Process.jpg        
 author: Hari Thapliyaal        

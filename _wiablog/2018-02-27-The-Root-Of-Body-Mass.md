@@ -6,7 +6,7 @@ date: "2018-02-27T08:33:00+05:30"
 permalink: /wiaposts/the-root-of-body-mass
 tags: [ Concepts, Philosophy, Science]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5069-The-Root-Of-Body-Mass.jpg
 author: Hari Thapliyaal 

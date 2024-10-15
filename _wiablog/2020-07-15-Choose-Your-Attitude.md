@@ -5,7 +5,7 @@ date: "2020-07-15T08:33:00+05:30"
 permalink: /wiaposts/choose-your-attitude
 tags: [ 'My Views', Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5132-Choose-Your-Attitude.jpg
 author: Hari Thapliyaal 

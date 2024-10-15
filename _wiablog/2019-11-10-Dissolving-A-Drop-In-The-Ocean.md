@@ -5,7 +5,7 @@ date: "2019-11-10T08:33:00+05:30"
 permalink: /wiaposts/dissolving-a-drop-in-the-ocean
 tags: [ Moksha, Poetry, Vedanta]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5111-Dissolving-A-Drop-In-The-Ocean.jpg
 author: Hari Thapliyaal 

@@ -6,7 +6,7 @@ date: "2024-09-22T08:33:00+05:30"
 permalink: /wiaposts/why-do-we-conclude
 tags:  [My Views, Life, Philosophy]         
         
-categories:        
+categories: [wiablog] 
 header:        
     teaser: /assets/images/wiapost/5262-why-do-we-conclude.jpg        
 author: Hari Thapliyaal        

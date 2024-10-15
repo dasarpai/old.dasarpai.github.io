@@ -5,7 +5,7 @@ date: "2023-01-16T08:33:00+05:30"
 permalink: /wiaposts/Continuum-of-life    
 tags: [Philosophy, My Views, Life]   
    
-categories:   
+categories: [wiablog] 
 header:   
     teaser: /assets/images/wiapost/5214-Continuum-of-life.jpg   
 author: Hari Thapliyaal   

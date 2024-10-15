@@ -5,7 +5,7 @@ date: "2020-06-09T08:33:00+05:30"
 permalink: /wiaposts/what-test-to-know-the-self
 tags: [ Life, Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5129-What-Test-To-Know-The-Self.jpg
 author: Hari Thapliyaal 

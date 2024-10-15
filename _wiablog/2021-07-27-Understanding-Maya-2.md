@@ -5,7 +5,7 @@ date: "2021-07-27T08:33:00+05:30"
 permalink: /wiaposts/understanding-maya-2
 tags: [ Vedanta, Maya, Parenting]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5166-Understanding-Maya-2.jpg
 author: Hari Thapliyaal 

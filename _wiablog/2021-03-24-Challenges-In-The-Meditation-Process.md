@@ -5,7 +5,7 @@ date: "2021-03-24T08:33:00+05:30"
 permalink: /wiaposts/challenges-in-the-meditation-process
 tags: [ Meditation, Mind, Mindfulness]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5150-Challenges-In-The-Meditation-Process.jpg
 author: Hari Thapliyaal 

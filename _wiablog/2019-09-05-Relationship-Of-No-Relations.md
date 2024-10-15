@@ -5,7 +5,7 @@ date: "2019-09-05T08:33:00+05:30"
 permalink: /wiaposts/relationship-of-no-relations
 tags: [ Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5105-Relationship-Of-No-Relations.jpg
 author: Hari Thapliyaal 

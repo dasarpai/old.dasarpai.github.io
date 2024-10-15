@@ -5,7 +5,7 @@ date: '2020-03-16T08:33:00+05:30'
 permalink: /wiaposts/thanks-to-covid19
 tags: [ 'My Views', Philosophy, Prayers]
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5100-Thanks-To-Covid19.jpg
 author: Hari Thapliyaal 

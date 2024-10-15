@@ -5,7 +5,7 @@ date: "2021-06-25T08:33:00+05:30"
 permalink: /wiaposts/labeling-good-and-bad
 tags: [ Ethics and Morality, Education ]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5163-Labeling-Good-And-Bad.jpg
 author: Hari Thapliyaal 

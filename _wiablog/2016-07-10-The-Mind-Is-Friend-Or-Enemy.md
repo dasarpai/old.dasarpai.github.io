@@ -6,7 +6,7 @@ date: "2016-07-10T08:33:00+05:30"
 permalink: /wiaposts/the-mind-is-friend-or-enemy
 tags: [ Mind, Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5022-The-Mind-Is-Friend-Or-Enemy.jpg
 author: Hari Thapliyaal 

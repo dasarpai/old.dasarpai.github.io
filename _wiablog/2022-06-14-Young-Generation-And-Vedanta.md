@@ -5,7 +5,7 @@ date: "2022-06-14T08:33:00+05:30"
 permalink: /wiaposts/young-generation-and-vedanta
 tags: [Vedanta, Life ]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5191-Young-Generation-And-Vedanta.jpg
 author: Hari Thapliyaal 

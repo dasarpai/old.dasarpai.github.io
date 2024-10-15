@@ -5,7 +5,7 @@ date: "2023-11-20T08:33:00+05:30"
 permalink: /wiaposts/Navigating-Conflict-Power-and-Compassion     
 tags:  [Science]         
         
-categories:        
+categories: [wiablog] 
 header:        
     teaser: /assets/images/wiapost/5238-Navigating-Conflict-Power-and-Compassion.jpg        
 author: Hari Thapliyaal        

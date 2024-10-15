@@ -6,7 +6,7 @@ date: "2018-07-11T08:33:00+05:30"
 permalink: /wiaposts/managing-source-of-energy
 tags: [ Concepts, Science, Yoga]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5076-Managing-Source-Of-Energy.jpg
 author: Hari Thapliyaal 

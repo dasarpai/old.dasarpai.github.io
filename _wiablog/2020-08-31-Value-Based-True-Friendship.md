@@ -5,7 +5,7 @@ date: "2020-08-31T08:33:00+05:30"
 permalink: /wiaposts/value-based-true-friendship
 tags: [ 'Indian Culture', 'Motivational Stories']    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5135-Value-Based-True-Friendship.jpg
 author: Hari Thapliyaal 

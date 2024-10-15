@@ -6,7 +6,7 @@ date: "2017-06-05T08:33:00+05:30"
 permalink: /wiaposts/driven-by-humanity-or-morality
 tags: [ 'Ethics & Morality', Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5050-Driven-By-Humanity-Or-Morality.jpg
 author: Hari Thapliyaal 

@@ -6,7 +6,7 @@ date: "2017-03-20T08:33:00+05:30"
 permalink: /wiaposts/no-universal-teachings
 tags: [ Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5044-No-Universal-Teachings.jpg
 author: Hari Thapliyaal 

@@ -5,7 +5,7 @@ date: "2021-02-20T08:33:00+05:30"
 permalink: /wiaposts/the-art-of-dying-2
 tags: [ Death, Life, 'My Views', Yoga]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5147-The-Art-Of-Dying-2.jpg
 author: Hari Thapliyaal 

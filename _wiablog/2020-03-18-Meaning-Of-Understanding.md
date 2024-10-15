@@ -5,7 +5,7 @@ date: "2020-03-18T08:33:00+05:30"
 permalink: /wiaposts/meaning-of-understanding
 tags: [ Concepts, Life, 'My Views', Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5121-Meaning-Of-Understanding.jpg
 author: Hari Thapliyaal 

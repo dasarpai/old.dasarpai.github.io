@@ -5,7 +5,7 @@ date: "2020-04-18T08:33:00+05:30"
 permalink: /wiaposts/boring-maths-and-science
 tags: [ 'My Views']    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5123-Boring-Maths-And-Science.jpg
 author: Hari Thapliyaal 

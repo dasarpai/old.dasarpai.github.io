@@ -5,7 +5,7 @@ date: "2019-12-04T08:33:00+05:30"
 permalink: /wiaposts/saving-the-moon
 tags: [ 'Philosophy for Business', Poetry]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5113-Saving-The-Moon.jpg
 author: Hari Thapliyaal 

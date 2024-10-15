@@ -6,7 +6,7 @@ date: "2016-04-20T08:33:00+05:30"
 permalink: /wiaposts/the-way-of-mother
 tags: [ 'My Story', Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5016-The-Way-Of-Mother.jpg
 author: Hari Thapliyaal 

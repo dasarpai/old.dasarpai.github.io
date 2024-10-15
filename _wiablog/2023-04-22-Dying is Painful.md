@@ -5,7 +5,7 @@ date: "2023-04-22T08:33:00+05:30"
 permalink: /wiaposts/Is-Dying-Painful
 tags:  [My Views, Life, Philosophy]     
     
-categories:    
+categories: [wiablog] 
 header:    
     teaser: /assets/images/wiapost/5224-Is-Dying-Painful.jpg    
 author: Hari Thapliyaal    

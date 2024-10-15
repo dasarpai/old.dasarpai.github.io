@@ -5,7 +5,7 @@ date: "2023-04-29T08:33:00+05:30"
 permalink: /wiaposts/Pain-and-Suffering        
 tags:  [My Views, Life, Philosophy]         
         
-categories:        
+categories: [wiablog] 
 header:        
     teaser: /assets/images/wiapost/5228-Pain-and-Suffering.jpg        
 author: Hari Thapliyaal        

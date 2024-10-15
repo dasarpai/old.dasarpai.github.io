@@ -6,7 +6,7 @@ date: "2015-11-10T08:33:00+05:30"
 permalink: /wiaposts/thirukkural-in-hindi
 tags: [Indian Culture, Philosophy, Thirukkural]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5002-Thirukkural-In-Hindi.jpg
 author: Hari Thapliyaal 
@@ -33,6 +33,8 @@ Hindu’s dharma literature says there are four “Purushartha” of human life 
 This book discusses Dharma, Artha, and Karma of life. To have better administration, better relations between humans of all faiths, respect and harmony with nature, a life full of happiness, etc this book is highly useful. My South Indian friend knows the beauty and glory of this book but Hindi speaking friends do not know much about this work.    
     
 Download [Thirukkural-in-Hindi](/assets/docs/Thirukkural-in-Hindi.pdf) book.    
+
+Nov'2015 
     
 Hari Om Tat Sat    
 Yours Truly Hari     

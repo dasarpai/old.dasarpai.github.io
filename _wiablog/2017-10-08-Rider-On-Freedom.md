@@ -6,7 +6,7 @@ date: "2017-10-08T08:33:00+05:30"
 permalink: /wiaposts/rider-on-freedom
 tags: [ Concepts, Education, Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5060-Rider-On-Freedom.jpg
 author: Hari Thapliyaal 

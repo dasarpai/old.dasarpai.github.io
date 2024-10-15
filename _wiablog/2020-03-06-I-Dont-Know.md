@@ -5,7 +5,7 @@ date: "2020-03-06T08:33:00+05:30"
 permalink: /wiaposts/i-dont-know
 tags: [ 'My Views', Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5120-I-Dont-Know.jpg
 author: Hari Thapliyaal 

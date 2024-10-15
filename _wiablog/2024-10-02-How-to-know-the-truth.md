@@ -6,7 +6,7 @@ date: "2024-10-01T08:33:00+05:30"
 permalink: /wiaposts/How-to-know-the-truth
 tags:  [My Views, Life, Philosophy, Searching the Self]         
         
-categories:        
+categories: [wiablog] 
 header:        
     teaser: /assets/images/wiapost/5267-How-to-know-the-truth.jpg        
 author: Hari Thapliyaal        

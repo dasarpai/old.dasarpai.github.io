@@ -5,7 +5,7 @@ date: "2024-02-03T08:33:00+05:30"
 permalink: /wiaposts/All-Religions-are-not-Same  
 tags:  [Vedanta]  
   
-categories:  
+categories: [wiablog] 
 header:  
   teaser: /assets/images/wiapost/5249-All-Religions-are-not-Same.jpg  
 author: Hari Thapliyaal  

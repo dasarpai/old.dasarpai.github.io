@@ -5,7 +5,7 @@ date: "2023-01-09T08:33:00+05:30"
 permalink: /wiaposts/Logic-of-Entangled-Mind         
 tags: [Education, My Views]         
             
-categories:            
+categories: [wiablog] 
 header:            
     teaser: /assets/images/wiapost/5211-The-Logic-of-Entangled-Mind.jpg            
 author: Hari Thapliyaal            

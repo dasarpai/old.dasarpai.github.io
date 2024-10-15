@@ -5,7 +5,7 @@ date: "2019-06-08T08:33:00+05:30"
 permalink: /wiaposts/i-hate-reading
 tags: [ Life, 'My Story', 'My Views']    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5098-I-Hate-Reading.jpg
 author: Hari Thapliyaal 

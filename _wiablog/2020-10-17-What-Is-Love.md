@@ -5,7 +5,7 @@ date: "2020-10-17T08:33:00+05:30"
 permalink: /wiaposts/what-is-love
 tags: [ 'My Views', Philosophy, 'Pleasure & Joy']    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5139-What-Is-Love.jpg
 author: Hari Thapliyaal 

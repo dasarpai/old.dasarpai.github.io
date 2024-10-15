@@ -6,7 +6,7 @@ date: "2017-05-24T08:33:00+05:30"
 permalink: /wiaposts/role-of-leftists-in-the-indian-society
 tags: [ 'My Views']    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5049-Role-Of-Leftists-In-The-Indian-Society.jpg
 author: Hari Thapliyaal 

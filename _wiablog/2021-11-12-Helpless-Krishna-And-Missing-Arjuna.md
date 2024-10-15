@@ -5,7 +5,7 @@ date: "2021-11-12T08:33:00+05:30"
 permalink: /wiaposts/helpless-krishna-and-missing-arjuna
 tags: [Bhagwat Gita, Life ]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5173-Helpless-Krishna-And-Missing-Arjuna.jpg
 author: Hari Thapliyaal 

@@ -6,7 +6,7 @@ date: "2017-09-17T08:33:00+05:30"
 permalink: /wiaposts/meditation-perspective-of-a-practitioner
 tags: [ Concepts, Mindfulness, Yoga]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5058-Meditation-Perspective-Of-A-Practitioner.jpg
 author: Hari Thapliyaal 

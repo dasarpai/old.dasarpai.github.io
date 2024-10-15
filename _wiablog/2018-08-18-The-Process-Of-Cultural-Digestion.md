@@ -6,7 +6,7 @@ date: "2018-08-18T08:33:00+05:30"
 permalink: /wiaposts/the-process-of-cultural-digestion
 tags: [ Concepts, Education, 'Indian Culture']    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5078-The-Process-Of-Cultural-Digestion.jpg
 author: Hari Thapliyaal 

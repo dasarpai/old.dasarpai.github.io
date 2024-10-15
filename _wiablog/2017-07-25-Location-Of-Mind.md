@@ -6,7 +6,7 @@ date: "2017-07-25T08:33:00+05:30"
 permalink: /wiaposts/location-of-mind
 tags: [ Concepts, Death, Mind, Science]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5054-Location-Of-Mind.jpg
 author: Hari Thapliyaal 

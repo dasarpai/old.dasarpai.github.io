@@ -5,7 +5,7 @@ date: "2019-12-30T08:33:00+05:30"
 permalink: /wiaposts/relevance-of-guru
 tags: [ Education, Guru, 'Indian Culture']    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5115-Relevance-Of-Guru.jpg
 author: Hari Thapliyaal 

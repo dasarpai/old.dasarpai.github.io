@@ -6,7 +6,7 @@ date: "2018-02-04T08:33:00+05:30"
 permalink: /wiaposts/the-purpose-of-motions
 tags: [ Concepts, Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5068-The-Purpose-Of-Motions.jpg
 author: Hari Thapliyaal 

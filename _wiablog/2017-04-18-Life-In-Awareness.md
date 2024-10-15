@@ -6,7 +6,7 @@ date: "2017-04-18T08:33:00+05:30"
 permalink: /wiaposts/life-in-awareness
 tags: [ Mindfulness, Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5047-Life-In-Awareness.jpg
 author: Hari Thapliyaal 

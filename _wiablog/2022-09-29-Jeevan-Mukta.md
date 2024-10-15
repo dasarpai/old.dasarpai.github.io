@@ -5,7 +5,7 @@ date: "2022-09-29T08:33:00+05:30"
 permalink: /wiaposts/jeevan-mukta
 tags: [Life, Vedanta, My Views ]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5200-Jeevan-Mukta.jpg
 author: Hari Thapliyaal 

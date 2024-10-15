@@ -6,7 +6,7 @@ date: "2016-06-24T08:33:00+05:30"
 permalink: /wiaposts/gate-of-mind
 tags: [ Mind, Philosophy, Vedanta]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5021-Gate-Of-Mind.jpg
 author: Hari Thapliyaal 

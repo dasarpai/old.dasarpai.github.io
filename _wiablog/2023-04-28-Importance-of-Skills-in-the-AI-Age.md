@@ -5,7 +5,7 @@ date: "2023-04-28T08:33:00+05:30"
 permalink: /wiaposts/Importance-of-Skills-in-the-AI-Age    
 tags:  [My Views, Life, Philosophy]     
     
-categories:    
+categories: [wiablog] 
 header:    
     teaser: /assets/images/wiapost/5227-Importance-of-Skills-in-the-AI-Age.jpg    
 author: Hari Thapliyaal    

@@ -6,7 +6,7 @@ date: "2017-03-04T08:33:00+05:30"
 permalink: /wiaposts/positive-and-negative-professions
 tags: [ 'My Story', Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5040-Positive-And-Negative-Professions.jpg
 author: Hari Thapliyaal 

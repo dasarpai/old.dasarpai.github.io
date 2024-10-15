@@ -6,7 +6,7 @@ date: "2016-07-20T08:33:00+05:30"
 permalink: /wiaposts/about-yagnya
 tags: [ 'Bhagwat Gita', 'Indian Culture', Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5023-About-Yagnya.jpg
 author: Hari Thapliyaal 

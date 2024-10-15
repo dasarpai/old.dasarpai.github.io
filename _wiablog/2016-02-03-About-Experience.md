@@ -6,7 +6,7 @@ date: "2016-02-03T08:33:00+05:30"
 permalink: /wiaposts/about-experience
 tags: [ Concepts, 'Indian Culture', Mind, Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5010-About-Experience.jpg
 author: Hari Thapliyaal 

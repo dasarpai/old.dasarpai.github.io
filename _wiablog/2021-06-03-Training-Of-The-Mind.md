@@ -5,7 +5,7 @@ date: "2021-06-03T08:33:00+05:30"
 permalink: /wiaposts/training-of-the-mind
 tags: [ Mind, Education]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5161-Training-Of-The-Mind.jpg
 author: Hari Thapliyaal 

@@ -6,7 +6,7 @@ date: "2017-02-03T08:33:00+05:30"
 permalink: /wiaposts/about-free-will
 tags: [ Concepts, Moksha, Philosophy, Vedanta]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5038-About-Free-Will.jpg
 author: Hari Thapliyaal 

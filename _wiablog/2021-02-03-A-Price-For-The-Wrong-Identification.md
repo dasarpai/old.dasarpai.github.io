@@ -5,7 +5,7 @@ date: "2021-02-03T08:33:00+05:30"
 permalink: /wiaposts/a-price-for-the-wrong-identification
 tags: [ 'My Views', Philosophy, Vedanta]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5146-A-Price-For-The-Wrong-Identification.jpg
 author: Hari Thapliyaal 

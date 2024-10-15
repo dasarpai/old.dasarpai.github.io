@@ -5,7 +5,7 @@ date: "2019-09-22T08:33:00+05:30"
 permalink: /wiaposts/a-mirage-of-happiness
 tags: [ Philosophy, 'Pleasure &amp; Joy', Poetry]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5108-A-Mirage-Of-Happiness.jpg
 author: Hari Thapliyaal 

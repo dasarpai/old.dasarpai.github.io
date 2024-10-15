@@ -6,7 +6,7 @@ date: "2017-05-12T08:33:00+05:30"
 permalink: /wiaposts/about-physicality-and-relationship
 tags: [ Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5048-About-Physicality-And-Relationship.jpg
 author: Hari Thapliyaal 

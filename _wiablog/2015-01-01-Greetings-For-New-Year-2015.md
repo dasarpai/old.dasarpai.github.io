@@ -6,7 +6,7 @@ date: '2015-01-01T08:33:00+05:30'
 permalink: /wiaposts/greetings-for-new-year-2015
 tags: [Annual Wishes]
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5004-Greetings-For-New-Year-2015.jpg
 author: Hari Thapliyaal 

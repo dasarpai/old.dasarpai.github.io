@@ -5,7 +5,7 @@ date: "2022-02-27T08:33:00+05:30"
 permalink: /wiaposts/awareness-and-who-am-i
 tags: [ Vedanta, My Views]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5181-Awareness-And-Who-Am-I.jpg
 author: Hari Thapliyaal 

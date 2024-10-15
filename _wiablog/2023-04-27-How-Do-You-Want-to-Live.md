@@ -6,7 +6,7 @@ date: "2023-04-27T08:33:00+05:30"
 permalink: /wiaposts/How-Do-You-Want-to-Live
 tags:  [My Views, Life, Philosophy] 
 
-categories:
+categories: [wiablog] 
 header:
     teaser: /assets/images/wiapost/5225-How-Do-You-Want-to-Live.jpg
 author: Hari Thapliyaal

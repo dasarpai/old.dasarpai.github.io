@@ -6,7 +6,7 @@ date: "2017-10-30T08:33:00+05:30"
 permalink: /wiaposts/leadership-in-troubled-time
 tags: [ Concepts, Philosophy, 'Philosophy for Business']    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5061-Leadership-In-Troubled-Time.jpg
 author: Hari Thapliyaal 

@@ -5,7 +5,7 @@ date: '2020-01-01T08:33:00+05:30'
 permalink: /wiaposts/greetings-for-new-year-2020
 tags: [ 'Annual Wishes']
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5097-Greetings-For-New-Year-2020.jpg
 author: Hari Thapliyaal 

@@ -5,7 +5,7 @@ date: "2019-08-02T08:33:00+05:30"
 permalink: /wiaposts/what-is-the-waking-state-of-life
 tags: [ Mindfulness, Moksha, Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5102-What-Is-The-Waking-State-Of-Life.jpg
 author: Hari Thapliyaal 

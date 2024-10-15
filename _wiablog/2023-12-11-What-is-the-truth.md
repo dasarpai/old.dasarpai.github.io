@@ -5,7 +5,7 @@ date: "2023-12-11T08:33:00+05:30"
 permalink: /wiaposts/What-is-the-Truth      
 tags:  [My Views, Life, Philosophy]         
         
-categories:        
+categories: [wiablog] 
 header:        
     teaser: /assets/images/wiapost/5242-What-is-the-Truth.jpg        
 author: Hari Thapliyaal        

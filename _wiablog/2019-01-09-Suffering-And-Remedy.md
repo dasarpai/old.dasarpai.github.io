@@ -5,7 +5,7 @@ date: "2019-01-09T08:33:00+05:30"
 permalink: /wiaposts/suffering-and-remedy
 tags: [ Concepts, Mindfulness, Philosophy]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5089-Suffering-And-Remedy.jpg
 author: Hari Thapliyaal 

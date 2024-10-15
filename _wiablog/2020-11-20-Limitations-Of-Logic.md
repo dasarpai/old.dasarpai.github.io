@@ -5,7 +5,7 @@ date: "2020-11-20T08:33:00+05:30"
 permalink: /wiaposts/limitations-of-logic
 tags: [ 'My Views', Philosophy, Science]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5141-Limitations-Of-Logic.jpg
 author: Hari Thapliyaal 

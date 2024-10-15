@@ -6,7 +6,7 @@ date: "2018-11-26T08:33:00+05:30"
 permalink: /wiaposts/who-is-really-sleeping
 tags: [ 'Bhagwat Gita', Concepts, Philosophy, Poetry]    
 
-categories: 
+categories: [wiablog] 
 header:
      teaser: /assets/images/wiapost/5086-Who-Is-Really-Sleeping.jpg
 author: Hari Thapliyaal 
