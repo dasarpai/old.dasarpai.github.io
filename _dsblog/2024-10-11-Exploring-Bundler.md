@@ -136,6 +136,54 @@ Ruby on Rails was created by **David Heinemeier Hansson (DHH)** in 2004 and has 
 - **Airbnb**
 - **Hulu**
 
+## Apart from bundle exec jekyll, what are other commands that we can use to run jekyll?
+
+1. **jekyll new** - Creates a new Jekyll site.
+2. **jekyll build** - Builds the site.
+3. **jekyll serve** - Serves the site locally.
+4. **jekyll serve --watch** - Serves the site locally and watches for changes.
+5. **jekyll serve --livereload** - Serves the site locally and reloads the page on changes.
+6. **jekyll serve --incremental** - Serves the site locally and rebuilds the site on changes.
+7. **jekyll serve --port \<port\>** - Serves the site locally on a specific port.
+
+## Apart from bundle exec jekyll, what are other commands which we can run bundle exec for?
+Apart from Jekyll commands, you can use `bundle exec` to run various Ruby-based tools and frameworks that are specified in your `Gemfile`. Here are some common tools and the commands you can run with `bundle exec`:
+
+1. **Rake**:   - Command: `bundle exec rake db:migrate`, Rake is a build automation tool for Ruby. You can define and run tasks like database migration, tests, and other automations.
+
+2. **RSpec**   - Command: `bundle exec rspec spec/`, Used for running tests in Ruby projects, especially for behavior-driven development (BDD).
+
+3. **Rubocop**   - Command: `bundle exec rubocop .`, A Ruby static code analyzer and code formatter, Rubocop helps in adhering to coding standards.
+
+4. **Capistrano**   - Command: `bundle exec cap production deploy`, A tool for automating deployment and server management.
+
+5. **Rails**   - Command: `bundle exec rails server`, If you’re working on a Ruby on Rails application, you use this command to interact with the Rails framework, such as running the server or database migrations.
+
+6. **Middleman**   - Command: `bundle exec middleman build`, A static site generator like Jekyll, but Middleman is often used for more complex static sites.
+
+7. **Cucumber**   - Command: `bundle exec cucumber`, A tool for running automated acceptance tests written in a behavior-driven development style.
+
+8. **Guard**   - Command: `bundle exec guard`, A command-line tool to automatically run tests or other tasks when files are modified.
+
+9. **Puma**   - Command: `bundle exec puma -C config/puma.rb`, A web server optimized for running Ruby web applications like Rails.
+
+10. **Sidekiq**   - Command: `bundle exec sidekiq`, Used for background processing in Rails or Ruby applications.
+
+11. **Brakeman**   - Command: `bundle exec brakeman`, A static analysis tool to check for security vulnerabilities in Ruby on Rails applications.
+
+12. **Jekyll**   - Command: `bundle exec jekyll`, Jekyll commands for building, serving, and deploying static sites.
+
+13. **Thoreau**   - Command: `bundle exec thoreau server`, A content management system for Markdown blogs, similar to Jekyll.
+
+14. **Sinatra**   - Command: `bundle exec sinatra app.rb`, If you're using Sinatra, a Ruby framework for web applications, you can run its commands with `bundle exec`.
+
+15. **Foreman**   - Command: `bundle exec foreman start`, A tool to run multiple processes concurrently, often used for managing processes in development.
+
+16. **Overcommit**   - Command: `bundle exec overcommit --install`, A Git hook manager for Ruby projects.
+
+17. **Fastlane**   - Command: `bundle exec fastlane release`, Automates building and releasing mobile apps.
+
+You can execute any Ruby-based tool or framework installed through the `Gemfile` by using `bundle exec`. This ensures you're using the correct versions of gems defined in the `Gemfile.lock`.
 
 
 
