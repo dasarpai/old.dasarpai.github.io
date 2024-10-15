@@ -3,7 +3,9 @@ id: 4027
 mathjax: true    
 title: 'देवीकवचम्'    
 date: 2020-04-18    
-permalink: '/samskrut/devi-kavacham'    
+permalink: /samskrutyatra/devi-kavacham'
+redirect_from: 
+  - '/samskrut/devi-kavacham'
 tags: [Devi, Durga Saptashati]    
 categories:    
     

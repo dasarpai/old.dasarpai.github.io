@@ -3,7 +3,9 @@ id: 4134
 mathjax: true    
 title: 'श्रीदुर्गासप्तशती - द्वितीयोऽध्यायः'    
 date: 2020-06-03    
-permalink: '/samskrut/durga-saptashati-chapter2'    
+permalink: /samskrutyatra/durga-saptashati-chapter2'
+redirect_from: 
+  - '/samskrut/durga-saptashati-chapter2'
 tags: [Devi, Durga Saptashati]    
 categories:    
     

@@ -3,7 +3,9 @@ id: 4045
 mathjax: true    
 title: 'मङ्गलाचरणम्'    
 date: 2020-04-22    
-permalink: '/samskrut/mangalacharan'    
+permalink: /samskrutyatra/mangalacharan'
+redirect_from: 
+  - '/samskrut/mangalacharan'
 tags: [Vishnu]    
 categories:    
     

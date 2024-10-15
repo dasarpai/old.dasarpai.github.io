@@ -3,7 +3,9 @@ id: 4069
 mathjax: true    
 title: 'अच्युतस्याष्टकम्'    
 date: 2020-05-02    
-permalink: '/samskrut/achyutashtakam'    
+permalink: /samskrutyatra/achyutashtakam'
+redirect_from: 
+  - '/samskrut/achyutashtakam'
 tags: [Bhajan, Vishnu, Chanting]    
 categories:    
     

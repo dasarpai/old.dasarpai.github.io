@@ -3,7 +3,9 @@ id: 4133
 mathjax: true    
 title: 'श्रीदुर्गासप्तशती - प्रथमोऽध्यायः'    
 date: 2020-06-02    
-permalink: '/samskrut/durga-saptashati-chapter1'    
+permalink: /samskrutyatra/durga-saptashati-chapter1'
+redirect_from: 
+  - '/samskrut/durga-saptashati-chapter1'
 tags: [Devi, Durga Saptashati]    
 categories:    
     

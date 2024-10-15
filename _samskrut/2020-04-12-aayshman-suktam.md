@@ -3,7 +3,9 @@ id: 4018
 mathjax: true    
 title: 'आयुष्य सूक्तम्'    
 date: 2020-04-12    
-permalink: '/samskrut/aayshman-suktam'    
+permalink: /samskrutyatra/aayshman-suktam'
+redirect_from: 
+  - '/samskrut/aayshman-suktam'
 tags: [Suktam]    
 categories:    
     

@@ -3,7 +3,9 @@ id: 4032
 mathjax: true    
 title: 'पुरुषसूक्त'    
 date: 2020-04-19    
-permalink: '/samskrut/purush-suktam'    
+permalink: /samskrutyatra/purush-suktam'
+redirect_from: 
+  - '/samskrut/purush-suktam'
 tags: [Suktam]    
 categories:    
     

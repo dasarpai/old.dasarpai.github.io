@@ -3,7 +3,9 @@ id: 4078
 mathjax: true    
 title: 'अमृतबिन्दुपनिषत्'    
 date: 2020-05-06    
-permalink: '/samskrut/amrutbindu-upanishad'    
+permalink: /samskrutyatra/amrutbindu-upanishad'
+redirect_from: 
+  - '/samskrut/amrutbindu-upanishad'
 tags: [Upanishad]    
 categories:    
     

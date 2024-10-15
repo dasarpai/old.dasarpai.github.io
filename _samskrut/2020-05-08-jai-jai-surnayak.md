@@ -3,7 +3,9 @@ id: 4093
 mathjax: true    
 title: 'जय जय सुरनायक'    
 date: 2020-05-08    
-permalink: '/samskrut/jai-jai-surnayak'    
+permalink: /samskrutyatra/jai-jai-surnayak'
+redirect_from: 
+  - '/samskrut/jai-jai-surnayak'
 tags: [Ramcharit Manas Chandas, Chanting]    
 categories:    
     

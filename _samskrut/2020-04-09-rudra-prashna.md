@@ -3,7 +3,9 @@ id: 4015
 mathjax: true    
 title: 'रुद्रप्रश्नः'    
 date: 2020-04-09    
-permalink: '/samskrut/rudra-prashna'    
+permalink: /samskrutyatra/rudra-prashna'
+redirect_from: 
+  - '/samskrut/rudra-prashna'
 tags: [Chanting, Upanishad]    
 categories:    
     

@@ -3,7 +3,9 @@ id: 4038
 mathjax: true    
 title: 'तैत्तिरीयोपनिषत्'    
 date: 2020-04-21    
-permalink: '/samskrut/brahmanandamimamsa'    
+permalink: /samskrutyatra/brahmanandamimamsa'
+redirect_from: 
+  - '/samskrut/brahmanandamimamsa'
 tags: [Chanting, Upanishad, तैत्तिरीयोपनिषत्]    
 categories:    
     

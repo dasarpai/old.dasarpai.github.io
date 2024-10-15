@@ -3,7 +3,9 @@ id: 4092
 mathjax: true    
 title: 'दुर्गतिनाशिनी दुर्गे'    
 date: 2020-05-08    
-permalink: '/samskrut/durgatinaashinidurge'    
+permalink: /samskrutyatra/durgatinaashinidurge'
+redirect_from: 
+  - '/samskrut/durgatinaashinidurge'
 tags: [Bhajan, Devi]    
 categories:    
     

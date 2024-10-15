@@ -3,7 +3,9 @@ id: 4046
 mathjax: true    
 title: 'श्री काल भैरव अष्टकम्‌'    
 date: 2020-04-22    
-permalink: '/samskrut/shri-kaal-bhairav-ashta'    
+permalink: /samskrutyatra/shri-kaal-bhairav-ashta'
+redirect_from: 
+  - '/samskrut/shri-kaal-bhairav-ashta'
 tags: [Shiva, Chanting]    
 categories:    
     

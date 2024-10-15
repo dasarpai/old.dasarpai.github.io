@@ -3,7 +3,9 @@ id: 4059
 mathjax: true    
 title: 'श्रीहनुमत्सूक्तम्'    
 date: 2020-04-27    
-permalink: '/samskrut/shrihanumatsuktam'    
+permalink: /samskrutyatra/shrihanumatsuktam'
+redirect_from: 
+  - '/samskrut/shrihanumatsuktam'
 tags: [HanumanJi]    
 categories:    
     

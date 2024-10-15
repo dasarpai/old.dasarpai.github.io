@@ -3,7 +3,9 @@ id: 4052
 mathjax: true    
 title: 'शिवमानसपूजा'    
 date: 2020-04-26    
-permalink: '/samskrut/shivmaanaspooja'    
+permalink: /samskrutyatra/shivmaanaspooja'
+redirect_from: 
+  - '/samskrut/shivmaanaspooja'
 tags: [Shiva, Chanting]    
 categories:    
     

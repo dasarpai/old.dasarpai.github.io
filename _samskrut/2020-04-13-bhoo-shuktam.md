@@ -3,7 +3,9 @@ id: 4022
 mathjax: true    
 title: 'भाग्य सूक्तम्'    
 date: 2020-04-13    
-permalink: '/samskrut/bhoo-shuktam'    
+permalink: /samskrutyatra/bhoo-shuktam'
+redirect_from: 
+  - '/samskrut/bhoo-shuktam'
 tags: [Suktam]    
 categories:    
     

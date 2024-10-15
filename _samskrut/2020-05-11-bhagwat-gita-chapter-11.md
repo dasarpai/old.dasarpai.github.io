@@ -3,7 +3,9 @@ id: 4105
 mathjax: true    
 title: 'श्रीमद्भगवद्गीता एकादशोऽध्यायः - विश्वरूपदर्शनयोगः'    
 date: 2020-05-11    
-permalink: '/samskrut/bhagwat-gita-chapter-11'    
+permalink: /samskrutyatra/bhagwat-gita-chapter-11'
+redirect_from: 
+  - '/samskrut/bhagwat-gita-chapter-11'
 tags: [Bhagwat Gita]    
 categories:    
     

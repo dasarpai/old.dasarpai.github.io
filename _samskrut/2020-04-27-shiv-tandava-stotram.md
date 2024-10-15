@@ -3,7 +3,9 @@ id: 4058
 mathjax: true    
 title: 'शिवतांडवस्तोत्रं'    
 date: 2020-04-27    
-permalink: '/samskrut/shiv-tandava-stotram'    
+permalink: /samskrutyatra/shiv-tandava-stotram'
+redirect_from: 
+  - '/samskrut/shiv-tandava-stotram'
 tags: [Shiva, Chanting, Stotram]    
 categories:    
     

@@ -3,7 +3,9 @@ id: 4132
 mathjax: true    
 title: 'सन्यासी का गीत'    
 date: 2020-05-30    
-permalink: '/samskrut/song-of-sanyasi'    
+permalink: /samskrutyatra/song-of-sanyasi'
+redirect_from: 
+  - '/samskrut/song-of-sanyasi'
 tags: [Swami Vivekananda]    
 categories:    
     

@@ -3,7 +3,9 @@ id: 4121
 mathjax: true    
 title: 'छान्दोग्योपनिषत्'    
 date: 2020-05-21    
-permalink: '/samskrut/chandogyopnishad-1'    
+permalink: /samskrutyatra/chandogyopnishad-1'
+redirect_from: 
+  - '/samskrut/chandogyopnishad-1'
 tags: [Upanishad, Chandogya Upanishad]    
 categories:    
     

@@ -3,7 +3,9 @@ id: 4071
 mathjax: true    
 title: 'कनकधारा स्तोत्रं'    
 date: 2020-05-02    
-permalink: '/samskrut/kanakdhara-stotram'    
+permalink: /samskrutyatra/kanakdhara-stotram'
+redirect_from: 
+  - '/samskrut/kanakdhara-stotram'
 tags: [Devi, Stotram]    
 categories:    
     

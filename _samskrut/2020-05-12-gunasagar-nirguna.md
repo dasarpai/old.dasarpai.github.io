@@ -3,7 +3,9 @@ id: 4108
 mathjax: true
 title: 'गुणसागर निर्गुण परमेशा'
 date: 2020-05-12
-permalink: '/samskrut/gunasagar-nirguna'
+permalink: /samskrutyatra/gunasagar-nirguna'
+redirect_from: 
+  - '/samskrut/gunasagar-nirguna'
 tags: [Prayer, Guru]
 categories:
 

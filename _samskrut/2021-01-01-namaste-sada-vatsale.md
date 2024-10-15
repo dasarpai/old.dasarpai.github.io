@@ -3,7 +3,9 @@ id: 4152
 mathjax: true    
 title: 'नमस्ते सदा वत्सले'    
 date: 2021-01-01    
-permalink: '/samskrut/namaste-sada-vatsale'    
+permalink: /samskrutyatra/namaste-sada-vatsale'
+redirect_from: 
+  - '/samskrut/namaste-sada-vatsale'
 tags: [Rastra Vandan]    
 categories:    
     

@@ -8,4 +8,5 @@ gem "jekyll-sitemap",  "1.4.0"
 gem "jekyll-paginate",  "1.1.0"
 gem 'jekyll-archives'
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'jekyll-redirect-from'
 # gemspec

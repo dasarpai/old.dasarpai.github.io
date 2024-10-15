@@ -3,7 +3,9 @@ id: 4168
 mathjax: true    
 title: 'Bhajan without Text'    
 date: 2021-05-19    
-permalink: '/samskrut/bhajan-without-text'    
+permalink: /samskrutyatra/bhajan-without-text'
+redirect_from: 
+  - '/samskrut/bhajan-without-text'
 tags: [Devi]    
 categories:    
     

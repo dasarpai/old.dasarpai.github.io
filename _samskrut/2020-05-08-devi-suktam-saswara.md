@@ -3,7 +3,9 @@ id: 4091
 mathjax: true    
 title: 'देवीसूक्तम्'    
 date: 2020-05-08    
-permalink: '/samskrut/devi-suktam-saswara'    
+permalink: /samskrutyatra/devi-suktam-saswara'
+redirect_from: 
+  - '/samskrut/devi-suktam-saswara'
 tags: [Devi]    
 categories:    
     

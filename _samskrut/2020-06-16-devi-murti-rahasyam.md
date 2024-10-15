@@ -3,7 +3,9 @@ id: 4147
 mathjax: true    
 title: 'अथ मूर्तिरहस्यम्'    
 date: 2020-06-16    
-permalink: '/samskrut/devi-murti-rahasyam'    
+permalink: /samskrutyatra/devi-murti-rahasyam'
+redirect_from: 
+  - '/samskrut/devi-murti-rahasyam'
 tags: [Devi, Durga Saptashati]    
 categories:    
     

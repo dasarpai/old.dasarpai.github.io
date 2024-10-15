@@ -3,7 +3,9 @@ id: 4118
 mathjax: true    
 title: 'जय राम सोभा धाम'    
 date: 2020-05-17    
-permalink: '/samskrut/jai-raama-sobha-dham'    
+permalink: /samskrutyatra/jai-raama-sobha-dham'
+redirect_from: 
+  - '/samskrut/jai-raama-sobha-dham'
 tags: [Ramcharit Manas Chandas, Chanting]    
 categories:    
     

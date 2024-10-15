@@ -3,7 +3,9 @@ id: 4148
 mathjax: true    
 title: 'अथ वैकृतिकं रहस्यम्'    
 date: 2020-06-16    
-permalink: '/samskrut/devi-vaikrutikam-rahashy'    
+permalink: /samskrutyatra/devi-vaikrutikam-rahashy'
+redirect_from: 
+  - '/samskrut/devi-vaikrutikam-rahashy'
 tags: [Devi, Durga Saptashati]    
 categories:    
     

@@ -3,7 +3,9 @@ id: 4095
 mathjax: true    
 title: 'अथ केनोपनिषत्'    
 date: 2020-05-08    
-permalink: '/samskrut/kenopnishad'    
+permalink: /samskrutyatra/kenopnishad'
+redirect_from: 
+  - '/samskrut/kenopnishad'
 tags: [Upanishad]    
 categories:    
     

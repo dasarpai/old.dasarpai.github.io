@@ -3,7 +3,9 @@ id: 4114
 mathjax: true    
 title: 'रुद्रघन पाठ'    
 date: 2020-05-15    
-permalink: '/samskrut/rudraghan-paath'    
+permalink: /samskrutyatra/rudraghan-paath'
+redirect_from: 
+  - '/samskrut/rudraghan-paath'
 tags: [Shiva, Chanting]    
 categories:    
     

@@ -3,7 +3,9 @@ id: 4050
 mathjax: true    
 title: 'गुर्वष्टकम्'    
 date: 2020-04-26    
-permalink: '/samskrut/gurvashtaka'    
+permalink: /samskrutyatra/gurvashtaka'
+redirect_from: 
+  - '/samskrut/gurvashtaka'
 tags: [Guru, Chanting]    
 categories:    
     

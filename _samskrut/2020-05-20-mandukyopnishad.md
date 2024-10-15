@@ -3,7 +3,9 @@ id: 4120
 mathjax: true    
 title: 'माण्डूक्योपनिषत्'    
 date: 2020-05-20    
-permalink: '/samskrut/mandukyopnishad'    
+permalink: /samskrutyatra/mandukyopnishad'
+redirect_from: 
+  - '/samskrut/mandukyopnishad'
 tags: [Upanishad, Chanting]    
 categories:    
     

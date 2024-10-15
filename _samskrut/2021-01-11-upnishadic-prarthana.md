@@ -3,7 +3,9 @@ id: 4158
 mathjax: true    
 title: 'उपनिषदिय प्रार्थना'    
 date: 2021-01-11    
-permalink: '/samskrut/upnishadic-prarthana'    
+permalink: /samskrutyatra/upnishadic-prarthana'
+redirect_from: 
+  - '/samskrut/upnishadic-prarthana'
 tags: [Upanishad, Prayer, Chanting]    
 categories:    
     

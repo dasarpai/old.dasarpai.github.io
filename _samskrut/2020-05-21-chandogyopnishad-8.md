@@ -3,7 +3,9 @@ id: 4128
 mathjax: true    
 title: 'छान्दोग्योपनिषत् अष्टमोऽध्यायः'    
 date: 2020-05-21    
-permalink: '/samskrut/chandogyopnishad-8'    
+permalink: /samskrutyatra/chandogyopnishad-8'
+redirect_from: 
+  - '/samskrut/chandogyopnishad-8'
 tags: [Upanishad, Chandogya Upanishad]    
 categories:    
     

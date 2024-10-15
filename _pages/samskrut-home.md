@@ -16,7 +16,7 @@ sidebar:
 How I Started My Journey in DevBhasha Sanskrit?
 -----------------------------------------------
 
-[![Jump to Sanskrit Blogs](https://img.shields.io/badge/Goto-Sanskrit_Yatra_Blog-orange)](/samskrutyatra-blog)
+[![Jump to Sanskrit Blogs](https://img.shields.io/badge/Goto-Sanskrit_Yatra_Blog-orange)](/samskrutyatra)
 
 My up bringing is north of India made me comfortable to Devanagari letters, but it does not mean you can read, understand, talk in Sanskrit. Sanskrit is the mother of Indian languages so Sanskrit can be written in all India languages including South Indian Languages like Kannada, Tamil, Malayalam and Telegu. Therefore I cannot say because of Devanagari or Hindi I know Sanskrit better than any other person who just know any south Indian languages or for that matter any Indian languages.
 

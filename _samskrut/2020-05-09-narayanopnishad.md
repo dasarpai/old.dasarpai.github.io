@@ -3,7 +3,9 @@ id: 4102
 mathjax: true    
 title: 'नारायणोपनिषत्'    
 date: 2020-05-09    
-permalink: '/samskrut/narayanopnishad'    
+permalink: /samskrutyatra/narayanopnishad'
+redirect_from: 
+  - '/samskrut/narayanopnishad'
 tags: [Upanishad]    
 categories:    
     

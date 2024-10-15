@@ -3,7 +3,9 @@ id: 4084
 mathjax: true    
 title: 'भवान्यष्टकम्'    
 date: 2020-05-07    
-permalink: '/samskrut/bhavani-ashtakam'    
+permalink: /samskrutyatra/bhavani-ashtakam'
+redirect_from: 
+  - '/samskrut/bhavani-ashtakam'
 tags: [Devi]    
 categories:    
     

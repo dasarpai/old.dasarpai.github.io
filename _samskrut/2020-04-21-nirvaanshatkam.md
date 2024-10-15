@@ -3,7 +3,9 @@ id: 4039
 mathjax: true    
 title: 'निर्वाणषट्कम्'    
 date: 2020-04-21    
-permalink: '/samskrut/nirvaanshatkam'    
+permalink: /samskrutyatra/nirvaanshatkam'
+redirect_from: 
+  - '/samskrut/nirvaanshatkam'
 tags: [आत्मषट्कम्, निर्वाणषट्कम्, निर्वाणषट्कम्, Upanishad, Chanting]    
 categories:    
     

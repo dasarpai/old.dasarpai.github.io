@@ -3,7 +3,9 @@ id: 4117
 mathjax: true    
 title: 'जय राम सदा सुखधाम'    
 date: 2020-05-17    
-permalink: '/samskrut/jai-raama-sada-sada-sukhdham-hare'    
+permalink: /samskrutyatra/jai-raama-sada-sada-sukhdham-hare'
+redirect_from: 
+  - '/samskrut/jai-raama-sada-sada-sukhdham-hare'
 tags: [Ramcharit Manas Chandas, Chanting]    
 categories:    
     

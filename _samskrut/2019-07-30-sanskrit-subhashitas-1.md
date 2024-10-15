@@ -3,7 +3,9 @@ id: 4004
 mathjax: true
 title: 'संस्कृत सुभाषितम्'
 date: 2019-07-30
-permalink: '/samskrut/sanskrit-subhashitas-1'
+permalink: /samskrutyatra/sanskrit-subhashitas-1'
+redirect_from: 
+  - '/samskrut/sanskrit-subhashitas-1'
 tags: [Others]
 categories:
 

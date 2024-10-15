@@ -3,7 +3,9 @@ id: 4031
 mathjax: true    
 title: 'नारायणसूक्तम्'    
 date: 2020-04-19    
-permalink: '/samskrut/narayan-suktam'    
+permalink: /samskrutyatra/narayan-suktam'
+redirect_from: 
+  - '/samskrut/narayan-suktam'
 tags: [Vishnu, Suktam]    
 categories:    
     

@@ -3,7 +3,9 @@ id: 4090
 mathjax: true    
 title: 'श्रीमद्भगवद्गीता अष्टमोऽध्यायः - अक्षरब्रह्मयोगः'    
 date: 2020-05-08    
-permalink: '/samskrut/bhagwat-gita-chapter-8'    
+permalink: /samskrutyatra/bhagwat-gita-chapter-8'
+redirect_from: 
+  - '/samskrut/bhagwat-gita-chapter-8'
 tags: [Bhagwat Gita]    
 categories:    
     

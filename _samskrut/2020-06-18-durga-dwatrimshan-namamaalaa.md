@@ -3,7 +3,9 @@ id: 4150
 mathjax: true    
 title: 'अथ दुर्गाद्वात्रिंशन्नाममाला'    
 date: 2020-06-18    
-permalink: '/samskrut/durga-dwatrimshan-namamaalaa'    
+permalink: /samskrutyatra/durga-dwatrimshan-namamaalaa'
+redirect_from: 
+  - '/samskrut/durga-dwatrimshan-namamaalaa'
 tags: [Devi, Durga Saptashati]    
 categories:    
     

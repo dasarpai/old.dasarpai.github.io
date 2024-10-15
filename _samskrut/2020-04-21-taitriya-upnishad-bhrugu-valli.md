@@ -3,7 +3,9 @@ id: 4040
 mathjax: true    
 title: 'तैत्तिरीयोपनिषत् सस्वरा - तृतीया भृगुवल्ली'    
 date: 2020-04-21    
-permalink: '/samskrut/taitriya-upnishad-bhrugu-valli'    
+permalink: /samskrutyatra/taitriya-upnishad-bhrugu-valli'
+redirect_from: 
+  - '/samskrut/taitriya-upnishad-bhrugu-valli'
 tags: [Taitriya, Upanishad]    
 categories:    
     

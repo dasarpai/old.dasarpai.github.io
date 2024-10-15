@@ -3,7 +3,9 @@ id: 4094
 mathjax: true    
 title: 'जय राम रमा रमनं समनं'    
 date: 2020-05-08    
-permalink: '/samskrut/jai-raam-rama-ramanam-samanam'    
+permalink: /samskrutyatra/jai-raam-rama-ramanam-samanam'
+redirect_from: 
+  - '/samskrut/jai-raam-rama-ramanam-samanam'
 tags: [Ramcharit Manas Chandas, Chanting]    
 categories:    
     

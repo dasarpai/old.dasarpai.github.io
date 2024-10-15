@@ -3,7 +3,9 @@ id: 4077
 mathjax: true    
 title: 'श्रीमद्भगवद्गीता पञ्चमोऽध्यायः - संन्यासयोगः'    
 date: 2020-05-05    
-permalink: '/samskrut/bhagwat-gita-chapter-5'    
+permalink: /samskrutyatra/bhagwat-gita-chapter-5'
+redirect_from: 
+  - '/samskrut/bhagwat-gita-chapter-5'
 tags: [Bhagwat Gita]    
 categories:    
     

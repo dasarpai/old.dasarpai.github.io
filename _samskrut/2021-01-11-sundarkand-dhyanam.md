@@ -3,7 +3,9 @@ id: 4157
 mathjax: true    
 title: 'सुन्दरकांड ध्यान श्लोकं'    
 date: 2021-01-11    
-permalink: '/samskrut/sundarkand-dhyanam'    
+permalink: /samskrutyatra/sundarkand-dhyanam'
+redirect_from: 
+  - '/samskrut/sundarkand-dhyanam'
 tags: [Ramcharit Manas Chandas, Hanumanji]    
 categories:    
     

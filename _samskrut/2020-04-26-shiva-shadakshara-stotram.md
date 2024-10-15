@@ -3,7 +3,9 @@ id: 4051
 mathjax: true    
 title: 'शिवषडाक्षर स्तोत्रं'    
 date: 2020-04-26    
-permalink: '/samskrut/shiva-shadakshara-stotram'    
+permalink: /samskrutyatra/shiva-shadakshara-stotram'
+redirect_from: 
+  - '/samskrut/shiva-shadakshara-stotram'
 tags: [Shiva, Chanting, Stotram]    
 categories:    
     

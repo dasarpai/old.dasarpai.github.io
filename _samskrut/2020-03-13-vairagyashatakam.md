@@ -3,7 +3,9 @@ id: 4007
 mathjax: true
 title: 'वैराग्यशतकम्'
 date: 2020-03-13
-permalink: '/samskrut/vairagyashatakam'
+permalink: /samskrutyatra/vairagyashatakam'
+redirect_from: 
+  - '/samskrut/vairagyashatakam'
 tags: [Upanishad]
 categories:
 

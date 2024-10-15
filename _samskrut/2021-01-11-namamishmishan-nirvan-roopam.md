@@ -3,7 +3,9 @@ id: 4156
 mathjax: "true"
 title: 'नमामीशमीसान निर्वाणरूपं'
 date: '2010-01-10T14:33:35+00:00'
-permalink: '/samskrut/namamishmishan-nirvan-roopam'
+permalink: /samskrutyatra/namamishmishan-nirvan-roopam'
+redirect_from: 
+  - '/samskrut/namamishmishan-nirvan-roopam'
 tags: [Shiva, Chanting]
 
 categories:

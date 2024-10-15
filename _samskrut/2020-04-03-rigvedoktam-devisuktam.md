@@ -3,7 +3,9 @@ id: 4011
 mathjax: true
 title: 'ऋग्वेदोक्तं देवीसूक्तम्'
 date: 2020-04-03
-permalink: '/samskrut/rigvedoktam-devisuktam'
+permalink: /samskrutyatra/rigvedoktam-devisuktam'
+redirect_from: 
+  - '/samskrut/rigvedoktam-devisuktam'
 tags: [Devi]
 categories:
 

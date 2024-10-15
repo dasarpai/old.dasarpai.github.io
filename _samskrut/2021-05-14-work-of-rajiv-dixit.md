@@ -3,7 +3,9 @@ id: 4162
 mathjax: true    
 title: 'Work of Rajiv Dixit'    
 date: 2021-05-14    
-permalink: '/samskrut/work-of-rajiv-dixit'    
+permalink: /samskrutyatra/work-of-rajiv-dixit'
+redirect_from: 
+  - '/samskrut/work-of-rajiv-dixit'
 tags: [Rastra Vandan]    
 categories:    
     

@@ -3,7 +3,9 @@ id: 4072
 mathjax: true    
 title: 'लिंगाष्टकमं स्तोत्र'    
 date: 2020-05-02    
-permalink: '/samskrut/lingastakam-stotra'    
+permalink: /samskrutyatra/lingastakam-stotra'
+redirect_from: 
+  - '/samskrut/lingastakam-stotra'
 tags: [Shiva, Chanting, Stotram]    
 categories:    
     

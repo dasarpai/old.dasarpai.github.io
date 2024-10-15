@@ -3,7 +3,9 @@ id: 4159
 mathjax: true    
 title: 'लघुकथा: सेतुः निर्माणं'    
 date: 2021-02-08    
-permalink: '/samskrut/building-a-bridge'    
+permalink: /samskrutyatra/building-a-bridge'
+redirect_from: 
+  - '/samskrut/building-a-bridge'
 tags: [Sanskrit Grammar, Katha]    
 categories:    
     

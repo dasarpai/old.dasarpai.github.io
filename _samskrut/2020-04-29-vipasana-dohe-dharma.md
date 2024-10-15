@@ -3,7 +3,9 @@ id: 4063
 mathjax: true    
 title: 'धर्म'    
 date: 2020-04-29    
-permalink: '/samskrut/vipasana-dohe-dharma'    
+permalink: /samskrutyatra/vipasana-dohe-dharma'
+redirect_from: 
+  - '/samskrut/vipasana-dohe-dharma'
 tags: [Vipasana, Chanting]    
 categories:    
     

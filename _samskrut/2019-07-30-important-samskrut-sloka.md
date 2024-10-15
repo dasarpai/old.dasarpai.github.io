@@ -3,7 +3,9 @@ id: 4003
 mathjax: true
 title: 'Important Samskrut Sloka'
 date: 2019-07-30
-permalink: '/samskrut/important-samskrut-sloka'
+permalink: /samskrutyatra/important-samskrut-sloka'
+redirect_from: 
+  - '/samskrut/important-samskrut-sloka'
 tags: [Others]
 categories:
 

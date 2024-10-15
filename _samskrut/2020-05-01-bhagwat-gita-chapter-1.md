@@ -3,7 +3,9 @@ id: 4068
 mathjax: true    
 title: 'श्रीमद्भगवद्गीता प्रथमोऽध्यायः'    
 date: 2020-05-01    
-permalink: '/samskrut/bhagwat-gita-chapter-1'    
+permalink: /samskrutyatra/bhagwat-gita-chapter-1'
+redirect_from: 
+  - '/samskrut/bhagwat-gita-chapter-1'
 tags: [Bhagwat Gita]    
 categories:    
     

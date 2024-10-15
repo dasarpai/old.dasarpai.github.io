@@ -3,7 +3,9 @@ id: 4041
 mathjax: true    
 title: 'तैत्तिरीयोपनिषत् सस्वरा - द्वितीया ब्रह्मानन्दवल्ली'    
 date: 2020-04-21    
-permalink: '/samskrut/taitriya-upnishad-brahmananda-valli'    
+permalink: /samskrutyatra/taitriya-upnishad-brahmananda-valli'
+redirect_from: 
+  - '/samskrut/taitriya-upnishad-brahmananda-valli'
 tags: [Upanishad]    
 categories:    
     

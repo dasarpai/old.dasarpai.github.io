@@ -3,7 +3,9 @@ id: 4001
 mathjax: true
 title: 'Samskrut Video Links'
 date: 2019-07-22
-permalink: '/samskrut/samskrut-video-links'
+permalink: /samskrutyatra/samskrut-video-links'
+redirect_from: 
+  - '/samskrut/samskrut-video-links'
 tags: [Others]
 categories:
 

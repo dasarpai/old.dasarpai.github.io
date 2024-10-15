@@ -3,7 +3,9 @@ id: 4017
 mathjax: true    
 title: 'रुद्रप्रश्नः लघुन्यासः'    
 date: 2020-04-11    
-permalink: '/samskrut/rudraprashna-laghunyasa'    
+permalink: /samskrutyatra/rudraprashna-laghunyasa'
+redirect_from: 
+  - '/samskrut/rudraprashna-laghunyasa'
 tags: [Shiva, Chanting]    
 categories:    
     

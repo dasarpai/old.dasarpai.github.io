@@ -3,7 +3,9 @@ id: 4043
 mathjax: true    
 title: 'तिरुक्कूरळ हिन्दी अनुवाद'    
 date: 2020-04-21    
-permalink: '/samskrut/thirukkural-complete-in-hindi'    
+permalink: /samskrutyatra/thirukkural-complete-in-hindi'
+redirect_from: 
+  - '/samskrut/thirukkural-complete-in-hindi'
 tags: [Chanting, Thiruvalluvar, Thirukkural in Hindi]    
 categories:    
     

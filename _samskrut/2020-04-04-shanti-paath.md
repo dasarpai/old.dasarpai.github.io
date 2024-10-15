@@ -3,7 +3,9 @@ id: 4012
 mathjax: true
 title: 'शान्तिपाठः'
 date: 2020-04-04
-permalink: '/samskrut/shanti-paath'
+permalink: /samskrutyatra/shanti-paath'
+redirect_from: 
+  - '/samskrut/shanti-paath'
 tags: [Paatham, Prayers, Chanting]
 
 categories:

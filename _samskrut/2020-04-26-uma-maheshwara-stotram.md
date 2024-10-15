@@ -3,7 +3,9 @@ id: 4055
 mathjax: true    
 title: 'उमामहेश्वर स्तोत्रं'    
 date: 2020-04-26    
-permalink: '/samskrut/uma-maheshwara-stotram'    
+permalink: /samskrutyatra/uma-maheshwara-stotram'
+redirect_from: 
+  - '/samskrut/uma-maheshwara-stotram'
 tags: [Shiva, Chanting, Stotram]    
 categories:    
     

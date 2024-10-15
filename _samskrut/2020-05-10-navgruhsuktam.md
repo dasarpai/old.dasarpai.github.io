@@ -3,7 +3,9 @@ id: 4104
 mathjax: true    
 title: 'नवग्रहसूक्तम्'    
 date: 2020-05-10    
-permalink: '/samskrut/navgruhsuktam'    
+permalink: /samskrutyatra/navgruhsuktam'
+redirect_from: 
+  - '/samskrut/navgruhsuktam'
 tags: [Suktam]    
 categories:    
     

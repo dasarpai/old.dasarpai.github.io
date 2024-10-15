@@ -3,7 +3,9 @@ id: 4082
 mathjax: true    
 title: 'ऐतरेयोपनिषत्'    
 date: 2020-05-07    
-permalink: '/samskrut/aitreyopnishad'    
+permalink: /samskrutyatra/aitreyopnishad'
+redirect_from: 
+  - '/samskrut/aitreyopnishad'
 tags: [Upanishad]    
 categories:    
     

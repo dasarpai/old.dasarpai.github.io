@@ -3,7 +3,9 @@ id: 4149
 mathjax: true    
 title: 'श्रीदुर्गामानस-पूजा'    
 date: 2020-06-17    
-permalink: '/samskrut/shri-durga-manas-puja'    
+permalink: /samskrutyatra/shri-durga-manas-puja'
+redirect_from: 
+  - '/samskrut/shri-durga-manas-puja'
 tags: [Devi, Durga Saptashati]    
 categories:    
     

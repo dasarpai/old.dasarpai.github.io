@@ -3,7 +3,9 @@ id: 4033
 mathjax: true    
 title: 'तन्त्रोक्तं देविसूक्तम्'    
 date: 2020-04-19    
-permalink: '/samskrut/tantroktam-devisuktam'    
+permalink: /samskrutyatra/tantroktam-devisuktam'
+redirect_from: 
+  - '/samskrut/tantroktam-devisuktam'
 tags: [Devi, Durga Saptashati]    
 categories:    
     

@@ -3,7 +3,9 @@ id: 4062
 mathjax: true    
 title: '॥श्रीसारदास्तवं ॥'    
 date: 2020-04-28    
-permalink: '/samskrut/shri-sarada-stava'    
+permalink: /samskrutyatra/shri-sarada-stava'
+redirect_from: 
+  - '/samskrut/shri-sarada-stava'
 tags: [Devi, Chanting]    
 categories:    
     

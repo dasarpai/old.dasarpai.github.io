@@ -3,7 +3,9 @@ id: 4005
 mathjax: true
 title: 'मदालसा उपदेश'
 date: 2019-09-21
-permalink: '/samskrut/madalasa-upadesha'
+permalink: /samskrutyatra/madalasa-upadesha'
+redirect_from: 
+  - '/samskrut/madalasa-upadesha'
 tags: [Upanishad, Chanting]
 categories:
 

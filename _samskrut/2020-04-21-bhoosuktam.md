@@ -3,7 +3,9 @@ id: 4037
 mathjax: true    
 title: 'भूसूक्तम्'    
 date: 2020-04-21    
-permalink: '/samskrut/bhoosuktam'    
+permalink: /samskrutyatra/bhoosuktam'
+redirect_from: 
+  - '/samskrut/bhoosuktam'
 tags: [Devi, Suktam]    
 categories:    
     

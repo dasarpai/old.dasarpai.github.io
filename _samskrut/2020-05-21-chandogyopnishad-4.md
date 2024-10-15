@@ -3,7 +3,9 @@ id: 4124
 mathjax: true    
 title: 'छान्दोग्योपनिषत् चतुर्थोऽध्यायः'    
 date: 2020-05-21    
-permalink: '/samskrut/chandogyopnishad-4'    
+permalink: /samskrutyatra/chandogyopnishad-4'
+redirect_from: 
+  - '/samskrut/chandogyopnishad-4'
 tags: [Upanishad, Chandogya Upanishad]    
 categories:    
     

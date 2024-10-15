@@ -3,7 +3,9 @@ id: 4099
 mathjax: true    
 title: 'शंकराय मंगलं'    
 date: 2020-05-08    
-permalink: '/samskrut/shankarya-mangalam'    
+permalink: /samskrutyatra/shankarya-mangalam'
+redirect_from: 
+  - '/samskrut/shankarya-mangalam'
 tags: [Shiva, Chanting]    
 categories:    
     

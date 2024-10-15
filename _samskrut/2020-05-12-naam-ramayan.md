@@ -3,7 +3,9 @@ id: 4109
 mathjax: true    
 title: 'नाम रामायण'    
 date: 2020-05-12    
-permalink: '/samskrut/naam-ramayan'    
+permalink: /samskrutyatra/naam-ramayan'
+redirect_from: 
+  - '/samskrut/naam-ramayan'
 tags: [Bhajan, Ramchandra]    
 categories:    
     
