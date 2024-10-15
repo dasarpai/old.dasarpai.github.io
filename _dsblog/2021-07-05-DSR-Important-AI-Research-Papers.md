@@ -25,4 +25,4 @@ mathjax: "true"
    
 # Important AI Research Papers   
    
-Content from this page is migrated to [Link](https://dasarpai.com/dsblog/aip)
+Content from this page is migrated to [Link](https://dasarpai.com/dsblog/select-ai-papers)

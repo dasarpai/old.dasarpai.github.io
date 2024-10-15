@@ -3,7 +3,7 @@ mathjax: true
 id: 6090
 title: Important AI Paper List
 date: 2023-08-22
-permalink: '/dsblog/aip'
+permalink: '/dsblog/select-ai-papers'
 tags: [LLM, Transformer, Encoder, Decoder, Encoder-Decoder, Machine Learning, NLP]
 categories:
   - dsblog
@@ -25,7 +25,7 @@ mathjax: "true"
 
 # Introduciton
 
-In almost all citations it becomes very difficult to read the title of research papers. Why? Because the contributors' information is first and most of the time, it is difficult to read the name other than native people. For example, if an Indian find a native name like "Vivek Ramaswami, Kartikeyan Karunanidhi" it is easy for them to read the name but the same name becomes difficult to read for non-Indian people, and vice-versa. Giving respect to the creator is very important but more than we need to know what they have done. I know from my experience, for almost every researcher, it becomes very difficult to track good AI research papers. For me, it is more difficult because I need to maintain this blog and I want to give references to the work across different webpages. Therefore I am creating a citation key, which includes the Last name of the first researcher + year of presenting that paper. Along with this, I am describing the title of the paper and where it was presented. If you find a particular title interesting for your work you can search that paper on "google scholar", Mendeley, sci-hub or other places with which you are familiar and comfortable. Post that you can download and read that paper at your leisure. Hope you find this list of some use for your work.
+In almost all citations it becomes very difficult to read the title of research papers. Why? Because the contributors' information is first and most of the time, it is difficult to read the name other than native people. For example, if an Indian find a native name like "Vivek Ramaswami, Kartikeyan Karunanidhi" it is easy for them to read the name but the same name becomes difficult to read for non-Indian people, and vice-versa. Giving respect to the creator is very important but more than we need to know what have they done. I know from my experience, for almost every researcher, it becomes very difficult to track good AI research papers. For me, it is more difficult because I need to maintain this blog and I want to give references to the work across different webpages. Therefore I am creating a citation key, which includes the Last name of the first researcher + year of presenting that paper. Along with this, I am describing the title of the paper and where it was presented. If you find a particular title interesting for your work you can search that paper on "google scholar", Mendeley, sci-hub or other places with which you are familiar and comfortable. Post that you can download and read that paper at your leisure. Hope you find this list of some use for your work.
 
 ## Citations
 

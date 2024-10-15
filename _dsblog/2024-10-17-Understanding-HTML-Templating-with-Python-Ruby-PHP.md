@@ -1,6 +1,31 @@
-![Understanding HTML Templating with PHP, Python, and Ruby](/assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg)
+---
+mathjax: true
+id: 6164
+title: "Understanding HTML Templating with Python, Ruby, and PHP"
+date: 2024-10-17
+permalink: /dsblog/Understanding-HTML-Templating-with-Python-Ruby-PHP
+tags: [HTML, Templating, "Python", "Ruby", "PHP"]
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+toc_levels: 2
+mathjax: "true"
+comments: true
+keywords: ["HTML", "Templating", "Python", "Ruby", "PHP"]
+---
 
-# Understanding HTML Templating with PHP, Python, and Ruby
+![Understanding HTML Templating with Python, Ruby, and PHP](/assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg)
+
+# Understanding HTML Templating with Python, Ruby, and PHP
 
 ## What is HTML Templating?
 This concept is widely used across different frameworks and languages to build dynamic, server-rendered web applications.
@@ -23,43 +48,43 @@ If you want to call python code within html then you need to use Jinja2 syntax.
 Some important Jinja2 syntax elements used for embedding Python code in HTML templates are as following.
 
 ### 1. **Variable Output**
-- **{{ variable }}**: Renders the value of the variable.
+- **\{\{ variable \}\}**: Renders the value of the variable.
   ```jinja
-  <p>{{ username }}</p>
+  <p>\{\{ username \}\  }</p>
   ```
 
 ### 2. **Control Structures**
-- **{% if condition %}**: Starts an if statement.
+- **\{\% if condition \%\}**: Starts an if statement.
   ```jinja
-  {% if user.is_authenticated %}
-      <p>Welcome, {{ user.username }}!</p>
-  {% endif %}
+  \{\% if user.is_authenticated \%\}
+      <p>Welcome, \{\{ user.username \}\}\</p>
+  \{\% endif \%\}
   ```
 
 - **\{\% elif condition \%\}**: Adds an else-if condition.
   ```jinja
-  {% if user.is_authenticated %}
-      <p>Welcome, {{ user.username }}!</p>
-  {% elif user.is_guest %}
+  \{\% if user.is_authenticated \%\}
+      <p>Welcome, \{\{ user.username \}\}\</p>
+  \{\% elif user.is_guest \%\}
       <p>Welcome, Guest!</p>
-  {% endif %}
+  \{\% endif \%\}
   ```
 
 - **\{\% else \%\}**: Defines an else block.
   ```jinja
-  {% if user.is_authenticated %}
-      <p>Welcome, {{ user.username }}!</p>
-  {% else %}
+  \{\% if user.is_authenticated \%\}
+      <p>Welcome, \{\{ user.username \}\}\</p>
+  \{\% else \%\}
       <p>Please log in.</p>
-  {% endif %}
+  \{\% endif \%\}
   ```
 
 - **`\{\% for item in list \%\}`**: Starts a loop through a list.
   ```jinja
   <ul>
-      {% for item in items %}
-          <li>{{ item }}</li>
-      {% endfor %}
+      \{\% for item in items \%\}
+          <li>\{\{ item \}\}\</li>
+      \{\% endfor \%\}
   </ul>
   ```
 
@@ -85,7 +110,7 @@ Some important Jinja2 syntax elements used for embedding Python code in HTML tem
   ```
 
 ### 5. **Macros**
-- **`{% macro macro_name(args) %}`**: Defines a reusable block of code.
+- **`\{\% macro macro_name(args) \%\}`**: Defines a reusable block of code.
   ```jinja
   \{\% macro render_item(item) \%\}
       <li>{{ item }}</li>
@@ -103,8 +128,8 @@ Some important Jinja2 syntax elements used for embedding Python code in HTML tem
   ```
 
 ### 6. **Inheritance**
-- **`{% extends "base.html" %}`**: Inherits from a parent template.
-- **`{% block block_name %}`**: Defines a block that can be overridden in child templates.
+- **`\{\% extends "base.html" \%\}`**: Inherits from a parent template.
+- **`\{\% block block_name \%\}`**: Defines a block that can be overridden in child templates.
   ```jinja
   \{\% extends "base.html" \%\}
 
