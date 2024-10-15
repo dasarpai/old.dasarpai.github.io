@@ -21,6 +21,8 @@ toc_levels: 2
 mathjax: "true"
 comments: true
 keywords: ["Kubernetes", "Docker", "container orchestration", "container management", "CI/CD", "scaling containers", "load balancing", "self-healing containers", "Kubernetes vs Docker", "container clusters", "Kubernetes features", "persistent storage"]
+sidebar:
+  nav: "docs" 
 ---
 
 ![Introduction to Container Registry](/assets/images/dspost/dsp6167-Introduction-to-Container-Registry.jpg)
@@ -58,7 +60,7 @@ A container registry is a central store or service where container images are st
 
 Oracle Container Registry is a fully managed Docker registry service provided by Oracle Cloud Infrastructure (OCI). It allows you to store, manage, and distribute Docker container images securely within your OCI environment. This service is designed to support the development and deployment of containerized applications in Oracle Cloud.
 
-## Key Features
+### Key Features of OCIR
 
 1. **Secure Storage**: Safely store and manage your Docker images in Oracle Cloud.
 
@@ -76,7 +78,7 @@ Oracle Container Registry is a fully managed Docker registry service provided by
 
 8. **REST API Support**: Automate registry operations using REST APIs.
 
-## Benefits
+### Benefits of OCIR
 
 - **Simplified Container Management**: Centralize your container image storage and distribution.
 - **Enhanced Security**: Benefit from Oracle's enterprise-grade security features.

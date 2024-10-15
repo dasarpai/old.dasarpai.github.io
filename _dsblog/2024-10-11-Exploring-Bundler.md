@@ -17,7 +17,7 @@ author_profile: true
 share: true   
 toc: true   
 toc_sticky: true 
-toc_levels: 2
+toc_levels: 3
 mathjax: "true"
 comments: true
 keywords: ["Bundler" , "Ruby" , "Gemfile" , "Dependency management" , "Ruby gems" , "Yehuda Katz" , "Ruby on Rails" , "Gemfile.lock" , "Ruby development tools" , "Bundler commands"]
@@ -89,14 +89,14 @@ keywords: ["Bundler" , "Ruby" , "Gemfile" , "Dependency management" , "Ruby gems
 43. **bundle lock --update** - Updates lockfile with specific gem requirements.
 44. **bundle config set --local** - Sets a local configuration option.
 45. **bundle config set --global** - Sets a global configuration option.
-46. **bundle exec rake <task>** - Runs a Rake task within the bundle context.
+46. **bundle exec rake \<task\>** - Runs a Rake task within the bundle context.
 47. **bundle update --strict** - Only updates gems specified explicitly.
-48. **bundle binstubs <gem>** - Creates binstubs for a specific gem.
+48. **bundle binstubs \<gem\>** - Creates binstubs for a specific gem.
 49. **bundle plugin install** - Installs a Bundler plugin.
 50. **bundle version** - Displays the version of Bundler.
 
 ## What is Ruby on Rails?
-Here we discussed about Ruby and all mentioned about Ruby on Rails, therefore le's understand what this is? Rails is known for making web development easier by offering a full-stack framework that supports both front-end and back-end development. 
+Here we discussed about Ruby and also mentioned about Ruby on Rails, therefore le's understand what this is? Rails is known for making web development easier by offering a full-stack framework that supports both front-end and back-end development. 
 
 **Ruby on Rails (often simply called Rails)** is a popular open-source web application framework written in the Ruby programming language. It follows the **Model-View-Controller (MVC)** architectural pattern and provides default structures for a database, a web service, and web pages. Rails emphasizes the use of well-known software engineering paradigms like **convention over configuration (CoC)** and **don't repeat yourself (DRY)** to improve developer productivity and reduce the complexity of code.
 

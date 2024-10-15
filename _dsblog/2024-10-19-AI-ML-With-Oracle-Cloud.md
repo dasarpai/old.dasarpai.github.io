@@ -21,6 +21,8 @@ toc_levels: 2
 mathjax: "true"
 comments: true
 keywords: ["AI", "ML", "Oracle Cloud", "Artificial Intelligence", "Machine Learning"]
+sidebar:
+  nav: "docs" 
 ---
 
 ![AI/ML with Oracle Cloud](/assets/images/dspost/dsp6166-AI-ML-With-Oracle-Cloud.jpg)
