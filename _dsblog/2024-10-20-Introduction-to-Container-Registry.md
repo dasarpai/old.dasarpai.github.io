@@ -30,17 +30,17 @@ keywords: ["Kubernetes", "Docker", "container orchestration", "container managem
 ## What is Container Registry?
 A container registry is a central store or service where container images are stored, managed and distributed. Container images are packaged applications that include the code, dependencies, libraries and configuration to run in any environment that supports containerization, like Docker or Kubernetes.
 
-Key aspects of a Container Registry:
+**Key aspects of a Container Registry:**
 
-Storing Images: Container registries act as a storage for container images, where developers can push and pull images as needed. These images are often versioned and tagged so you can track different versions of an application.
+- Storing Images: Container registries act as a storage for container images, where developers can push and pull images as needed. These images are often versioned and tagged so you can track different versions of an application.
 
-Public vs. Private: Public Registry: Open to everyone. 
+- Public vs. Private: Public Registry: Open to everyone. 
 
-Image Management: The registry provides tools to manage images, versioning and sometimes vulnerability scanning. Developers can search, update or delete images as needed.
+- Image Management: The registry provides tools to manage images, versioning and sometimes vulnerability scanning. Developers can search, update or delete images as needed.
 
-Authentication and Access Control: A private registry often provides mechanisms to authenticate users and control who can access or manage specific images.
+- Authentication and Access Control: A private registry often provides mechanisms to authenticate users and control who can access or manage specific images.
 
-Integration with CI/CD Pipelines: Container registries integrate with CI/CD pipelines to automate the process of building, storing and deploying containerized applications.
+- Integration with CI/CD Pipelines: Container registries integrate with CI/CD pipelines to automate the process of building, storing and deploying containerized applications.
 
 ## What are Popular Container Registries?
 - **Docker Hub**: The most widely used public container registry.
@@ -84,7 +84,7 @@ Oracle Container Registry is a fully managed Docker registry service provided by
 
 Container Registry is an essential tool for organizations looking to streamline their container-based application development and deployment processes in Oracle Cloud Infrastructure.
 
-Note: Similarly you can explore the container registries, more of less capabilities are same.
+Note: Similarly you can explore other container registries. They more of less capabilities are same.
 
 ## Are all these container registries free?
 
@@ -92,7 +92,7 @@ No, most of these container registries are not free. You need to check the prici
 
 ## The CLI commands to manage all these container registries are same?
 
-No, the CLI commands to manage all these container registries are different. You need to check the documentation for each of them to get the exact commands.
+No, the CLI commands to manage all these container registries are different. You need to check the documentation for each of them to get the exact commands. But they are similar and revolves around the same concepts like push, pull, tag, delete, list, etc.
 
 ## Does all these container registry supports CI/CD?
 
