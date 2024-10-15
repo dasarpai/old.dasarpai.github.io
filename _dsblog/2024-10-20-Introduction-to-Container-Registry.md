@@ -4,7 +4,7 @@ id: 6167
 title: "Introduction to Container Registry"
 date: 2024-10-20
 permalink: /dsblog/Introduction-to-Container-Registry
-tags: [Container Registry, "Docker", "Kubernetes", "OCI", "Oracle Cloud", "Container Orchestration"]
+tags: ["Container Registry", "Docker", "Kubernetes", "OCI", "Oracle Cloud", "Container Orchestration"]
 categories:
   - dsblog
 header:
@@ -20,7 +20,7 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: ["Kubernetes", "Docker", "container orchestration", "container management", "CI/CD", "scaling containers", "load balancing", "self-healing containers", "Kubernetes vs Docker", "cloud-native", "container clusters", "rolling updates", "Kubernetes features", "persistent storage", "CI/CD pipelines", "DevOps automation", "multi-cloud deployments", "Kubernetes security"]
+keywords: ["Kubernetes", "Docker", "container orchestration", "container management", "CI/CD", "scaling containers", "load balancing", "self-healing containers", "Kubernetes vs Docker", "container clusters", "Kubernetes features", "persistent storage"]
 ---
 
 ![Introduction to Container Registry](/assets/images/dspost/dsp6167-Introduction-to-Container-Registry.jpg)
@@ -28,6 +28,7 @@ keywords: ["Kubernetes", "Docker", "container orchestration", "container managem
 # Introduction to Container Registry
 
 ## What is Container Registry?
+
 A container registry is a central store or service where container images are stored, managed and distributed. Container images are packaged applications that include the code, dependencies, libraries and configuration to run in any environment that supports containerization, like Docker or Kubernetes.
 
 **Key aspects of a Container Registry:**
@@ -84,7 +85,7 @@ Oracle Container Registry is a fully managed Docker registry service provided by
 
 Container Registry is an essential tool for organizations looking to streamline their container-based application development and deployment processes in Oracle Cloud Infrastructure.
 
-Note: Similarly you can explore other container registries. They more of less capabilities are same.
+Note: Similarly you can explore other container registries. They more or less have similar capabilities.
 
 ## Are all these container registries free?
 

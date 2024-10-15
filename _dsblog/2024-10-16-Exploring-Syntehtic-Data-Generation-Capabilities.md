@@ -23,7 +23,7 @@ comments: true
 keywords: ["synthetic data", "data generation capabilities", "data privacy", "industry synthetic data tools", "data anonymization", "synthetic data techniques", "synthetic data in healthcare", "synthetic data in finance", "autonomous driving simulation", "agriculture synthetic data", "manufacturing data", "energy data simulation", "public sector data", "AI data generation", "privacy-compliant data"]
 ---
 
-![Exploring Synthetic Data Generation Capabilities]( /assets/images/dspost/dsp6163-Exploring-Synthetic-Data-Generation-Capabilities.jpg)
+![Exploring Synthetic Data Generation Capabilities](/assets/images/dspost/dsp6163-Exploring-Synthetic-Data-Generation-Capabilities.jpg)
 
 
 # Exploring Synthetic Data Generation Capabilities

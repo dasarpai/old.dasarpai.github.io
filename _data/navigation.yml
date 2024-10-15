@@ -65,7 +65,7 @@ docs:
       - title: "PMLOGY Home"
         url: "/pmlogy-home"
       - title: "PMLOGY Blog"
-        url: "/pmlogy"        
+        url: "/pmblog"        
       - title: "PM Glossary"
         url: "/pmglossary"
       - title: "PM Topics"

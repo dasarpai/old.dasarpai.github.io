@@ -2,7 +2,7 @@
 id: 717    
 title: Project Management Blog
 layout: collection
-permalink: /pmlogy
+permalink: /pmblog
 collection: pmblog
 entries_layout: grid
 author_profile: false

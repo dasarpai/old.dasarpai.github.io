@@ -4,7 +4,7 @@ id: 6165
 title: "SEO Keyword Planning"
 date: 2024-10-18
 permalink: /dsblog/SEO-Keyword-Planning
-tags: [SEO, Keyword Planning, "Search Engine Optimization"]
+tags: [SEO, "Keyword Planning", "Search Engine Optimization"]
 categories:
   - dsblog
 header:
