@@ -6,7 +6,7 @@ date: "2015-11-10T08:33:00+05:30"
 permalink: /wiaposts/thirukkural-in-hindi
 tags: [Indian Culture, Philosophy, Thirukkural]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5002-Thirukkural-In-Hindi.jpg
 author: Hari Thapliyaal 

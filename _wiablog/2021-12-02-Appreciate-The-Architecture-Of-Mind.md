@@ -5,7 +5,7 @@ date: "2021-12-02T08:33:00+05:30"
 permalink: /wiaposts/appreciate-the-architecture-of-mind
 tags: [ Mind, Meditation]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5174-Appreciate-The-Architecture-Of-Mind.jpg
 author: Hari Thapliyaal 

@@ -5,7 +5,7 @@ date: "2019-01-15T08:33:00+05:30"
 permalink: /wiaposts/paradox-of-learning
 tags: [ Education, Mind]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5090-Paradox-Of-Learning.jpg
 author: Hari Thapliyaal 

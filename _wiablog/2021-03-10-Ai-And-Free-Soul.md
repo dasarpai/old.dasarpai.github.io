@@ -5,7 +5,7 @@ date: "2021-03-10T08:33:00+05:30"
 permalink: /wiaposts/ai-and-free-soul
 tags: [ Science, Vedanta]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5148-Ai-And-Free-Soul.jpg
 author: Hari Thapliyaal 

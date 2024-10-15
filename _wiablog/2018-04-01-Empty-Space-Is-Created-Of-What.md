@@ -6,7 +6,7 @@ date: "2018-04-01T08:33:00+05:30"
 permalink: /wiaposts/empty-space-is-created-of-what
 tags: [ Concepts, Philosophy, Science]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5071-Empty-Space-Is-Created-Of-What.jpg
 author: Hari Thapliyaal 

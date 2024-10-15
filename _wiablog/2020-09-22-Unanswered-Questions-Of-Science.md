@@ -5,7 +5,7 @@ date: "2020-09-22T08:33:00+05:30"
 permalink: /wiaposts/unanswered-questions-of-science
 tags: [ Science]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5136-Unanswered-Questions-Of-Science.jpg
 author: Hari Thapliyaal 

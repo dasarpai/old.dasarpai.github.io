@@ -6,7 +6,7 @@ date: "2016-12-08T08:33:00+05:30"
 permalink: /wiaposts/what-is-a-positive-mindset
 tags: [ Mind, Philosophy, Poetry, Vedanta]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5034-What-Is-A-Positive-Mindset.jpg
 author: Hari Thapliyaal 

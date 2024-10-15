@@ -5,7 +5,7 @@ date: "2019-04-15T08:33:00+05:30"
 permalink: /wiaposts/eyes-on-the-ground
 tags: [ Philosophy, Poetry]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5095-Eyes-On-The-Ground.jpg
 author: Hari Thapliyaal 

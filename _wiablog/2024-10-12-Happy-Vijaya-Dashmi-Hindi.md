@@ -5,7 +5,7 @@ title: "विजयादशमी 2024 की हार्दिक शुभ�
 date: "2024-10-01T08:33:00+05:30"        
 permalink: /wiaposts/Happy-Vijayadashami-2024-Hindi
 tags: [My Views, Hinduism, Hindu Culture, Devi, "Annual Wishes"]         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5271-Happy-Vijaydashmi-2024.jpg               
 author: हरि थपलियाल        

@@ -5,7 +5,7 @@ date: "2019-09-15T08:33:00+05:30"
 permalink: /wiaposts/mystery-of-time-and-space
 tags: [ Concepts]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5107-Mystery-Of-Time-And-Space.jpg
 author: Hari Thapliyaal 

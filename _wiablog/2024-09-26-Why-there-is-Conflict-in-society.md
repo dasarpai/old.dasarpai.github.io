@@ -6,7 +6,7 @@ date: "2024-09-26T08:33:00+05:30"
 permalink: /wiaposts/Why-there-is-Conflict-in-society
 tags:  [My Views, Life, Philosophy, Conflicts]         
         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5264-Why-there-is-Conflict-in-society.jpg        
 author: Hari Thapliyaal        

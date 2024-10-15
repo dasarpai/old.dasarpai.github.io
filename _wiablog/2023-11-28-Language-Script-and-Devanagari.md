@@ -5,7 +5,7 @@ date: "2023-11-28T08:33:00+05:30"
 permalink: /wiaposts/Language-Script-and-Devanagari      
 tags:  [My Views, Life, Philosophy]         
         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5239-Language-Script-and-Devanagari.jpg        
 author: Hari Thapliyaal        

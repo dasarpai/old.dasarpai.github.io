@@ -5,7 +5,7 @@ date: "2022-04-30T08:33:00+05:30"
 permalink: /wiaposts/effect-of-maya
 tags: [Vedanta, Maya, My Views ]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5187-Effect-Of-Maya.jpg
 author: Hari Thapliyaal 

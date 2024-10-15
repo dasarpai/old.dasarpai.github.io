@@ -5,7 +5,7 @@ date: "2023-09-14T08:33:00+05:30"
 permalink: /wiaposts/The-Ways-to-Hurt-the-Self      
 tags:  [My Views, Life, Philosophy]         
         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5234-The-Ways-to-Hurt-the-Self.jpg        
 author: Hari Thapliyaal        

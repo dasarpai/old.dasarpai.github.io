@@ -5,7 +5,7 @@ date: "2021-04-10T08:33:00+05:30"
 permalink: /wiaposts/earnings-of-life
 tags: [ 'Mad Thinking', 'My Views', Philosophy]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5151-Earnings-Of-Life.jpg
 author: Hari Thapliyaal 

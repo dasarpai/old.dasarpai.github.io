@@ -6,7 +6,7 @@ date: "2017-07-30T08:33:00+05:30"
 permalink: /wiaposts/the-power-for-prayer
 tags: [ Poetry, Prayers]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5055-The-Power-For-Prayer.jpg
 author: Hari Thapliyaal 

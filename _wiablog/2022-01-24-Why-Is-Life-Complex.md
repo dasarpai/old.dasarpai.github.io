@@ -5,7 +5,7 @@ date: "2022-01-24T08:33:00+05:30"
 permalink: /wiaposts/why-is-life-complex
 tags: [Life, My Views ]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5179-Why-Is-Life-Complex.jpg
 author: Hari Thapliyaal 

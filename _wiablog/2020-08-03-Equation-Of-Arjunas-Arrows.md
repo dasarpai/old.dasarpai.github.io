@@ -5,7 +5,7 @@ date: "2020-08-03T08:33:00+05:30"
 permalink: /wiaposts/equation-of-arjunas-arrows
 tags: [ 'Indian Culture', 'Indian Sciences']    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5133-Equation-Of-Arjunas-Arrows.jpg
 author: Hari Thapliyaal 

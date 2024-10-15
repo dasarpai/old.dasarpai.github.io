@@ -5,7 +5,7 @@ date: "2019-10-16T08:33:00+05:30"
 permalink: /wiaposts/love-as-a-service
 tags: [ Philosophy, Poetry]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5109-Love-As-A-Service.jpg
 author: Hari Thapliyaal 

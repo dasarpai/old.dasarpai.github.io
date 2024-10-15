@@ -5,7 +5,7 @@ date: "2023-12-05T08:33:00+05:30"
 permalink: /wiaposts/The-Middle-Path      
 tags:  [My Views, Life, Philosophy]         
         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5241-The-Middle-Path.jpg        
 author: Hari Thapliyaal        

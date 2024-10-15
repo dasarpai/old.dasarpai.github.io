@@ -5,7 +5,7 @@ date: "2020-02-26T08:33:00+05:30"
 permalink: /wiaposts/the-way-of-happiness
 tags: [ 'Bhagwat Gita', Education, 'Philosophy for Business', Vedanta]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5119-The-Way-Of-Happiness.jpg
 author: Hari Thapliyaal 

@@ -6,7 +6,7 @@ date: "2016-05-08T08:33:00+05:30"
 permalink: /wiaposts/nectar-for-society
 tags: [ 'Indian Culture', Philosophy]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5017-Nectar-For-Society.jpg
 author: Hari Thapliyaal 

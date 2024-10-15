@@ -5,7 +5,7 @@ date: "2023-12-29T08:33:00+05:30"
 permalink: /wiaposts/why-do-we-need-family      
 tags:  [My Views, Life, Philosophy]         
         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5245-why-do-we-need-family.jpg        
 author: Hari Thapliyaal        

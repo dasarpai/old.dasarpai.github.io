@@ -5,7 +5,7 @@ date: "2024-05-03T08:33:00+05:30"
 permalink: /wiaposts/2024-Elections-and-Life-After
 tags:  [Vedanta]  
   
-categories: [wiablog] 
+categories: [wiaposts] 
 header:  
   teaser: /assets/images/wiapost/5250-2024-World-Poltics-and-Life-Beyond.jpg  
 author: Hari Thapliyaal  

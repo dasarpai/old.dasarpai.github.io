@@ -5,7 +5,7 @@ date: "2022-04-27T08:33:00+05:30"
 permalink: /wiaposts/thinking-and-feeling
 tags: [Mind, My Views ]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5186-Thinking-And-Feeling.jpg
 author: Hari Thapliyaal 

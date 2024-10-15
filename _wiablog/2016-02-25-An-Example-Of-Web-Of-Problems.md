@@ -6,7 +6,7 @@ date: "2016-02-25T08:33:00+05:30"
 permalink: /wiaposts/an-example-of-web-of-problems
 tags: [ 'My Story']    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5011-An-Example-Of-Web-Of-Problems.jpg
 author: Hari Thapliyaal 

@@ -6,7 +6,7 @@ date: "2016-12-31T08:33:00+05:30"
 permalink: /wiaposts/human-and-his-faith
 tags: [ Philosophy, Poetry]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5035-Human-And-His-Faith.jpg
 author: Hari Thapliyaal 

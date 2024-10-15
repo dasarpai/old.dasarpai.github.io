@@ -5,7 +5,7 @@ date: "2023-09-04T08:33:00+05:30"
 permalink: /wiaposts/Layers-of-Identities-and-Bondage      
 tags:  [My Views, Life, Philosophy]         
         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5243-Layers-of-Identities-and-Bondage.jpg        
 author: Hari Thapliyaal        

@@ -5,7 +5,7 @@ date: "2019-07-10T08:33:00+05:30"
 permalink: /wiaposts/nuisance-of-translation
 tags: [ Concepts, Education, Poetry]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5101-Nuisance-Of-Translation.jpg
 author: Hari Thapliyaal 

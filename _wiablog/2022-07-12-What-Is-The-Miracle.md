@@ -5,7 +5,7 @@ date: "2022-07-12T08:33:00+05:30"
 permalink: /wiaposts/what-is-the-miracle
 tags: [ Life, God, Miracle]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5194-What-Is-The-Miracle.jpg
 author: Hari Thapliyaal 

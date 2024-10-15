@@ -6,7 +6,7 @@ date: "2016-08-30T08:33:00+05:30"
 permalink: /wiaposts/who-is-guru
 tags: [ Education, Guru, Guru Purnima, 'Indian Culture', Philosophy]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5029-Who-Is-Guru.jpg
 author: Hari Thapliyaal 

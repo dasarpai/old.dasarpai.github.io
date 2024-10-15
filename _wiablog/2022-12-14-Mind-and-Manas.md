@@ -5,7 +5,7 @@ date: "2022-12-14T08:33:00+05:30"
 permalink: /wiaposts/mind-and-manas    
 tags: [ Mind, Yoga ]     
     
-categories: [wiablog] 
+categories: [wiaposts] 
 header:    
     teaser: /assets/images/wiapost/5206-mind-and-manas.jpg    
 author: Hari Thapliyaal     

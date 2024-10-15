@@ -6,7 +6,7 @@ date: "2016-05-31T08:33:00+05:30"
 permalink: /wiaposts/about-astika
 tags: [ Concepts, Dharma, Philosophy]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5019-About-Astika.jpg
 author: Hari Thapliyaal 

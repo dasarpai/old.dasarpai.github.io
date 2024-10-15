@@ -5,7 +5,7 @@ date: "2019-08-13T08:33:00+05:30"
 permalink: /wiaposts/desire-renunciation-and-a-limited-self
 tags: [ Philosophy, Poetry]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5104-Desire-Renunciation-And-A-Limited-Self.jpg
 author: Hari Thapliyaal 

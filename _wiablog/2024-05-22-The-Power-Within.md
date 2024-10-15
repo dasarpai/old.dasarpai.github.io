@@ -6,7 +6,7 @@ date: "2024-05-22T08:33:00+05:30"
 permalink: /wiaposts/the-power-within        
 tags:  [My Views, Life, Philosophy]         
         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5254-The-Power-Within.jpg        
 author: Hari Thapliyaal        

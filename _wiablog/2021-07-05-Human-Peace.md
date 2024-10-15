@@ -5,7 +5,7 @@ date: "2021-07-05T08:33:00+05:30"
 permalink: /wiaposts/human-peace
 tags: [ Peace, Education, Wisdom]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5164-Human-Peace.jpg
 author: Hari Thapliyaal 

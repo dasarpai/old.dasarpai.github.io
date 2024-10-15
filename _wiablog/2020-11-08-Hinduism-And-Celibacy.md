@@ -5,7 +5,7 @@ date: "2020-11-08T08:33:00+05:30"
 permalink: /wiaposts/hinduism-and-celibacy
 tags: [ 'Ethics & Morality', 'Indian Culture', 'My Views', 'Pleasure & Joy']    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5140-Hinduism-And-Celibacy.jpg
 author: Hari Thapliyaal 

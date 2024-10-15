@@ -5,7 +5,7 @@ date: "2021-10-19T08:33:00+05:30"
 permalink: /wiaposts/play-on-your-strength
 tags: [Life ]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5172-Play-On-Your-Strength.jpg
 author: Hari Thapliyaal 

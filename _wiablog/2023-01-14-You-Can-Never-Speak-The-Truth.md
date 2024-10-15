@@ -5,7 +5,7 @@ date: "2023-01-14T08:33:00+05:30"
 permalink: /wiaposts/You-Can-Never-Speak-the-Truth                 
 tags: [Philosophy, My Views]             
                     
-categories: [wiablog] 
+categories: [wiaposts] 
 header:                    
     teaser: /assets/images/wiapost/5212-You-Can-Never-Speak-the-Truth.jpg                   
 author: Hari Thapliyaal                    

@@ -5,7 +5,7 @@ title:  "Insights from the First Chapter of Durga Saptashati"
 date: "2024-10-01T08:33:00+05:30"        
 permalink: /wiaposts/Insights-from-the-First-Chapter-of-Durga-Saptashati
 tags:  [My Views, Hinduism, Hindu Culture, Searching the Self]         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5268-Insights-from-the-First-Chapter-of-Durga-Saptashati.jpg        
 author: Hari Thapliyaal        

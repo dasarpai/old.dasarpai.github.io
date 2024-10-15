@@ -5,7 +5,7 @@ date: "2023-09-24T08:33:00+05:30"
 permalink: /wiaposts/Ways-to-Experience-the-Bliss      
 tags:  [My Views, Life, Philosophy]         
         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5235-Ways-to-Experience-the-Bliss.jpg        
 author: Hari Thapliyaal        

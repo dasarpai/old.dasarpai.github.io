@@ -5,7 +5,7 @@ date: "2021-12-25T08:33:00+05:30"
 permalink: /wiaposts/business-of-quotations
 tags: [Concepts, Information ]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5177-Business-Of-Quotations.jpg
 author: Hari Thapliyaal 

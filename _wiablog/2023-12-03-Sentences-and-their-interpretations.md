@@ -6,7 +6,7 @@ date: "2023-12-03T08:33:00+05:30"
 permalink: /wiaposts/sentences-and-their-interpretations        
 tags:  [My Views, Life, Philosophy]         
         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5252-Sentences-and-Their-Interpretations.jpg        
 author: Hari Thapliyaal        

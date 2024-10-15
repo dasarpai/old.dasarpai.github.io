@@ -5,7 +5,7 @@ date: "2020-05-06T08:33:00+05:30"
 permalink: /wiaposts/do-we-have-a-free-will
 tags: [ Mind, 'My Views', Philosophy, Vedanta]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5125-Do-We-Have-A-Free-Will.jpg
 author: Hari Thapliyaal 

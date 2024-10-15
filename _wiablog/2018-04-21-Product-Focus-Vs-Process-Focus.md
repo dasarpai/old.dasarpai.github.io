@@ -6,7 +6,7 @@ date: "2018-04-21T08:33:00+05:30"
 permalink: /wiaposts/product-focus-vs-process-focus
 tags: [ 'Bhagwat Gita', Concepts, 'Indian Culture', Philosophy]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5072-Product-Focus-Vs-Process-Focus.jpg
 author: Hari Thapliyaal 

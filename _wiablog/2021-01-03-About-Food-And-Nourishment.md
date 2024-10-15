@@ -5,7 +5,7 @@ date: "2021-01-03T08:33:00+05:30"
 permalink: /wiaposts/about-food-and-nourishment
 tags: [ Life, 'My Views', 'Pleasure &amp; Joy', Yoga]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5143-About-Food-And-Nourishment.jpg
 author: Hari Thapliyaal 

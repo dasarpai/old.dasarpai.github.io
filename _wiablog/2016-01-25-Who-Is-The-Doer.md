@@ -5,7 +5,7 @@ date: "2016-01-25T08:33:00+05:30"
 permalink: /wiaposts/who-is-the-doer
 tags: [ Concepts, Philosophy]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5009-Who-Is-The-Doer.jpg
 

@@ -6,7 +6,7 @@ date: "2018-05-05T08:33:00+05:30"
 permalink: /wiaposts/source-of-the-color
 tags: [ Concepts, Philosophy, Science]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5073-Source-Of-The-Color.jpg
 author: Hari Thapliyaal 

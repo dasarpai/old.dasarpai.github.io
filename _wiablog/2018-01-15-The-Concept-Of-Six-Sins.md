@@ -6,7 +6,7 @@ date: "2018-01-15T08:33:00+05:30"
 permalink: /wiaposts/the-concept-of-six-sins
 tags: [ 'Indian Culture', Philosophy]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5066-The-Concept-Of-Six-Sins.jpg
 author: Hari Thapliyaal 

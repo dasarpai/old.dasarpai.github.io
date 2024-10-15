@@ -5,7 +5,7 @@ date: "2019-02-04T08:33:00+05:30"
 permalink: /wiaposts/moksha-the-god-in-vedanta
 tags: [ 'Indian Culture', Moksha, Philosophy, Vedanta, Maya]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5091-Moksha-The-God-In-Vedanta.jpg
 author: Hari Thapliyaal 

@@ -6,7 +6,7 @@ date: "2018-12-06T08:33:00+05:30"
 permalink: /wiaposts/who-killed-tantra
 tags: [ 'Indian Culture']    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5087-Who-Killed-Tantra.jpg
 author: Hari Thapliyaal 

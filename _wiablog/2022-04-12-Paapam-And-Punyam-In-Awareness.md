@@ -5,7 +5,7 @@ date: "2022-04-12T08:33:00+05:30"
 permalink: /wiaposts/paapam-and-punyam-in-awareness
 tags: [ My Views, Ethics and Morality, Awareness]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5185-Paapam-And-Punyam-In-Awareness.jpg
 author: Hari Thapliyaal 

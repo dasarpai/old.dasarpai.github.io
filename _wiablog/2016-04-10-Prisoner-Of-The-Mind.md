@@ -6,7 +6,7 @@ date: "2016-04-10T08:33:00+05:30"
 permalink: /wiaposts/prisoner-of-the-mind
 tags: [ Mind, 'My Views', Philosophy, Poetry]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5014-Prisoner-Of-The-Mind.jpg
 author: Hari Thapliyaal 

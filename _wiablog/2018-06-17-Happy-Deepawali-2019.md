@@ -6,7 +6,7 @@ date: "2018-06-17T08:33:00+05:30"
 permalink: /wiaposts/happy-deepawali-2019
 tags: [ 'Annual Wishes']    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5075-Happy-Deepawali-2019.jpg
 author: Hari Thapliyaal 

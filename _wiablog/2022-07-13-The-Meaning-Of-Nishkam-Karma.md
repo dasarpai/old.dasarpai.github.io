@@ -5,7 +5,7 @@ date: "2022-07-13T08:33:00+05:30"
 permalink: /wiaposts/the-meaning-of-nishkam-karma
 tags: [ Life, Karma]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5195-The-Meaning-Of-Nishkam-Karma.jpg
 author: Hari Thapliyaal 

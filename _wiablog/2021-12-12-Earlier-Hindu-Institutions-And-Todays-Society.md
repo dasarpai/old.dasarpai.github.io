@@ -5,7 +5,7 @@ date: "2021-12-12T08:33:00+05:30"
 permalink: /wiaposts/earlier-hindu-institutions-and-todays-society
 tags: [ Indian Culture, Education]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5175-Earlier-Hindu-Institutions-And-Todays-Society.jpg
 author: Hari Thapliyaal 

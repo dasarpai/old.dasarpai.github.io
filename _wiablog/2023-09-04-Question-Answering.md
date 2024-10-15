@@ -5,7 +5,7 @@ date: "2023-09-04T08:33:00+05:30"
 permalink: /wiaposts/Question-Answering-Problem-Solving      
 tags:  [My Views, Life, Philosophy]         
         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5233-Question-Answering.jpg        
 author: Hari Thapliyaal        

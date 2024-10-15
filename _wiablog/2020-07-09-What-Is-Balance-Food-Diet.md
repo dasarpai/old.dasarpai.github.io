@@ -5,7 +5,7 @@ date: "2020-07-09T08:33:00+05:30"
 permalink: /wiaposts/what-is-balance-food-diet
 tags: [ Concepts, 'Ethics and Morality', 'My Views']    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5131-What-Is-Balance-Food-Diet.jpg
 author: Hari Thapliyaal 

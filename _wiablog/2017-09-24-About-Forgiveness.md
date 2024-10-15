@@ -6,7 +6,7 @@ date: "2017-09-24T08:33:00+05:30"
 permalink: /wiaposts/about-forgiveness
 tags: [ Concepts, Philosophy]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5059-About-Forgiveness.jpg
 author: Hari Thapliyaal 

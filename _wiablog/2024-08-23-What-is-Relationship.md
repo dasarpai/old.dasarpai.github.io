@@ -6,7 +6,7 @@ date: "2024-08-23T08:33:00+05:30"
 permalink: /wiaposts/what-is-relationship  
 tags:  [My Views, Life, Philosophy]         
         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5260-what-is-relationship.jpg        
 author: Hari Thapliyaal        

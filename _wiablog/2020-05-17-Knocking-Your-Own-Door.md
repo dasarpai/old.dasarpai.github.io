@@ -5,7 +5,7 @@ date: "2020-05-17T08:33:00+05:30"
 permalink: /wiaposts/knocking-your-own-door
 tags: [ Mind, 'My Views', Philosophy]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5127-Knocking-Your-Own-Door.jpg
 author: Hari Thapliyaal 

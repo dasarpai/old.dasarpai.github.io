@@ -6,7 +6,7 @@ date: "2024-09-30T08:33:00+05:30"
 permalink: /wiaposts/What-is-renunciation
 tags:  [My Views, Life, Philosophy, Renunciation]         
         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5265-What-is-renunciation.jpg        
 author: Hari Thapliyaal        

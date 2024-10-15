@@ -6,7 +6,7 @@ date: "2016-08-20T08:33:00+05:30"
 permalink: /wiaposts/who-is-athiest
 tags: [ 'Atheist']    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5026-Who-Is-Athiest.jpg
 author: Hari Thapliyaal 

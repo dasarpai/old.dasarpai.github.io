@@ -5,7 +5,7 @@ date: "2020-08-12T08:33:00+05:30"
 permalink: /wiaposts/universal-culture
 tags: [ Concepts, Education, 'Indian Culture']    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5134-Universal-Culture.jpg
 author: Hari Thapliyaal 

@@ -6,7 +6,7 @@ date: "2016-03-02T08:33:00+05:30"
 permalink: /wiaposts/about-shoonya-zero
 tags: [ Concepts, Philosophy]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5012-About-Shoonya-Zero.jpg
 author: Hari Thapliyaal 

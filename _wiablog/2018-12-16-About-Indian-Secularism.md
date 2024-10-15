@@ -6,7 +6,7 @@ date: "2018-12-16T08:33:00+05:30"
 permalink: /wiaposts/about-indian-secularism
 tags: [ Concepts, 'Indian Culture']    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5088-About-Indian-Secularism.jpg
 author: Hari Thapliyaal 

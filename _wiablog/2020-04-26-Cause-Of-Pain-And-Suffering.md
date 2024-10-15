@@ -5,7 +5,7 @@ date: "2020-04-26T08:33:00+05:30"
 permalink: /wiaposts/cause-of-pain-and-suffering
 tags: [ Life, Mind, 'My Views', Philosophy]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5124-Cause-Of-Pain-And-Suffering.jpg
 author: Hari Thapliyaal 

@@ -6,7 +6,7 @@ date: "2017-06-24T08:33:00+05:30"
 permalink: /wiaposts/religion-of-humanity
 tags: [ Dharma, 'Ethics & Morality', 'My Views']    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5051-Religion-Of-Humanity.jpg
 author: Hari Thapliyaal 

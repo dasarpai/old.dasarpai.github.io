@@ -5,7 +5,7 @@ date: "2022-04-07T08:33:00+05:30"
 permalink: /wiaposts/light-vs-darkness
 tags: [Concepts, My Views ]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5184-Light-Vs-Darkness.jpg
 author: Hari Thapliyaal 

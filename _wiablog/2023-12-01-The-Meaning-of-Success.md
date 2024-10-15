@@ -5,7 +5,7 @@ date: "2023-12-01T08:33:00+05:30"
 permalink: /wiaposts/The-Meaning-of-Success        
 tags:  [My Views, Life, Philosophy]         
         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5240-The-Meaning-of-Success.jpg        
 author: Hari Thapliyaal        

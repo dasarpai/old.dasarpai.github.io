@@ -5,7 +5,7 @@ date: "2020-05-24T08:33:00+05:30"
 permalink: /wiaposts/thinking-in-human-vs-computers
 tags: [ 'My Views']    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5128-Thinking-In-Human-Vs-Computers.jpg
 author: Hari Thapliyaal 

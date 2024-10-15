@@ -5,7 +5,7 @@ date: "2019-06-09T08:33:00+05:30"
 permalink: /wiaposts/morality-of-killing
 tags: [ 'Ethics and Morality', Philosophy, Poetry]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5099-Morality-Of-Killing.jpg
 author: Hari Thapliyaal 

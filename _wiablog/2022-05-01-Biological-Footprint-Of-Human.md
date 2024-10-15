@@ -5,7 +5,7 @@ date: "2022-05-01T08:33:00+05:30"
 permalink: /wiaposts/biological-footprint-of-human
 tags: [ My Views, Life]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5188-Biological-Footprint-Of-Human.jpg
 author: Hari Thapliyaal 

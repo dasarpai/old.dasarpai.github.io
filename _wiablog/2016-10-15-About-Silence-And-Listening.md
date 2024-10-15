@@ -6,7 +6,7 @@ date: "2016-10-15T08:33:00+05:30"
 permalink: /wiaposts/about-silence-and-listening
 tags: [ Mind, Philosophy]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5031-About-Silence-And-Listening.jpg
 author: Hari Thapliyaal 

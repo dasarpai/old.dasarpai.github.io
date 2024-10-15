@@ -5,7 +5,7 @@ date: "2021-01-24T08:33:00+05:30"
 permalink: /wiaposts/world-around
 tags: [ Concepts, Life, Mind, 'My Views', Maya]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5145-World-Around.jpg
 author: Hari Thapliyaal 

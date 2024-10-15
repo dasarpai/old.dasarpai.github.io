@@ -5,7 +5,7 @@ date: "2021-12-24T08:33:00+05:30"
 permalink: /wiaposts/ideals-in-hinduism
 tags: [ Hinduism, Ethics and Morality]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5176-Ideals-In-Hinduism.jpg
 author: Hari Thapliyaal 

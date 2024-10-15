@@ -5,7 +5,7 @@ date: "2023-08-24T08:33:00+05:30"
 permalink: /wiaposts/The-Purpose-of-Education     
 tags:  [My Views, Life, Philosophy]         
         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5232-The-Purpose-of-Education.jpg        
 author: Hari Thapliyaal        

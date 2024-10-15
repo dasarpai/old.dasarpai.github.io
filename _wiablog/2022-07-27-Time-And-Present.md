@@ -5,7 +5,7 @@ date: "2022-07-27T08:33:00+05:30"
 permalink: /wiaposts/time-and-present
 tags: [Time, Kaala ]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5197-Time-And-Present.jpg
 author: Hari Thapliyaal 

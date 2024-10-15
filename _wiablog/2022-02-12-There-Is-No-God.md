@@ -5,7 +5,7 @@ date: "2022-02-12T08:33:00+05:30"
 permalink: /wiaposts/there-is-no-god
 tags: [My Views, Theist ]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5180-There-Is-No-God.jpg
 author: Hari Thapliyaal 

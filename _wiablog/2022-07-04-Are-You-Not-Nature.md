@@ -5,7 +5,7 @@ date: "2022-07-04T08:33:00+05:30"
 permalink: /wiaposts/are-you-not-nature
 tags: [Life, Nature, Vedanta ]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5192-Are-You-Not-Nature.jpg
 author: Hari Thapliyaal 

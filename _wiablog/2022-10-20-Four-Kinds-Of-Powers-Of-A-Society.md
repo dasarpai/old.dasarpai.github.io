@@ -5,7 +5,7 @@ date: "2022-10-20T08:33:00+05:30"
 permalink: /wiaposts/four-kinds-of-powers-of-a-society
 tags: [Indian Culture ]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5201-Four-Kinds-Of-Powers-Of-A-Society.jpg
 author: Hari Thapliyaal 

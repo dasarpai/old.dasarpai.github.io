@@ -5,7 +5,7 @@ date: "2022-12-19T08:33:00+05:30"
 permalink: /wiaposts/The-Way-of-Learning    
 tags: [Education, My Views]    
     
-categories: [wiablog] 
+categories: [wiaposts] 
 header:    
     teaser: /assets/images/wiapost/5208-The-Way-of-Learning.jpg    
 author: Hari Thapliyaal    

@@ -5,7 +5,7 @@ date: "2022-05-27T08:33:00+05:30"
 permalink: /wiaposts/greeting-and-culture
 tags: [Namaste, My Views, Indian Culture ]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5190-Greeting-And-Culture.jpg
 author: Hari Thapliyaal 

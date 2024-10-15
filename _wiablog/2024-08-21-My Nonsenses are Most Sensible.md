@@ -6,7 +6,7 @@ date: "2024-08-21T08:33:00+05:30"
 permalink: /wiaposts/my-nonsenses-are-most-sensible  
 tags:  [My Views, Life, Philosophy]         
         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5258-My-Nonsenses-are-Most-Sensible.jpg        
 author: Hari Thapliyaal        

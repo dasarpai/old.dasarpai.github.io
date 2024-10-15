@@ -6,7 +6,7 @@ date: "2024-07-12T08:33:00+05:30"
 permalink: /wiaposts/solution-of-inside-problem-is-not-outside     
 tags:  [My Views, Life, Philosophy]         
         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5256-Solution-of-Inside-problem-is-not-outside.jpg        
 author: Hari Thapliyaal        

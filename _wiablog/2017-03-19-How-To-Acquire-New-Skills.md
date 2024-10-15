@@ -6,7 +6,7 @@ date: "2017-03-19T08:33:00+05:30"
 permalink: /wiaposts/how-to-acquire-new-skills
 tags: [ 'My Views', Science]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5043-How-To-Acquire-New-Skills.jpg
 author: Hari Thapliyaal 

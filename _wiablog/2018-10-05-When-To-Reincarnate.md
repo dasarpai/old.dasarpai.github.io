@@ -6,7 +6,7 @@ date: "2018-10-05T08:33:00+05:30"
 permalink: /wiaposts/when-to-reincarnate
 tags: [ Concepts, 'Indian Culture', Philosophy, Poetry]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5081-When-To-Reincarnate.jpg
 author: Hari Thapliyaal 

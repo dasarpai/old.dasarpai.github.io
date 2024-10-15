@@ -6,7 +6,7 @@ date: "2024-05-21T08:33:00+05:30"
 permalink: /wiaposts/the-cause-of-dukkha        
 tags:  [My Views, Life, Philosophy]         
         
-categories: [wiablog] 
+categories: [wiaposts] 
 header:        
     teaser: /assets/images/wiapost/5253-The-Cause-of-Dukkha.jpg        
 author: Hari Thapliyaal        

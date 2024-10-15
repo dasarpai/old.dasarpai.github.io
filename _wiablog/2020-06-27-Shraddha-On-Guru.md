@@ -5,7 +5,7 @@ date: "2020-06-27T08:33:00+05:30"
 permalink: /wiaposts/shraddha-on-guru
 tags: [ Guru, Poetry]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5130-Shraddha-On-Guru.jpg
 author: Hari Thapliyaal 

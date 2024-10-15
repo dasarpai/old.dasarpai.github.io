@@ -5,7 +5,7 @@ date: "2021-03-17T08:33:00+05:30"
 permalink: /wiaposts/vedanta-for-beginners
 tags: [ Vedanta]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5149-Vedanta-For-Beginners.jpg
 author: Hari Thapliyaal 

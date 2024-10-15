@@ -6,7 +6,7 @@ date: "2018-11-05T08:33:00+05:30"
 permalink: /wiaposts/where-is-the-focus-of-hindus
 tags: [ Education, 'Indian Culture', 'My Views']    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5085-Where-Is-The-Focus-Of-Hindus.jpg
 author: Hari Thapliyaal 

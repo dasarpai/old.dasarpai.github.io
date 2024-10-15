@@ -6,7 +6,7 @@ date: "2017-01-19T08:33:00+05:30"
 permalink: /wiaposts/which-metrics-does-really-matter
 tags: [ 'Philosophy for Business', Poetry]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5036-Which-Metrics-Does-Really-Matter.jpg
 author: Hari Thapliyaal 

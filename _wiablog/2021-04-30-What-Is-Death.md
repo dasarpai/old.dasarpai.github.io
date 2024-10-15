@@ -5,7 +5,7 @@ date: "2021-04-30T08:33:00+05:30"
 permalink: /wiaposts/what-is-death
 tags: [ Death, Life, 'Mad Thinking', Philosophy]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5154-What-Is-Death.jpg
 author: Hari Thapliyaal 

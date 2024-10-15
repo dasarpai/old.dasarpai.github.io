@@ -6,7 +6,7 @@ date: '2017-01-01T08:33:00+05:30'
 permalink: /wiaposts/greetings-for-new-year-2017
 tags: [ 'Annual Wishes']
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5007-Greetings-For-New-Year-2017.jpg
 author: Hari Thapliyaal 

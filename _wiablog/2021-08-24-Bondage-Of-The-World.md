@@ -5,7 +5,7 @@ date: "2021-08-24T08:33:00+05:30"
 permalink: /wiaposts/bondage-of-the-world
 tags: [ Life, Karma]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5168-Bondage-Of-The-World.jpg
 author: Hari Thapliyaal 

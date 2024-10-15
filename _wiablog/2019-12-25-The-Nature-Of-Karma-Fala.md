@@ -5,7 +5,7 @@ date: "2019-12-25T08:33:00+05:30"
 permalink: /wiaposts/the-nature-of-karma-fala
 tags: [ Dharma, Philosophy]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5114-The-Nature-Of-Karma-Fala.jpg
 author: Hari Thapliyaal 

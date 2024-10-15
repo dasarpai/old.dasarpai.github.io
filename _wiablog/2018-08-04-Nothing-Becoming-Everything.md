@@ -6,7 +6,7 @@ date: "2018-08-04T08:33:00+05:30"
 permalink: /wiaposts/nothing-becoming-everything
 tags: [ Concepts, 'Indian Culture', Philosophy, Science]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5077-Nothing-Becoming-Everything.jpg
 author: Hari Thapliyaal 

@@ -6,7 +6,7 @@ date: "2017-11-21T08:33:00+05:30"
 permalink: /wiaposts/human-is-rotating-or-travelling
 tags: [ Concepts, Philosophy]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5063-Human-Is-Rotating-Or-Travelling.jpg
 author: Hari Thapliyaal 

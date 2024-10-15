@@ -6,7 +6,7 @@ date: "2016-01-08T08:33:00+05:30"
 permalink: /wiaposts/understanding-the-reality-of-the-world
 tags: [Bhagwat Gita, Philosophy, Maya]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5006-Understanding-The-Reality-Of-The-World.jpg
 author: Hari Thapliyaal 

@@ -6,7 +6,7 @@ date: "2017-01-29T08:33:00+05:30"
 permalink: /wiaposts/who-is-ravana
 tags: [ Dharma, 'Indian Culture', Philosophy]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5037-Who-Is-Ravana.jpg
 author: Hari Thapliyaal 

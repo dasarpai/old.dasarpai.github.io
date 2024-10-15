@@ -6,7 +6,7 @@ date: "2018-08-24T08:33:00+05:30"
 permalink: /wiaposts/happening-human-reasoning
 tags: [ Concepts, Philosophy]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5079-Happening-Human-Reasoning.jpg
 author: Hari Thapliyaal 

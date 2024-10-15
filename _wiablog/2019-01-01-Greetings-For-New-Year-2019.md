@@ -5,7 +5,7 @@ date: '2019-01-01T08:33:00+05:30'
 permalink: /wiaposts/greetings-for-new-year-2019
 tags: [ 'Annual Wishes']
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5008-Greetings-For-New-Year-2019.jpg
 author: Hari Thapliyaal 

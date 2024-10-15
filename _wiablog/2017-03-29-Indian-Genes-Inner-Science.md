@@ -6,7 +6,7 @@ date: "2017-03-29T08:33:00+05:30"
 permalink: /wiaposts/indian-genes-inner-science
 tags: [ 'Indian Culture', Philosophy]    
 
-categories: [wiablog] 
+categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5045-Indian-Genes-Inner-Science.jpg
 author: Hari Thapliyaal 
