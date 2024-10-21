@@ -390,6 +390,11 @@ Using deep learning model on mobile.
 
 -----------------------------------------------------------
 # Management
+- Management-PMO (github repo)
+	1. PM-Templates
+	1. PMO
+- Management-PMIPrep (github repo)
+- Training-Feedbacks (github repo)
 
 ## Management-Main
 
@@ -463,16 +468,6 @@ Using deep learning model on mobile.
 1. PM-RMP
 1. PM-SharePoint
 1. PM-SoftwareSizeEstimation
-
------------------------------------------------------------
-## Management-PMO
-1. PM-Templates
-1. PMO
-
------------------------------------------------------------
-## Management-PMIPrep
-
-## Training-Feedbacks
 
 -----------------------------------------------------------
 # Web+Mobile App Development - POC Work
