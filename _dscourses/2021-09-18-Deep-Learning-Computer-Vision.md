@@ -15,7 +15,7 @@ tags:
   - ML Courses
 
 header:
-  teaser: /assets/images/dspost/dsc304-Deep-Learning-for-Computer-Vision.jpg
+  teaser: /assets/images/dscourses/dsc304-Deep-Learning-for-Computer-Vision.jpg
 
 author_profile: true
 last_modified_at: 2021-09-18T15:46:43-04:00
@@ -23,7 +23,7 @@ mathjax: "true"
 share: true
 ---
 
-![Deep Learning for Computer Vision](/assets/images/dspost/dsc304-Deep-Learning-for-Computer-Vision.jpg)
+![Deep Learning for Computer Vision](/assets/images/dscourses/dsc304-Deep-Learning-for-Computer-Vision.jpg)
 
 **Deep Learning – Computer Vision**
 

@@ -8,7 +8,7 @@ categories:
 tags: [DS Resources, AI Blogs]
 
 header:
-  teaser:  /assets/images/dspost/dsr109-AI-ML-DL-Blogs-Sites.jpg
+  teaser:  /assets/images/dsresources/dsr109-AI-ML-DL-Blogs-Sites.jpg
 
 last_modified_at: 2021-07-02T15:46:43-04:00
 excerpt_separator: "<!--more-->"   
@@ -22,7 +22,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![AI, ML, DL Blogs Sites](/assets/images/dspost/dsr109-AI-ML-DL-Blogs-Sites.jpg)    
+![AI, ML, DL Blogs Sites](/assets/images/dsresources/dsr109-AI-ML-DL-Blogs-Sites.jpg)    
 
 # AI, ML, DL Blogs Sites   
    

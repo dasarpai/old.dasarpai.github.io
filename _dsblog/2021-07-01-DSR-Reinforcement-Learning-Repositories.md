@@ -7,7 +7,7 @@ tags: [DS Resources, Reinforcment Learning, RL Git Repositories]
 categories:
   - dsblog 
 header:
-    teaser:  /assets/images/dspost/dsr101-Reinforcement-Learning-Git-Repositories.jpg
+    teaser:  /assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
@@ -18,7 +18,7 @@ toc: true
 toc_sticky: true 
 mathjax: "true"
 ---
-![Reinforcement Learning Git Repositories](/assets/images/dspost/dsr101-Reinforcement-Learning-Git-Repositories.jpg)    
+![Reinforcement Learning Git Repositories](/assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg)    
    
 # Reinforcement Learning Git Repositories    
    

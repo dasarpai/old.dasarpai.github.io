@@ -8,7 +8,7 @@ categories:
 tags: [DS Resources, Mathematics for Data Scientist]
 
 header:
-  teaser: /assets/images/dspost/dsr106-High-School-Maths-for-Data-Science.jpg
+  teaser: /assets/images/dsresources/dsr106-High-School-Maths-for-Data-Science.jpg
 last_modified_at: 2021-08-28T15:46:43-04:00
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![High School Maths for Data Science](/assets/images/dspost/dsr106-High-School-Maths-for-Data-Science.jpg)   
+![High School Maths for Data Science](/assets/images/dsresources/dsr106-High-School-Maths-for-Data-Science.jpg)   
     
 # High School Maths for Data Science   
    

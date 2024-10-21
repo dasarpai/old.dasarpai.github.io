@@ -15,7 +15,7 @@ tags:
   - ML Courses
 
 header:
-  teaser: /assets/images/dspost/dsc301-Machine-Learning.jpg
+  teaser: /assets/images/dscourses/dsc301-Machine-Learning.jpg
 
 author_profile: true
 last_modified_at: 2021-07-02T15:46:43-04:00
@@ -23,7 +23,7 @@ mathjax: "true"
 share: true
 ---
 
-![Machine Learning Course](/assets/images/dspost/dsc301-Machine-Learning.jpg)
+![Machine Learning Course](/assets/images/dscourses/dsc301-Machine-Learning.jpg)
 
 **Machine Learning Courses**
 

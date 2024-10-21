@@ -15,7 +15,7 @@ tags:
   - ML Courses
 
 header:
-  teaser: /assets/images/dspost/dsc309-Data-Engineering.jpg
+  teaser: /assets/images/dscourses/dsc309-Data-Engineering.jpg
 
 author_profile: true
 last_modified_at: 2021-09-23T15:46:43-04:00
@@ -23,7 +23,7 @@ mathjax: "true"
 share: true
 ---
 
-![Data Engineering](/assets/images/dspost/dsc309-Data-Engineering.jpg)
+![Data Engineering](/assets/images/dscourses/dsc309-Data-Engineering.jpg)
 
 **Data Engineering**
 

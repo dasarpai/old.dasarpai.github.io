@@ -8,7 +8,7 @@ categories:
 tags: [DS Resources, AI Researchers, ML Researchers, NLP Researchers]
 
 header:
-  teaser: /assets/images/dspost/dsr117-Data-Scientists-and-AI-ML-Researchers.jpg
+  teaser: /assets/images/dsresources/dsr117-Data-Scientists-and-AI-ML-Researchers.jpg
 last_modified_at: 2021-06-15T15:46:43-04:00
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Data Scientists and AI, ML Researchers](/assets/images/dspost/dsr117-Data-Scientists-and-AI-ML-Researchers.jpg)   
+![Data Scientists and AI, ML Researchers](/assets/images/dsresources/dsr117-Data-Scientists-and-AI-ML-Researchers.jpg)   
    
 # Data Scientists and AI, ML Researchers   
    

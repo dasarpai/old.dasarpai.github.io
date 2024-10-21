@@ -8,7 +8,7 @@ categories:
   - dsblog
 
 header:
-   teaser: /assets/images/dspost/dsr116-Data-Sources-Databases-ETL-Tools.jpg
+   teaser: /assets/images/dsresources/dsr116-Data-Sources-Databases-ETL-Tools.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
@@ -20,7 +20,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Data Sources, Databases, ETL Tools](/assets/images/dspost/dsr116-Data-Sources-Databases-ETL-Tools.jpg)      
+![Data Sources, Databases, ETL Tools](/assets/images/dsresources/dsr116-Data-Sources-Databases-ETL-Tools.jpg)      
 
 # Navigating the Data Landscape: 
 **Exploring Data Sources, Databases, and ETL Tools for Machine Learning Projects**

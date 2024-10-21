@@ -15,7 +15,7 @@ tags:
   - ML Courses
 
 header:
-  teaser: /assets/images/dspost/dsc303-Natural-Language-Processing.jpg
+  teaser: /assets/images/dscourses/dsc303-Natural-Language-Processing.jpg
 
 author_profile: true
 last_modified_at: 2021-09-17T15:46:43-04:00
@@ -23,7 +23,7 @@ mathjax: "true"
 share: true
 ---
 
-![Natural Language Processing](/assets/images/dspost/dsc303-Natural-Language-Processing.jpg)
+![Natural Language Processing](/assets/images/dscourses/dsc303-Natural-Language-Processing.jpg)
 
 
 **Natural Language Processing (NLP)**

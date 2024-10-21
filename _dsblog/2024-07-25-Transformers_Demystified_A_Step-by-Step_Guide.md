@@ -8,7 +8,7 @@ tags: [NLP, NLU, LLM]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/6113-transformers-demystified-a-step-by-step-guide.jpg
+    teaser: /assets/images/dspost/dsp6113-transformers-demystified-a-step-by-step-guide.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
@@ -20,7 +20,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Transformers Demystified A Step-by-Step Guide](/assets/images/dspost/6113-transformers-demystified-a-step-by-step-guide.jpg)
+![Transformers Demystified A Step-by-Step Guide](/assets/images/dspost/dsp6113-transformers-demystified-a-step-by-step-guide.jpg)
 
 # Transformers Demystified A Step-by-Step Guide
 

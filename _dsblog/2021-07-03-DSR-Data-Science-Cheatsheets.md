@@ -9,7 +9,7 @@ categories:
 tags: [DS Resources, DS Cheatsheet]
 
 header:
-  teaser: /assets/images/dspost/dsr103-Data-Science-Cheatsheets.jpg
+  teaser: /assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Data Science Cheatsheets](/assets/images/dspost/dsr103-Data-Science-Cheatsheets.jpg)   
+![Data Science Cheatsheets](/assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg)   
 
 # Data Science Cheatsheets   
 

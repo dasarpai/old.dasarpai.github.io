@@ -7,7 +7,7 @@ tags: [DS Resources, Data Sources, Databases, ETL Tools]
 categories: 
 
 header:
-   teaser: /assets/images/dspost/dsr116-Data-Sources-Databases-ETL-Tools.jpg
+   teaser: /assets/images/dsresources/dsr116-Data-Sources-Databases-ETL-Tools.jpg
 author: Hari Thapliyaal   
 layout: single   
 excerpt:   
@@ -17,6 +17,6 @@ toc: true
 toc_sticky: true 
 ---
 
-![Data Sources, Databases, ETL Tools](/assets/images/dspost/dsr116-Data-Sources-Databases-ETL-Tools.jpg)      
+![Data Sources, Databases, ETL Tools](/assets/images/dsresources/dsr116-Data-Sources-Databases-ETL-Tools.jpg)      
 
 I am sorry, this page has moved to different location. [Click me to go there](/dsblog/navigating-the-data=landscape)

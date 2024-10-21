@@ -15,7 +15,7 @@ tags:
   - ML Courses
 
 header:
-  teaser: /assets/images/dspost/dsc305-Mathematics-for-Data-Scientist.jpg
+  teaser: /assets/images/dscourses/dsc305-Mathematics-for-Data-Scientist.jpg
 
 author_profile: true
 last_modified_at: 2021-09-19T15:46:43-04:00
@@ -23,7 +23,7 @@ mathjax: "true"
 share: true
 ---
 
-![Mathematics for Data Scientist](/assets/images/dspost/dsc305-Mathematics-for-Data-Scientist.jpg)
+![Mathematics for Data Scientist](/assets/images/dscourses/dsc305-Mathematics-for-Data-Scientist.jpg)
 
 **Mathematical for Data Scientist**
 

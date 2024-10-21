@@ -8,7 +8,7 @@ tags: [NLP, NLU, LLM]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/6114-what-is-unicode-and-how-does-it-works.jpg
+    teaser: /assets/images/dspost/dsp6114-what-is-unicode-and-how-does-it-works.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
@@ -20,7 +20,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![What is Unicode and how does it works?](/assets/images/dspost/6114-what-is-unicode-and-how-does-it-works.jpg)
+![What is Unicode and how does it works?](/assets/images/dspost/dsp6114-what-is-unicode-and-how-does-it-works.jpg)
 
 # What is Unicode and how does it works?
 

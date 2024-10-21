@@ -15,7 +15,7 @@ tags:
   - ML Courses
 
 header:
-  teaser: /assets/images/dspost/dsc311-Explainable-AI.jpg
+  teaser: /assets/images/dscourses/dsc311-Explainable-AI.jpg
 
 author_profile: true
 last_modified_at: 2021-09-25T15:46:43-04:00
@@ -23,7 +23,7 @@ mathjax: "true"
 share: true
 ---
 
-![Explainable AI](/assets/images/dspost/dsc311-Explainable-AI.jpg)
+![Explainable AI](/assets/images/dscourses/dsc311-Explainable-AI.jpg)
 
 **Explainable AI**
 

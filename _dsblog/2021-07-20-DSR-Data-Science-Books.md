@@ -8,7 +8,7 @@ categories:
 tags: [DS Resources, AI, Data Science, Machine Learning, eBook, Data Science Books]
 
 header:
-  teaser: /assets/images/dspost/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg
+  teaser: /assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg
 
 last_modified_at: 2021-07-02T15:46:43-04:00
 excerpt_separator: "<!--more-->"   
@@ -22,7 +22,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![DS, AI, ML, Books Available](/assets/images/dspost/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg)     
+![DS, AI, ML, Books Available](/assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg)     
    
 # Online Data Science, AI, ML Content
 

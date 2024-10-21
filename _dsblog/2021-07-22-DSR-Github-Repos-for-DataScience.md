@@ -7,7 +7,7 @@ categories:
   - dsblog
 tags: [DS Resources, Github Repos] 
 header:
-   teaser: "/assets/images/dspost/dsr122-Github-Repos-to-Learn-DataScience.jpg"
+   teaser: "/assets/images/dsresources/dsr122-Github-Repos-to-Learn-DataScience.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
@@ -18,7 +18,7 @@ toc: true
 toc_sticky: true 
 mathjax: "true"
 ---
-![Github Repos for Data Science](/assets/images/dspost/dsr122-Github-Repos-to-Learn-DataScience.jpg)   
+![Github Repos for Data Science](/assets/images/dsresources/dsr122-Github-Repos-to-Learn-DataScience.jpg)   
    
 # Github-Repos-for-DataScience   
 

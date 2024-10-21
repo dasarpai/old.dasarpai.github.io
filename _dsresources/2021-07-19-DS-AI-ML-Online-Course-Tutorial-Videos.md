@@ -7,7 +7,7 @@ categories:
 tags: [DS Resources, AI, Data Science, Machine Learning, Online Tutorial, Online Video]
 excerpt: #
 header:
-  teaser:  /assets/images/dspost/dsr119-DS-AI-ML-Online-Course-Tutorial-Videos.jpg
+  teaser:  /assets/images/dsresources/dsr119-DS-AI-ML-Online-Course-Tutorial-Videos.jpg
 
 
 author_profile: true
@@ -16,6 +16,6 @@ mathjax: "true"
 share: true
 ---
 
-![DS, AI, ML Online Course, Tutorial, Videos](/assets/images/dspost/dsr119-DS-AI-ML-Online-Course-Tutorial-Videos.jpg)   
+![DS, AI, ML Online Course, Tutorial, Videos](/assets/images/dsresources/dsr119-DS-AI-ML-Online-Course-Tutorial-Videos.jpg)   
 
 I am sorry, this page has moved to different location. [Click me to go there](/dsblog/data-science-tutorial-video-resources)

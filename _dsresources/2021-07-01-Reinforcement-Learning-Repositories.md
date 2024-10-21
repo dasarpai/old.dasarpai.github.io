@@ -7,7 +7,7 @@ tags: [DS Resources, Reinforcment Learning, RL Git Repositories]
 categories: 
 
 header:
-    teaser:  /assets/images/dspost/dsr101-Reinforcement-Learning-Git-Repositories.jpg
+    teaser:  /assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg
 author: Hari Thapliyaal   
 layout: single   
 excerpt:   
@@ -17,6 +17,6 @@ toc: true
 toc_sticky: true 
 ---
 
-![Reinforcement Learning Git Repositories](/assets/images/dspost/dsr101-Reinforcement-Learning-Git-Repositories.jpg)
+![Reinforcement Learning Git Repositories](/assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg)
 
 I am sorry, this page has moved to different location. [Click me to go there](/dsblog/rl-git-repo)

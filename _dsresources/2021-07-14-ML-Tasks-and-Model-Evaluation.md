@@ -6,7 +6,7 @@ date: 2021-07-14
 categories:
 tags: [DS Resources, Model Evaluation, Machine Learning Tasks]
 header:
-  teaser:  /assets/images/dspost/dsr114-ml-tasks-and-model-evaluation.jpg
+  teaser:  /assets/images/dsresources/dsr114-ml-tasks-and-model-evaluation.jpg
 last_modified_at: 2021-06-15T15:46:43-04:00
 author: Hari Thapliyaal   
 layout: single   
@@ -16,7 +16,7 @@ share: true
 toc: true   
 toc_sticky: true 
 ---
-![Deep Learning Tasks and Models](/assets/images/dspost/dsr114-ml-tasks-and-model-evaluation.jpg)    
+![Deep Learning Tasks and Models](/assets/images/dsresources/dsr114-ml-tasks-and-model-evaluation.jpg)    
     
 # Machine Learning Tasks and Model Evaluation    
     

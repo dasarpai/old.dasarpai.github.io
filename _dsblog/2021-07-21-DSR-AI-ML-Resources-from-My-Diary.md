@@ -7,7 +7,7 @@ categories:
   - dsblog
 tags: [DS Resources, AI Diary] 
 header:
-   teaser: "/assets/images/dspost/dsr121-AI-ML-Resources-from-My-Diary.jpg"
+   teaser: "/assets/images/dsresources/dsr121-AI-ML-Resources-from-My-Diary.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
@@ -18,7 +18,7 @@ toc: true
 toc_sticky: true 
 mathjax: "true"
 ---
-![AI ML Resources from My Diary](/assets/images/dspost/dsr121-AI-ML-Resources-from-My-Diary.jpg)   
+![AI ML Resources from My Diary](/assets/images/dsresources/dsr121-AI-ML-Resources-from-My-Diary.jpg)   
    
 # AI ML Resources from My Diary   
    

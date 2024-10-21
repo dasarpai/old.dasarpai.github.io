@@ -7,7 +7,7 @@ tags: [DS Resources, Data Science Datasets]
 categories:
   - dsblog
 header:
-    teaser:  /assets/images/dspost/dsr115-Datasets.jpg  
+    teaser:  /assets/images/dsresources/dsr115-Datasets.jpg  
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
@@ -18,7 +18,7 @@ toc: true
 toc_sticky: true 
 mathjax: "true"
 ---
-![Datasets](/assets/images/dspost/dsr115-Datasets.jpg)    
+![Datasets](/assets/images/dsresources/dsr115-Datasets.jpg)    
    
 # 150+ Machine Learning Datasets   
    

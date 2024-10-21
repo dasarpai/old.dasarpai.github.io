@@ -8,7 +8,7 @@ categories:
 tags: [DS Resources, Daily Tools, Soft Tools, PM Tools, Design Tools, SEO Tools, AI Tools]
 
 header:
-  teaser:  /assets/images/dspost/dsr112-My-Daily-Tools.jpg
+  teaser:  /assets/images/dsresources/dsr112-My-Daily-Tools.jpg
 last_modified_at: 2021-06-15T15:46:43-04:00
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![My Daily Tools](/assets/images/dspost/dsr112-My-Daily-Tools.jpg)
+![My Daily Tools](/assets/images/dsresources/dsr112-My-Daily-Tools.jpg)
    
 # My Daily Tools    
    

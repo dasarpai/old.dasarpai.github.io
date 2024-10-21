@@ -13,7 +13,7 @@ tags:
   - AI Solution Consulting
 
 header:
-  teaser: "/assets/images/dspost/dsc318-AI-Solution-Consulting.jpg"
+  teaser: "/assets/images/dscourses/dsc318-AI-Solution-Consulting.jpg"
 
 author_profile: true
 last_modified_at: 2021-10-02T15:46:43-04:00
@@ -21,4 +21,4 @@ mathjax: "true"
 share: true
 ---
 
-![AI Solution Consulting](/assets/images/dspost/dsc318-AI-Solution-Consulting.jpg)
+![AI Solution Consulting](/assets/images/dscourses/dsc318-AI-Solution-Consulting.jpg)

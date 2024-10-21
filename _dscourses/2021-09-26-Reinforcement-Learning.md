@@ -15,7 +15,7 @@ tags:
   - ML Courses
 
 header:
-  teaser: /assets/images/dspost/dsc312-Reinforcement-Learning.jpg
+  teaser: /assets/images/dscourses/dsc312-Reinforcement-Learning.jpg
 
 author_profile: true
 last_modified_at: 2021-09-26T15:46:43-04:00
@@ -23,7 +23,7 @@ mathjax: "true"
 share: true
 ---
 
-![Reinforcement Learning](/assets/images/dspost/dsc312-Reinforcement-Learning.jpg)
+![Reinforcement Learning](/assets/images/dscourses/dsc312-Reinforcement-Learning.jpg)
 
 **Reinforcement Learning**
 

@@ -8,7 +8,7 @@ categories:
 tags: [DS Resources, AI Interview Questions, Data Science Interview Questions, Machine Learning Interview Questions, Interview Questions]
 
 header:
-  teaser: /assets/images/dspost/dsr102-Data-Science-Interview-Question-Answers.jpg
+  teaser: /assets/images/dsresources/dsr102-Data-Science-Interview-Question-Answers.jpg
 last_modified_at: 2022-09-09T15:46:43-04:00
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
@@ -21,7 +21,7 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-![Data Science Interview Question Answers](/assets/images/dspost/dsr102-Data-Science-Interview-Question-Answers.jpg)     
+![Data Science Interview Question Answers](/assets/images/dsresources/dsr102-Data-Science-Interview-Question-Answers.jpg)     
    
 # Data Science Interview Question Answers   
     

@@ -7,7 +7,7 @@ categories:
 tags: [DS Resources, AI Blogs]
 
 header:
-  teaser:  /assets/images/dspost/dsr109-AI-ML-DL-Blogs-Sites.jpg
+  teaser:  /assets/images/dsresources/dsr109-AI-ML-DL-Blogs-Sites.jpg
 
 
 author_profile: true
@@ -16,6 +16,6 @@ mathjax: "true"
 share: true
 ---
 
-![AI, ML, DL Blogs Sites](/assets/images/dspost/dsr109-AI-ML-DL-Blogs-Sites.jpg)
+![AI, ML, DL Blogs Sites](/assets/images/dsresources/dsr109-AI-ML-DL-Blogs-Sites.jpg)
 
 I am sorry, this page has moved to different location. [Click me to go there](/dsblog/ai-ml-blogs)

@@ -7,7 +7,7 @@ categories:
 tags: [DS Resources, YouTube Channels for Data Scientist, YouTube Channels for AI]
 
 header:
-  teaser:  /assets/images/dspost/dsr107-Best-YouTube-Channels-to-Learn-Data-Science.jpg
+  teaser:  /assets/images/dsresources/dsr107-Best-YouTube-Channels-to-Learn-Data-Science.jpg
 
 layout: single
 author_profile: true
@@ -16,6 +16,6 @@ mathjax: "true"
 share: true
 ---
 
-![Best YouTube Channels to Learn Data Science](/assets/images/dspost/dsr107-Best-YouTube-Channels-to-Learn-Data-Science.jpg)
+![Best YouTube Channels to Learn Data Science](/assets/images/dsresources/dsr107-Best-YouTube-Channels-to-Learn-Data-Science.jpg)
 
 I am sorry, this page has moved to different location. [Click me to go there](/dsblog/best-youtube-channels-for-ds)

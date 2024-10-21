@@ -8,7 +8,7 @@ tags: [NLP, NLU, LLM]
 categories:
   - dsblog
 header:
-    teaser: /assets/images/dspost/6115-why-to-finetune-llm.jpg
+    teaser: /assets/images/dspost/dsp6115-why-to-finetune-llm.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
@@ -21,7 +21,7 @@ mathjax: "true"
 comments: true
 ---
 
-![Why to Finetune LLM?](/assets/images/dspost/6115-why-to-finetune-llm.jpg)
+![Why to Finetune LLM?](/assets/images/dspost/dsp6115-why-to-finetune-llm.jpg)
 
 # Finetuning, Fewshot Learning, Why and How?
 

@@ -7,7 +7,7 @@ categories:
 tags: [DS Resources, Daily Tools, Soft Tools, PM Tools, Design Tools, SEO Tools, AI Tools]
 
 header:
-  teaser:  /assets/images/dspost/dsr112-My-Daily-Tools.jpg
+  teaser:  /assets/images/dsresources/dsr112-My-Daily-Tools.jpg
 
 
 author_profile: true
@@ -16,6 +16,6 @@ mathjax: "true"
 share: true
 ---
 
-![My Daily Tools](/assets/images/dspost/dsr112-My-Daily-Tools.jpg)
+![My Daily Tools](/assets/images/dsresources/dsr112-My-Daily-Tools.jpg)
 
 I am sorry, this page has moved to different location. [Click me to go there](/dsblog/my-daily-tools)

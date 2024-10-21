@@ -7,7 +7,7 @@ categories:
 tags: [DS Resources, AI, Data Science, Machine Learning, eBook, Data Science Books]
 
 header:
-  teaser: /assets/images/dspost/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg
+  teaser: /assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg
 
 
 author_profile: true
@@ -16,6 +16,6 @@ mathjax: "true"
 share: true
 ---
 
-![DS, AI, ML, Books Available](/assets/images/dspost/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg)   
+![DS, AI, ML, Books Available](/assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg)   
 
 I am sorry, this page has moved to different location. [Click me to go there](/dsblog/ds-ai-ml-books)

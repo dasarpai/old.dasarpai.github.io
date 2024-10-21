@@ -15,7 +15,7 @@ tags:
   - ML Courses
 
 header:
-  teaser: /assets/images/dspost/dsc307-Pandas-for-Data-Science.jpg
+  teaser: /assets/images/dscourses/dsc307-Pandas-for-Data-Science.jpg
 
 author_profile: true
 last_modified_at: 2021-09-21T15:46:43-04:00
@@ -23,7 +23,7 @@ mathjax: "true"
 share: true
 ---
 
-![Pandas for Data Science](/assets/images/dspost/dsc307-Pandas-for-Data-Science.jpg)
+![Pandas for Data Science](/assets/images/dscourses/dsc307-Pandas-for-Data-Science.jpg)
 
 **Pandas for Data Science**
 
