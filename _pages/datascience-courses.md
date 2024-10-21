@@ -2,7 +2,7 @@
 id: 704    
 title: "Courses on Data Science, AI, ML, Deep Learning, NLP"
 layout: collection
-permalink: /datascience-courses
+permalink: /dscourses
 collection: dscourses
 entries_layout: grid
 author_profile: false

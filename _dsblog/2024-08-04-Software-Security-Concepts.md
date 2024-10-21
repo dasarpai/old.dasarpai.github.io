@@ -25,6 +25,16 @@ comments: true
 
 # Software Security Concepts
 
+As of today, this article is answering following questions related to software security. In future, I will add more concepts here.
+
+
+- What are the major ideas which we need to understand while creating security architecture of any app?
+- What is the difference between authentication and authorization?
+- What is OAuth?
+- Can you share popular Compliance and Regulatory Requirements around various industries?
+
+
+
 ## What are the major ideas which we need to understand while creating security architecture of any app?
 The security architecture of an application encompasses various concepts and strategies designed to protect the application's data, resources, and services from threats. Here are the main ideas and concepts typically involved:
 

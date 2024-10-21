@@ -16,7 +16,7 @@ sidebar:
 
 # I conduct these courses for Individuals and Corporates
 
-## DATA SCIENCE COURSES & CONSULTING
+## [DATA SCIENCE COURSES & CONSULTING](/datascience-courses)
 ### AI Modeling Courses
 * [Machine Learning](/dscourses/machine-learning)
 * [Machine Learning for Timeseries](/dscourses/machine-learning-for-timeseries)
@@ -42,7 +42,7 @@ sidebar:
 * [AI Solution Consulting](/dscourses/ai-solution-consulting)
 * [Data Consulting](/dscourses/data-consulting)
 	
-## MANAGEMENT COURSES & CONSULTING
+## [MANAGEMENT COURSES & CONSULTING](/management/)
 
 ### Customized PM Courses
 * [Customized Project Management Courses](/management/customized-pm)
