@@ -21,8 +21,7 @@ toc_levels: 2
 mathjax: "true"
 comments: true
 keywords: ["HTML", "Templating", "Python", "Ruby", "PHP"]
-sidebar:
-  nav: "docs" 
+
 ---
 
 ![Understanding HTML Templating with Python, Ruby, and PHP](/assets/images/dspost/dsp6164-Understanding-HTML-Templating-with-Python-Ruby-PHP.jpg)

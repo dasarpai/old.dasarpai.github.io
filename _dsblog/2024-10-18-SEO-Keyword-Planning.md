@@ -21,8 +21,7 @@ toc_levels: 2
 mathjax: "true"
 comments: true
 keywords: ["SEO", "Keyword Planning", "Search Engine Optimization"]
-sidebar:
-  nav: "docs" 
+
 ---
 
 ![SEO Keyword Planning](/assets/images/dspost/dsp6165-SEO-Keyword-Planning.jpg)

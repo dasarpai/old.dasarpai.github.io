@@ -21,8 +21,7 @@ toc_levels: 2
 mathjax: "true"
 comments: true
 keywords: ["Jekyll", "Static Site Generator", "Templating Language", "Liquid", "Collections", "Front Matter"]
-sidebar:
-  nav: "docs" 
+
 ---
 
 ![Understanding Jekyll Framework](/assets/images/dspost/dsp6168-Understanding-Jekyll-Framework.jpg)

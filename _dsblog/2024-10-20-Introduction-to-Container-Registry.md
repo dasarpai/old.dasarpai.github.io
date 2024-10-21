@@ -21,8 +21,7 @@ toc_levels: 2
 mathjax: "true"
 comments: true
 keywords: ["Kubernetes", "Docker", "container orchestration", "container management", "CI/CD", "scaling containers", "load balancing", "self-healing containers", "Kubernetes vs Docker", "container clusters", "Kubernetes features", "persistent storage"]
-sidebar:
-  nav: "docs" 
+
 ---
 
 ![Introduction to Container Registry](/assets/images/dspost/dsp6167-Introduction-to-Container-Registry.jpg)
