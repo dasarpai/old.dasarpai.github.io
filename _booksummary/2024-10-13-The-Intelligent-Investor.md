@@ -3,7 +3,7 @@ id: 7527
   
 title:  "Book Summary: The Intelligent Investor"       
 
-date: "2024-08-24T08:33:00+05:30"    
+date: "2024-10-13T08:33:00+05:30"    
 permalink: /booksummary/The-Intelligent-Investor     
 tags:  [Book Summary, Economics]     
     

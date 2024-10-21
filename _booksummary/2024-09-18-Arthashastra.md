@@ -3,7 +3,7 @@ id: 7522
   
 title:  "Book Summary: Arthashastra of Kautilya"       
 
-date: "2024-08-24T08:33:00+05:30"    
+date: "2024-09-18T08:33:00+05:30"    
 permalink: /booksummary/Arthashastra-of-Kautilya     
 tags:  [Book Summary, Economics]     
     

@@ -3,7 +3,7 @@ id: 7528
   
 title:  "Book Summary: The Wealth of Nations"       
 
-date: "2024-08-24T08:33:00+05:30"    
+date: "2024-10-14T08:33:00+05:30"    
 permalink: /booksummary/The-Wealth-of-Nations     
 tags:  [Book Summary, Economics]     
     

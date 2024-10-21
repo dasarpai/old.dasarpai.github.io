@@ -3,7 +3,7 @@ id: 7523
   
 title:  "Book Summary: Das Kapital"       
 
-date: "2024-08-24T08:33:00+05:30"    
+date: "2024-09-19T08:33:00+05:30"    
 permalink: /booksummary/Das-Kapital     
 tags:  [Book Summary, Economics]     
     

@@ -1,10 +1,9 @@
-
 ---    
 id: 7525    
   
 title:  "Book Summary: God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning"       
 
-date: "2024-08-24T08:33:00+05:30"    
+date: "2024-10-11T08:33:00+05:30"    
 permalink: /booksummary/God-Human-Animal-Machine     
 tags:  [Book Summary, Science, Spirituality]     
     

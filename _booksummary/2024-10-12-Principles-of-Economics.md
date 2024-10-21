@@ -3,7 +3,7 @@ id: 7526
   
 title:  "Book Summary: Principles of Economics"       
 
-date: "2024-08-24T08:33:00+05:30"    
+date: "2024-10-12T08:33:00+05:30"    
 permalink: /booksummary/Principles-of-Economics     
 tags:  [Book Summary, Economics]     
     

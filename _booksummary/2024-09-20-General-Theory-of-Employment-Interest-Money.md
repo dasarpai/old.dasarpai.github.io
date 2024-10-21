@@ -3,7 +3,7 @@ id: 7524
   
 title:  "Book Summary: General Theory of Employment, Interest and Money"       
 
-date: "2024-08-24T08:33:00+05:30"    
+date: "2024-09-20T08:33:00+05:30"    
 permalink: /booksummary/General-Theory-of-Employment-Interest-Money     
 tags:  [Book Summary, Economics]     
     
