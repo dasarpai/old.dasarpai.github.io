@@ -221,6 +221,12 @@ Activities (Pipeline) in project:
 
 ### GCP 
 
+For all the POC used gemini-1.5-flash
+- [OCRization, Video Transcription, Audio Transcription, Image Description](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/gcp-vision)
+- [Gemini Prompt Gallery, Task which can be done with Gaemini-1.5-flash](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/geminigenai)
+- [Story Generation with JavaScript](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/geminigenai/story-generation-js-code) 
+- [Story Generation with Python](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/geminigenai/story-generation-python-code)
+
 -----------------------------------------------------------
 ##  <font color=green> CV</font>
 
