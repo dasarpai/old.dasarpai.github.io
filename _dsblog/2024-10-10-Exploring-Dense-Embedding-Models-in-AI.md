@@ -2,7 +2,7 @@
 mathjax: true
 id: 6157
 title: "Exploring Dense Embedding Models in AI"
-date: 2024-10-04
+date: 2024-10-10
 permalink: /dsblog/Exploring-Dense-Embedding-Models-in-AI
 tags: [LLM Embeddings, LLM, Embeddings]
 categories:

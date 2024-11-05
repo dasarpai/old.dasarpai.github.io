@@ -1,3 +1,29 @@
+---
+mathjax: true
+id: 6178
+title: "Navigating Python Ecosystem"
+date: 2024-11-01
+permalink: /dsblog/Navigating-Python-Ecosystem 
+tags: ["Web Development", "Web Servers", "HTML", "CSS", "Java Script", "Type Script"]
+categories:
+  - dsblog
+header:
+    teaser: /assets/images/dspost/dsp6178-Navigating-Python-Ecosystem.jpg
+excerpt_separator: "<!--more-->"   
+author: Hari Thapliyaal   
+layout: dspost-layout   
+excerpt:   
+author_profile: true   
+share: true   
+toc: true   
+toc_sticky: true 
+toc_levels: 3
+mathjax: "true"
+comments: true
+---
+
+![Navigating Python Ecosystem](/assets/images/dspost/dsp6178-Navigating-Python-Ecosystem.jpg)
+
 # Navigating Python Ecosystem 
 
 ## 1. **History of Python Development**

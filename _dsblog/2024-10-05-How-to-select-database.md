@@ -2,7 +2,7 @@
 mathjax: true
 id: 6154
 title: "Selecting Database for Project"
-date: 2024-10-04
+date: 2024-10-05
 permalink: /dsblog/Selecting-Database-for-Project
 tags: [Bigdata, Hive, SQL]
 categories:

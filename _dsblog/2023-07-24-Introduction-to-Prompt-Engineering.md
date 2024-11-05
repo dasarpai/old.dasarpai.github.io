@@ -35,7 +35,10 @@ Mouse
 Snail
 ```
 ## Example 2 (completion input)
+You can write a prompt like
+```
 Some strategies to overcome writer's block include
+```
 
 ## Example 3 (Restrict boundaries)
 Give information to the model, or restrict the boundaries of the responses
@@ -90,6 +93,7 @@ computers are still largely experimental and impractical.
   
 Summarize this text.
 Write the summary so that a fifth grader can understand it.
+
 Text: A quantum computer exploits quantum mechanical phenomena to perform
 calculations exponentially faster than any modern traditional computer. At very
 tiny scales, physical matter acts as both particles and as waves, and quantum
@@ -179,7 +183,7 @@ Output:
 Create an outline for an essay about hummingbirds.
 ```
 
-- Example 11a:
+### Example 11a:
 ```
 Create an outline for an essay about hummingbirds.
 I. Introduction
@@ -188,7 +192,8 @@ I. Introduction
 
 ## Example 12: Add contextual information
 ```
-What should I do to fix my disconnected wifi? The light on my Google Wifi router is yellow and blinking slowly.
+What should I do to fix my disconnected wifi? 
+The light on my Google Wifi router is yellow and blinking slowly.
 ```
 
 ## Example 13- Add contextual info.

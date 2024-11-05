@@ -2,7 +2,7 @@
 mathjax: true
 id: 6156
 title: "Introduction to Perplexity AI"
-date: 2024-10-04
+date: 2024-10-08
 permalink: /dsblog/Introduction-to-Perplexity-AI
 tags: [LLM, AI, Chatbot, Search Engine]
 categories:

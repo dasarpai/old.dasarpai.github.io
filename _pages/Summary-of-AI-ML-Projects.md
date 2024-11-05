@@ -363,6 +363,7 @@ Using deep learning model on mobile.
 ## <font color=green>GFPGAN</font>
  
 ## <font color=green>google-gemini-cookbook</font>
+
  
 ## <font color=green>intel-scikit-learn-intelex</font>
  
