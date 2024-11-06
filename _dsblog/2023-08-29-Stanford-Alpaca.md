@@ -25,19 +25,8 @@ comments: true
 
 # Stanford Alpaca
 
-
-## Highlevel Actitivies done by Stanford Alpaca team and Project Output
-
-1. **Data Generation**: The team used OpenAI's GPT-3.5 model to generate a dataset of 52,000 instruction-response pairs. They did this by providing GPT-3.5 with a variety of instructions and asking it to produce corresponding responses.
-
-2. **Fine-Tuning**: They used this generated dataset to fine-tune Meta's LLaMA model, making it better at following instructions.
-
-3. **Evaluation**: The fine-tuned Alpaca model was then evaluated for its ability to follow instructions effectively, comparing its performance to more advanced models.
-
-**Output**: The project resulted in a fine-tuned version of the LLaMA model, called Alpaca, which is smaller, more efficient, and capable of following instructions well.
-
 ## Introduction
-[Github Report](https://github.com/tatsu-lab/stanford_alpaca)
+[Stanford Alpaca Github Report](https://github.com/tatsu-lab/stanford_alpaca)
 
 - Stanford Alpaca is An "Instruction-following" LLaMA Model
 - This is the repo aims to build and share an instruction-following LLaMA model. The repo contains:
@@ -60,13 +49,19 @@ comments: true
 - Data Release
 	- alpaca_data.json contains 52K instruction-following data we used for fine-tuning the Alpaca model. This JSON file is a list of dictionaries, each dictionary contains the following fields: Instruction, input, output (text-davinci-003 geneated answer).
 
+## Highlevel Activities of the Alpaca Project 
+Highlevel Actitivies done by Stanford Alpaca team and Project Output
+
+1. **Data Generation**: The team used OpenAI's GPT-3.5 model to generate a dataset of 52,000 instruction-response pairs. They did this by providing GPT-3.5 with a variety of instructions and asking it to produce corresponding responses.
+
+2. **Fine-Tuning**: They used this generated dataset to fine-tune Meta's LLaMA model, making it better at following instructions.
+
+3. **Evaluation**: The fine-tuned Alpaca model was then evaluated for its ability to follow instructions effectively, comparing its performance to more advanced models.
+
+**Output**: The project resulted in a fine-tuned version of the LLaMA model, called Alpaca, which is smaller, more efficient, and capable of following instructions well.
+
 ## Capablitities
 This model can perform following tasks.
-
-![Stanford-Alpaca](/assets/images/dspost/dsp6116-Stanford-Alpaca.jpg)
-
-# Stanford Alpaca
-
 
 ## Data Generation
 
@@ -96,7 +91,7 @@ Created a fine-tuned model using standard Hugging Face training code. fine-tuned
 - Weight decay	0	0
 ```
 
-### Dependency and LLaMa Installation
+### Fine-tuning Dependency and LLaMa Installation
 
 To reproduce fine-tuned model, first install the requirements
 
