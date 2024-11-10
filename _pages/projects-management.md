@@ -1,5 +1,5 @@
 ---
-id: 748
+id: 750
 title: "Summary of Management Project"
 layout: single
 toc_sticky: true

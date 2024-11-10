@@ -38,50 +38,6 @@ li {
 }
 </style>
 
-### A - Analysis
-- Black Friday Sales Data Analysis Prediction
-	- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/eCommerce/Black-friday-sales/black_friday_sales_prediction.ipynb)
-	- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/eCommerce/Black-friday-sales)
-	- [Dataset](https://raw.githubusercontent.com/dasarpai/DAI-Datasets/main/Black-Friday-Sales/black-friday-sales.zip)
-	- [Black Friday Sales Data Analysis Prediction - Kaggle](https://www.kaggle.com/code/harithapliyal/black-friday-sales-prediction)
-	- **About Dataset:** This dataset comprises of sales transactions captured at a retail store. It’s a classic dataset which has multiple shopping experiences. This is a regression problem. The dataset has 550,069 rows and 12 columns.
-- HR Analysis of Employee Attrition & Performance
-	- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/HR/Employee-Attrition/Attrition_in_an_Organization_Python.ipynb)
-	- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/HR/Employee-Attrition)
-	- [HR Analysis of Employee Attrition & Performance - R](https://www.kaggle.com/code/harithapliyal/attrition-in-an-organization-why-employees-quit)
-	- [HR Analysis of Employee Attrition & Performance - Python](https://www.kaggle.com/code/harithapliyal/attrition-in-an-organization-python)
-	- [Github dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/WA_Fn-UseC_-HR-Employee-Attrition.csv)
-	- [Kaggle dataset]()
-	- **Objective:** Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.
-- Acea Smart Water Analytics & Prediction
-	- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Climate/Acea-Water-Prediction/acea-smart-water-full-eda-prediction.ipynb)
-	- [Acea Water Prediction & Analysis - Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Climate/Acea-Water-Prediction)
-	- [Acea Water Prediction & Analysis - Kaggle](https://www.kaggle.com/code/harithapliyal/acea-smart-water-full-eda-prediction)
-	- [Kaggle Dataset](https://www.kaggle.com/competitions/acea-water-prediction)
-	- [Github Dataset]()
-	- **Objective**
-		- The Acea Group deals with four different type of waterbodies: water spring (for which three datasets are provided), lake (for which a dataset is provided), river (for which a dataset is provided) and aquifers (for which four datasets are provided).
-		- This competition uses nine different datasets, completely independent and not linked to each other. Each dataset can represent a different kind of waterbody. As each waterbody is different from the other, the related features as well are different from each other.
-		- It is of the utmost importance to notice that some features like rainfall and temperature, which are present in each dataset, don’t go alongside the date. Indeed, both rainfall and temperature affect features like level, flow, depth to groundwater and hydrometry some time after it fell down. This means, for instance, that rain fell on 1st January doesn’t affect the mentioned features right the same day but some time later. As we don’t know how many days/weeks/months later rainfall affects these features, this is another aspect to keep into consideration when analyzing the dataset.
-- Liver Patient Analysis
-	- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/Liver_Patient/Liver_Patient_Analysis.ipynb)
-	- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Liver_Patient)
-	- [Liver Patient Analysis - Kaggle](https://www.kaggle.com/code/harithapliyal/liver-patient-analysis)
-	- [Githug Dataset]()
-	- [Kaggle Dataset]()
-- Zomato Review 
-	- [Zomato Review - Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Hospitality/Zomata_Reviews_Sentiments)
-	- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Hospitality/Zomata_Reviews_Sentiments/sentiment-analysis-nlp-huggingface.ipynb)
-	- [Github Dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/zomato_reviews.csv)
-- Industrial Accident Cause Analysis 
-	- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Industrialsafety/accident-cause-analysis/industrial_accident_causal_analysis.ipynb)
-	- [Github](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Industrialsafety/accident-cause-analysis)
-	- [Kaggle Dataset](https://www.kaggle.com/datasets/ihmstefanini/industrial-safety-and-health-analytics-database)
-	- [Github Dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/Industrial-Safety-and-Health-Analytics.zip)
-- OSHA Accidents and Injury
-	- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Industrialsafety/OSHA_accidents)
-	- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Industrialsafety/OSHA_accidents/osha_accidents_and_injury.ipynb)
-	- [Kaggle Dataset](https://www.kaggle.com/datasets/ruqaiyaship/osha-accident-and-injury-data-1517)	
 	
 ### B - Machine Learning
 - Analysis and Forest Fire Area Prediction
