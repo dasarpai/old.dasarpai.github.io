@@ -69,17 +69,21 @@ li {
 	- [Liver Patient Analysis - Kaggle](https://www.kaggle.com/code/harithapliyal/liver-patient-analysis)
 	- [Githug Dataset]()
 	- [Kaggle Dataset]()
-- [Zomato Review System](https://github.com/dasarpai/DAI-Projects/tree/main/Hospitality/Zomata_Reviews_Sentiments)
+- Zomato Review 
+	- [Zomato Review - Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Hospitality/Zomata_Reviews_Sentiments)
+	- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Hospitality/Zomata_Reviews_Sentiments/sentiment-analysis-nlp-huggingface.ipynb)
+	- [Github Dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/zomato_reviews.csv)
 - Industrial Accident Cause Analysis 
 	- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Industrialsafety/accident-cause-analysis/industrial_accident_causal_analysis.ipynb)
 	- [Github](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Industrialsafety/accident-cause-analysis)
 	- [Kaggle Dataset](https://www.kaggle.com/datasets/ihmstefanini/industrial-safety-and-health-analytics-database)
 	- [Github Dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/Industrial-Safety-and-Health-Analytics.zip)
-	
+- OSHA Accidents and Injury
+	- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Industrialsafety/OSHA_accidents)
+	- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Industrialsafety/OSHA_accidents/osha_accidents_and_injury.ipynb)
+	- [Kaggle Dataset](https://www.kaggle.com/datasets/ruqaiyaship/osha-accident-and-injury-data-1517)	
 	
 ### B - Machine Learning
-- Analysis and Prediction of Industrial Accidents
-- Analysis and prediction of occupational accidents
 - Analysis and Forest Fire Area Prediction
 - Analysis and Sentiment Prediction of Airline reviews
 - Construction Site Accident Analysis & Prediction using Text Data
