@@ -25,9 +25,7 @@ sidebar:
 # AI/ML - Industries - Developed/ Created/ Expanded work
 **Projects in this section are listed according to Industry/Business Domain.**
 
-## <font color=green>Agri</font>
 
------------------------------------------------------------
 ## <font color=green>Airlines</font>
 
 ### Flightdelay-Analysis-Bigdata
@@ -94,7 +92,7 @@ Activities (Pipeline) in project:
 -----------------------------------------------------------
 ## <font color=green>eCommerce</font>
 
-## Black Friday Sales Data Analysis Prediction
+### Black Friday Sales Data Analysis Prediction
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/eCommerce/Black-friday-sales/black_friday_sales_prediction.ipynb)
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/eCommerce/Black-friday-sales)
 - [Dataset](https://raw.githubusercontent.com/dasarpai/DAI-Datasets/main/Black-Friday-Sales/black-friday-sales.zip)
@@ -110,57 +108,80 @@ Activities (Pipeline) in project:
 
 
 ### Economy-Analysis
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Economics/Economy-Analysis)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Economics/Economy-Analysis/GDP-Assignment.ipynb)
+
+
 
 ### Prosperity-Clustering
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Economics/Prosperity-Clustering)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Economics/Prosperity-Clustering/Clustering%26PCA-Assignment.ipynb)
 
------------------------------------------------------------
-## <font color=green>Education</font>
+
 
 ## <font color=green>Electronics</font>
-
-### Hand-Gesture-Recognition
+### Hand Gesture Recognition 
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Electronics/Hand-Gesture-Recognition)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Electronics/Hand-Gesture-Recognition/gesture-recognition-conv3d-conv2d-rnn.ipynb)
 
 -----------------------------------------------------------
 ## <font color=green>Energy</font>
 
 ### UK-Energy-Consumption
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/blob/main/Energy/UK-Energy-Consumption)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Energy/UK-Energy-Consumption/UK_Energy_Consumption_by_PostCode.ipynb)
 
 -----------------------------------------------------------
 ## <font color=green>Entertaintment</font>
 
 ### Movies-Recommendations
-
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Entertaintment/Movies-Recommendations)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Entertaintment/Movies-Recommendations/movies_recommender.ipynb)
 -----------------------------------------------------------
 ## <font color=green>Health</font>
 
 ### Liver Patient Analysis
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/Liver_Patient/Liver_Patient_Analysis.ipynb)
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Liver_Patient)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/Liver_Patient/Liver_Patient_Analysis.ipynb)
 - [Liver Patient Analysis - Kaggle](https://www.kaggle.com/code/harithapliyal/liver-patient-analysis)
 - [Githug Dataset]()
 - [Kaggle Dataset]()
 
 ### Breast-Cancer-Prediction
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Breast-Cancer-Prediction)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/Breast-Cancer-Prediction/BreastCancer2.ipynb)
 
 ### Chest-XRay
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### Covid-worldwide-EDA
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### India-Covid-Graphs
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### Malaria-Detection_dep
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### pnemonia_prediction
-
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 ----------------------------------------------------------
 ## Industrial Safety
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### Industrial Accident Cause Analysis 
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Industrialsafety/accident-cause-analysis/industrial_accident_causal_analysis.ipynb)
 - [Github](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Industrialsafety/accident-cause-analysis)
 - [Kaggle Dataset](https://www.kaggle.com/datasets/ihmstefanini/industrial-safety-and-health-analytics-database)
 - [Github Dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/Industrial-Safety-and-Health-Analytics.zip)
-- OSHA Accidents and Injury
+
+#### OSHA Accidents and Injury
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Industrialsafety/OSHA_accidents)
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Industrialsafety/OSHA_accidents/osha_accidents_and_injury.ipynb)
 - [Kaggle Dataset](https://www.kaggle.com/datasets/ruqaiyaship/osha-accident-and-injury-data-1517)	
@@ -174,93 +195,153 @@ Activities (Pipeline) in project:
 - [Github Dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/zomato_reviews.csv)
 
 ### Restaurant_Sales_Order_Forcasting
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 -----------------------------------------------------------
 ## <font color=green>Infra</font>
 
 ### AirQuality-Prediction
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### House-Price-Prediction_dep
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### House-Price-Prediction_Docker
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### House-Prices-KCH
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### Surprise-House-Pricing
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
------------------------------------------------------------
-## <font color=green>Law+Justice</font>
 
 -----------------------------------------------------------
 ## <font color=green>Media+Pub</font>
 
 ### Fakenews-Detection
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### Olympic-QA-System-with-GPT
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### HBQAS
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### NewsClassification-20Groups
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### Podcast-Transcription
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### SDSHL
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### SpamFilter
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### Toxic-Comment
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### Twitter-Sentiment-Analysis
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### YELP-Review-Prediction
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
------------------------------------------------------------
-## <font color=green>Misc</font>
 
 -----------------------------------------------------------
 ## <font color=green>Restaurants</font>
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### FoodDemand-Forcast
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### Tools-and-Food-Gradient-Identifcation
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 -----------------------------------------------------------
 ## <font color=green>Retail</font>
 
 ### Online-Retail-Customer-Clustering
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 -----------------------------------------------------------
 ## <font color=green>Sales</font>
 
 ### CarPrice
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### CarSales
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### Lead-Conversion
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 -----------------------------------------------------------
-## <font color=green>Sanskrit</font>
 
------------------------------------------------------------
 ## <font color=green>Telecom</font>
 
 ### Telcom-Churn
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 -----------------------------------------------------------
 ## <font color=green>Travel+Logistic</font>
 
 ### Bigdata-pySpark-NYC-Parking
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### Driver-Availablity-Prediction
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### Uber-Cancellation
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### Vehicle-Classification
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### Vehicle-Tracking
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 -----------------------------------------------------------
-
+## <font color=green>Agri</font>
+-----------------------------------------------------------
+## <font color=green>Education</font>
+-----------------------------------------------------------
+## <font color=green>Law+Justice</font>
+-----------------------------------------------------------
+## <font color=green>Sanskrit</font>
+-----------------------------------------------------------
+## <font color=green>Misc</font>
 -----------------------------------------------------------
 # AI/ML - Forked
 ## <font color=green>100Days-ML</font>
@@ -310,14 +391,4 @@ Activities (Pipeline) in project:
  
 ## <font color=green>viz-github-repo</font>
 
------------------------------------------------------------
 
-
------------------------------------------------------------
-# Web+Mobile App Development - POC Work
-1. Android
-1. Falcon_Android
-1. ImageRecognition
-1. Java
-1. nodejs
-1. react

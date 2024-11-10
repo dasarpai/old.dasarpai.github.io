@@ -189,3 +189,11 @@ Using deep learning model on mobile.
 
 ##  <font color=green> Utils-JypterNB</font>
 
+-----------------------------------------------------------
+# Web+Mobile App Development - POC Work
+1. Android
+1. Falcon_Android
+1. ImageRecognition
+1. Java
+1. nodejs
+1. react
