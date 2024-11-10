@@ -41,7 +41,7 @@ Activities (Pipeline) in project:
 
 **Important Notes**    
 - [My article on Hive](dsblog/Exploring-Apache-Hive)  
-- [Github Code](https://github.com/dasarpai/DAI-Projects/tree/main/Airlines/Flightdelay-Analysis-Bigdata)
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Airlines/Flightdelay-Analysis-Bigdata)
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Airlines/Flightdelay-Analysis-Bigdata/Flight_Delay_EDA.ipynb)
 - [Kaggle Dataset - 247.96 MB](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses)
 
@@ -68,8 +68,8 @@ Activities (Pipeline) in project:
 ----------------------------------------------------------
 ## HR (Human Resources)
 ### HR Analysis of Employee Attrition & Performance
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/HR/Employee-Attrition/Attrition_in_an_Organization_Python.ipynb)
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/HR/Employee-Attrition)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/HR/Employee-Attrition/Attrition_in_an_Organization_Python.ipynb)
 - [HR Analysis of Employee Attrition & Performance - R](https://www.kaggle.com/code/harithapliyal/attrition-in-an-organization-why-employees-quit)
 - [HR Analysis of Employee Attrition & Performance - Python](https://www.kaggle.com/code/harithapliyal/attrition-in-an-organization-python)
 - [Github dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/WA_Fn-UseC_-HR-Employee-Attrition.csv)
@@ -79,8 +79,8 @@ Activities (Pipeline) in project:
 ----------------------------------------------------------
 ## Climate
 ### Acea Smart Water Analytics & Prediction
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Climate/Acea-Water-Prediction)
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Climate/Acea-Water-Prediction/acea-smart-water-full-eda-prediction.ipynb)
-- [Acea Water Prediction & Analysis - Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Climate/Acea-Water-Prediction)
 - [Acea Water Prediction & Analysis - Kaggle](https://www.kaggle.com/code/harithapliyal/acea-smart-water-full-eda-prediction)
 - [Kaggle Dataset](https://www.kaggle.com/competitions/acea-water-prediction)
 - [Github Dataset]()
@@ -93,15 +93,19 @@ Activities (Pipeline) in project:
 ## <font color=green>eCommerce</font>
 
 ### Black Friday Sales Data Analysis Prediction
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/eCommerce/Black-friday-sales/black_friday_sales_prediction.ipynb)
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/eCommerce/Black-friday-sales)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/eCommerce/Black-friday-sales/black_friday_sales_prediction.ipynb)
 - [Dataset](https://raw.githubusercontent.com/dasarpai/DAI-Datasets/main/Black-Friday-Sales/black-friday-sales.zip)
 - [Black Friday Sales Data Analysis Prediction - Kaggle](https://www.kaggle.com/code/harithapliyal/black-friday-sales-prediction)
 - **About Dataset:** This dataset comprises of sales transactions captured at a retail store. It’s a classic dataset which has multiple shopping experiences. This is a regression problem. The dataset has 550,069 rows and 12 columns.
 
 ### Amazon-Sentiment Analysis
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### Bigdata-AmazonReviews
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 -----------------------------------------------------------
 ## <font color=green>Economics</font>
@@ -117,7 +121,7 @@ Activities (Pipeline) in project:
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Economics/Prosperity-Clustering)
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Economics/Prosperity-Clustering/Clustering%26PCA-Assignment.ipynb)
 
-
+----------------------------------------------------------
 
 ## <font color=green>Electronics</font>
 ### Hand Gesture Recognition 
@@ -137,7 +141,9 @@ Activities (Pipeline) in project:
 ### Movies-Recommendations
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Entertaintment/Movies-Recommendations)
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Entertaintment/Movies-Recommendations/movies_recommender.ipynb)
+
 -----------------------------------------------------------
+
 ## <font color=green>Health</font>
 
 ### Liver Patient Analysis
@@ -171,13 +177,12 @@ Activities (Pipeline) in project:
 - [Github Repo]()
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 ----------------------------------------------------------
+
 ## Industrial Safety
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### Industrial Accident Cause Analysis 
+- [Github Repo](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Industrialsafety/accident-cause-analysis)
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Industrialsafety/accident-cause-analysis/industrial_accident_causal_analysis.ipynb)
-- [Github](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Industrialsafety/accident-cause-analysis)
 - [Kaggle Dataset](https://www.kaggle.com/datasets/ihmstefanini/industrial-safety-and-health-analytics-database)
 - [Github Dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/Industrial-Safety-and-Health-Analytics.zip)
 
@@ -190,7 +195,7 @@ Activities (Pipeline) in project:
 ## <font color=green>Hospitality</font>
 
 ### Zomato Review 
-- [Zomato Review - Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Hospitality/Zomata_Reviews_Sentiments)
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Hospitality/Zomata_Reviews_Sentiments)
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Hospitality/Zomata_Reviews_Sentiments/sentiment-analysis-nlp-huggingface.ipynb)
 - [Github Dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/zomato_reviews.csv)
 
@@ -334,17 +339,16 @@ Activities (Pipeline) in project:
 
 -----------------------------------------------------------
 ## <font color=green>Agri</font>
------------------------------------------------------------
+
 ## <font color=green>Education</font>
------------------------------------------------------------
+
 ## <font color=green>Law+Justice</font>
------------------------------------------------------------
+
 ## <font color=green>Sanskrit</font>
------------------------------------------------------------
+
 ## <font color=green>Misc</font>
------------------------------------------------------------
+
 # AI/ML - Forked
-## <font color=green>100Days-ML</font>
  
 ## <font color=green>automl</font>
  
@@ -373,8 +377,6 @@ Activities (Pipeline) in project:
  
 ## <font color=green>microsoft-generative-ai-for-beginners</font>
  
-## <font color=green>ML+DL-Code-for-my-YouTube-Channel-Rohan</font>
- 
 ## <font color=green>packages</font>
  
 ## <font color=green>stanford_alpaca</font>
@@ -388,6 +390,8 @@ Activities (Pipeline) in project:
 ## <font color=green>tfjs-examples</font>
  
 ## <font color=green>Visualization</font>
+
+### Lux
  
 ## <font color=green>viz-github-repo</font>
 
