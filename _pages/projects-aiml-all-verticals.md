@@ -89,6 +89,10 @@ Activities (Pipeline) in project:
   - This competition uses nine different datasets, completely independent and not linked to each other. Each dataset can represent a different kind of waterbody. As each waterbody is different from the other, the related features as well are different from each other.
   - It is of the utmost importance to notice that some features like rainfall and temperature, which are present in each dataset, don’t go alongside the date. Indeed, both rainfall and temperature affect features like level, flow, depth to groundwater and hydrometry some time after it fell down. This means, for instance, that rain fell on 1st January doesn’t affect the mentioned features right the same day but some time later. As we don’t know how many days/weeks/months later rainfall affects these features, this is another aspect to keep into consideration when analyzing the dataset.
 
+### AirQuality-Prediction
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Climate/AirQuality-Prediction)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Climate/AirQuality-Prediction/Multivariate_TimeSeries.ipynb)
+
 -----------------------------------------------------------
 ## <font color=green>eCommerce</font>
 
@@ -192,27 +196,25 @@ Activities (Pipeline) in project:
 - [Kaggle Dataset](https://www.kaggle.com/datasets/ruqaiyaship/osha-accident-and-injury-data-1517)	
 
 -----------------------------------------------------------
-## <font color=green>Hospitality</font>
+## <font color=green>Hospitality/Hotel/Restaurant</font>
 
 ### Zomato Review 
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Hospitality/Zomata_Reviews_Sentiments)
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Hospitality/Zomata_Reviews_Sentiments/sentiment-analysis-nlp-huggingface.ipynb)
 - [Github Dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/zomato_reviews.csv)
 
-### Restaurant_Sales_Order_Forcasting
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
+### Indian Food Item Recommendations in Restaurants
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Hospitality/Indian_Restaurant_Food_Recommendation)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Hospitality/Indian_Restaurant_Food_Recommendation/Restaurant_Food_Item_Recommendation.ipynb)
 
 -----------------------------------------------------------
 ## <font color=green>Infra</font>
 
-### AirQuality-Prediction
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
-### House-Price-Prediction_dep
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
+
+### House-Price-Prediction
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Infra/House-Price-Prediction_dep)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Infra/House-Price-Prediction_dep/houseprice.ipynb)
 
 ### House-Price-Prediction_Docker
 - [Github Repo]()
