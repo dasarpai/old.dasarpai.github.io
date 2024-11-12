@@ -47,7 +47,7 @@ BFSI includes financial institutions, banks, insurance companies, investment fir
 - [Dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/bankmarketing.csv){:TARGET="_BLANK"}
 
 ----------------------------------------------------------
-## HR (Human Resources){:TARGET="_BLANK"}
+## HR (Human Resources)
 This domain covers employee management, recruitment, training, compensation, and workplace culture. It also includes HR technology and services related to people management and organizational development.
 
 ### HR Analysis of Employee Attrition & Performance
@@ -83,7 +83,6 @@ This domain focuses on climate science, environmental monitoring, and sustainabi
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Climate/Acea-Water-Prediction/acea-smart-water-full-eda-prediction.ipynb){:TARGET="_BLANK"}
 - [Acea Water Prediction & Analysis - Kaggle](https://www.kaggle.com/code/harithapliyal/acea-smart-water-full-eda-prediction){:TARGET="_BLANK"}
 - [Kaggle Dataset](https://www.kaggle.com/competitions/acea-water-prediction){:TARGET="_BLANK"}
-- [Github Dataset](){:TARGET="_BLANK"}
 - **Objective**
   - The Acea Group deals with four different type of waterbodies: water spring (for which three datasets are provided), lake (for which a dataset is provided), river (for which a dataset is provided) and aquifers (for which four datasets are provided).
   - This competition uses nine different datasets, completely independent and not linked to each other. Each dataset can represent a different kind of waterbody. As each waterbody is different from the other, the related features as well are different from each other.
@@ -194,13 +193,13 @@ Industrial safety focuses on workplace safety standards, risk management, and pr
 The hospitality domain involves businesses that provide accommodation, food, and leisure services, such as hotels, resorts, restaurants, and cafes, focusing on guest experiences and comfort.
 
 ### Zomato Review 
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Hospitality/Zomata_Reviews_Sentiments){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Hospitality/Zomata_Reviews_Sentiments/sentiment-analysis-nlp-huggingface.ipynb){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Tourism%2BHospitality%2BHotel%2BRestaurant%2BEvent/Zomata_Reviews_Sentiments){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Tourism%2BHospitality%2BHotel%2BRestaurant%2BEvent/Zomata_Reviews_Sentiments/sentiment-analysis-nlp-huggingface.ipynb){:TARGET="_BLANK"}
 - [Github Dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/zomato_reviews.csv){:TARGET="_BLANK"}
 
 ### Indian Food Item Recommendations in Restaurants
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Hospitality/Indian_Restaurant_Food_Recommendation){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Hospitality/Indian_Restaurant_Food_Recommendation/Restaurant_Food_Item_Recommendation.ipynb){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Tourism%2BHospitality%2BHotel%2BRestaurant%2BEvent/Indian_Restaurant_Food_Recommendation){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Tourism%2BHospitality%2BHotel%2BRestaurant%2BEvent/Indian_Restaurant_Food_Recommendation/Restaurant_Food_Item_Recommendation.ipynb){:TARGET="_BLANK"}
 
 ### FoodDemand Forcast
 - [Github Repo](){:TARGET="_BLANK"}
@@ -228,8 +227,8 @@ Activities (Pipeline) in project:
 
 **Important Notes**    
 - [My article on Hive](dsblog/Exploring-Apache-Hive)  
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Airlines/Flightdelay-Analysis-Bigdata){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Airlines/Flightdelay-Analysis-Bigdata/Flight_Delay_EDA.ipynb){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Travel%2BLogistic/Flightdelay-Analysis-Bigdata){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Travel%2BLogistic/Flightdelay-Analysis-Bigdata/Flight_Delay_EDA.ipynb){:TARGET="_BLANK"}
 - [Kaggle Dataset - 247.96 MB](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses){:TARGET="_BLANK"}
 
 **Tech Stack:** Hadoop/HDFS, Hive, SQL, HiveQL, ORC (Optimized Row Columnar) or Parquet, Python, Matplotlib/Seaborn. 
@@ -260,31 +259,31 @@ Activities (Pipeline) in project:
 This sector covers the creation/production, distribution, and consumption of media, including film, music, gaming, and live performances. It involves production houses, streaming services, and digital content platforms.
 
 ### Movies-Recommendations
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Entertaintment/Movies-Recommendations){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Entertaintment/Movies-Recommendations/movies_recommender.ipynb){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Entertainment%2BGames%2BSports/Movies-Recommendations){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Entertainment%2BGames%2BSports/Movies-Recommendations/movies_recommender.ipynb){:TARGET="_BLANK"}
 
 ### Olympic-QA-System-with-GPT
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/Olympic-QA-System-with-GPT){:TARGET="_BLANK"}
-- [Colab - Collect Data](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPub/Olympic-QA-System-with-GPT/olympics-1-collect-data.ipynb){:TARGET="_BLANK"}
-- [Colab - Create QA Dataset](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPub/Olympic-QA-System-with-GPT/olympics-2-create-qa.ipynb){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Entertainment%2BGames%2BSports/Olympic-QA-System-with-GPT){:TARGET="_BLANK"}
+- [Colab - Collect Data](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Entertainment%2BGames%2BSports/Olympic-QA-System-with-GPT/olympics-1-collect-data.ipynb){:TARGET="_BLANK"}
+- [Colab - Create QA Dataset](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Entertainment%2BGames%2BSports/Olympic-QA-System-with-GPT/olympics-2-create-qa.ipynb){:TARGET="_BLANK"}
 
 -----------------------------------------------------------
 ## <font color=green>Media and Publication</font>
 This domain includes businesses involved in publishing content across print, digital, and broadcast formats. It covers books, news, newspapers, magazines, digital media platforms, and content creation and distribution.
 
 ### Fakenews-Detection
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/Fakenews-Detection){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPub/Fakenews-Detection/fakenews-detection-ngram-tfidf.ipynb){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPublication/Fakenews-Detection){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPublication/Fakenews-Detection/fakenews-detection-ngram-tfidf.ipynb){:TARGET="_BLANK"}
 - [Kaggle Dataset](https://www.kaggle.com/c/fake-news/data){:TARGET="_BLANK"}
 - [Github Dataset](https://raw.githubusercontent.com/dasarpai/DAI-Datasets/main/Fakenews/train.csv.zip){:TARGET="_BLANK"}
 
 ### HBQAS
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/HBQAS){:TARGET="_BLANK"}
-- [Readme](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/HBQAS/HBQA){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPublication/HBQAS){:TARGET="_BLANK"}
+- [Readme](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPublication/HBQAS/HBQA){:TARGET="_BLANK"}
 
 ### NewsClassification-20Groups
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/NewsClassification-20Groups){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPub/NewsClassification-20Groups/Topic_Classification2.ipynb){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPublication/NewsClassification-20Groups){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPublication/NewsClassification-20Groups/Topic_Classification2.ipynb){:TARGET="_BLANK"}
 - [Dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/20news-bydate-dataset.zip){:TARGET="_BLANK"}
 
 ### Podcast-Transcription
@@ -292,28 +291,28 @@ This domain includes businesses involved in publishing content across print, dig
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
 
 ### SDSHL
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/SDSHL){:TARGET="_BLANK"}
-- [Readme](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/SDSHL/SDSHL){:TARGET="_BLANK"}
-- [Notebooks](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/SDSHL/SDSHL/notebooks){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPublication/SDSHL){:TARGET="_BLANK"}
+- [Readme](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPublication/SDSHL/SDSHL){:TARGET="_BLANK"}
+- [Notebooks](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPublication/SDSHL/SDSHL/notebooks){:TARGET="_BLANK"}
 
 ### SpamFilter
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/SpamFilter){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPublication/SpamFilter){:TARGET="_BLANK"}
 - [Readme]() WIP
 
 ### Toxic-Comment
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/Toxic-Comment){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPub/Toxic-Comment/Toxic-Content.ipynb){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPublication/Toxic-Comment){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPublication/Toxic-Comment/Toxic-Content.ipynb){:TARGET="_BLANK"}
 
 
 ### Twitter-Sentiment-Analysis
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/Twitter-Sentiment-Analysis){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPub/Twitter-Sentiment-Analysis/SentimentAnalysis.ipynb){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPublication/Twitter-Sentiment-Analysis){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPublication/Twitter-Sentiment-Analysis/SentimentAnalysis.ipynb){:TARGET="_BLANK"}
 
 
 ### YELP-Review-Prediction
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/YELP-Review-Prediction){:TARGET="_BLANK"}
-- [Colab - Fine_Tuning_Transformer_BERT_Customer_Review](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPub/YELP-Review-Prediction/Fine_Tuning_Transformer_BERT_Customer_Review.ipynb){:TARGET="_BLANK"}
-- [Colab - Yelp customer_review_classification](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPub/YELP-Review-Prediction/yelp_customer_review_classification.ipynb){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPublication/YELP-Review-Prediction){:TARGET="_BLANK"}
+- [Colab - Fine_Tuning_Transformer_BERT_Customer_Review](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPublication/YELP-Review-Prediction/Fine_Tuning_Transformer_BERT_Customer_Review.ipynb){:TARGET="_BLANK"}
+- [Colab - Yelp customer_review_classification](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPublication/YELP-Review-Prediction/yelp_customer_review_classification.ipynb){:TARGET="_BLANK"}
 
 
 -----------------------------------------------------------
@@ -321,8 +320,8 @@ This domain includes businesses involved in publishing content across print, dig
 Sales is overlap of e-Commerce and Retail. To avoid the confusion anything which is related to sales of big items like Car, House or any Capital items are put in sales domain. They may online or via a physical shop.
 
 ### House-Price-Prediction
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Infra/House-Price-Prediction_dep){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Infra/House-Price-Prediction_dep/houseprice.ipynb){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Sales/House-Price-Prediction_dep){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Sales/House-Price-Prediction_dep/houseprice.ipynb){:TARGET="_BLANK"}
 
 
 ### CarPrice
