@@ -108,6 +108,11 @@ The e-commerce domain comprises online platforms and businesses that facilitate 
 - [Github Repo]()
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
+### Online-Retail-Customer-Clustering
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
+
+
 -----------------------------------------------------------
 ## <font color=green>Economics</font>
 This field involves the study and application of economic theories, policies, and data analysis to understand markets, consumer behavior, global trade, and financial trends. It serves as the foundation for economic research, policy-making, and financial planning.
@@ -345,8 +350,12 @@ This domain covers telecommunications services and infrastructure, including pho
 This sector involves efforts to maintain public order, safety, and security in communities. It includes law enforcement, emergency services, disaster response, and security solutions for protecting people and assets.
 
 ### Barcelona Accidents
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 ### Indian Judiciary - Verdict Dataset
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 -----------------------------------------------------------
 ## <font color=green>Agriculture</font>
