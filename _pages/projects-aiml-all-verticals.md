@@ -25,30 +25,11 @@ sidebar:
 # AI/ML - Industries - Developed/ Created/ Expanded work
 **Projects in this section are listed according to Industry/Business Domain.**
 
-
-## <font color=green>Airlines</font>
-
-### Flightdelay-Analysis-Bigdata
-Apache Hive is a data warehousing and SQL-like query engine built on top of Hadoop. Hadoop has Hadoop Distributed File System (HDFS). It can handle distributed storage and processing of the data in hand. Hive can handle billions of transactions. We can perform any kind of SQL Query without bothering whether aggregation functions or filter function will be ever completed or not. Hive can handle all CRUD operations.
-
-In this project a folder "\server\airlines" on the server has hundreds of files which contains airlines daily flight information like Origin,Dest, Distance,DepTime, CRSDepTime, ArrTime, CRSArrTime, UniqueCarrier, FlightNum, TailNum, ActualElapsedTime, CRSElapsedTime, AirTime, ArrDelay, DepDelay, TaxiIn, TaxiOut, Cancelled, CancellationCode, Diverted, CarrierDelay, WeatherDelay, NASDelay, SecurityDelay, LateAircraftDelay. Airlines wanted to analyze the of last 20 years.
-
-Activities (Pipeline) in project: 
-- Creating hive table (for storage) from the external files
-- Create partition table schema
-- Parition hive table based on the year and putting data in partition table.
-- Performing sql querries on the partitioned table
-
-**Important Notes**    
-- [My article on Hive](dsblog/Exploring-Apache-Hive)  
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Airlines/Flightdelay-Analysis-Bigdata)
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Airlines/Flightdelay-Analysis-Bigdata/Flight_Delay_EDA.ipynb)
-- [Kaggle Dataset - 247.96 MB](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses)
-
-**Tech Stack:** Hadoop/HDFS, Hive, SQL, HiveQL, ORC (Optimized Row Columnar) or Parquet, Python, Matplotlib/Seaborn. 
+Sometimes it is difficult for me to find out in what domain a particular project falls into, therefore I have created [this page](/Description-of-Business-Domains) to decide the domain.
 
 -----------------------------------------------------------
-## <font color=green>BFSI</font>
+## <font color=green>BFSI (Banking, Financial Services, and Insurance)</font>
+BFSI includes financial institutions, banks, insurance companies, investment firms, and other entities offering services such as lending, investment, wealth management, and financial protection. This sector is heavily regulated and technology-driven for security and risk management.
 
 ### Credit-Fraud-Detection
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/BFSI/Credit-Fraud-Detection)
@@ -67,6 +48,8 @@ Activities (Pipeline) in project:
 
 ----------------------------------------------------------
 ## HR (Human Resources)
+This domain covers employee management, recruitment, training, compensation, and workplace culture. It also includes HR technology and services related to people management and organizational development.
+
 ### HR Analysis of Employee Attrition & Performance
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/HR/Employee-Attrition)
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/HR/Employee-Attrition/Attrition_in_an_Organization_Python.ipynb)
@@ -76,8 +59,25 @@ Activities (Pipeline) in project:
 - [Kaggle dataset]()
 - **Objective:** Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.
 
+
+
+-----------------------------------------------------------
+## <font color=green>Energy</font>
+This domain involves the production, management, and distribution of energy, including fossil fuels, renewable energy (solar, wind, hydro), nuclear power, and energy conservation technologies, along with grid management.
+
+### UK-Energy-Consumption
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/blob/main/Energy/UK-Energy-Consumption)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Energy/UK-Energy-Consumption/UK_Energy_Consumption_by_PostCode.ipynb)
+
+### AirQuality-Prediction
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Climate/AirQuality-Prediction)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Climate/AirQuality-Prediction/Multivariate_TimeSeries.ipynb)
+
 ----------------------------------------------------------
 ## Climate
+Climate and energy are inter-related, therefore to avoid confusion any project related to Energy will not come in climate vertical.
+This domain focuses on climate science, environmental monitoring, and sustainability initiatives, including research and development on climate change, renewable energy, environmental policy, and green technologies to reduce carbon footprints
+
 ### Acea Smart Water Analytics & Prediction
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Climate/Acea-Water-Prediction)
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Climate/Acea-Water-Prediction/acea-smart-water-full-eda-prediction.ipynb)
@@ -89,12 +89,9 @@ Activities (Pipeline) in project:
   - This competition uses nine different datasets, completely independent and not linked to each other. Each dataset can represent a different kind of waterbody. As each waterbody is different from the other, the related features as well are different from each other.
   - It is of the utmost importance to notice that some features like rainfall and temperature, which are present in each dataset, don’t go alongside the date. Indeed, both rainfall and temperature affect features like level, flow, depth to groundwater and hydrometry some time after it fell down. This means, for instance, that rain fell on 1st January doesn’t affect the mentioned features right the same day but some time later. As we don’t know how many days/weeks/months later rainfall affects these features, this is another aspect to keep into consideration when analyzing the dataset.
 
-### AirQuality-Prediction
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Climate/AirQuality-Prediction)
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Climate/AirQuality-Prediction/Multivariate_TimeSeries.ipynb)
-
 -----------------------------------------------------------
 ## <font color=green>eCommerce</font>
+The e-commerce domain comprises online platforms and businesses that facilitate buying and selling goods and services over the internet. It includes marketplaces, payment processing, logistics, and digital retailing.
 
 ### Black Friday Sales Data Analysis Prediction
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/eCommerce/Black-friday-sales)
@@ -113,7 +110,7 @@ Activities (Pipeline) in project:
 
 -----------------------------------------------------------
 ## <font color=green>Economics</font>
-
+This field involves the study and application of economic theories, policies, and data analysis to understand markets, consumer behavior, global trade, and financial trends. It serves as the foundation for economic research, policy-making, and financial planning.
 
 ### Economy-Analysis
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Economics/Economy-Analysis)
@@ -128,27 +125,16 @@ Activities (Pipeline) in project:
 ----------------------------------------------------------
 
 ## <font color=green>Electronics</font>
+The electronics domain includes the design, manufacturing, and distribution of electronic devices and components, such as semiconductors, consumer electronics, computing hardware, and embedded systems.
+
 ### Hand Gesture Recognition 
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Electronics/Hand-Gesture-Recognition)
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Electronics/Hand-Gesture-Recognition/gesture-recognition-conv3d-conv2d-rnn.ipynb)
 
 -----------------------------------------------------------
-## <font color=green>Energy</font>
-
-### UK-Energy-Consumption
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/blob/main/Energy/UK-Energy-Consumption)
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Energy/UK-Energy-Consumption/UK_Energy_Consumption_by_PostCode.ipynb)
-
------------------------------------------------------------
-## <font color=green>Entertaintment</font>
-
-### Movies-Recommendations
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Entertaintment/Movies-Recommendations)
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Entertaintment/Movies-Recommendations/movies_recommender.ipynb)
-
------------------------------------------------------------
 
 ## <font color=green>Health</font>
+The health domain includes healthcare providers, hospitals, pharmaceuticals, health insurance, and healthcare technology focused on improving patient care, medical research, and public health initiatives. This vertical will not include project related to Health-Infra development.
 
 ### Liver Patient Analysis
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Liver_Patient)
@@ -182,7 +168,8 @@ Activities (Pipeline) in project:
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 ----------------------------------------------------------
 
-## Industrial Safety
+## <font color=green>Industrial Safety</font>
+Industrial safety focuses on workplace safety standards, risk management, and protocols to protect employees and prevent accidents in industrial environments. It includes safety training, hazard assessments, and regulatory compliance.
 
 ### Industrial Accident Cause Analysis 
 - [Github Repo](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Industrialsafety/accident-cause-analysis)
@@ -196,7 +183,9 @@ Activities (Pipeline) in project:
 - [Kaggle Dataset](https://www.kaggle.com/datasets/ruqaiyaship/osha-accident-and-injury-data-1517)	
 
 -----------------------------------------------------------
-## <font color=green>Hospitality/Hotel/Restaurant</font>
+
+## <font color=green>Tourism, Hospitality, Hotel, Restaurant and Event Management</font>
+The hospitality domain involves businesses that provide accommodation, food, and leisure services, such as hotels, resorts, restaurants, and cafes, focusing on guest experiences and comfort.
 
 ### Zomato Review 
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Hospitality/Zomata_Reviews_Sentiments)
@@ -207,78 +196,7 @@ Activities (Pipeline) in project:
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Hospitality/Indian_Restaurant_Food_Recommendation)
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Hospitality/Indian_Restaurant_Food_Recommendation/Restaurant_Food_Item_Recommendation.ipynb)
 
------------------------------------------------------------
-## <font color=green>Infra</font>
-
-
-
-### House-Price-Prediction
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Infra/House-Price-Prediction_dep)
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Infra/House-Price-Prediction_dep/houseprice.ipynb)
-
-### House-Price-Prediction_Docker
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
-
-### House-Prices-KCH
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
-
-### Surprise-House-Pricing
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
-
-
------------------------------------------------------------
-## <font color=green>Media+Pub</font>
-
-### Fakenews-Detection
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
-
-### Olympic-QA-System-with-GPT
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
-
-### HBQAS
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
-
-### NewsClassification-20Groups
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
-
-### Podcast-Transcription
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
-
-### SDSHL
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
-
-### SpamFilter
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
-
-### Toxic-Comment
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
-
-### Twitter-Sentiment-Analysis
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
-
-### YELP-Review-Prediction
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
-
-
------------------------------------------------------------
-## <font color=green>Restaurants</font>
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
-
-### FoodDemand-Forcast
+### FoodDemand Forcast
 - [Github Repo]()
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
@@ -287,14 +205,119 @@ Activities (Pipeline) in project:
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 -----------------------------------------------------------
-## <font color=green>Retail</font>
 
-### Online-Retail-Customer-Clustering
+## <font color=green>Travel & Logistic</font>
+The Travel & Logistics domain encompasses the movement of people and goods. It includes various industries such as transportation, warehousing, distribution, and supply chain management for both individuals and businesses. The focus in this domain is on efficient, timely, and cost-effective transport, as well as providing seamless travel experiences. This sector is heavily influenced by technology for tracking, route optimization, and resource management. This domain has some overlap with eCommerce and Sales.
+
+### Flight Delay Analysis Bigdata
+Apache Hive is a data warehousing and SQL-like query engine built on top of Hadoop. Hadoop has Hadoop Distributed File System (HDFS). It can handle distributed storage and processing of the data in hand. Hive can handle billions of transactions. We can perform any kind of SQL Query without bothering whether aggregation functions or filter function will be ever completed or not. Hive can handle all CRUD operations.
+
+In this project a folder "\server\airlines" on the server has hundreds of files which contains airlines daily flight information like Origin,Dest, Distance,DepTime, CRSDepTime, ArrTime, CRSArrTime, UniqueCarrier, FlightNum, TailNum, ActualElapsedTime, CRSElapsedTime, AirTime, ArrDelay, DepDelay, TaxiIn, TaxiOut, Cancelled, CancellationCode, Diverted, CarrierDelay, WeatherDelay, NASDelay, SecurityDelay, LateAircraftDelay. Airlines wanted to analyze the of last 20 years.
+
+Activities (Pipeline) in project: 
+- Creating hive table (for storage) from the external files
+- Create partition table schema
+- Parition hive table based on the year and putting data in partition table.
+- Performing sql querries on the partitioned table
+
+**Important Notes**    
+- [My article on Hive](dsblog/Exploring-Apache-Hive)  
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Airlines/Flightdelay-Analysis-Bigdata)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Airlines/Flightdelay-Analysis-Bigdata/Flight_Delay_EDA.ipynb)
+- [Kaggle Dataset - 247.96 MB](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses)
+
+**Tech Stack:** Hadoop/HDFS, Hive, SQL, HiveQL, ORC (Optimized Row Columnar) or Parquet, Python, Matplotlib/Seaborn. 
+
+### NYC Parking (Bigdata and pySpark)
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
+
+### Driver Availablity Prediction
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
+
+### Uber Cancellation
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
+
+### Vehicle Classification
+- [Github Repo]()
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
+
+### Vehicle Tracking
 - [Github Repo]()
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 -----------------------------------------------------------
+
+## <font color=green>Entertainment, Games & Sports</font>
+This sector covers the creation/production, distribution, and consumption of media, including film, music, gaming, and live performances. It involves production houses, streaming services, and digital content platforms.
+
+### Movies-Recommendations
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Entertaintment/Movies-Recommendations)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Entertaintment/Movies-Recommendations/movies_recommender.ipynb)
+
+### Olympic-QA-System-with-GPT
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/Olympic-QA-System-with-GPT)
+- [Colab - Collect Data](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPub/Olympic-QA-System-with-GPT/olympics-1-collect-data.ipynb)
+- [Colab - Create QA Dataset](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPub/Olympic-QA-System-with-GPT/olympics-2-create-qa.ipynb)
+
+-----------------------------------------------------------
+## <font color=green>Media and Publication</font>
+This domain includes businesses involved in publishing content across print, digital, and broadcast formats. It covers books, news, newspapers, magazines, digital media platforms, and content creation and distribution.
+
+### Fakenews-Detection
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/Fakenews-Detection)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPub/Fakenews-Detection/fakenews-detection-ngram-tfidf.ipynb)
+- [Kaggle Dataset](https://www.kaggle.com/c/fake-news/data)
+- [Github Dataset](https://raw.githubusercontent.com/dasarpai/DAI-Datasets/main/Fakenews/train.csv.zip)
+
+### HBQAS
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/HBQAS)
+- [Readme](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/HBQAS/HBQA)
+
+### NewsClassification-20Groups
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/NewsClassification-20Groups)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPub/NewsClassification-20Groups/Topic_Classification2.ipynb)
+- [Dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/20news-bydate-dataset.zip)
+
+### Podcast-Transcription
+- [Github Repo]() - WIP
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
+
+### SDSHL
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/SDSHL)
+- [Readme](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/SDSHL/SDSHL)
+- [Notebooks](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/SDSHL/SDSHL/notebooks)
+
+### SpamFilter
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/SpamFilter)
+- [Readme]() WIP
+
+### Toxic-Comment
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/Toxic-Comment)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPub/Toxic-Comment/Toxic-Content.ipynb)
+
+
+### Twitter-Sentiment-Analysis
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/Twitter-Sentiment-Analysis)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPub/Twitter-Sentiment-Analysis/SentimentAnalysis.ipynb)
+
+
+### YELP-Review-Prediction
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPub/YELP-Review-Prediction)
+- [Colab - Fine_Tuning_Transformer_BERT_Customer_Review](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPub/YELP-Review-Prediction/Fine_Tuning_Transformer_BERT_Customer_Review.ipynb)
+- [Colab - Yelp customer_review_classification](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPub/YELP-Review-Prediction/yelp_customer_review_classification.ipynb)
+
+
+-----------------------------------------------------------
 ## <font color=green>Sales</font>
+Sales is overlap of e-Commerce and Retail. To avoid the confusion anything which is related to sales of big items like Car, House or any Capital items are put in sales domain. They may online or via a physical shop.
+
+### House-Price-Prediction
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Infra/House-Price-Prediction_dep)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Infra/House-Price-Prediction_dep/houseprice.ipynb)
+
 
 ### CarPrice
 - [Github Repo]()
@@ -311,40 +334,31 @@ Activities (Pipeline) in project:
 -----------------------------------------------------------
 
 ## <font color=green>Telecom</font>
+This domain covers telecommunications services and infrastructure, including phone networks, internet providers, satellite communications, and emerging technologies like 5G, enabling global connectivity and communication.
 
-### Telcom-Churn
+### Telcom Churn
 - [Github Repo]()
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
 
 -----------------------------------------------------------
-## <font color=green>Travel+Logistic</font>
+## <font color=green>Public Safety and Security</font>
+This sector involves efforts to maintain public order, safety, and security in communities. It includes law enforcement, emergency services, disaster response, and security solutions for protecting people and assets.
 
-### Bigdata-pySpark-NYC-Parking
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
+### Barcelona Accidents
 
-### Driver-Availablity-Prediction
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
-
-### Uber-Cancellation
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
-
-### Vehicle-Classification
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
-
-### Vehicle-Tracking
-- [Github Repo]()
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/)
+### Indian Judiciary - Verdict Dataset
 
 -----------------------------------------------------------
-## <font color=green>Agri</font>
+## <font color=green>Agriculture</font>
+This domain encompasses activities related to farming, crop production, livestock management, and the broader agricultural supply chain. It also includes agricultural technology (agritech), sustainable farming practices, and rural development.
+
 
 ## <font color=green>Education</font>
+This sector covers educational institutions, e-learning platforms, and educational technology (edtech) designed to facilitate teaching, learning, and research. It spans K-12, higher education, corporate training, and continuous learning.
 
-## <font color=green>Law+Justice</font>
+## <font color=green>Infrastructure (Infra) Development</font>
+This domain encompasses the planning, design, and construction of physical facilities and systems, including transportation, telecommunications, water supply, and utilities essential for supporting economic activity.
+
 
 ## <font color=green>Sanskrit</font>
 

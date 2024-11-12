@@ -23,16 +23,16 @@ sidebar:
 ---
 
 # Project Index Page
-This is "master project page" therefore it is linking to my different projects. To know about my work in different domain you can click on the link of your interest.
+This is "master project page" therefore it is linking to my different project categories. To know about my work in different domain you can click on the link of your interest.
 
 ## Introduction
-**This page is about sharing my project work, capabilities, experties, abilities, understanding about business domain, technology solutions and approaches.**
+**This page is about sharing my project work, capabilities, expertise, abilities, understanding about business domain, technology solutions and approaches.**
 
 - This page list all my github repo (private + public). 
-- These github repositories are related to all my projects, consultings, courses and POC (proof of concepts), technology explorations.
+- These github repositories are related to all my projects, consulting, courses and POC (proof of concepts), technology explorations.
 - This also has listed some imported forked repositories. Some of these I forked to extend the existing one, some I forked for teaching, some were forked to build my solutions.
-- These projects are either sharing my Project Management capabilties in different domains including IT.
-- These projects ar also discussing my Technology capabilties specially around AI, Deep Learing, GenAI, NLP and Analytics.
+- These projects are either sharing my Project Management capabilities in different domains including IT.
+- These projects ar also discussing my Technology capabilities specially around AI, Deep Learning, GenAI, NLP and Analytics.
 - The purpose of this listing is, 
 	- to help other's knowing what is possible and what I have explored. 
 	- to remind myself what I already have explored and worked vs what didn't work during exploration.
