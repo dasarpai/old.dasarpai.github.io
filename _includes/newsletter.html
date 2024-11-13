@@ -1,45 +1,30 @@
+<style>
+  input[type="checkbox"] {
+    display: inline-block;
+    visibility: visible;
+  }
+</style>
+
 <form name="newsletter" method="POST" action="https://hooks.zapier.com/hooks/catch/18616527/25jxfea/" data-netlify="true" style="background-color: #49cf1e; padding: 20px; border-radius: 8px;">
   
   <!-- Honeypot Field (Spam Prevention) -->
   <p style="display:none">
     <label for="bot-field">Don't fill this out if you're human:</label>
     <input type="text" name="bot-field" id="bot-field">
+
   </p>
 
   <!-- Email Input -->
   <p>
-    <label for="email">Email <input type="email" name="email" id="email" required /></label>
-  </p>
+    <label for="email">Email <input type="email" name="email" id="email" required /></label><br>
 
-  <!-- Newsletter Categories (Checkboxes) -->
-  <p><strong>Select the newsletters you'd like to receive:</strong></p>
-  
-  <p>
-    <label for="data-science">
-      <input type="checkbox" name="newsletter-categories" value="Data Science/AI/ML Topics" id="data-science">
-      Data Science/AI/ML Topics
-    </label>
-  </p>
-  
-  <p>
-    <label for="project-management">
-      <input type="checkbox" name="newsletter-categories" value="Project Management Topics" id="project-management">
-      Project Management Topics
-    </label>
-  </p>
+    <!-- Newsletter Categories (Checkboxes) -->
+    <label>Newsletter Categories</label><br>
+    <input type="checkbox" name="categories" value="Data Science/AI/ML Topics" /> Data Science/AI/ML Topics<br>
+    <input type="checkbox" name="categories" value="Project Management Topics" /> Project Management Topics<br>
+    <input type="checkbox" name="categories" value="Vedanta and Philosophy Topics" /> Vedanta and Philosophy Topics<br>
+    <input type="checkbox" name="categories" value="Sanskrit Yatra Topics" /> Sanskrit Yatra Topics<br>
 
-  <p>
-    <label for="vedanta-philosophy">
-      <input type="checkbox" name="newsletter-categories" value="Vedanta and Philosophy Topics" id="vedanta-philosophy">
-      Vedanta and Philosophy Topics
-    </label>
-  </p>
-
-  <p>
-    <label for="sanskrit-yatra">
-      <input type="checkbox" name="newsletter-categories" value="Sanskrit Yatra Topics" id="sanskrit-yatra">
-      Sanskrit Yatra Topics
-    </label>
   </p>
 
   <!-- Submit Button -->
