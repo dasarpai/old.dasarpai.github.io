@@ -1,18 +1,51 @@
-<form name="newsletter" method="POST" data-netlify="true">
+<form name="newsletter" method="POST" data-netlify="true" style="background-color: #49cf1e; padding: 20px; border-radius: 8px;">
   <!-- Honeypot Field (Spam Prevention) -->
   <p style="display:none">
     <label for="bot-field">Don't fill this out if you're human:</label>
     <input type="text" name="bot-field" id="bot-field">
   </p>
 
-  <!-- Actual Form Fields -->
+  <!-- Email Input -->
   <p>
     <label for="email">Email <input type="email" name="email" id="email" required /></label>
   </p>
+
+  <!-- Newsletter Categories (Checkboxes) -->
+  <p><strong>Select the newsletters you'd like to receive:</strong></p>
+  
+  <p>
+    <label for="data-science">
+      <input type="checkbox" name="newsletter-categories" value="Data Science/AI/ML Topics" id="data-science">
+      Data Science/AI/ML Topics
+    </label>
+  </p>
+  
+  <p>
+    <label for="project-management">
+      <input type="checkbox" name="newsletter-categories" value="Project Management Topics" id="project-management">
+      Project Management Topics
+    </label>
+  </p>
+
+  <p>
+    <label for="vedanta-philosophy">
+      <input type="checkbox" name="newsletter-categories" value="Vedanta and Philosophy Topics" id="vedanta-philosophy">
+      Vedanta and Philosophy Topics
+    </label>
+  </p>
+
+  <p>
+    <label for="sanskrit-yatra">
+      <input type="checkbox" name="newsletter-categories" value="Sanskrit Yatra Topics" id="sanskrit-yatra">
+      Sanskrit Yatra Topics
+    </label>
+  </p>
+
+  <!-- Submit Button -->
   <p>
     <button type="submit">Subscribe</button>
   </p>
 
-  <!-- Hidden Form Name (Optional, good practice for multiple forms) -->
+  <!-- Hidden Form Name (Optional) -->
   <input type="hidden" name="form-name" value="newsletter">
 </form>
