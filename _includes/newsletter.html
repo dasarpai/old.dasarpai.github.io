@@ -1,0 +1,44 @@
+<style>
+    input[type="checkbox"] {
+      display: inline-block;
+      visibility: visible;
+    }
+  </style>
+  
+  <!-- action="https://hooks.zapier.com/hooks/catch/18616527/25jxfea/" -->
+  <form name="newsletter" method="POST"  data-netlify="true" style="background-color: #49cf1e; padding: 20px; border-radius: 8px;">
+    
+    <!-- Honeypot Field (Spam Prevention) -->
+    <p style="display:none">
+      <label for="bot-field">Don't fill this out if you're human:</label>
+      <input type="text" name="bot-field" id="bot-field">
+  
+    </p>
+  
+    <!-- Email Input -->
+    <p>
+      <label for="email">Email <input type="email" name="email" id="email" required /></label><br>  
+    </p>
+    <!-- Newsletter Categories (Checkboxes) -->
+    <label>Newsletter Categories</label><br>
+    <p>
+        <input type="checkbox" name="categories" value="Data Science/AI/ML Topics" /> Data Science/AI/ML Topics
+    </p>
+    <p>
+        <input type="checkbox" name="categories" value="Project Management Topics" /> Project Management Topics
+    </p>
+    <p>
+        <input type="checkbox" name="categories" value="Vedanta and Philosophy Topics" /> Vedanta and Philosophy Topics
+    </p>
+    <p>
+        <input type="checkbox" name="categories" value="Sanskrit Yatra Topics" /> Sanskrit Yatra Topics
+    </p>
+  
+    <!-- Submit Button -->
+    <p>
+      <button type="submit">Subscribe</button>
+    </p>
+  
+    <!-- Hidden Form Name (Optional) -->
+    <input type="hidden" name="form-name" value="newsletter">
+  </form>
