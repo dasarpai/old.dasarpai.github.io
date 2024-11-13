@@ -1,0 +1,18 @@
+<form name="newsletter" method="POST" data-netlify="true">
+  <!-- Honeypot Field (Spam Prevention) -->
+  <p style="display:none">
+    <label for="bot-field">Don't fill this out if you're human:</label>
+    <input type="text" name="bot-field" id="bot-field">
+  </p>
+
+  <!-- Actual Form Fields -->
+  <p>
+    <label for="email">Email <input type="email" name="email" id="email" required /></label>
+  </p>
+  <p>
+    <button type="submit">Subscribe</button>
+  </p>
+
+  <!-- Hidden Form Name (Optional, good practice for multiple forms) -->
+  <input type="hidden" name="form-name" value="newsletter">
+</form>

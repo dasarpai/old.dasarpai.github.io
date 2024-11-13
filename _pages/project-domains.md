@@ -26,7 +26,7 @@ sidebar:
 Being part of the Software, AI, and Management Consulting industries has given me the opportunity to work across various fields. When organizing my projects by domain, I often find it challenging to place each project in the correct folder/github repo. This can lead to search and configuration management issues later on. I believe many others face similar challenges, which is why I created this page as a way to track my work more easily. By sharing this categorization publicly, I hope it may also benefit others. This is not a formal or standardized classification, and some domain experts may feel that certain areas are not defined perfectly. I’m aware of this and present it as a practical solution to streamline my workflow.
 
 
-### **Agriculture**
+## **Agriculture**
 - Crop cultivation and harvesting
 - Livestock management
 - Agricultural technology (AgriTech)
@@ -37,7 +37,7 @@ Being part of the Software, AI, and Management Consulting industries has given m
 - Food processing and storage
 - Rural development programs
 
-### **BFSI (Banking, Financial Services, and Insurance)**
+## **BFSI (Banking, Financial Services, and Insurance)**
 - Retail and commercial banking
 - Wealth and asset management
 - Investment banking
@@ -48,7 +48,7 @@ Being part of the Software, AI, and Management Consulting industries has given m
 - Regulatory compliance and reporting
 - Fraud detection and security
 
-### **Climate**
+## **Climate**
 - Climate change research and data analysis
 - Environmental monitoring
 - Renewable energy initiatives
@@ -59,7 +59,7 @@ Being part of the Software, AI, and Management Consulting industries has given m
 - Conservation and biodiversity programs
 - Natural disaster management and mitigation
 
-### **Economics**
+## **Economics**
 - Market analysis and research
 - Economic forecasting and modeling
 - Consumer behavior and demand analysis
@@ -70,7 +70,7 @@ Being part of the Software, AI, and Management Consulting industries has given m
 - Macroeconomic and microeconomic studies
 - Economic policy and regulation
 
-### **Education**
+## **Education**
 - K-and higher education institutions
 - E-learning platforms and tools
 - Learning management systems (LMS)
@@ -81,7 +81,7 @@ Being part of the Software, AI, and Management Consulting industries has given m
 - Educational content creation
 - Academic research and publications
 
-### **Energy**
+## **Energy**
 - Power generation and distribution
 - Renewable energy (solar, wind, hydro)
 - Oil, gas, and fossil fuel management
@@ -92,7 +92,7 @@ Being part of the Software, AI, and Management Consulting industries has given m
 - Environmental impact assessment
 - Energy policy and regulation
 
-### **Entertainment, Games & Sports**
+## **Entertainment, Games & Sports**
 - Film and television production
 - Music creation and distribution
 - Video game development and publishing
@@ -103,7 +103,7 @@ Being part of the Software, AI, and Management Consulting industries has given m
 - Talent and artist management
 - Audience engagement and analytics
 
-### **Health**
+## **Health**
 - Hospitals and healthcare providers
 - Pharmaceutical research and development
 - Health insurance services
@@ -114,7 +114,7 @@ Being part of the Software, AI, and Management Consulting industries has given m
 - Clinical trials and medical research
 - Wellness and preventative care
 
-### **Hospitality (Hotel, Restaurant)**
+## **Hospitality (Hotel, Restaurant)**
 - Accommodation (hotels, resorts, B&Bs)
 - Food and beverage services
 - Event planning and management
@@ -125,7 +125,7 @@ Being part of the Software, AI, and Management Consulting industries has given m
 - Facilities management and maintenance
 - Spa, leisure, and wellness services
 
-### **Human Resources**
+## **Human Resources**
 - Talent acquisition and recruitment
 - Employee training and development
 - Performance management and appraisals
@@ -136,7 +136,7 @@ Being part of the Software, AI, and Management Consulting industries has given m
 - Diversity, equity, and inclusion initiatives
 - Succession planning and workforce strategy
 
-### **Industrial Safety**
+## **Industrial Safety**
 - Workplace safety standards and compliance
 - Hazard assessments and risk management
 - Personal protective equipment (PPE)
@@ -147,7 +147,7 @@ Being part of the Software, AI, and Management Consulting industries has given m
 - Regulatory compliance and certifications
 - Fire safety and disaster preparedness
 
-### **Media and Publication**
+## **Media and Publication**
 - Print media (newspapers, magazines)
 - Digital content platforms
 - Book publishing and distribution
@@ -158,7 +158,7 @@ Being part of the Software, AI, and Management Consulting industries has given m
 - Editorial and review processes
 - Media analytics and audience insights
 
-### **Public Safety and Security**
+## **Public Safety and Security**
 - Law enforcement and policing
 - Fire and emergency response services
 - Disaster preparedness and response
@@ -169,7 +169,7 @@ Being part of the Software, AI, and Management Consulting industries has given m
 - Search and rescue operations
 - Security technology and equipment
 
-### **E-commerce**
+## **E-commerce**
 - Online retail platforms
 - Payment processing and gateways
 - Inventory and supply chain management
@@ -182,7 +182,7 @@ Being part of the Software, AI, and Management Consulting industries has given m
 - Loyalty programs and promotions
 - Omnichannel retailing strategies
 
-### **Retail**
+## **Retail**
 E-commerce and Ratail domain has overlaps. Therefore in retails, I am putting only those categories which are not related online sale-purchase platform.
 
 - Brick-and-mortar stores and operations
@@ -195,7 +195,7 @@ E-commerce and Ratail domain has overlaps. Therefore in retails, I am putting on
 - Omnichannel retailing strategies
 - Store layout and user experience design
 
-### **Sales**
+## **Sales**
 Sales is overlap of e-Commerce and Retail. To avoid the confusion anything which is related to sales of big items like Car, House or any Capital items are put in sales domain. They may online or via a physical shop.
 
 - Sales strategy and planning
@@ -208,7 +208,7 @@ Sales is overlap of e-Commerce and Retail. To avoid the confusion anything which
 - Sales training and development
 - Sales data analysis and insights
 
-### **Infrastructure (Infra) - Development**
+## **Infrastructure (Infra) - Development**
 It is about development of infra. It is not about running infra. For example "Telecommunication networks" development is part of infra but running "Telecommunication networks" is part of Telecom domain. Similarly "Transportation infrastructure" is about creating "roads and airports" but running "Road and Airport" is different industry.
 
 - Urban planning and development
@@ -222,7 +222,7 @@ It is about development of infra. It is not about running infra. For example "Te
 - Infrastructure financing and investment
 
 
-### **Electronics**
+## **Electronics**
 - Semiconductor manufacturing
 - Consumer electronics (e.g., smartphones, TVs)
 - Computing hardware development
@@ -233,7 +233,7 @@ It is about development of infra. It is not about running infra. For example "Te
 - Product design and prototyping
 - Component distribution and supply chain
 
-### **Telecom**
+## **Telecom**
 - Telecommunication networks (fiber, 5G)
 - Mobile and fixed-line services
 - Internet service provision (ISP)

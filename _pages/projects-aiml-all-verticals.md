@@ -99,18 +99,21 @@ The e-commerce domain comprises online platforms and businesses that facilitate 
 - [Black Friday Sales Data Analysis Prediction - Kaggle](https://www.kaggle.com/code/harithapliyal/black-friday-sales-prediction){:TARGET="_BLANK"}
 - **About Dataset:** This dataset comprises of sales transactions captured at a retail store. It’s a classic dataset which has multiple shopping experiences. This is a regression problem. The dataset has 550,069 rows and 12 columns.
 
-### Amazon-Sentiment Analysis
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+### Amazon Sentiment Analysis
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/eCommerce/Amazon-Sentiment-Analysis){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/eCommerce/Amazon-Sentiment-Analysis/Amazon_Review_SA.ipynb){:TARGET="_BLANK"}
 
 ### Bigdata-AmazonReviews
-- [Github Repo](){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/eCommerce/Bigdata-AmazonReviews){:TARGET="_BLANK"}
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
 
 ### Online-Retail-Customer-Clustering
 - [Github Repo](){:TARGET="_BLANK"}
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
 
+### Recommendation System Amazon Electronics
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/eCommerce/Amazon-Electronics-Recommendation){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/eCommerce/Amazon-Electronics-Recommendation/Recommendation_System_Amazon_Electronics.ipynb){:TARGET="_BLANK"}
 
 -----------------------------------------------------------
 ## <font color=green>Economics</font>
@@ -233,7 +236,7 @@ Activities (Pipeline) in project:
 
 **Tech Stack:** Hadoop/HDFS, Hive, SQL, HiveQL, ORC (Optimized Row Columnar) or Parquet, Python, Matplotlib/Seaborn. 
 
-### NYC Parking (Bigdata and pySpark){:TARGET="_BLANK"}
+### NYC Parking (Bigdata and pySpark)
 - [Github Repo](){:TARGET="_BLANK"}
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
 
@@ -282,8 +285,32 @@ This domain includes businesses involved in publishing content across print, dig
 - [Readme](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPublication/HBQAS/HBQA){:TARGET="_BLANK"}
 
 ### NewsClassification-20Groups
+Multiclass classification. Overall Test accuracy: 0.883809506893158   
+16 classes of news are : rec.sport.hockey	,rec.motorcycles	,rec.sport.baseball	,rec.autos	,talk.politics.guns	,talk.religion.misc	,sci.med	,sci.electronics	,sci.space	,sci.crypt	,misc.forsale	,comp.os.ms-windows.misc	,comp.graphics	,comp.sys.ibm.pc.hardware	,comp.windows.x	,comp.sys.mac.hardware	,soc.religion.christian	,talk.politics.mideast	,alt.atheism	,talk.politics.misc
+
+Class 0:,   precision: 0.46,   recall: 0.50,   fscore: 0.48,   support: 12.00   
+Class 1:,   precision: 0.83,   recall: 0.52,   fscore: 0.64,   support: 29.00   
+Class 2:,   precision: 0.62,   recall: 0.69,   fscore: 0.66,   support: 29.00   
+Class 3:,   precision: 0.67,   recall: 0.52,   fscore: 0.58,   support: 31.00   
+Class 4:,   precision: 0.85,   recall: 0.68,   fscore: 0.76,   support: 25.00   
+Class 5:,   precision: 0.89,   recall: 0.92,   fscore: 0.91,   support: 26.00   
+Class 6:,   precision: 0.89,   recall: 0.69,   fscore: 0.77,   support: 35.00   
+Class 7:,   precision: 0.90,   recall: 0.89,   fscore: 0.89,   support: 108.00   
+Class 8:,   precision: 0.88,   recall: 0.97,   fscore: 0.93,   support: 117.00   
+Class 9:,   precision: 0.94,   recall: 0.97,   fscore: 0.96,   support: 121.00   
+Class 10:,   precision: 0.95,   recall: 0.99,   fscore: 0.97,   support: 124.00   
+Class 11:,   precision: 1.00,   recall: 0.97,   fscore: 0.98,   support: 31.00   
+Class 12:,   precision: 0.67,   recall: 0.73,   fscore: 0.70,   support: 45.00   
+Class 13:,   precision: 0.75,   recall: 0.88,   fscore: 0.81,   support: 43.00   
+Class 14:,   precision: 0.81,   recall: 0.92,   fscore: 0.86,   support: 38.00   
+Class 15:,   precision: 0.92,   recall: 0.55,   fscore: 0.69,   support: 20.00   
+Class 16:,   precision: 0.87,   recall: 0.97,   fscore: 0.92,   support: 103.00   
+Class 17:,   precision: 0.93,   recall: 0.93,   fscore: 0.93,   support: 14.00   
+Class 18:,   precision: 1.00,   recall: 0.39,   fscore: 0.56,   support: 18.00   
+Class 19:,   precision: 0.91,   recall: 0.89,   fscore: 0.90,   support: 81.00
+
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPublication/NewsClassification-20Groups){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPublication/NewsClassification-20Groups/Topic_Classification2.ipynb){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPublication/NewsClassification-20Groups/20_news_group_classification.ipynb){:TARGET="_BLANK"}
 - [Dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/20news-bydate-dataset.zip){:TARGET="_BLANK"}
 
 ### Podcast-Transcription

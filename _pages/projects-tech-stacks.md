@@ -113,16 +113,27 @@ Using deep learning model on mobile.
 
 -----------------------------------------------------------
 ##  <font color=green> LLM</font>
+### comet.com
 ### finetune-bloom-7b
 ### finetune-llama2
 ### finetune-llama3-8b
+### groq-whisper-fast
+[Github Repo & Readme](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/groq-whisper-fast)
+
+### groqcloud
 ### huggingface
 ### Langchain
+### lmstudio
 ### neo2.7b
+### open-webui
 ### openAI
 ### openai-quickstart-python
 ### quantization
 ### RAG
+### ts.llamaindex
+
+### 
+D:\github\DAI-Techstack\LLM\groq-whisper-fast
 
 ### GroqCloud
 
