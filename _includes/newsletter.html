@@ -5,9 +5,10 @@
     }
   </style>
   
+  
   <!-- action="https://hooks.zapier.com/hooks/catch/18616527/25jxfea/" -->
-  <form name="newsletter" method="POST"  data-netlify="true" style="background-color: #49cf1e; padding: 20px; border-radius: 8px;">
-    
+  <form name="newsletter" method="POST"  data-netlify="true" style="background-color: #49cf1e; padding: 20px; border-radius: 8px; margin-top: 2rem;">
+    <h2>Subscribe Newsletter</h2>
     <!-- Honeypot Field (Spam Prevention) -->
     <p style="display:none">
       <label for="bot-field">Don't fill this out if you're human:</label>
@@ -15,12 +16,8 @@
   
     </p>
   
-    <!-- Email Input -->
-    <p>
-      <label for="email">Email <input type="email" name="email" id="email" required /></label><br>  
-    </p>
     <!-- Newsletter Categories (Checkboxes) -->
-    <label>Newsletter Categories</label><br>
+    <label>Select Newsletter Categories</label><br>
     <p>
         <input type="checkbox" name="categories" value="Data Science/AI/ML Topics" /> Data Science/AI/ML Topics
     </p>
@@ -33,6 +30,11 @@
     <p>
         <input type="checkbox" name="categories" value="Sanskrit Yatra Topics" /> Sanskrit Yatra Topics
     </p>
+    <!-- Email Input -->
+    <p>
+      <label for="email">Your Emailid <input type="email" name="email" id="email" required /></label><br>  
+    </p>
+    
   
     <!-- Submit Button -->
     <p>
