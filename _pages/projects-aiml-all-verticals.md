@@ -217,10 +217,8 @@ The hospitality domain involves businesses that provide accommodation, food, and
 ## <font color=green>Travel & Logistic</font>
 The Travel & Logistics domain encompasses the movement of people and goods. It includes various industries such as transportation, warehousing, distribution, and supply chain management for both individuals and businesses. The focus in this domain is on efficient, timely, and cost-effective transport, as well as providing seamless travel experiences. This sector is heavily influenced by technology for tracking, route optimization, and resource management. This domain has some overlap with eCommerce and Sales.
 
-### Flight Delay Analysis Bigdata
-Apache Hive is a data warehousing and SQL-like query engine built on top of Hadoop. Hadoop has Hadoop Distributed File System (HDFS). It can handle distributed storage and processing of the data in hand. Hive can handle billions of transactions. We can perform any kind of SQL Query without bothering whether aggregation functions or filter function will be ever completed or not. Hive can handle all CRUD operations.
-
-In this project a folder "\server\airlines" on the server has hundreds of files which contains airlines daily flight information like Origin,Dest, Distance,DepTime, CRSDepTime, ArrTime, CRSArrTime, UniqueCarrier, FlightNum, TailNum, ActualElapsedTime, CRSElapsedTime, AirTime, ArrDelay, DepDelay, TaxiIn, TaxiOut, Cancelled, CancellationCode, Diverted, CarrierDelay, WeatherDelay, NASDelay, SecurityDelay, LateAircraftDelay. Airlines wanted to analyze the of last 20 years.
+### Flight Delay Analysis using Hive
+This dataset contains the 2004-2005 flights data from the 2009 ASA Statistical Computing and Graphics Data Expo consisted of flight arrival and departure details for all commercial flights on major carriers within the United States of America from October 1987 to April 2008
 
 Activities (Pipeline) in project: 
 - Creating hive table (for storage) from the external files
@@ -228,33 +226,57 @@ Activities (Pipeline) in project:
 - Parition hive table based on the year and putting data in partition table.
 - Performing sql querries on the partitioned table
 
-**Important Notes**    
+**Links**    
 - [My article on Hive](dsblog/Exploring-Apache-Hive)  
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Travel%2BLogistic/Flightdelay-Analysis-Bigdata){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Travel%2BLogistic/Flightdelay-Analysis-Bigdata/Flight_Delay_EDA.ipynb){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Travel%2BLogistic/Flightdelay-2004-2005-Hive){:TARGET="_BLANK"}
+- [Kaggle Dataset 1.34GB](https://www.kaggle.com/datasets/tesfayebain/dataverse-files){:TARGET="_BLANK"}
+
+### Flight Delay Analysis - 2008 (Bigdata)
+The U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics (BTS) tracks the on-time performance of domestic flights operated by large air carriers. Summary information on the number of on-time, delayed, canceled and diverted flights appears in DOT's monthly Air Travel Consumer Report, published about 30 days after the month's end, as well as in summary tables posted on this website. 
+
+Apache Hive is a data warehousing and SQL-like query engine built on top of Hadoop. Hadoop has Hadoop Distributed File System (HDFS). It can handle distributed storage and processing of the data in hand. Hive can handle billions of transactions. We can perform any kind of SQL Query without bothering whether aggregation functions or filter function will be ever completed or not. Hive can handle all CRUD operations.
+
+Dataset contains airlines daily flight information like Origin,Dest, Distance,DepTime, CRSDepTime, ArrTime, CRSArrTime, UniqueCarrier, FlightNum, TailNum, ActualElapsedTime, CRSElapsedTime, AirTime, ArrDelay, DepDelay, TaxiIn, TaxiOut, Cancelled, CancellationCode, Diverted, CarrierDelay, WeatherDelay, NASDelay, SecurityDelay, LateAircraftDelay. Airlines wanted to analyze the of last 20 years.
+
+**Links**     
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Travel%2BLogistic/Flightdelay-2008-Analysis){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Travel%2BLogistic/Flightdelay-2008-Analysis/Flight_Delay_2008-EDA.ipynb){:TARGET="_BLANK"}
 - [Kaggle Dataset - 247.96 MB](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses){:TARGET="_BLANK"}
 
 **Tech Stack:** Hadoop/HDFS, Hive, SQL, HiveQL, ORC (Optimized Row Columnar) or Parquet, Python, Matplotlib/Seaborn. 
 
-### NYC Parking (Bigdata and pySpark)
+### Flight Delay and Cancellation Analysis - 2015 
+The U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics (BTS) tracks the on-time performance of domestic flights operated by large air carriers. Summary information on the number of on-time, delayed, canceled and diverted flights appears in DOT's monthly Air Travel Consumer Report, published about 30 days after the month's end, as well as in summary tables posted on this website. 
+
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Travel%2BLogistic/Flightdelay-2015-Analysis){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Travel%2BLogistic/Flightdelay-2015-Analysis/2015-Flight-Delays-and-Cancellations.ipynb){:TARGET="_BLANK"}
+- [Kaggle Dataset - 593 MB](https://www.kaggle.com/datasets/usdot/flight-delays){:TARGET="_BLANK"}
+
+
+### NYC Parking - 2017 (Bigdata and pySpark)
 - [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+- [PySpark Colab](){:TARGET="_BLANK"}
+- [PySpark to EDA of 108 millions Transactions](https://github.com/dasarpai/DAI-Projects/blob/main/Travel%2BLogistic/NYC-Parking-2017-Bigdata+pySpark/NYC_Parking_Data_Analysis.ipynb){:TARGET="_BLANK"}
+- [Kaggle Dataset](https://www.kaggle.com/datasets/new-york-city/nyc-parking-tickets)
+
 
 ### Driver Availablity Prediction
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Travel%2BLogistic/Driver-Availablity-Prediction){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Travel%2BLogistic/Driver-Availablity-Prediction/Driver-Availability.ipynb){:TARGET="_BLANK"}
+- [Dataset](https://github.com/dasarpai/DAI-Projects/blob/main/Travel%2BLogistic/Driver-Availablity-Prediction/drivers.csv) & ping.csv
 
 ### Uber Cancellation
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Travel%2BLogistic/Uber-Cancellation){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Travel%2BLogistic/Uber-Cancellation/Uber-Assignment.ipynb){:TARGET="_BLANK"}
+- [Dataset](https://github.com/dasarpai/DAI-Projects/blob/main/Travel%2BLogistic/Uber-Cancellation/Uber%20Request%20Data.csv)
 
 ### Vehicle Classification
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Travel%2BLogistic/Vehicle-Classification){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Travel%2BLogistic/Vehicle-Classification/Emergency_Vehicle_Classification.ipynb){:TARGET="_BLANK"}
 
 ### Vehicle Tracking
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Travel%2BLogistic/Vehicle-Tracking){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Travel%2BLogistic/Vehicle-Tracking/Vehicles-Identification.ipynb){:TARGET="_BLANK"}
 
 -----------------------------------------------------------
 
@@ -314,6 +336,11 @@ Class 19:,   precision: 0.91,   recall: 0.89,   fscore: 0.90,   support: 81.00
 - [Dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/20news-bydate-dataset.zip){:TARGET="_BLANK"}
 
 ### Podcast-Transcription
+In this project, we are trying to extract answers of questions which are recorded in podcast!
+- Groq Whisper is used for transcribing text from speech like podcast episodes
+- PineCone vector database stores and retrieves embeddings of the text. This allows for fast and accurate semantic search, enabling users to find relevant information using natural language queries.
+- Streamlit is used to create UI, which can be used for QA.
+
 - [Github Repo]() - WIP
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
 
