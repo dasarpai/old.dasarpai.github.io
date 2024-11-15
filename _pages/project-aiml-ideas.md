@@ -3,7 +3,7 @@ id: 748
 title: "List of Projects"
 layout: single
 toc_sticky: true
-permalink: /list-of-projects
+permalink: /aiml-projectideas
 date: 2024-10-03
 tags: [Hari Thapliyal, Projects]
 excerpt: "Image : Gallery"
@@ -84,7 +84,7 @@ li {
 
 ## Projects by Domain
 
-### **2. All (General/Multiple Domains)**   
+### **Misc (General/Multiple Domains)**   
 - **[Age and Gender Detection project](https://data-flair.training/blogs/python-project-gender-age-detection/)**    
 - **[Chatbot project](https://data-flair.training/blogs/python-chatbot-project/)**    
 - **[Color Detection project](https://data-flair.training/blogs/project-in-python-colour-detection/)**    
@@ -101,14 +101,23 @@ li {
 - **[Machine learning Projects for 2021](https://bit.ly/3bguRF1_)**
 - **[Python Fun Projects with Code for 2021](https://bit.ly/3hBHzz4_)**
 - **[SOTA Models(State of the Art Results)](https://bit.ly/2UoM6NY_)**
-### **1. Agriculture**
+- **Cartoon of an Image**
+- **Pattern Recognition of IRIS Flower based on Artificial Intelligence**
+- **Text to Image Generator using GAN**
+- **[Web Scraping Projects with Python](https://bit.ly/3gwJIMr)**
+- **[Python GUI project](https://bit.ly/2SsEqti)**
+- **[Dice Roll Simulator](https://thecleverprogrammer.com/2021/01/10/dice-roll-simulator-with-python/)**  
+- **[QR Code Generator](https://thecleverprogrammer.com/2021/01/09/qr-codes-with-python/)**  
+- **[Scrape Instagram](https://thecleverprogrammer.com/2020/07/30/scraping-instagram-with-python/)**  
+
+### **Agriculture**
 - **Best Crop Prediction**
 - **Crop Yield Prediction And Efficient Use Of Fertilizers**
 - **Fertilizer Prediction**
 - **Flood Prediction**
 - **Rice Crop Disease Detection**
 
-### **3. BFSI (Banking, Financial Services, and Insurance)**
+### **BFSI (Banking, Financial Services, and Insurance)**
 - **Bank Churn Model**
 - **Bank Marketing**
 - **Company Turnover Predictor**
@@ -125,17 +134,17 @@ li {
 - **[Bank Management System Project](https://projectworlds.in/python-projects-with-source-code/bank-management-system-project-in-python/)**  
 - **[Loan Defaulter Prediction Machine Learning](https://projectworlds.in/loan-defaulter-prediction-machine-learning-projects/)**  
 - **[Loan Eligibility Prediction Python Machine Learning](https://projectworlds.in/loan-eligibility-prediction-python-machine-learning-project/)**  
-### **4. Climate**
+
+### **Climate**
 - **Air Quality Prediction**
 - **Analysis and Forest Fire Area Prediction**
 - **Flood Prediction**
 - **[Count Number of Rainy days in a year](https://thecleverprogrammer.com/2020/09/18/count-rainy-days-with-python/)**  
-### **5. eCommerce**
-- **Characterizing And Predicting Early Reviewers For Effective Product Marketing On Ecommerce Websites**
+
+### **eCommerce**
 - **Customer Recommendation System**
 - **Fake Job Recruitment Detection**
 - **Wish list Products Price Comparison Website Project**
-### **5. eCommerce**
 - **High-value customers identification for an E-Commerce company**
 - **Rossman Stores Sales Prediction**
 - **Sales Prophesy in Business using ML**
@@ -143,38 +152,40 @@ li {
 - **[Black Friday Sales Prediction project Machine Learning](https://projectworlds.in/black-friday-sales-prediction-project-with-source-code/)**  
 - **[Ecommerce Food Products Sales Forecasting System](https://nevonprojects.com/ecommerce-products-sales-predictions/)**  
 - **[Price Comparison Website for Online Shopping Project](https://nevonprojects.com/price-comparison-website-for-online-shopping-project/)**  
-### **6. Economics**
+
+### **Economics**
 - **Car Performance Prediction**
 - **Wine Quality Prediction Using Chemical Analysis Data**
-### **6. Economics**
 - **Predicting the strength of the concrete pillars used in industrial infrastructure**
 - **Predicting the resale price of a car**
 - **Web Traffic Prediction**
-### **7. Education**
+
+### **Education**
 - **Student Management System Project**
 - **Detecting At-Risk Students With Early Interventions Using Machine Learning Techniques**
 - **University Admission Prediction**
 - **[Online Examination System Project](https://projectworlds.in/python-projects-with-source-code/online-examination-system-project-in-django/)**  
 - **[Python Django College Management System](https://projectworlds.in/python-projects-with-source-code/pytho-django-college-management-system/)**  
-### **8. Electronics**
+
+### **Electronics**
 - **Object Detection and Alert System for Visually Impaired People**
 - **Smart Security System Using Image Recognition**
 - **Traffic Signs Recognition Project**
 - **An Efficient Gait Recognition Method for Known and Unknown Covariate Conditions**
-### **9. Energy**
+
+### **Energy**
 - **Soil Moisture Retrieval using Groundwater Dataset using Machine Learning**
+
 ### **Tourism + Hospitality + Hotel + Restaurant + Event**  
 - **[Decision Tree Based Tourism Recommendation System](https://nevonprojects.com/decision-tree-based-tourism-recommendation-system/)**  
 - **[Hotel Management System Project](https://projectworlds.in/python-projects-with-source-code/hotel-management-system-proect-in-python/)**  
-### **Travel + Logistic**  
-- **[Efficient Courier Tracking System Project](https://nevonprojects.com/efficient-courier-tracking-system-project/)**  
-- **[Logistics Management System Project in Python](https://nevonprojects.com/logistics-management-system-project-in-python/)**  
+
+
 ### **Entertainment + Games + Sports**  
 - **[Animal Quiz Game](https://thecleverprogrammer.com/2021/01/03/create-a-quiz-game-with-python/)**  
 - **[Ludo Game Project](https://projectworlds.in/python-projects-with-source-code/ludo-game-project-in-python/)**  
 - **[Multiplayer Tic Tac Toe](https://code-projects.org/multiplayer-tictactoe-in-python-with-source-code/)**  
 - **[Play Rock, Paper, and Scissors with Python](https://thecleverprogrammer.com/2021/01/10/rock-paper-and-scissors-game-with-python/)**  
-### **10. Entertainment+Games+Sports**
 - **Image Caption And Speech Generation Using LSTM and GTTS API**
 - **Music & Movie Recommendation**
 - **Music Genre Classification using ML algorithms**
@@ -182,45 +193,47 @@ li {
 - **Tic Tac Toe Project**
 - **Story Generator with Python**
 - **Transformer Conversational Chatbot in Python using TensorFlow 2.0**
-### **11. Health**
-- **Breast Cancer Classification**
-- **Deep Learning Model for Detecting COVID-19 on Chest X-Ray Using Convolutional Neural Networks**
-- **Detection of Malicious Code Variants Based on Deep Learning**
-- **Early Prediction of Diabetes Mellitus Using Intensive Care Data to Improve Clinical Decisions**
-- **Effective Heart Disease Prediction Using Hybrid Machine Learning Techniques**
-- **Heart Disease Prediction**
-- **Kidney Disease Prediction**
-- **Malaria disease prediction using deep learning**
-- **Pneumonia Detection Using CNN**
-- **Skin Disease Detection and Classification Using Deep Learning Algorithms**
-- **Skin disease prediction using deep learning**
-- **Survival Analysis Of Diabetes**
-- **Survival of Heart Failure Prediction Using Feature Scaling**
-- **Stress Detection in IT Professionals**
-- **Suicidal tweets detection**
-- **Predicting the Readmission To Hospitals For Diabetic Patients**
-- **Prediction Of Diabetes Mellitus**
-- **Prediction of Chronic Kidney Disease Using Machine Learning**
-- **Life Expectancy Analysis and Prediction**
+
+### **Pharma+Health**
 - **[Breast Cancer Classification project](https://data-flair.training/blogs/project-in-python-breast-cancer-classification/)**  
 - **[Diabetes Prediction using Machine Learning](https://projectworlds.in/diabetes-prediction-using-machine-learning-project-code/)**  
 - **[Heart Disease Prediction using Machine Learning](https://projectworlds.in/heart-disease-prediction-using-machine-learning-project/)** 
 - **[Skin Cancer Detection using Machine learning](https://projectworlds.in/skin-cancer-detection-using-machine-learning/)**  
-### **12. HR (Human Resources)**
+- **Deep Learning Model for Detecting COVID-19 on Chest X-Ray Using Convolutional Neural Networks**
+- **Detection of Malicious Code Variants Based on Deep Learning**
+- **Early Prediction of Diabetes Mellitus Using Intensive Care Data to Improve Clinical Decisions**
+- **Effective Heart Disease Prediction Using Hybrid Machine Learning Techniques**
+- **Kidney Disease Prediction**
+- **Life Expectancy Analysis and Prediction**
+- **Malaria disease prediction using deep learning**
+- **Pneumonia Detection Using CNN**
+- **Predicting the Readmission To Hospitals For Diabetic Patients**
+- **Prediction of Chronic Kidney Disease Using Machine Learning**
+- **Prediction Of Diabetes Mellitus**
+- **Skin Disease Detection and Classification Using Deep Learning Algorithms**
+- **Stress Detection in IT Professionals**
+- **Suicidal tweets detection**
+- **Survival Analysis Of Diabetes**
+- **Survival of Heart Failure Prediction Using Feature Scaling**
+- **Web Based Blood Donation Management System Project**
+- **Web Based Pharmaceutical Store Sales Forecasting System**
+
+### **HR (Human Resources)**
 - **Employee Attrition Prediction**
 - **Human Activity Recognition**
 - **[Online Employee Payroll Management System Project](https://nevonprojects.com/online-employee-payroll-management-system-project/)**  
 - **[Online Employee Recruitment System Project in Python](https://nevonprojects.com/online-employee-recruitment-system-project-in-python/)**  
-### **13. Industrial Safety**
+
+### **Industrial Safety**
 - **Construction Site Accident Analysis & Prediction Using Text Data**
 - **Outdoor Hazard Identification and Detection**
-### **14. Infrastructure**
+
+### **Infrastructure**
 - **Prediction of Exact Niche using Bank Data**
 - **Web Based Place Finder Using Django and GeoDjango**
-- **Web Based Blood Donation Management System Project**
-- **Web Based Pharmaceutical Store Sales Forecasting System**
 - **[Hostel Management System Python](https://projectworlds.in/hostel-management-system-python-django/)**  
-### **15. Media+Publication**
+
+### **Media+Publication**
 - **Detection and Classification of Fruit Diseases**
 - **Web Scraping to Create CSV**
 - **Wish list Products Price Comparison Website Project**
@@ -228,16 +241,9 @@ li {
 - **Toxic Comment Detection**
 - **Twitter Sentiment Analysis**
 - **[News Aggregator App project](https://data-flair.training/blogs/django-project-news-aggregator-app/)**  
-### **16. Miscellaneous**
-- **Cartoon of an Image**
-- **Pattern Recognition of IRIS Flower based on Artificial Intelligence**
-- **Text to Image Generator using GAN**
-- **[Web Scraping Projects with Python](https://bit.ly/3gwJIMr)**
-- **[Python GUI project](https://bit.ly/2SsEqti)**
-- **[Dice Roll Simulator](https://thecleverprogrammer.com/2021/01/10/dice-roll-simulator-with-python/)**  
-- **[QR Code Generator](https://thecleverprogrammer.com/2021/01/09/qr-codes-with-python/)**  
-- **[Scrape Instagram](https://thecleverprogrammer.com/2020/07/30/scraping-instagram-with-python/)**  
-### **17. Public Safety+Security**
+
+
+### **Public Safety+Security**
 - **An Automatic Garbage Classification System Based on Deep Learning**
 - **Detection of Malicious Code Variants Based on Deep Learning**
 - **Detection and Classification of Fruit Diseases**
@@ -247,21 +253,27 @@ li {
 - **[Driver Drowsiness Detection project](https://data-flair.training/blogs/python-project-driver-drowsiness-detection-system/)**  
 - **[Online Crime Reporting System in Python Project](https://nevonprojects.com/online-crime-reporting-system-in-python-project/)**  
 - **[OTP Verification System](https://thecleverprogrammer.com/2021/04/14/otp-verification-using-python/)**  
-### **18. Sales**
+
+### **Sales**
 - **Advertisement Popularity Prediction**
 - **Car Performance Prediction**
 - **Customer Recommendation System**
 - **Predicting the Resale Price of a Car**
 - **Sales Prophesy in Business using ML**  
 - **[Ecommerce Food Products Sales Forecasting System](https://nevonprojects.com/ecommerce-products-sales-predictions/)**  
-### **20. Telecom**
+
+### **Telecom**
 - **Android Malware Detection Using Machine Learning Techniques**
 - **Prediction of customer churn in the telecom industry**
-### **21. Tourism+Hospitality+Hotel+Restaurant+Event**
+
+### **Tourism+Hospitality+Hotel+Restaurant+Event**
 - **A Deep Learning Facial Expression Recognition Based Scoring System For Restaurants**
 - **A Decision Tree-based Recommendation System for Tourists**
 - **Restaurant Emotion Analysis (part of facial expression recognition)**
 - **No specific project listed in this domain.**
-### **22. Travel+Logistic**
+
+### **Travel+Logistic**
 - **Driving Decision Strategy (DDS) Based on Machine Learning for an Autonomous Vehicle**
 - **No specific project listed in this domain.**
+- **[Efficient Courier Tracking System Project](https://nevonprojects.com/efficient-courier-tracking-system-project/)**  
+- **[Logistics Management System Project in Python](https://nevonprojects.com/logistics-management-system-project-in-python/)**  
