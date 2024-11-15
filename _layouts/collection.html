@@ -8,5 +8,19 @@ layout: archive
 <div class="entries-{{ entries_layout }}">
   {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
 </div>
-
-{% include newsletter.html %}
+<style>
+  /* Reset any background color inheritance */
+  body, #main, .page__content, .page__inner-wrap {
+    background-color: inherit !important;
+  }
+  
+  /* Ensure newsletter section is self-contained */
+  .newsletter-section {
+    background-color: inherit;
+    padding: 0;
+    margin: 0;
+  }
+</style>
+<div class="newsletter-section">
+  {% include newsletter.html %}
+</div>
