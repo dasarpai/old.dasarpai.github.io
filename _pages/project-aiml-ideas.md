@@ -81,34 +81,11 @@ li {
 - [70 + Awesome AI](https://bit.ly/3hDIXkD)
 - [8 + OpenCV Projects](https://bit.ly/389mj0B)
 - [80 + Computer vision Learning code](https://bit.ly/3hKCpkm)
+- [Machine Learning Projects for 2021](https://bit.ly/356bjiC_)
+- [Machine learning Projects for 2021](https://bit.ly/3bguRF1_)
+- [Python Fun Projects with Code for 2021](https://bit.ly/3hBHzz4_)
 
 ## Projects by Domain
-
-### **Misc (General/Multiple Domains)**   
-- **[Age and Gender Detection project](https://data-flair.training/blogs/python-project-gender-age-detection/)**    
-- **[Chatbot project](https://data-flair.training/blogs/python-chatbot-project/)**    
-- **[Color Detection project](https://data-flair.training/blogs/project-in-python-colour-detection/)**    
-- **[Crime Data Analysis Project in Machine Learning](https://projectworlds.in/crime-data-analysis-project-in-machine-learning/)**    
-- **[Generate Password with Python](https://thecleverprogrammer.com/2021/01/11/python-program-to-generate-password/)**  
-- **[AI Projects](https://bit.ly/3znT0CU)**
-- **[Deep and Machine learning Projects](https://bit.ly/3cDlsXL_)**
-- **[Deep Learning Projects Solved and Explained with Python](https://bit.ly/2U2nMRK_)**
-- **[Data Science Projects kaggle](https://bit.ly/3xl7GB9_)**
-- **[GANs Collection](https://bit.ly/3hgcvGu)**
-- **[Generative Adversarial nets](https://bit.ly/3qVw3Dl)**
-- **[Kaggle projects collection](https://bit.ly/3xl7GB9_)**
-- **[Machine Learning Projects for 2021](https://bit.ly/356bjiC_)**
-- **[Machine learning Projects for 2021](https://bit.ly/3bguRF1_)**
-- **[Python Fun Projects with Code for 2021](https://bit.ly/3hBHzz4_)**
-- **[SOTA Models(State of the Art Results)](https://bit.ly/2UoM6NY_)**
-- **Cartoon of an Image**
-- **Pattern Recognition of IRIS Flower based on Artificial Intelligence**
-- **Text to Image Generator using GAN**
-- **[Web Scraping Projects with Python](https://bit.ly/3gwJIMr)**
-- **[Python GUI project](https://bit.ly/2SsEqti)**
-- **[Dice Roll Simulator](https://thecleverprogrammer.com/2021/01/10/dice-roll-simulator-with-python/)**  
-- **[QR Code Generator](https://thecleverprogrammer.com/2021/01/09/qr-codes-with-python/)**  
-- **[Scrape Instagram](https://thecleverprogrammer.com/2020/07/30/scraping-instagram-with-python/)**  
 
 ### **Agriculture**
 - **Best Crop Prediction**
@@ -175,11 +152,6 @@ li {
 
 ### **Energy**
 - **Soil Moisture Retrieval using Groundwater Dataset using Machine Learning**
-
-### **Tourism + Hospitality + Hotel + Restaurant + Event**  
-- **[Decision Tree Based Tourism Recommendation System](https://nevonprojects.com/decision-tree-based-tourism-recommendation-system/)**  
-- **[Hotel Management System Project](https://projectworlds.in/python-projects-with-source-code/hotel-management-system-proect-in-python/)**  
-
 
 ### **Entertainment + Games + Sports**  
 - **[Animal Quiz Game](https://thecleverprogrammer.com/2021/01/03/create-a-quiz-game-with-python/)**  
@@ -266,14 +238,35 @@ li {
 - **Android Malware Detection Using Machine Learning Techniques**
 - **Prediction of customer churn in the telecom industry**
 
-### **Tourism+Hospitality+Hotel+Restaurant+Event**
+### **Tourism + Hospitality + Hotel + Restaurant + Event**  
+- **[Decision Tree Based Tourism Recommendation System](https://nevonprojects.com/decision-tree-based-tourism-recommendation-system/)**  
+- **[Hotel Management System Project](https://projectworlds.in/python-projects-with-source-code/hotel-management-system-proect-in-python/)**  
 - **A Deep Learning Facial Expression Recognition Based Scoring System For Restaurants**
-- **A Decision Tree-based Recommendation System for Tourists**
 - **Restaurant Emotion Analysis (part of facial expression recognition)**
-- **No specific project listed in this domain.**
 
 ### **Travel+Logistic**
 - **Driving Decision Strategy (DDS) Based on Machine Learning for an Autonomous Vehicle**
-- **No specific project listed in this domain.**
 - **[Efficient Courier Tracking System Project](https://nevonprojects.com/efficient-courier-tracking-system-project/)**  
 - **[Logistics Management System Project in Python](https://nevonprojects.com/logistics-management-system-project-in-python/)**  
+
+### **Misc (General/Multiple Domains) - AI Project**   
+- **[Age and Gender Detection project](https://data-flair.training/blogs/python-project-gender-age-detection/)**    
+- **[Chatbot project](https://data-flair.training/blogs/python-chatbot-project/)**    
+- **[Color Detection project](https://data-flair.training/blogs/project-in-python-colour-detection/)**    
+- **[Crime Data Analysis Project in Machine Learning](https://projectworlds.in/crime-data-analysis-project-in-machine-learning/)**    
+- **[Deep and Machine learning Projects](https://bit.ly/3cDlsXL_)**
+- **[Deep Learning Projects Solved and Explained with Python](https://bit.ly/2U2nMRK_)**
+- **[Data Science Projects kaggle](https://bit.ly/3xl7GB9_)**
+- **[GANs Collection](https://bit.ly/3hgcvGu)**
+- **[Generative Adversarial nets](https://bit.ly/3qVw3Dl)**
+
+### **Simple Python Projects**
+- **Cartoon of an Image**
+- **Pattern Recognition of IRIS Flower based on Artificial Intelligence**
+- **Text to Image Generator using GAN**
+- **[Web Scraping Projects with Python](https://bit.ly/3gwJIMr)**
+- **[Python GUI project](https://bit.ly/2SsEqti)**
+- **[Dice Roll Simulator](https://thecleverprogrammer.com/2021/01/10/dice-roll-simulator-with-python/)**  
+- **[QR Code Generator](https://thecleverprogrammer.com/2021/01/09/qr-codes-with-python/)**  
+- **[Scrape Instagram](https://thecleverprogrammer.com/2020/07/30/scraping-instagram-with-python/)**  
+- **[Generate Password with Python](https://thecleverprogrammer.com/2021/01/11/python-program-to-generate-password/)**  
