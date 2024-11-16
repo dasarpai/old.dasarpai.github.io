@@ -59,7 +59,45 @@ This domain covers employee management, recruitment, training, compensation, and
 - [Kaggle dataset](){:TARGET="_BLANK"}
 - **Objective:** Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.
 
+-----------------------------------------------------------
 
+## <font color=green>Health</font>
+The health domain includes healthcare providers, hospitals, pharmaceuticals, health insurance, and healthcare technology focused on improving patient care, medical research, and public health initiatives. This vertical will not include project related to Health-Infra development.
+
+### Liver Patient Analysis
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Liver_Patient){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/Liver_Patient/Liver_Patient_Analysis.ipynb){:TARGET="_BLANK"}
+- [Liver Patient Analysis - Kaggle](https://www.kaggle.com/code/harithapliyal/liver-patient-analysis){:TARGET="_BLANK"}
+- [Githug Dataset](){:TARGET="_BLANK"}
+- [Kaggle Dataset](){:TARGET="_BLANK"}
+
+### Breast-Cancer-Prediction
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Breast-Cancer-Prediction){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/Breast-Cancer-Prediction/BreastCancer2.ipynb){:TARGET="_BLANK"}
+
+### Chest-XRay - Effusion Segmentation
+- [Githug Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Chest-XRay-Segmentation)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/Chest-XRay-Segmentation/Lungs_Segmentation_using_U_Net_Architecture.ipynb)
+
+### Chest-XRay - Effusion Classification
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Chest-XRay-Effusion-Classification){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/Chest-XRay-Effusion-Classification/Chest-XRay-Effusion-Classification.ipynb){:TARGET="_BLANK"}
+
+### Covid-worldwide-EDA
+- [Github Repo](){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+
+### India-Covid-Graphs
+- [Github Repo](){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+
+### Malaria-Detection_dep
+- [Github Repo](){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+
+### pnemonia_prediction
+- [Github Repo](){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
 
 -----------------------------------------------------------
 ## <font color=green>Energy</font>
@@ -83,7 +121,8 @@ This domain focuses on climate science, environmental monitoring, and sustainabi
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Climate/Acea-Water-Prediction/acea-smart-water-full-eda-prediction.ipynb){:TARGET="_BLANK"}
 - [Acea Water Prediction & Analysis - Kaggle](https://www.kaggle.com/code/harithapliyal/acea-smart-water-full-eda-prediction){:TARGET="_BLANK"}
 - [Kaggle Dataset](https://www.kaggle.com/competitions/acea-water-prediction){:TARGET="_BLANK"}
-- **Objective**
+
+**Objective**   
   - The Acea Group deals with four different type of waterbodies: water spring (for which three datasets are provided), lake (for which a dataset is provided), river (for which a dataset is provided) and aquifers (for which four datasets are provided).
   - This competition uses nine different datasets, completely independent and not linked to each other. Each dataset can represent a different kind of waterbody. As each waterbody is different from the other, the related features as well are different from each other.
   - It is of the utmost importance to notice that some features like rainfall and temperature, which are present in each dataset, don’t go alongside the date. Indeed, both rainfall and temperature affect features like level, flow, depth to groundwater and hydrometry some time after it fell down. This means, for instance, that rain fell on 1st January doesn’t affect the mentioned features right the same day but some time later. As we don’t know how many days/weeks/months later rainfall affects these features, this is another aspect to keep into consideration when analyzing the dataset.
@@ -138,45 +177,7 @@ The electronics domain includes the design, manufacturing, and distribution of e
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Electronics/Hand-Gesture-Recognition){:TARGET="_BLANK"}
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Electronics/Hand-Gesture-Recognition/gesture-recognition-conv3d-conv2d-rnn.ipynb){:TARGET="_BLANK"}
 
------------------------------------------------------------
 
-## <font color=green>Health</font>
-The health domain includes healthcare providers, hospitals, pharmaceuticals, health insurance, and healthcare technology focused on improving patient care, medical research, and public health initiatives. This vertical will not include project related to Health-Infra development.
-
-### Liver Patient Analysis
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Liver_Patient){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/Liver_Patient/Liver_Patient_Analysis.ipynb){:TARGET="_BLANK"}
-- [Liver Patient Analysis - Kaggle](https://www.kaggle.com/code/harithapliyal/liver-patient-analysis){:TARGET="_BLANK"}
-- [Githug Dataset](){:TARGET="_BLANK"}
-- [Kaggle Dataset](){:TARGET="_BLANK"}
-
-### Breast-Cancer-Prediction
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Breast-Cancer-Prediction){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/Breast-Cancer-Prediction/BreastCancer2.ipynb){:TARGET="_BLANK"}
-
-### Chest-XRay - Effusion Segmentation
-- [Githug Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Chest-XRay-Segmentation)
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/Chest-XRay-Segmentation/Lungs_Segmentation_using_U_Net_Architecture.ipynb)
-
-### Chest-XRay - Effusion Classification
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Chest-XRay-Effusion-Classification){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/Chest-XRay-Effusion-Classification/Chest-XRay-Effusion-Classification.ipynb){:TARGET="_BLANK"}
-
-### Covid-worldwide-EDA
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
-
-### India-Covid-Graphs
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
-
-### Malaria-Detection_dep
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
-
-### pnemonia_prediction
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
 
 ----------------------------------------------------------
 

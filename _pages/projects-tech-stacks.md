@@ -27,116 +27,6 @@ sidebar:
 # AI/ML - Technology Stack - Developed/ Created/ Expended work
 **Projects in this section are listed according to Technology/Tech Product/POC**
 
-## 0-Experiments
-
------------------------------------------------------------
-##  <font color=green> Analytics</font>
-
-### PowerBI
-- [PowerBI](https://github.com/dasarpai/DAI-Techstack/tree/main/Analytics/PowerBI)
-
-### Bokeh
-- [Bokeh](https://github.com/dasarpai/DAI-Techstack/tree/main/Analytics/bokeh)
-
-### Pandas
-- [Pandas](https://github.com/dasarpai/DAI-Techstack/tree/main/Analytics/pandas)
-
-### plotly
-- [Plotly](https://github.com/dasarpai/DAI-Techstack/tree/main/Analytics/plotly)
-
-### PyGWalker
-- [PyGWalker](https://github.com/dasarpai/DAI-Techstack/tree/main/Analytics/PyGWalker)
-
-### tableau
-- [Tableau](https://github.com/dasarpai/DAI-Techstack/tree/main/Analytics/tableau)
-
------------------------------------------------------------
-##  <font color=green> Audio</font>
-
-### Speech Recognition
-- [Speech Recognition](https://github.com/dasarpai/DAI-Techstack/tree/main/Audio/Speech-Recognition)
-
------------------------------------------------------------
-##  <font color=green> Bigdata</font>
-
-### Bigdata-HiveScoop
-- [Bigdata-HiveScoop](https://github.com/dasarpai/DAI-Techstack/tree/main/Bigdata/Bigdata-HiveScoop)
-
-### Bigdata-mySQL
-- [Bigdata-mySQL](https://github.com/dasarpai/DAI-Techstack/tree/main/Bigdata/Bigdata-mySQL)
-
-### MangoDB
-- [MangoDB](https://github.com/dasarpai/DAI-Techstack/tree/main/Bigdata/mongodb)
-
------------------------------------------------------------
-##  <font color=green> Cloud</font>
-
-### AWS-Amazon-Bedrock-for-Serverless-LLM
-- [AWS-Amazon-Bedrock-for-Serverless-LLM](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/AWS-Amazon-Bedrock-for-Serverless-LLM)
-
-### AWS-Amplify
-- [AWS-Amplify](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/AWS-Amplify)
-
-### AWS-Runner
-- [AWS-Runner - Nginx](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/AWS-Runner/nginx-web-app)
-
-### AWS-SageMaker
-- [AWS-SageMaker - Linkedin](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/AWS-SageMaker/Linkedin-SageMaker)
-
-### GCP-Vision
-- [OCRization, Video Transcription, Audio Transcription, Image Description](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/gcp-vision)
-
-### Gemini Genai
-- [Gemini Prompt Gallery, Task which can be done with Gaemini-1.5-flash](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/geminigenai)
-- [Story Generation with JavaScript](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/geminigenai/story-generation-js-code) 
-- [Story Generation with Python](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/geminigenai/story-generation-python-code)
-
-### Geimini GenAI-Js
-- [GenAI-Js](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/geminigenai-js)
-
------------------------------------------------------------
-##  <font color=green> CV</font>
-
-### Flower-Prediction
-
-### ImageAugmentation
-
-### ImageProcessing
-
-### MNIST-Experiments
-
-### Object-Detection-InBrowser
-
------------------------------------------------------------
-##  <font color=green> DE</font>
-
-### DataCleaning
-
-### Datacollection
-
-### PyWebScrapping
-
------------------------------------------------------------
-##  <font color=green> Machine Learning Frameworks</font>
-
-### mobilenet-v2
-Using deep learning model on mobile.
-- [Readme of POC@github](https://github.com/dasarpai/DAI-Techstack/tree/main/MLFrameworks/mobilenet-v2)
-
-### Tensofrlow Lite for Regression
-- [Code for App and Model@github](https://github.com/dasarpai/DAI-Techstack/tree/main/MLFrameworks/tensorflow-lite)
-- [Read me of Regression POC@github](https://github.com/dasarpai/DAI-Techstack/tree/main/MLFrameworks/tensorflow-lite/regression_app/regression-model)
-
-
------------------------------------------------------------
-##  <font color=green> GAN</font>
-### MusicGeneration
-
------------------------------------------------------------
-##  <font color=green> IOT</font>
-### BOLTIOT
-
------------------------------------------------------------
 ##  <font color=green> LLM</font>
 
 ### Langchain Multimodal
@@ -221,7 +111,136 @@ Create and version datasets with Artifacts (Commet Artifacts)
 ### GroqCloud
 - [Github Repo](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/groqcloud)
 
+
 -----------------------------------------------------------
+
+##  <font color=green> NLP</font>
+
+### embedding
+- [embedding](https://github.com/dasarpai/DAI-Techstack/tree/main/NLP/embedding/open-source-embeddings)
+
+### NLP-Concepts
+- [NLP-Concepts](https://github.com/dasarpai/DAI-Techstack/tree/main/NLP/NLP-Concepts)
+
+### NLP-Hindi-Bible
+- [NLP-Hindi-Bible](https://github.com/dasarpai/DAI-Techstack/tree/main/NLP/NLP-Hindi-Bible)
+
+### NLP-Plugin20Event
+- [NLP-Plugin20Event](https://github.com/dasarpai/DAI-Techstack/tree/main/NLP/NLP-Plugin20Event)
+
+### NLP-rasa
+- [NLP-rasa](https://github.com/dasarpai/DAI-Techstack/tree/main/NLP/NLP-rasa)
+
+### NLP-Misc
+- [NLP-Misc](https://github.com/dasarpai/DAI-Techstack/tree/main/NLP/NLP-Misc)
+
+-----------------------------------------------------------
+
+##  <font color=green> Cloud</font>
+
+### AWS-Amazon-Bedrock-for-Serverless-LLM
+- [AWS-Amazon-Bedrock-for-Serverless-LLM](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/AWS-Amazon-Bedrock-for-Serverless-LLM)
+
+### AWS-Amplify
+- [AWS-Amplify](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/AWS-Amplify)
+
+### AWS-Runner
+- [AWS-Runner - Nginx](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/AWS-Runner/nginx-web-app)
+
+### AWS-SageMaker
+- [AWS-SageMaker - Linkedin](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/AWS-SageMaker/Linkedin-SageMaker)
+
+### GCP-Vision
+- [OCRization, Video Transcription, Audio Transcription, Image Description](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/gcp-vision)
+
+### Gemini Genai
+- [Gemini Prompt Gallery, Task which can be done with Gaemini-1.5-flash](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/geminigenai)
+- [Story Generation with JavaScript](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/geminigenai/story-generation-js-code) 
+- [Story Generation with Python](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/geminigenai/story-generation-python-code)
+
+### Geimini GenAI-Js
+- [GenAI-Js](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/geminigenai-js)
+
+----------------------------------------------------------
+
+##  <font color=green> Analytics</font>
+
+### PowerBI
+- [PowerBI](https://github.com/dasarpai/DAI-Techstack/tree/main/Analytics/PowerBI)
+
+### Bokeh
+- [Bokeh](https://github.com/dasarpai/DAI-Techstack/tree/main/Analytics/bokeh)
+
+### Pandas
+- [Pandas](https://github.com/dasarpai/DAI-Techstack/tree/main/Analytics/pandas)
+
+### plotly
+- [Plotly](https://github.com/dasarpai/DAI-Techstack/tree/main/Analytics/plotly)
+
+### PyGWalker
+- [PyGWalker](https://github.com/dasarpai/DAI-Techstack/tree/main/Analytics/PyGWalker)
+
+### tableau
+- [Tableau](https://github.com/dasarpai/DAI-Techstack/tree/main/Analytics/tableau)
+
+-----------------------------------------------------------
+##  <font color=green> Bigdata</font>
+
+### Bigdata-HiveScoop
+- [Bigdata-HiveScoop](https://github.com/dasarpai/DAI-Techstack/tree/main/Bigdata/Bigdata-HiveScoop)
+
+### Bigdata-mySQL
+- [Bigdata-mySQL](https://github.com/dasarpai/DAI-Techstack/tree/main/Bigdata/Bigdata-mySQL)
+
+### MangoDB
+- [MangoDB](https://github.com/dasarpai/DAI-Techstack/tree/main/Bigdata/mongodb)
+
+
+
+-----------------------------------------------------------
+##  <font color=green> CV</font>
+
+### Flower-Prediction
+
+### ImageAugmentation
+
+### ImageProcessing
+
+### MNIST-Experiments
+
+### Object-Detection-InBrowser
+
+-----------------------------------------------------------
+##  <font color=green> DE</font>
+
+### DataCleaning
+
+### Datacollection
+
+### PyWebScrapping
+
+-----------------------------------------------------------
+##  <font color=green> Machine Learning Frameworks</font>
+
+### mobilenet-v2
+Using deep learning model on mobile.
+- [Readme of POC@github](https://github.com/dasarpai/DAI-Techstack/tree/main/MLFrameworks/mobilenet-v2)
+
+### Tensofrlow Lite for Regression
+- [Code for App and Model@github](https://github.com/dasarpai/DAI-Techstack/tree/main/MLFrameworks/tensorflow-lite)
+- [Read me of Regression POC@github](https://github.com/dasarpai/DAI-Techstack/tree/main/MLFrameworks/tensorflow-lite/regression_app/regression-model)
+
+
+-----------------------------------------------------------
+##  <font color=green> GAN</font>
+### MusicGeneration
+
+-----------------------------------------------------------
+##  <font color=green> IOT</font>
+### BOLTIOT
+
+-----------------------------------------------------------
+
 ##  <font color=green> Machine Learning</font>
 ### Classification
 - [Classification](https://github.com/dasarpai/DAI-Techstack/tree/main/ML/Classification)
@@ -250,27 +269,7 @@ Create and version datasets with Artifacts (Commet Artifacts)
 - [Naptune](https://github.com/dasarpai/DAI-Techstack/tree/main/MLOps/naptune)
 
 -----------------------------------------------------------
-##  <font color=green> NLP</font>
-
-### embedding
-- [embedding](https://github.com/dasarpai/DAI-Techstack/tree/main/NLP/embedding/open-source-embeddings)
-
-### NLP-Concepts
-- [NLP-Concepts](https://github.com/dasarpai/DAI-Techstack/tree/main/NLP/NLP-Concepts)
-
-### NLP-Hindi-Bible
-- [NLP-Hindi-Bible](https://github.com/dasarpai/DAI-Techstack/tree/main/NLP/NLP-Hindi-Bible)
-
-### NLP-Plugin20Event
-- [NLP-Plugin20Event](https://github.com/dasarpai/DAI-Techstack/tree/main/NLP/NLP-Plugin20Event)
-
-### NLP-rasa
-- [NLP-rasa](https://github.com/dasarpai/DAI-Techstack/tree/main/NLP/NLP-rasa)
-
-### NLP-Misc
-- [NLP-Misc](https://github.com/dasarpai/DAI-Techstack/tree/main/NLP/NLP-Misc)
-
------------------------------------------------------------
+-
 ##  <font color=green> Python-Automation</font>
 - [Python Automation](https://github.com/dasarpai/DAI-Techstack/tree/main/Python-Automation)
 
@@ -286,6 +285,12 @@ Create and version datasets with Artifacts (Commet Artifacts)
 ##  <font color=green> Timeseries</font>
 ### [TS-multivariate](https://github.com/dasarpai/DAI-Techstack/tree/main/Timeseries/TS-Smoothing)
 ### [TS-Smoothing](https://github.com/dasarpai/DAI-Techstack/tree/main/Timeseries/TS-multivariate)
+
+-----------------------------------------------------------
+##  <font color=green> Audio</font>
+
+### Speech Recognition
+- [Speech Recognition](https://github.com/dasarpai/DAI-Techstack/tree/main/Audio/Speech-Recognition)
 
 -----------------------------------------------------------
 # [Web+Mobile App Development - POC Work](https://github.com/dasarpai/DAI-Techstack/tree/main/Web%2BMobile)
