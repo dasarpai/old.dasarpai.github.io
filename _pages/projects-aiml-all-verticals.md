@@ -108,8 +108,8 @@ The e-commerce domain comprises online platforms and businesses that facilitate 
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
 
 ### Online-Retail-Customer-Clustering
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/eCommerce/Online-Retail-Customer-Clustering){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/eCommerce/Online-Retail-Customer-Clustering/Clustering%2BPython%2BLab.ipynb){:TARGET="_BLANK"}
 
 ### Recommendation System Amazon Electronics
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/eCommerce/Amazon-Electronics-Recommendation){:TARGET="_BLANK"}
@@ -154,9 +154,13 @@ The health domain includes healthcare providers, hospitals, pharmaceuticals, hea
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Breast-Cancer-Prediction){:TARGET="_BLANK"}
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/Breast-Cancer-Prediction/BreastCancer2.ipynb){:TARGET="_BLANK"}
 
-### Chest-XRay
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+### Chest-XRay - Effusion Segmentation
+- [Githug Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Chest-XRay-Segmentation)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/Chest-XRay-Segmentation/Lungs_Segmentation_using_U_Net_Architecture.ipynb)
+
+### Chest-XRay - Effusion Classification
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Chest-XRay-Effusion-Classification){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/Chest-XRay-Effusion-Classification/Chest-XRay-Effusion-Classification.ipynb){:TARGET="_BLANK"}
 
 ### Covid-worldwide-EDA
 - [Github Repo](){:TARGET="_BLANK"}
