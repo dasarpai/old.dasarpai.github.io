@@ -138,6 +138,11 @@ Using deep learning model on mobile.
 
 -----------------------------------------------------------
 ##  <font color=green> LLM</font>
+
+### Langchain Multimodal
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack/blob/main/LLM//langchain-multimodal)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Techstack/blob/main/LLM/langchain-multimodal/langchain_multimodal.ipynb)
+
 ### [comet.com](https://www.comet.com/site/)
 Automatically track all your prompt engineering work. Run automated evaluations on your LLM responses to optimize your applications before and after they hit production.
 
