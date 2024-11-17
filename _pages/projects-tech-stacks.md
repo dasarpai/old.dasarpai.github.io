@@ -25,7 +25,7 @@ sidebar:
 
 
 # AI/ML - Technology Stack - Developed/ Created/ Expended work
-**Projects in this section are listed according to Technology/Tech Product/POC**
+**Works in this section are listed according to Technology/Tech Product/POC**
 
 ##  <font color=green> LLM</font>
 
@@ -33,8 +33,8 @@ sidebar:
 - [Github Repo](https://github.com/dasarpai/DAI-Techstack/blob/main/LLM//langchain-multimodal)
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Techstack/blob/main/LLM/langchain-multimodal/langchain_multimodal.ipynb)
 
-### [comet.com](https://www.comet.com/site/)
-Automatically track all your prompt engineering work. Run automated evaluations on your LLM responses to optimize your applications before and after they hit production.
+### Comet.com
+[Comet]((https://www.comet.com/site/)) Automatically track all your prompt engineering work. Run automated evaluations on your LLM responses to optimize your applications before and after they hit production.
 
 Debug and evaluate your LLM applications with Opik (Opik Open Source LLM Evaluation)
 - Automatically track all your prompt engineering work. Run automated evaluations on your LLM responses to optimize your applications before and after they hit production.
@@ -291,6 +291,55 @@ Using deep learning model on mobile.
 
 ### Speech Recognition
 - [Speech Recognition](https://github.com/dasarpai/DAI-Techstack/tree/main/Audio/Speech-Recognition)
+
+
+# AI/ML - Forked
+ 
+## <font color=green>automl</font>
+ 
+## <font color=green>chroma</font>
+ 
+## <font color=green>diffusers</font>
+ 
+## <font color=green>evalml</font>
+ 
+## <font color=green>gcp-python-docs-samples</font>
+ 
+## <font color=green>GFPGAN</font>
+ 
+## <font color=green>google-gemini-cookbook</font>
+
+ 
+## <font color=green>intel-scikit-learn-intelex</font>
+ 
+## <font color=green>langchain</font>
+ 
+## <font color=green>langgraph</font>
+ 
+## <font color=green>Learning-Pandas-Second-Edition</font>
+ 
+## <font color=green>LeetCode-js</font>
+ 
+## <font color=green>microsoft-generative-ai-for-beginners</font>
+ 
+## <font color=green>packages</font>
+ 
+## <font color=green>stanford_alpaca</font>
+ 
+## <font color=green>tensorboard</font>
+ 
+## <font color=green>tensorflow</font>
+ 
+## <font color=green>tensorflow-examples</font>
+ 
+## <font color=green>tfjs-examples</font>
+ 
+## <font color=green>Visualization</font>
+
+### Lux
+ 
+## <font color=green>viz-github-repo</font>
+
 
 -----------------------------------------------------------
 # [Web+Mobile App Development - POC Work](https://github.com/dasarpai/DAI-Techstack/tree/main/Web%2BMobile)

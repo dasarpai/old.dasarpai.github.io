@@ -390,8 +390,8 @@ Sales is overlap of e-Commerce and Retail. To avoid the confusion anything which
 ## <font color=green>Telecom</font>
 This domain covers telecommunications services and infrastructure, including phone networks, internet providers, satellite communications, and emerging technologies like 5G, enabling global connectivity and communication.
 
-### Telcom Churn
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Telecom/Telcom-Churn){:TARGET="_BLANK"}
+### Telecom Churn
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Telecom/Telecom-Churn){:TARGET="_BLANK"}
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Telecom/Telecom-Churn/TelecomChurn-Solution2.ipynb){:TARGET="_BLANK"}
 
 -----------------------------------------------------------
@@ -417,56 +417,5 @@ This sector covers educational institutions, e-learning platforms, and education
 ## <font color=green>Infrastructure (Infra) Development</font>
 This domain encompasses the planning, design, and construction of physical facilities and systems, including transportation, telecommunications, water supply, and utilities essential for supporting economic activity.
 
-
-## <font color=green>Sanskrit</font>
-
-## <font color=green>Misc</font>
-
-# AI/ML - Forked
- 
-## <font color=green>automl</font>
- 
-## <font color=green>chroma</font>
- 
-## <font color=green>diffusers</font>
- 
-## <font color=green>evalml</font>
- 
-## <font color=green>gcp-python-docs-samples</font>
- 
-## <font color=green>GFPGAN</font>
- 
-## <font color=green>google-gemini-cookbook</font>
-
- 
-## <font color=green>intel-scikit-learn-intelex</font>
- 
-## <font color=green>langchain</font>
- 
-## <font color=green>langgraph</font>
- 
-## <font color=green>Learning-Pandas-Second-Edition</font>
- 
-## <font color=green>LeetCode-js</font>
- 
-## <font color=green>microsoft-generative-ai-for-beginners</font>
- 
-## <font color=green>packages</font>
- 
-## <font color=green>stanford_alpaca</font>
- 
-## <font color=green>tensorboard</font>
- 
-## <font color=green>tensorflow</font>
- 
-## <font color=green>tensorflow-examples</font>
- 
-## <font color=green>tfjs-examples</font>
- 
-## <font color=green>Visualization</font>
-
-### Lux
- 
-## <font color=green>viz-github-repo</font>
 
 
