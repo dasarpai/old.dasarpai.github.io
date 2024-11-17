@@ -56,7 +56,6 @@ This domain covers employee management, recruitment, training, compensation, and
 - [HR Analysis of Employee Attrition & Performance - R](https://www.kaggle.com/code/harithapliyal/attrition-in-an-organization-why-employees-quit){:TARGET="_BLANK"}
 - [HR Analysis of Employee Attrition & Performance - Python](https://www.kaggle.com/code/harithapliyal/attrition-in-an-organization-python){:TARGET="_BLANK"}
 - [Github dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/WA_Fn-UseC_-HR-Employee-Attrition.csv){:TARGET="_BLANK"}
-- [Kaggle dataset](){:TARGET="_BLANK"}
 - **Objective:** Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.
 
 -----------------------------------------------------------
@@ -68,8 +67,7 @@ The health domain includes healthcare providers, hospitals, pharmaceuticals, hea
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Liver_Patient){:TARGET="_BLANK"}
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/Liver_Patient/Liver_Patient_Analysis.ipynb){:TARGET="_BLANK"}
 - [Liver Patient Analysis - Kaggle](https://www.kaggle.com/code/harithapliyal/liver-patient-analysis){:TARGET="_BLANK"}
-- [Githug Dataset](){:TARGET="_BLANK"}
-- [Kaggle Dataset](){:TARGET="_BLANK"}
+- [Kaggle Dataset](abhi8923shriv/liver-disease-patient-dataset){:TARGET="_BLANK"}
 
 ### Breast-Cancer-Prediction
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Breast-Cancer-Prediction){:TARGET="_BLANK"}
@@ -84,20 +82,19 @@ The health domain includes healthcare providers, hospitals, pharmaceuticals, hea
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/Chest-XRay-Effusion-Classification/Chest-XRay-Effusion-Classification.ipynb){:TARGET="_BLANK"}
 
 ### Covid-worldwide-EDA
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Covid-worldwide-EDA){:TARGET="_BLANK"}
 
 ### India-Covid-Graphs
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/India-Covid-Graphs){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/India-Covid-Graphs/Covid19India-Graphs.ipynb){:TARGET="_BLANK"}
 
 ### Malaria-Detection_dep
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/Malaria-Detection){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/Malaria-Detection_dep/Malaria-Detection.ipynb){:TARGET="_BLANK"}
 
 ### pnemonia_prediction
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Health/pnemonia_prediction){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Health/pnemonia_prediction/Pneumonia_Detection_using_VGG16_Transfer_Learning.ipynb){:TARGET="_BLANK"}
 
 -----------------------------------------------------------
 ## <font color=green>Energy</font>
@@ -210,12 +207,9 @@ The hospitality domain involves businesses that provide accommodation, food, and
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Tourism%2BHospitality%2BHotel%2BRestaurant%2BEvent/Indian_Restaurant_Food_Recommendation/Restaurant_Food_Item_Recommendation.ipynb){:TARGET="_BLANK"}
 
 ### FoodDemand Forcast
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Tourism%2BHospitality%2BHotel%2BRestaurant%2BEvent/FoodDemand-Forcast){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Tourism%2BHospitality%2BHotel%2BRestaurant%2BEvent/FoodDemand-Forcast/FoodDemandForcast.ipynb#scrollTo=z0XRzU_ID-O4){:TARGET="_BLANK"}
 
-### Tools-and-Food-Gradient-Identifcation
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
 
 -----------------------------------------------------------
 
@@ -257,12 +251,21 @@ The U.S. Department of Transportation's (DOT) Bureau of Transportation Statistic
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Travel%2BLogistic/Flightdelay-2015-Analysis/2015-Flight-Delays-and-Cancellations.ipynb){:TARGET="_BLANK"}
 - [Kaggle Dataset - 593 MB](https://www.kaggle.com/datasets/usdot/flight-delays){:TARGET="_BLANK"}
 
+### NYC Parking - 2008
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Travel%2BLogistic/Flightdelay-2008-Analysis)
+- [Colab](https://colab.research.google.com/github/DAI-Projects/blob/main/Travel%2BLogistic/Flightdelay-2008-Analysis/Flight_Delay_2008-EDA.ipynb)
 
-### NYC Parking - 2017 (Bigdata and pySpark)
-- [Github Repo](){:TARGET="_BLANK"}
-- [PySpark Colab](){:TARGET="_BLANK"}
-- [PySpark to EDA of 108 millions Transactions](https://github.com/dasarpai/DAI-Projects/blob/main/Travel%2BLogistic/NYC-Parking-2017-Bigdata+pySpark/NYC_Parking_Data_Analysis.ipynb){:TARGET="_BLANK"}
-- [Kaggle Dataset](https://www.kaggle.com/datasets/new-york-city/nyc-parking-tickets)
+### NYC Parking - 2004-2005 (Bigdata and pySpark)
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Travel%2BLogistic/Flightdelay-2004-2005-Hive)
+
+### NYC Parking - 2015
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Travel%2BLogistic/Flightdelay-2015-Analysis)
+- [Colab](https://colab.research.google.com/github/DAI-Projects/blob/main/Travel%2BLogistic/Flightdelay-2015-Analysis/2015-Flight-Delays-and-Cancellations.ipynb)
+
+### NYC Parking - 2017 
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Travel%2BLogistic/NYC-Parking-2017-Bigdata%2BpySpark){:TARGET="_BLANK"}
+- [PySpark Colab](https://colab.research.google.com/github//blob/main/Travel%2BLogistic/NYC-Parking-2017-Bigdata%2BpySpark/NYC_Parking_Data_Analysis.ipynb){:TARGET="_BLANK"}
+- [Kaggle Dataset - 108 million records](https://www.kaggle.com/datasets/new-york-city/nyc-parking-tickets)
 
 
 ### Driver Availablity Prediction
@@ -340,23 +343,10 @@ Class 19:,   precision: 0.91,   recall: 0.89,   fscore: 0.90,   support: 81.00
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Media%2BPublication/NewsClassification-20Groups/20_news_group_classification.ipynb){:TARGET="_BLANK"}
 - [Dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/20news-bydate-dataset.zip){:TARGET="_BLANK"}
 
-### Podcast-Transcription
-In this project, we are trying to extract answers of questions which are recorded in podcast!
-- Groq Whisper is used for transcribing text from speech like podcast episodes
-- PineCone vector database stores and retrieves embeddings of the text. This allows for fast and accurate semantic search, enabling users to find relevant information using natural language queries.
-- Streamlit is used to create UI, which can be used for QA.
-
-- [Github Repo]() - WIP
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
-
 ### SDSHL
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPublication/SDSHL){:TARGET="_BLANK"}
 - [Readme](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPublication/SDSHL/SDSHL){:TARGET="_BLANK"}
 - [Notebooks](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPublication/SDSHL/SDSHL/notebooks){:TARGET="_BLANK"}
-
-### SpamFilter
-- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPublication/SpamFilter){:TARGET="_BLANK"}
-- [Readme]() WIP
 
 ### Toxic-Comment
 - [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Media%2BPublication/Toxic-Comment){:TARGET="_BLANK"}
@@ -384,16 +374,16 @@ Sales is overlap of e-Commerce and Retail. To avoid the confusion anything which
 
 
 ### CarPrice
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Sales/CarPrice){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Sales/CarPrice/CarPrice_Assignment.ipynb){:TARGET="_BLANK"}
 
 ### CarSales
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Sales/CarSales){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Sales/CarSales/carsales-TimeSeries-ARIMA-Fbprophet.ipynb){:TARGET="_BLANK"}
 
 ### Lead-Conversion
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Sales/Lead-Conversion){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Sales/Lead-Conversion/LM-LeadConversion.ipynb){:TARGET="_BLANK"}
 
 -----------------------------------------------------------
 
@@ -401,20 +391,20 @@ Sales is overlap of e-Commerce and Retail. To avoid the confusion anything which
 This domain covers telecommunications services and infrastructure, including phone networks, internet providers, satellite communications, and emerging technologies like 5G, enabling global connectivity and communication.
 
 ### Telcom Churn
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/tree/main/Telecom/Telcom-Churn){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/Telecom/Telecom-Churn/TelecomChurn-Solution2.ipynb){:TARGET="_BLANK"}
 
 -----------------------------------------------------------
 ## <font color=green>Public Safety and Security</font>
 This sector involves efforts to maintain public order, safety, and security in communities. It includes law enforcement, emergency services, disaster response, and security solutions for protecting people and assets.
 
 ### Barcelona Accidents
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+- [Github Repo](https://github.com/dasarpai/DAI-Projects/blob/main/Publicsafety%2BSecurity/Barcelona-Accident){:TARGET="_BLANK"}
+- [Colab](https://colab.research.google.com/github/DAI-Projects/blob/main/Publicsafety%2BSecurity/Barcelona-Accident/Barcelona-Accident2017-Analysis.ipynb){:TARGET="_BLANK"}
 
 ### Indian Judiciary - Verdict Dataset
-- [Github Repo](){:TARGET="_BLANK"}
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects/blob/main/){:TARGET="_BLANK"}
+- [Github Repo Dataset](https://github.com/dasarpai/DAI-Projects/tree/main/Publicsafety%2BSecurity/IndianJudiciary){:TARGET="_BLANK"}
+
 
 -----------------------------------------------------------
 ## <font color=green>Agriculture</font>
