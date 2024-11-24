@@ -111,6 +111,8 @@ Create and version datasets with Artifacts (Commet Artifacts)
 ### GroqCloud
 - [Github Repo](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/groqcloud)
 
+### COG
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack/tree/main/COG)
 
 -----------------------------------------------------------
 
