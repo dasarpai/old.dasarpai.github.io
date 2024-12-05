@@ -21,5 +21,12 @@ share: true
     
 # Osho Talks       
 	
-{% include embed-audio.html src = "https://github.com/dasarpai/mp3/blob/main/thousand-traps-of-mind.mp3" %}     
-{% include embed-audio.html src = "https://github.com/dasarpai/mp3/blob/main/vigyan-bhairav-tantra.mp3" %}   
+<audio controls>
+  <source src="https://github.com/dasarpai/mp3/blob/main/thousand-traps-of-mind.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="https://github.com/dasarpai/mp3/blob/main/vigyan-bhairav-tantra.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
