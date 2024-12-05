@@ -22,11 +22,11 @@ share: true
 # Osho Talks       
 	
 <audio controls>
-  <source src="https://github.com/dasarpai/mp3/blob/main/thousand-traps-of-mind.mp3" type="audio/mpeg">
+  <source src="https://raw.githubusercontent.com/dasarpai/mp3/main/thousand-traps-of-mind.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 <audio controls>
-  <source src="https://github.com/dasarpai/mp3/blob/main/vigyan-bhairav-tantra.mp3" type="audio/mpeg">
+  <source src="https://raw.githubusercontent.com/dasarpai/mp3/main/vigyan-bhairav-tantra.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
