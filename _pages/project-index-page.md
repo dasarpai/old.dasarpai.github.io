@@ -69,8 +69,7 @@ This is "master project page" therefore it is linking to my different project ca
 
 - **Statistics:** Descriptive/Inferential Statistics, Prescriptive Statistics in AI.
 
-
-## [AI, ML, GenAI, Deep Learning, Analytics, Technology Project Summary](/summary-of-al-ml-projects)
+## [AI/ML/DL, GenAI, LLM, Analytics, Technology Work Summary](/summary-of-al-ml-projects)
 
 ## [My POC and Technology Stacks](/summary-of-my-technology-stacks)
 

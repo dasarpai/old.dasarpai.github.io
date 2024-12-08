@@ -30,8 +30,8 @@ sidebar:
 ##  <font color=green> LLM</font>
 
 ### Langchain Multimodal
-- [Github Repo](https://github.com/dasarpai/DAI-Techstack/blob/main/LLM//langchain-multimodal)
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Techstack/blob/main/LLM/langchain-multimodal/langchain_multimodal.ipynb)
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/blob/main/LLM//langchain-multimodal)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Techstack-All/blob/main/LLM/langchain-multimodal/langchain_multimodal.ipynb)
 
 ### Comet.com
 [Comet]((https://www.comet.com/site/)) Automatically track all your prompt engineering work. Run automated evaluations on your LLM responses to optimize your applications before and after they hit production.
@@ -54,148 +54,148 @@ Create and version datasets with Artifacts (Commet Artifacts)
 
 **Links** 
 
-- [Github Repo & Readme](https://github.com/dasarpai/DAI-Techstack/blob/main/LLM/comet.com)
-- [Colab Groq](https://colab.research.google.com/github/dasarpai/DAI-Techstack/blob/main/LLM/comet.com/groq.ipynb)
-- [Colab langgraph](https://colab.research.google.com/github/dasarpai/DAI-Techstack/blob/main/LLM/comet.com/langgraph.ipynb)
-- [Colab llama_index](https://colab.research.google.com/github/dasarpai/DAI-Techstack/blob/main/LLM/comet.com/llama_index.ipynb)
+- [Github Repo & Readme](https://github.com/dasarpai/DAI-Techstack-All/blob/main/LLM/comet.com)
+- [Colab Groq](https://colab.research.google.com/github/dasarpai/DAI-Techstack-All/blob/main/LLM/comet.com/groq.ipynb)
+- [Colab langgraph](https://colab.research.google.com/github/dasarpai/DAI-Techstack-All/blob/main/LLM/comet.com/langgraph.ipynb)
+- [Colab llama_index](https://colab.research.google.com/github/dasarpai/DAI-Techstack-All/blob/main/LLM/comet.com/llama_index.ipynb)
 
 
 ### finetune-bloom-7b
-- [Github Repo](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/finetune-bloom-7b)
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Techstack/blob/main/LLM/finetune-bloom-7b/PEFT%20Finetune-Bloom7B-tagger.ipynb) - PEFT & bitsandbytes to finetune a LoRa 
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/finetune-bloom-7b)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Techstack-All/blob/main/LLM/finetune-bloom-7b/PEFT%20Finetune-Bloom7B-tagger.ipynb) - PEFT & bitsandbytes to finetune a LoRa 
 
 ### finetune-llama2
-- [Github Repo](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/finetune-llama2)
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Techstack/blob/main/LLM/finetune-llama2/Fine-tune%20Llama%202%20in%20Google%20Colab.ipynb)
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/finetune-llama2)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Techstack-All/blob/main/LLM/finetune-llama2/Fine-tune%20Llama%202%20in%20Google%20Colab.ipynb)
 
 ### finetune-llama3-8b
-- [Github Repo](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/finetune-llama3-8b)
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Techstack/blob/main/LLM/finetune-llama3-8b/llama3_1_finetuning2.ipynb)
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/finetune-llama3-8b)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Techstack-All/blob/main/LLM/finetune-llama3-8b/llama3_1_finetuning2.ipynb)
 
 ### groq-whisper-fast
-- [Github Repo & Readme](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/groq-whisper-fast)
+- [Github Repo & Readme](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/groq-whisper-fast)
 
 ### ollama
-- [Working with Local Ollama](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/ollama)
+- [Working with Local Ollama](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/ollama)
 
 ### groqcloud
-- [Github Repo](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/groqcloud)
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/groqcloud)
 
 ### Langchain
-- [Github Repo](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/Langchain)
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/Langchain)
 
 ### lmstudio
-- [Qwen1.5 7b Model](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/lmstudio)
+- [Qwen1.5 7b Model](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/lmstudio)
 
 ### neo2.7b
-- [Github Repo](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/neo2.7b)
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/neo2.7b)
 
 ### open-webui
-- [Open WebUI](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/open-webui)
+- [Open WebUI](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/open-webui)
 
 ### openAI
-- [OpenAI](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/openAI)
+- [OpenAI](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/openAI)
 
 ### openai-quickstart-python
-- [OpenAI](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/openai-quickstart-python)
+- [OpenAI](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/openai-quickstart-python)
 
 ### Quantization
-- [Quantization](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/quantization)
+- [Quantization](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/quantization)
 
 ### RAG
-- [Github Repo](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/RAG)
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/RAG)
 
 ### ts.llamaindex
-- [ts.llamainda](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/ts.llamaindex)
+- [ts.llamainda](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/ts.llamaindex)
 
 ### GroqCloud
-- [Github Repo](https://github.com/dasarpai/DAI-Techstack/tree/main/LLM/groqcloud)
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/groqcloud)
 
 ### COG
-- [Github Repo](https://github.com/dasarpai/DAI-Techstack/tree/main/COG)
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/COG)
 
 -----------------------------------------------------------
 
 ##  <font color=green> NLP</font>
 
 ### embedding
-- [embedding](https://github.com/dasarpai/DAI-Techstack/tree/main/NLP/embedding/open-source-embeddings)
+- [embedding](https://github.com/dasarpai/DAI-Techstack-All/tree/main/NLP/embedding/open-source-embeddings)
 
 ### NLP-Concepts
-- [NLP-Concepts](https://github.com/dasarpai/DAI-Techstack/tree/main/NLP/NLP-Concepts)
+- [NLP-Concepts](https://github.com/dasarpai/DAI-Techstack-All/tree/main/NLP/NLP-Concepts)
 
 ### NLP-Hindi-Bible
-- [NLP-Hindi-Bible](https://github.com/dasarpai/DAI-Techstack/tree/main/NLP/NLP-Hindi-Bible)
+- [NLP-Hindi-Bible](https://github.com/dasarpai/DAI-Techstack-All/tree/main/NLP/NLP-Hindi-Bible)
 
 ### NLP-Plugin20Event
-- [NLP-Plugin20Event](https://github.com/dasarpai/DAI-Techstack/tree/main/NLP/NLP-Plugin20Event)
+- [NLP-Plugin20Event](https://github.com/dasarpai/DAI-Techstack-All/tree/main/NLP/NLP-Plugin20Event)
 
 ### NLP-rasa
-- [NLP-rasa](https://github.com/dasarpai/DAI-Techstack/tree/main/NLP/NLP-rasa)
+- [NLP-rasa](https://github.com/dasarpai/DAI-Techstack-All/tree/main/NLP/NLP-rasa)
 
 ### NLP-Misc
-- [NLP-Misc](https://github.com/dasarpai/DAI-Techstack/tree/main/NLP/NLP-Misc)
+- [NLP-Misc](https://github.com/dasarpai/DAI-Techstack-All/tree/main/NLP/NLP-Misc)
 
 -----------------------------------------------------------
 
 ##  <font color=green> Cloud</font>
 
 ### AWS-Amazon-Bedrock-for-Serverless-LLM
-- [AWS-Amazon-Bedrock-for-Serverless-LLM](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/AWS-Amazon-Bedrock-for-Serverless-LLM)
+- [AWS-Amazon-Bedrock-for-Serverless-LLM](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Cloud/AWS-Amazon-Bedrock-for-Serverless-LLM)
 
 ### AWS-Amplify
-- [AWS-Amplify](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/AWS-Amplify)
+- [AWS-Amplify](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Cloud/AWS-Amplify)
 
 ### AWS-Runner
-- [AWS-Runner - Nginx](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/AWS-Runner/nginx-web-app)
+- [AWS-Runner - Nginx](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Cloud/AWS-Runner/nginx-web-app)
 
 ### AWS-SageMaker
-- [AWS-SageMaker - Linkedin](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/AWS-SageMaker/Linkedin-SageMaker)
+- [AWS-SageMaker - Linkedin](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Cloud/AWS-SageMaker/Linkedin-SageMaker)
 
 ### GCP-Vision
-- [OCRization, Video Transcription, Audio Transcription, Image Description](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/gcp-vision)
+- [OCRization, Video Transcription, Audio Transcription, Image Description](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Cloud/GCP/gcp-vision)
 
 ### Gemini Genai
-- [Gemini Prompt Gallery, Task which can be done with Gaemini-1.5-flash](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/geminigenai)
-- [Story Generation with JavaScript](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/geminigenai/story-generation-js-code) 
-- [Story Generation with Python](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/geminigenai/story-generation-python-code)
+- [Gemini Prompt Gallery, Task which can be done with Gaemini-1.5-flash](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Cloud/GCP/geminigenai)
+- [Story Generation with JavaScript](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Cloud/GCP/geminigenai/story-generation-js-code) 
+- [Story Generation with Python](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Cloud/GCP/geminigenai/story-generation-python-code)
 
 ### Geimini GenAI-Js
-- [GenAI-Js](https://github.com/dasarpai/DAI-Techstack/tree/main/Cloud/GCP/geminigenai-js)
+- [GenAI-Js](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Cloud/GCP/geminigenai-js)
 
 ----------------------------------------------------------
 
 ##  <font color=green> Analytics</font>
 
 ### PowerBI
-- [PowerBI](https://github.com/dasarpai/DAI-Techstack/tree/main/Analytics/PowerBI)
+- [PowerBI](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Analytics/PowerBI)
 
 ### Bokeh
-- [Bokeh](https://github.com/dasarpai/DAI-Techstack/tree/main/Analytics/bokeh)
+- [Bokeh](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Analytics/bokeh)
 
 ### Pandas
-- [Pandas](https://github.com/dasarpai/DAI-Techstack/tree/main/Analytics/pandas)
+- [Pandas](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Analytics/pandas)
 
 ### plotly
-- [Plotly](https://github.com/dasarpai/DAI-Techstack/tree/main/Analytics/plotly)
+- [Plotly](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Analytics/plotly)
 
 ### PyGWalker
-- [PyGWalker](https://github.com/dasarpai/DAI-Techstack/tree/main/Analytics/PyGWalker)
+- [PyGWalker](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Analytics/PyGWalker)
 
 ### tableau
-- [Tableau](https://github.com/dasarpai/DAI-Techstack/tree/main/Analytics/tableau)
+- [Tableau](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Analytics/tableau)
 
 -----------------------------------------------------------
 ##  <font color=green> Bigdata</font>
 
 ### Bigdata-HiveScoop
-- [Bigdata-HiveScoop](https://github.com/dasarpai/DAI-Techstack/tree/main/Bigdata/Bigdata-HiveScoop)
+- [Bigdata-HiveScoop](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Bigdata/Bigdata-HiveScoop)
 
 ### Bigdata-mySQL
-- [Bigdata-mySQL](https://github.com/dasarpai/DAI-Techstack/tree/main/Bigdata/Bigdata-mySQL)
+- [Bigdata-mySQL](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Bigdata/Bigdata-mySQL)
 
 ### MangoDB
-- [MangoDB](https://github.com/dasarpai/DAI-Techstack/tree/main/Bigdata/mongodb)
+- [MangoDB](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Bigdata/mongodb)
 
 
 
@@ -226,11 +226,11 @@ Create and version datasets with Artifacts (Commet Artifacts)
 
 ### mobilenet-v2
 Using deep learning model on mobile.
-- [Readme of POC@github](https://github.com/dasarpai/DAI-Techstack/tree/main/MLFrameworks/mobilenet-v2)
+- [Readme of POC@github](https://github.com/dasarpai/DAI-Techstack-All/tree/main/MLFrameworks/mobilenet-v2)
 
 ### Tensofrlow Lite for Regression
-- [Code for App and Model@github](https://github.com/dasarpai/DAI-Techstack/tree/main/MLFrameworks/tensorflow-lite)
-- [Read me of Regression POC@github](https://github.com/dasarpai/DAI-Techstack/tree/main/MLFrameworks/tensorflow-lite/regression_app/regression-model)
+- [Code for App and Model@github](https://github.com/dasarpai/DAI-Techstack-All/tree/main/MLFrameworks/tensorflow-lite)
+- [Read me of Regression POC@github](https://github.com/dasarpai/DAI-Techstack-All/tree/main/MLFrameworks/tensorflow-lite/regression_app/regression-model)
 
 
 -----------------------------------------------------------
@@ -245,54 +245,54 @@ Using deep learning model on mobile.
 
 ##  <font color=green> Machine Learning</font>
 ### Classification
-- [Classification](https://github.com/dasarpai/DAI-Techstack/tree/main/ML/Classification)
+- [Classification](https://github.com/dasarpai/DAI-Techstack-All/tree/main/ML/Classification)
 
 ### Clustering
-- [Clustering](https://github.com/dasarpai/DAI-Techstack/tree/main/ML/Clustering)
+- [Clustering](https://github.com/dasarpai/DAI-Techstack-All/tree/main/ML/Clustering)
 
 ### DataImbalance
-- [DataImbalance](https://github.com/dasarpai/DAI-Techstack/tree/main/ML/DataImbalance)
+- [DataImbalance](https://github.com/dasarpai/DAI-Techstack-All/tree/main/ML/DataImbalance)
 
 ### ML-Retraining
-- [ML-Retraining](https://github.com/dasarpai/DAI-Techstack/tree/main/ML/ML-Retraining/Machine-Learning-Retraining-Approaches)
+- [ML-Retraining](https://github.com/dasarpai/DAI-Techstack-All/tree/main/ML/ML-Retraining/Machine-Learning-Retraining-Approaches)
 
 ### Regression
-- [Regression](https://github.com/dasarpai/DAI-Techstack/tree/main/ML/Regression)
+- [Regression](https://github.com/dasarpai/DAI-Techstack-All/tree/main/ML/Regression)
 
 ### ROC
-- [ROC](https://github.com/dasarpai/DAI-Techstack/tree/main/ML/ROC)
+- [ROC](https://github.com/dasarpai/DAI-Techstack-All/tree/main/ML/ROC)
 
 -----------------------------------------------------------
 ##  <font color=green> MLOps</font>
 ### ML-Pipelines
-- [ML-Pipelines](https://github.com/dasarpai/DAI-Techstack/tree/main/MLOps/ML-Pipelines)
+- [ML-Pipelines](https://github.com/dasarpai/DAI-Techstack-All/tree/main/MLOps/ML-Pipelines)
 
 ### Naptune
-- [Naptune](https://github.com/dasarpai/DAI-Techstack/tree/main/MLOps/naptune)
+- [Naptune](https://github.com/dasarpai/DAI-Techstack-All/tree/main/MLOps/naptune)
 
 -----------------------------------------------------------
 -
 ##  <font color=green> Python-Automation</font>
-- [Python Automation](https://github.com/dasarpai/DAI-Techstack/tree/main/Python-Automation)
+- [Python Automation](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Python-Automation)
 
 -----------------------------------------------------------
 ##  <font color=green> PythonicWay</font>
-- [Readme - Python Package Development](https://github.com/dasarpai/DAI-Techstack/tree/main/PythonicWay/python_pkg/Readme.md)
+- [Readme - Python Package Development](https://github.com/dasarpai/DAI-Techstack-All/tree/main/PythonicWay/python_pkg/Readme.md)
 
 -----------------------------------------------------------
 ##  <font color=green> R-Projects</font>
-- [R Projects](https://github.com/dasarpai/DAI-Techstack/tree/main/R-Projects)
+- [R Projects](https://github.com/dasarpai/DAI-Techstack-All/tree/main/R-Projects)
 
 -----------------------------------------------------------
 ##  <font color=green> Timeseries</font>
-### [TS-multivariate](https://github.com/dasarpai/DAI-Techstack/tree/main/Timeseries/TS-Smoothing)
-### [TS-Smoothing](https://github.com/dasarpai/DAI-Techstack/tree/main/Timeseries/TS-multivariate)
+### [TS-multivariate](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Timeseries/TS-Smoothing)
+### [TS-Smoothing](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Timeseries/TS-multivariate)
 
 -----------------------------------------------------------
 ##  <font color=green> Audio</font>
 
 ### Speech Recognition
-- [Speech Recognition](https://github.com/dasarpai/DAI-Techstack/tree/main/Audio/Speech-Recognition)
+- [Speech Recognition](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Audio/Speech-Recognition)
 
 
 # AI/ML - Forked
@@ -344,7 +344,7 @@ Using deep learning model on mobile.
 
 
 -----------------------------------------------------------
-# [Web+Mobile App Development - POC Work](https://github.com/dasarpai/DAI-Techstack/tree/main/Web%2BMobile)
+# [Web+Mobile App Development - POC Work](https://github.com/dasarpai/DAI-Techstack-All/tree/main/Web%2BMobile)
 1. Android
 1. Falcon_Android
 1. ImageRecognition

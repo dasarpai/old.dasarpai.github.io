@@ -20,12 +20,24 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # Osho Talks       
-	
+
+## Taopnishad
+
+### Taopnishad - Session 2
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/mp3/main/Taopnishad-Session002.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+## Talk on Mind
+
+### Thousand Traps of Mind
 <audio controls>
   <source src="https://raw.githubusercontent.com/dasarpai/mp3/main/thousand-traps-of-mind.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
+## Vigyan Bhairav Tantra
 <audio controls>
   <source src="https://raw.githubusercontent.com/dasarpai/mp3/main/vigyan-bhairav-tantra.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

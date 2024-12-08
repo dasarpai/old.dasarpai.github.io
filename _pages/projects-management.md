@@ -29,7 +29,26 @@ sidebar:
 - Management-PMIPrep (github repo)
 - Training-Feedbacks (github repo)
 
-## Management-Main
+## Project Management - Standard Training Courses 
+Hundreds of Openhouse and Inhouse Training done on these topics for various partners.
+
+1. PM-Agile
+1. PM-Customized
+1. PM-EPM
+1. PM-EVM-MSP
+1. PM-Microsoft-Project
+1. PM-Misc-Training
+1. PM-PMP-v5
+1. PM-PMP-v6
+1. PM-PRINCE2
+1. PM-RMP
+1. PM-SharePoint
+1. PM-SoftwareSizeEstimation
+1. PM-Templates
+
+
+## Management-Main (Customized)
+Select Project Work in Project Management Consulting and Training
 
 - 11-PMO
     1. 00-General  
@@ -43,8 +62,8 @@ sidebar:
 - 12-Projects-PM
     1. 01-Vikram-Solar-PMF
     1. 02-FFI-Agile-Consulting
-    1. 03-AllSysServices-PMI-ACP
-    1. 04-Astrowix-PMI-ACP
+    1. 03-AllSysServices-PMI-ACP - Dozens of Opensource and Corporate Training 
+    1. 04-Astrowix-PMI-ACP - Dozens of Opensource and Corporate Training 
     1. 05-Colossal-Hibu-PM
     1. 06-TGroup-PMP
     1. 07-BirlaSoft-SageTech-PMI-ACP
@@ -56,7 +75,7 @@ sidebar:
     1. 13-HRLEHR-Dubai
     1. 14-SEO-PMLOGY
     1. A01-ContractManagement
-    1. P01-PRINCE2
+    1. P01-PRINCE2 -  - Dozens of Opensource and Corporate Training
 - 12-Project-NGO
     1. S01-Rajiv-Malhotra
     1. S02-YFS
@@ -74,7 +93,6 @@ sidebar:
     1. 2012 LIMC Application Information
     1. CPC_Presentation_Foundations.ppt
     1. ITnTelecom-Webinars
-    1. LIM-Brazil-2011
     1. OPM3-Package
     1. PMBoK-Hindi
     1. PMI-International
@@ -87,17 +105,4 @@ sidebar:
     1. Work-PMICC
     1. Work-PMIMC
 
------------------------------------------------------------
-## Management-PM-Courses
-1. PM-Agile
-1. PM-Customized
-1. PM-EPM
-1. PM-EVM-MSP
-1. PM-Microsoft-Project
-1. PM-Misc-Training
-1. PM-PMP-v5
-1. PM-PMP-v6
-1. PM-PRINCE2
-1. PM-RMP
-1. PM-SharePoint
-1. PM-SoftwareSizeEstimation
+
