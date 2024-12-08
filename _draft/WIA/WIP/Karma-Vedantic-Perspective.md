@@ -1,3 +1,5 @@
+
+## What is Karma? 
 We do the Karma to get something or gain something or enhance something or get rid of something or reduce something.
 
 What is that which we want to gain and  enhance? That which brings pleasure or joy to our life.
@@ -5,11 +7,11 @@ What is that which we want to reduce or get rid of?  that which gives us the pai
 
 Generally be here people say that good Karma increases pleasure and joy and bad Karma brings pain and suffering.  But we need to understand first we do the Karma and then its result come. Shuddh challenge is at the time of doing Karma how do I know this Karma will bring joy and pleasure not the pain and suffering,  in other words we are interested in doing what is good Karma and what is bad Karma.
 
- what is the definition of good and bad for you it it same throat your life changed over the period of time when you became more matured. If it has not change for you throughout your life then it means you are stuck to the moral code of conduct given in the books and description and you miss the life. But if you find it changed then ask yourself will it remain same for next 5 year 10 year or 20 years?
+What is the definition of good and bad for you it it same throat your life changed over the period of time when you became more matured. If it has not change for you throughout your life then it means you are stuck to the moral code of conduct given in the books and description and you miss the life. But if you find it changed then ask yourself will it remain same for next 5 year 10 year or 20 years?
 
  the word could or bad is subjected and it is used to describe and adjectify the world around. That is extremely difficult to know the objective reality of the existence but whatever we describe is the subjective reality.  it means the word good and bad is very subjective.  in this situation how to find the Karma which I am doing or about to do is good Karma or bad Karma?
 
- Is not doing a Karma also a Karma if yes then how?  suppose you are my good friend one day I beat you after long time in your office and your assistance bring coffee and snacks for me and I say I just have taken my breakfast 15 minute before.  And you tell me that why I have not told you that you have taken breakfast if you could have told me I could have plan lunch with you.  now my not telling to you that I have taken a breakfast is a Karma or not? If it is not akarma then this not doing should not have any result but we know it has result. The result depends upon how do you take my refusal of accepting coffee and snacks. If it is karma can it is very difficult to say what is not Karma. While sitting before you I am not twin thousands of things and this not telling is also one of those.
+Is not doing a Karma also a Karma if yes then how?  Suppose you are my long time very good friend. One day I come to your home and over some discussion I slap you friendly for some reason. After this incident, your helper enter into our room bring coffee and snacks for me. But, I say I just have taken my breakfast 15 minute before, I will not eat and drink anything now.  And you tell me that why I have not told you that you have taken breakfast. We are meeting after so many years. Now you deserve a slap from me. If you could have told me I could have planned lunch with you.  now my not telling to you that I have taken a breakfast is a Karma or not? The result depends upon how do you take my refusal of accepting coffee and snacks. If it is karma then it is very difficult to say what is not Karma. 
 
 Shloka below is from Bhagavad Gita 4.16.  and it tells Extremely difficult to know what is karma and with but akarma.  but but the Bhagwan Krishna says Karma Is that by knowing which you become free from  bad or inauspicious
 
@@ -19,26 +21,28 @@ kiṁ karma kim akarmeti kavayo ’pyatra mohitāḥ
 tat te karma pravakṣhyāmi yaj jñātvā mokṣhyase ’śhubhāt
 
 
-There are 6 kinds of Karma.
-Nitya Karma which should be done daily they brings the result immediately the result of this kind of Karma do not get accumulated for next year next cricket or next life.
-Naimit Karma whitch should be donen when the occasion come in the bring the results immediately there is no accumulation of the karmaphala of this kind of Karma
-Kamya Karma: Which you need to do everyday keeping a future in mind they may not bring  the immediately but they will certainly fruify at some point of time in future.  you do this karmas to fulfill your personal bodily or pleasure desire.
-Nishkama Karma: Which you should do everyday. You don’t want anything for yourself. These are done without any intention of self, but keeping in the mind the larger society and environment and surrounding. If you don’t do then you experience selfish society around you. If you do these then you will experience the oneness with existence.
-Nished Karma: You should not certain Karma, they are forbidded. But if you do these intentionally or unintentionally then you will suffer in future. If you don’t do these then there is no joy or pleasure.
-Prayaschita Karam : You need to do these Karmas, only if you have done some Nishedh Karma. Otherwise they are not required. If you do these karmas your suffering will go away very soon. If you don’t they will remain part of your life and you will suffer.
+## There are 6 kinds of Karma.
+- Nitya Karma which should be done daily they brings the result immediately the result of this kind of Karma do not get accumulated for next year next cricket or next life.
+- Naimit Karma whitch should be donen when the occasion come in the bring the results immediately there is no accumulation of the karmaphala of this kind of Karma
+- Kamya Karma: Which you need to do everyday keeping a future in mind they may not bring  the immediately but they will certainly fruify at some point of time in future.  you do this karmas to fulfill your personal bodily or pleasure desire.
+- Nishkama Karma: Which you should do everyday. You don’t want anything for yourself. These are done without any intention of self, but keeping in the mind the larger society and environment and surrounding. If you don’t do then you experience selfish society around you. If you do these then you will experience the oneness with existence.
+- Nished Karma: You should not certain Karma, they are forbidded. But if you do these intentionally or unintentionally then you will suffer in future. If you don’t do these then there is no joy or pleasure.
+- Prayaschita Karam : You need to do these Karmas, only if you have done some Nishedh Karma. Otherwise they are not required. If you do these karmas your suffering will go away very soon. If you don’t they will remain part of your life and you will suffer.
 
-
+## Karmafala from the perspective of time
 From the perspective of time, i.e. when a Karma will fruity it can be classified into three types
-Sanchita Karma - Accumulation of karmaphala from the present life. Some of that you already have consume and some you will consume in the future. 
-Prarabdha Karma - Accumulated karmaphala from previous life based on which you got the body, family, and friends you have.
-Agami Karma -  Accumulation of karmaphala from the present life, which you will consume in the future, but if they were not consumed/experienced fully within the current life they become Prarabdha for the next life. 
+- Sanchita Karma - Accumulation of karmaphala from the present life. Some of that you already have consume and some you will consume in the future. 
+- Prarabdha Karma - Accumulated karmaphala from previous life based on which you got the body, family, and friends you have.
+- Agami Karma -  Accumulation of karmaphala from the present life, which you will consume in the future, but if they were not consumed/experienced fully within the current life they become Prarabdha for the next life. 
 
+## Doer of the Karma 
 From the plane of doing this karmas can be divided into 3 parts
-Kayika karma: The Karma done by the body
-Vachika karma:.  the Karma done by the faculty of a speech
-Manasika karma:  the Karma done by Faculty of thinking 
+- Kayika karma: The Karma done by the body
+- Vachika karma:.  the Karma done by the faculty of a speech
+- Manasika karma:  the Karma done by Faculty of thinking 
 
-
+## Karma Philosophy of Bhagavad Gita
+Although there are two chapters dedicated for Karma in the Bhagavad Gita. Chapter 3 is Karma Yoga and Chapter 4 is Karma Sanyas Yoga. But there are many important noted slokas in the Bhagavad Gita which helps understanding Karma.
 
 कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।
 मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥ 2.47 ॥

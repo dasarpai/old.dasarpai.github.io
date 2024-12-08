@@ -1,3 +1,29 @@
+---
+mathjax: true
+id: 6185
+title: "Serverless LLM Deployment Platform"
+date: 2024-12-08
+permalink: /dsblog/serverless-llm-deployment
+tags:
+  - "Serverless LLM"
+  - "Azure OpenAI Service"
+  - "AI"
+  - "Microsoft"
+categories:
+  - dsblog
+header:
+  teaser: /assets/images/dspost/dsp6185-Serverless-LLM-Deployment.jpg
+excerpt_separator: "<!--more-->"
+author: Hari Thapliyaal
+layout: dspost-layout
+excerpt: "Microsoft's serverless LLM deployment platform using Azure OpenAI Service"
+author_profile: true
+share: true
+toc: true
+toc_sticky: true
+toc_levels: 3
+comments: true
+---
 
 ### **Microsoft's Serverless LLM Deployment Platform**
 #### **Azure OpenAI Service**
