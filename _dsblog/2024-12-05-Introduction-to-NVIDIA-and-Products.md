@@ -13,7 +13,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6185-Introduction-NVIDIA-Products.jpg
+  teaser: /assets/images/dspost/dsp6182-Introduction-NVIDIA-Products.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout
@@ -26,7 +26,7 @@ toc_levels: 3
 comments: true
 ---
 
-![Introduction-NVIDIA-Products](/assets/images/dspost/dsp6185-Introduction-NVIDIA-Products.jpg)
+![Introduction-NVIDIA-Products](/assets/images/dspost/dsp6182-Introduction-NVIDIA-Products.jpg)
 
 ## NVIDIA Timeline
 NVIDIA Corporation has an illustrious history since its founding in 1993. It started as a graphics processing pioneer and has grown into a global leader in AI, gaming, data center technologies, and more. Here's a timeline of key milestones and activities:

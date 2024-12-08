@@ -1,8 +1,7 @@
-
 ---
 mathjax: true
 id: 6186
-title: "Shazam Features"
+title: "Features ofShazam Econometrics Software"
 date: 2024-12-09
 permalink: /dsblog/shazam-features
 tags:
@@ -20,11 +19,15 @@ layout: dspost-layout
 excerpt: "Overview of Shazam's features in econometrics, statistics, and data science."
 author_profile: true
 share: true
-toc: true
+toc: false
 toc_sticky: true
 toc_levels: 3
 comments: true
 ---
+
+![Shazam-Features](/assets/images/dspost/dsp6186-Shazam-Features.jpg) 
+
+# Features of Shazam Econometrics Software
 
 A free, [downloadable Trial](https://www.econometrics.com/download/) Version of SHAZAM is available to try out.
 
