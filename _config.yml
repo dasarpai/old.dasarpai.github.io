@@ -562,8 +562,8 @@ defaults:
  
    # _samskrut
   - scope:
-      path: "_samskrutyatrablog"
-      type: samskrutyatrablog
+      path: "_samskrutyatra"
+      type: samskrutyatra
     values:
       layout: single
       author_profile: true
@@ -720,9 +720,9 @@ collections:
     output: true
     permalink: /pmbok6hi1/:categories/:title/
 
-  samskrut:
+  samskrutyatra:
     output: true
-    permalink: /samskrut1/:categories/:title/
+    permalink: /samskrutyatra1/:categories/:title/
     
   gallery:
     output: true
