@@ -4,7 +4,7 @@ title: Samskrut Yatra
 date: '2021-02-15T10:07:10+00:00'
 layout: collection
 permalink: /samskrutyatra
-collection: samskrutyatrablog
+collection: samskrutyatra
 entries_layout: grid
 author_profile: false
 classes: wide
