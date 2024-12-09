@@ -562,8 +562,8 @@ defaults:
  
    # _samskrut
   - scope:
-      path: "_samskrut"
-      type: samskrut
+      path: "_samskrutyatrablog"
+      type: samskrutyatrablog
     values:
       layout: single
       author_profile: true

@@ -62,4 +62,4 @@ comments: true
 - Jensen Huang sees AI's evolution as a fundamental shift comparable to the industrial revolution of computing.
 - Balancing innovation with ethics, governance, and geopolitics will shape Nvidia’s future and the AI industry at large.
 
-[Full Youtube Video - Jensen Huang of Nvidia on the Future of A.I. | DealBook Summit 2023](https://www.youtube.com/watch?v=Pkj-BLHs6dE&t=5s)
+[Full Youtube Video - Jensen Huang of Nvidia on the Future of A.I. in DealBook Summit 2023](https://www.youtube.com/watch?v=Pkj-BLHs6dE)
