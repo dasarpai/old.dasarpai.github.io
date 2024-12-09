@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # छान्दोग्योपनिषत्  षष्ठोऽध्यायः    
-# Chandogyopnishad 6    
+## Chandogyopnishad 6    
      
     
 श्वेतकेतुर्हारुणेय आस तꣳ ह पितोवाच श्वेतकेतो    

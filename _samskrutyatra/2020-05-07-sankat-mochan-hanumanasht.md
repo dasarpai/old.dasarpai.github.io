@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/HanumanJi.jpg)    
     
 # संकटमोचन हनुमानाष्टक    
-# Sankat Mochan HanumanAshtakam    
+## Sankat Mochan HanumanAshtakam    
     
 गोस्वामी तुलसीदास कृत    
     

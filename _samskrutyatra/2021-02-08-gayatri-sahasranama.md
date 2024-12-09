@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # श्री गायत्री सहस्रनामस्तोत्रं    
-# Gayatri Sahasranama    
+## Gayatri Sahasranama    
     
 श्री गायत्री सहस्रनामस्तोत्रं देवी भागवतांतर्गत    
     

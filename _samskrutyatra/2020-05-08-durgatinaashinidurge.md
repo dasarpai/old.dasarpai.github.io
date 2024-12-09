@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # दुर्गतिनाशिनी दुर्गे    
-# Durgati Naashini Durge    
+## Durgati Naashini Durge    
     
 {% include embed-audio.html src = "/assets/mp3/025-DurgatiNaashiniDurge.mp3" %}     
     

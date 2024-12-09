@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता पञ्चमोऽध्यायः – संन्यासयोगः    
-# Bhagwat Gita Chapter 5    
+## Bhagwat Gita Chapter 5    
     
 अथ पञ्चमोऽध्यायः ।    संन्यासयोगः    
     

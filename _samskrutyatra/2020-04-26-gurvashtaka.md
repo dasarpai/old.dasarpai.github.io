@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Sri-Ramakrishna.jpg)    
     
 # गुर्वष्टकम्    
-# Gurvashtaka    
+## Gurvashtaka    
     
 {% include embed-audio.html src = "/assets/mp3/013-GuruvAshtakam.mp3" %}     
     

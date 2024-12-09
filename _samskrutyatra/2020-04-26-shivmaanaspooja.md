@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Shiva.jpg)    
     
 # शिवमानसपूजा    
-# Shivmaanaspooja    
+## Shivmaanaspooja    
     
     
 {% include embed-audio.html src = "/assets/mp3/006-ShivMaanasPooja.mp3" %}     

@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Vishnu.jpg)    
     
 # विष्णुसूक्तम्    
-# VishnuSuktam    
+## VishnuSuktam    
     
     
 ॐ विष्णो॒र्नुकं॑ वी॒र्या॑णि॒ प्रवो॑चं॒ यः पार्थि॑वानि विम॒मे रजाग्ं॑सि॒    

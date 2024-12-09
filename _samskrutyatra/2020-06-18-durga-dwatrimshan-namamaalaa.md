@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # दुर्गाद्वात्रिंशन्नाममाला    
-# Durga DwaTrimShan NamaMaalaa    
+## Durga DwaTrimShan NamaMaalaa    
     
 दुर्गा दुर्गार्तिशमनी दुर्गापद्विनिवारिणी।    
 दुर्गमच्छेदिनी दुर्गसाधिनी दुर्गनाशिनी॥    

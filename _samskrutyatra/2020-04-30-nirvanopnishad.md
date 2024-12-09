@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 #  निर्वाणोपनिषत्    
-# Nirvanopnishad    
+## Nirvanopnishad    
     
 ऋग्वेदीय संन्यासोपनिषत्    
     

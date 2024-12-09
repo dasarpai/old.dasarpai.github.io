@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # उपनिषदिय प्रार्थना    
-# Upnishadic Prarthana    
+## Upnishadic Prarthana    
     
 {% include embed-audio.html src = "/assets/mp3/004-UpanishadicPrarthana.m4a" %}     
     

@@ -21,12 +21,12 @@ share: true
     
 ![](/assets/images/samskrut/dRamcharaitMaanas.png)    
     
-#     
     
 {% include embed-audio.html src = "/assets/mp3/002-BhayaPragatKrupala.m4a" %}     
     
-भए प्रगट कृपाला    
-Bhaye Pragat Kripala    
+# भए प्रगट कृपाला    
+## Bhaye Pragat Kripala    
+
 When Bhagawan Vishnu incarnate as Raam from Maharani Kaushaliya then this is the conversation between Vishnu and Kaushliya. Keep in mind this is a poetic narration of “Sant Tulasidas Ji” from “Ramcharit Manas” and not original poem from “Balmiki Ramayan”    
     
 भए प्रगट कृपाला दीनदयाला कौसल्या हितकारी।    

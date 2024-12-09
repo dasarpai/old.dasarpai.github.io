@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता त्रयोदशोऽध्यायः – क्षेत्रक्षेत्रज्ञविभागयोगः    
-# Bhagwat Gita Chapter 13    
+## Bhagwat Gita Chapter 13    
     
 अथ त्रयोदशोऽध्यायः ।    क्षेत्रक्षेत्रज्ञविभागयोगः    
     

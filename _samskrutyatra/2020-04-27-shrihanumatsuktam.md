@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Hanumanji.jpg)    
     
 # श्रीहनुमत्सूक्तम्    
-# ShrihanumatSuktam    
+## ShrihanumatSuktam    
     
 श्रीमन्तो सर्वलक्षणसम्पन्नो जयप्रदः    
 सर्वाभरणभूषित उदारो महोन्नतोष्ट्रारूढः    

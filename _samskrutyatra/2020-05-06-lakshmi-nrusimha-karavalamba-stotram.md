@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/LakshmiNrushimhan.jpg)    
     
 # लक्ष्मीनृसिंह करावलम्ब स्तोत्र     
-# Lakshmi Nrusimha Karavalamba Stotram    
+## Lakshmi Nrusimha Karavalamba Stotram    
     
 {% include embed-audio.html src = "/assets/mp3/O001-LakshmiNrusimhaKaravalambaStotram.mpeg" %}     
     

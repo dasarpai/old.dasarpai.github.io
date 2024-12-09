@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Shiva.jpg)    
     
 # शिवषडाक्षर स्तोत्रं    
-# Shiva Shadakshara Stotram    
+## Shiva Shadakshara Stotram    
     
 {% include embed-audio.html src = "/assets/mp3/022-ShivShadaksharaStotram.mp3" %}     
     

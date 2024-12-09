@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/MeenakshiStotram.jpg)    
     
 # मीनाक्षीस्तोत्रम्    
-# Meenakshi Stotram    
+## Meenakshi Stotram    
     
 {% include embed-audio.html src = "/assets/mp3/010-meenakshiStotram.mp3" %}     
     

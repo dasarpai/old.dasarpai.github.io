@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # छान्दोग्योपनिषत्  पञ्चमोऽध्यायः    
-# Chandogyopnishad 5    
+## Chandogyopnishad 5    
      
     
 यो ह वै ज्येष्ठं च श्रेष्ठं च वेद ज्येष्ठश्च ह वै श्रेष्ठश्च    

@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Shiva.jpg)    
     
 # श्रीशिवमहिम्नस्तोत्र     
-# Shri Shiv Mahimna Stotram    
+## Shri Shiv Mahimna Stotram    
     
 {% include embed-audio.html src = "/assets/mp3/054-ShriShivMahimnaStotram.mp3" %}     
     

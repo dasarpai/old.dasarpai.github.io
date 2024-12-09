@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता षष्ठोऽध्यायः – ध्यानयोगः    
-# Bhagwat Gita Chapter 6    
+## Bhagwat Gita Chapter 6    
     
 अथ षष्ठोऽध्यायः ।    ध्यानयोगः    
     

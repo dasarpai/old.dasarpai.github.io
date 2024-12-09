@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता चतुर्थोऽध्यायः    
-# Bhagwat Gita Chapter 4    
+## Bhagwat Gita Chapter 4    
     
 अथ चतुर्थोऽध्यायः ।    ज्ञानकर्मसंन्यासयोगः    
     

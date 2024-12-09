@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # अथ द्वितीयोऽध्यायः – साङ्ख्ययोगः    
-# Bhagwat Gita Chapter 2    
+## Bhagwat Gita Chapter 2    
     
 सञ्जय उवाच ।    
 तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् ।    

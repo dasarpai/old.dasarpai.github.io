@@ -21,7 +21,7 @@ share: true
     
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
-## चमकप्रश्नः    
+# चमकप्रश्नः    
 ## Chamak Prashana    
 
 अग्ना॑विष्णू स॒जोष॑से॒मा व॑र्धन्तु वां॒ गिरः॑ ।    

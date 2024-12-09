@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # दुर्गासूक्तम्    
-# DurgaSuktam    
+## DurgaSuktam    
     
 {% include embed-audio.html src = "/assets/mp3/011-DurgaSuktam2.mp3" %}     
     

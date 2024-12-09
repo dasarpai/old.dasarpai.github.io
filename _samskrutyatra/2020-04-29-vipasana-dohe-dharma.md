@@ -21,8 +21,8 @@ share: true
     
 ![](/assets/images/samskrut/Vipasana.jpg)    
     
-# धर्म    
-# Vipasana Dohe- Dharma    
+# विपासना दोहे धर्म    
+## Vipasana Dohe- Dharma    
     
 {% include embed-audio.html src = "/assets/mp3/052-Dharma.mp3" %}     
     

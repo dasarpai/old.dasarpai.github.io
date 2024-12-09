@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 7532
-title: "Interview with Sundar Pichai at Google Dealbook Event 2024"
+title: "Interview with Sundar Pichai @ Google at Dealbook Event 2024"
 date: 2024-12-06
 permalink: /booksummary/interview-sundar-pichai-google-dealbook-event-2024
 tags:
@@ -28,7 +28,7 @@ comments: true
 
 ![Interview-Sundar-Pichai-Google-Dealbook-Event-2024](/assets/images/booksummary/7532-Interview-Sundar-Pichai-Google-Dealbook-Event-2024.jpg)
 
-# Key Themes and Ideas from Sundar Pichai's Interview  
+# Key Themes and Ideas from Interview with Sundar Pichai @ Google at Dealbook Event 2024 
 
 These themes illustrate Google’s strategies, challenges, and aspirations under Sundar Pichai's leadership, with a strong focus on advancing AI responsibly. 
 

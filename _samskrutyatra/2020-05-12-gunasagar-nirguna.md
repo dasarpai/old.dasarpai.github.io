@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Sri-Ramakrishna.jpg)
 
 #  गुणसागर निर्गुण परमेशा 
-# Gunasagar Nirguna Paramesha
+## Gunasagar Nirguna Paramesha
 
 {% include embed-audio.html src = "/assets/mp3/O003-GunasagarNirgunaParamesha.mp3" %} 
 

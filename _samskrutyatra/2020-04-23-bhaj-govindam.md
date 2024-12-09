@@ -21,9 +21,8 @@ share: true
     
 ![](/assets/images/samskrut/Krishna.jpg)    
     
-# भज गोविन्दं    
-# Bhaj Govindam    
-### चरपटपंजरिका स्तोत्रं    
+# भज गोविन्दं - चरपटपंजरिका स्तोत्रं    
+# Bhaj Govindam     
     
 {% include embed-audio.html src = "/assets/mp3/028-charpatPanjarikaStotram.mp3" %}     
     

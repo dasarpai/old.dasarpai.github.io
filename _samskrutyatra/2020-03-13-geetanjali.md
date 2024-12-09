@@ -21,11 +21,9 @@ share: true
 
 ![](/assets/images/samskrut/MySamskrutYatra-min.jpg)
 
-गीतांजली
-========
+# गीतांजली
 
-Geetanjali
-----------
+## Geetanjali
 
 यत्र मनः भयरहितमस्ति शिरः च उन्नतमस्ति  
 यत्र ज्ञानम् मुक्तम् प्रवहति  

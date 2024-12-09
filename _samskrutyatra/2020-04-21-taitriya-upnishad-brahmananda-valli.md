@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # तैत्तिरीयोपनिषत् सस्वरा – द्वितीया ब्रह्मानन्दवल्ली    
-# Taitriya Upnishad Brahmananda Valli    
+## Taitriya Upnishad Brahmananda Valli    
     
     
 ॐ स॒ह ना॑ववतु । स॒ह नौ॑ भुनक्तु । स॒ह वी॒र्यं॑ करवावहै ।    

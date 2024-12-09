@@ -21,7 +21,7 @@ share: true
     
 ![](/assets/images/samskrut/GayatriDevata.jpg)    
     
-#     
+# आदित्यहृदयम् स्त्रोत्रं  
     
 {% include embed-audio.html src = "/assets/mp3/mp3/066-AdityaHrudyam.mp3" %}     
     

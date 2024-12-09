@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Shiva.jpg)    
     
 # दारिद्र्य दहन शिवस्तोत्रम्     
-# Daridrya Dahan Shivstotram    
+## Daridrya Dahan Shivstotram    
     
 {% include embed-audio.html src = "/assets/mp3/042-DaridryaDukhDahanShivStotram.mp3" %}     
     

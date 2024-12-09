@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # श्रीदुर्गासप्तशती – प्रथमोऽध्यायः    
-# Durga Saptashati Chapter1    
+## Durga Saptashati Chapter1    
     
 ## मेधा ऋषि का राजा सुरथ और समाधि को भगवती की महिमा बताते हुए मधु-कैटभ-वध का प्रसंग सुनाना    
     

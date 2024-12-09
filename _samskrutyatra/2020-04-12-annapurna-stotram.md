@@ -20,14 +20,13 @@ share: true
 ---    
     
 ![](/assets/images/samskrut/durga.jpg)    
-    
-#     
+     
     
 {% include embed-audio.html src = "/assets/mp3/019-AnnapurnaStotram.mp3" %}     
     
     
-अन्नपूर्णा स्तोत्रम्    
-Annapurna Stotram    
+# अन्नपूर्णा स्तोत्रम्    
+## Annapurna Stotram    
     
 नित्यानन्दकरी वराभयकरी सौन्दर्यरत्नाकरी    
 निर्धूताखिलघोरपावनकरी प्रत्यक्षमाहेश्वरी ।    

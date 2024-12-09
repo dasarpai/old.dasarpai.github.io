@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/RamcharaitMaanas.jpg)    
     
 # श्री राम स्तुति:    
-# Ramchandra Stuti    
+## Ramchandra Stuti    
     
 {% include embed-audio.html src = "/assets/mp3/027-RamchandraStuti.mp3" %}     
     

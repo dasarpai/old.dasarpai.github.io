@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Bharatmata.jpg)    
     
 #  एकात्मता स्तोत्रं    
-# Ekatmaka Stotram    
+## Ekatmaka Stotram    
     
 ॐ सच्चिदानंदरूपाय नमोस्तु परमात्मने    
 ज्योतिर्मयस्वरूपाय विश्वमांगल्यमूर्तये || १ ||    

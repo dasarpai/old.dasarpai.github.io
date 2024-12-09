@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # अथ मूर्तिरहस्यम्    
-# Devi Murti Rahasyam    
+## Devi Murti Rahasyam    
     
 ऋषिरुवाच    
 ॐ नन्दा भगवती नाम या भविष्यति नन्दजा।    

@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # कैवल्योपनिषत्     
-# Kaivalopnishad    
+## Kaivalopnishad    
     
 Khand 1    
 {% include embed-audio.html src = "/assets/mp3/016-KaivalyopnishadKhanda1.mp3" %}     

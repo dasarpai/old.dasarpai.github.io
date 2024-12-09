@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 7530
-title: "Interview-Jensen-Huang-NVIDIA-Dealbook-Event-2023"  
+title: "Interview with Jensen Huang @ NVIDIA at Dealbook Event 2023"  
 date: 2024-12-04
 permalink: /booksummary/interview-jensen-huang-nvidia-dealbook-event-2023
 tags:
@@ -26,7 +26,7 @@ comments: true
 
 ![Interview-Jensen-Huang-NVIDIA-Dealbook-Event-2024](/assets/images/booksummary/7530-Interview-Jensen-Huang-NVIDIA-Dealbook-Event-2023.jpg)
 
-# Insights from the Interview with Jensen Huang, CEO of Nvidia
+# Insights from the Interview with Jensen Huang @ NVIDIA at Dealbook Event 2023
 
 ### **Theme 1: The Evolution of AI Computing**
 - **Reinvention of Computing**: Jensen emphasized that AI development isn't just about designing new chips but about a comprehensive reinvention of computing systems, including software, hardware, and networking.

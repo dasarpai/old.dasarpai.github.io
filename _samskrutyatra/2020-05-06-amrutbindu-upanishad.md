@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # अमृतबिन्दुपनिषत्     
-# AmrutBindu Upanishad    
+## AmrutBindu Upanishad    
     
 ॐ सह नाववतु सह नौ भुनक्तु सह वीर्यं करवावहै ।    
 तेजस्विनावधीतमस्तु मा विद्विषावहै ॥  ॐ शान्तिः शान्तिः शान्तिः ।    

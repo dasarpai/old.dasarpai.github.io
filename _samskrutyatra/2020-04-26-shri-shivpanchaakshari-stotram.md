@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Shiva.jpg)    
     
 # श्रीशिवपञ्चाक्षरस्तोत्रम्    
-# Shri Shivpanchaakshari Stotram    
+## Shri Shivpanchaakshari Stotram    
     
 {% include embed-audio.html src = "/assets/mp3/023-ShivPanchaAkshari.mp3" %}     
     

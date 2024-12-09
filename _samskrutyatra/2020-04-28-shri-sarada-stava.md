@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/SaradaMaa.jpg)    
     
 # श्रीसारदास्तवं     
-# Shri Sarada Stava    
+## Shri Sarada Stava    
     
 {% include embed-audio.html src = "/assets/mp3/030-shriSaradaStava.mp3" %}     
     

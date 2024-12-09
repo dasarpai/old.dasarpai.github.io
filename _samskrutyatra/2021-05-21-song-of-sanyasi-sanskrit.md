@@ -8,23 +8,24 @@ redirect_from:
   - '/samskrut/song-of-sanyasi-sanskrit'
 tags: [Swami Vivekananda]    
 categories:    
-    
+
 header:    
    teaser: /assets/images/samskrut/Sri-Ramakrishna.jpg    
-    
+
 author: 'Hari Thapliyaal'    
-    
+
 excerpt:    
-    
+
 share: true    
 ---    
-    
+
 ![](/assets/images/samskrut/Sri-Ramakrishna.jpg)    
-    
+
 # सन्यासी का गीत    
-# Song of Sanyasi    
+## Song of Sanyasi    
+
 by Swami Vivekananda    
-    
+
 उत्तिष्ठ स्वरः तस्य संगीतं यस्य जन्मः दूरे अभवत्    
 यस्य संसारमलं न स्पर्शं शक्नोति    
 गिरिं कंदरां एवं सघनवनस्य वंजरभूमीम्    
@@ -41,7 +42,7 @@ Could ever dare to break; where rolled the stream
 Of knowledge, truth, and bliss that follows both.    
 Sing high that note, Sannyasin bold!    
 “Om Tat Sat, Om!”    
-    
+
 भंगं कर्तु इति शृंखलां यस्य भवान् बन्धति    
 शृंखला स्वर्णस्य अस्ति वा लौहस्य अस्ति।    
 ज्ञातु प्रेम घृणा शुभाशुभ इह अनेकानेकं द्वदं अस्ति    
@@ -59,7 +60,7 @@ Know, slave is slave, caressed or whipped, not free;
 For fetters, though of gold, are not less strong to bind;    
 Then off with them, Sannyasin bold!    
 Say–“Om Tat Sat, Om!”    
-    
+
 गच्छ हे अन्धकारः    
 त्वं मृगतृष्णया क्षणिकं दत्वा विशादं अनन्तं ददति    
 अस्य जीवनेन आकर्षयति जन्मतः मृत्युपर्यन्तः एवं    
@@ -75,7 +76,7 @@ From birth to death, and death to birth, the soul.
 He conquers all who conquers self. Know this    
 And never yield, Sannyasin bold!    
 Say–“Om Tat Sat, Om!”    
-    
+
 यथा कर्मः तथा कर्मफलं अस्य    
 कार्यकारण सिद्धान्तं निश्चितं फलं ददति    
 शुभ शुभ अशुभ अशुभ शून्यं च    
@@ -92,7 +93,7 @@ Must wear the chain.” Too true; but far beyond
 Both name and form is Atman, ever free.    
 Know thou art That, Sannyasin bold!    
 Say–“Om Tat Sat, Om! ”    
-    
+
 ते सत्यं न जानन्ति तस्मै स्वपनरिक्तः    
 पितुः माता पुत्रः भार्या मित्रं अस्ति    
 आत्मा अलिंगं अस्ति    
@@ -107,7 +108,7 @@ Whose friend, whose foe is He who is but One?
 The Self is all in all, none else exists;    
 And thou art That, Sannyasin bold!    
 Say–“Om Tat Sat, Om!”    
-    
+
 अत्र एकमात्रतत्वं अस्ति    
 सः मुक्तः जिज्ञासु आत्मा अस्ति    
 निर्नामः निर्रुपः निश्कलंकः मायाया स्वपनं पश्यति    
@@ -123,7 +124,7 @@ In Him is Maya dreaming all this dream.
 The witness, He appears as nature, soul.    
 Know thou art That, Sannyasin bold!    
 Say–“Om Tat Sat, Om!”    
-    
+
 कुत्र अन्विष्टति यद् मुक्तिं हे मित्रं    
 विश्व त्वां मुक्तिं न ददति    
 शास्त्रे पूजास्थाने पवित्र स्थले    
@@ -139,7 +140,7 @@ Thy search. Thine only is the hand that holds
 The rope that drags thee on. Then cease lament,    
 Let go thy hold, Sannyasin bold!    
 Say–“Om Tat Sat, Om!”    
-    
+
 Say, “Peace to all: From me no danger be    
 To aught that lives. In those that dwell on high.    
 In those that lowly creep, I am the Self in all!    
@@ -147,7 +148,7 @@ All life both here and there, do I renounce,
 All heavens and earths and hells, all hopes and fears.”    
 Thus cut thy bonds, Sannyasin bold!    
 Say–“Om Tat Sat, Om!”    
-    
+
 Heed then no more how body lives or goes,    
 Its task is done. Let Karma float it down;    
 Let one put garlands on, another kick    
@@ -155,7 +156,7 @@ This frame; say naught. No praise or blame can be
 Where praiser praised, and blamer blamed are one.    
 Thus be thou calm, Sannyasin bold!    
 Say–“Om Tat Sat, Om!”    
-    
+
 Truth never comes where lust and fame and greed    
 Of gain reside. No man who thinks of woman    
 As his wife can ever perfect be;    
@@ -163,7 +164,7 @@ Nor he who owns the least of things, nor he
 Whom anger chains, can ever pass thro’ Maya’s gates.    
 So, give these up, Sannyasin bold!    
 Say–“Om Tat Sat, Om!”    
-    
+
 Have thou no home. What home can hold thee, friend?    
 The sky thy roof, the grass thy bed; and food    
 What chance may bring, well cooked or ill, judge not.    
@@ -171,7 +172,7 @@ No food or drink can taint that noble Self
 Which knows Itself. Like rolling river free    
 Thou ever be, Sannyasin bold!    
 Say–“Om Tat Sat, Om!”    
-    
+
 Few only know the truth. The rest will hate    
 And laugh at thee, great one; but pay no heed.    
 Go thou, the free, from place to place, and help    
@@ -179,16 +180,16 @@ Them out of darkness, Maya’s veil. Without
 The fear of pain or search for pleasure, go    
 Beyond them both, Sannyasin bold!    
 Say– “Om Tat Sat, Om!”    
-    
+
 Thus, day by day, till Karma’s powers spent    
 Release the soul for ever. No more is birth,    
 Nor I, nor thou, nor God, nor man. The “I”    
 Has All become, the All is “I” and Bliss.    
 Know thou art That, Sannyasin bold!    
 Say–“Om Tat Sat, Om!”    
-    
+
 एतद् कविता स्वामी विवेकानन्देन मूलतः  आंग्लभाषायां लिखितवान्    
 (Complete Works of Swami Vivekananda. Vol.4- Page 392)    
 Translated into Sanskrit by Hari Thapliyal    
-    
+
     

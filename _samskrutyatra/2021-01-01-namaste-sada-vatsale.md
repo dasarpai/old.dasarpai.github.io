@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/BharatMata.jpg)    
     
 # नमस्ते सदा वत्सले    
-# Namaste Sada Vatsale    
+## Namaste Sada Vatsale    
 नमस्ते सदा वत्सले मातृभूमे    
 त्वया हिन्दुभूमे सुखं वर्धितोऽहम् ।    
 महामङ्गले पुण्यभूमे त्वदर्थे    

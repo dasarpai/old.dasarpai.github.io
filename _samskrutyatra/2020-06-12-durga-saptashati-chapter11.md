@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # श्रीदुर्गासप्तशती -एकादशोऽध्यायः    
-# Durga Saptashati Chapter 11    
+## Durga Saptashati Chapter 11    
     
 ## देवताओं द्वारा देवी की सतुति तथा देवी द्वारा देवताओं को वरदान    
     

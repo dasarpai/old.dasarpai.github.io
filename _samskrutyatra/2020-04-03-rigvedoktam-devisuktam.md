@@ -21,13 +21,10 @@ share: true
 
 ![](/assets/images/samskrut/durga.jpg)
 
-देवीसूक्तम्
------------
-
-ऋग्वेदोक्तं देवीसूक्तम्
+# ऋग्वेदोक्तं देवीसूक्तम्
 =======================
 
-Rigvedoktam Devisuktam
+## Rigvedoktam Devisuktam
 ----------------------
 
 ॥विनियोगः॥  

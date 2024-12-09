@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Rudra.jpg)    
     
 # शंकराय मंगलं     
-# Shankarya Mangalam    
+## Shankarya Mangalam    
     
 {% include embed-audio.html src = "/assets/mp3/ShankaryaMangalam.mp3" %}     
     

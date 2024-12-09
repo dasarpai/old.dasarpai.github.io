@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # छान्दोग्योपनिषत्  अष्टमोऽध्यायः    
-# Chandogyopnishad 8    
+## Chandogyopnishad 8    
      
     
 अथ यदिदमस्मिन्ब्रह्मपुरे दहरं पुण्डरीकं वेश्म    

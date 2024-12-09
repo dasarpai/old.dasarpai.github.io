@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # श्रीदुर्गासप्तशती – तृतीयोऽध्यायः    
-# Durga Saptashati Chapter3    
+## Durga Saptashati Chapter3    
     
 ## सेनापतियोंसहित महिषासुर का वध    
     

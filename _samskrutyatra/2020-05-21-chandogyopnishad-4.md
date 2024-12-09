@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # छान्दोग्योपनिषत् चतुर्थोऽध्यायः    
-# Chandogyopnishad 4    
+## Chandogyopnishad 4    
      
     
 जानश्रुतिर्ह पौत्रायणः श्रद्धादेयो बहुदायी बहुपाक्य आस    

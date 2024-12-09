@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता पञ्चदशोऽध्यायः – पुरुषोत्तमयोगः    
-# Bhagwat Gita Chapter 15    
+## Bhagwat Gita Chapter 15    
     
 अथ पञ्चदशोऽध्यायः ।    पुरुषोत्तमयोगः    
     

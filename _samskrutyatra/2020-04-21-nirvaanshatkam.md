@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # निर्वाणषट्कम्     
-# NirvaanShatkam    
+## NirvaanShatkam    
     
 {% include embed-audio.html src = "/assets/mp3/001-NirvaanShatkam2.m4a" %}     
     

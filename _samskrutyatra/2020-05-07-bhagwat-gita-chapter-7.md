@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता सप्तमोऽध्यायः – ज्ञानविज्ञानयोगः    
-# Bhagwat Gita Chapter 7    
+## Bhagwat Gita Chapter 7    
     
 अथ सप्तमोऽध्यायः ।    ज्ञानविज्ञानयोगः    
     

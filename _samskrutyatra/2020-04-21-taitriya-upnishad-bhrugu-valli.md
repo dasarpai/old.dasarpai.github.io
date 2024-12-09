@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # तैत्तिरीयोपनिषत् सस्वरा –  तृतीया भृगुवल्ली    
-# Taitriya Upnishad Bhrugu Valli    
+## Taitriya Upnishad Bhrugu Valli    
     
 ॐ स॒ह ना॑ववतु । स॒ह नौ॑ भुनक्तु । स॒ह वी॒र्यं॑ करवावहै ।    
 ते॒ज॒स्विना॒वधी॑तमस्तु॒ मा वि॑द्विषा॒वहै᳚ ।    

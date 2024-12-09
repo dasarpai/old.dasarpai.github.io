@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Vishnu.jpg)    
     
 # मङ्गलाचरणम्    
-# Mangalacharan    
+## Mangalacharan    
     
 ॥ ॐ श्री गुरुभ्यो नमः हरिः ॐ ॥    
     

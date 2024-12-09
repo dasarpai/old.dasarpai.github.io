@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # श्रीदुर्गासप्तशती – पञ्चमोऽध्यायः    
-# Durga Saptashati Chapter5    
+## Durga Saptashati Chapter5    
     
 ## देवताओं द्वारा देवी की स्तुति, चण्ड-मुण्डके मुख से अम्बिका के रूप की प्रशंसा सुनकर शुम्भ का उनके पास दूत भेजना और दूत का निराश लौटना    
     

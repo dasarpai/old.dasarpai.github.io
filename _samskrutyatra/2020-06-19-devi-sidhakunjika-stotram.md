@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)
 
 # Devi SidhaKunjiKa Stotram
-# सिद्धकुञ्जिकास्तोत्रम्
+## सिद्धकुञ्जिकास्तोत्रम्
 
 शिव उवाच
 शृणु देवि प्रवक्ष्यामि, कुञ्जिकास्तोत्रमुत्तमम्।  

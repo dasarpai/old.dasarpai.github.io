@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Krishna.jpg)    
     
 # श्री मदन मोहन अष्टकम    
-# Sri Madana Mohana Ashtakam    
+## Sri Madana Mohana Ashtakam    
     
 {% include embed-audio.html src = "/assets/mp3/007-ShriMadanMohanAshtakam.mp3" %}     
     

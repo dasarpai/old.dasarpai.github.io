@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # माण्डूक्योपनिषत्    
-# Mandukyopnishad    
+## Mandukyopnishad    
     
 {% include embed-audio.html src = "/assets/mp3/068-Mandukyopnishad.mp3" %}     
     

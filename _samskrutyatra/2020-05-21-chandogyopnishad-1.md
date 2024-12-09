@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # ॥ छान्दोग्योपनिषत् ॥    
-# Chandogyopnishad 1    
+## Chandogyopnishad 1    
     
 ॥ अथ छान्दोग्योपनिषत् ॥    
 ॐ  आप्यायन्तु ममाङ्गानि वाक्प्राणश्च्क्षुः श्रोत्रमथो बलमिन्द्रियाणि च सर्वाणि ।    

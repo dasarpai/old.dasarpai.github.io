@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # ऐतरेयोपनिषत्    
-# Aitreyopnishad    
+## Aitreyopnishad    
     
     
 वाङ् मे मनसि प्रतिष्ठिता मनो मे वाचि प्रतिष्ठितमाविरावीर्म एधि ॥    

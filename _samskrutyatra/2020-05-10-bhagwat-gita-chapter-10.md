@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता दशमोऽध्यायः – विभूतियोगः    
-# Bhagwat Gita Chapter 10    
+## Bhagwat Gita Chapter 10    
     
 अथ दशमोऽध्यायः ।    विभूतियोगः    
     

@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Sri-Ramakrishna.jpg)    
     
 #  श्रीगुरु-प्रार्थना    
-# Shri Guru Prarthana    
+## Shri Guru Prarthana    
     
 {% include embed-audio.html src = "/assets/mp3/033-BhavSagarTaran.mp3" %}     
     

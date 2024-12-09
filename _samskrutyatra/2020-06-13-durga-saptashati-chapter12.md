@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # श्रीदुर्गासप्तशती – द्वादशोऽध्यायः    
-# Durga Saptashati Chapter12    
+## Durga Saptashati Chapter12    
     
 ## देवी-चरित्रों के पाठ का माहात्म्य    
     

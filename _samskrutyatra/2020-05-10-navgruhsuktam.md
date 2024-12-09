@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/SanskritYatra-Sloka.jpg)    
     
 # नवग्रहसूक्तम्    
-# Navgruhsuktam    
+## Navgruhsuktam    
     
 ॐ शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्।    
 प्रसन्नवदनम् ध्यायेत्सर्व विघ्नोपशान्तये॥    

@@ -21,8 +21,8 @@ share: true
     
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
-# श्रीमद्भगवद्गीता एकादशोऽध्यायः – विश्वरूपदर्शनयोगः    
-# Bhagwat Gita Chapter 11    
+## श्रीमद्भगवद्गीता एकादशोऽध्यायः – विश्वरूपदर्शनयोगः    
+## Bhagwat Gita Chapter 11    
     
 अथैकादशोऽध्यायः ।    विश्वरूपदर्शनयोगः    
     

@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/SanskritYatra-Sloka.jpg)    
     
 # आयुष्य सूक्तम्    
-# Aayshman Suktam    
+## Aayshman Suktam    
 
 यो ब्रह्मा ब्रह्मण उ॑ज्जहा॒र प्रा॒णैः शि॒रः कृत्तिवासाः᳚ पिना॒की ।    
 ईशानो देवः स न आयु॑र्दधा॒तु॒ तस्मै जुहोमि हविषा॑ घृते॒न ॥ १ ॥    

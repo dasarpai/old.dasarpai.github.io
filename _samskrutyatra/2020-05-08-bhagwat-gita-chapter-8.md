@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता अष्टमोऽध्यायः – अक्षरब्रह्मयोगः    
-# Bhagwat Gita Chapter 8    
+## Bhagwat Gita Chapter 8    
     
 अथ अष्टमोऽध्यायः ।    अक्षरब्रह्मयोगः    
     

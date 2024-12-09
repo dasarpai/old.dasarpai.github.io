@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता द्वादशोऽध्यायः – भक्तियोगः    
-# Bhagwat Gita Chapter 12    
+## Bhagwat Gita Chapter 12    
     
 अथ द्वादशोऽध्यायः ।    भक्तियोगः    
     

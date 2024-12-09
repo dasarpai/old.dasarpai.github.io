@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Shiva.jpg)    
     
 # लिंगाष्टकमं स्तोत्र    
-# Lingastakam Stotra    
+## Lingastakam Stotra    
     
 {% include embed-audio.html src = "/assets/mp3/056-ShivLingAshtakam.mp3" %}     
     

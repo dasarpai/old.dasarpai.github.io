@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Umamaheshwar.jpg)    
     
 # उमामहेश्वर स्तोत्रं     
-# Uma Maheshwara Stotram    
+## Uma Maheshwara Stotram    
     
 {% include embed-audio.html src = "/assets/mp3/024-UmaMaheshwarStotram.mp3" %}     
     

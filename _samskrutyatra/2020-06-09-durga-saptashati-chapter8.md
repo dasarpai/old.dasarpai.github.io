@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # श्रीदुर्गासप्तशती – अष्टमोऽध्यायः    
-# Durga Saptashati Chapter8    
+## Durga Saptashati Chapter8    
     
 ## रक्तबीज-वध    
     

@@ -21,12 +21,12 @@ share: true
     
 ![](/assets/images/samskrut/Maheshsutrani.jpg)    
     
-#     
+    
     
 {% include embed-audio.html src = "/assets/mp3/017-MaheshwaraSutrani.m4a" %}     
     
-माहेश्वर सूत्र    
-       Maheshwara Sutrani    
+# माहेश्वर सूत्र    
+## Maheshwara Sutrani    
       
 Maheshwar Sutrani is the foundation of Panini’s Astha-Adhyayi. It has 14 sutras, they are mentioned below. I have recorded them in singing format.    
     

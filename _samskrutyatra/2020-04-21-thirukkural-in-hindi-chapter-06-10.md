@@ -21,9 +21,8 @@ share: true
     
 ![](/assets/images/samskrut/Thiruvalluvar.jpg)    
     
-# तिरुक्कूरळ    
-## Thirukkural in Hindi Chapter 6-10    
-## हिन्दी अनुवाद Chapter 6-10      
+# तिरुक्कूरळ - हिन्दी अनुवाद Chapter 6-10  
+## Thirukkural in Hindi Chapter 6-10        
     
 {% include embed-audio.html src = "/assets/mp3/040-Thirukkurul.Ch06.10.mp3" %}     
     

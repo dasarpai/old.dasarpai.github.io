@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # आत्मोपनिषत्    
-# Aatmopnishad    
+## Aatmopnishad    
     
 यत्र नात्मप्रपञ्चोऽयमपह्नवपदं गतः ।    
 प्रतियोगिविनिर्मुक्तः परमात्मावशिष्यते ॥    

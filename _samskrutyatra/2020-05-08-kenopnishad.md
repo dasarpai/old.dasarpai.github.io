@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # अथ केनोपनिषत्    
-# Kenopnishad    
+## Kenopnishad    
     
 ॐ आप्यायन्तु ममाङ्गानि वाक्प्राणश्चक्षुः    
 श्रोत्रमथो बलमिन्द्रियाणि च सर्वाणि ।    

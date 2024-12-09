@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # श्रीदुर्गासप्तशती – षष्ठोऽध्यायः    
-# Durga Saptashati Chapter6    
+## Durga Saptashati Chapter6    
     
 ## धूम्रलोचन-वध    
     

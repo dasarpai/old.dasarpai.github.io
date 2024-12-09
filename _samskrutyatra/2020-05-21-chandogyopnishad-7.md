@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # छान्दोग्योपनिषत् सप्तमोऽध्यायः    
-# Chandogyopnishad 7    
+## Chandogyopnishad 7    
      
     
 अधीहि भगव इति होपससाद सनत्कुमारं नारदस्तꣳ    

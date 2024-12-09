@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Sri-Ramakrishna.jpg)    
     
 #  सन्यासी का गीत    
-# Song of Sanyasi    
+## Song of Sanyasi    
 by Swami Vivekananda    
     
 जगाओ स्वर! उस गीत के जो जन्मा    

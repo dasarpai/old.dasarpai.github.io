@@ -21,9 +21,11 @@ share: true
     
 ![](/assets/images/samskrut/Thiruvalluvar.jpg)    
     
-# TirukKural Summary    
+   
     
-### **भाग–१: धर्म- कांड**    
+# **भाग–१: धर्म- कांड** 
+
+## TirukKural Summary - Part 2   
     
 अध्याय 001 to 010    
 1. ईश्वर- स्तुति    

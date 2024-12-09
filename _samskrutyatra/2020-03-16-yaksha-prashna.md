@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/SanskritYatra-Subhashitam.jpg)
 
 # यक्षप्रश्ना:
-# Yaksha Prashna
+## Yaksha Prashna
 
 यक्षप्रश्ना:
 

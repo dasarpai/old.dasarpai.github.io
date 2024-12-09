@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # गुरु स्तोत्रम्     
-# Guru Stotram    
+## Guru Stotram    
     
 {% include embed-audio.html src = "/assets/mp3/57-GuruStotram057-GuruStotram.mp3" %}     
     

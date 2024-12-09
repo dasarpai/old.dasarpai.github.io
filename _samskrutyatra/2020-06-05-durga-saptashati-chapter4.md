@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # श्रीदुर्गासप्तशती – चतुर्थोऽध्यायः    
-# Durga Saptashati Chapter4    
+## Durga Saptashati Chapter4    
     
 ## इन्द्रादि देवताओं द्वारा देवी की स्तुति    
     

@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # श्रीदुर्गासप्तशती – त्रयोदशोऽध्यायः    
-# Durga Saptashati Chapter13    
+## Durga Saptashati Chapter13    
     
 ## सुरथ और वैश्य को देवी का वरदान    
     

@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Hanumanji.jpg)    
     
 # संकटमोचन हनुमानाष्टकम्    
-# Hanuman Ashtakam    
+## Hanuman Ashtakam    
     
 बाल समय रबि भक्षि लियो तब, तीनहुँ लोक भयो अँधियारो ।    
 ताहि सों त्रास भयो जग को, यह संकट काहु सों जात न टारो ॥    

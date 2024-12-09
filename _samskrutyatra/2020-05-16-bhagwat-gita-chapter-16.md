@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता षोडशोऽध्यायः – दैवासुरसम्पद्विभागयोगः    
-# Bhagwat Gita Chapter 16    
+## Bhagwat Gita Chapter 16    
     
 अथ षोडशोऽध्यायः ।    दैवासुरसम्पद्विभागयोगः    
     

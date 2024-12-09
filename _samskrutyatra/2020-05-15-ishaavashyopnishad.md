@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # ईशावास्योपषत्    
-# IshaaVashyopnishad    
+## IshaaVashyopnishad    
     
 {% include embed-audio.html src = "/assets/mp3/064-Ishavasyopnid.mp3" %}     
     

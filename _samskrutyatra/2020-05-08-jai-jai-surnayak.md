@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/RamcharaitMaanas.jpg)    
     
 # जय जय सुरनायक     
-# Jai Jai Surnayak    
+## Jai Jai Surnayak    
 (तुलसीकृत रामचरित मानस)    
     
 {% include embed-audio.html src = "/assets/mp3/029-JaijaiSurNayak.mp3" %}     

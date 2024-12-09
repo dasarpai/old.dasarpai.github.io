@@ -22,8 +22,8 @@ share: true
     
 ![](/assets/images/samskrut/Vipasana.jpg)    
     
-# मन    
-# Vipasana Dohe- Dharma    
+# विपासना दोहे - मन    
+## Vipasana Dohe- Dharma    
     
 {% include embed-audio.html src = "/assets/mp3/053-Manas.mp3" %}     
     

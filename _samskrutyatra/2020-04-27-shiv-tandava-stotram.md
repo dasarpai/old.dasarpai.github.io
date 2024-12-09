@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Shiva.jpg)    
     
 # शिवतांडवस्तोत्रं     
-# Shiv Tandava Stotram    
+## Shiv Tandava Stotram    
     
 सामान्य गति    
 {% include embed-audio.html src = "/assets/mp3/005-ShivTandavaStotram.mp3" %}     

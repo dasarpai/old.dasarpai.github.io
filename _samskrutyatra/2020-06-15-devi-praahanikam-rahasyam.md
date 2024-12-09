@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # अथ प्राधानिकं रहस्यम्    
-# Devi Praahanikam Rahasyam    
+## Devi Praahanikam Rahasyam    
     
 ॥विनियोगः॥    
     

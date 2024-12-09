@@ -21,8 +21,8 @@ share: true
 
 ![](/assets/images/samskrut/SanskritYatra-Subhashitam.jpg)
 
-विकटकविः
-========
+# विकटकविः
+
 
 लेखिका — लावण्या मर्ला
 

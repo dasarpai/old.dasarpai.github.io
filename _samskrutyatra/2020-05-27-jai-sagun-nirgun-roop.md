@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/RamcharaitMaanas.jpg)    
     
 # जय सगुन निर्गुन रूप    
-# Jai Sagun Nirgun Roop    
+## Jai Sagun Nirgun Roop    
     
 {% include embed-audio.html src = "/assets/mp3/070-JaiSagunNirgun.mp3" %}     
     

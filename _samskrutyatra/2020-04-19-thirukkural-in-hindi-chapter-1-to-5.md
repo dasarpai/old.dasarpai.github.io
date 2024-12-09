@@ -21,12 +21,10 @@ share: true
     
 ![](/assets/images/samskrut/Thiruvalluvar.jpg)    
     
-# तिरुक्कूरळ    
-## Thirukkural in Hindi Chapter 1 to 5    
-## हिन्दी अनुवाद Chapter 1-5    
+# तिरुक्कूरळ - हिन्दी अनुवाद Chapter 1-5  
+## Thirukkural in Hindi Chapter 1 to 5     
     
 {% include embed-audio.html src = "/assets/mp3/037-Thirukkural.Ch01.05.mp3" %}     
-    
     
 There are at least 19 translations of the Kural in Hindi. The first translation was probably that of Khenand Rakat, published in 1924. The University of Madras came out with a translation by Sankar Raju Naidu in 1958. Hindi, being India’s official language of communication, it has obviously attracted the most number of translations among all north Indian languages. Surprisingly many of these translations are in verse! One of the last translations to appear is Kural Kavitā Valī, a translation by Ananda Sandhidut which appeared in 2000.    
     

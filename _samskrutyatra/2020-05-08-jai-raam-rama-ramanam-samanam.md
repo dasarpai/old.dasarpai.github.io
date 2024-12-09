@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/RamcharaitMaanas.jpg)    
     
 # जय राम रमा रमनं समनं    
-# Jai Raam Rama Ramanam Samanam    
+## #Jai Raam Rama Ramanam Samanam    
     
 तुलसीकृत रामचरित मानस    
     

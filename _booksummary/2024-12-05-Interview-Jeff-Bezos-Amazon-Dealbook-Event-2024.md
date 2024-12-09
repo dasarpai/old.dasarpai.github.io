@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 7531
-title: "Interview with Jeff Bezos, Amazon, at Dealbook Event 2024"
+title: "Interview with Jeff Bezos @ Amazon, at Dealbook Event 2024"
 date: 2024-12-05
 permalink: /booksummary/interview-jeff-bezos-amazon-dealbook-event-2024
 tags:
@@ -26,7 +26,7 @@ comments: true
 
 ![Interview-Jeff-Bezos-Amazon-Dealbook-Event-2023](/assets/images/booksummary/7531-Interview-Jeff-Bezos-Amazon-Dealbook-Event-2024.jpg)
 
-# Key Themes and Ideas from Jeff Bezos' Interview
+# Key Themes and Ideas from Interview with Jeff Bezos @ Amazon, at Dealbook Event 2024
 These themes highlight Bezos' philosophies, ambitions, and the principles guiding his multifaceted ventures.
 
 ## **Theme 1: Leadership and Decision-Making**  

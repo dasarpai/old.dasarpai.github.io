@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # कनकधारा स्तोत्र    
-# Kanakdhara Stotram    
+## Kanakdhara Stotram    
     
 अंग हरे: पुलकभूषणमाश्रयन्ती भृंगांगनेव मुकुलाभरणं तमालम ।    
 अंगीकृताखिल विभूतिरपांगलीला मांगल्यदाsस्तु मम मंगलदेवताया: ।।1।।    

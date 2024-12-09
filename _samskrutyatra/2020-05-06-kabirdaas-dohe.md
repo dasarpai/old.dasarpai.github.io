@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/saint-kabir-das.jpg)    
     
 # कबीरदास दोहे    
-# Kabirdaas Dohe    
+## Kabirdaas Dohe    
     
 In Indian Bhakti tradition Kabirdaas holds a very unique position. Because of his efforts to unify the Hindu & Muslim community he is respected by both. He is quoted in Gurubani of Sikh tradition and chanted by Sufi’s by as well. He carries the wisdom of Vedantic Tradition and trying to address the contemporary challenges of his time. His style of communication is unique, as per his time. We popularly call it Dohe. There are many Dohe from Kabardas Ji. Over the last 6 centuries many got mixed up, and today it is very difficult to identify which one is actually said by Kabir and which not. Here is a list of 136 Dohe. Hope this gives peace to your heart and wisdom to live in your mind. Try to sing and absorbed them by contemplation on the meaning. If possible avoid external musical instruments and try to enjoy this in your own voice. These Dohe are not for music concerts but to transform the life of every individual. I am not giving the meaning of these because the presentation looks bad and moreover purpose of this blog is to inspire you to sing and dance with the cosmic existence. There are many sites you can look at for the purpose of these. These Dohe are written in alphabetic order and no other significance. May cosmos intelligence absorb you in that oneness with that which really exists.    
     

@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # भवान्यष्टकम्    
-# Bhavani Ashtakam    
+## Bhavani Ashtakam    
     
 {% include embed-audio.html src = "/assets/mp3/060-BhavaniAshtakam.mp3" %}     
     

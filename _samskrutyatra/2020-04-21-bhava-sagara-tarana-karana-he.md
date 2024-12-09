@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Sri-Ramakrishna.jpg)    
     
 # भवसागर तारण कारण हे    
-# Bhava Sagara Tarana Karana He    
+## Bhava Sagara Tarana Karana He    
     
 {% include embed-audio.html src = "/assets/mp3/033-BhavSagarTaran.mp3" %}     
     

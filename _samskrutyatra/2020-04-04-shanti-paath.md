@@ -24,10 +24,10 @@ share: true
 
 {% include embed-audio.html src = "/assets/mp3/062-ShantiPaath.mp3"%} 
 
-शान्तिपाठः 
+# शान्तिपाठः 
 ===========
 
-Shanti Paath
+## Shanti Paath
 ------------
 
 शान्तिपाठः

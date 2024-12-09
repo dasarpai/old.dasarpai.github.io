@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # अथ वैकृतिकं रहस्यम्    
-# Devi Vaikrutikam Rahashyam    
+## Devi Vaikrutikam Rahashyam    
     
 ऋषिरुवाच    
 ॐ त्रिगुणा तामसी देवी सात्त्विकी या त्रिधोदिता।    

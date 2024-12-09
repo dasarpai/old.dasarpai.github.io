@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता नवमोऽध्यायः – राजविद्याराजगुह्ययोगः    
-# Bhagwat Gita Chapter 9    
+## Bhagwat Gita Chapter 9    
     
 अथ नवमोऽध्यायः ।    राजविद्याराजगुह्ययोगः    
     

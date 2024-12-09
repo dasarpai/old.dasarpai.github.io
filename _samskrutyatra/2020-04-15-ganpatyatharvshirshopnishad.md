@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/GaneshJi.jpg)    
     
 # गणपत्यथर्वशीर्षोपनिषत्    
-# GanpatyaTharvShirshopnishad    
+## GanpatyaTharvShirshopnishad    
     
         
 ॐ भ॒द्रं कर्णे॑भिः श‍ृणु॒याम॑ देवाः । भ॒द्रं प॑श्येमा॒क्षभि॒र्यज॑त्राः ।    

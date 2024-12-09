@@ -21,7 +21,7 @@ share: true
 
 ![](/assets/images/samskrut/Upanishad.jpg)
 
-## नासदीय सूक्तं 
+# नासदीय सूक्तं 
 ## Nasadiya Sukta
 
 ### Nasadiya Sukta from RigVeda

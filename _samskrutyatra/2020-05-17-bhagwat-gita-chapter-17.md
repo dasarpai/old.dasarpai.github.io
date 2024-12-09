@@ -22,7 +22,8 @@ share: true
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता सप्तदशोऽध्यायः – श्रद्धात्रयविभागयोगः    
-# Bhagwat Gita Chapter 17    
+
+## Bhagwat Gita Chapter 17    
     
 अथ सप्तदशोऽध्यायः ।    श्रद्धात्रयविभागयोगः    
     

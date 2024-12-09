@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # श्रीदुर्गासप्तशती – द्वितीयोऽध्यायः    
-# Durga Saptashati Chapter2    
+## Durga Saptashati Chapter2    
     
 ## देवताओं के तेज से देवी का प्रादुर्भाव और महिषासुर की सेना का वध    
     

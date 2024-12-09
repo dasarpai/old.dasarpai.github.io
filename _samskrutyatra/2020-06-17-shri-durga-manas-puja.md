@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # श्रीदुर्गामानस-पूजा    
-# Shri Durga Manas Puja    
+## Shri Durga Manas Puja    
     
 उद्यच्चन्दनकुङ्कुमारुण पयोधाराभिराप्लावितां    
 नानानर्घ्यमणिप्रवालघटितां दत्तां गृहाणाम्बिके।    

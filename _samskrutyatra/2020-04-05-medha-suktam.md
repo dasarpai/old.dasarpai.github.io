@@ -21,7 +21,7 @@ share: true
 
 ![](/assets/images/samskrut/Upanishad.jpg)
 
-## मेधासूक्तं
+# मेधासूक्तं
 ## Medha Suktam
 
 तैत्तिरीयारण्यकम् – ४ प्रपाठकः १० – अनुवाकः ४१-४४

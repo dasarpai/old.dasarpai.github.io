@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # {तैत्तिरीयोपनिषत् सस्वरा – प्रथमा शीक्षावल्ली    
-# Taitriya Upnishad Sheeksha Valli    
+## Taitriya Upnishad Sheeksha Valli    
     
 ॐ श्री गुरुभ्यो नमः । ह॒रिः॒ ॐ ।    
     

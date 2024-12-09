@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 #   रुद्रप्रश्नः    
-# Rudra Prashna   
+## Rudra Prashna   
     
 {% include embed-audio.html src = "/assets/mp3/071-Rudram-19-05-21.m4a" %}     
     

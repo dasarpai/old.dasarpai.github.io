@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # देवी अपराध क्षमापन स्तोत्रं    
-# Devi Aparaadh Kshamapan Stotram    
+## Devi Aparaadh Kshamapan Stotram    
     
 {% include embed-audio.html src = "/assets/mp3/032-DeviApradhKshamapanStotram1.mp3" %}     
 {% include embed-audio.html src = "/assets/mp3/032-DeviApradhKshamapanStotram2.mp3" %}     

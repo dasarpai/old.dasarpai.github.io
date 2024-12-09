@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # याज्ञवल्क्योपनिषत्    
-# Yaagyavalkyopnishad    
+## Yaagyavalkyopnishad    
     
 संन्यासज्ञानसम्पन्ना यान्ति यद्वैष्णवं पदम् ।    
 तद्वै पदं ब्रह्मतत्त्वं रामचन्द्रपदं भजे ॥    

@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # श्रीदुर्गासप्तशती – नवमोऽध्यायः    
-# Durga Saptashati Chapter9    
+## Durga Saptashati Chapter9    
     
 ## निशुम्भ-वध    
     

@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Ramchandraji.jpg)    
     
 # नाम रामायण    
-# Naam Ramayan    
+## Naam Ramayan    
     
 Sung by Pandit Bhajan Sopori    
 {% include embed-audio.html src = "/assets/mp3/O002-NaamRaam.m4a" %}     

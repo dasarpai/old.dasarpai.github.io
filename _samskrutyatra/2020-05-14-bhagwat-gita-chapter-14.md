@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता चतुर्दशोऽध्यायः – गुणत्रयविभागयोगः    
-# Bhagwat Gita Chapter 14    
+## Bhagwat Gita Chapter 14    
     
 अथ चतुर्दशोऽध्यायः ।    गुणत्रयविभागयोगः    
     

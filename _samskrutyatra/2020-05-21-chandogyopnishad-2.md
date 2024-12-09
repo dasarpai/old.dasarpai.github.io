@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # छान्दोग्योपनिषत् द्वितीयोऽध्यायः    
-# Chandogyopnishad 2    
+## Chandogyopnishad 2    
      
     
 समस्तस्य खलु साम्न उपासनꣳ साधु यत्खलु साधु    

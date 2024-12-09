@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # तन्त्रोक्तं देविसूक्तम्    
-# Tantroktam DeviSuktam    
+## Tantroktam DeviSuktam    
     
     
 नमो देव्यै महादेव्यै शिवायै सततं नमः ।    

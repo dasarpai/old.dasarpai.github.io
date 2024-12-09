@@ -21,8 +21,9 @@ share: true
     
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
-# श्रीमद्भगवद्गीता अथाष्टादशोऽध्यायः – मोक्षसंन्यासयोगः    
-# Bhagwat Gita Chapter 18    
+# श्रीमद्भगवद्गीता अथाष्टादशोऽध्यायः – मोक्षसंन्यासयोगः   
+ 
+## Bhagwat Gita Chapter 18    
     
 ## अथाष्टादशोऽध्यायः ।    मोक्षसंन्यासयोगः    
     

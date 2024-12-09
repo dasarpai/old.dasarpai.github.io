@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # पुरुषसूक्त    
-# Purush Suktam    
+## Purush Suktam    
     
 {% include embed-audio.html src = "/assets/mp3/039-purushSuktam.mp3" %}     
     

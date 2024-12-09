@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # श्रीदुर्गासप्तशती दशमोऽध्यायः    
-# Durga Saptashati Chapter10    
+## Durga Saptashati Chapter10    
     
 ## शुम्भ वध    
     

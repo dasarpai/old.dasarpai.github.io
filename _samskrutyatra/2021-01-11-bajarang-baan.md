@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Hanumanji.jpg)    
     
 # बजरंग बाण    
-# Bajarang Baan    
+## Bajarang Baan    
     
 {% include embed-audio.html src = "/assets/mp3/059-HanumanBaan.m4a" %}     
     

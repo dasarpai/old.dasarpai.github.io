@@ -21,12 +21,13 @@ share: true
     
 ![](/assets/images/samskrut/RamcharaitMaanas.jpg)    
     
-#     
+    
     
 {% include embed-audio.html src = "/assets/mp3/067-JairamSobhaDham.mp3" %}     
     
-जय राम सोभा धाम    
-Jai Raama Sobha Dham    
+# जय राम सोभा धाम    
+## Jai Raama Sobha Dham    
+
 When Ravana is killed by Raama then this prayer is done to Raama by Devtas led by Indra. Keep in mind this is a poetic narration of “Sant Tulasidas Ji” from “Ramcharit Manas” and not original poem from “Balmiki Ramayan”    
     
     

@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता प्रथमोऽध्यायः    
-# Bhagwat Gita Chapter 1    
+## Bhagwat Gita Chapter 1    
     
 ॐ श्री परमात्मने नमः    
     

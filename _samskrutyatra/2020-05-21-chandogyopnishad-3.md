@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # छान्दोग्योपनिषत्  तृतीयोऽध्यायः    
-# Chandogyopnishad 3    
+## Chandogyopnishad 3    
      
     
 असौ वा आदित्यो देवमधु तस्य द्यौरेव    

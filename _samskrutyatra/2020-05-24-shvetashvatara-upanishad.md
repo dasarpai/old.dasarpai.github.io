@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # श्वेताश्वतरोपनिषत्    
-# Shvetashvatara Upanishad    
+## Shvetashvatara Upanishad    
     
 ॐ सहनाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै ।    
 तेजस्वि नावधीतमस्तु । मा विद्विषावहै ॥    

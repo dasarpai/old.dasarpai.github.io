@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Rudra.jpg)    
     
 # रुद्रप्रश्नः लघुन्यासः    
-# RudraPrashna LaghuNyasa    
+## RudraPrashna LaghuNyasa    
     
 {% include embed-audio.html src = "/assets/mp3/020-RudraPrashnaLagu.mp3" %}     
     

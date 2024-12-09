@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # ललितासहस्रनामं    
-# Lalita Sahasranamam     
+## Lalita Sahasranamam     
     
 {% include embed-audio.html src = "/assets/mp3/012-LalitaSahasranaamStotram.mp3" %}     
     

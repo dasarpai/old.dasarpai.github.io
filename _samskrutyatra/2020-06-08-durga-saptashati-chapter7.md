@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # श्रीदुर्गासप्तशती – सप्तमोऽध्यायः    
-# Durga Saptashati Chapter7    
+## Durga Saptashati Chapter7    
     
 ## चण्ड और मुण्डका वध    
     

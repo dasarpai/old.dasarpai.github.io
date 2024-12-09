@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
     
 # क्षमा-प्रार्थना    
-# Devi Kshama Prarthana    
+## Devi Kshama Prarthana    
     
 {% include embed-audio.html src = "/assets/mp3/063-DeviKshamPrarthana.mp3" %}     
     

@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Ganga.jpg)    
     
 # श्री गंगा स्तोत्रम    
-# Shri Ganga Stotram    
+## Shri Ganga Stotram    
     
 {% include embed-audio.html src = "/assets/mp3/034-ShriGangaStotram.mp3" %}     
     

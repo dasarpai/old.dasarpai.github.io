@@ -21,7 +21,7 @@ share: true
 
 ![](/assets/images/samskrut/SanskritYatra-Story.jpg)
 
-## Importance of Human Body
+# Importance of Human Body
 ##  मनुष्यस्य शरीरस्य महत्वं
 
 ### यावत् जीवामः तावदेव मनुष्यस्य शरीरस्य महत्वं भवति  

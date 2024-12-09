@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता तृतीयोऽध्यायः    
-# Bhagwat Gita Chapter 3    
+## Bhagwat Gita Chapter 3    
 
 अथ तृतीयोऽध्यायः ।    कर्मयोगः    
     

@@ -22,7 +22,7 @@ share: true
 ![](/assets/images/samskrut/Vishnu.jpg)    
     
 # नारायणसूक्तम्    
-# Narayan Suktam  
+## Narayan Suktam  
     
 {% include embed-audio.html src = "/assets/mp3/036-narayanSuktam.mp3" %}     
          
