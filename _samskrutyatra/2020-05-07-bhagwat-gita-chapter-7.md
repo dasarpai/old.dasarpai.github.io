@@ -3,7 +3,7 @@ id: 4083
 mathjax: true    
 title: 'श्रीमद्भगवद्गीता सप्तमोऽध्यायः - ज्ञानविज्ञानयोगः'    
 date: 2020-05-07    
-permalink: /samskrutyatra/bhagwat-gita-chapter-7'
+permalink: /samskrutyatra/bhagwat-gita-chapter-7
 redirect_from: 
   - '/samskrut/bhagwat-gita-chapter-7'
 tags: [Bhagwat Gita]    

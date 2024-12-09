@@ -3,7 +3,7 @@ id: 4056
 mathjax: true    
 title: 'कैवल्योपनिषत्'    
 date: 2020-04-27    
-permalink: /samskrutyatra/kaivalopnishad'
+permalink: /samskrutyatra/kaivalopnishad
 redirect_from: 
   - '/samskrut/kaivalopnishad'
 tags: [Upanishad, Chanting]    

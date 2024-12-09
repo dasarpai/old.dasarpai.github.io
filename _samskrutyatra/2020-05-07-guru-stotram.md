@@ -3,7 +3,7 @@ id: 4086
 mathjax: true    
 title: 'गुरु स्तोत्रम्'    
 date: 2020-05-07    
-permalink: /samskrutyatra/guru-stotram'
+permalink: /samskrutyatra/guru-stotram
 redirect_from: 
   - '/samskrut/guru-stotram'
 tags: [Devi, Stotram, Guru, Chanting]    

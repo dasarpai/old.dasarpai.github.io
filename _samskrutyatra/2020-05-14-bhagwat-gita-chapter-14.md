@@ -3,7 +3,7 @@ id: 4111
 mathjax: true    
 title: 'श्रीमद्भगवद्गीता चतुर्दशोऽध्यायः - गुणत्रयविभागयोगः'    
 date: 2020-05-14    
-permalink: /samskrutyatra/bhagwat-gita-chapter-14'
+permalink: /samskrutyatra/bhagwat-gita-chapter-14
 redirect_from: 
   - '/samskrut/bhagwat-gita-chapter-14'
 tags: [Bhagwat Gita]    

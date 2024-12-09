@@ -3,7 +3,7 @@ id: 4122
 mathjax: true    
 title: 'छान्दोग्योपनिषत् द्वितीयोऽध्यायः'    
 date: 2020-05-21    
-permalink: /samskrutyatra/chandogyopnishad-2'
+permalink: /samskrutyatra/chandogyopnishad-2
 redirect_from: 
   - '/samskrut/chandogyopnishad-2'
 tags: [Upanishad, Chandogya Upanishad]    

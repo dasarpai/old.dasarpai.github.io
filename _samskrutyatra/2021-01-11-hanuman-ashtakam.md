@@ -3,7 +3,7 @@ id: 4154
 mathjax: true    
 title: 'संकटमोचन हनुमानाष्टकम्'    
 date: 2021-01-11    
-permalink: /samskrutyatra/hanuman-ashtakam'
+permalink: /samskrutyatra/hanuman-ashtakam
 redirect_from: 
   - '/samskrut/hanuman-ashtakam'
 tags: [Bhajan]    

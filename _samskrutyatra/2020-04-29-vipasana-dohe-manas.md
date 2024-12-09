@@ -3,7 +3,7 @@ id: 4064
 mathjax: true
 title: 'मन'
 date: 2020-04-21    
-permalink: /samskrutyatra/vipasana-dohe-manas'
+permalink: /samskrutyatra/vipasana-dohe-manas
 redirect_from: 
   - '/samskrut/vipasana-dohe-manas'
 tags: [Vipasana, Chanting] 

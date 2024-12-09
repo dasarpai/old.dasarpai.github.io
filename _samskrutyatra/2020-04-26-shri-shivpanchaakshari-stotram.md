@@ -3,7 +3,7 @@ id: 4053
 mathjax: true    
 title: 'श्रीशिवपञ्चाक्षरस्तोत्रम्'    
 date: 2020-04-26    
-permalink: /samskrutyatra/shri-shivpanchaakshari-stotram'
+permalink: /samskrutyatra/shri-shivpanchaakshari-stotram
 redirect_from: 
   - '/samskrut/shri-shivpanchaakshari-stotram'
 tags: [Shiva, Chanting, Stotram]    

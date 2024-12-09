@@ -3,7 +3,7 @@ id: 4171
 mathjax: true    
 title: 'विज्ञान भैरव तंत्र के सूत्र'    
 date: 2022-09-05    
-permalink: /samskrutyatra/vigyan-bhairav-tantra'
+permalink: /samskrutyatra/vigyan-bhairav-tantra
 redirect_from: 
   - '/samskrut/vigyan-bhairav-tantra'
 tags: [Shiva]    

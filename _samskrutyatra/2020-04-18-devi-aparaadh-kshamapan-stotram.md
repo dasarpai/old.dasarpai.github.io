@@ -3,7 +3,7 @@ id: 4026
 mathjax: true    
 title: 'देवी अपराध क्षमापन स्तोत्रं'    
 date: 2020-04-18    
-permalink: /samskrutyatra/devi-aparaadh-kshamapan-stotram'
+permalink: /samskrutyatra/devi-aparaadh-kshamapan-stotram
 redirect_from: 
   - '/samskrut/devi-aparaadh-kshamapan-stotram'
 tags: [Devi, Durga Saptashati, Stotram]    

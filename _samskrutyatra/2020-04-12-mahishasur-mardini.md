@@ -3,7 +3,7 @@ id: 4021
 mathjax: true    
 title: 'महिषासुरमर्दिनि'    
 date: 2020-04-12    
-permalink: /samskrutyatra/mahishasur-mardini'
+permalink: /samskrutyatra/mahishasur-mardini
 redirect_from: 
   - '/samskrut/mahishasur-mardini'
 tags: [Devi, Chanting]    

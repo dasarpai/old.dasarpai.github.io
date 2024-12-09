@@ -3,7 +3,7 @@ id: 4161
 mathjax: true    
 title: 'सनातन संस्कृति एवं षडयंत्र'    
 date: 2021-03-17    
-permalink: /samskrutyatra/hindu-festivals-and-conspiracy'
+permalink: /samskrutyatra/hindu-festivals-and-conspiracy
 redirect_from: 
   - '/samskrut/hindu-festivals-and-conspiracy'
 tags: [Rastra Vandan]    

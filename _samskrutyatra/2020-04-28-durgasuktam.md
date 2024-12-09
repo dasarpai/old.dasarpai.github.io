@@ -3,7 +3,7 @@ id: 4060
 mathjax: true    
 title: 'अथ दुर्गासूक्तम्'    
 date: 2020-04-28    
-permalink: /samskrutyatra/durgasuktam'
+permalink: /samskrutyatra/durgasuktam
 redirect_from: 
   - '/samskrut/durgasuktam'
 tags: [Devi, Durga Saptashati, Chanting]    

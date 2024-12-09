@@ -3,7 +3,7 @@ id: 4025
 mathjax: true    
 title: 'एकात्मता स्तोत्रं'    
 date: 2020-04-16    
-permalink: /samskrutyatra/ekatmaka-stotram'
+permalink: /samskrutyatra/ekatmaka-stotram
 redirect_from: 
   - '/samskrut/ekatmaka-stotram'
 tags: [Devi, Stotram]    

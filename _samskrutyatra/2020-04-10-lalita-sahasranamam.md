@@ -3,7 +3,7 @@ id: 4016
 mathjax: true    
 title: 'ललितासहस्रनामं'    
 date: 2020-04-10    
-permalink: /samskrutyatra/lalita-sahasranamam'
+permalink: /samskrutyatra/lalita-sahasranamam
 redirect_from: 
   - '/samskrut/lalita-sahasranamam'
 tags: [Devi, Chanting]    

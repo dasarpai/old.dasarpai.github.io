@@ -3,7 +3,7 @@ id: 4135
 mathjax: true    
 title: 'श्रीदुर्गासप्तशती - तृतीयोऽध्यायः'    
 date: 2020-06-04    
-permalink: /samskrutyatra/durga-saptashati-chapter3'
+permalink: /samskrutyatra/durga-saptashati-chapter3
 redirect_from: 
   - '/samskrut/durga-saptashati-chapter3'
 tags: [Devi, Durga Saptashati]    

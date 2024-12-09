@@ -3,7 +3,7 @@ id: 4139
 mathjax: true    
 title: 'श्रीदुर्गासप्तशती - सप्तमोऽध्यायः'    
 date: 2020-06-08    
-permalink: /samskrutyatra/durga-saptashati-chapter7'
+permalink: /samskrutyatra/durga-saptashati-chapter7
 redirect_from: 
   - '/samskrut/durga-saptashati-chapter7'
 tags: [Devi, Durga Saptashati]    

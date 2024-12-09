@@ -3,7 +3,7 @@ id: 4010
 mathjax: true
 title: 'मन्त्रपुष्पं'
 date: 2020-04-03
-permalink: /samskrutyatra/mantra-pushpam'
+permalink: /samskrutyatra/mantra-pushpam
 redirect_from: 
   - '/samskrut/mantra-pushpam'
 tags: [Vishnu]

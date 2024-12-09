@@ -3,7 +3,7 @@ id: 4073
 mathjax: true    
 title: 'श्रीमद्भगवद्गीता तृतीयोऽध्यायः'    
 date: 2020-05-03    
-permalink: /samskrutyatra/bhagwat-gita-chapter-3'
+permalink: /samskrutyatra/bhagwat-gita-chapter-3
 redirect_from: 
   - '/samskrut/bhagwat-gita-chapter-3'
 tags: [Bhagwat Gita]    

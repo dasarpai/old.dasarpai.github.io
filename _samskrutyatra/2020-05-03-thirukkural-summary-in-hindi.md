@@ -3,7 +3,7 @@ id: 4074
 mathjax: true    
 title: 'Thirukkural Summary in Hindi'    
 date: 2020-05-03    
-permalink: /samskrutyatra/thirukkural-summary-in-hindi'
+permalink: /samskrutyatra/thirukkural-summary-in-hindi
 redirect_from: 
   - '/samskrut/thirukkural-summary-in-hindi'
 tags: [Thiruvalluvar, Thirukkural in Hindi]        

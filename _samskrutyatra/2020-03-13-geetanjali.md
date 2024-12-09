@@ -3,7 +3,7 @@ id: 4006
 mathjax: true
 title: 'गीतांजली'
 date: 2020-03-13
-permalink: /samskrutyatra/geetanjali'
+permalink: /samskrutyatra/geetanjali
 redirect_from: 
   - '/samskrut/geetanjali'
 tags: [Others]

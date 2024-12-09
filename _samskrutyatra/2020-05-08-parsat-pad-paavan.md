@@ -3,7 +3,7 @@ id: 4096
 mathjax: true    
 title: 'परसत पद पावन'    
 date: 2020-05-08    
-permalink: /samskrutyatra/parsat-pad-paavan'
+permalink: /samskrutyatra/parsat-pad-paavan
 redirect_from: 
   - '/samskrut/parsat-pad-paavan'
 tags: [Ramcharit Manas Chandas, Chanting]    

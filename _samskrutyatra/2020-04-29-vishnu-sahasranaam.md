@@ -3,7 +3,7 @@ id: 4065
 mathjax: true    
 title: 'श्रीविष्णुसहस्रनामस्तोत्रम्'    
 date: 2020-04-29    
-permalink: /samskrutyatra/vishnu-sahasranaam'
+permalink: /samskrutyatra/vishnu-sahasranaam
 redirect_from: 
   - '/samskrut/vishnu-sahasranaam'
 tags: [Vishnu, Sahasranaamam]    

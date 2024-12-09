@@ -3,7 +3,7 @@ id: 4115
 mathjax: true    
 title: 'श्रीमद्भगवद्गीता षोडशोऽध्यायः - दैवासुरसम्पद्विभागयोगः'    
 date: 2020-05-16    
-permalink: /samskrutyatra/bhagwat-gita-chapter-16'
+permalink: /samskrutyatra/bhagwat-gita-chapter-16
 redirect_from: 
   - '/samskrut/bhagwat-gita-chapter-16'
 tags: [Bhagwat Gita]    

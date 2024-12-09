@@ -3,7 +3,7 @@ id: 4054
 mathjax: true    
 title: 'श्री मदन मोहन अष्टकम'    
 date: 2020-04-26    
-permalink: /samskrutyatra/sri-madana-mohana-ashtakam'
+permalink: /samskrutyatra/sri-madana-mohana-ashtakam
 redirect_from: 
   - '/samskrut/sri-madana-mohana-ashtakam'
 tags: [Krishna, Chanting]    

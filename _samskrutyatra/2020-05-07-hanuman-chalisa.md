@@ -3,7 +3,7 @@ id: 4087
 mathjax: true    
 title: 'हनुमान चालीसा'    
 date: 2020-05-07    
-permalink: /samskrutyatra/hanuman-chalisa'
+permalink: /samskrutyatra/hanuman-chalisa
 redirect_from: 
   - '/samskrut/hanuman-chalisa'
 tags: [HanumanJi, Chanting]    

@@ -3,7 +3,7 @@ id: 4144
 mathjax: true    
 title: 'श्रीदुर्गासप्तशती - द्वादशोऽध्यायः'    
 date: 2020-06-13    
-permalink: /samskrutyatra/durga-saptashati-chapter12'
+permalink: /samskrutyatra/durga-saptashati-chapter12
 redirect_from: 
   - '/samskrut/durga-saptashati-chapter12'
 tags: [Devi, Durga Saptashati]    

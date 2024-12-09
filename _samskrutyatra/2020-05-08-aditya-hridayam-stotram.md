@@ -3,7 +3,7 @@ id: 4089
 mathjax: true    
 title: 'आदित्यहृदयम् स्त्रोत्रं'    
 date: 2020-05-08    
-permalink: /samskrutyatra/aditya-hridayam-stotram'
+permalink: /samskrutyatra/aditya-hridayam-stotram
 redirect_from: 
   - '/samskrut/aditya-hridayam-stotram'
 tags: [Prayer, Stotram, Chanting]    

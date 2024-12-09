@@ -3,7 +3,7 @@ id: 4013
 mathjax: true
 title: 'मेधासूक्तं'
 date: 2020-04-05
-permalink: /samskrutyatra/medha-suktam'
+permalink: /samskrutyatra/medha-suktam
 redirect_from: 
   - '/samskrut/medha-suktam'
 tags: [Suktam, Chanting]

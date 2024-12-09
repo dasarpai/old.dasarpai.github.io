@@ -3,7 +3,7 @@ id: 4138
 mathjax: true    
 title: 'श्रीदुर्गासप्तशती - षष्ठोऽध्यायः'    
 date: 2020-06-07    
-permalink: /samskrutyatra/durga-saptashati-chapter6'
+permalink: /samskrutyatra/durga-saptashati-chapter6
 redirect_from: 
   - '/samskrut/durga-saptashati-chapter6'
 tags: [Devi, Durga Saptashati]    

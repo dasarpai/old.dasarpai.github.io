@@ -3,7 +3,7 @@ id: 4047
 mathjax: true    
 title: 'विष्णुसूक्तम्'    
 date: 2020-04-22    
-permalink: /samskrutyatra/vishnusuktam'
+permalink: /samskrutyatra/vishnusuktam
 redirect_from: 
   - '/samskrut/vishnusuktam'
 tags: [Vishnu]    

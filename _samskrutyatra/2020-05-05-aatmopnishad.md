@@ -3,7 +3,7 @@ id: 4076
 mathjax: true    
 title: 'आत्मोपनिषत्'    
 date: 2020-05-05    
-permalink: /samskrutyatra/aatmopnishad'
+permalink: /samskrutyatra/aatmopnishad
 redirect_from: 
   - '/samskrut/aatmopnishad'
 tags: [Upanishad]    

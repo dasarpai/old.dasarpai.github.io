@@ -3,7 +3,7 @@ id: 4048
 mathjax: true    
 title: 'भज गोविन्दं'    
 date: 2020-04-23    
-permalink: /samskrutyatra/bhaj-govindam'
+permalink: /samskrutyatra/bhaj-govindam
 redirect_from: 
   - '/samskrut/bhaj-govindam'
 tags: [Krishna, Chanting]    

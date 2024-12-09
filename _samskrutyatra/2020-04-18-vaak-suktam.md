@@ -3,7 +3,7 @@ id: 4030
 mathjax: true    
 title: 'वाक्सूक्तम्'    
 date: 2020-04-18    
-permalink: /samskrutyatra/vaak-suktam'
+permalink: /samskrutyatra/vaak-suktam
 redirect_from: 
   - '/samskrut/vaak-suktam'
 tags: [Suktam]    

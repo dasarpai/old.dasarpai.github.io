@@ -3,7 +3,7 @@ id: 4137
 mathjax: true    
 title: 'श्रीदुर्गासप्तशती - पञ्चमोऽध्यायः'    
 date: 2020-06-06    
-permalink: /samskrutyatra/durga-saptashati-chapter5'
+permalink: /samskrutyatra/durga-saptashati-chapter5
 redirect_from: 
   - '/samskrut/durga-saptashati-chapter5'
 tags: [Devi, Durga Saptashati]    

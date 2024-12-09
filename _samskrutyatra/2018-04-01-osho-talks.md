@@ -3,7 +3,7 @@ id: 3999
 mathjax: true    
 title: 'Osho Talks'    
 date: 2018-04-01    
-permalink: /samskrutyatra/osho-talks'
+permalink: /samskrutyatra/osho-talks
 tags: [OshoTalks]    
 categories:    
     

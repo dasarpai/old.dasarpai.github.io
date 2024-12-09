@@ -3,7 +3,7 @@ id: 4098
 mathjax: true    
 title: 'श्री राम स्तुति:'    
 date: 2020-05-08    
-permalink: /samskrutyatra/ramchandra-stuti'
+permalink: /samskrutyatra/ramchandra-stuti
 redirect_from: 
   - '/samskrut/ramchandra-stuti'
 tags: [Ramcharit Manas Chandas, Chanting]    

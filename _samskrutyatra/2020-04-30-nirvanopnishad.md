@@ -3,7 +3,7 @@ id: 4066
 mathjax: true    
 title: 'निर्वाणोपनिषत्'    
 date: 2020-04-30    
-permalink: /samskrutyatra/nirvanopnishad'
+permalink: /samskrutyatra/nirvanopnishad
 redirect_from: 
   - '/samskrut/nirvanopnishad'
 tags: [Upanishad]    

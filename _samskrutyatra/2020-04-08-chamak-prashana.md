@@ -3,7 +3,7 @@ id: 4014
 mathjax: true    
 title: 'चमकप्रश्नः'    
 date: 2020-04-08    
-permalink: /samskrutyatra/chamak-prashana'
+permalink: /samskrutyatra/chamak-prashana
 redirect_from: 
   - '/samskrut/chamak-prashana'
 tags: [Devi]    

@@ -3,7 +3,7 @@ id: 4080
 mathjax: true    
 title: 'कबीरदास दोहे'    
 date: 2020-05-06    
-permalink: /samskrutyatra/kabirdaas-dohe'
+permalink: /samskrutyatra/kabirdaas-dohe
 redirect_from: 
   - '/samskrut/kabirdaas-dohe'
 tags: [Devi]    

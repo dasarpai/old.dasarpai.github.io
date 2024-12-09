@@ -3,7 +3,7 @@ id: 4153
 mathjax: true    
 title: 'बजरंग बाण'    
 date: 2021-01-11    
-permalink: /samskrutyatra/bajarang-baan'
+permalink: /samskrutyatra/bajarang-baan
 redirect_from: 
   - '/samskrut/bajarang-baan'
 tags: [Bhajan, Chanting]    

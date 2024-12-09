@@ -3,7 +3,7 @@ id: 4116
 mathjax: true    
 title: 'श्रीमद्भगवद्गीता सप्तदशोऽध्यायः - श्रद्धात्रयविभागयोगः'    
 date: 2020-05-17    
-permalink: /samskrutyatra/bhagwat-gita-chapter-17'
+permalink: /samskrutyatra/bhagwat-gita-chapter-17
 redirect_from: 
   - '/samskrut/bhagwat-gita-chapter-17'
 tags: [Bhagwat Gita]    

@@ -3,7 +3,7 @@ id: 4164
 mathjax: true    
 title: 'मदनमोहन मालवीय: (लघुकथा:)'    
 date: 2021-05-17    
-permalink: /samskrutyatra/madanmohal-malviya-sanskrit-katha'
+permalink: /samskrutyatra/madanmohal-malviya-sanskrit-katha
 redirect_from: 
   - '/samskrut/madanmohal-malviya-sanskrit-katha'
 tags: [Sanskrit Grammar, Katha]    

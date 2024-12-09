@@ -3,7 +3,7 @@ id: 4000
 mathjax: true
 title: 'मनुष्यस्य शरीरस्य महत्वं'
 date: 2019-07-21
-permalink: /samskrutyatra/importance-of-human-body'
+permalink: /samskrutyatra/importance-of-human-body
 redirect_from: 
   - '/samskrut/importance-of-human-body'
 tags: [Katha]

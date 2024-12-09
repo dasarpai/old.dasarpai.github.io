@@ -3,7 +3,7 @@ id: 4085
 mathjax: true    
 title: 'क्षमा-प्रार्थना'    
 date: 2020-05-07    
-permalink: /samskrutyatra/devi-kshama-prarthana'
+permalink: /samskrutyatra/devi-kshama-prarthana
 redirect_from: 
   - '/samskrut/devi-kshama-prarthana'
 tags: [Devi, Chanting]    

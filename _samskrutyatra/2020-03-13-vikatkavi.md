@@ -3,7 +3,7 @@ id: 4008
 mathjax: true
 title: 'विकटकविः'
 date: 2020-03-13
-permalink: /samskrutyatra/vikatkavi'
+permalink: /samskrutyatra/vikatkavi
 redirect_from: 
   - '/samskrut/vikatkavi'
 tags: [Katha]

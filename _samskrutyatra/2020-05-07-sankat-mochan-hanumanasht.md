@@ -3,7 +3,7 @@ id: 4088
 mathjax: true    
 title: 'संकटमोचन हनुमानाष्टक'    
 date: 2020-05-07    
-permalink: /samskrutyatra/sankat-mochan-hanumanasht'
+permalink: /samskrutyatra/sankat-mochan-hanumanasht
 redirect_from: 
   - '/samskrut/sankat-mochan-hanumanasht'
 tags: [HanumanJi]    

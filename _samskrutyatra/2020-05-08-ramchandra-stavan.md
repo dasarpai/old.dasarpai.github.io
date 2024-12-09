@@ -3,7 +3,7 @@ id: 4097
 mathjax: true    
 title: 'रामचन्द्र स्तवन'    
 date: 2020-05-08    
-permalink: /samskrutyatra/ramchandra-stavan'
+permalink: /samskrutyatra/ramchandra-stavan
 redirect_from: 
   - '/samskrut/ramchandra-stavan'
 tags: [Ramcharit Manas Chandas, Chanting]    

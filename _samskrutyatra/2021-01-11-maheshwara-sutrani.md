@@ -3,7 +3,7 @@ id: 4155
 mathjax: true    
 title: 'माहेश्वर सूत्र'    
 date: 2021-01-11    
-permalink: /samskrutyatra/maheshwara-sutrani'
+permalink: /samskrutyatra/maheshwara-sutrani
 redirect_from: 
   - '/samskrut/maheshwara-sutrani'
 tags: [Shiva]    

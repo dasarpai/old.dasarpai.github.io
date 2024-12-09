@@ -3,7 +3,7 @@ id: 4167
 mathjax: true    
 title: 'चाणक्य जीवनस्य (लघुकथा:)'    
 date: 2021-05-18    
-permalink: /samskrutyatra/chanakya-jivanasya-katha'
+permalink: /samskrutyatra/chanakya-jivanasya-katha
 redirect_from: 
   - '/samskrut/chanakya-jivanasya-katha'
 tags: [Sanskrit Grammar, Katha]    

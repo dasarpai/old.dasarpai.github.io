@@ -3,7 +3,7 @@ id: 4106
 mathjax: true    
 title: 'श्रीसूक्तम्'    
 date: 2020-05-11    
-permalink: /samskrutyatra/shrisuktam'
+permalink: /samskrutyatra/shrisuktam
 redirect_from: 
   - '/samskrut/shrisuktam'
 tags: [Devi]    
