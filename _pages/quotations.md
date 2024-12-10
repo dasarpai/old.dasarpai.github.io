@@ -22,6 +22,7 @@ last_modified_at: 2019-08-27T15:46:43-04:00
 
 sort_order : reverse   
 ---
+
 # Welcome to Wisdom in Awareness Quotations!
 
 In today's information age, when we have lots of data and information. When most of us have lost the ability to read longer text, listen carefully, watch attentively, and think deeper. The most unfortunate tragedy that happened to humanity is they think that they think but the overall ability to think independently and deeper has faded hugely. You may be thinking, that you know so much, and think so much, therefore, whatever coming from your mind is yours. Think again, whatever you think is yours is given to you by those 15-second ads, social media comments, and one-liner quotations from some book or philosopher.

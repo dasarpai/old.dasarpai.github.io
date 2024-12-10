@@ -24,6 +24,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
+keywords: [Sundar Pichai, Google Dealbook Event, AI Leadership, Responsible AI, AI Innovation, Google AI, AI Search]
 ---
 
 ![Interview-Sundar-Pichai-Google-Dealbook-Event-2024](/assets/images/booksummary/7532-Interview-Sundar-Pichai-Google-Dealbook-Event-2024.jpg)

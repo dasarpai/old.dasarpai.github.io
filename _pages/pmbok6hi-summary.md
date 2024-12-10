@@ -19,7 +19,7 @@ header:
 - [PMBOK Monitoring and Controlling PG Hindi](/pmbok6hi-tags#pmbok-monitoring-and-controlling-pg-hindi)
 - [PMBOK Closing PG Hindi](/pmbok6hi-tags#pmbok-closing-pg-hindi)
 
-# PMBOK 6 Process Explorer (Hindi)
+## PMBOK 6 Process Explorer (Hindi)
 
 PMI released the 6th Edition of Project Management Body of Knowledge (PMBOK) in September 2017. It has 49 processes, across 10 knowledge areas and 5 process groups. How these 49 processes are distributed across different knowledge areas and process groups can be visualized from the table below.
 

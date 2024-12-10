@@ -22,6 +22,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
+keywords: [NVIDIA, Jensen Huang, AI Computing, Reinvention of Computing, Artificial Intelligence, Deep Learning, GPU, Hardware, Software, Networking, Dealbook Event, Interview]
 ---
 
 ![Interview-Jensen-Huang-NVIDIA-Dealbook-Event-2024](/assets/images/booksummary/7530-Interview-Jensen-Huang-NVIDIA-Dealbook-Event-2023.jpg)

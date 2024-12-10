@@ -23,6 +23,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
+keywords: ["Serverless LLM Deployment", "Azure OpenAI Service", "Microsoft Azure", "Natural Language Processing", "Large Language Models", "AI Deployment", "Cloud AI Platform"]
 ---
 
 ![Serverless-LLM-Deployment](/assets/images/dspost/dsp6185-Serverless-LLM-Deployment.jpg)

@@ -15,6 +15,7 @@ layout: booksum-layout
 excerpt:    
 author_profile: true    
 share: true    
+keywords: [Keynesian economics, macroeconomics, economic theory, employment, interest rates, money supply, aggregate demand, government policy, fiscal policy, monetary policy]
 ---    
     
 ![Book Summary: General-Theory-of-Employment-Interest-Money](/assets/images/booksummary/7524-The-General-Theory-of-Employment-Interest-and-Money.jpg) 

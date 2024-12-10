@@ -20,6 +20,7 @@ toc_sticky: true
 toc_levels: 3
 mathjax: "true"
 comments: true
+keywords: ["AI benchmarks", "LLM evaluation", "natural language processing", "artificial intelligence", "machine learning", "language model", "text generation"]
 ---
 
 ![AI-Benchmarks-Explained](/assets/images/dspost/dsp6173-AI-Benchmarks-Explained.jpg)

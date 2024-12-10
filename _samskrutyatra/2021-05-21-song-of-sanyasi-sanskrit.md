@@ -3,7 +3,7 @@ id: 4169
 mathjax: true    
 title: 'सन्यासी का गीत (संस्कृतं)'    
 date: 2021-05-21    
-permalink: /samskrutyatra/song-of-sanyasi-sanskrit 
+permalink: /samskrutyatra/song-of-sanyasi-sanskrit
 redirect_from: 
   - '/samskrut/song-of-sanyasi-sanskrit'
 tags: [Swami Vivekananda]    

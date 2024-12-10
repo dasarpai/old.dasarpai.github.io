@@ -20,6 +20,8 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
+keywords: ["javascript ecosystem", "javascript libraries", "node.js", "npm", "yarn", "javascript package managers", "javascript central repositories"]
+
 ---
 
 ![Navigating the JavaScript Ecosystem](/assets/images/dspost/dsp6170-Navigating-the-JavaScript-Ecosystem.jpg)

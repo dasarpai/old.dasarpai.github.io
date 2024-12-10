@@ -24,6 +24,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
+keywords: ["Google AI Studio", "Vertex AI", "AI Platform", "MLOps", "Cloud AI", "AutoML", "Explainability"]
 ---
 
 ![Google AI Studio vs Vertex AI](/assets/images/dspost/dsp6183-Google-AI-Studio-vs-VertexAI.jpg)

@@ -14,7 +14,8 @@ author: Hari Thapliyaal
 layout: booksum-layout    
 excerpt:    
 author_profile: true    
-share: true    
+share: true  
+keywords: [Alfred Marshall, Economics, Microeconomics, Book Summary, Principles of Economics]
 ---    
     
 ![Book Summary: Principles-of-Economics](/assets/images/booksummary/7526-Principles-of-Economics.jpg) 

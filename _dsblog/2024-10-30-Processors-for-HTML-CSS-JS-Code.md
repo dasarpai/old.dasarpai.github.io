@@ -20,6 +20,7 @@ toc_sticky: true
 toc_levels: 3
 mathjax: "true"
 comments: true
+keywords: ["HTML Processor", "CSS Processor", "JS Processor", "Pug", "Sass", "TypeScript", "Babel"]
 ---
 
 ![Processors for HTML CSS JS Code](/assets/images/dspost/dsp6177-Processors-for-HTML-CSS-JS-Code.jpg)

@@ -15,6 +15,7 @@ layout: booksum-layout
 excerpt:    
 author_profile: true    
 share: true    
+keywords: [economics, adam smith, wealth of nations, book summary, classical economics, free market, division of labor, markets and prices, invisible hand, laissez faire, government intervention, economic growth, productivity, competition, monopoly]
 ---    
     
 ![Book Summary: The-Wealth-of-Nations](/assets/images/booksummary/7528-The-Wealth-of-Nations.jpg) 

@@ -20,6 +20,7 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
+keywords: ["LLM", "Types of LLM", "Language Models", "Generative AI", "Text Generation", "AI Conversation", "Natural Language Processing"]
 ---
 
 ![](/assets/images/dspost/dsp6171-Types-of-LLM.jpg)

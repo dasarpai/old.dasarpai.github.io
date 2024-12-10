@@ -22,6 +22,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
+keywords: [Jeff Bezos, Amazon, Dealbook Event, Artificial Intelligence, Leadership, Decision-Making, Entrepreneurship]
 ---
 
 ![Interview-Jeff-Bezos-Amazon-Dealbook-Event-2023](/assets/images/booksummary/7531-Interview-Jeff-Bezos-Amazon-Dealbook-Event-2024.jpg)

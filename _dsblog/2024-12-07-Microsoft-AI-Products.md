@@ -23,6 +23,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
+keywords: ["Microsoft AI", "Azure AI", "Azure Machine Learning", "Azure Cognitive Services", "Azure Form Recognizer", "Azure Computer Vision", "Azure Speech Services"]
 ---
 
 ![Microsoft-AI-Products](/assets/images/dspost/dsp6184-Microsoft-AI-Products.jpg)

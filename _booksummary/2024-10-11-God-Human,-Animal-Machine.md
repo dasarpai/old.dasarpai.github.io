@@ -14,7 +14,8 @@ author: Hari Thapliyaal
 layout: booksum-layout    
 excerpt:    
 author_profile: true    
-share: true    
+share: true   
+keywords: [Book Summary, God Human Animal Machine, Technology, Metaphor, Meaning, AI, Transhumanism, Faith, Spirituality, Meghan O'Gieblyn]
 ---    
     
 ![Book Summary: God-Human-Animal-Machine](/assets/images/booksummary/7525-God-Human-Animal-Machine.jpg) 

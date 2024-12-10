@@ -22,6 +22,7 @@ toc: false
 toc_sticky: true
 toc_levels: 3
 comments: true
+keywords: [National Geography India, The Age of Intelligent Machines, Year Million, AI Documentary, Hindi Documentary, Artificial Intelligence, Future of Humanity]
 ---
 
 ![Documentary-Hindi: NGI - The Age of Intelligent Machines - Year Million](/assets/images/booksummary/7533-Documentary-NGI-The-Age-of-Intelligent-Machines-Year-Million.jpg)

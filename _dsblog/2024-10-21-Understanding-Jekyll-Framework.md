@@ -20,7 +20,7 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: ["Jekyll", "Static Site Generator", "Templating Language", "Liquid", "Collections", "Front Matter"]
+keywords: ["jekyll tutorial", "jekyll static site generator", "jekyll liquid", "jekyll collections", "jekyll front matter", "jekyll github pages", "jekyll blog", "jekyll website", "jekyll theme", "jekyll plugin", "jekyll templates", "jekyll markdown", "jekyll seo", "jekyll metadata", "jekyll configuration"]
 
 ---
 

@@ -20,6 +20,7 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
+keywords: ["Generative AI", "Text Generation", "AI Conversation", "Content Creation", "Natural Language Processing", "Applications of GenAI", "GenAI Use Cases"]
 
 ---
 

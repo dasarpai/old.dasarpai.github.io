@@ -15,6 +15,7 @@ layout: booksum-layout
 excerpt:    
 author_profile: true    
 share: true    
+keywords: [Value Investing, Benjamin Graham, Intelligent Investor, Investment Guide, Stock Market, Risk Management, Diversification, Compounding Returns, Emotional Decision-Making, Long-term Growth, Margin of Safety, Speculation, Momentum Trading]
 ---    
     
 ![Book Summary: The-Intelligent-Investor](/assets/images/booksummary/7527-The-Intelligent-Investor.jpg) 
