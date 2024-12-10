@@ -19,9 +19,9 @@ share: true
 ![The Power of Intention by Wayne Dyer](/assets/images/booksummary/7512-The-Power-of-Intention-by-Wayne-Dyer.jpg)                                 
    
 # The Power of Intention
-
-14 Lessons from "The Power of Intention" by Dr. Wayne W. Dyer, the author
-
+   
+14 Lessons from "The Power of Intention" by Dr. Wayne W. Dyer, the author   
+   
 1. It is on the power of positive thinking and how to use it to manifest one's desires and achieve success.
 2. How thoughts and intentions shape our reality and that aligning our thoughts and actions
 3. Be in the state of "allowing" and not "resistance" for the manifestation of intentions.

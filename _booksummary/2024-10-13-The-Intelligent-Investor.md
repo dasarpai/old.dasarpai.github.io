@@ -21,11 +21,11 @@ keywords: [Value Investing, Benjamin Graham, Intelligent Investor, Investment Gu
 ![Book Summary: The-Intelligent-Investor](/assets/images/booksummary/7527-The-Intelligent-Investor.jpg) 
 
 # The Intelligent Investor
-
-Published in 1949, "The Intelligent Investor" is a classic investment guide written by Benjamin Graham, considered one of the founders of value investing. The book has been widely influential and remains a cornerstone of investment education.
-
+   
+Published in 1949, "The Intelligent Investor" is a classic investment guide written by Benjamin Graham, considered one of the founders of value investing. The book has been widely influential and remains a cornerstone of investment education.   
+   
 **Book Overview:**
-
+   
 "The Intelligent Investor" consists of 15 chapters that explore:
 
 1. **The Fundamentals**: Chapter 1 sets the stage for the book, emphasizing the importance of understanding the fundamentals of business and economics.

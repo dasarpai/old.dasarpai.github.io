@@ -21,8 +21,8 @@ keywords: [Keynesian economics, macroeconomics, economic theory, employment, int
 ![Book Summary: General-Theory-of-Employment-Interest-Money](/assets/images/booksummary/7524-The-General-Theory-of-Employment-Interest-and-Money.jpg) 
 
 # The General Theory of Employment, Interest and Money
-
-Published in 1936, "The General Theory of Employment, Interest and Money" is a foundational work in economics written by John Maynard Keynes. The book revolutionized economic thought by introducing new ideas on the nature of economic activity, the role of government policy, and the behavior of markets.
+   
+Published in 1936, "The General Theory of Employment, Interest and Money" is a foundational work in economics written by John Maynard Keynes. The book revolutionized economic thought by introducing new ideas on the nature of economic activity, the role of government policy, and the behavior of markets.   
 
 **Book Overview:**
 

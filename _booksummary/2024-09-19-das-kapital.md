@@ -20,9 +20,9 @@ share: true
 ![Book Summary: Das-Kapital](/assets/images/booksummary/7523-Das-Kapital.jpg) 
 
 # Das Kapital
-
+   
 "Das Kapital" (Capital) is a three-volume work by Karl Marx, first published in 1867. The book is a critical analysis of capitalism and its effects on society, economy, and human nature.
-
+   
 **Volume I:**
 
 The first volume introduces the concept of capital and its relationship to labor, land, and other resources. Marx argues that capitalists exploit workers by paying them less than the value they create, thereby accumulating surplus value. He also discusses the concept of alienation, where workers become disconnected from their labor and their humanity.

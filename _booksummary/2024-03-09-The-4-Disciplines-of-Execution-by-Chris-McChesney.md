@@ -19,11 +19,11 @@ share: true
 ![The 4 Disciplines of Execution by Chris McChesney](/assets/images/booksummary/7509-The-4-Disciplines-of-Execution-by-Chris-McChesney.jpg)    
 
 # The 4 Disciplines of Execution
-
-Achieving Your Wildly Important Goals by Chris McChesney, Sean Covey, et al.:
-
-Here are 10 key lessons from the book:
-
+   
+Achieving Your Wildly Important Goals by Chris McChesney, Sean Covey, et al.:   
+   
+Here are 10 key lessons from the book:   
+   
 1. Focus on the Wildly Important Goals (WIGS). Identify a small number of truly critical goals that will have a significant impact on your organization's success.
 2. Act on Lead Measures. Focus on leading indicators that predict future performance, rather than lagging indicators that measure past results.
 3. Keep a Compelling Scoreboard. Create a visible and accessible scoreboard that tracks progress towards WIGs. Use the scoreboard to foster accountability and engagement.

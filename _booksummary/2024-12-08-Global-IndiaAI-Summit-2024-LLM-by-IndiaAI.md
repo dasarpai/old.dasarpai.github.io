@@ -28,8 +28,8 @@ keywords: [Global India AI Summit 2024, Large Language Models, IndiaAI, Responsi
 ![Global India AI Summit 2024: Panel Discussion on Large Language Models by IndiaAI](/assets/images/booksummary/7534-Global-IndiaAI-Summit-2024-LLM-by-IndiaAI.jpg)
 
 # Summary of the Panel Discussion: India AI Large Language Models
-
-The session was about 
+   
+The session was about    
 - Larning and sharing knowledge on Large Language Models (LLMs) and Large Multimodal Models (LMMs), with the aim to understand the unique linguistic and cultural diversity inherent to India, 
 - Examining how LLMs can effectively address challenges associated with multilingualism. 
 - The ethical considerations and biases linked to these models, 

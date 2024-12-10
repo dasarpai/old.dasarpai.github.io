@@ -19,9 +19,9 @@ share: true
 ![The Alchemist by Paulo Coelho](/assets/images/booksummary/7514-The-Alchemist-by-Paulo-Coelho.jpg)   
 
 # The Alchemist
-
-Key learnings from “The Alchemist” by Paulo Coelho
-
+   
+Key learnings from “The Alchemist” by Paulo Coelho   
+   
 1. Story of a young shepherd named Santiago who embarks on a journey to fulfill his personal legend and discover his true purpose in life.
 2. He has a recurring dream about a hidden treasure waiting for him at the base of the Egyptian pyramids.
 3. Along the way, Santiago meets an alchemist who teaches him

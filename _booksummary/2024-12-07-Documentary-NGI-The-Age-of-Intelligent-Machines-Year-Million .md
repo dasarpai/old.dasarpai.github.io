@@ -28,7 +28,7 @@ keywords: [National Geography India, The Age of Intelligent Machines, Year Milli
 ![Documentary-Hindi: NGI - The Age of Intelligent Machines - Year Million](/assets/images/booksummary/7533-Documentary-NGI-The-Age-of-Intelligent-Machines-Year-Million.jpg)
 
 # Artificial Intelligence: The Future of Human Intelligence - Hindi
-
+   
 नेशनल ज्योग्राफिक पर ईयर मिलियन के इस सम्मोहक एपिसोड में आर्टिफिशियल इंटेलिजेंस के भविष्य को जानें। जानें कि कैसे न्यूरोसाइंस और इंजीनियरिंग में प्रगति हमें एक ऐसी दुनिया के करीब ला रही है जहाँ AI को मानव बुद्धि से अलग नहीं किया जा सकता। इन विकासों के संभावित लाभों और नैतिक चुनौतियों को देखें, जो हमें एक ऐसी वास्तविकता के लिए तैयार कर रहे हैं जो कभी विज्ञान कथाओं तक ही सीमित थी।
 
 ## आर्टिफिशियल इंटेलिजेंस: भविष्य का स्वरूप

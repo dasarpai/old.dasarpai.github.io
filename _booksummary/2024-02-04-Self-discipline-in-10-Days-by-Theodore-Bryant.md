@@ -20,8 +20,8 @@ share: true
 
 # Self discipline in 10 Days
    
-10 Lessons from the book "Self-discipline in 10 Days: How to Go from Thinking to Doing" by Theodore Bryant
-
+10 Lessons from the book "Self-discipline in 10 Days: How to Go from Thinking to Doing" by Theodore Bryant   
+   
 1. Self-discipline is the bridge between goals and accomplishments.
 2. Motivation gets you started, but self-discipline keeps you going.
 3. Success is not just about setting goals, but about the daily disciplined actions to achieve them.

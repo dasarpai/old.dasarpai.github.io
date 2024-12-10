@@ -20,10 +20,10 @@ share: true
    
 # Do It Today
 
-"Do It Today" by Darius Foroux is a book that emphasizes the importance of taking action and making progress in our lives.
-
-Here are 10 key lessons from the book:
-
+"Do It Today" by Darius Foroux is a book that emphasizes the importance of taking action and making progress in our lives.   
+   
+Here are 10 key lessons from the book:   
+   
 1. The Power of Now: Foroux emphasizes the significance of taking action today rather than postponing it. Procrastination only prolongs our goals and ambitions. By starting immediately, we can build momentum and achieve more in the long run.
 2. Prioritize Tasks: To make progress, it's crucial to prioritize tasks based on their importance and urgency. By focusing on what truly matters, we can allocate our time and energy more effectively, leading to greater productivity.
 3. Break Tasks into Smaller Steps: Large tasks can often feel overwhelming, leading to inaction. Foroux suggests breaking them down into smaller, manageable steps. This approach not only makes the task more approachable but also allows us to track progress more easily.

@@ -27,7 +27,7 @@ keywords: [Masayoshi Son, SoftBank, Inspiring People, Entrepreneur, Innovator, B
 ![Lessons from Masayoshi Son's Life](/assets/images/booksummary/7535-Masayoshi-Son.jpg)
 
 # Lessons from Masayoshi Son's Life
-
+   
 Masayoshi Son (born 1957) is CEO and founder of SoftBank, a Japanese multinational conglomerate. His father and other Koreans illegally built their houses on land that was owned by Japan National Railways, which caused them trouble with the authorities. His father raised pigs and chickens on that land, and started an illegal sake business that eventually became successful enough for his family to become the first people in town to own a car. His family eventually moved out of the neighborhood so that Son could attend a better school
 
 

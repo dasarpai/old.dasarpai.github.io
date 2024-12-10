@@ -17,11 +17,11 @@ share: true
 ---                            
                             
 ![The Power of Your Subconscious Mind](/assets/images/booksummary/7513-The-Power-of-Your-Subconscious-Mind.jpg)        
-
-# The Power of Your Subconscious Mind
-
-Key Points from "The Power of Your Subconscious Mind" by Joseph Murphy
-
+   
+# The Power of Your Subconscious Mind   
+   
+Key Points from "The Power of Your Subconscious Mind" by Joseph Murphy   
+   
 1. Subconscious mind is a powerful tool that can be used to achieve goals, overcome obstacles, and improve one's overall well-being.
 2. Subconscious mind is always active and that it can be trained to think positively and constructively.
 3. Using affirmations, visualization, and other techniques, one can program the subconscious mind to work for them rather than against them.

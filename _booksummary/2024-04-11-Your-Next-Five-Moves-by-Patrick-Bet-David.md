@@ -19,11 +19,11 @@ share: true
 ![Your Next Five Moves by Patrick Bet David](/assets/images/booksummary/7511-Your-Next-Five-Moves-by-Patrick-Bet-David.jpg)
 
 # Your Next Five Moves
-
-In "Your Next Five Moves" by Patrick Bet-David, the author shares strategies for strategic thinking and planning to achieve success in business and life.
-
-Here are 10 lessons from the book:
-
+   
+In "Your Next Five Moves" by Patrick Bet-David, the author shares strategies for strategic thinking and planning to achieve success in business and life.   
+   
+Here are 10 lessons from the book:   
+   
 1. Strategic Thinking: Bet-David emphasizes the importance of strategic thinking, planning, and execution to achieve long-term success in business and personal goals.
 2. Anticipation and Prediction: The book encourages readers to anticipate future trends, possibilities, and outcomes, enabling them to make informed decisions and stay ahead.
 3. Defining Objectives and Goals: It stresses the significance of setting clear and achievable objectives, breaking them down into smaller actionable steps.

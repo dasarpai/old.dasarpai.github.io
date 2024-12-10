@@ -21,9 +21,9 @@ keywords: [Alfred Marshall, Economics, Microeconomics, Book Summary, Principles 
 ![Book Summary: Principles-of-Economics](/assets/images/booksummary/7526-Principles-of-Economics.jpg) 
 
 # Principles of Economics
-
-Published in 1890, "Principles of Economics" is a foundational text in economics written by British economist Alfred Marshall. The book is considered one of the most influential works on economics and microeconomics.
-
+   
+Published in 1890, "Principles of Economics" is a foundational text in economics written by British economist Alfred Marshall. The book is considered one of the most influential works on economics and microeconomics.   
+   
 **Book Overview:**
 
 "Principles of Economics" consists of four books:

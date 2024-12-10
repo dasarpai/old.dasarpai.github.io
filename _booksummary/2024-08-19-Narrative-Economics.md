@@ -20,9 +20,9 @@ share: true
 ![Book Summary: Narrative Economics](/assets/images/booksummary/7519-Book-Summary-Narrative-Economics.jpg)   
 
 # Narrative Economics: How Stories Go Viral and Drive Major Economic Events
-
-This book is written by Nobel Prize-winning economist Robert J. Shiller. It was published in 2019.
-
+   
+This book is written by Nobel Prize-winning economist Robert J. Shiller. It was published in 2019.   
+   
 ### Key Themes of the Book:
 - **Narrative Economics**: Shiller introduces the concept of "narrative economics," which explores how popular stories, rumors, and narratives can significantly impact economic behavior and drive major economic events. He argues that these narratives can influence individual and collective decisions, sometimes more powerfully than economic models or data alone.
 

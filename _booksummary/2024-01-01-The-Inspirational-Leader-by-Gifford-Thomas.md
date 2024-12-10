@@ -19,9 +19,9 @@ share: true
 ![The Inspirational Leader by Gifford Thomas](/assets/images/booksummary/7501-The-Inspirational-Leader-by-Gifford-Thomas.jpg)
 
 # The Inspirational Leader
-
-30 detailed lessons from the book, "the inspirational leader" by Gifford Thomas.
-
+   
+30 detailed lessons from the book, "the inspirational leader" by Gifford Thomas.   
+   
 1. Having a clear vision and aligning your team towards achieving it is important.
 2. Building trust within your team by demonstrating integrity and transparency in your actions.
 3. Effective communication is powerful in motivating and inspiring your team.

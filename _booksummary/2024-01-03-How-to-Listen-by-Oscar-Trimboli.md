@@ -19,9 +19,9 @@ share: true
 ![How to Listen by Oscar Trimboli](/assets/images/booksummary/7503-How-to-Listen-by-Oscar-Trimboli.jpg)                                 
    
 # How to Listen
-
-8 lessons from the book "How to Listen" by Oscar Trimboli.
-
+   
+8 lessons from the book "How to Listen" by Oscar Trimboli.   
+   
 1. The power of listening: The book emphasizes the importance of listening as a powerful tool for effective communication. It highlights that listening is not just about hearing words but understanding the deeper meaning behind them.
 2. The four listening villains: Trimboli introduces four listening villains that hinder effective listening: the dramatic listener, the interrupting listener, the lost listener, and the shrewd listener. By recognizing these villains, we can identify our own listening weaknesses and work on improving them.
 3. The five levels of listening: The author introduces the concept of the five levels of listening, which are listening to yourself, listening to the content, listening to the context, listening for whats unsaid, and listening for meaning. Each level builds upon the previous one, allowing us to become more attentive and engaged listeners.

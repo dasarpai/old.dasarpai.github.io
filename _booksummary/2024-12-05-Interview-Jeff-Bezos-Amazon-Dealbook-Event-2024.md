@@ -28,7 +28,7 @@ keywords: [Jeff Bezos, Amazon, Dealbook Event, Artificial Intelligence, Leadersh
 ![Interview-Jeff-Bezos-Amazon-Dealbook-Event-2023](/assets/images/booksummary/7531-Interview-Jeff-Bezos-Amazon-Dealbook-Event-2024.jpg)
 
 # Key Themes and Ideas from Interview with Jeff Bezos @ Amazon, at Dealbook Event 2024
-These themes highlight Bezos' philosophies, ambitions, and the principles guiding his multifaceted ventures.
+These themes highlight Bezos' philosophies, ambitions, and the principles guiding his multifaceted ventures.  
 
 ## **Theme 1: Leadership and Decision-Making**  
 **✨ Leadership Philosophy**: Bezos emphasizes messy, collaborative meetings to foster creativity and truth-seeking. Crisp documents are paired with exploratory discussions.  

@@ -20,8 +20,8 @@ share: true
 ![Book Summary: The-Self-Aware-Universe](/assets/images/booksummary/7521-The-Self-Aware-Universe.jpg)   
 
 # The Self Aware Universe
-
-**"The Self Aware Universe: What Quantum Physics Tells Us about Our Origins and How We Should Live"** by Amit Goswami was first published in 2008. 
+   
+**"The Self Aware Universe: What Quantum Physics Tells Us about Our Origins and How We Should Live"** by Amit Goswami was first published in 2008.    
 
 Amit Goswami is a theoretical physicist and a prominent figure in the field of quantum mechanics and consciousness studies. Born in India, he earned his Ph.D. in physics from the University of Calcutta and later became a professor at the University of Oregon, where he taught physics for over three decades. Goswami is best known for his work on the concept of quantum consciousness, which posits that consciousness is a fundamental aspect of the universe and plays a central role in the manifestation of reality. He is a prolific author and speaker, blending scientific knowledge with spiritual insights, and has written several books, including *"The Self-Aware Universe"* and *"The Quantum Doctor"*. His work has been influential in the development of a new scientific paradigm that integrates science, philosophy, and spirituality.
 

@@ -19,11 +19,11 @@ share: true
 ![How To Develop The Leader Within You by John Maxwell](/assets/images/booksummary/7510-How-To-Develop-The-Leader-Within-You-by-John-Maxwell.jpg)                                 
    
 # How To Develop The Leader Within You
-
-"Developing the Leader Within You" by John C. Maxwell is a classic book on leadership development.
-
-Here are 10 key lessons from the book:
-
+   
+"Developing the Leader Within You" by John C. Maxwell is a classic book on leadership development.   
+   
+Here are 10 key lessons from the book:   
+   
 1. Leadership is Influence: Understand that leadership is not merely a position but the ability to influence others positively.
 2. Personal Growth: Prioritize personal growth as a continuous journey to become a better leader.
 3. Vision: Develop a clear and compelling vision for yourself and your team to guide your leadership.

@@ -21,12 +21,12 @@ keywords: [economics, adam smith, wealth of nations, book summary, classical eco
 ![Book Summary: The-Wealth-of-Nations](/assets/images/booksummary/7528-The-Wealth-of-Nations.jpg) 
 
 # Summary of Adam Smith's "The Wealth of Nations"
-
-Published in 1776, "The Wealth of Nations" is a foundational text in economics, written by Scottish philosopher and economist Adam Smith. The book is considered one of the most influential works on economics and politics in the history of ideas.
-
-**Book Overview:**
-
-"The Wealth of Nations" consists of five books:
+   
+Published in 1776, "The Wealth of Nations" is a foundational text in economics, written by Scottish philosopher and economist Adam Smith. The book is considered one of the most influential works on economics and politics in the history of ideas.   
+   
+**Book Overview:**   
+   
+"The Wealth of Nations" consists of five books:   
 
 1. **Introduction**: Book I discusses the nature of economic growth and the role of government.
 2. **Division of Labor and Productivity**: Book II explores the benefits of specialization, trade, and division of labor.

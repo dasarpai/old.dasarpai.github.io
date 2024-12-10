@@ -20,9 +20,9 @@ share: true
 
 # Focus The Hidden Driver of Excellence
    
-"Focus: The Hidden Driver of Excellence" by Daniel Goleman.
-
-Here are 10 key lessons from the book:
+"Focus: The Hidden Driver of Excellence" by Daniel Goleman.   
+   
+Here are 10 key lessons from the book:   
 
 1. The Importance of Attention: Goleman emphasizes the crucial role attention plays in achieving excellence. He discusses how focused attention is a fundamental skill that drives success in personal and professional endeavors.
 2. Different Types of Focus: The book delves into various types of focus, including inner focus (self-awareness), outer focus (awareness of the world), and other types of attention that contribute to overall success.

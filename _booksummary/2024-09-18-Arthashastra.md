@@ -19,8 +19,8 @@ share: true
     
 ![Book Summary: Arthashastra-of-Kautilya](/assets/images/booksummary/7522-Arthashastra-of-Kautilya.jpg) 
 
-#  Summary of Kautilya's Arthashastra
-
+#  Summary of Kautilya's Arthashastra 
+   
 "Arthashastra" (also known as "The Science of Economics") is an ancient Indian text written by Kautilya, a court
 advisor to the Mauryan emperor Chandragupta Maurya. The book was composed around 300 BCE and is considered one of
 the earliest and most influential works on economics in the world.

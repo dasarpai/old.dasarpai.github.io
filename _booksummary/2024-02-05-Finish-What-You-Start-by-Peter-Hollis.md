@@ -20,8 +20,8 @@ share: true
    
 # Finish What You Start
 
-15 Lessons From The Book Finish What You Start: The Art Of Following Through, Taking Action, Executing, & Self-Discipline (Live A Disciplined Life) By Peter Hollis:
-
+15 Lessons From The Book Finish What You Start: The Art Of Following Through, Taking Action, Executing, & Self-Discipline (Live A Disciplined Life) By Peter Hollis:   
+   
 1. The power of starting and finishing. Completing tasks, both big and small, leads to a sense of accomplishment, boosts confidence, and propels you forward.
 2. Understanding your procrastination triggers. Identify the situations, emotions, or thoughts that lead you to procrastinate and develop strategies to overcome them.
 3. Harnessing the power of tiny habits. Start small and build gradually. Consistent, small actions accumulate into significant progress over time.

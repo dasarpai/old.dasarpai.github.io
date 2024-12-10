@@ -20,9 +20,8 @@ share: true
 
 # Rest : Why You Get More Done When You Work Less
 
-"Rest" by Alex Soojung-Kim Pang is a thought-provoking book that explores the importance of rest and leisure in our lives.
-
-
+"Rest" by Alex Soojung-Kim Pang is a thought-provoking book that explores the importance of rest and leisure in our lives.   
+   
 1. The Power of Rest: Rest isn't just the absence of work; it's an active and essential part of a successful and fulfilling life. It's during periods of rest that our brains consolidate information, make connections, and foster creativity.
 2. Deliberate Rest: Rather than viewing rest as merely downtime, the book advocates for intentional and deliberate rest. This involves engaging in activities that are restorative, such as hobbies, nature walks, or mindfulness practices, which recharge our energy and improve overall well-being.
 3. Quality Over Quantity: It's not just about the amount of rest we get, but the quality of that rest. Short, focused periods of rest can be more effective than long, unfocused breaks. The key is to find what works best for an individual.

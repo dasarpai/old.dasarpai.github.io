@@ -29,8 +29,7 @@ keywords: [Sundar Pichai, Google Dealbook Event, AI Leadership, Responsible AI, 
 
 ![Interview-Sundar-Pichai-Google-Dealbook-Event-2024](/assets/images/booksummary/7532-Interview-Sundar-Pichai-Google-Dealbook-Event-2024.jpg)
 
-# Key Themes and Ideas from Interview with Sundar Pichai @ Google at Dealbook Event 2024 
-
+# Key Themes and Ideas from Interview with Sundar Pichai @ Google at Dealbook Event 2024   
 These themes illustrate Google’s strategies, challenges, and aspirations under Sundar Pichai's leadership, with a strong focus on advancing AI responsibly. 
 
 ## **Theme 1: Leadership in AI and Innovation**  

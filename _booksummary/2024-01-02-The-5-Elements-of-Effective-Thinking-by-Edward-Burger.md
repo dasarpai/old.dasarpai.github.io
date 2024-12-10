@@ -20,10 +20,10 @@ share: true
    
 
 # The 5 Elements of Effective Thinking
-
+   
 "The 5 Elements of Effective Thinking" by Edward B. Burger and Michael Starbird is a book that explores strategies for improving critical thinking and problem-solving skills.
-
-Here are 8 key lessons from the book:
+   
+Here are 8 key lessons from the book:   
 
 1. Embrace failure: Failure is an essential part of the learning process. Instead of fearing failure, view it as an opportunity to learn and grow. Embrace mistakes and use them as stepping stones towards improvement.
 2. Ask questions: Cultivate a curious mindset by asking questions. Questioning helps you explore different perspectives, uncover hidden assumptions, and gain a deeper understanding of the subject matter. Don't be afraid to challenge conventional wisdom and seek alternative solutions.

@@ -20,8 +20,7 @@ keywords: [Book Summary, God Human Animal Machine, Technology, Metaphor, Meaning
     
 ![Book Summary: God-Human-Animal-Machine](/assets/images/booksummary/7525-God-Human-Animal-Machine.jpg) 
 
-# God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning
-
+# God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning   
 This book offers a nuanced perspective on the intersections of faith, technology, and the search for meaning in the modern world.
 Here is a 10-point summary of *God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning* by Meghan O'Gieblyn:
 
