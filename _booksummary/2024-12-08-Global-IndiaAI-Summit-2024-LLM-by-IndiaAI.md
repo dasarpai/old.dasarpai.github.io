@@ -40,14 +40,14 @@ The session was about
 The discussion highlighted India’s unique challenges and opportunities in building a comprehensive AI ecosystem, underscoring the need for collaboration, innovation, and inclusivity.
 
 ---
-#### **Mr. Amitabh Nag (CEO, Digital India Bhashini, National Language Translation Mission)**
+## **Mr. Amitabh Nag (CEO, Digital India Bhashini, National Language Translation Mission)**
 - **Seven Pillars of India AI Mission**: Compute infrastructure, foundation models, datasets, application development & usecases, future skills, startups/entpreneurship around usecases, and safety/trustworthiness.
 - **India Innovation Center**: Focuses on contextualized AI models, unique Indian use cases, and skill development.
 - **AI's National Impact**: Highlights AI as a transformative force akin to the Industrial Revolution, with a focus on democratizing data for public good.
 
 ---
 
-#### **Mr. Shri Nivas Narayan (VP, OpenAI)**
+## **Mr. Shri Nivas Narayan (VP, OpenAI)**
 - **Global Perspective on AI**: Large language models (LLMs) enhance productivity by 40-50% across diverse sectors.
 - **Actionable AI**: Moving from answering questions to performing actions like function calling, with examples in customer service.
 - **Indian Context**: Focus on cost reduction and linguistic inclusion (GPT models optimized for Indic languages).
@@ -55,14 +55,14 @@ The discussion highlighted India’s unique challenges and opportunities in buil
 
 ---
 
-#### **Ms. Shalini Kapoor (Chief Technologist, AWS)**
+## **Ms. Shalini Kapoor (Chief Technologist, AWS)**
 - **Localized Data Challenges**: Addressed data scarcity, bias mitigation, and the necessity for domain-specific datasets.
 - **Micro LLMs**: Shared insights on building micro-LLMs for agriculture and healthcare, focusing on region-specific and linguistic diversity.
 - **Scalable Solutions**: Advocated for simplifying API access and increasing use-case based AI applications.
 
 ---
 
-#### **Dr. Mohit Sewak (AI Researcher and Developer Relation Manager, NVIDIA)**
+## **Dr. Mohit Sewak (AI Researcher and Developer Relation Manager, NVIDIA)**
 - **Multimodal Models**: Advocated for moving beyond text-based LLMs to include speech and video for better context understanding.
 - **Synthetic Data**: Proposed generating synthetic datasets to supplement limited real-world data.
 - **Resource Efficiency**: Highlighted the need for compression technologies to scale LLMs in resource-constrained environments.
@@ -70,7 +70,7 @@ The discussion highlighted India’s unique challenges and opportunities in buil
 ---
 
 
-#### **Dr. Kallika Bali (Principal Researchers, Microsoft Research)**
+## **Dr. Kallika Bali (Principal Researchers, Microsoft Research)**
 - **Cultural Alignment**: Discussed challenges in aligning LLMs with India's linguistic and cultural diversity.
 - **Bias Mitigation**: Acknowledged the complexity of eliminating bias and the need for sensitive data collection strategies.
 - **Knowledge Integration**: Proposed federated and fine-tuned models for incorporating indigenous knowledge.
@@ -78,27 +78,27 @@ The discussion highlighted India’s unique challenges and opportunities in buil
 ---
 
 
-#### **Prof. Ganesh Ramakrishnan (IIT Mumbai)**
+## **Prof. Ganesh Ramakrishnan (IIT Mumbai)**
 - **Collaborative Frameworks**: Emphasized public-private partnerships for advancing LLM research in India.
 - **Algorithmic Innovations**: Highlighted leveraging linguistic similarities across Indian languages to optimize sparse datasets.
 - **Bhat GPT Initiative**: Focused on open-source frameworks for speech, text, and domain-specific applications.
 
 ---
 
-#### **Mr. Pratyush Kumar (Co-Founder, Sarvam AI)**
+## **Mr. Pratyush Kumar (Co-Founder, Sarvam AI)**
 - **Open Source in AI**: Advocates open data, tools, and model-building processes to democratize AI.
 - **Challenges in Scale**: Highlighted the need for large datasets, computational power, and skilled talent for LLM development.
 - **Future Approach**: Combining models and fine-tuning for specific applications to maximize utility.
 
 ---
 
-#### **Insights on Startups & Innovation**
+## **Insights on Startups & Innovation**
 - **Challenges**: High costs of token usage, reliance on foreign models, limited access to computational resources, and IP licensing constraints.
 - **Solutions**: Development of open foundation models, focus on fine-tuning, and increased investment in local research.
 
 ---
 
-#### **Key Takeaways**
+## **Key Takeaways**
 - **Multimodal AI**: India’s LLMs should integrate voice, video, and context to address cultural and linguistic diversity.
 - **Synthetic Data & Miniaturization**: Using synthetic datasets and model compression can optimize costs and resource usage.
 - **Use Case-Centric Models**: Tailoring LLMs to specific domains like agriculture, healthcare, and education ensures scalability and relevance.
