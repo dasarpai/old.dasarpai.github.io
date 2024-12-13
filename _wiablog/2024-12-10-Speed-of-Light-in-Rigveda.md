@@ -31,10 +31,15 @@ Now, the question is what is Nimisha? And what is Yogana?
 ## How much is one Nimisha? 
 As per Vishnu Purana and Mahabharat.   
 1 Ahoratri = 1 day and 1 night. As per today's measure 24 hours or 1440 minutes of 86400 seconds.   
-30 Muhurta = 1 Ahoratri. i.e. 30 Muhurta = 1440 minutes > 1 Muhurta = 48 minutes.  
-30 Kala = 1 Muhurta. i.e. 30 Kala = 48 minutes > 1 Kala = 48/30 minutes=> 1.6 minutes.  
-30 Kashta = 1 Kala. i.e. 30 Kashta = 1.6 minutes > 1 Kashta = 1.6 * 60 / 30 seconds => 3.2 seconds.   
-15 Nimisha = 1 Kashta. i.e. 15 Nimisha = 3.2 seconds > 1 Nimisha = 3.2/15 seconds => 32/150 seconds => 16/75 seconds   
+
+30 Muhurta = 1 Ahoratri. i.e. 30 Muhurta = 1440 minutes => 1 Muhurta = 48 minutes.  
+
+30 Kala = 1 Muhurta. i.e. 30 Kala = 48 minutes => 1 Kala = 48/30 minutes=> 1 Kala = 1.6 minutes.  
+
+30 Kashta = 1 Kala. i.e. 30 Kashta = 1.6 minutes => 1 Kashta = 1.6 * 60 / 30 seconds => 1 Kashta = 3.2 seconds.   
+
+15 Nimisha = 1 Kashta. i.e. 15 Nimisha = 3.2 seconds => 1 Nimisha = 3.2/15 seconds => 1 Nimisha =32/150 seconds or 16/75 seconds  
+
 1/2 Nimisha = 16/150 seconds.   
 
 ## How much is one Yojana?
@@ -47,17 +52,21 @@ As per Arthashastra, Vishnu Purana and Mahabharat.
 1 Dhanush = 4 Hasta
 1 Hasta = .45 meter => 45 Centimeter (approx, we know this)
 
-1 Yojana = 4 x 2000 x 4 x .45 => 14400 meter = 14.400 kms 
+1 Yojana = 4 x 2000 x 4 x .45 => 14400 meter or 14.400 kms 
 
 ## What is the speed of light?
-As per the Sayacharana, light travels 2202 Yogana in half nimisha.
+As per the Sayacharana, light travels 2202 Yogana in half nimisha.  
+
 2202 Yojana in 1/2 Nimisha   
+
 2202 x 14.400 Kms in 16/150 seconds.   
-In 1 seconds light travels 2202 x 14.400 x 150 /16 Km => 297,270 Km/Second.   
+
+In 1 seconds light travels 2202 x 14.400 x 150 /16 Km => 297,270 Km/Second.  
+
 so the speed of light as per Sayanacharya is **297,270 Km/Second**
 
 ## What is the speed of lights as per Modern Physics?
-**299792.458 Km/Second**
+**299,792.458 Km/Second**
 
 
 
