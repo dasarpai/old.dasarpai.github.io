@@ -17,17 +17,19 @@ keywords: [Vedanta, Science in Rigveda, Speed of Light]
 --- 
 
 ![Speed of Light in Rigveda Text](/assets/images/wiapost/5273-Speed-of-Light-in-Rigveda.jpg)   
+
+# Speed of Light in Rigved  
    
-![Speed of Light in Rigveda](/assets/images/wiapost/5273-Speed-of-Light-in-Rigveda-Text.jpg)
-
+![Speed of Light in Rigveda](/assets/images/wiapost/5273-Speed-of-Light-in-Rigveda-Text.jpg)   
+   
 [Archive Source Link for above text](https://ia601705.us.archive.org/34/items/20201214_20201214_1113/%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%20%E0%A4%AE%E0%A4%82%E0%A4%A1%E0%A4%B2%20%E0%A5%A7%20%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4%20-%20%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A3%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%20%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%AF.pdf)
-
-This is from the commentory of Rishi Sayanacharya on 1.50.4 sloka of Rigveda.
-
+   
+This is from the commentory of Rishi Sayanacharya on 1.50.4 sloka of Rigveda.  
+   
 In plan English light travels 2202 yogana in half nimisha.
-
+   
 Now, the question is what is Nimisha? And what is Yogana? 
-
+   
 ## How much is one Nimisha? 
 As per Vishnu Purana and Mahabharat.   
 1 Ahoratri = 1 day and 1 night. As per today's measure 24 hours or 1440 minutes of 86400 seconds.   

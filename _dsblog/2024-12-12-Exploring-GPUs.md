@@ -13,7 +13,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/ds6188-Exploring-GPUs.jpg
+  teaser: /assets/images/dspost/dsp6188-Exploring-GPUs.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout
@@ -27,7 +27,7 @@ comments: true
 keywords: ["Artificial Intelligence", "Machine Learning", "GPU", "NVIDIA", "GPU Architecture", "GPUs in AI", "AI and GPUs"]
 ---
 
-![Exploring Graphics Processing Units (GPUs)](/assets/images/dspost/ds6188-Exploring-GPUs.jpg)
+![Exploring Graphics Processing Units (GPUs)](/assets/images/dspost/dsp6188-Exploring-GPUs.jpg)
 
 # Exploring Graphics Processing Units (GPUs)
  

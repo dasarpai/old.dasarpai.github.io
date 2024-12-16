@@ -20,7 +20,7 @@ layout: dspost-layout
 excerpt: "Visualizing transformers and attention - A summary note from Grant Sanderson's talk at TNG Big Tech 2024"
 author_profile: true
 share: true
-toc: false
+toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true

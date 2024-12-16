@@ -16,10 +16,10 @@ share: true
 keywords: [Vedanta, Science, "Hans Peter Durr"]  
 --- 
 
-![Advaita Vedanta and Hans Peter Durr](/assets/images/wiapost/5272-Vedanta-and-Hans-Peter-Durr.jpg)   
-   
-# Advaita Vedanta and Hans Peter Durr
-
+![Advaita Vedanta and Hans Peter Durr](/assets/images/wiapost/5272-Vedanta-and-Hans-Peter-Durr.jpg)    
+    
+# Advaita Vedanta and Hans Peter Durr   
+    
 Hans-Peter Dürr (7 October 1929 – 18 May 2014), a renowned German physicist, had deep insights into the philosophical parallels between modern physics and ancient spiritual wisdom, particularly Vedanta. While Dürr did not explicitly write a comprehensive work focused solely on Vedanta, in his numerous interviews, lectures, and writings, he often discussed how the findings of quantum physics aligned with many ideas found in Vedanta and other Eastern philosophies. 
 
 From 1958 until 1976 he was a research associate of Werner Heisenberg, specializing in nuclear physics, quantum physics, elementary particles and gravitation epistemology and philosophy. He was Heisenberg's closest ally in their attempts to develop a unified field theory of elementary particles. In 1962 he habilitated at the Ludwig Maximilian University in Munich. The same year he was a guest professor in Berkeley, California and Madras, India.
