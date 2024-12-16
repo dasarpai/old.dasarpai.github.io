@@ -18,8 +18,9 @@ toc: true
 toc_sticky: true    
 ---     
 
+![Why Government Jobs in India are not Attractive?](/assets/images/default/gkblog.jpg)
 
-# why Government Jobs in India are not Attractive?
+# Why Government Jobs in India are not Attractive?
 
 In the winter session of 2024 of the Indian Parliament, the government responded about the VRS (Voluntary Retirement Scheme) of 850 IRS (Indian Revenue Service) officers, since 2014. I thought let me share my analysis on it. Not only the revenue service but any government job is not that attractive in India as it was before 1991 or before 2014. Here are my observations.
 

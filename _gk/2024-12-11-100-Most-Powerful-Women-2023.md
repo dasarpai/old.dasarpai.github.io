@@ -18,8 +18,9 @@ toc: true
 toc_sticky: true    
 ---  
 
-
-# **Fortune Most Powerful Women (MPW)** 
+![Fortune Most Powerful Women (MPW)](/assets/images/default/gkblog.jpg) 
+   
+# **Fortune Most Powerful Women (MPW) - 2023** 
 
 Here's the summarized list of individuals from the **Fortune Most Powerful Women (MPW)** list along with their title and organization name.
 

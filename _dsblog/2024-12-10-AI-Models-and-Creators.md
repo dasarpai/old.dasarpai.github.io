@@ -14,7 +14,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/default/dsblog.jpg
+  teaser: /assets/images/dspost/dsp6187-ai-models-and-creators.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout
@@ -27,6 +27,8 @@ toc_levels: 3
 comments: true
 keywords: ["Artificial Intelligence", "Machine Learning", "AI Models", "Creators", "List of AI Models", "AI Model Developers", "AI Frameworks"]
 ---
+
+![AI Models and Creators](/assets/images/dspost/dsp6187-ai-models-and-creators.jpg)
 
 # AI Models and Creators
 

@@ -1,7 +1,7 @@
 ---        
 id: 7011   
 mathjax: true        
-title: Nakshatra of Indian Astrology
+title: 27 Nakshatra of Indian Astrology
 date: "2024-12-11T08:33:00+05:30"        
 permalink: /gk/27-Nakshatra-of-Indian-Astrology        
 tags: [Nakshatra, Indian Astrology, Hindu Mythology, Astronomy, Stars, Planets, Cosmology]        
@@ -18,7 +18,9 @@ toc: true
 toc_sticky: true    
 --- 
 
-# Nakshatra of Indian Astrology
+![27 Nakshatra of Indian Astrology](/assets/images/default/gkblog.jpg)
+
+# 27 Nakshatra of Indian Astrology
 
 ## Indian System
 Each of the 27 **Nakṣatras** in the **Indian system of astrology** has a unique symbolism, deity, and significance. These representations go beyond just the stars; they incorporate mythology, qualities, and energies that influence a person's life and events.
@@ -232,8 +234,9 @@ The **Western system of constellations** consists of **88 officially recognized 
 ### **Popular Constellations and Their Representations**:
 
 1. **Orion (The Hunter)**:
-   - **Representation**: A hunter from Greek mythology, equipped with a club and shield.
+   - **Representation**: A hunter from Greek mythology, equipped with a club and shield. 
    - **Significance**: Visible worldwide, it symbolizes strength and pursuit. Its belt (three stars in a row) is a key navigational marker.
+   - **Fun Note:** OpenAI named their model Orion after the hunter in Greek mythology. Indian Nakshatra Mrigshira is similar to this constellation.
 
 2. **Ursa Major (The Great Bear)**:
    - **Representation**: A bear in Greek mythology; includes the **Big Dipper** asterism.
@@ -262,6 +265,7 @@ The **Western system of constellations** consists of **88 officially recognized 
 8. **Gemini (The Twins)**:
    - **Representation**: The twin brothers Castor and Pollux from Greek mythology.
    - **Significance**: Represents companionship and duality.
+   - **Fun Note**: Google named their model Gemini after the twins.
 
 9. **Pegasus (The Winged Horse)**:
    - **Representation**: A winged horse born from Medusa’s blood.
