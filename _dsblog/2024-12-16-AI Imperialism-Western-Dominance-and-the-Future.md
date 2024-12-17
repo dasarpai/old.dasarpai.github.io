@@ -3,7 +3,7 @@ mathjax: true
 id: 6191
 title: "AI Imperialism: Western Dominance and the Future of Global Technology
 "
-date: 2024-12-13
+date: 2024-12-16
 permalink: /dsblog/AI-Imperialism
 tags:
   - AI
@@ -33,6 +33,8 @@ keywords: ["Artificial Intelligence", "Natural Language Processing", "Transforme
 # AI Imperialism: Western Dominance and the Future of Global Technology
 
 In the rapidly evolving landscape of artificial intelligence (AI), the emergence of transformer models has marked a significant milestone. Among these, OpenAI's GPT-3 stands out as a groundbreaking achievement, yet its dominance raises critical questions about the concentration of power, legal ambiguities, and global technological equity. This article delves into the phenomenon of AI imperialism, exploring how Western dominance shapes the future of global technology and the implications for developing nations.
+
+Note: This article is written from the lens of Indian living in India and has good understanding of history and culture. There may be differences in perspective in this article.
 
 ---
 
