@@ -15,6 +15,7 @@ wiablog: 5000
 dsblog : 6001
 gk : 7001
 booksummary: 7501
+news: 8001
 quotations : 9001
 
 

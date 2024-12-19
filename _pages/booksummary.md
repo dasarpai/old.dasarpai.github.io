@@ -1,5 +1,5 @@
 ---
-id: 742    
+id: 743    
 title: Book Summary & Interview summary Blog
 layout: collection
 permalink: /booksummary

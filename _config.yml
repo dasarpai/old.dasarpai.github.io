@@ -243,6 +243,7 @@ include:
   - _projects
   - _corpus
   - _booksummary
+  - _news
   - assets
   - sitemap.xml
 exclude:
@@ -427,6 +428,21 @@ defaults:
       related: true
       sidebar:
         nav: "docs"   
+
+  # _news
+  - scope:
+      path: "_news"
+      type: news
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true # true
+      share: true
+      related: true
+      show_date: true
+      sidebar:
+        nav: "docs"  
 
   # _generalknwoledge
   - scope:
@@ -674,6 +690,10 @@ defaults:
       nav: "docs"
 
 collections:
+  news:
+    output: true
+    permalink: /news1/:categories/:title/
+
   gk:
     output: true
     permalink: /gk1/:categories/:title/
