@@ -1,9 +1,9 @@
 ---
 mathjax: true
 id: 7534
-title: "Global India AI Summit 2024: Panel Discussion on Large Language Models by IndiaAI"
+title: "Panel Discussion: Global India AI Summit 2024: Large Language Models by IndiaAI"
 date: 2024-12-08
-permalink: /booksummary/global-indiaai-summit-2024-llm-by-indiaai
+permalink: /booksummary/panel-discussion-global-indiaai-summit-2024-llm-by-indiaai
 tags:
   - "Global India AI Summit 2024"
   - "Panel Discussion"

@@ -54,7 +54,7 @@ I am a seasoned professional in product development and project management in ag
 
 [**Dr. Hari Thapliyal at LinkedIn**](https://linkedin.com/in/harithapliyal)
 
-![Hari Thapliyaal](/assets/images/profilephoto3.jpg){:width="200"}
+![Hari Thapliyaal](/assets/images/myphotos/profilephoto3.jpg){:width="200"}
 
 **Dr. Hari Thapliyaal @**Bangalore
 

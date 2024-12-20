@@ -38,7 +38,7 @@ Aum Tat Sat. ॐ तत् सत्
 
 [**Hari Thapliyal at LinkedIn**](https://linkedin.com/in/harithapliyal)
 
-![Hari Thapliyaal](/assets/images/Profilephoto1.jpg){: width="200"}
+![Hari Thapliyaal](/assets/images/myphotos/Profilephoto1.jpg){: width="200"}
 
 **Dr. Hari Thapliyaal @**Bangalore
 

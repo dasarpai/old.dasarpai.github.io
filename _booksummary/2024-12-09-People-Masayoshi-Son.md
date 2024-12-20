@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 7535
-title: "Lessons from Masayoshi Son's Life"
+title: "People: Lessons from Masayoshi Son's Life"
 date: 2024-12-09
 permalink: /booksummary/people-masayoshi-son
 tags:

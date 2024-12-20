@@ -50,7 +50,7 @@ Wisdom exists in the awareness or we can say awareness itself is wisdom. Reading
 
 **[Dr. Hari Thapliyaal at LinkedIn](https://linkedin.com/in/harithapliyal)**
 
-![Hari Thapliyaal](/assets/images/Profilephoto4.jpg){:width="200"}
+![Hari Thapliyaal](/assets/images/myphotos/Profilephoto4.jpg){:width="200"}
 
 **Dr. Hari Thapliyaal** 
 ```

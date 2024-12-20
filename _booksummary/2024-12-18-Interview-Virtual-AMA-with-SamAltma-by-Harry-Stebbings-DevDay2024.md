@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 7537
-title: "Virtual AMA with Sam Altman by Harry Stebbings - DevDay 2024"
+title: "Interview - Virtual AMA with Sam Altman by Harry Stebbings - DevDay 2024"
 date: 2024-12-19
 permalink: /booksummary/Virtual-AMA-with-SamAltma-by-Harry-Stebbings-DevDay2024
 tags:
@@ -28,6 +28,8 @@ keywords: [OpenAI, AI, Founder, DevDay2024, Harry Stebbings, Sam Altman, Entrepr
 
 ![Virtual AMA with Sam Altman](/assets/images/default/summary.jpg)
 
+# Virtual AMA with Sam Altman by Harry Stebbings - DevDay 2024
+
 Sometimes, it's more important to know what questions can be asked than to have the answers. So, take a moment to pause and think about how you would respond if you were in Sam Altman's position.
 
 Leaders aren't born; they are shaped by their struggles, opportunities, and attitudes towards them. Regardless of whether you watch this interview or not, take 10 minutes to read or listen to these questions out loud to yourself. They will help you shape your thought process.
@@ -37,6 +39,8 @@ While reading these make a note that many of these questions were triggered from
 Whether it's a political interview, job interview, business interview, or brand interview, an interviewee needs to face all kinds of questions. In fact, you shine only when you go through the tough questions. We need to learn how to deflect the uneasy questions, sometimes pause and think, sometimes use humor or body language to dilute the question.
 
 Best of luck as you embark on this journey of asking yourself questions without answers.
+
+## Interview Questions
 
 1. When we look forward, is the future of OpenAI more models like o1, or is it more larger models like old?
 1. How do you think about developing no-code tools for non-technical founders to build and scale AI apps?
@@ -92,4 +96,4 @@ Best of luck as you embark on this journey of asking yourself questions without 
 1. How do you keep OpenAI focused on 10x growth rather than 10% growth in a high-speed environment?
 1. If you had a magic wand to shape OpenAI’s future five and ten years from now, what would that look like?
 
-[Virtual AMA with Sam Altman, moderated by Harry Stebbings - DevDay 2024](https://www.youtube.com/watch?v=Hn27upT2m_o)
+[Full Virtual AMA with Sam Altman, moderated by Harry Stebbings - DevDay 2024](https://www.youtube.com/watch?v=Hn27upT2m_o)
