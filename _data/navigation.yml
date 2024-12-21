@@ -20,7 +20,7 @@ main:
   - title: "WIA Quotations"
     url: "/quotations"
   - title: "Book/Interview Summary Blog"
-    url: "/booksummary-blog"
+    url: "/booksummary"
   - title: "DS Resources"
     url: "/datascience-resources"
   - title: "My Gallery"
@@ -114,7 +114,7 @@ docs:
       - title: "GK Topic"
         url: "/gk-tags" 
       - title: "Book Summary"
-        url: "/booksummary-blog"           
+        url: "/booksummary"           
   - title: "Gallery"
     children:
       - title: "Online AI, DS, ML Training Gallary 1"

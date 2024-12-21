@@ -13,7 +13,7 @@ tags:
   - "Sam Altman"
 categories:
 header:
-  teaser: /assets/images/default/summary.jpg
+  teaser: /assets/images/default/summaryblog.jpg
 author: Hari Thapliyaal
 layout: booksum-layout
 excerpt: "A summary of the key points discussed between Sam Altman, CEO of OpenAI, and Harry Stebbings, on DevDay2024. The chat includes a wide range of topics such as the future of AI, OpenAI's strategies, and how founders and investors should think about AI. "
@@ -26,7 +26,7 @@ comments: true
 keywords: [OpenAI, AI, Founder, DevDay2024, Harry Stebbings, Sam Altman, Entrepreneur, Innovator, Business Leader]
 ---
 
-![Virtual AMA with Sam Altman](/assets/images/default/summary.jpg)
+![Virtual AMA with Sam Altman](/assets/images/default/summaryblog.jpg)
 
 # Virtual AMA with Sam Altman by Harry Stebbings - DevDay 2024
 

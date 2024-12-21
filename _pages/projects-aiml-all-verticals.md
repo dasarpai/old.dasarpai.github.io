@@ -300,9 +300,25 @@ This sector covers the creation/production, distribution, and consumption of med
 - [Colab - Collect Data](https://colab.research.google.com/github/dasarpai/DAI-Projects-All/blob/main/Entertainment%2BGames%2BSports/Olympic-QA-System-with-GPT/olympics-1-collect-data.ipynb){:TARGET="_BLANK"}
 - [Colab - Create QA Dataset](https://colab.research.google.com/github/dasarpai/DAI-Projects-All/blob/main/Entertainment%2BGames%2BSports/Olympic-QA-System-with-GPT/olympics-2-create-qa.ipynb){:TARGET="_BLANK"}
 
+## <font color=green>Government</font>
+
+### GOI-Marine-Consultant
+- [Github Repo](https://github.com/dasarpai/GOI-Marine-Consultant/tree/main/ChatGPT)
+
+
+
 -----------------------------------------------------------
 ## <font color=green>Media and Publication</font>
 This domain includes businesses involved in publishing content across print, digital, and broadcast formats. It covers books, news, newspapers, magazines, digital media platforms, and content creation and distribution.
+
+### Media+Publication-TWO
+- [Github Repo](https://github.com/dasarpai/Media-Publication-TWO)
+
+### Media+Publication-TWSV
+- [Github Repo](https://github.com/dasarpai/Media-Publication-TWSV/tree/main/ChatGPT)
+
+### Youtube - to - MP3 - Text Transcription - Hindi and English
+- [Github Repo](https://github.com/dasarpai/DAI-mp3)
 
 ### Fakenews-Detection
 - [Github Repo](https://github.com/dasarpai/DAI-Projects-All/tree/main/Media%2BPublication/Fakenews-Detection){:TARGET="_BLANK"}
@@ -416,6 +432,12 @@ This sector covers educational institutions, e-learning platforms, and education
 
 ## <font color=green>Infrastructure (Infra) Development</font>
 This domain encompasses the planning, design, and construction of physical facilities and systems, including transportation, telecommunications, water supply, and utilities essential for supporting economic activity.
+
+---------------------------------------------------------
+## <font color=green>Dataset</font>
+- [Github Book Repo](https://github.com/dasarpai/DAI-Books)
+- [Github Datasets](https://github.com/dasarpai/DAI-Datasets)
+- [Github Mp3 Repo](https://github.com/dasarpai/DAI-mp3)
 
 
 

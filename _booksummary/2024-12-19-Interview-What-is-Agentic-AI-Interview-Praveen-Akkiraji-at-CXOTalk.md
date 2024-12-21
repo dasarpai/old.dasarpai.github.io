@@ -56,7 +56,7 @@ If you are interested in learning more about agentic AI, or you have any of thes
 1. Are these agents solely focused on optimizing tasks, or do they incorporate guardrails in their design?
 1. What is the ultimate goal of these agents? Is it to replace people? Should employees train these agents so they won't have a job anymore?
 1. What types of jobs are most likely to be replaced by agentic AI, and which jobs will be augmented instead?
-1. How do models like GPT-1.O1.and Google's self-correcting reinforcement learning improve reasoning and planning for agentic AI?
+1. How do models like GPT-o1 and Google's self-correcting reinforcement learning improve reasoning and planning for agentic AI?
 1. How do concepts like chain-of-thought reasoning and reflection loops contribute to improving agentic AI?
 1. What specific applications or use cases highlight the strengths of agentic AI in enterprise settings?
 1. What are the challenges associated with trust and safety in deploying agentic AI at scale?
