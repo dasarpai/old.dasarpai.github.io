@@ -434,7 +434,7 @@ This sector covers educational institutions, e-learning platforms, and education
 This domain encompasses the planning, design, and construction of physical facilities and systems, including transportation, telecommunications, water supply, and utilities essential for supporting economic activity.
 
 ---------------------------------------------------------
-## <font color=green>Dataset</font>
+## <font color=green>Datasets</font>
 - [Github Book Repo](https://github.com/dasarpai/DAI-Books)
 - [Github Datasets](https://github.com/dasarpai/DAI-Datasets)
 - [Github Mp3 Repo](https://github.com/dasarpai/DAI-mp3)
