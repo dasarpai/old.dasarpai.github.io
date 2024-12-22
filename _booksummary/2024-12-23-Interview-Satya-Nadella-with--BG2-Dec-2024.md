@@ -14,7 +14,7 @@ header:
   teaser: /assets/images/booksummary/7542-Interview-Satya-Nadella-with--BG2-Dec-2024.jpg
 author: Hari Thapliyaal
 layout: booksum-layout
-excerpt: "Transcript of an interview between Satya Nadella and BG, on 2 Dec 2024. "
+excerpt: "Interview Questions for Satya Nadella by BG2, Dec-2024. "
 author_profile: true
 share: true
 toc: false
