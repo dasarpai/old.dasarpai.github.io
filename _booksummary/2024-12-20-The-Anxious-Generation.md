@@ -3,7 +3,7 @@ mathjax: true
 id: 7539
 title: "The Anxious Generation"
 date: 2024-12-20
-permalink: /booksummary/2024-12-23-The-Anxious-Generation
+permalink: /booksummary/The-Anxious-Generation
 tags:
   - "The Anxious Generation"
   - "Book Summary"

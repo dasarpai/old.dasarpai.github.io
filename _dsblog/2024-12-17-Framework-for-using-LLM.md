@@ -1,6 +1,6 @@
 ---
 mathjax: true
-id: 6193
+id: 6192
 title: "Framework for using LLM"
 date: 2024-12-17
 permalink: /dsblog/Framework-for-using-LLM
@@ -11,7 +11,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6193-Framework-for-using-LLM.jpg
+  teaser: /assets/images/dspost/dsp6192-Framework-for-using-LLM.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout
@@ -25,7 +25,7 @@ comments: true
 keywords: ["Large Language Models", "LLM", "NLP", "AI", "Prompt Types", "Prompt Engineering", "LLM Project"]
 ---
 
-![Framework for using LLM](/assets/images/dspost/dsp6193-Framework-for-using-LLM.jpg)
+![Framework for using LLM](/assets/images/dspost/dsp6192-Framework-for-using-LLM.jpg)
 
 # Maximizing Your LLM Project: A Comprehensive Guide to Effective Prompt Types
 

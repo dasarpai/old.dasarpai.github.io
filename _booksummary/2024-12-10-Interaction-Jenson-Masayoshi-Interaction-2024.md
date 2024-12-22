@@ -3,7 +3,7 @@ mathjax: true
 id: 7536
 title: "Interaction: Jenson Huang and Masayoshi Son Interaction"
 date: 2024-12-10
-permalink: /booksummary/2024-12-10-Jenson-Masayoshi-Interaction-2024
+permalink: /booksummary/Jenson-Masayoshi-Interaction-2024
 tags:
   - "NVIDIA"
   - "SoftBank"
