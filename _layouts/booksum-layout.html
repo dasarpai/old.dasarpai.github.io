@@ -103,7 +103,13 @@ layout: default
       </script>
       <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-      
+          <!-- Author Bio Section -->
+          <div class="post-author">
+            <h3>About the Author</h3>
+            <img src="{{ site.baseurl }}{{ site.author.avatar }}" alt="Author avatar" style="width: 100px; height: auto;">
+            <p>{{ site.author.short_bio }}</p>
+        </div>
+
       </article>
 
       {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}

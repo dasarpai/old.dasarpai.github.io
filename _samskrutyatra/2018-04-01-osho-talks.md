@@ -21,33 +21,33 @@ share: true
     
 # Osho Talks       
 
-## Taopnishad
+## Tao Upnishad
 
-### Taopnishad - Tao-001-chapter-01-Unlocking-Tao
+### Tao Upnishad - Tao-001-chapter-01-Unlocking-Tao
 <audio controls>
   <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/Osho-Tao-upnishad/Tao-001-chapter-01-Unlocking-Tao.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
-### Taopnishad - Tao-002-chapter-02-tao-upnishad-Journey-into-the-Wisdom-of-Lao-Tzu
+### Tao Upnishad - Tao-002-chapter-02-tao-upnishad-Journey-into-the-Wisdom-of-Lao-Tzu
 <audio controls>
   <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/Osho-Tao-upnishad/Tao-002-chapter-02-tao-upnishad-Journey-into-the-Wisdom-of-Lao-Tzu.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
-### Taopnishad - Tao-073-chapter-38-Part2-Degeneration
+### Tao Upnishad - Tao-073-chapter-38-Part2-Degeneration
 <audio controls>
   <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/Osho-Tao-upnishad/Tao-073-chapter-38-Part2-Degeneration.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
-### Taopnishad - Tao-075-chapter-39-part2-Embrace-Harmony-and-Humility
+### Tao Upnishad - Tao-075-chapter-39-part2-Embrace-Harmony-and-Humility
 <audio controls>
   <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/Osho-Tao-upnishad/Tao-075-chapter-39-part2-Embrace-Harmony-and-Humility.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
-### Taopnishad - Tao-076-chapter-40-n-41-part1-The-Principle-of-Reversion-n-Qualities
+### Tao Upnishad - Tao-076-chapter-40-n-41-part1-The-Principle-of-Reversion-n-Qualities
 <audio controls>
   <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/Osho-Tao-upnishad/Tao-076-chapter-40-n-41-part1-The-Principle-of-Reversion-n-Qualities.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
