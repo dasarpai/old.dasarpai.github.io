@@ -152,7 +152,7 @@ The e-commerce domain comprises online platforms and businesses that facilitate 
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects-All/blob/main/eCommerce/Amazon-Electronics-Recommendation/Recommendation_System_Amazon_Electronics.ipynb){:TARGET="_BLANK"}
 
 -----------------------------------------------------------
-## <font color=green>Economics</font>
+## <font color=green>Economics and International Trade</font>
 This field involves the study and application of economic theories, policies, and data analysis to understand markets, consumer behavior, global trade, and financial trends. It serves as the foundation for economic research, policy-making, and financial planning.
 
 ### Economy-Analysis
@@ -160,10 +160,13 @@ This field involves the study and application of economic theories, policies, an
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects-All/blob/main/Economics/Economy-Analysis/GDP-Assignment.ipynb){:TARGET="_BLANK"}
 
 
-
 ### Prosperity-Clustering
 - [Github Repo](https://github.com/dasarpai/DAI-Projects-All/tree/main/Economics/Prosperity-Clustering){:TARGET="_BLANK"}
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects-All/blob/main/Economics/Prosperity-Clustering/Clustering%26PCA-Assignment.ipynb){:TARGET="_BLANK"}
+
+### Marine Consultant - GOI
+- [Github Repo](https://github.com/dasarpai/GOI-Marine-Consultant/tree/main/ChatGPT) - This is a GPT on chatGPT prototype which helps them planning strategy for bilateral or multilateral engagements with other countries.
+
 
 ----------------------------------------------------------
 
@@ -300,25 +303,18 @@ This sector covers the creation/production, distribution, and consumption of med
 - [Colab - Collect Data](https://colab.research.google.com/github/dasarpai/DAI-Projects-All/blob/main/Entertainment%2BGames%2BSports/Olympic-QA-System-with-GPT/olympics-1-collect-data.ipynb){:TARGET="_BLANK"}
 - [Colab - Create QA Dataset](https://colab.research.google.com/github/dasarpai/DAI-Projects-All/blob/main/Entertainment%2BGames%2BSports/Olympic-QA-System-with-GPT/olympics-2-create-qa.ipynb){:TARGET="_BLANK"}
 
-## <font color=green>Government</font>
-
-### GOI-Marine-Consultant
-- [Github Repo](https://github.com/dasarpai/GOI-Marine-Consultant/tree/main/ChatGPT)
-
-
-
 -----------------------------------------------------------
 ## <font color=green>Media and Publication</font>
 This domain includes businesses involved in publishing content across print, digital, and broadcast formats. It covers books, news, newspapers, magazines, digital media platforms, and content creation and distribution.
 
-### Media+Publication-TWO
-- [Github Repo](https://github.com/dasarpai/Media-Publication-TWO)
+### Media+Publication-TWO - Talk with Osho
+- [Github Repo](https://github.com/dasarpai/Media-Publication-TWO) - This is an eduational GPT on ChatGPT. It is based on selected books of Osho. It is a prototype, because there is a limit of books loads on ChatGPT. In future when this constraints will be removed, this project will be updated with more books.
 
-### Media+Publication-TWSV
-- [Github Repo](https://github.com/dasarpai/Media-Publication-TWSV/tree/main/ChatGPT)
+### Media+Publication-TWSV - Talk with Swami Vivekananda
+- [Github Repo](https://github.com/dasarpai/Media-Publication-TWSV/tree/main/ChatGPT) - This is Educational GPT on ChatGPT. It is based on the 8 volumes of complete works of Swami Vivekananda.
 
 ### Youtube - to - MP3 - Text Transcription - Hindi and English
-- [Github Repo](https://github.com/dasarpai/DAI-mp3)
+- [Github Repo](https://github.com/dasarpai/DAI-mp3) - In this project we are trying to transcribe English or Hindi language youtube video into Latin script. Multiple api's and tools were tried to evalute the performace, costing and accuracy. It is **WIP project** and as technology upgrade happens I will keep updating this project.
 
 ### Fakenews-Detection
 - [Github Repo](https://github.com/dasarpai/DAI-Projects-All/tree/main/Media%2BPublication/Fakenews-Detection){:TARGET="_BLANK"}
