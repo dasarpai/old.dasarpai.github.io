@@ -3,6 +3,9 @@ layout: home
 author_profile: true
 ---
 
+<h1>Ek Kendra for Data Science </h1>
+
+## Links to Explore Here 
 <style>
   .center {
   display: block;
@@ -50,10 +53,14 @@ author_profile: true
   </tbody>
 </table>
 
-<h1>Ek Kendra for Data Science </h1>
+## Why this Blog?
+More than teaching and helping others this is the place where I express myself. So thousands of articles in different blog categories here are my way of talking to world and reminding to myself that how far I have travlled and what else I need to explore.
+
 This is the place to learn everything about Data Science, Data Engineering, Data Analytics, EDA, AI, Machine Learning, Deep Learning, LLM, RAG, GAN, NLP, RL and much more. This blog draws from my three decades of experience in Data Science, Project Management, AI/ML, IT Technology, Software Development, Process Automation, and Business Analytics across diverse domains such as Logistics, BFSI, Health, Education, Staffing, and NGOs. I have held various roles, including Programmer, Architect, Business Analyst, Data Analyst, Product Manager, Project Manager, Program Manager, Delivery Head, Trainer, Coach, Consultant, and Mentor, in different companies. These experiences have given me a deep understanding of businesses and how technology can help them make better and timely decisions to maximize stakeholder engagement and drive more business.   
 
-In my experience, making business decisions while ignoring key factors is like trying to see the world with one eye.
+In my experience, making business decisions while ignoring key factors is like trying to see the world with one eye. Technology itself is meaningless if it does not improve human well-being. We technocrats are not in the marketplace to show off what we can do. Instead, we are here to reduce your suffering and pain, decrease your costs, and enhance your joy by saving time, effort, and money. 
+
+Therefore technologies should be developed keeping following in mind.
 
 <ul>
 	<li>Technical capabilities of the organization</li>
@@ -87,7 +94,7 @@ About Data Science Project I think, AI is also software, but AI projects are not
 
  <script src="https://gist.github.com/dasarpai/6dea9df613fc708b258dbca6446759bb.js"></script>
  
-<h2> This is the way I live in this world.</h2>
+## The way I live in this world.
 
  <ul>
 	<li> Philosophy connects me to Self,   </li>
@@ -98,14 +105,111 @@ About Data Science Project I think, AI is also software, but AI projects are not
 
 <hr>
 
+## Welcome to my Data Science/AI Blog
+<!-- dsblog listing starts. -->
 
+<div class="grid__wrapper grid__dsblog">
+  {% assign sorted_posts = site.dsblog | sort: 'date' | reverse %}
+  {% for post in sorted_posts %}
+    <div class="grid__item grid__item--dsblog">
+      <article class="archive__item archive__item--dsblog">
+        {% if post.header.teaser %}
+          <div class="archive__item-teaser">
+            <a href="{{ post.url }}">
+              <img src="{{ post.header.teaser }}" alt="{{ post.title }}" class="teaser__image">
+            </a>
+          </div>
+        {% endif %}
+        
+        <div class="archive__item-content">
+          <h2 class="archive__item-title">
+            <a href="{{ post.url }}" rel="permalink">{{ post.title | markdownify | strip_html | truncate: 60 }}</a>
+          </h2>
 
-To have one-on-one coaching, counselling, mentoring session with me, you can reach me via buymeacofee (BMC) link. I conduct sessions on Data Science, AI Technologies and Project Management. 30 min life coaching sessions are free.
+          {% assign words_per_minute = 200 %}
+          {% if post.content %}
+            {% assign content_word_count = post.content | number_of_words %}
+            {% assign minutes_to_read = content_word_count | divided_by: words_per_minute | ceil %}
+            <span class="archive__item-content">
+              <i class="fa fa-clock" aria-hidden="true"></i> 
+              {{ minutes_to_read }} min read
+            </span>
+          {% endif %}
+          
+          {% if post.excerpt %}
+            <p class="archive__item-excerpt">
+              {{ post.excerpt | markdownify | strip_html | truncate: 100 }}
+            </p>
+          {% endif %}
+          
+          <div class="archive__item-meta">
+            <span class="archive__item-excerpt">
+              <i class="fa fa-calendar" aria-hidden="true"></i> 
+              {{ post.date | date: "%B %-d, %Y" }}
+            </span>
+            
+            {% if post.tags %}
+              <span class="archive__item-excerpt">
+                <i class="fa fa-tags" aria-hidden="true"></i>
+                {% for tag in post.tags limit:3 %}
+                  <a href="/tags/{{ tag | slugify }}" class="tag">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+                {% endfor %}
+              </span>
+            {% endif %}
+          </div>
+        </div>
+      </article>
+    </div>
+  {% endfor %}
+</div>
 
-<a href="https://www.buymeacoffee.com/harithapliyal" rel="nofolloaw">
+<!-- dsblog listing ends. -->
+<hr>
 
+<style>
+.content-after-grid {
+  clear: both;
+  margin-top: 40px;
+  padding: 20px 15px;
+  max-width: calc(100% - 250px);
+  margin-left: auto;
+  background-color: #f9f9f9;
+  border-top: 1px solid #e0e0e0;
+}
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="harithapliyal" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+.coaching-section {
+  text-align: center;
+}
+
+.coaching-section p {
+  margin-bottom: 20px;
+  color: #555;
+}
+
+@media (max-width: 1200px) {
+  .content-after-grid {
+    max-width: calc(100% - 200px);
+  }
+}
+
+@media (max-width: 768px) {
+  .content-after-grid {
+    max-width: 100%;
+    margin-top: 30px;
+    padding: 15px 10px;
+  }
+}
+</style>
+
+<div class="content-after-grid">
+  <div class="coaching-section">
+    <p>To have one-on-one coaching, counselling, mentoring session with me, you can reach me via buymeacofee (BMC) link. I conduct sessions on Data Science, AI Technologies and Project Management. 30 min life coaching sessions are free.</p>
+
+    <a href="https://www.buymeacoffee.com/harithapliyal" rel="nofolloaw">
+      <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="harithapliyal" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+    </a>
+  </div>
+</div>
 
 {% include newsletter.html %}
 
