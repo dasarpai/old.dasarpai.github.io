@@ -58,12 +58,14 @@ HTML processors (or preprocessors) extend HTML functionality by adding new featu
    
    **Example**:
    ```ejs
-   <h1>Welcome <%= name %></h1>
-   <% if (admin) { %>
-     <p>Hello Admin!</p>
-   <% } else { %>
-     <p>Hello User!</p>
-   <% } %>
+    {% raw %}
+    <h1>Welcome <%= name %></h1>
+    <% if (admin) { %>
+      <p>Hello Admin!</p>
+    <% } else { %>
+      <p>Hello User!</p>
+    <% } %>
+    {% endraw %}
    ```
 
 ### 3. **Handlebars**
@@ -76,12 +78,14 @@ HTML processors (or preprocessors) extend HTML functionality by adding new featu
 
    **Example**:
    ```handlebars
-   <h1>{{title}}</h1>
-   {{#if admin}}
-     <p>Hello Admin</p>
-   {{else}}
-     <p>Hello User</p>
-   {{/if}}
+    {% raw %}
+      <h1>{{title}}</h1>
+      {{#if admin}}
+        <p>Hello Admin</p>
+      {{else}}
+        <p>Hello User</p>
+      {{/if}}
+    {% endraw %}
    ```
 
 ### 4. **Mustache**
@@ -94,10 +98,12 @@ HTML processors (or preprocessors) extend HTML functionality by adding new featu
 
    **Example**:
    ```mustache
-   <h1>{{title}}</h1>
-   {{#admin}}
-     <p>Hello Admin</p>
-   {{/admin}}
+    {% raw %}
+      <h1>{{title}}</h1>
+      {{#admin}}
+        <p>Hello Admin</p>
+      {{/admin}}
+    {% endraw %}
    ```
 
 ### 5. **Nunjucks**
@@ -110,11 +116,13 @@ HTML processors (or preprocessors) extend HTML functionality by adding new featu
 
    **Example**:
    ```nunjucks
-   {% if admin %}
-     <p>Hello Admin</p>
-   {% else %}
-     <p>Hello User</p>
-   {% endif %}
+    {% raw %}
+      {% if admin %}
+        <p>Hello Admin</p>
+      {% else %}
+        <p>Hello User</p>
+      {% endif %}
+    {% endraw %}
    ```
 
 ### 6. **Haml (HTML Abstraction Markup Language)**
