@@ -437,7 +437,7 @@ defaults:
       path: "_news"
       type: news
     values:
-      layout: single
+      layout: news-layout
       author_profile: true
       read_time: true
       comments: true # true
@@ -467,7 +467,7 @@ defaults:
       path: "_booksummary"
       type: booksummary
     values:
-      layout: single
+      layout: booksum-layout
       author_profile: true
       read_time: true
       comments: true # true

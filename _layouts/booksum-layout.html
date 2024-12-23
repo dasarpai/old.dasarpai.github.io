@@ -129,7 +129,7 @@ layout: default
         <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "Other Book Summaries" }}</h2>
 
         <!-- Add this block where you want the list of posts to appear -->
-        <div class="wiablog-article-list">
+        <div class="booksummary-article-list">
           <ul>
             {% assign sorted_posts = site.booksummary | sort: "date" | reverse %}
             {% for post in sorted_posts %}
