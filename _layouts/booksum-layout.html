@@ -148,12 +148,12 @@ layout: default
         </div>
         </div>
       {% else %}
-      <!-- Add list of articles from the wiaposts collection here -->
+      <!-- Add list of articles from the booksummary collection here -->
       <div class="page__related">
       <h2 class="page__related-title">Related Articles</h2>
       <ul>
-          {% if site.wiablog and site.wiablog.size > 0 %}
-              {% assign sorted_posts = site.wiablog | sort: "author_date" | reverse %}
+          {% if site.booksummary and site.booksummary.size > 0 %}
+              {% assign sorted_posts = site.booksummary | sort: "author_date" | reverse %}
               {% for post in sorted_posts %}
                   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
               {% endfor %}
