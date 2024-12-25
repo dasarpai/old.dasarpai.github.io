@@ -3,6 +3,7 @@ id: 4170
 mathjax: true    
 title: 'Lalitasaharanam with Meaning'    
 date: 2022-09-03    
+layout: samskrut-layout 
 permalink: /samskrutyatra/lalitasaharanam-with-meaning
 redirect_from: 
   - '/samskrut/lalitasaharanam-with-meaning'

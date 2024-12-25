@@ -3,6 +3,7 @@ id: 4043
 mathjax: true    
 title: 'तिरुक्कूरळ हिन्दी अनुवाद'    
 date: 2020-04-21    
+layout: samskrut-layout 
 permalink: /samskrutyatra/thirukkural-complete-in-hindi
 redirect_from: 
   - '/samskrut/thirukkural-complete-in-hindi'

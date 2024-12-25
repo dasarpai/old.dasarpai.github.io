@@ -3,6 +3,7 @@ id: 4000
 mathjax: true
 title: 'मनुष्यस्य शरीरस्य महत्वं'
 date: 2019-07-21
+layout: samskrut-layout 
 permalink: /samskrutyatra/importance-of-human-body
 redirect_from: 
   - '/samskrut/importance-of-human-body'

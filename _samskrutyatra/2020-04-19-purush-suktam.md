@@ -3,6 +3,7 @@ id: 4032
 mathjax: true    
 title: 'पुरुषसूक्त'    
 date: 2020-04-19    
+layout: samskrut-layout 
 permalink: /samskrutyatra/purush-suktam
 redirect_from: 
   - '/samskrut/purush-suktam'

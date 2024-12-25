@@ -3,6 +3,7 @@ id: 4128
 mathjax: true    
 title: 'छान्दोग्योपनिषत् अष्टमोऽध्यायः'    
 date: 2020-05-21    
+layout: samskrut-layout 
 permalink: /samskrutyatra/chandogyopnishad-8
 redirect_from: 
   - '/samskrut/chandogyopnishad-8'

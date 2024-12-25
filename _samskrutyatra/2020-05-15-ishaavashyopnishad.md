@@ -3,6 +3,7 @@ id: 4113
 mathjax: true    
 title: 'ईशावास्योपषत्'    
 date: 2020-05-15    
+layout: samskrut-layout 
 permalink: /samskrutyatra/ishaavashyopnishad
 redirect_from: 
   - '/samskrut/ishaavashyopnishad'

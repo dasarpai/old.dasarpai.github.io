@@ -3,6 +3,7 @@ id: 4091
 mathjax: true    
 title: 'देवीसूक्तम्'    
 date: 2020-05-08    
+layout: samskrut-layout 
 permalink: /samskrutyatra/devi-suktam-saswara
 redirect_from: 
   - '/samskrut/devi-suktam-saswara'

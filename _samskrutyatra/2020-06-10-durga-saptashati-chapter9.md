@@ -3,6 +3,7 @@ id: 4141
 mathjax: true    
 title: 'श्रीदुर्गासप्तशती - नवमोऽध्यायः'    
 date: 2020-06-10    
+layout: samskrut-layout 
 permalink: /samskrutyatra/durga-saptashati-chapter9
 redirect_from: 
   - '/samskrut/durga-saptashati-chapter9'

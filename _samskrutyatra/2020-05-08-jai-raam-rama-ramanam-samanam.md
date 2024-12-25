@@ -3,6 +3,7 @@ id: 4094
 mathjax: true    
 title: 'जय राम रमा रमनं समनं'    
 date: 2020-05-08    
+layout: samskrut-layout 
 permalink: /samskrutyatra/jai-raam-rama-ramanam-samanam
 redirect_from: 
   - '/samskrut/jai-raam-rama-ramanam-samanam'

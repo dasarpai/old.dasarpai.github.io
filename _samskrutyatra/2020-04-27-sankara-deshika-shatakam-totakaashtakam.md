@@ -3,6 +3,7 @@ id: 4057
 mathjax: true    
 title: 'तोटकाष्टकं - शंकरदेशिकाष्टकम्'    
 date: 2020-04-27    
+layout: samskrut-layout 
 permalink: /samskrutyatra/sankara-deshika-shatakam-totakaashtakam
 redirect_from: 
   - '/samskrut/sankara-deshika-shatakam-totakaashtakam'

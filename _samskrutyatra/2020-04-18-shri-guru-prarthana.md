@@ -3,6 +3,7 @@ id: 4029
 mathjax: true    
 title: 'श्रीगुरु-प्रार्थना'    
 date: 2020-04-18    
+layout: samskrut-layout 
 permalink: /samskrutyatra/shri-guru-prarthana
 redirect_from: 
   - '/samskrut/shri-guru-prarthana'

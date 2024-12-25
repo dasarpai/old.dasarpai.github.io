@@ -3,6 +3,7 @@ id: 4087
 mathjax: true    
 title: 'हनुमान चालीसा'    
 date: 2020-05-07    
+layout: samskrut-layout 
 permalink: /samskrutyatra/hanuman-chalisa
 redirect_from: 
   - '/samskrut/hanuman-chalisa'

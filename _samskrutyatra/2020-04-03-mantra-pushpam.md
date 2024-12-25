@@ -3,6 +3,7 @@ id: 4010
 mathjax: true
 title: 'मन्त्रपुष्पं'
 date: 2020-04-03
+layout: samskrut-layout 
 permalink: /samskrutyatra/mantra-pushpam
 redirect_from: 
   - '/samskrut/mantra-pushpam'

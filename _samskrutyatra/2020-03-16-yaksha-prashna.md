@@ -3,6 +3,7 @@ id: 4009
 mathjax: true
 title: 'यक्षप्रश्ना:'
 date: 2020-03-16
+layout: samskrut-layout 
 permalink: /samskrutyatra/yaksha-prashna
 redirect_from: 
   - '/samskrut/yaksha-prashna'

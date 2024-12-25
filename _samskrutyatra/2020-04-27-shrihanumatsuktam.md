@@ -3,6 +3,7 @@ id: 4059
 mathjax: true    
 title: 'श्रीहनुमत्सूक्तम्'    
 date: 2020-04-27    
+layout: samskrut-layout 
 permalink: /samskrutyatra/shrihanumatsuktam
 redirect_from: 
   - '/samskrut/shrihanumatsuktam'

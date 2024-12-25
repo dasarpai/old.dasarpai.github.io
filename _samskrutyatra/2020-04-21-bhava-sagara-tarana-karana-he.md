@@ -3,6 +3,7 @@ id: 4036
 mathjax: true    
 title: 'भवसागर तारण कारण हे'    
 date: 2020-04-21    
+layout: samskrut-layout 
 permalink: /samskrutyatra/bhava-sagara-tarana-karana-he
 redirect_from: 
   - '/samskrut/bhava-sagara-tarana-karana-he'

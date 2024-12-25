@@ -3,6 +3,7 @@ id: 4024
 mathjax: true    
 title: '॥ गणपत्यथर्वशीर्षोपनिषत् ॥'    
 date: 2020-04-15    
+layout: samskrut-layout 
 permalink: /samskrutyatra/ganpatyatharvshirshopnishad
 redirect_from: 
   - '/samskrut/ganpatyatharvshirshopnishad'

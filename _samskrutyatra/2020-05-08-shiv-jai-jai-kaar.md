@@ -3,6 +3,7 @@ id: 4100
 mathjax: true    
 title: 'शिव जयजयकार स्तोत्रं'    
 date: 2020-05-08    
+layout: samskrut-layout 
 permalink: /samskrutyatra/shiv-jai-jai-kaar
 redirect_from: 
   - '/samskrut/shiv-jai-jai-kaar'

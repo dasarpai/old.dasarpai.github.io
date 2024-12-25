@@ -3,6 +3,7 @@ id: 4098
 mathjax: true    
 title: 'श्री राम स्तुति:'    
 date: 2020-05-08    
+layout: samskrut-layout 
 permalink: /samskrutyatra/ramchandra-stuti
 redirect_from: 
   - '/samskrut/ramchandra-stuti'

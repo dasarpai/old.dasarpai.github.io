@@ -3,6 +3,7 @@ id: 4074
 mathjax: true    
 title: 'Thirukkural Summary in Hindi'    
 date: 2020-05-03    
+layout: samskrut-layout 
 permalink: /samskrutyatra/thirukkural-summary-in-hindi
 redirect_from: 
   - '/samskrut/thirukkural-summary-in-hindi'

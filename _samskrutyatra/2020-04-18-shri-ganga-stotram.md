@@ -3,6 +3,7 @@ id: 4028
 mathjax: true    
 title: 'श्री गंगा स्तोत्रम'    
 date: 2020-04-18    
+layout: samskrut-layout 
 permalink: /samskrutyatra/shri-ganga-stotram
 redirect_from: 
   - '/samskrut/shri-ganga-stotram'

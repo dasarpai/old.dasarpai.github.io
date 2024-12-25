@@ -3,6 +3,7 @@ id: 4129
 mathjax: true    
 title: 'मुण्डकोपनिषत्'    
 date: 2020-05-24    
+layout: samskrut-layout 
 permalink: /samskrutyatra/mundakoupnishad
 redirect_from: 
   - '/samskrut/mundakoupnishad'

@@ -3,6 +3,7 @@ id: 4168
 mathjax: true    
 title: 'Bhajan without Text'    
 date: 2021-05-19    
+layout: samskrut-layout 
 permalink: /samskrutyatra/bhajan-without-text
 redirect_from: 
   - '/samskrut/bhajan-without-text'

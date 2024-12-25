@@ -3,6 +3,7 @@ id: 4050
 mathjax: true    
 title: 'गुर्वष्टकम्'    
 date: 2020-04-26    
+layout: samskrut-layout 
 permalink: /samskrutyatra/gurvashtaka
 redirect_from: 
   - '/samskrut/gurvashtaka'

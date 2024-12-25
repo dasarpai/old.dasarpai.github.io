@@ -3,6 +3,7 @@ id: 4107
 mathjax: true    
 title: 'श्रीमद्भगवद्गीता द्वादशोऽध्यायः - भक्तियोगः'    
 date: 2020-05-12    
+layout: samskrut-layout 
 permalink: /samskrutyatra/bhagwat-gita-chapter-12
 redirect_from: 
   - '/samskrut/bhagwat-gita-chapter-12'

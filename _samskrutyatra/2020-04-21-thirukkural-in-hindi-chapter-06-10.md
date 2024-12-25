@@ -3,6 +3,7 @@ id: 4044
 mathjax: true    
 title: 'तिरुक्कूरळ'    
 date: 2020-04-21    
+layout: samskrut-layout 
 permalink: /samskrutyatra/thirukkural-in-hindi-chapter-06-10
 redirect_from: 
   - '/samskrut/thirukkural-in-hindi-chapter-06-10'

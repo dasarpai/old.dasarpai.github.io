@@ -3,6 +3,7 @@ id: 4005
 mathjax: true
 title: 'मदालसा उपदेश'
 date: 2019-09-21
+layout: samskrut-layout 
 permalink: /samskrutyatra/madalasa-upadesha
 redirect_from: 
   - '/samskrut/madalasa-upadesha'

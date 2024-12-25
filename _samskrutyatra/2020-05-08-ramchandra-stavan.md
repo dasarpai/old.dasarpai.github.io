@@ -3,6 +3,7 @@ id: 4097
 mathjax: true    
 title: 'रामचन्द्र स्तवन'    
 date: 2020-05-08    
+layout: samskrut-layout 
 permalink: /samskrutyatra/ramchandra-stavan
 redirect_from: 
   - '/samskrut/ramchandra-stavan'

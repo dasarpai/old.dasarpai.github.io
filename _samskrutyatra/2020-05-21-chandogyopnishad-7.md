@@ -3,6 +3,7 @@ id: 4127
 mathjax: true    
 title: 'छान्दोग्योपनिषत् सप्तमोऽध्यायः'    
 date: 2020-05-21    
+layout: samskrut-layout 
 permalink: /samskrutyatra/chandogyopnishad-7
 redirect_from: 
   - '/samskrut/chandogyopnishad-7'

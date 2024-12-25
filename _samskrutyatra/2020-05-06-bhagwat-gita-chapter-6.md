@@ -3,6 +3,7 @@ id: 4079
 mathjax: true    
 title: 'श्रीमद्भगवद्गीता षष्ठोऽध्यायः - ध्यानयोगः'    
 date: 2020-05-06    
+layout: samskrut-layout 
 permalink: /samskrutyatra/bhagwat-gita-chapter-6
 redirect_from: 
   - '/samskrut/bhagwat-gita-chapter-6'

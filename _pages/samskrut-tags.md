@@ -14,7 +14,7 @@ sidebar:
 
 ## Welcome to Samskrut Yatra Blogs - Posts!
 
-{% include group-by-array collection=site.samskrut field="tags" %}
+{% include group-by-array collection=site.samskrutyatra field="tags" %}
 
 {% for tag in group_names %}
 {% assign posts = group_items[forloop.index0] %}
@@ -24,4 +24,3 @@ sidebar:
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
-

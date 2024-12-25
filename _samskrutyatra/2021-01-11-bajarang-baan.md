@@ -3,6 +3,7 @@ id: 4153
 mathjax: true    
 title: 'बजरंग बाण'    
 date: 2021-01-11    
+layout: samskrut-layout 
 permalink: /samskrutyatra/bajarang-baan
 redirect_from: 
   - '/samskrut/bajarang-baan'

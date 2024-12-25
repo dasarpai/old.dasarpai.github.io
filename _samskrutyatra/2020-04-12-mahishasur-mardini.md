@@ -3,6 +3,7 @@ id: 4021
 mathjax: true    
 title: 'महिषासुरमर्दिनि'    
 date: 2020-04-12    
+layout: samskrut-layout 
 permalink: /samskrutyatra/mahishasur-mardini
 redirect_from: 
   - '/samskrut/mahishasur-mardini'

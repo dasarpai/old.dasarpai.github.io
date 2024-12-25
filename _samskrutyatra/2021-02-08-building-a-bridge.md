@@ -3,6 +3,7 @@ id: 4159
 mathjax: true    
 title: 'लघुकथा: सेतुः निर्माणं'    
 date: 2021-02-08    
+layout: samskrut-layout 
 permalink: /samskrutyatra/building-a-bridge
 redirect_from: 
   - '/samskrut/building-a-bridge'

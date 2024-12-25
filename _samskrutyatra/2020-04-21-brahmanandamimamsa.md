@@ -3,6 +3,7 @@ id: 4038
 mathjax: true    
 title: 'तैत्तिरीयोपनिषत्'    
 date: 2020-04-21    
+layout: samskrut-layout 
 permalink: /samskrutyatra/brahmanandamimamsa
 redirect_from: 
   - '/samskrut/brahmanandamimamsa'

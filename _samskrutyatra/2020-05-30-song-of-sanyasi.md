@@ -3,6 +3,7 @@ id: 4132
 mathjax: true    
 title: 'सन्यासी का गीत'    
 date: 2020-05-30    
+layout: samskrut-layout 
 permalink: /samskrutyatra/song-of-sanyasi
 redirect_from: 
   - '/samskrut/song-of-sanyasi'

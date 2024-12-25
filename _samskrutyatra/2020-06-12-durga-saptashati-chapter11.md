@@ -3,6 +3,7 @@ id: 4143
 mathjax: true    
 title: 'श्रीदुर्गासप्तशती -एकादशोऽध्यायः'    
 date: 2020-06-12    
+layout: samskrut-layout 
 permalink: /samskrutyatra/durga-saptashati-chapter11
 redirect_from: 
   - '/samskrut/durga-saptashati-chapter11'

@@ -3,6 +3,7 @@ id: 4147
 mathjax: true    
 title: 'अथ मूर्तिरहस्यम्'    
 date: 2020-06-16    
+layout: samskrut-layout 
 permalink: /samskrutyatra/devi-murti-rahasyam
 redirect_from: 
   - '/samskrut/devi-murti-rahasyam'

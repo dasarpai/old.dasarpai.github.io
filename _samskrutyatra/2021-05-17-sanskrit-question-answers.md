@@ -3,6 +3,7 @@ id: 4166
 mathjax: true    
 title: 'संस्कृत प्रश्नोत्तर भाग-1'    
 date: 2021-05-17    
+layout: samskrut-layout 
 permalink: /samskrutyatra/sanskrit-question-answers
 redirect_from: 
   - '/samskrut/sanskrit-question-answers'

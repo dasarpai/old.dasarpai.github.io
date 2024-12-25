@@ -3,6 +3,7 @@ id: 4055
 mathjax: true    
 title: 'उमामहेश्वर स्तोत्रं'    
 date: 2020-04-26    
+layout: samskrut-layout 
 permalink: /samskrutyatra/uma-maheshwara-stotram
 redirect_from: 
   - '/samskrut/uma-maheshwara-stotram'

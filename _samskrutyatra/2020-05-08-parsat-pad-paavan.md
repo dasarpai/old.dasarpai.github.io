@@ -3,6 +3,7 @@ id: 4096
 mathjax: true    
 title: 'परसत पद पावन'    
 date: 2020-05-08    
+layout: samskrut-layout 
 permalink: /samskrutyatra/parsat-pad-paavan
 redirect_from: 
   - '/samskrut/parsat-pad-paavan'

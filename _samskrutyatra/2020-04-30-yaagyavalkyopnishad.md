@@ -3,6 +3,7 @@ id: 4067
 mathjax: true    
 title: 'याज्ञवल्क्योपनिषत्'    
 date: 2020-04-30    
+layout: samskrut-layout 
 permalink: /samskrutyatra/yaagyavalkyopnishad
 redirect_from: 
   - '/samskrut/yaagyavalkyopnishad'

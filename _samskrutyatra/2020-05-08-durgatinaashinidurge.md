@@ -3,6 +3,7 @@ id: 4092
 mathjax: true    
 title: 'दुर्गतिनाशिनी दुर्गे'    
 date: 2020-05-08    
+layout: samskrut-layout 
 permalink: /samskrutyatra/durgatinaashinidurge
 redirect_from: 
   - '/samskrut/durgatinaashinidurge'

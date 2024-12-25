@@ -3,6 +3,7 @@ id: 4016
 mathjax: true    
 title: 'ललितासहस्रनामं'    
 date: 2020-04-10    
+layout: samskrut-layout 
 permalink: /samskrutyatra/lalita-sahasranamam
 redirect_from: 
   - '/samskrut/lalita-sahasranamam'

@@ -3,6 +3,7 @@ id: 4014
 mathjax: true    
 title: 'चमकप्रश्नः'    
 date: 2020-04-08    
+layout: samskrut-layout 
 permalink: /samskrutyatra/chamak-prashana
 redirect_from: 
   - '/samskrut/chamak-prashana'

@@ -3,6 +3,7 @@ id: 4086
 mathjax: true    
 title: 'गुरु स्तोत्रम्'    
 date: 2020-05-07    
+layout: samskrut-layout 
 permalink: /samskrutyatra/guru-stotram
 redirect_from: 
   - '/samskrut/guru-stotram'

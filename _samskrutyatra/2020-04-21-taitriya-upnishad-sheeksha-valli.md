@@ -3,6 +3,7 @@ id: 4042
 mathjax: true    
 title: 'तैत्तिरीयोपनिषत् सस्वरा - प्रथमा शीक्षावल्ली'    
 date: 2020-04-21    
+layout: samskrut-layout 
 permalink: /samskrutyatra/taitriya-upnishad-sheeksha-valli
 redirect_from: 
   - '/samskrut/taitriya-upnishad-sheeksha-valli'

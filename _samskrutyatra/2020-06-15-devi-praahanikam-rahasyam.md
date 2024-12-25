@@ -3,6 +3,7 @@ id: 4146
 mathjax: true    
 title: 'अथ प्राधानिकं रहस्यम्'    
 date: 2020-06-15    
+layout: samskrut-layout 
 permalink: /samskrutyatra/devi-praahanikam-rahasyam
 redirect_from: 
   - '/samskrut/devi-praahanikam-rahasyam'

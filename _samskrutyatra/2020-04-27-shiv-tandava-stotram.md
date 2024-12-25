@@ -3,6 +3,7 @@ id: 4058
 mathjax: true    
 title: 'शिवतांडवस्तोत्रं'    
 date: 2020-04-27    
+layout: samskrut-layout 
 permalink: /samskrutyatra/shiv-tandava-stotram
 redirect_from: 
   - '/samskrut/shiv-tandava-stotram'

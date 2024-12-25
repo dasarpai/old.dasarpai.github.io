@@ -3,6 +3,7 @@ id: 4002
 mathjax: true
 title: 'नासदीय सूक्तं'
 date: 2019-07-29
+layout: samskrut-layout 
 permalink: /samskrutyatra/nasadiya-sukta
 redirect_from: 
   - '/samskrut/nasadiya-sukta'

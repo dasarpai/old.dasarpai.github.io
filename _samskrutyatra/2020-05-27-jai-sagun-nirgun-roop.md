@@ -3,6 +3,7 @@ id: 4131
 mathjax: true    
 title: 'जय सगुन निर्गुन रूप'    
 date: 2020-05-27    
+layout: samskrut-layout 
 permalink: /samskrutyatra/jai-sagun-nirgun-roop
 redirect_from: 
   - '/samskrut/jai-sagun-nirgun-roop'

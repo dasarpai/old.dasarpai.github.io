@@ -3,6 +3,7 @@ id: 4003
 mathjax: true
 title: 'Important Samskrut Sloka'
 date: 2019-07-30
+layout: samskrut-layout 
 permalink: /samskrutyatra/important-samskrut-sloka
 redirect_from: 
   - '/samskrut/important-samskrut-sloka'

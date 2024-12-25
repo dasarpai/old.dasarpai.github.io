@@ -3,6 +3,7 @@ id: 4130
 mathjax: true    
 title: 'श्वेताश्वतरोपनिषत्'    
 date: 2020-05-24    
+layout: samskrut-layout 
 permalink: /samskrutyatra/shvetashvatara-upanishad
 redirect_from: 
   - '/samskrut/shvetashvatara-upanishad'

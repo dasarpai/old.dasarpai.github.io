@@ -3,6 +3,7 @@ id: 4145
 mathjax: true    
 title: 'श्रीदुर्गासप्तशती - त्रयोदशोऽध्यायः'    
 date: 2020-06-14    
+layout: samskrut-layout 
 permalink: /samskrutyatra/durga-saptashati-chapter13
 redirect_from: 
   - '/samskrut/durga-saptashati-chapter13'

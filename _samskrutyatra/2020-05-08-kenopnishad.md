@@ -3,6 +3,7 @@ id: 4095
 mathjax: true    
 title: 'अथ केनोपनिषत्'    
 date: 2020-05-08    
+layout: samskrut-layout 
 permalink: /samskrutyatra/kenopnishad
 redirect_from: 
   - '/samskrut/kenopnishad'

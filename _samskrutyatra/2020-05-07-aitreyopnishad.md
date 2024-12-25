@@ -3,6 +3,7 @@ id: 4082
 mathjax: true    
 title: 'ऐतरेयोपनिषत्'    
 date: 2020-05-07    
+layout: samskrut-layout 
 permalink: /samskrutyatra/aitreyopnishad
 redirect_from: 
   - '/samskrut/aitreyopnishad'

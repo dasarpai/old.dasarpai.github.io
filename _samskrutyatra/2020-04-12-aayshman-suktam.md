@@ -3,6 +3,7 @@ id: 4018
 mathjax: true    
 title: 'आयुष्य सूक्तम्'    
 date: 2020-04-12    
+layout: samskrut-layout 
 permalink: /samskrutyatra/aayshman-suktam
 redirect_from: 
   - '/samskrut/aayshman-suktam'

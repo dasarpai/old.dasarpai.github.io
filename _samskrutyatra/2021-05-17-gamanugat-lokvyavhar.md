@@ -3,6 +3,7 @@ id: 4163
 mathjax: true    
 title: 'गमानुगतः लोकव्यवहारः (लघुकथा:)'    
 date: 2021-05-17    
+layout: samskrut-layout 
 permalink: /samskrutyatra/gamanugat-lokvyavhar
 redirect_from: 
   - '/samskrut/gamanugat-lokvyavhar'

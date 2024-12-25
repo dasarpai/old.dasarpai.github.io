@@ -3,6 +3,7 @@ id: 4118
 mathjax: true    
 title: 'जय राम सोभा धाम'    
 date: 2020-05-17    
+layout: samskrut-layout 
 permalink: /samskrutyatra/jai-raama-sobha-dham
 redirect_from: 
   - '/samskrut/jai-raama-sobha-dham'

@@ -3,6 +3,7 @@ id: 4056
 mathjax: true    
 title: 'कैवल्योपनिषत्'    
 date: 2020-04-27    
+layout: samskrut-layout 
 permalink: /samskrutyatra/kaivalopnishad
 redirect_from: 
   - '/samskrut/kaivalopnishad'

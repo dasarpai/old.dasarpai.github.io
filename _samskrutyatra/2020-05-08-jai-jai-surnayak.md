@@ -3,6 +3,7 @@ id: 4093
 mathjax: true    
 title: 'जय जय सुरनायक'    
 date: 2020-05-08    
+layout: samskrut-layout 
 permalink: /samskrutyatra/jai-jai-surnayak
 redirect_from: 
   - '/samskrut/jai-jai-surnayak'

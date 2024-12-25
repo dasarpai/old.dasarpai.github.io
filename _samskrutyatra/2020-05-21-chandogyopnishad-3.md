@@ -3,6 +3,7 @@ id: 4123
 mathjax: true    
 title: 'छान्दोग्योपनिषत् तृतीयोऽध्यायः'    
 date: 2020-05-21    
+layout: samskrut-layout 
 permalink: /samskrutyatra/chandogyopnishad-3
 redirect_from: 
   - '/samskrut/chandogyopnishad-3'

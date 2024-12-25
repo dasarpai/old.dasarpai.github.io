@@ -3,6 +3,7 @@ id: 4165
 mathjax: true    
 title: 'कर्मकर्याः दण्डं (लघुकथा:)'    
 date: 2021-05-17    
+layout: samskrut-layout 
 permalink: /samskrutyatra/punishment-of-enjoyment
 redirect_from: 
   - '/samskrut/punishment-of-enjoyment'
