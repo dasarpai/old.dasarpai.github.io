@@ -26,6 +26,8 @@ keywords: [Summary of The Autobiography of Benjamin Franklin, 13 principles of B
 
 ![The Autobiography of Benjamin Franklin](/assets/images/booksummary/7540-The-Autobiography-of-Benjamin-Franklin.jpg)
 
+# The Autobiography of Benjamin Franklin
+
 The United States of America was founded by sixteen influential individuals, commonly referred to as the Founding Fathers. These include John Adams, Samuel Adams, Benjamin Franklin, Alexander Hamilton, John Hancock, John Jay, Thomas Jefferson, Patrick Henry, Richard Henry Lee, Robert R. Livingston, James Madison, George Mason, Robert Morris, Peyton Randolph, Roger Sherman, and George Washington. They were all remarkable personalities who shaped the American Dream, and Benjamin Franklin was one of the most influential among them.
 
 Here’s a summary of "The Autobiography of Benjamin Franklin" presented in 11 key points:

@@ -16,7 +16,7 @@ layout: booksum-layout
 excerpt: "Interview Questions for Nicklas Lundblad by Professor Hannah Fry"
 author_profile: true
 share: true
-toc: false
+toc: true
 toc_sticky: false
 toc_levels: 3
 comments: true
@@ -173,6 +173,7 @@ Below is a list of direct questions posed by the interviewer (Professor Hannah F
 ### **16. Regulation vs Legislation**
 - Regulation: Refers to a broader framework for controlling or guiding the use of technology. It can involve a combination of tools such as norms, market forces, architectural design (how the technology is built), and laws.
 - Legislation: Refers specifically to laws enacted by governments or legislative bodies. Legislation is a subset of regulation and focuses on formal, legal rules and requirements.
+
 ---
 
 ## Books and Documents Discused in this Interview

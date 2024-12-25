@@ -17,7 +17,7 @@ layout: booksum-layout
 excerpt: "Interview Questions for Satya Nadella by BG2, Dec-2024. "
 author_profile: true
 share: true
-toc: false
+toc: true
 toc_sticky: false
 toc_levels: 3
 comments: true

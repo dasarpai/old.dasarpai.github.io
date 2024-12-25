@@ -17,7 +17,7 @@ layout: booksum-layout
 excerpt: "Interview Questions for Yuval Noah Harari by BeerBiceps. And My Critiques on the responses of Yuval Noah Harari"
 author_profile: true
 share: true
-toc: false
+toc: true
 toc_sticky: false
 toc_levels: 3
 comments: true
