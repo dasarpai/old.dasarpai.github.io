@@ -29,9 +29,25 @@ sidebar:
 
 ##  <font color=green> LLM</font>
 
+### Langchain - Document Summarization
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/blob/main/LLM/langchain/langchain)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Techstack-All/blob/main/LLM/Langchain/Langchain/Chroma_DB_with_Langchain-DAI.ipynb)
+
 ### Langchain Multimodal
-- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/blob/main/LLM//langchain-multimodal)
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Techstack-All/blob/main/LLM/langchain-multimodal/langchain_multimodal.ipynb)
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/blob/main/LLM/langchain/langchain-multimodal)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Techstack-All/blob/main/LLM/langchain/langchain_multimodal.ipynb)
+
+### Agentic LLM - Bee Agentic Framework 
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/Agentic-LLM/Bee-Agentic-Framework)
+
+### Agentic LLM - Create Custome Audio Summaries 
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/Agentic-LLM/Create-Custom-Audio-Summaries)
+
+### Deepseek - Evaluation 
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/Deepseek)
+
+### Mistral - function call 
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/MistralAI)
 
 ### Comet.com
 [Comet]((https://www.comet.com/site/)) Automatically track all your prompt engineering work. Run automated evaluations on your LLM responses to optimize your applications before and after they hit production.
@@ -60,11 +76,11 @@ Create and version datasets with Artifacts (Commet Artifacts)
 - [Colab llama_index](https://colab.research.google.com/github/dasarpai/DAI-Techstack-All/blob/main/LLM/comet.com/llama_index.ipynb)
 
 
-### finetune-bloom-7b
-- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/finetune-bloom-7b)
-- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Techstack-All/blob/main/LLM/finetune-bloom-7b/PEFT%20Finetune-Bloom7B-tagger.ipynb) - PEFT & bitsandbytes to finetune a LoRa 
+### BigScience/finetune-bloom-7b
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/BigScience/finetune-bloom-7b)
+- [Colab](https://colab.research.google.com/github/dasarpai/DAI-Techstack-All/blob/main/LLM/BigScience/finetune-bloom-7b/PEFT%20Finetune-Bloom7B-tagger.ipynb) - PEFT & bitsandbytes to finetune a LoRa 
 
-### finetune-llama2
+### Meta/finetune-llama2
 - [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/finetune-llama2)
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Techstack-All/blob/main/LLM/finetune-llama2/Fine-tune%20Llama%202%20in%20Google%20Colab.ipynb)
 
@@ -87,8 +103,8 @@ Create and version datasets with Artifacts (Commet Artifacts)
 ### lmstudio
 - [Qwen1.5 7b Model](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/lmstudio)
 
-### neo2.7b
-- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/neo2.7b)
+### EleutherAI - neo2.7b
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/EleutherAI/neo2.7b)
 
 ### open-webui
 - [Open WebUI](https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/open-webui)
@@ -278,6 +294,16 @@ Using deep learning model on mobile.
 -----------------------------------------------------------
 ##  <font color=green> PythonicWay</font>
 - [Readme - Python Package Development](https://github.com/dasarpai/DAI-Techstack-All/tree/main/PythonicWay/python_pkg/Readme.md)
+
+-----------------------------------------------------------
+
+##  <font color=green> API Development</font>
+
+###  <font color=green> Python and Jinja + Flask</font>
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/API-Development/Python-Jinja/readme.md)
+
+###  <font color=green> Python and FastAPI</font>
+- [Github Repo](https://github.com/dasarpai/DAI-Techstack-All/tree/main/API-Development/fastapi_example/Readme.md)
 
 -----------------------------------------------------------
 ##  <font color=green> R-Projects</font>
