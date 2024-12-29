@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
-keywords: ["Protein Folding", "Protein Science", "AI", "AlphaFold", "Revolutionizing"]
+keywords: ["Protein Folding", "Protein Science", "AI", "AlphaFold", "Revolutionizing", "Chemistry Nobel Prize 2024"]
 ---
 
 ![ Answering Big Questions with AI](/assets/images/dspost/dsp6194-How-AlphaFold-is-Revolutionizing-Protein-Science.jpg)
@@ -94,7 +94,7 @@ AlphaFold uses neural networks trained on protein sequences and their experiment
 ---
 
 ### Did AlphaFold win a Nobel Prize? What’s the story behind it? 🎉
-While AlphaFold itself hasn’t won a Nobel, its contributions are transformative. The 2023 Nobel Prize in Chemistry highlighted advancements in protein research, and AlphaFold’s innovations played a significant role in the broader recognition of AI in science.
+While AlphaFold itself alone didn't won a Nobel, it is one of the 3 receipients of Chemistry Nobel prize of 2024. The 2024 Nobel Prize in Chemistry highlighted advancements in protein research, and AlphaFold’s innovations played a significant role in the broader recognition of AI in science.
 
 ---
 
@@ -162,7 +162,8 @@ We’ve explored:
 ---
 
 ### Where can I learn more about AlphaFold and protein science? 📚
-- [DeepMind’s AlphaFold](https://deepmind.com/research/highlights/alphafold)
+- [A glimpse of the next generation of AlphaFold](hhttps://deepmind.google/discover/blog/a-glimpse-of-the-next-generation-of-alphafold/)
+- [AlphaFold 3 predicts the structure and interactions of all of life’s molecules](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
 - [The Protein Data Bank](https://www.rcsb.org/)
 - [Nobel Prize in Chemistry 2023](https://www.nobelprize.org/prizes/chemistry/2023/summary/)
 
