@@ -2,13 +2,13 @@
 mathjax: true
 id: 9264
 title: 'Quotation 264'
-date: 2024-10-24
+date: 2024-10-30
 permalink: '/quotations/who-is-pandit'
 tags: [WIA Quotations] 
 categories: 
 
 header:
-    teaser: /assets/images/quotations/quotation2624jpg
+    teaser: /assets/images/quotations/quotation264.jpg
 author: Hari Thapliyaal 
 excerpt:
 share: true 

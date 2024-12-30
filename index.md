@@ -86,31 +86,37 @@ author_profile: true
   </thead>
   <tbody>
     <tr>
-      <td><img src="/assets/images/dasarpai-qrcode.png" alt="QR Code" width="150"></td>
+      <td rowspan="4"><img src="/assets/images/dasarpai-qrcode.png" alt="QR Code" width="150"></td>
+    </tr>
+    <tr>
       <td>
-        
-        🔗
+        <b>🔗 Links</b>
         <a href="/gallery" class="alink"><img src="https://img.shields.io/badge/➡️-Gallery-red" alt="Jump to Gallery"></a>
         <a href="/datascience-courses" class="alink"><img src="https://img.shields.io/badge/➡️-AI_Services-008037" alt="Jump to AI Services"></a>
         <a href="/management" class="alink"><img src="https://img.shields.io/badge/➡️-Management_Services-008037" alt="Jump to Management Services"></a>
-        <a href="/publications-home" class="alink"><img src="https://img.shields.io/badge/➡️-Books_and_Publications-FF9A00" alt="Jump to Publications"></a>
-        <a href="/project-index-page" class="alink"><img src="https://img.shields.io/badge/➡️-Projects-8A2BE2" alt="Jump to Projects"></a>
-
-        📝
-        <a href="/dsblog" class="alink"><img src="https://img.shields.io/badge/➡️-DataScience_📝-blue" alt="Jump to AI/ML Blogs"></a>
+        <a href="/publications-home" class="alink"><img src="https://img.shields.io/badge/➡️-Books_and_Publications-A700F5" alt="Jump to Publications"></a>
+        <a href="/project-index-page" class="alink"><img src="https://img.shields.io/badge/➡️-Projects-233eb9" alt="Jump to Projects"></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>📝 Blogs</b>
+        <a href="/dsblog" class="alink"><img src="https://img.shields.io/badge/➡️-Data_Science_📝-blue" alt="Jump to AI/ML Blogs"></a>
         <a href="/pmblog" class="alink"><img src="https://img.shields.io/badge/➡️-PMLOGY_📝-5C2EDF" alt="Jump to PMLogy Blog"></a>
-        <a href="/wiaposts" class="alink"><img src="https://img.shields.io/badge/➡️-WiA_📝-9CF5E" alt="Jump to Wisdom In Awareness Blog"></a>
-        <a href="/samskrutyatra" class="alink"><img src="https://img.shields.io/badge/➡️-SanskritYatra_📝-FFF801" alt="Jump to Sanskrit Blogs"></a>
-        <a href="/booksummary" class="alink"><img src="https://img.shields.io/badge/➡️-Summary_📝-A700F5" alt="Jump to Summary of Books"></a>
-        <a href="/gk" class="alink"><img src="https://img.shields.io/badge/➡️-GK_📝-red" alt="Jump to GK Blogs"></a>
-
-        🏠
+        <a href="/wiaposts" class="alink"><img src="https://img.shields.io/badge/➡️-Wisdom_In_Awareness_📝-9CF5E" alt="Jump to Wisdom In Awareness Blog"></a>
+        <a href="/quotations" class="alink"><img src="https://img.shields.io/badge/➡️-WiA_Quotations_📝-9CF5E" alt="Jump to WiA Quotations"></a>
+        <a href="/samskrutyatra" class="alink"><img src="https://img.shields.io/badge/➡️-Samskrut_Yatra_📝-FFF801" alt="Jump to Sanskrit Blogs"></a>
+        <a href="/booksummary" class="alink"><img src="https://img.shields.io/badge/➡️-Book_Interview_Summary_📝-A700F5" alt="Jump to Summary of Books"></a>
+        <a href="/gk" class="alink"><img src="https://img.shields.io/badge/➡️-General_Knowledge_📝-red" alt="Jump to GK Blogs"></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🏠 Home Page</b>
         <a href="/wia-home" class="alink"><img src="https://img.shields.io/badge/➡️-WiA_🏠-9CF5E" alt="Jump to Wisdom In Awareness Home"></a>
         <a href="/pmlogy-home" class="alink"><img src="https://img.shields.io/badge/➡️-PMLOGY_🏠-5C2EDF" alt="Jump to PMLogy Home"></a>
         <a href="/pmbok6hi" class="alink"><img src="https://img.shields.io/badge/➡️-PMBoK_Hindi_🏠-5C2EDF" alt="Jump to PMLogy Hindi"></a>
-        <a href="/samskrutyatra-home" class="alink"><img src="https://img.shields.io/badge/➡️-SanskritYatra_🏠-FFF801" alt="Jump to Sanskrit Home"></a>
-
-        
+        <a href="/samskrutyatra-home" class="alink"><img src="https://img.shields.io/badge/➡️-SanskritYatra_🏠-FFF801" alt="Jump to Sanskrit Home"></a>        
       </td>
     </tr>
   </tbody>

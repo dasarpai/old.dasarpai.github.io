@@ -2,7 +2,7 @@
 mathjax: true
 id: 9263
 title: 'Quotation 263'
-date: 2024-10-24
+date: 2024-10-30
 permalink: '/quotations/who-is-free-in-the-world'
 tags: [WIA Quotations] 
 categories: 
