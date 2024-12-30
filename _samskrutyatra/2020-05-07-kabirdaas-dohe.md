@@ -2,7 +2,7 @@
 id: 4080    
 mathjax: true    
 title: 'कबीरदास दोहे'    
-date: 2020-05-06    
+date: 2020-05-07    
 layout: samskrut-layout 
 permalink: /samskrutyatra/kabirdaas-dohe
 redirect_from: 

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Head vs Heart
+## Detachment and Attachment
 
-![Head vs Heart](/assets/images/quotations/quotation261.jpg)
+![Detachment and Attachment](/assets/images/quotations/quotation261.jpg)

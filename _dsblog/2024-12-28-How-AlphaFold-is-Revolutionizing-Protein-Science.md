@@ -162,7 +162,7 @@ We’ve explored:
 ---
 
 ### Where can I learn more about AlphaFold and protein science? 📚
-- [A glimpse of the next generation of AlphaFold](hhttps://deepmind.google/discover/blog/a-glimpse-of-the-next-generation-of-alphafold/)
+- [A glimpse of the next generation of AlphaFold](https://deepmind.google/discover/blog/a-glimpse-of-the-next-generation-of-alphafold/)
 - [AlphaFold 3 predicts the structure and interactions of all of life’s molecules](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
 - [The Protein Data Bank](https://www.rcsb.org/)
 - [Nobel Prize in Chemistry 2023](https://www.nobelprize.org/prizes/chemistry/2023/summary/)

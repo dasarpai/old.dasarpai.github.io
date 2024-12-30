@@ -2,7 +2,7 @@
 id: 4090    
 mathjax: true    
 title: 'श्रीमद्भगवद्गीता अष्टमोऽध्यायः - अक्षरब्रह्मयोगः'    
-date: 2020-05-08    
+date: 2020-05-03    
 layout: samskrut-layout 
 permalink: /samskrutyatra/bhagwat-gita-chapter-8
 redirect_from: 

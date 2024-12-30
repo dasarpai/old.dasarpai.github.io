@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Head vs Heart
+## Your Chemistry your Choice
 
-![Head vs Heart](/assets/images/quotations/quotation262.jpg)
+![Your Chemistry your Choice](/assets/images/quotations/quotation262.jpg)

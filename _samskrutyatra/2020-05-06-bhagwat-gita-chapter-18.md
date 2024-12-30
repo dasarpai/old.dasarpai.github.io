@@ -2,7 +2,7 @@
 id: 4119    
 mathjax: true    
 title: 'श्रीमद्भगवद्गीता अथाष्टादशोऽध्यायः - मोक्षसंन्यासयोगः'    
-date: 2020-05-18    
+date: 2020-05-06    
 layout: samskrut-layout 
 permalink: /samskrutyatra/bhagwat-gita-chapter-18
 redirect_from: 

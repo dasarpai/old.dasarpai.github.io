@@ -2,7 +2,7 @@
 id: 4101    
 mathjax: true    
 title: 'श्रीमद्भगवद्गीता नवमोऽध्यायः - राजविद्याराजगुह्ययोगः'    
-date: 2020-05-09    
+date: 2020-05-03    
 layout: samskrut-layout 
 permalink: /samskrutyatra/bhagwat-gita-chapter-9
 redirect_from: 

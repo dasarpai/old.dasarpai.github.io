@@ -2,7 +2,7 @@
 id: 4070    
 mathjax: true    
 title: 'अथ द्वितीयोऽध्यायः - साङ्ख्ययोगः'    
-date: 2020-05-02    
+date: 2020-05-01    
 layout: samskrut-layout 
 permalink: /samskrutyatra/bhagwat-gita-chapter-2
 redirect_from: 
