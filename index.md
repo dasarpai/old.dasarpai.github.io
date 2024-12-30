@@ -1,6 +1,6 @@
 ---
 layout: home
-title: DasarpAI - Ek Kendra for Data Science
+title: DasarpAI
 author_profile: true
 ---
 

@@ -20,7 +20,7 @@ author_profile: true
 share: true
 toc: true
 toc_sticky: true
-toc_levels: 3
+toc_levels: 2
 comments: true
 keywords: ["curl", "command line", "web development", "HTTP", "HTTPS", "FTP"]
 ---
@@ -609,7 +609,7 @@ If you encounter any issues, double-check:
 - Correct ports (`587` for TLS or `465` for SSL).
 - Email file formatting.
 
-## Create 'FTP' server and test with 'curl'
+## Can you share example of createing 'FTP' server and testing with 'curl'
 To test **FTP** with `curl`, you can either set up a local FTP server or use a public FTP server for testing. Here's how to proceed:
 
 ---
