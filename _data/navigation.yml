@@ -22,7 +22,7 @@ main:
   - title: "Data Science"
     children:   
       - title: "Data Science Blog"
-        url: "dsblog"
+        url: "/dsblog"
       - title: "DS Resources"
         url: "/datascience-tags#ds-resources"       
       - title: "Data Science-Books"
@@ -106,7 +106,7 @@ main:
       - title: "Samskrut Blog"
         url: "/samskrutyatra"      
       - title: "Samskrut Topics"
-        url: "samskrutyatra-tags"    
+        url: "/samskrutyatra-tags"    
       - title: "My Chantings"
         url: "/samskrutyatra-tags#chanting"
    
@@ -138,7 +138,7 @@ docs:
   - title: "Data Science"
     children:   
       - title: "Data Science Blog"
-        url: "dsblog"
+        url: "/dsblog"
       - title: "DS Resources"
         url: "/datascience-tags#ds-resources"       
       - title: "Data Science-Books"
@@ -222,6 +222,6 @@ docs:
       - title: "Samskrut Blog"
         url: "/samskrutyatra"      
       - title: "Samskrut Topics"
-        url: "samskrutyatra-tags"    
+        url: "/samskrutyatra-tags"    
       - title: "My Chantings"
         url: "/samskrutyatra-tags#chanting"  
