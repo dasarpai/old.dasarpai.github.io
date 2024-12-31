@@ -106,6 +106,7 @@ author_profile: true
         <a href="/wiaposts" class="alink"><img src="https://img.shields.io/badge/➡️-Wisdom_In_Awareness_📝-9CF5E" alt="Jump to Wisdom In Awareness Blog"></a>
         <a href="/quotations" class="alink"><img src="https://img.shields.io/badge/➡️-WiA_Quotations_📝-9CF5E" alt="Jump to WiA Quotations"></a>
         <a href="/samskrutyatra" class="alink"><img src="https://img.shields.io/badge/➡️-Samskrut_Yatra_📝-FFF801" alt="Jump to Sanskrit Blogs"></a>
+        <a href="/samskrutyatra-tags#chanting" class="alink"><img src="https://img.shields.io/badge/➡️-Samskrut_Chanting_📝-FFF801" alt="Jump to Sanskrit Chanting"></a>
         <a href="/booksummary" class="alink"><img src="https://img.shields.io/badge/➡️-Book_Interview_Summary_📝-A700F5" alt="Jump to Summary of Books"></a>
         <a href="/gk" class="alink"><img src="https://img.shields.io/badge/➡️-General_Knowledge_📝-red" alt="Jump to GK Blogs"></a>
       </td>

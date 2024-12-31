@@ -24,7 +24,7 @@ share: true
     
     
     
-{% include embed-audio.html src = "/assets/mp3/017-MaheshwaraSutrani.m4a" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/017-MaheshwaraSutrani.m4a" %}     
     
 # माहेश्वर सूत्र    
 ## Maheshwara Sutrani    

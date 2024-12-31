@@ -25,7 +25,7 @@ share: true
 # लक्ष्मीनृसिंह करावलम्ब स्तोत्र     
 ## Lakshmi Nrusimha Karavalamba Stotram    
     
-{% include embed-audio.html src = "/assets/mp3/O001-LakshmiNrusimhaKaravalambaStotram.mpeg" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/O001-LakshmiNrusimhaKaravalambaStotram.mpeg" %}     
     
     
     

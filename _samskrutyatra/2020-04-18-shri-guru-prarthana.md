@@ -25,7 +25,7 @@ share: true
 #  श्रीगुरु-प्रार्थना    
 ## Shri Guru Prarthana    
     
-{% include embed-audio.html src = "/assets/mp3/033-BhavSagarTaran.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/033-BhavSagarTaran.mp3" %}     
     
 भवसागर-तारण-कारण हे । रविनन्दन-बन्धन-खण्डन हे ।।    
 शरणागत  किंकर भीत मने । गुरुदेव दया करो दीनजने ।१।    

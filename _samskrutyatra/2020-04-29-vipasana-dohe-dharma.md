@@ -25,7 +25,7 @@ share: true
 # विपासना दोहे धर्म    
 ## Vipasana Dohe- Dharma    
     
-{% include embed-audio.html src = "/assets/mp3/052-Dharma.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/052-Dharma.mp3" %}     
     
     
     

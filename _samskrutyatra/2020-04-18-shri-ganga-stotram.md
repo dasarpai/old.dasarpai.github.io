@@ -25,7 +25,7 @@ share: true
 # श्री गंगा स्तोत्रम    
 ## Shri Ganga Stotram    
     
-{% include embed-audio.html src = "/assets/mp3/034-ShriGangaStotram.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/034-ShriGangaStotram.mp3" %}     
     
 देवि सुरेश्वरि भगति गंगे त्रिभुवनतारिणि तरलतरंगे ।    
 शंकरमौलिविहारिणि विमले मम मतिरास्तां तव पदकमले ।।1।।    

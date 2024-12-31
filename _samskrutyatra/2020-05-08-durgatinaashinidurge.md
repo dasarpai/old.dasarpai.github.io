@@ -25,7 +25,7 @@ share: true
 # दुर्गतिनाशिनी दुर्गे    
 ## Durgati Naashini Durge    
     
-{% include embed-audio.html src = "/assets/mp3/025-DurgatiNaashiniDurge.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/025-DurgatiNaashiniDurge.mp3" %}     
     
 जय दुर्गतिनाशिनी दुर्गे, माँ ज्ञान- भक्ति का वर दे ।।     
 मम अँधियारे जीवन को, स्वर्णिम प्रकाश से भर दे ।।     

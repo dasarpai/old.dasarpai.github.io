@@ -24,7 +24,7 @@ share: true
     
 # आदित्यहृदयम् स्त्रोत्रं  
     
-{% include embed-audio.html src = "/assets/mp3/mp3/066-AdityaHrudyam.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/mp3/066-AdityaHrudyam.mp3" %}     
     
 ततो युद्धपरिश्रान्तं समरे चिन्तया स्थितम्।    
 रावणं चाग्रतो दृष्ट्वा युद्धाय समुपस्थितम्॥१    

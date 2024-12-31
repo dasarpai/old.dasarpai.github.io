@@ -25,7 +25,7 @@ share: true
 # मीनाक्षीस्तोत्रम्    
 ## Meenakshi Stotram    
     
-{% include embed-audio.html src = "/assets/mp3/010-meenakshiStotram.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/010-meenakshiStotram.mp3" %}     
     
 श्रीविद्ये शिववामभागनिलये श्रीराजराजार्चिते    
 श्रीनाथादिगुरुस्वरूपविभवे चिन्तामणीपीठिके ।    

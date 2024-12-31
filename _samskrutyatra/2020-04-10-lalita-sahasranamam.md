@@ -25,7 +25,7 @@ share: true
 # ललितासहस्रनामं    
 ## Lalita Sahasranamam     
     
-{% include embed-audio.html src = "/assets/mp3/012-LalitaSahasranaamStotram.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/012-LalitaSahasranaamStotram.mp3" %}     
     
 Chanting in the above Audio Starts from Dhyana Stotram    
     

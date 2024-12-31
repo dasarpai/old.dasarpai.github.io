@@ -25,7 +25,7 @@ share: true
 # बजरंग बाण    
 ## Bajarang Baan    
     
-{% include embed-audio.html src = "/assets/mp3/059-HanumanBaan.m4a" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/059-HanumanBaan.m4a" %}     
     
     
 बाल समय रवि भक्ष लियो तब तीनहुं लोक भयो अंधियारो।    

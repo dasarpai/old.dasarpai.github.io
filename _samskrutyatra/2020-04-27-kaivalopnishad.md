@@ -26,10 +26,10 @@ share: true
 ## Kaivalopnishad    
     
 Khand 1    
-{% include embed-audio.html src = "/assets/mp3/016-KaivalyopnishadKhanda1.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/016-KaivalyopnishadKhanda1.mp3" %}     
     
 Khand 2    
-{% include embed-audio.html src = "/assets/mp3/044-KaivalyopnishadKhand2.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/044-KaivalyopnishadKhand2.mp3" %}     
     
 ॥ प्रथमः खण्डः ॥ १॥    
 ॐ सहनाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै ।    

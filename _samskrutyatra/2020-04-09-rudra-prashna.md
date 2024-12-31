@@ -25,7 +25,7 @@ share: true
 #   रुद्रप्रश्नः    
 ## Rudra Prashna   
     
-{% include embed-audio.html src = "/assets/mp3/071-Rudram-19-05-21.m4a" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/071-Rudram-19-05-21.m4a" %}     
     
 ॥ शिवोपासन मन्त्राः ॥    
     

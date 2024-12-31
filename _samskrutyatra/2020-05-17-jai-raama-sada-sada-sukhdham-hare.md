@@ -25,7 +25,7 @@ share: true
 # जय राम सदा सुखधाम    
 ## Jai Raama Sada Sada Sukhdham Hare    
     
-{% include embed-audio.html src = "/assets/mp3/069-JaiRamSadaSukhdhaam.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/069-JaiRamSadaSukhdhaam.mp3" %}     
     
 When Ravana is killed by Raama then this prayer is done to Raama by Brahma. Keep in mind this is a poetic narration of “Sant Tulasidas Ji” from “Ramcharit Manas” and not an original poem from “Balmiki Ramayan”    
 जय राम सदा सुखधाम हरे। रघुनायक सायक चाप धरे।।    

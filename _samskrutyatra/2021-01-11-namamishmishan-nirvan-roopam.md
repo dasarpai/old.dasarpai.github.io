@@ -23,7 +23,7 @@ share: true
 ![](/assets/images/samskrut/Rudra.jpg)
 
 # नमामीशमीसान निर्वाणरूपं
-{% include embed-audio.html src="/assets/mp3/003-Namamish.m4a" %}
+{% include embed-audio.html src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/003-Namamish.m4a" %}
 
 नमामीशमीशान निर्वाणरूपं। विभुं व्यापकं ब्रह्मवेदस्वरूपम्।।
 

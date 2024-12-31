@@ -25,7 +25,7 @@ share: true
 # पुरुषसूक्त    
 ## Purush Suktam    
     
-{% include embed-audio.html src = "/assets/mp3/039-purushSuktam.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/039-purushSuktam.mp3" %}     
     
 अथ पुरुषसूक्तम् ॥    
 ॐ तच्छं॒ योरावृ॑णीमहे । गा॒तुं य॒ज्ञाय॑ ।    

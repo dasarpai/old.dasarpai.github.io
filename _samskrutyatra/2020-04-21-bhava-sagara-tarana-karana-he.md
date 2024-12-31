@@ -25,7 +25,7 @@ share: true
 # भवसागर तारण कारण हे    
 ## Bhava Sagara Tarana Karana He    
     
-{% include embed-audio.html src = "/assets/mp3/033-BhavSagarTaran.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/033-BhavSagarTaran.mp3" %}     
     
     
 भवसागर तारण कारण हे ।    

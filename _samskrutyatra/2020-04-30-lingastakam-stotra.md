@@ -25,7 +25,7 @@ share: true
 # लिंगाष्टकमं स्तोत्र    
 ## Lingastakam Stotra    
     
-{% include embed-audio.html src = "/assets/mp3/056-ShivLingAshtakam.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/056-ShivLingAshtakam.mp3" %}     
     
     
     

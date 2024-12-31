@@ -25,7 +25,7 @@ share: true
 # श्रीशिवपञ्चाक्षरस्तोत्रम्    
 ## Shri Shivpanchaakshari Stotram    
     
-{% include embed-audio.html src = "/assets/mp3/023-ShivPanchaAkshari.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/023-ShivPanchaAkshari.mp3" %}     
     
 नागेन्द्रहाराय त्रिलोचनाय,    
 भस्माङ्गरागाय महेश्वराय ।    

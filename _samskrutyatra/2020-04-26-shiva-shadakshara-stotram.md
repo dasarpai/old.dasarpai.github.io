@@ -25,7 +25,7 @@ share: true
 # शिवषडाक्षर स्तोत्रं    
 ## Shiva Shadakshara Stotram    
     
-{% include embed-audio.html src = "/assets/mp3/022-ShivShadaksharaStotram.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/022-ShivShadaksharaStotram.mp3" %}     
     
     
     

@@ -25,19 +25,19 @@ share: true
 # Bhajan without Text    
     
 ## Vah Vah Govid    
-{% include embed-audio.html src = "/assets/mp3/010-VahVah-Govid.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/010-VahVah-Govid.mp3" %}     
     
 ## 3 Man Ek Bar Hari Bol    
-{% include embed-audio.html src = "/assets/mp3/O009-ManEkBar-HariBol.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/O009-ManEkBar-HariBol.mp3" %}     
     
 ## Ram Ko Danda Rama    
-{% include embed-audio.html src = "/assets/mp3/O008-Ram-Ko-danda-Rama.m4a" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/O008-Ram-Ko-danda-Rama.m4a" %}     
     
 ## Janaki Saki Krupa    
-{% include embed-audio.html src = "/assets/mp3/O007-Janaki-SakiKrupa.m4a" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/O007-Janaki-SakiKrupa.m4a" %}     
     
 ## Jai Shri Ram Jai Ram Jai Jai Ram    
-{% include embed-audio.html src = "/assets/mp3/O006-Jai-ShriRam-JaiRam-JaiJaiRam.m4a" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/O006-Jai-ShriRam-JaiRam-JaiJaiRam.m4a" %}     
     
     
     

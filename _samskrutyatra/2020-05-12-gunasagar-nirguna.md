@@ -25,7 +25,7 @@ share: true
 #  गुणसागर निर्गुण परमेशा 
 ## Gunasagar Nirguna Paramesha
 
-{% include embed-audio.html src = "/assets/mp3/O003-GunasagarNirgunaParamesha.mp3" %} 
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/O003-GunasagarNirgunaParamesha.mp3" %} 
 
 I will add text very soon.
 

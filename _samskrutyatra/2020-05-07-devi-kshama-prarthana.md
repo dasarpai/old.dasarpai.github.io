@@ -25,7 +25,7 @@ share: true
 # क्षमा-प्रार्थना    
 ## Devi Kshama Prarthana    
     
-{% include embed-audio.html src = "/assets/mp3/063-DeviKshamPrarthana.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/063-DeviKshamPrarthana.mp3" %}     
     
 अपराधसहस्त्राणि क्रियन्तेऽहर्निशं मया।    
 दासोऽयमिति मां मत्वा क्षमस्व परमेश्‍वरि॥१॥    

@@ -25,8 +25,8 @@ share: true
 # देवी अपराध क्षमापन स्तोत्रं    
 ## Devi Aparaadh Kshamapan Stotram    
     
-{% include embed-audio.html src = "/assets/mp3/032-DeviApradhKshamapanStotram1.mp3" %}     
-{% include embed-audio.html src = "/assets/mp3/032-DeviApradhKshamapanStotram2.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/032-DeviApradhKshamapanStotram1.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/032-DeviApradhKshamapanStotram2.mp3" %}     
     
 न मन्त्रं नो यन्त्रं तदापि च न जाने स्तुतिमहो    
 न चाह्वानं ध्यानं तदापि च न जाने स्तुतिकथाः ।    

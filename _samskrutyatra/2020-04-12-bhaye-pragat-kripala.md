@@ -23,7 +23,7 @@ share: true
 ![](/assets/images/samskrut/dRamcharaitMaanas.png)    
     
     
-{% include embed-audio.html src = "/assets/mp3/002-BhayaPragatKrupala.m4a" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/002-BhayaPragatKrupala.m4a" %}     
     
 # भए प्रगट कृपाला    
 ## Bhaye Pragat Kripala    

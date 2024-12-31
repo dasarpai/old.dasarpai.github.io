@@ -25,7 +25,7 @@ share: true
 # हनुमान चालीसा     
 ## Hanuman Chalisa  
     
-{% include embed-audio.html src = "/assets/mp3/058-HanumanChalisa.m4a" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/058-HanumanChalisa.m4a" %}     
     
   
     

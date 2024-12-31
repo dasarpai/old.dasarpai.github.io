@@ -24,7 +24,7 @@ share: true
     
     
     
-{% include embed-audio.html src = "/assets/mp3/067-JairamSobhaDham.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/067-JairamSobhaDham.mp3" %}     
     
 # जय राम सोभा धाम    
 ## Jai Raama Sobha Dham    

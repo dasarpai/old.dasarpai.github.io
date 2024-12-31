@@ -23,7 +23,7 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)    
      
     
-{% include embed-audio.html src = "/assets/mp3/019-AnnapurnaStotram.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/019-AnnapurnaStotram.mp3" %}     
     
     
 # अन्नपूर्णा स्तोत्रम्    

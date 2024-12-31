@@ -25,7 +25,7 @@ share: true
 # शंकराय मंगलं     
 ## Shankarya Mangalam    
     
-{% include embed-audio.html src = "/assets/mp3/ShankaryaMangalam.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/ShankaryaMangalam.mp3" %}     
     
 शंकराय शंकराय शंकराय मंगलम ।     
 शंकरा मनोहराय शाश्वताय मंगलम् ॥     

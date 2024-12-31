@@ -26,7 +26,7 @@ share: true
 ## Mahishasur Mardini     
 
     
-{% include embed-audio.html src = "/assets/mp3/021-MahishasurMardini.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/021-MahishasurMardini.mp3" %}     
     
 अयि गिरिनन्दिनि नन्दितमेदिनि विश्वविनोदिनि नन्दिनुते    
 गिरिवरविन्ध्यशिरोऽधिनिवासिनि विष्णुविलासिनि जिष्णुनुते ।    

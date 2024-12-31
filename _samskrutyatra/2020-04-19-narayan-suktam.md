@@ -25,7 +25,7 @@ share: true
 # नारायणसूक्तम्    
 ## Narayan Suktam  
     
-{% include embed-audio.html src = "/assets/mp3/036-narayanSuktam.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/036-narayanSuktam.mp3" %}     
          
 सहस्रशीर्षं देवं विश्वाक्षं विश्वशम्भुवम् ।    
 विश्वं नारायणं देवं अक्षरं परमं पदम् ।    

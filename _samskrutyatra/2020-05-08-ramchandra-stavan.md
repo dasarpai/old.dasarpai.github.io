@@ -25,7 +25,7 @@ share: true
 # रामचन्द्र स्तवन    
 ## Ramchandra Stavan    
     
-{% include embed-audio.html src = "/assets/mp3/026-RamchandraStavan.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/026-RamchandraStavan.mp3" %}     
     
 श्रीरामचंद्र कृपालु भजमन हरण भाव भय दारुणम् ।    
 नवकंज लोचन, कंज मुख, कर कंज, पद कन्जारुणम ॥1॥    
