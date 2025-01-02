@@ -351,7 +351,7 @@ pagination:
 # Plugins (previously gems:)
 plugins:
   #- jekyll-paginate
-  - jekyll-paginate-v2
+  # - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
