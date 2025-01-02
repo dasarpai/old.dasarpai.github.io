@@ -313,8 +313,8 @@ This domain includes businesses involved in publishing content across print, dig
 ### Media+Publication-TWSV - Talk with Swami Vivekananda
 - [Github Repo](https://github.com/dasarpai/Media-Publication-TWSV/tree/main/ChatGPT) - This is Educational GPT on ChatGPT. It is based on the 8 volumes of complete works of Swami Vivekananda.
 
-### Youtube - to - MP3 - Text Transcription - Hindi and English
-- [Github Repo](https://github.com/dasarpai/DAI-mp3) - In this project we are trying to transcribe English or Hindi language youtube video into Latin script. Multiple api's and tools were tried to evalute the performace, costing and accuracy. It is **WIP project** and as technology upgrade happens I will keep updating this project.
+### Summarising A Long Hindi Audio into Different English Audio
+- [Github Repo](https://github.com/dasarpai/Summarising-Long-Hindi-Audio-into-Short-English-Audio) - This project is designed to take a long Hindi Video (e.g., a YouTube video) and summarize it into one English Summary audio. 
 
 ### Fakenews-Detection
 - [Github Repo](https://github.com/dasarpai/DAI-Projects-All/tree/main/Media%2BPublication/Fakenews-Detection){:TARGET="_BLANK"}

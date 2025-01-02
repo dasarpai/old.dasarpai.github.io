@@ -711,7 +711,7 @@ collections:
     permalink: /gk1/:categories/:title/
 
   booksummary:
-    output: true
+    output: false
     permalink: /booksummary1/:categories/:title/
 
   corpus:
@@ -733,14 +733,14 @@ collections:
     permalink: /dscourses1/:categories/:title/
     
   quotations:
-    output: true
+    output: false
     permalink: /quotations1/:categories/:title/
   wiablog:
-    output: true
+    output: false
     permalink: /wiablog1/:categories/:title/
  
   pmblog:
-    output: true
+    output: false
     permalink: /pmblog1/:categories/:title/
   management:
     output: true
@@ -753,7 +753,7 @@ collections:
     permalink: /pmbok6hi1/:categories/:title/
 
   samskrutyatra:
-    output: true
+    output: false
     permalink: /samskrutyatra1/:categories/:title/
     
   gallery:
@@ -761,5 +761,9 @@ collections:
     permalink: /gallery1/:categories/:title/
 
   projects:
-    output: true
+    output: false
     permalink: /projects1/:categories/:title/
+
+# Footer scripts
+footer_scripts:
+  - /assets/js/custom.js
