@@ -184,3 +184,199 @@
     list-style-type: none !important;
     list-style-image: none !important;
 }
+
+/* Navigation Styles */
+.greedy-nav {
+    position: relative;
+    display: flex;
+    align-items: center;
+    background: #fff;
+}
+
+.greedy-nav .visible-links {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.greedy-nav .visible-links li {
+    position: relative;
+    list-style: none;
+}
+
+/* Remove default list styles */
+.greedy-nav ul,
+.greedy-nav li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic link styles */
+.greedy-nav a {
+    display: block;
+    padding: 1rem;
+    color: #494e52;
+    text-decoration: none;
+}
+
+/* Dropdown arrow */
+.dropdown-arrow {
+    display: inline-block;
+    margin-left: 0.5em;
+    transition: transform 0.3s ease;
+}
+
+/* Submenu styles */
+.submenu,
+.submenu-child {
+    display: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Desktop submenu positioning */
+@media screen and (min-width: 769px) {
+    .submenu,
+    .submenu-child {
+        position: absolute;
+        background: #fff;
+        min-width: 200px;
+        box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+        z-index: 20;
+    }
+
+    .submenu {
+        top: 100%;
+        left: 0;
+    }
+
+    .submenu-child {
+        top: 0;
+        left: 100%;
+    }
+
+    .has-dropdown:hover > .submenu {
+        display: block;
+    }
+
+    .submenu li:hover > .submenu-child {
+        display: block;
+    }
+}
+
+/* Burger menu styles */
+.greedy-nav .hidden {
+    display: none;
+}
+
+.greedy-nav__toggle {
+    background-color: transparent;
+    border: 0;
+    padding: 0.5em;
+    cursor: pointer;
+}
+
+/* Mobile menu styles */
+@media screen and (max-width: 768px) {
+    .greedy-nav .visible-links {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: #fff;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        flex-direction: column;
+        width: 100%;
+        z-index: 99;
+    }
+
+    .greedy-nav.show-links .visible-links {
+        display: flex;
+    }
+
+    .greedy-nav .visible-links li {
+        width: 100%;
+        border-top: 1px solid #f2f3f3;
+    }
+
+    /* Mobile submenu styles */
+    .submenu,
+    .submenu-child {
+        position: static;
+        width: 100%;
+        background: #f8f9fa;
+        box-shadow: none;
+        padding-left: 1.5em;
+    }
+
+    .submenu.show,
+    .submenu-child.show {
+        display: block;
+    }
+
+    /* Rotate arrow when submenu is open */
+    .menu-toggle.active .dropdown-arrow,
+    .submenu-toggle.active .dropdown-arrow {
+        transform: rotate(180deg);
+    }
+
+    /* Style for toggle buttons */
+    .menu-toggle,
+    .submenu-toggle {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        padding: 1em;
+        background: transparent;
+        border: none;
+        cursor: pointer;
+    }
+}
+
+/* Animation for burger menu toggle */
+.navicon {
+    position: relative;
+    width: 1.5em;
+    height: 0.25em;
+    background: #494e52;
+    margin: auto;
+    transition: 0.3s;
+}
+
+.navicon:before,
+.navicon:after {
+    content: "";
+    position: absolute;
+    width: 1.5em;
+    height: 0.25em;
+    background: #494e52;
+    transition: 0.3s;
+}
+
+.navicon:before {
+    top: -0.5em;
+}
+
+.navicon:after {
+    bottom: -0.5em;
+}
+
+.greedy-nav__toggle.close .navicon {
+    background: transparent;
+}
+
+.greedy-nav__toggle.close .navicon:before {
+    transform: rotate(-45deg);
+    top: 0;
+}
+
+.greedy-nav__toggle.close .navicon:after {
+    transform: rotate(45deg);
+    bottom: 0;
+}
