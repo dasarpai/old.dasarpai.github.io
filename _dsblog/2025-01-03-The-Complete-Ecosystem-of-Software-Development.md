@@ -20,7 +20,7 @@ author_profile: true
 share: true
 toc: true
 toc_sticky: true
-toc_levels: 2
+toc_levels: 3
 comments: true
 keywords: ["software development", "SDLC", "software engineering"]
 ---
@@ -30,6 +30,12 @@ keywords: ["software development", "SDLC", "software engineering"]
 # The Complete Ecosystem of Software Development
 
 Software processes are a fascinating area because they encapsulate not just the technical aspects but also the collaborative, creative, and even philosophical dimensions of how we build and deliver software. The discussion touches on everything from the foundational coding practices to advanced topics like sustainability, emerging technologies, and human dynamics within development teams. The list of processes, subprocesses, and tools makes sense for those who have been in the software development and maintenance business for quite some time. Even with decades of experience, you will find this list interesting to read, showing how far we have come from the early 80's or 90's software development.
+
+## The Software Development Ecosystem in NotebookLM PodCast Format
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/Transcripts-2-Audio/The-Software-Development-Ecosystem.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
 
 ## What makes these processes so fascinating?
 
