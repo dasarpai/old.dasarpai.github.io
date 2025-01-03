@@ -1,0 +1,186 @@
+/* Custom Navigation Styles */
+.masthead .visible-links,
+.masthead .dropdown-menu,
+.masthead .dropdown-submenu {
+    list-style-type: none !important;
+    list-style-image: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.masthead .visible-links li,
+.masthead .dropdown-menu li,
+.masthead .dropdown-submenu li {
+    list-style-type: none !important;
+    list-style-image: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.masthead__menu-item.has-dropdown {
+    position: relative !important;
+}
+
+.masthead .dropdown-toggle {
+    cursor: pointer;
+    padding: 0.5em 1em;
+    color: inherit;
+    text-decoration: none;
+    display: block;
+    position: relative;
+    white-space: nowrap;
+}
+
+.masthead .dropdown-arrow {
+    display: inline-block;
+    margin-left: 0.5em;
+    font-size: 0.7em;
+    transition: transform 0.2s ease;
+}
+
+.masthead .dropdown-toggle.active .dropdown-arrow {
+    transform: rotate(180deg);
+}
+
+.masthead .dropdown-menu,
+.masthead .dropdown-submenu {
+    display: none;
+    position: absolute;
+    background: #fff;
+    min-width: 200px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    border-radius: 4px;
+    z-index: 1000;
+}
+
+.masthead .dropdown-menu {
+    top: 100%;
+    left: 0;
+}
+
+.masthead .dropdown-submenu {
+    top: 0;
+    left: 100%;
+}
+
+.masthead .dropdown-menu li,
+.masthead .dropdown-submenu li {
+    position: relative;
+    margin: 0 !important;
+    padding: 0 !important;
+    display: block;
+    background: none !important;
+}
+
+.masthead .dropdown-menu li:before,
+.masthead .dropdown-submenu li:before {
+    display: none !important;
+}
+
+.masthead .dropdown-menu a,
+.masthead .dropdown-submenu a {
+    display: block !important;
+    padding: 0.7em 1em !important;
+    color: #333 !important;
+    text-decoration: none !important;
+    white-space: nowrap !important;
+    font-size: 0.9em !important;
+    background: none !important;
+}
+
+.masthead .dropdown-menu a:hover,
+.masthead .dropdown-submenu a:hover {
+    background-color: #f5f5f5 !important;
+    color: #000 !important;
+}
+
+/* Show dropdown when active */
+.masthead .masthead__menu-item.has-dropdown.active > .dropdown-menu,
+.masthead .dropdown-menu li.active > .dropdown-submenu {
+    display: block !important;
+}
+
+/* Ensure navigation container allows overflow */
+.masthead__menu {
+    overflow: visible !important;
+}
+
+.greedy-nav {
+    overflow: visible !important;
+    z-index: 1000;
+}
+
+/* Style for nested items */
+.masthead .dropdown-menu .dropdown-toggle {
+    padding-right: 2em !important;
+}
+
+/* Mobile styles */
+@media screen and (max-width: 768px) {
+    .masthead .dropdown-menu,
+    .masthead .dropdown-submenu {
+        position: static !important;
+        width: 100% !important;
+        box-shadow: none !important;
+        border-radius: 0 !important;
+        background-color: #f9f9f9 !important;
+    }
+    
+    .masthead .dropdown-menu {
+        padding-left: 1.5em !important;
+    }
+    
+    .masthead .dropdown-submenu {
+        padding-left: 1.5em !important;
+    }
+    
+    .masthead .dropdown-toggle {
+        width: 100% !important;
+        text-align: left !important;
+    }
+
+    .masthead .masthead__menu-item {
+        display: block !important;
+        width: 100% !important;
+    }
+}
+
+/* Fix for masthead menu items */
+.masthead .masthead__menu-item {
+    list-style: none !important;
+    list-style-type: none !important;
+    list-style-image: none !important;
+    margin: 0 !important;
+}
+
+.masthead .masthead__menu-item a {
+    text-decoration: none !important;
+}
+
+/* Ensure proper spacing in the navigation */
+.masthead .visible-links > li {
+    display: inline-block !important;
+    vertical-align: middle !important;
+}
+
+/* Adjust the main navigation items */
+.masthead .visible-links > li > a {
+    position: relative !important;
+    display: block !important;
+    padding: 1em !important;
+    color: inherit !important;
+}
+
+/* Additional overrides for list styles */
+.masthead ul,
+.masthead ul li,
+.masthead .visible-links,
+.masthead .visible-links li,
+.masthead .dropdown-menu,
+.masthead .dropdown-menu li,
+.masthead .dropdown-submenu,
+.masthead .dropdown-submenu li {
+    list-style: none !important;
+    list-style-type: none !important;
+    list-style-image: none !important;
+}

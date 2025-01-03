@@ -1,0 +1,100 @@
+/* Override navigation styles */
+.greedy-nav .visible-links {
+    display: flex !important;
+    flex-direction: row !important;
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.greedy-nav .visible-links li {
+    position: relative !important;
+    list-style: none !important;
+    list-style-type: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.greedy-nav .visible-links li:before {
+    display: none !important;
+}
+
+.greedy-nav .visible-links li a {
+    position: relative !important;
+    display: block !important;
+    padding: 1em !important;
+    text-decoration: none !important;
+}
+
+.greedy-nav .visible-links li ul {
+    display: none !important;
+    position: absolute !important;
+    top: 100% !important;
+    left: 0 !important;
+    min-width: 200px !important;
+    background: #fff !important;
+    border: 1px solid #f2f3f3 !important;
+    border-radius: 4px !important;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1) !important;
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0.5em 0 !important;
+    z-index: 9999 !important;
+}
+
+.greedy-nav .visible-links li ul li {
+    display: block !important;
+    border: 0 !important;
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.greedy-nav .visible-links li ul li a {
+    display: block !important;
+    padding: 0.5em 1em !important;
+    color: #494e52 !important;
+    text-decoration: none !important;
+    font-size: 0.9em !important;
+    font-weight: normal !important;
+    white-space: nowrap !important;
+}
+
+.greedy-nav .visible-links li ul li a:hover {
+    background: #f2f3f3 !important;
+}
+
+.greedy-nav .visible-links li.active > ul,
+.greedy-nav .visible-links li:hover > ul {
+    display: block !important;
+}
+
+/* Nested submenu */
+.greedy-nav .visible-links li ul li ul {
+    left: 100% !important;
+    top: 0 !important;
+}
+
+/* Mobile styles */
+@media screen and (max-width: 768px) {
+    .greedy-nav .visible-links {
+        flex-direction: column !important;
+    }
+
+    .greedy-nav .visible-links li ul,
+    .greedy-nav .visible-links li ul li ul {
+        position: static !important;
+        box-shadow: none !important;
+        border: none !important;
+        padding-left: 1.5em !important;
+        background: transparent !important;
+    }
+
+    .greedy-nav .visible-links li ul li a {
+        padding-left: 2em !important;
+    }
+
+    .greedy-nav .visible-links li ul li ul li a {
+        padding-left: 3em !important;
+    }
+}

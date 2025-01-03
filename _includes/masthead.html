@@ -13,12 +13,45 @@
         </a>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
-            <li class="masthead__menu-item">
-              <a
-                href="{{ link.url | relative_url }}"
-                {% if link.description %} title="{{ link.description }}"{% endif %}
-                {% if link.target %} target="{{ link.target }}"{% endif %}
-              >{{ link.title }}</a>
+            <li class="masthead__menu-item{% if link.children %} has-dropdown{% endif %}">
+              {% if link.children %}
+                <a href="javascript:void(0);" class="dropdown-toggle">
+                  {{ link.title }}
+                  <span class="dropdown-arrow">▼</span>
+                </a>
+                <ul class="dropdown-menu">
+                  {% for child in link.children %}
+                    <li>
+                      {% if child.children %}
+                        <a href="javascript:void(0);" class="dropdown-toggle">
+                          {{ child.title }}
+                          <span class="dropdown-arrow">▼</span>
+                        </a>
+                        <ul class="dropdown-submenu">
+                          {% for grandchild in child.children %}
+                            <li>
+                              <a href="{{ grandchild.url | relative_url }}"
+                                {% if grandchild.description %} title="{{ grandchild.description }}"{% endif %}
+                                {% if grandchild.target %} target="{{ grandchild.target }}"{% endif %}
+                              >{{ grandchild.title }}</a>
+                            </li>
+                          {% endfor %}
+                        </ul>
+                      {% else %}
+                        <a href="{{ child.url | relative_url }}"
+                          {% if child.description %} title="{{ child.description }}"{% endif %}
+                          {% if child.target %} target="{{ child.target }}"{% endif %}
+                        >{{ child.title }}</a>
+                      {% endif %}
+                    </li>
+                  {% endfor %}
+                </ul>
+              {% else %}
+                <a href="{{ link.url | relative_url }}"
+                  {% if link.description %} title="{{ link.description }}"{% endif %}
+                  {% if link.target %} target="{{ link.target }}"{% endif %}
+                >{{ link.title }}</a>
+              {% endif %}
             </li>
           {%- endfor -%}
         </ul>
