@@ -1,5 +1,6 @@
 main:  
   - title: "Home"
+    url: "/"
     children:
       - title: "About Me"
         url: "/aboutme"
@@ -20,6 +21,7 @@ main:
       - title: "History Corpus"
         url: "/corpus-home"
   - title: "Data Science"
+    url: "/dsblog"
     children:   
       - title: "Data Science Blog"
         url: "/dsblog"
@@ -36,6 +38,7 @@ main:
       - title: "Data Science Topics"
         url: "/datascience-tags" 
   - title: "Project Management"
+    url: "/pmlogy-home"
     children:
       - title: "PMLOGY Home"
         url: "/pmlogy-home"
@@ -67,8 +70,9 @@ main:
             url: "/pmbok6hi-summary"
           - title: "PMBOK6 Hindi Explorer"
             url: "/pmbok6hi"
-  - title: "SpiritualDrops"
-    children:
+   - title: "SpiritualDrops"
+     url: "/wia-home"
+     children:
       - title: "WIA Home"
         url: "/wia-home"
       - title: "WIA Blog"
@@ -83,8 +87,19 @@ main:
         url: "/gk-tags" 
       - title: "Book Summary"
         url: "/booksummary"           
-  - title: "Gallery"
-    children:
+   - title: "Samskrut"
+     url: "/samskrutyatra-home"
+     children:
+      - title: "SamskrutYatra Home"
+        url: "/samskrutyatra-home" 
+      - title: "Samskrut Blog"
+        url: "/samskrutyatra"      
+      - title: "Samskrut Topics"
+        url: "/samskrutyatra-tags"    
+      - title: "My Chantings"
+        url: "/samskrutyatra-tags#chanting"
+   - title: "Gallery"
+     children:
       - title: "Online AI Classes 1"
         url: "/slider-online-sessions1"
       - title: "Online AI Classes 2"
@@ -99,16 +114,7 @@ main:
         url: "/slider-pm-workshops"
       - title: "My Photos"
         url: "/slider-my-photos"
-  - title: "Samskrut"
-    children:
-      - title: "SamskrutYatra Home"
-        url: "/samskrutyatra-home" 
-      - title: "Samskrut Blog"
-        url: "/samskrutyatra"      
-      - title: "Samskrut Topics"
-        url: "/samskrutyatra-tags"    
-      - title: "My Chantings"
-        url: "/samskrutyatra-tags#chanting"
+
    
 
 
