@@ -15,12 +15,14 @@ classes: wide
 header:
   overlay_image: /assets/images/banners/wia-banner.jpg
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
+  teaser: /assets/images/banners/wia-thumbnail.jpg
 excerpt: "These Quotations come from my reflection from the surface of lake called life. Great teachers like Mahatama Buddha, Lao Tzu, Adi Shankara, Ramakrushna Paramhamsa, Swami Vivekananda, Ramana Maharshi, J D Krishnamurthi, Osho, Sadguru, Swami Dayananda Sarawati, Swami Parmarthananda have shaped my mind and intellect"
 
 author_profile: false
 last_modified_at: 2019-08-27T15:46:43-04:00
 
 sort_order : reverse   
+
 ---
 
 # Welcome to Wisdom in Awareness Quotations!
@@ -32,6 +34,3 @@ WIA Quotations are my efforts to help my surroundings to think, and think differ
 Join me on this journey of intellectual liberation, where the power of thought becomes a lamp in a deep dark forest guiding you towards a more profound understanding of yourself and the world around you.
 
 >> On a mission to help those who are suffering their own existence because of their own restless mind! 
-
-
-

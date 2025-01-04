@@ -9,8 +9,9 @@ entries_layout: grid
 author_profile: false
 classes: wide
 header:
-  overlay_image: /assets/images/samskrut/MySamskrutYatra-min.jpg
+  overlay_image: /assets/images/banners/SamskrutYatra-banner.jpg
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
+  teaser: /assets/images/banners/SamskrutYatra-thumbnail.jpg
 sidebar:
    nav: "docs"
    

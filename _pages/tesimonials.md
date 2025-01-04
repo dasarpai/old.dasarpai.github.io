@@ -9,9 +9,9 @@ date: 2020-09-08
 tags: [Voice of Customer, Testimonials]
 excerpt: "Image : Gallery"
 header:
-  overlay_image: /assets/images/banners/Customer-feedback.jpg
+  overlay_image: /assets/images/banners/Customer-feedback-Banner.jpg
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
-
+  teaser: /assets/images/banners/Customer-feedback-thumnail.jpg
 author_profile: true
 last_modified_at: 2022-09-11T15:46:43-04:00
 mathjax: "true"

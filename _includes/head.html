@@ -8,13 +8,7 @@
 <meta property="og:site_name" content="{{ site.title }}" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}" />
-{% if page.header.teaser %}
-<meta property="og:image" content="{{ site.url }}{{ page.header.teaser }}" />
-{% elsif page.header.image %}
-<meta property="og:image" content="{{ site.url }}{{ page.header.image }}" />
-{% elsif site.og_default_image %}
-<meta property="og:image" content="{{ site.url }}{{ site.og_default_image }}" />
-{% endif %}
+<meta property="og:image" content="{% if page.header.teaser %}{{ site.url }}{{ page.header.teaser }}{% elsif page.header.overlay_image %}{{ site.url }}{{ page.header.overlay_image }}{% else %}{{ site.url }}{{ site.teaser }}{% endif %}" />
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
