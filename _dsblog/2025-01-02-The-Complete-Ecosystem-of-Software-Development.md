@@ -2,7 +2,7 @@
 mathjax: true
 id: 6196
 title: "The Complete Ecosystem of Software Development"
-date: 2025-01-03
+date: 2025-01-02
 permalink: /dsblog/the-complete-ecosystem-of-software-development
 tags:
   - software development

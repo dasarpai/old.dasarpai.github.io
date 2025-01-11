@@ -270,7 +270,7 @@ This sector covers the creation/production, distribution, and consumption of med
 - [Github Repo](https://github.com/dasarpai/DAI-Projects-All/tree/main/Entertainment%2BGames%2BSports/Olympic-QA-System-with-GPT){:TARGET=""_BLANK""}
 - [Colab - Collect Data](https://colab.research.google.com/github/dasarpai/DAI-Projects-All/blob/main/Entertainment%2BGames%2BSports/Olympic-QA-System-with-GPT/olympics-1-collect-data.ipynb){:TARGET=""_BLANK""}
 - [Colab - Create QA Dataset](https://colab.research.google.com/github/dasarpai/DAI-Projects-All/blob/main/Entertainment%2BGames%2BSports/Olympic-QA-System-with-GPT/olympics-2-create-qa.ipynb){:TARGET="_BLANK"}
------------------------------------------------------------
+
 
 # <font color=green>Media and Publication</font>
 This domain includes businesses involved in publishing content across print, digital, and broadcast formats. It covers books, news, newspapers, magazines, digital media platforms, and content creation and distribution.
