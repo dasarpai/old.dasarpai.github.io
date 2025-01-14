@@ -94,6 +94,5 @@ keywords: ["AI predictions", "software development", "artificial intelligence"]
 ### **15. AI Compute and Applications**
 - GPU power will increase more and they will become cheaper and widely available for local AI workloads.
 
-## 
 ## Related Readings
 My 2020, article on [100+ AI Usecase](/dsblog/100+High-Level-AI-Usecases)

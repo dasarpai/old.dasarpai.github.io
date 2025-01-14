@@ -187,8 +187,80 @@ By automating tasks in industries facing labor shortages, such as manufacturing 
 Isaac GR00T is NVIDIA's general-purpose foundation model for humanoid robots. It enables robots to learn tasks through imitation learning by observing human actions, facilitating the development of skills like coordination and dexterity. 
 
 ##  **How do "virtual environments" accelerate robot training? Can you tell some technologies and examples?**
-Virtual environments, like NVIDIA's Isaac Sim and Omniverse, provide realistic simulations where robots can practice tasks without physical constraints. These platforms allow for rapid iteration and testing, reducing the time and cost associated with real-world training. 
+Virtual environments, like NVIDIA's "Isaac Sim" and Omniverse, provide realistic simulations where robots can practice tasks without physical constraints. These platforms allow for rapid iteration and testing, reducing the time and cost associated with real-world training. 
 
+## **What is NVIDIA OmniVerse?**
+NVIDIA Omniverse is a powerful, open platform designed for 3D simulation and collaborative design, enabling individuals and teams to create, simulate, and optimize 3D content in real-time. It integrates tools and workflows across various industries, including gaming, film, architecture, engineering, manufacturing, and robotics.
+
+### Key Features of NVIDIA Omniverse:
+
+1. **Real-Time Collaboration:**
+   - Allows multiple users to work simultaneously on 3D projects in a shared virtual space.
+   - Supports live updates, enabling seamless collaboration across teams.
+
+2. **Universal Scene Description (USD):**
+   - Built on Pixar's USD framework, which acts as a common language for 3D data exchange.
+   - Enables interoperability across different 3D design tools like Autodesk Maya, Blender, and Adobe Substance.
+
+3. **Physically Accurate Simulations:**
+   - Powered by NVIDIA RTX technology, offering realistic rendering with ray tracing and path tracing.
+   - Provides real-world physics simulation for materials, lighting, and dynamics.
+
+4. **AI Integration:**
+   - Includes AI tools for automating repetitive tasks, enhancing productivity, and generating assets (e.g., textures or environments).
+   - Features Omniverse Audio2Face, an AI tool for animating facial expressions from audio input.
+
+5. **Scalable Infrastructure:**
+   - Can run on individual workstations, enterprise data centers, or cloud services.
+   - Compatible with NVIDIA GPUs for optimal performance.
+
+6. **Digital Twin Creation:**
+   - Enables building digital twins of real-world environments, devices, or processes.
+   - Facilitates simulation, testing, and optimization before physical implementation.
+
+7. **Extensibility:**
+   - Developers can create custom extensions or applications using the Omniverse Kit.
+   - Supports scripting and integration with other software pipelines.
+
+8. **Industry Applications:**
+   - **Entertainment:** Virtual production, visual effects, and animation.
+   - **Manufacturing:** Designing and simulating factory layouts and robotics.
+   - **Architecture:** Real-time visualization and design collaboration.
+   - **Robotics:** Training AI models in simulated environments.
+
+### Popular Omniverse Applications:
+- **Omniverse Create:** For designing and visualizing 3D environments.
+- **Omniverse View:** For high-quality rendering and presentation of 3D content.
+- **Omniverse Machinima:** For creating cinematic animations using game assets.
+- **Omniverse Isaac:** For robotics simulation and training.
+
+
+
+**Side Note**   
+The metaverse is a virtual world where people can interact with each other and the environment using virtual reality (VR), augmented reality (AR), and other technologies. It's a place where people can work, play, learn, and shop.
+
+The multiverse is a hypothetical collection of all universes, including the space, time, matter, energy, and physical laws that exist within them. The term is used to describe the idea that there may be other universes beyond the observable universe that we can observe.
+
+Omniverse is a concept that consists of everything from Multiverses to Metaverses. It is the largest existing concept in the technological world that includes all elements of Multiverses and Metaveverses.
+
+## **What is NVIDIA Cosmos?**
+NVIDIA Cosmos is a platform designed to accelerate the development of physical AI systems, such as autonomous vehicles and robots. It offers a suite of generative world foundation models (WFMs) capable of producing realistic, physics-aware video simulations. These simulations are essential for training AI models, enabling them to understand and navigate real-world environments more effectively. 
+
+Introduced at CES 2025, Cosmos provides developers with open access to these advanced models under NVIDIA's permissive open-source license. This approach democratizes AI technology, allowing researchers and developers to utilize these tools without significant entry costs. 
+
+Key features of NVIDIA Cosmos include:
+
+- **Physics-Aware Video Generation**: The platform can generate realistic simulations of the physical world, crucial for training robots and autonomous vehicles. 
+
+- **Synthetic Data Generation**: Cosmos can create vast amounts of synthetic data to augment real-world datasets, improving the training of AI agents. 
+
+- **Simulation and Testing**: It enables developers to test and debug their AI models in virtual environments before deploying them in the real world. 
+
+- **Reinforcement Learning**: The models can be used for reinforcement learning, allowing AI agents to learn and improve their performance in virtual worlds. 
+
+By leveraging Cosmos, developers can accelerate the creation and deployment of AI systems, reducing reliance on costly real-world testing and enhancing the safety and efficiency of autonomous technologies.
+
+ 
 ##  **What is the "sim-to-real" (transferring virtual training to real-world) gap, and how can it be addressed?**
 The "sim-to-real" gap refers to the challenges robots face when applying skills learned in simulation to real-world scenarios. Techniques like domain randomization, where varied virtual conditions are simulated, help robots generalize their learning to real environments. 
 
@@ -294,6 +366,7 @@ Here’s a list of NVIDIA’s major GPU architectures, along with their key inno
 
 
 ### Summary of Architectures and Series
+
 | **Architecture** | **Key GPUs**         | **Main Focus**                    |
 |-------------------|----------------------|------------------------------------|
 | Tesla             | GTX 200 Series      | Early CUDA and GPGPU focus        |
