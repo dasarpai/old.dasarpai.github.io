@@ -129,7 +129,7 @@ When working on a project that leverages Large Language Models (LLMs), selecting
 
 ---
 
-## ips for Choosing the Right Prompt Type
+## Tips for Choosing the Right Prompt Type
 
 1. **Define Your Objective:** Clearly outline what you aim to achieve with the LLM in your project.
 2. **Understand Your Data:** Analyze the type and structure of the data you’re working with.
