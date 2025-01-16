@@ -27,35 +27,68 @@ mathjax: "true"
    
 ## XAI in Simple Language!   
    
-The disciple of Data Science and AI has brought many terms in the boardroom for discussion, which looks complicated. In reality, many of these terms are so simple and obvious from a natural intelligence perspective that once we know it we feel it is very simple. But from the technology perspective, they are really complicated. To understand the XAI we will use one example below.
+The discipline of Data Science and AI has introduced many terms into discussions that might seem complicated at first. In reality, many of these terms are intuitive and straightforward when considered from a natural intelligence perspective. However, from a technological standpoint, they can be complex. To understand XAI, let’s explore a few examples.  
 
-All AI or ML-based systems need some data to train. After the system has been trained it works for us and answers us based on the given input data. What it has learned depends upon what algorithm has been used, what data has been given, how much data has been given, what hyperparameter used, and many other factors.
+All AI or ML-based systems rely on data for training. Once trained, the system works by providing answers or predictions based on input data. The quality of these answers depends on factors such as the algorithm used, the quantity and quality of the data, and hyperparameters, among others.
 
-Many times answer given by the AI system is not sufficient for consumer and they want to know the explanation and reason behind. Let’s say some banking system rejects the loan application of a customer. The customer has the right to know from the bank that why her application is rejected but the bank executive doesn’t have an answer because the decision was taken by the AI system. With this kind of system, a bank cannot serve the customer. So we need an XAI system. This will explain due to what reason the application is rejected.
+Often, the answers provided by AI systems are insufficient for users. They want to understand the rationale behind a decision. For example, consider a banking system that rejects a customer’s loan application. The customer has the right to know why the application was rejected. However, if the decision was made by an AI system, the bank executive might not have an answer. Without such explanations, the system fails to serve customers effectively. This is where XAI (Explainable AI) comes into play. XAI provides explanations, making AI decisions transparent and understandable.
 
-Let’s say a Bank has an application that takes a loan application form as input and within few seconds tells you whether the loan is granted or not. If not then why and if yes then how much? If a lesser loan is granted than the demand then why? This explanation is needed for human who is given service and who is taking service. This explanation is given by XAI.
+Let’s delve into more examples to understand XAI’s importance:
 
-Let’s take another example. An organization has thousands of employees and the organization wants that every employee shall acquire some new skill, and then everything learned within 3 months to solve a business problem which they want to solve. What next course should be recommended for any employee? For that purpose, we can develop a course recommendation system for them. This will recommend the course based on the employee’s experience, interest, current role, aspirations, education, past courses, etc. The organization has its training budget in terms of training hours and the cost of training. Therefore if L&D managers want to understand why a specific course is recommended for someone, who is playing X role, then who will answer that? There are thousands of courses, thousands of skills, and thousands of providers! If the organization has XAI system in place then this can help the L&D manager in understanding the rationale behind the recommendation. Based on the current budget or due to some reason L&D manager may not accept the recommendation but s/he knows what needs to be done and how to create a new learning plan for the next three months.
+### Use Case 1: Loan Decision in Banking
+A bank has an application that evaluates loan applications and provides decisions within seconds. If a loan is rejected, the system explains why. If a smaller loan amount is granted, the system details the reasons. This transparency benefits both the service provider and the customer.
 
-Let’s see one more example, you are working as a display manager in a chain of the supermarket. It has hundreds of malls and has thousands of items to display and sell. What items should be kept with, what other items is not an easy decision. To solve this problem we create a model which helps you doing the clustering of items. If you want to know why product P1 is recommended to be kept in the same area as product P2 then you need some explanation. If a completely new category item arrives in the store then where it should be placed and why? If the display manager has to figure this out based on his experience then it may not be the right decision. Secondly, you may have hundreds of malls of different sizes and with different types of customers walking in. You cannot manually figure this out. So you depend upon the system for this work. But, if you want to know why systems is recommending something then XAI can give you the answer.
+### Use Case 2: Course Recommendation in Corporate Training
+An organization wants employees to upskill to solve business problems within three months. A course recommendation system considers employees' experience, interests, roles, aspirations, and education to suggest courses. The L&D manager might question why a specific course was recommended for an employee. With XAI, the rationale is clear, enabling the manager to make informed decisions.
 
-This a hot area of AI and new libraries are being developed by the researchers which are useful in developing XAI system.
+### Use Case 3: Product Placement in Retail
+A retail chain with hundreds of stores and thousands of products relies on AI for product placement. The system recommends item clusters based on sales patterns and customer preferences. If a manager wants to understand why Product P1 should be placed near Product P2, XAI provides the reasoning. This ensures better decision-making and store optimization.
+
+### Use Case 4: Medical Diagnosis
+AI systems help diagnose diseases based on medical data. For instance, a system predicts a high risk of diabetes for a patient. XAI explains which factors (e.g., blood sugar levels, BMI, lifestyle) contributed to the prediction, allowing doctors to trust and act on the insights.
+
+### Use Case 5: Fraud Detection
+AI systems in financial institutions detect fraudulent transactions. When a transaction is flagged, XAI provides details like unusual patterns, transaction history, or location anomalies. This helps investigators verify the findings.
+
+### Use Case 6: Autonomous Vehicles
+Self-driving cars make real-time decisions like braking or lane changes. XAI helps developers and regulators understand why a car made a specific decision, ensuring safety and accountability.
+
+### Use Case 7: Hiring Decisions
+AI systems streamline recruitment by shortlisting candidates. XAI explains why certain candidates were selected or rejected, ensuring fairness and reducing bias.
+
+### Use Case 8: Energy Management
+Smart grids use AI to optimize energy distribution. XAI explains decisions, such as why power was diverted to a specific area, ensuring transparency in resource allocation.
+
+### Use Case 9: Legal Systems
+AI assists in reviewing legal documents and predicting case outcomes. XAI provides insights into how conclusions were drawn, helping lawyers and judges make informed decisions.
+
+### Use Case 10: Education
+AI personalizes learning paths for students. XAI explains recommendations, such as why a specific topic or method was suggested, helping educators adapt teaching strategies.
 
 ## Popular XAI Libraries
 
-1.  The **(AIX360)** [AI Explainability 360](https://github.com/IBM/AIX360) toolkit is an open-source library developed by IBM in support of the interpretability and explainability of datasets and machine learning models.
-2.  **Skater** is an open-source python library designed to demystify the learned structures of a black box model both globally and locally.
-3.  The **Shapley** Value **SHAP** (SHapley Additive exPlanations) is a python library
-4.  **DeepLIFT** is a method that compares the activation of each neuron to its ‘reference activation’ and assigns contribution scores according to the difference. It is a python library
-5.  **LIME** is developed by the University Of Washington. This is also a python library.
-6.  [What-If Tool](https://pair-code.github.io/what-if-tool/) is developed by the TensorFlow team and it can also be used for XGBoost and Scikit Learn models.
+Here are some widely-used XAI libraries and tools to build explainable systems:
+
+1. **AI Explainability 360 (AIX360)**: An open-source library developed by IBM for the interpretability and explainability of datasets and machine learning models. [GitHub Link](https://github.com/IBM/AIX360)
+2. **SHAP (SHapley Additive exPlanations)**: A Python library that uses Shapley values to explain model predictions globally and locally.
+3. **LIME (Local Interpretable Model-agnostic Explanations)**: Developed at the University of Washington, LIME explains individual predictions by approximating the black-box model locally.
+4. **DeepLIFT (Deep Learning Important FeaTures)**: Compares neuron activations to reference activations, assigning contribution scores. [GitHub Link](https://github.com/kundajelab/deeplift)
+5. **Skater**: An open-source library to demystify black-box models by providing global and local interpretability.
+6. **What-If Tool**: Developed by the TensorFlow team, it supports interpretability for TensorFlow, XGBoost, and Scikit-learn models. [Link](https://pair-code.github.io/what-if-tool/)
+7. **InterpretML**: A Microsoft toolkit for explainable machine learning that supports glass-box models and black-box explanations. [GitHub Link](https://github.com/interpretml/interpret)
+8. **Alibi**: An open-source Python library for machine learning model interpretability and explanation, supporting techniques like counterfactuals and anchors. [GitHub Link](https://github.com/SeldonIO/alibi)
+9. **Captum**: A PyTorch library for model interpretability, providing gradient-based attribution methods. [GitHub Link](https://github.com/pytorch/captum)
+10. **H2O Explainability**: Integrated into H2O.ai’s platform, it provides interpretability tools for H2O models, including variable importance and partial dependence plots.
+11. **Anchors**: A high-precision model explanation technique focusing on specific predictions.
+12. **Eli5**: A Python library for explaining weights and predictions of models built in libraries like Scikit-learn and XGBoost. [GitHub Link](https://github.com/TeamHG-Memex/eli5)
 
 ## Further Reading
 
-*   [https://www.analyticsvidhya.com/blog/2021/01/explain-how-your-model-works-using-explainable-ai/](https://www.analyticsvidhya.com/blog/2021/01/explain-how-your-model-works-using-explainable-ai/)
-*   [https://analyticsindiamag.com/8-explainable-ai-frameworks-driving-a-new-paradigm-for-transparency-in-ai/](https://analyticsindiamag.com/8-explainable-ai-frameworks-driving-a-new-paradigm-for-transparency-in-ai/)
-*   [https://www.darpa.mil/program/explainable-artificial-intelligence](https://www.darpa.mil/program/explainable-artificial-intelligence)
-*   [https://cloud.google.com/explainable-ai](https://cloud.google.com/explainable-ai)
+- [Explain How Your Model Works Using Explainable AI](https://www.analyticsvidhya.com/blog/2021/01/explain-how-your-model-works-using-explainable-ai/)
+- [Explainable AI Frameworks Driving a New Paradigm for Transparency in AI](https://analyticsindiamag.com/8-explainable-ai-frameworks-driving-a-new-paradigm-for-transparency-in-ai/)
+- [DARPA’s Explainable Artificial Intelligence Program](https://www.darpa.mil/program/explainable-artificial-intelligence)
+- [Google Cloud Explainable AI](https://cloud.google.com/explainable-ai)
+
 
 
 

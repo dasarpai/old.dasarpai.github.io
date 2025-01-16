@@ -112,6 +112,8 @@ Nvidia Nims are AI microservices that package complex software and models into c
 ##  **What is [Nvidia Nemo](https://github.com/NVIDIA/NeMo) and its role in AI onboarding?**
 Nvidia Nemo is a framework designed for onboarding and training digital employees (AI agents). It allows organizations to customize these agents by providing examples of desired outputs and feedback during the training process, ensuring that the agents align with specific business processes and vocabulary.
 
+NVIDIA NeMo Framework is a scalable and cloud-native generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (e.g. Automatic Speech Recognition and Text-to-Speech). It enables users to efficiently create, customize, and deploy new generative AI models by leveraging existing code and pre-trained model checkpoints.
+
 ##  **How will IT departments change in relation to AI agents?**
 IT departments are expected to evolve into the HR departments for AI agents, managing their onboarding, maintenance, and improvement just as they do for human employees. This shift will involve nurturing digital agents and provisioning them for use within organizations.
 
@@ -367,9 +369,9 @@ Here’s a list of NVIDIA’s major GPU architectures, along with their key inno
 
 ### Summary of Architectures and Series
 
-| **Architecture** | **Key GPUs**         | **Main Focus**                    |
+| **Architecture**  | **Key GPUs**         | **Main Focus**                    |
 |-------------------|----------------------|------------------------------------|
-| Tesla             | GTX 200 Series      | Early CUDA and GPGPU focus        |
+| Tesla (earliest)  | GTX 200 Series      | Early CUDA and GPGPU focus        |
 | Fermi             | GTX 400 & 500 Series| General-purpose GPU computing     |
 | Kepler            | GTX 600 & 700 Series| Energy efficiency and gaming      |
 | Maxwell           | GTX 900 Series      | Power efficiency, VR support      |
@@ -378,6 +380,6 @@ Here’s a list of NVIDIA’s major GPU architectures, along with their key inno
 | Turing            | RTX 20 Series       | AI, Ray Tracing                   |
 | Ampere            | RTX 30 Series       | AI, DLSS, Ray Tracing             |
 | Ada Lovelace      | RTX 40 Series       | AI-Generated Frames (DLSS 3)      |
-| Blackwell         | RTX 50 Series       | AI integration, next-gen GPUs     |
+| Blackwell (latest)  | RTX 50 Series       | AI integration, next-gen GPUs     |
 
 Each architecture marks a milestone in NVIDIA’s journey to bridge gaming, AI, and high-performance computing.

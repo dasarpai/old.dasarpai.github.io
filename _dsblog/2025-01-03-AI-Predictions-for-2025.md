@@ -55,10 +55,10 @@ keywords: ["AI predictions", "software development", "artificial intelligence"]
 
 ### **5. AI in Entertainment and Gaming**
 - AI-driven entertainment robots and video content will grow, enabling creators to produce work faster.
-- Gaming technology advancements will include dynamic resolution upscaling through deep learning super sampling (DLSS), as seen in consoles like the upcoming Nintendo Switch 2.
+- Gaming technology advancements will include dynamic resolution upscaling through deep learning super sampling (DLSS). It uses deep learning algorithms to upscale lower-resolution images to higher resolutions, enhancing the visual quality of games without significantly impacting performance. This allows for higher graphical settings and smoother frame rates, making games look better and run more efficiently
 
 ### **6. Self-Driving and Autonomous Vehicles**
-- Significant developments in self-driving technology, with advancements from companies like Tesla, Waymo, and Lyft. Tesla might achieve unsupervised full self-driving capabilities.
+- Significant developments in self-driving technology, with advancements from companies like Tesla, Waymo (google), and Lyft (Amazon). Tesla might achieve unsupervised full self-driving capabilities.
 
 ### **7. Quantum Computing Progress**
 - Breakthroughs in quantum computing with new chips from Google and IBM.
@@ -69,7 +69,7 @@ keywords: ["AI predictions", "software development", "artificial intelligence"]
 
 ### **9. Challenges of AI-Generated Content**
 - Proliferation of low-quality, AI-generated content flooding platforms (termed "AI slop"), leading to potential SEO penalties and a need for better content regulation.
-- SEO business will be completely revamp
+- SEO business will be completely revamped
 - Ethical challenges in discerning AI-generated content from real content will drive the need for verification systems.
 - People will become less reactive to even real videos/audio/content, because of the flood of AI-generated content.
 
@@ -94,5 +94,9 @@ keywords: ["AI predictions", "software development", "artificial intelligence"]
 ### **15. AI Compute and Applications**
 - GPU power will increase more and they will become cheaper and widely available for local AI workloads.
 
+### **16. AI in Programming**
+- AI will be commonly used for product development, architecture, UML, code completion, code refactoring, debugging, and testing. So, the cost and time of development will reduce and quality will improve.
+- AI written code will selfheal if it is failing, improve for performance and security.
+
 ## Related Readings
-My 2020, article on [100+ AI Usecase](/dsblog/100+High-Level-AI-Usecases)
+My 2020, article on [100+ AI Usecase - Future Predictions for AI](/dsblog/100+High-Level-AI-Usecases)
