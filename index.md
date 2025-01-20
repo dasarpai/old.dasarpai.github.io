@@ -4,9 +4,6 @@ title: DasarpAI
 author_profile: true
 ---
 
-<h1>Ek Kendra for Data Science </h1>
-
-<h2> Links to Explore Here </h2>
 <style>
   .center {
     display: block;
@@ -74,8 +71,12 @@ author_profile: true
       margin-top: 30px;
       padding: 15px 10px;
     }
-
+  }
 </style>
+
+<h1>Ek Kendra for Data Science </h1>
+
+<h2> Links to Explore Here </h2>
 
 <table>
   <thead>
@@ -191,60 +192,7 @@ AI is software, but AI projects are not like typical software projects. They hav
 ## Welcome to my Data Science/AI Blog
 <!-- dsblog listing starts. -->
 
-<div class="grid__wrapper">
-  {% assign sorted_posts = site.dsblog | sort: 'date' | reverse %}
-  {% for post in sorted_posts %}
-    <div class="grid__item">
-      <article class="archive__item">
-        {% if post.header.teaser %}
-          <div class="archive__item-teaser">
-            <a href="{{ post.url }}">
-              <img src="{{ post.header.teaser }}" alt="{{ post.title }}" class="teaser__image">
-            </a>
-          </div>
-        {% endif %}
-        
-        <div class="archive__item-content">
-          <h2 class="archive__item-title">
-            <a href="{{ post.url }}" rel="permalink">{{ post.title | markdownify | strip_html | truncate: 60 }}</a>
-          </h2>
-
-          {% assign words_per_minute = 200 %}
-          {% if post.content %}
-            {% assign content_word_count = post.content | number_of_words %}
-            {% assign minutes_to_read = content_word_count | divided_by: words_per_minute | ceil %}
-            <span class="archive__item-content">
-              <i class="fa fa-clock" aria-hidden="true"></i> 
-              {{ minutes_to_read }} min read
-            </span>
-          {% endif %}
-          
-          {% if post.excerpt %}
-            <p class="archive__item-excerpt">
-              {{ post.excerpt | markdownify | strip_html | truncate: 100 }}
-            </p>
-          {% endif %}
-          
-          <div class="archive__item-meta">
-            <span class="archive__item-excerpt">
-              <i class="fa fa-calendar" aria-hidden="true"></i> 
-              {{ post.date | date: "%B %-d, %Y" }}
-            </span>
-            
-            {% if post.tags %}
-              <span class="archive__item-excerpt">
-                <i class="fa fa-tags" aria-hidden="true"></i>
-                {% for tag in post.tags limit:3 %}
-                  <a href="/tags/{{ tag | slugify }}" class="tag">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
-                {% endfor %}
-              </span>
-            {% endif %}
-          </div>
-        </div>
-      </article>
-    </div>
-  {% endfor %}
-</div>
+{% include home-dsblog.html %}
 
 <!-- dsblog listing ends. -->
 
@@ -264,5 +212,3 @@ AI is software, but AI projects are not like typical software projects. They hav
 </div>
 
 {% include newsletter.html %}
-
-
