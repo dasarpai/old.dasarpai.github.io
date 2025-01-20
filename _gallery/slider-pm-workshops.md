@@ -1,6 +1,6 @@
 ---
 id: 810    
-title: Project Management Workshops - Select Worshops
+title: Data Science and Project Management Workshops - Select Worshops
 date: '2020-10-21T14:51:37+05:30'
 layout: slider-pm-workshops-layout
 permalink: /slider-pm-workshops
@@ -12,9 +12,19 @@ header:
   overlay_filter: .4 # same as adding an opacity of 0.5 to a black background
 show_date: false
 read_time: false
-excerpt: "Some snapshots from the Classroom workshops on Project Management, PMP, Agile, PRINCE2, Project Risk Management, Customized Project Management, MSP 4000+ learners, 300+ sessions, 12000+ Hours. Learners across the Glove."
+excerpt: "Some snapshots from the Classroom workshops on Data Science, GenAI, Project Management, PMP, Agile, PRINCE2, Project Risk Management, Customized Project Management, MSP 4000+ learners, 300+ sessions, 12000+ Hours. Learners across the Glove."
 
 carousels:
+  - images: 
+    - image: /assets/images/classes-all/IMG20240614152043.jpg
+    - image: /assets/images/classes-all/IMG20240614152048.jpg
+    - image: /assets/images/classes-all/IMG20240614152050.jpg
+    - image: /assets/images/classes-all/IMG20240614152058.jpg
+    - image: /assets/images/classes-all/IMG20240614152407.jpg
+    - image: /assets/images/classes-all/IMG20240614152753.jpg
+    - image: /assets/images/classes-all/Indore-S6001788.JPG
+    - image: /assets/images/classes-all/Mum-S6001875.JPG
+    - image: /assets/images/classes-all/Pune-S6001694.JPG
   - images: 
     - image: /assets/images/classes-all/014-Calcutta-S6002054.JPG
     - image: /assets/images/classes-all/091020111740.jpg
@@ -234,11 +244,5 @@ carousels:
     - image: /assets/images/classes-all/IMG_20171108_103544.jpg
     - image: /assets/images/classes-all/IMG_20171108_152125.jpg
     - image: /assets/images/classes-all/IMG_20171109_103253.jpg
-    - image: /assets/images/classes-all/Indore-S6001788.JPG
-    - image: /assets/images/classes-all/Mum-S6001875.JPG
-    - image: /assets/images/classes-all/Pune-S6001694.JPG
-
-
-
 ---     
 

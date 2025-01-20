@@ -150,6 +150,12 @@ carousels:
       - image: /assets/images/online_sessions/2023-06-17-12_26_30-LiveSession-upGrad.png
       - image: /assets/images/online_sessions/2023-06-17-16_27_57-LiveSession-upGrad.png
       - image: /assets/images/online_sessions/2023-06-24-14_11_18-LiveSession-upGrad.png
+      - image: /assets/images/online_sessions/2024-06-12 17_25_13-Zoom-Meeting.jpg
+      - image: /assets/images/online_sessions/2024-11-27 18_48_38-LM-Studio.jpg
+      - image: /assets/images/online_sessions/2024-11-27 18_49_42.jpg
+      - image: /assets/images/online_sessions/2024-11-28 18_45_00-Gen-AI-Training-Nov-26 -29.jpg
+      - image: /assets/images/online_sessions/2024-11-29 18_01_00-Gen-AI-Training-Nov-26 -2.jpg
+      - image: /assets/images/online_sessions/2024-11-29 18_03_03-Settings.jpg
 ---    
 
 
