@@ -20,7 +20,7 @@ author_profile: true
 share: true
 toc: true
 toc_sticky: true
-toc_levels: 3
+toc_levels: 2
 comments: true
 keywords: ["Open Source", "Licensing", "AI", "Challenges", "Considerations", "Best Practices"]
 ---
