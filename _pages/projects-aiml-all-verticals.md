@@ -388,3 +388,6 @@ This domain encompasses the planning, design, and construction of physical facil
 - [Github Book Repo](https://github.com/dasarpai/DAI-Books)
 - [Github Datasets](https://github.com/dasarpai/DAI-Datasets)
 - [Github Mp3 Repo](https://github.com/dasarpai/DAI-mp3)
+
+# <font color=green>AI Product Idea Repository</font>
+- [Github Repo - AI Product Idea Repository](https://github.com/dasarpai/DAI-Projects-All/tree/main/PRD){:TARGET=""_BLANK""})

@@ -3,7 +3,7 @@ mathjax: true
 mermaid: true
 id: 6204
 title: "WhatsApp Integration: Webhooks, Messaging, and Architecture Design"
-date: 2025-01-21
+date: 2025-01-20
 permalink: /dsblog/Whatsapp-Integration
 tags:
   - WhatsApp Integration

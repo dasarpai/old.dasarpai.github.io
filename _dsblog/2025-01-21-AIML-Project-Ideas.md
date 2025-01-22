@@ -1,44 +1,37 @@
 ---
-id: 748
-title: "List of Projects"
-layout: single
-toc_sticky: true
-permalink: /aiml-projectideas
-date: 2024-10-03
-tags: [Hari Thapliyal, Projects]
-excerpt: "Image : Gallery"
+mathjax: true
+id: 6205
+title: "AI ML Project Ideas"
+date: 2025-01-21
+permalink: /dsblog/AI-Project-Ideas
+tags:
+  - AI
+  - Project Development
+  - Innovation
+  - Future Trends
+categories:
+  - dsblog
 header:
-  [//]: # overlay_image: /assets/images/dasarpAI-Banner-LI.jpg
-  overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Gallery**](/gallery/)"
-  actions:
-    1. - label: "View Gallery"
-    1.   url: "/gallery/"
-author_profile: false
-last_modified_at: 2024-10-03T15:46:43-04:00
+  teaser: /assets/images/dspost/dsp6205-AI-Project-Ideas.jpg
+excerpt_separator: "<!--more-->"
+author: Hari Thapliyaal
+layout: dspost-layout
+excerpt: "Discover forward-thinking AI project ideas for 2025, aimed to inspire both new entrants and seasoned players in the AI field."
+author_profile: true
+share: true
 toc: true
-mathjax: "true"
-sidebar:
-   nav: "docs"
+toc_sticky: true
+toc_levels: 3
+comments: true
+keywords: ["AI Project Ideas", "Innovation", "Future Trends", "Project Development", "Strategy Planning"]  
 ---
-<style>
-/* Remove extra space above and below list items */
-ul, ol {
-    margin-top: 0;
-    margin-bottom: 0;
-    padding-left: 1em;
-}
 
-/* Remove extra space around individual list items */
-li {
-    margin-top: 0;
-    margin-bottom: 0;
-    padding-top: 0;
-    padding-bottom: 0;
-}
-</style>
+![AI Project Ideas](/assets/images/dspost/dsp6205-AI-Project-Ideas.jpg)
 
-	
+# [AI Project Ideas
+## Introduction
+In your journey of learning and practicing AI project you may find these articles and repositories useful. I found it over many places and compiled them here. Some of the link may break. These are beginner level ideas for AI project. If you are starting your journey then you will find value in exploring these. If you have been seriously for more than 5+ years in AI/ML then your can ignore this article.
+
 ## Project Idea Blogs
 - [10 Machine learning Project for Classification with Python](https://bit.ly/3gr7YPW)
 - [10 Machine learning Projects for Regression Analysis](https://bit.ly/3iHbqJb)

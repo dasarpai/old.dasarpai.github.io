@@ -604,4 +604,43 @@ https://github.com/settings/profile
 https://github.com/settings/keys   
 
 
+## How to roll back to previous specific commit?
+
+My current check-in github is failing the build. I want to roll back to previous specific commit. How to do?
+
+To revert your GitHub repository to a specific commit (`8913924aaef8bd3e278ffcb75d62de6fb3c76b79`), you can use one of the following approaches based on your requirements:
+
+---
+
+### Option 1: Hard Reset (Rewrite History)
+This approach is destructive and rewrites history. Use this if you want to completely discard commits after the specified commit. This changes the commit history and can affect collaborators.
+
+```bash
+git status -u # To check if there are any untracked or modified files not being reported
+git reset --hard 8913924aaef8bd3e278ffcb75d62de6fb3c76b79 # This will reset the working directory, staging area, and branch to the specified. Ensure the most recent commit in the log matches the one you reset to 8913924
+git log --oneline # Check the current commit
+git push --force # This will overwrites the remote branch with the local branch.
+```
+
+### Option 2: Create a Revert Commit
+If you want to undo changes introduced by subsequent commits while preserving history, create a new revert commit. This approach is safer for collaborative projects since it preserves commit history.
+
+```bash
+git revert 8913924aaef8bd3e278ffcb75d62de6fb3c76b79..HEAD # Creates revert commits for all commits from the specified commit
+git push
+```
+
+### Option 3: Reset and Commit New Changes
+If you want to revert but keep some changes:
+
+1. Reset to the commit without changing files:
+   ```bash
+   git reset --soft 8913924aaef8bd3e278ffcb75d62de6fb3c76b79
+   ```
+2. Stage and commit your changes:
+   ```bash
+   git add .
+   git commit -m "Revert to commit 8913924aaef8bd3e278ffcb75d62de6fb3c76b79"
+   git push --force
+   ```
 

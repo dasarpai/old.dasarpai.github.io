@@ -2,7 +2,7 @@
 mathjax: true
 id: 6203
 title: "Unraveling Wireless Communication: Key Protocols and Technologies"
-date: 2025-01-20
+date: 2025-01-19
 permalink: /dsblog/unraveling-wireless-communication
 tags:
   - Wireless Communication
