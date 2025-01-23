@@ -96,7 +96,7 @@ Agents or virtual collaborators are ideal when tasks involve:
 
 **Reasoning:** These AI models possess advanced reasoning abilities, enabling them to solve complex problems, make inferences, and understand nuanced contexts. They handle ambiguous situations and provide logical solutions. An example is OpenAI's o3 mini model, which excels in reasoning through complex tasks in various fields, including science, coding, and math.
 
-**Agent:** AI agents are autonomous systems capable of performing tasks on behalf of users or other systems. They can design their workflows, utilize available tools, and make decisions based on external data sets. Unlike assistants, AI agents can operate independently, requiring minimal human input. ([IBM - United States](https://www.ibm.com/think/topics/ai-agents))
+**Agent:** AI agents are autonomous systems capable of performing tasks on behalf of users or other systems. They can design their workflows, utilize available tools, and make decisions based on external data sets. Unlike assistants, AI agents can operate independently, requiring minimal human input. ([IBM - United States](https://www.ibm.com/think/topics/ai-agents)
 
 
 ## Q12: How do AI agents interact with workflows and systems?
@@ -155,9 +155,9 @@ However, this technological advancement also poses challenges. Certain jobs, esp
 
 To navigate these changes, it's essential to invest in reskilling and upskilling programs, ensuring that the workforce can adapt to new roles created by AI advancements. By embracing AI agents, industries can achieve greater efficiency and innovation, while also addressing the potential workforce disruptions they may cause.
 
-- [The Australian](https://www.theaustralian.com.au/business/technology/a-quarter-of-australian-businesses-testing-new-ai-to-do-human-work-delooitte-surveys-results-show/news-story/f0ea3dc84f7d9042d7316061c20a2030
-- [Business Insider](https://www.businessinsider.com/davos-switzerland-world-economic-forum-ai-agents-trump-2025-1
-- [Financial Times](https://www.ft.com/content/33ed8ad0-f8ad-42ed-983a-54d5b9eb2d27 
+- [The Australian](https://www.theaustralian.com.au/business/technology/a-quarter-of-australian-businesses-testing-new-ai-to-do-human-work-delooitte-surveys-results-show/news-story/f0ea3dc84f7d9042d7316061c20a2030)
+- [Business Insider](https://www.businessinsider.com/davos-switzerland-world-economic-forum-ai-agents-trump-2025-1)
+- [Financial Times](https://www.ft.com/content/33ed8ad0-f8ad-42ed-983a-54d5b9eb2d27)
 
 ## Q21: How have AI models evolved to enable advanced agent capabilities?
 
