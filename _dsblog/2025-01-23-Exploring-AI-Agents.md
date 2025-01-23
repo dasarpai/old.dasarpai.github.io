@@ -3,7 +3,7 @@ mathjax: true
 id: 6207
 title: "Exploring AI Agents"
 date: 2025-01-23
-permalink: /dsblog/Exploring-AI-Agents
+permalink: /dsblog/exploring-ai-agents
 tags:
   - AI
   - Agents
