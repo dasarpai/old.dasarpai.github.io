@@ -129,6 +129,7 @@ author:
 
   location         : "Bangalore, India."
   email            : hari@dasarpai.com
+
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -212,18 +213,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/dasarpai"
-
-    - label: "Terms & Condition"
-      icon: "fas fa-fw fa-file-contract"
-      url: "/terms-of-service"
-      
-    - label: "Privacy Policy"
-      icon: "fas fa-fw fa-eye-slash"
-      url: "/privacy"
-
-    - label: "Comment Policy"
-      icon: "fas fa-fw fa-comments"
-      url: "/comment-policy"
 
 
 # Reading Files

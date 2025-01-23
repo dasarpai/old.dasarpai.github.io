@@ -38,40 +38,9 @@ author_profile: true
   }
 
   a img {
-    vertical-align: 2px;}
-
-  .content-after-homepage-grid {
-    clear: both;
-    margin-top: 40px;
-    padding: 20px 15px;
-    max-width: calc(100% - 250px);
-    margin-left: auto;
-    background-color: #f9f9f9;
-    border-top: 1px solid #e0e0e0;
+    vertical-align: 2px;
   }
 
-  .coaching-section {
-    text-align: center;
-  }
-
-  .coaching-section p {
-    margin-bottom: 20px;
-    color: #555;
-  }
-
-  @media (max-width: 1200px) {
-    .content-after-homepage-grid {
-      max-width: calc(100% - 200px);
-    }
-  }
-
-  @media (max-width: 768px) {
-    .content-after-homepage-grid {
-      max-width: 100%;
-      margin-top: 30px;
-      padding: 15px 10px;
-    }
-  }
 </style>
 
 <h1>Ek Kendra for Data Science </h1>
@@ -196,19 +165,9 @@ AI is software, but AI projects are not like typical software projects. They hav
 
 <!-- dsblog listing ends. -->
 
-<div>
-  <hr>
-</div>
+<hr>
 
-<div class="content-after-homepage-grid">
-  
-  <div class="coaching-section">
-    <p>To have one-on-one coaching, counselling, mentoring session with me, you can reach me via buymeacofee (BMC) link. I conduct sessions on Data Science, AI Technologies and Project Management. 30 min life coaching sessions are free.</p>
+{% include by-me-cofee.html %}
 
-    <a href="https://www.buymeacoffee.com/harithapliyal" rel="nofolloaw">
-      <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="harithapliyal" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
-    </a>
-  </div>
-</div>
 
 {% include newsletter.html %}
