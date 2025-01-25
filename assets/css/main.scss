@@ -39,17 +39,6 @@ textarea,
     }
 }
 
-
-.archive {
-  @include breakpoint($large) {
-    padding-inline-end: $right-sidebar-width-narrow;
-  }
-
-  @include breakpoint($x-large) {
-    padding-inline-end: $right-sidebar-width;
-  }
-}
-
 @media (max-width: 600px) {
   html {
       font-size: 1.2em; /* 20% larger than the base size */
