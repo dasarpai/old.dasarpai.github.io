@@ -25,7 +25,7 @@ share: true
 
 ![Python For Data Science](/assets/images/dscourses/dsc308-Python-For-Data-Science.jpg)
 
-**Python for Data Science**
+# Python for Data Science
 
 A brief summary of the topics covered in this course is as below. This is 30 hours course, it is suggested to complete this course in 3 weeks. After the completion of this course, you will have a solid foundation in Python programming. Following that, you need to practice it consistently for a minimum of 6 months.
 

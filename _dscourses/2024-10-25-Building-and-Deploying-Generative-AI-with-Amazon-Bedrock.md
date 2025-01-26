@@ -23,6 +23,7 @@ share: true
 ---
 
 ![Building and Deploying Generative AI with Amazon Bedrock](/assets/images/dscourses/dsc322-Building-and-Deploying-Generative-AI-with-Amazon-Bedrock.jpg)
+
 # Building and Deploying Generative AI with Amazon Bedrock
 
 ## **Course Objective**

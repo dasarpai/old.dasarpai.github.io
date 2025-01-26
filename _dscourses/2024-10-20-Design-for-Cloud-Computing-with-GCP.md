@@ -23,6 +23,7 @@ share: true
 ---
 
 ![Design for Cloud Computing with GCP](/assets/images/dscourses/dsc320-Design-for-Cloud-Computing-with-GCP.jpg)
+
 # Design for Cloud Computing with GCP  
 
 Duration: 4 weeks : - 20 Days

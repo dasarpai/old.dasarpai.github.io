@@ -25,6 +25,6 @@ share: true
 
 ![Explainable AI](/assets/images/dscourses/dsc311-Explainable-AI.jpg)
 
-**Explainable AI**
+# Explainable AI - XAI
 
-This course is coming soon. I am designing this course.
+## Please contant me via hari@dasarpai.com or whatsapp +91 9 5 3 5 9 9 9 3 3 6

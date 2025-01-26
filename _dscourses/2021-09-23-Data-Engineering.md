@@ -25,7 +25,7 @@ share: true
 
 ![Data Engineering](/assets/images/dscourses/dsc309-Data-Engineering.jpg)
 
-**Data Engineering**
+# Data Engineering
 
 ## Exploratory Data Analysis (EDA)
 

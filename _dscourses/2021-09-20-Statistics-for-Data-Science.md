@@ -25,7 +25,7 @@ share: true
 
 ![Statistics For Data Science](/assets/images/dscourses/dsc306-Statistics-For-Data-Science.jpg)
 
-**Statistics for Data Science**
+# Statistics for Data Science
 
 A brief summary of the topics covered in this course is as below. This is 25 hours course, it is suggested to complete this course in 3 weeks.
 

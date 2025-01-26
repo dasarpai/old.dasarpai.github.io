@@ -26,7 +26,7 @@ share: true
 ![Natural Language Processing](/assets/images/dscourses/dsc303-Natural-Language-Processing.jpg)
 
 
-**Natural Language Processing (NLP)**
+# Natural Language Processing (NLP)
 
 ## Foundation of Natural Language Processing
 *   Overview computational linguistic.

@@ -25,7 +25,7 @@ share: true
 
 ![Deep Learning for Computer Vision](/assets/images/dscourses/dsc304-Deep-Learning-for-Computer-Vision.jpg)
 
-**Deep Learning – Computer Vision**
+# Deep Learning – Computer Vision
 
 ## Foundation of Computer Vision
 1.  Common Architectural Principles of Deep Networks

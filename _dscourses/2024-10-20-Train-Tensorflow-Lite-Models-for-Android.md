@@ -26,8 +26,6 @@ share: true
 
 # Train Tensorflow Lite Models for Android
 
-
-
 ## **Course Overview:** 
 We'll begin by exploring the basics of Machine Learning and its various types, and then dive into the world of deep learning and artificial neural networks, which will serve as the foundation for training our machine learning models for Android.
 

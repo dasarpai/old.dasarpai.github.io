@@ -25,7 +25,7 @@ share: true
 
 ![Microsoft Excel](/assets/images/dscourses/dsc310-Microsoft-Excel.jpg)
 
-**Microsoft Excel**
+# Microsoft Excel
 
 ## Introduction to Excel
 

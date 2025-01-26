@@ -25,7 +25,7 @@ share: true
 
 ![Pandas for Data Science](/assets/images/dscourses/dsc307-Pandas-for-Data-Science.jpg)
 
-**Pandas for Data Science**
+# Pandas for Data Science
 
 A brief summary of the topics covered in this course is as below. This is 30 hours course, it is suggested to complete this course in 3 weeks. If you already know python enough, then you can skip the first 3 modules of this course. It will save you one week.
 

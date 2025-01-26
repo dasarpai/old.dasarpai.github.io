@@ -23,3 +23,5 @@ share: true
 
 ![AI Roadmap Consulting](/assets/images/dscourses/dsc319-AI-Roadmap-Consulting.jpg)
 
+Please contant me via hari@dasarpai.com or whatsapp +91 9 5 3 5 9 9 9 3 3 6
+

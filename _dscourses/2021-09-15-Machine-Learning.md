@@ -25,20 +25,20 @@ share: true
 
 ![Machine Learning Course](/assets/images/dscourses/dsc301-Machine-Learning.jpg)
 
-**Machine Learning Courses**
+# Machine Learning Courses
 
 A brief summary of the topics covered in this course is as below. This is 150 hours course, it is suggested to complete this course in 2 Months. Apart from my classroom course, you will be given exercises, and it will take another 100 hours in the course duration to complete these exercises.
 
-Introduction to Machine Learning Supervised Learning
-----------------------------------------------------
+## Introduction to Machine Learning Supervised Learning
+
 
 *   What is Machine Learning?
 *   Supervised vs Unsupervised Learning
 *   Type of ML problems
 *   High Level view of ML Project Lifecycle
 
-Linear Regression
------------------
+## Linear Regression
+
 
 *   Introduction to regression – equation, limitations
 *   Types of regressions
@@ -52,8 +52,8 @@ Linear Regression
 *   Linear Regression
 *   Gradient Descent
 
-Multiple linear regression
---------------------------
+## Multiple linear regression
+
 
 *   SLS vs MLR
 *   Multicollinearity
@@ -65,8 +65,8 @@ Multiple linear regression
 *   Loss: RMSE , MSE, MAE Comparison
 *   Interpreting coefficients of MLR
 
-Regularization
---------------
+## Regularization
+
 
 *   Introduction to Regularization
 *   Regularized linear models
@@ -74,8 +74,8 @@ Regularization
 *   Lasso regression
 *   Elastic net
 
-Classification
---------------
+## Classification
+
 
 *   Introduction : Regression vs classification, types of classification, evaluating classification models
 *   Logistic Regression : Best-fit sigmoid curve, odds & log odds, multivariate logistic regression
@@ -87,8 +87,8 @@ Classification
 *   K-Nearest Neighbor Model
 *   **Telecom Churn Case Study**
 
-Ensamble Model
---------------
+## Ensamble Model
+
 
 *   Introduction to Ensemble Modelling
 *   Bagging (Bootstrap Aggregation) Model Introduction
@@ -102,8 +102,8 @@ Ensamble Model
 *   Building Random Forest Model
 *   Building Boost Based Model
 
-Support Vector Machine (SVM)
-----------------------------
+## Support Vector Machine (SVM)
+
 
 *   Linear SVM classification
 *   Mathematical/ geometrical  intuition
@@ -116,16 +116,16 @@ Support Vector Machine (SVM)
 *   SVM Regression
 *   Mathematical/ geometrical intuition
 
-Naïve Bayesian
---------------
+## Naïve Bayesian
+
 
 *   Introduction to Bayes theorem
 *   Multinomial naïve Bayes
 *   Gaussian naïve Bayes
 *   Various type of Bayes theorem and their intuition
 
-Clustering & Market Basket Analysis
------------------------------------
+## Clustering & Market Basket Analysis
+
 
 *   Introduction to clustering, types of clustering, Euclidean distance & centroid
 *   K-means clustering algorithm
@@ -146,8 +146,8 @@ Clustering & Market Basket Analysis
 *   Contingency matrix
 *   Confusion matrix
 
-Model Evaluation & Model Selection
-----------------------------------
+## Model Evaluation & Model Selection
+
 
 *   Principles of model selection – model & learning algorithm
 *   Simplicity, Complexity & overfitting, bias-variance trade off.
@@ -158,8 +158,7 @@ Model Evaluation & Model Selection
 *   Handling class imbalance
 *   Model Selection
 
-Feature Engineering
--------------------
+## Feature Engineering
 
 *   Feature engineering – introduction
 *   Handling numeric features, handling categorical features, handling time-based features
@@ -194,8 +193,7 @@ Feature Engineering
 *   Spearman’s rank correlation
 *   VIF
 
-Handling Imbalance Data
------------------------
+## Handling Imbalance Data
 
 *   Introduction to Data Imbalance
 *   Up-sampling
@@ -210,8 +208,7 @@ Handling Imbalance Data
 *   Choosing Right Evaluation Metric
 *   Treat problem as Anomaly Detection
 
-Model Evaluation Metrics
-------------------------
+## Model Evaluation Metrics
 
 *   Confusion Matrix
 *   Accuracy, Recall (Sensitivity/ TPR), Precision, F1, ROC, AUC
@@ -219,8 +216,7 @@ Model Evaluation Metrics
 *   RMSE, MAE, MSE
 *   R Square, Adjusted R Square
 
-Loss Function
--------------
+## Loss Function
 
 *   Introduction to Regression and Classification Loss Function
 *   Root Mean Square Error (RMSE)
@@ -233,8 +229,7 @@ Loss Function
 *   Multi Class Cross Entropy Loss
 *   KL (Kullback Leibler) Divergence Loss
 
-Model Monitoring
-----------------
+## Model Monitoring
 
 *   Introduction to model monitoring
 *   Model Drifting
@@ -242,16 +237,15 @@ Model Monitoring
 *   How frequently evaluate?
 *   How to take decision?
 
-Model Retraining
-----------------
+## Model Retraining
 
 *   Introduction to model retraining
 *   Retraining on same algorithm and new data
 *   Trying new features
 *   Trying new algorithms
 
-Dimensionality reduction
-------------------------
+## Dimensionality reduction
+
 
 *   The curse of dimensionality
 *   Dimensionality reduction technique
@@ -260,8 +254,8 @@ Dimensionality reduction
 *   Eigen-decomposition approach
 *   tNSE
 
-Decision Trees Based ML
------------------------
+## Decision Trees Based ML
+
 
 *   Decision Tree
 *   Definition of Ensemble techniques
@@ -274,22 +268,22 @@ Decision Trees Based ML
 *   Adaboost, LGBM, XGBoost
 *   Gradient Boost
 
-Recommendation Systems
-----------------------
+## Recommendation Systems
+
 
 *   Introduction to Recommendation Systems
 *   Application of Recommendation Systems
 *   Collaborative Filtering
 *   Content Based Filtering
 
-Multilayer Perceptron
----------------------
+## Multilayer Perceptron
 
-Hidden Markov Models (HMM)
---------------------------
 
-ML Libraries / Algorithm
-------------------------
+## Hidden Markov Models (HMM)
+
+
+## ML Libraries / Algorithm
+
 
 *   scipy (pandas, numpy, matplotlib, sympy, scikit-learn, scikit-image)
 *   scikit-learn, scikit-image, statsmodel

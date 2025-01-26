@@ -25,7 +25,7 @@ share: true
 
 ![Machine Learning for Timeseries](/assets/images/dscourses/dsc302-Machine-Learning-for-Timeseries.jpg)
 
-**Machine Learning for Timeseries**
+# Machine Learning for Timeseries
 
 A brief summary of the topics covered in this course is as below. This is 24 hours course, it is suggested to complete this course in 3 weeks. Apart from my classroom course, you will be given exercises, and it will take another 100 hours in the course duration to complete these exercises.
 

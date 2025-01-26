@@ -64,7 +64,7 @@ based on your business requirment you need to ask yourself which model you need 
 
 
 
-## *5. *Domain-Specific Models**
+## **5. Domain-Specific Models**
 - **Engineering Models**: Focused on system performance, reliability, and design. Examples include structural models in civil engineering and thermodynamic models in mechanical engineering.
 - **Business Process Models**: Represent workflows and organizational behavior, often used in enterprise resource planning (ERP) and supply chain optimization.
 

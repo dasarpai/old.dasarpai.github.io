@@ -42,7 +42,7 @@ share: true
   - Benefits of agentic AI in various industries.
   - Ethical considerations and potential risks.
 
----
+
 
 ### **Module 2: Foundations of AI Agents**
 - **2.1 Core Components of AI Agents**
@@ -60,7 +60,7 @@ share: true
   - Collaboration and competition between agents.
   - Swarm intelligence and distributed decision-making.
 
----
+
 
 ### **Module 3: Building Blocks of Agentic AI**
 - **3.1 AI Technologies Enabling Agency**
@@ -78,7 +78,7 @@ share: true
   - Setting up development environments.
   - Creating simple autonomous agents.
 
----
+
 
 ### **Module 4: Applications of Agentic AI**
 - **4.1 Industry Use Cases**
@@ -94,7 +94,7 @@ share: true
   - Tailoring agent behavior to specific business needs.
   - Deployment strategies for production environments.
 
----
+
 
 ### **Module 5: Ethical and Societal Implications**
 - **5.1 Responsible AI**
@@ -109,7 +109,7 @@ share: true
   - Avoiding over-reliance on autonomous agents.
   - Managing unintended consequences.
 
----
+
 
 ### **Module 6: Advanced Topics in Agentic AI**
 - **6.1 AI-Driven Self-Improvement**
@@ -124,12 +124,12 @@ share: true
   - Augmenting human capabilities with agentic AI.
   - Hybrid systems for decision-making.
 
----
+
 
 ### **Module 7: Capstone Project**
 - Participants work in teams to develop and deploy an agentic AI solution tailored to a real-world problem within their industry.
 
----
+
 
 ### **Module 8: Future Trends and Continuous Learning**
 - **8.1 Emerging Technologies**
@@ -140,7 +140,7 @@ share: true
   - Tools and resources for staying up-to-date with AI advancements.
   - Encouraging experimentation and innovation.
 
----
+
 
 ## Training Methods
 - Interactive lectures and discussions.
@@ -148,12 +148,12 @@ share: true
 - Case studies and group projects.
 - Guest speakers from AI-focused industries.
 
----
+
 
 ## Duration
 - 5 Days (Flexible depending on depth of coverage per module).
 
----
+
 
 ## **Expected Outcomes**
 - A strong grasp of agentic AI fundamentals and applications.
@@ -161,7 +161,7 @@ share: true
 - Enhanced understanding of ethical and strategic considerations.
 - A roadmap for implementing agentic AI within your organization.
 
----
+
 
 
 
@@ -183,7 +183,7 @@ share: true
    - Ability to break down complex problems into manageable components.
    - Experience working on structured projects or workflows.
 
----
+
 
 ### **Technical Prerequisites (nice to have)**
 1. **Mathematics and Statistics**
@@ -198,7 +198,7 @@ share: true
    - Experience with AI libraries like TensorFlow, PyTorch, or scikit-learn (preferred).
    - Familiarity with Docker or virtual environments for software setup.
 
----
+
 
 ### **Team and Infrastructure Requirements**
 1. **Team Member Roles**
@@ -213,13 +213,13 @@ share: true
      - Development environments (e.g., PyCharm, VSCode).
      - Libraries like NumPy, Pandas, Matplotlib, LangChain, and OpenAI API.
 
----
+
 
 ## Infrastructure / Platform Required 
 
 Choosing the right platforms for an **Agentic AI Training** course is crucial for hands-on learning and scalability. Here's a curated list of platforms that can support your training effectively:
 
----
+
 
 ### **1. Cloud-Based Platforms**
 These platforms are ideal for scalable computing resources, especially for AI and machine learning tasks requiring GPUs or TPUs.
@@ -250,7 +250,7 @@ To visualize and test agentic AI behaviors in real-time.
 - Simplifies the creation of interactive dashboards to visualize agent performance. [Streamlit](https://streamlit.io/)
 - Provides real-time monitoring of agent training and performance metrics. [TensorBoard](https://www.tensorflow.org/tensorboard)
 
----
+
 
 ### **5. Code Hosting and Collaboration**
 - [GitHub](https://github.com/)

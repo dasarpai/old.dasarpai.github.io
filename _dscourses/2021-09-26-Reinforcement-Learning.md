@@ -25,7 +25,7 @@ share: true
 
 ![Reinforcement Learning](/assets/images/dscourses/dsc312-Reinforcement-Learning.jpg)
 
-**Reinforcement Learning**
+# Reinforcement Learning 
 
 ## Classical Reinforcement Learning
 
