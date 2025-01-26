@@ -262,6 +262,8 @@ If you are wealthy, already running a business, or have customers ready to use y
 ###  **AI Family Organizer**  
 - Coordinate schedules, meal plans, and reminders for families, with personalized tips for family bonding.
 
+### **LinkedIn AI Agent**
+- AI agent that can review a LinkedIn profile, company news, website, and Wikipedia page, then write a personalized email to introduce services of XYZ company. It should also handle email replies, follow up based on previous conversations, and reference any new updates or news.
 
 
 ## **Sustainability and Eco-Living**

@@ -33,15 +33,22 @@ textarea,
   font-family: 'Roboto Serif', serif !important;
 }
 
-@media (min-width: 80em) {
-    html {
-        font-size:16px
-    }
+/* Default styles for mobile devices */
+html {
+  font-size: 26px; /* Adjust this value as needed for mobile */
 }
 
-@media (max-width: 600px) {
+/* Styles for tablets and larger devices */
+@media (min-width: 48em) { /* 768px assuming 1em = 16px */
   html {
-      font-size: 1.2em; /* 20% larger than the base size */
+      font-size: 26px; /* Adjust this value as needed for tablets */
+  }
+}
+
+/* Styles for desktops and larger devices */
+@media (min-width: 80em) { /* 1280px assuming 1em = 16px */
+  html {
+      font-size: 20px; /* Adjust this value as needed for desktops */
   }
 }
 

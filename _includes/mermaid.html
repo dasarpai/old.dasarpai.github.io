@@ -1,14 +1,21 @@
 {% if page.mermaid %}
-<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     mermaid.initialize({
       startOnLoad: true,
-      theme: 'default',
-      securityLevel: 'loose',
+      theme: 'forest', // Use a theme with good contrast
       flowchart: {
         useMaxWidth: true
-      }
+      },
+      themeVariables: {
+        primaryColor: '#ffffff', // White background for boxes
+        primaryTextColor: '#000000', // Black text for readability
+        primaryBorderColor: '#333333', // Dark border for boxes
+        secondaryColor: '#f4f4f4', // Light gray for secondary elements
+        tertiaryColor: '#e0e0e0' // Light gray for tertiary elements
+      },
+      securityLevel: 'loose'
     });
   });
 </script>
