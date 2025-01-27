@@ -4,15 +4,16 @@ id: 6095
 title: ML Model Respository from Pinto0309
 date: 2023-09-01
 permalink: /dsblog/ML-Model-Repository-from-Pinto0309
-tags: [ML Models, Pretrained Models, Deep Learning, NLP, Computer Vision]
+tags: [ML Models, Model Zoo, Pretrained Models, Deep Learning, Computer Vision, NLP, Model Deployment, AI Resources]
 categories:
   - dsblog
+keywords: [Machine Learning Models, Model Repository, Pretrained Models, Deep Learning Resources, Computer Vision Models, NLP Models, Model Deployment, AI Development Tools]
 header:
     teaser: /assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A comprehensive collection of machine learning models from Pinto0309's repository. Explore various pretrained models for computer vision, NLP, and other AI tasks, along with their deployment options across different platforms and frameworks.   
 author_profile: true   
 share: true   
 toc: true   
@@ -25,7 +26,7 @@ mathjax: "true"
 # ML Model Repository from Pinto0309
 
 ## Introduction
-Using AI we can solve many kinds of tasks for this input can be text, structured data, image, video, audio, time-series, etc. To solve these problems we need to training model. These models may be computer vision, NLP, or traditional machine learning kind. There are hundreds of architectures and algorithms to solve business problems and create models. There a hundreds of different datasets that can be along with a particular architecture or algorithm to solve the problem. If you have any of these tasks then you can explore using these pre-trained models to solve your problem. There is a GitHub user "Katsuya Hyodo" with GitHub account "PINTO0309". He has trained hundreds of models and created these pre-trained models for the community. You can scan and explore them from there. From there you can download the pre-trained models.
+Using AI we can solve many kinds of tasks for this input can be text, structured data, image, video, audio, time-series, etc. To solve these problems we need to train model. These models may be computer vision, NLP, or traditional machine learning kind. There are hundreds of architectures and algorithms to solve business problems and create models. There a hundreds of different datasets that can be along with a particular architecture or algorithm to solve the problem. If you have any of these tasks then you can explore using these pre-trained models to solve your problem. There is a GitHub user "Katsuya Hyodo" with GitHub account "PINTO0309". He has trained hundreds of models and created these pre-trained models for the community. You can scan and explore them from there. From there you can download the pre-trained models.
 
 
 ## Supported Formats

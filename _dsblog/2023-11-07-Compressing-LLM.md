@@ -4,15 +4,16 @@ id: 6099
 title: Compressing Large Language Model
 date: 2023-11-07
 permalink: /dsblog/compressing-llm
-tags: [LLM, Large Language Model, Model Compressing]
+tags: [LLM, Model Compression, Model Optimization, Deep Learning, AI Efficiency, Quantization, Knowledge Distillation, Model Architecture]
 categories:
   - dsblog
+keywords: [LLM Compression, Model Optimization, Neural Network Compression, AI Efficiency, Model Quantization, Knowledge Distillation, Model Pruning, Efficient AI]
 header:
     teaser: /assets/images/dspost/dsp6099-Compressing-LLM.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Explore techniques and strategies for compressing large language models (LLMs). Learn about quantization, knowledge distillation, pruning, and other methods to reduce model size while maintaining performance.   
 author_profile: true   
 share: true   
 toc: true   

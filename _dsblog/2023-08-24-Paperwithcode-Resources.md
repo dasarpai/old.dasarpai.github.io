@@ -4,16 +4,16 @@ id: 6091
 title: Paper with Code Resources
 date: 2023-08-22
 permalink: '/dsblog/paperwithcode-resources'
-tags: [AI Research Paper, ML Libraries, NLP, Deep Learning]
+tags: [Research Implementation, ML Libraries, Code Resources, AI Development, Machine Learning, Deep Learning, Computer Vision, Research Papers] 
 categories:
   - dsblog
-
+keywords: [Papers with Code, AI Implementation, Research Code, Machine Learning Resources, Deep Learning Code, Computer Vision Implementation, AI Research Resources]
 header:
     teaser: /assets/images/dspost/dsp6091-rps-Paperwithcode-Resources.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A comprehensive collection of AI research papers with their corresponding code implementations. This resource links academic research with practical implementations across various domains including computer vision, NLP, and deep learning.   
 author_profile: true   
 share: true   
 toc: true   

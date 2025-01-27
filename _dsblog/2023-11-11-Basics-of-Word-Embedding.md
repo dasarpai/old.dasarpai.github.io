@@ -4,15 +4,16 @@ id: 6101
 title: Basics of Word Embedding
 date: 2023-11-11
 permalink: /dsblog/basics-of-word-embedding
-tags: [Word Embedding, Embedding, NLP]
+tags: [Word Embedding, NLP, Vector Representation, Text Processing, Machine Learning, Neural Networks, Language Models]
 categories:
   - dsblog
+keywords: [Word Embeddings, Text Vectorization, Natural Language Processing, Word2Vec, GloVe, BERT Embeddings, Neural Language Models, Text Analysis]
 header:
     teaser: /assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: An introduction to word embeddings in natural language processing. Learn about different techniques for converting words into numerical vectors, including Word2Vec, GloVe, and contextual embeddings from transformer models.   
 author_profile: true   
 share: true   
 toc: true   

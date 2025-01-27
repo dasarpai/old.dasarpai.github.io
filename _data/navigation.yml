@@ -233,9 +233,7 @@ docs:
 
 importantlinks:
     - label: "About Me"
-      url: "/aboutme"
-    - label: "My Work & Courses"
-      url: "/services"   
+      url: "/aboutme" 
     - title: "My Data Science Courses/Services"
       url: "/dscourses"   
     - title: "MyWork by Business Domain"

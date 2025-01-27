@@ -4,16 +4,16 @@ id: 6074
 title: Python Decorator Function
 date: 2023-07-15
 permalink: '/dsblog/Python-Decorator-Function'
-tags: [Python, Programming] 
+tags: [Python, Programming, Software Development, Design Patterns, Code Optimization] 
 categories:
   - dsblog 
-
+keywords: [Python Decorators, Function Decorators, Python Programming, Metaprogramming, Design Patterns, Code Reusability, Function Wrappers, Python Advanced]
 header:
     teaser: /assets/images/dspost/dsp6074-Python-Decorator-Function.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Master Python decorator functions - a powerful feature for modifying or enhancing functions without changing their source code. Learn about function decorators, their implementation, and common use cases in Python programming.   
 author_profile: true   
 share: true   
 toc: true   
@@ -199,3 +199,4 @@ output
 Interest: {3: 12000, 4: 9600, 5: 18000, 6: 19200}
 TDS: {3: 1200.0, 4: 960.0, 5: 1800.0, 6: 1920.0}
 ```
+

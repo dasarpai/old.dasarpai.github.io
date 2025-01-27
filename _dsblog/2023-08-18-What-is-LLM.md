@@ -4,17 +4,16 @@ id: 6087
 title: What is LLM
 date: 2023-08-18
 permalink: '/dsblog/what-is-llm'
-tags: [LLM, GPT, BERT, Machine Learning, NLP]
+tags: [LLM, GPT, BERT,Natural Language Processing, AI Models, Transformer Architecture, Deep Learning, Language Models, Machine Learning] 
 categories:
   - dsblog
-
-
+keywords: [Large Language Models, LLM Architecture, Transformer Models, GPT, BERT, Neural Networks, AI Language Processing, Natural Language Understanding]
 header:
     teaser: /assets/images/dspost/dsp6087-What-is-LLM.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Explore Large Language Models (LLMs) and their fundamental concepts. Learn about transformer architecture, model types like GPT and BERT, and understand how these powerful AI systems process and generate human language.   
 author_profile: true   
 share: true   
 toc: true   

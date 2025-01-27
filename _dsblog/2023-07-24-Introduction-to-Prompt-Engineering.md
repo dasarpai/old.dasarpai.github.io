@@ -4,16 +4,16 @@ id: 6080
 title: Introduction to Prompt Engineering
 date: 2023-07-24
 permalink: '/dsblog/Introduction-to-Prompt-Engineering'
-tags: [LLM, Prompt Engineering, Google Cloud, AWS Cloud, Auzre Cloud, Language Models] 
+tags: [LLM, Prompt Engineering, AI, Natural Language Processing, Language Models, ChatGPT, AI Interaction] 
 categories:
   - dsblog
-
+keywords: Prompt Engineering, LLM Prompts, AI Interaction, Language Models, ChatGPT, Prompt Design, AI Communication, NLP
 header:
     teaser: /assets/images/dspost/dsp6080-Introduction-to-Prompt-Engineering.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Master the art of prompt engineering for large language models. Learn effective techniques, best practices, and strategies for crafting prompts that generate accurate, relevant, and useful responses from AI models.   
 author_profile: true   
 share: true   
 toc: true   

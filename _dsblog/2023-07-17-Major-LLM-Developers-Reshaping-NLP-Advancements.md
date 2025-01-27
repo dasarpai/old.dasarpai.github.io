@@ -4,16 +4,15 @@ id: 6075
 title: Major LLM Developers Shaping the AI Landscape
 date: 2023-07-15
 permalink: '/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements'
-tags: [LLM, NLP, Machine Learning] 
+tags: [LLM, NLP, Machine Learning, AI Companies, Language Models, AI Research] 
 categories:
   - dsblog
-
 header:
     teaser: /assets/images/dspost/dsp6075-Major-LLM-Developers-Reshaping-NLP-Advancements.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Discover the major companies and institutions driving Large Language Model (LLM) development and innovation. Learn about key players in AI research, their contributions, and how they're shaping the future of natural language processing.   
 author_profile: true   
 share: true   
 toc: true   

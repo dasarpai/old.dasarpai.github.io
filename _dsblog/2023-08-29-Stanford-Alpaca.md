@@ -4,15 +4,16 @@ id: 6116
 title: Stanford Alpaca
 date: 2024-07-27
 permalink: /dsblog/Stanford-Alpaca
-tags: []
+tags: [LLM, Stanford Alpaca, AI Models, Language Models, Model Training, Open Source AI, Machine Learning] 
 categories:
   - dsblog
+keywords: [Stanford Alpaca, Language Models, LLM Training, Open Source AI, Model Fine-tuning, AI Development, Natural Language Processing, Machine Learning]
 header:
     teaser: /assets/images/dspost/dsp6116-Stanford-Alpaca.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Explore Stanford Alpaca, an open-source instruction-following language model. Learn about its architecture, training process, and how to implement and fine-tune this powerful language model for various applications.   
 author_profile: true   
 share: true   
 toc: true   

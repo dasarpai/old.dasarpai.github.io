@@ -4,15 +4,16 @@ id: 6142
 title: Exploring Github
 date: 2024-09-17
 permalink: /dsblog/Exploring-Github
-tags: [Package Management, Software Installation, Linux Software Installation, Github]
+tags: [GitHub, Version Control, Git, Software Development, Repository Management, Collaboration Tools, DevOps]
 categories:
   - dsblog
+keywords: [GitHub Platform, Version Control System, Git Commands, Repository Management, Code Collaboration, DevOps Tools, Software Development Workflow, Git Best Practices]
 header:
     teaser: /assets/images/dspost/dsp6142-Exploring-Github.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A comprehensive guide to GitHub and its features. Learn about repository management, version control, collaboration tools, and best practices for effective software development.   
 author_profile: true   
 share: true   
 toc: true   
@@ -20,7 +21,7 @@ toc_levels: 2
 toc_sticky: true 
 mathjax: "true"
 comments: true
-keywords: [What is a Github, What are Github Actions, What is Github Package, What is Code Lifecycle]
+
 ---
 
 ![Exploring Github](/assets/images/dspost/dsp6142-Exploring-Github.jpg)
@@ -358,73 +359,6 @@ This will remove any local changes and sync your branch with the latest from `ma
 
 ## Question: Is it possible to clone only a particular folder from github?
 
-Git by default doesn't support cloning a single folder from a repository. However, there are several workarounds you can use to achieve this goal:
-
-### 1. **Using Git Sparse Checkout (Partial Clone)**
-With Git's sparse checkout feature, you can clone a repository but only check out specific directories or files. I have tried this on my machine, but unfortunately i couldn't succeed on wsl on windows 11 with mounted drive. But as gone through blogs and github documentation it is mentioned it can be achieved.
-
-#### Steps:
-1. **Clone the Repository Without Checking Out Files:**
-   Run this command to initialize the repository without actually checking out files:
-   ```bash
-   git clone --no-checkout https://github.com/username/repository.git
-   cd repository
-   ```
-
-2. **Enable Sparse Checkout:**
-   In the repository, enable sparse checkout:
-   ```bash
-   git sparse-checkout init --cone
-   ```
-
-3. **Specify the Folder You Want to Clone:**
-   Add the folder path that you want to clone:
-   ```bash
-   git sparse-checkout set path/to/folder
-   ```
-
-4. **Pull the Specific Folder:**
-   Now, pull only the specified folder:
-   ```bash
-   git pull origin main
-   ```
-   Replace `main` with the branch you want to pull from (e.g., `master` or another branch).
-
-This way, you’ll only download the files from the specific folder.
-
-### 2. **Using GitHub Zip Download (Browser Method)**
-If you don’t need to use Git for the folder and just want the contents, you can download it directly via GitHub’s web interface.
-
-#### Steps:
-1. Go to the repository on GitHub.
-2. Navigate to the folder you want to download.
-3. Click on the folder, and on the top right, you’ll see a **"Download ZIP"** option for the entire repository. Unfortunately, this downloads the whole repo, but...
-4. Alternatively, use a service like [Download Directory](https://download-directory.github.io/), which allows you to download only a particular folder by pasting the URL of the folder you want. <font color=green>This method is the most simple and works smoothly.</font>
-
-### 3. **Using SVN (Subversion) to Clone a Folder**
-GitHub also supports Subversion, and with it, you can check out a specific folder.
-
-#### Steps:
-1. Install `svn` (Subversion) if you don't have it:
-   - On Ubuntu:
-     ```bash
-     sudo apt install subversion
-     ```
-   - On macOS (with Homebrew):
-     ```bash
-     brew install svn
-     ```
-
-2. Use this command to clone just the specific folder:
-   ```bash
-   svn checkout https://github.com/username/repository/trunk/path/to/folder
-   ```
-   Replace `username`, `repository`, and `path/to/folder` with the actual values. Also note github's "tree/main" (main is the branch name here) should be replaced with "trunk". <font color=red> Keep in mind some github path may not be accessible via svn.</font>
-
-This method checks out only the desired folder, but it won’t provide the full Git history.
-
-## Question: How to keep big size files in github?
-
 To ensure GitHub Desktop saves large files into Git LFS, follow these steps:
 
 1. git lfs install 
@@ -644,3 +578,5 @@ If you want to revert but keep some changes:
    git push --force
    ```
 
+
+```

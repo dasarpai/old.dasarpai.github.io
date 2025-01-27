@@ -4,15 +4,16 @@ id: 6140
 title: Tensorflow GPU Setup on Local Machine
 date: 2024-08-28
 permalink: /dsblog/Tensorflow-gpu-setup-on-local-machine
-tags: [Tensorflow Installation, Deep Learning, GPU, Docker]
+tags: [TensorFlow, GPU Computing, CUDA, Deep Learning Setup, Docker Containers, Development Environment, Machine Learning Infrastructure]
 categories:
   - dsblog
+keywords: [TensorFlow GPU Setup, CUDA Installation, Deep Learning Environment, Docker Configuration, GPU Computing, NVIDIA Drivers, Development Setup, Machine Learning Tools]
 header:
     teaser: /assets/images/dspost/dsp6140-Tensorflow-gpu-setup-on-local-machine.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A comprehensive guide to setting up TensorFlow with GPU support on your local machine. Learn about CUDA, Docker configuration, and essential steps for optimizing deep learning performance.   
 author_profile: true   
 share: true   
 toc: true   
@@ -20,7 +21,7 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: [TensorFlow GPU setup, install TensorFlow GPU, TensorFlow Windows installation, local machine deep learning, GPU acceleration TensorFlow, TensorFlow CUDA setup, deep learning with GPU, TensorFlow GPU configuration, machine learning setup, TensorFlow performance optimization, install CUDA for TensorFlow, cuDNN setup for TensorFlow]
+
 ---
 
 ![Tensorflow GPU Setup on Local Machine](/assets/images/dspost/dsp6140-Tensorflow-gpu-setup-on-local-machine.jpg)

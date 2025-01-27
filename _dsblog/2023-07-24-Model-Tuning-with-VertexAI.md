@@ -4,7 +4,7 @@ id: 6081
 title: Model Tuning with VertexAI
 date: 2023-07-24
 permalink: '/dsblog/Model-Tuning-with-VertexAI'
-tags: [LLM, Prompt Engineering, Google Cloud, AWS Cloud, Auzre Cloud, Language Models] 
+tags: [Google Cloud, VertexAI, Machine Learning, Model Tuning, Cloud AI, MLOps, Model Optimization] 
 categories:
   - dsblog
 
@@ -13,12 +13,13 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A practical guide to model tuning using Google Cloud's VertexAI platform. Learn how to optimize and fine-tune machine learning models, manage training pipelines, and improve model performance using VertexAI's powerful features.   
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
 mathjax: "true"
+keywords: [VertexAI, Google Cloud AI, Model Tuning, Machine Learning Platform, AI Model Optimization, Cloud ML, Model Training, Google AI]
 ---
 
 ![Model Tuning with VertexAI]( /assets/images/dspost/dsp6081-Model-Tuning-with-VertexAI.jpg)

@@ -4,15 +4,16 @@ id: 6115
 title: Why to Finetune LLM?
 date: 2024-07-28
 permalink: /dsblog/why-to-finetune-llm
-tags: [NLP, NLU, LLM]
+tags: [LLM Fine-tuning, Machine Learning, Model Training, AI Customization, Language Models, Transfer Learning, Neural Networks]
 categories:
   - dsblog
+keywords: [LLM Fine-tuning, Model Training, AI Model Customization, Transfer Learning, Language Model Adaptation, Few-Shot Learning, Model Optimization, AI Training]
 header:
     teaser: /assets/images/dspost/dsp6115-why-to-finetune-llm.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Learn why and how to fine-tune Large Language Models. Understand the benefits, techniques, and best practices for customizing AI models to specific use cases and requirements.   
 author_profile: true   
 share: true   
 toc: true   
@@ -203,7 +204,8 @@ In essence, few-shot learning allows a model to quickly adapt to new tasks by un
 ### Summary
 
 - **Few-Shot Learning**: Relies on prompt engineering skills to craft effective examples and instructions for the model to perform tasks with minimal additional data.
-- **Fine-Tuning**: Requires machine learning expertise to further train a pre-trained model on a specific dataset, adjusting its weights to optimize performance for a particular task.
+- **Custom GPTs**: Can be created using a variety of methods, including prompt engineering, instruction tuning, and fine-tuning.
+- **Explore GPT Section**: Features GPTs that may use different combinations of these techniques to cater to specific use cases or tasks.
 
 Both approaches leverage pre-trained models but are used in different contexts and require different sets of skills to implement effectively.
 
@@ -288,8 +290,6 @@ For models where direct fine-tuning is not available, consider:
 
 By leveraging these approaches, you can tailor the behavior of advanced models to better fit your specific needs, even if direct fine-tuning is not an option.
 
-
-
 ## After we finetune chatgpt3.5 model can we download the finetued model?
 As of the latest information available, when you fine-tune a model like ChatGPT-3.5 through OpenAI, you cannot download the fine-tuned model directly. Here’s how it typically works:
 
@@ -318,8 +318,3 @@ If you need direct access to a model for local usage or modification, consider t
 - **ChatGPT-3.5 Fine-Tuning**: Fine-tuning is done via the OpenAI API, and you interact with the fine-tuned model through API requests.
 - **Direct Download**: Downloading the fine-tuned model itself is not supported by OpenAI.
 - **Alternatives**: Use open-source models or local training methods if direct access to the model is needed.
-
-**Author**   
-Dr Hari Thapliyaal   
-dasarpai.com    
-linkedin.com/in/harithapliyal    

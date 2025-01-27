@@ -4,16 +4,17 @@ id: 6107
 title: Summary of Life Changing Selfhelp Books
 date: 2023-12-04
 permalink: /dsblog/summary-of-life-changing-selfhelp-books
-tags: [Selfhelp Books]
+tags: [Self Help, Personal Development, Book Summaries, Life Skills, Personal Growth, Reading, Motivation]
 categories:
   - dsblog
+keywords: [Self Help Books, Personal Development, Life Changing Books, Book Summaries, Personal Growth, Reading Lists, Motivational Books, Life Skills]
 header:
     teaser: /assets/images/dspost/dsp6107-Summary-of-Life-Changing-Selfhelp-Books.jpg
     
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A curated collection of transformative self-help book summaries. Discover key insights and life-changing principles from influential authors that can help guide personal growth and development.   
 author_profile: true   
 share: true   
 toc: true   

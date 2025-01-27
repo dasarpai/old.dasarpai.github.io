@@ -4,9 +4,10 @@ id: 6136
 title: Programming Resources
 date: 2024-08-12
 permalink: /dsblog/Programming-Resources
-tags: [Programming, Interview, Resources, Jobs]
+tags: [Programming, Software Development, Coding Resources, Learning Materials, Technical Interviews, Career Development, Developer Tools]
 categories:
   - dsblog
+keywords: [Programming Resources, Coding Tutorials, Software Development Tools, Learning Platforms, Technical Interview Preparation, Developer Career Guide, Coding Practice, Programming Languages, Development Best Practices]
 header:
     teaser: /assets/images/dspost/dsp6136-Programming-Resources.jpg
 excerpt_separator: "<!--more-->"   
@@ -82,7 +83,7 @@ keywords: [Programming resources, Best programming resources 2024, Top programmi
 *   [Step by Step Guide to Database Normalization](https://www.databasestar.com/normalization-in-dbms/): A guide to database normalization.
 *   [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
 *   [The Open Web Application Security Project (OWASP)](https://www.owasp.org) : OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted.
-*   [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be) : What I’ve learned from teaching others
+*   [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.org/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be) : What I’ve learned from teaching others
 *   [Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 *   [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com)
 *   [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : The Principles of Good Programming
@@ -259,7 +260,7 @@ keywords: [Programming resources, Best programming resources 2024, Top programmi
 *   [Coursera Engineering Blog](https://building.coursera.org/)
 *   [PayPal Engineering Blog](https://www.paypal-engineering.com/)
 *   [Nextdoor Engineering Blog](https://engblog.nextdoor.com/)
-*   [Booking.com Development Blog](https://blog.booking.com/)
+*   [Booking.com Development Blog](https://blog.booking.com)
 *   [Scalyr Engineering Blog](https://blog.scalyr.com/)
 
 ## Interview 

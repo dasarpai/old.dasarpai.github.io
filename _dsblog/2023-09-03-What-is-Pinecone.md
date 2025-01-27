@@ -4,15 +4,16 @@ id: 6097
 title: What is Pinecone
 date: 2023-09-03
 permalink: /dsblog/What-is-Pinecone
-tags: [ML Models, Vector Embedding, LLM]
+tags: [Vector Database, Pinecone, Vector Embedding, Vector Search, LLM, Machine Learning, Data Storage, Similarity Search]
 categories:
   - dsblog
+keywords: [Pinecone Database, Vector Embeddings, Vector Search Engine, Similarity Search, Machine Learning Database, LLM Infrastructure, Vector Storage, AI Data Management]
 header:
     teaser: /assets/images/dspost/dsp6097-What-is-Pinecone.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: An introduction to Pinecone, a vector database designed for machine learning applications. Learn about vector embeddings, similarity search, and how Pinecone enables efficient storage and retrieval of high-dimensional vector data for AI applications.   
 author_profile: true   
 share: true   
 toc: true   
@@ -223,4 +224,3 @@ active_collections = pinecone.list_collections() # list collection
 
 
 ```
-

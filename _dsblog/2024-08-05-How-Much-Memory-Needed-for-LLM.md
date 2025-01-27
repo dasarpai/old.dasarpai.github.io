@@ -4,15 +4,16 @@ id: 6133
 title: How Much Memory Needed for LLM
 date: 2024-08-05
 permalink: /dsblog/How-Much-Memory-Needed-for-LLM
-tags: []
+tags: [LLM Infrastructure, Hardware Requirements, GPU Computing, Memory Management, AI Infrastructure, Deep Learning, Computing Resources]
 categories:
   - dsblog
+keywords: [LLM Memory Requirements, GPU Memory, Hardware Specifications, AI Computing Infrastructure, Deep Learning Hardware, Memory Management, Computing Resources, Model Deployment]
 header:
     teaser: /assets/images/dspost/dsp6133-How-Much-Memory-Needed-for-LLM.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Understand the memory and hardware requirements for running Large Language Models. Learn about GPU specifications, RAM requirements, and infrastructure needs for optimal LLM performance.   
 author_profile: true   
 share: true   
 toc: true   

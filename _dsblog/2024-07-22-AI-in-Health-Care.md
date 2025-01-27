@@ -4,15 +4,16 @@ id: 6124
 title: AI in Health Care
 date: 2024-07-22
 permalink: /dsblog/AI-in-Health-Care
-tags: []
+tags: [Healthcare AI, Medical Technology, Digital Health, Medical Innovation, Clinical AI, Healthcare Analytics, Medical Diagnosis]
 categories:
   - dsblog
+keywords: [AI in Healthcare, Medical AI Applications, Healthcare Innovation, Clinical Decision Support, Medical Diagnosis, Patient Care Technology, Healthcare Analytics, Medical AI Tools]
 header:
     teaser: /assets/images/dspost/dsp6124-AI-in-Health-Care.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Explore the transformative impact of artificial intelligence in healthcare. Learn about AI applications in medical diagnosis, treatment planning, patient care, and how AI is revolutionizing the healthcare industry.   
 author_profile: true   
 share: true   
 toc: true   
@@ -156,4 +157,3 @@ AI is revolutionizing the field of new drug discovery by significantly accelerat
 Dr Hari Thapliyaal   
 dasarpai.com    
 linkedin.com/in/harithapliyal   
-

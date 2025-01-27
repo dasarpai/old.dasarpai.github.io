@@ -4,15 +4,16 @@ id: 6100
 title: My Journey from Master to PhD in Data Science and AI
 date: 2023-11-08
 permalink: /dsblog/journey-from-master-to-phd
-tags: [Learning AI, Learning ML, Learning Process, PhD in AI, Question Answering with History Book]
+tags: [PhD Journey, Academic Research, Data Science Education, AI Research, Research Methodology, Academic Writing, Higher Education]
 categories:
   - dsblog
+keywords: [PhD in Data Science, AI Research Journey, Academic Research, Research Methodology, Doctoral Studies, Research Experience, Higher Education, Academic Career]
 header:
     teaser: /assets/images/dspost/dsp6100-Journey-from-MS-to-Phd.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A personal account of the journey from pursuing a Master's degree to completing a PhD in Data Science and AI. Share insights, challenges, and lessons learned during academic research and doctoral studies.   
 author_profile: true   
 share: true   
 toc: true   

@@ -4,15 +4,16 @@ id: 6145
 title: "Python Project Folders and Files"
 date: 2024-09-26
 permalink: /dsblog/Python-Project-Folders-and-Files
-tags: [Python, MLOPs, Configuration Management]
+tags: [Python Development, Project Structure, Development Environment, Virtual Environments, Configuration Management, Best Practices, Software Architecture]
 categories:
   - dsblog
+keywords: Python Project Structure, Development Environment Setup, Virtual Environments, Project Configuration, Development Best Practices, Python Architecture, Project Organization
 header:
     teaser: /assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Learn about Python project organization and best practices. Understand the purpose of different folders and files in a Python project, from virtual environments to configuration management.   
 author_profile: true   
 share: true   
 toc: true   
@@ -20,7 +21,6 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: ["Python Project Structure", "Python Development", "Project Organization", "Virtual Environment", "Python Best Practices", "Development Setup", "Package Management", "Project Architecture", "Python Modules", "Configuration Management", "Development Environment", "Python Dependencies", "Code Organization", "Project Layout", "Software Development"]
 ---
 
 ![Python Project Folders and Files](/assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg)

@@ -4,16 +4,16 @@ id: 6072
 title: Python Naming Convention
 date: 2023-07-11
 permalink: '/dsblog/Python-Naming-Convention'
-tags: [Programming, Algorithms] 
+tags: [Python, Programming, Code Style, Best Practices, Software Development, PEP 8] 
 categories:
   - dsblog
-
+keywords: [Python Naming Convention, PEP 8, Code Style Guide, Python Programming, Best Practices, Clean Code, Variable Naming, Function Naming]
 header:
     teaser: /assets/images/dspost/dsp6072-Python-Naming-Convention.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A comprehensive guide to Python naming conventions following PEP 8 standards. Learn best practices for naming variables, functions, classes, and modules to write clean, maintainable, and Pythonic code.   
 author_profile: true   
 share: true   
 toc: true   
@@ -189,4 +189,3 @@ class Test:
 	
 ## References
 - https://peps.python.org/pep-0008/#programming-recommendations
-

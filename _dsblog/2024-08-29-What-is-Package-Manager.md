@@ -4,15 +4,16 @@ id: 6141
 title: "What is Package Manager?"
 date: 2024-08-29
 permalink: /dsblog/What-is-Package-Manager
-tags: [Package Management, Software Installation, Linux Software Installation]
+tags: [Package Management, Software Development, System Administration, Dependency Management, Linux Tools, Software Installation, Development Tools]
 categories:
   - dsblog
+keywords: [Package Managers, Software Dependencies, System Package Management, NPM, PIP, APT, YUM, Homebrew, Software Installation Tools, Dependency Resolution]
 header:
     teaser: /assets/images/dspost/dsp6141-What-is-Package-Manager.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Understand package managers and their role in software development. Learn about different package management tools, dependency resolution, and best practices for managing software installations.   
 author_profile: true   
 share: true   
 toc: true   
@@ -20,7 +21,6 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: [What is a package manager, package manager overview, software package management, package managers explained, Linux package manager, programming package manager, system package management, dependency management tools, popular package managers, installing software on Linux, package management guide, package manager examples, software installation tools]
 ---
 
 ![What-is-Package-Manager](/assets/images/dspost/dsp6141-What-is-Package-Manager.jpg)

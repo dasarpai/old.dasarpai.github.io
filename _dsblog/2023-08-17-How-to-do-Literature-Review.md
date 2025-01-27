@@ -4,17 +4,16 @@ id: 6086
 title: How to do Literature Review
 date: 2023-08-17
 permalink: '/dsblog/How-To-Do-Literature-Review'
-tags: [Literature Review, Research Paper]
+tags: [Research Methodology, Literature Review, Academic Writing, Research Skills, Systematic Review, Research Paper, Academic Research] 
 categories:
   - dsblog
-
-
+keywords: [Literature Review, Research Methodology, Academic Writing, Research Paper, Systematic Review, Research Analysis, Citation Management, Research Organization]
 header:
     teaser: /assets/images/dspost/dsp6086-How-To-Do-Literature-Review.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A comprehensive guide to conducting effective literature reviews for academic research. Learn systematic approaches to finding, organizing, and analyzing research papers, including best practices for documentation and synthesis of academic literature.   
 author_profile: true   
 share: true   
 toc: true   
@@ -122,4 +121,3 @@ All these numbers of pages are without appendices and references.
 
 ## Resource
 You can use [this Literature-Review-Template ](https://docs.google.com/spreadsheets/d/1aAHzei8OYRS4rCaW44j9g8ewEeIGXrkAI6HQ4oiCw8o/edit?usp=sharing) for your Literature Review work. [Download Template](/assets/docs/Literature-Review-Template.xlsx).
-

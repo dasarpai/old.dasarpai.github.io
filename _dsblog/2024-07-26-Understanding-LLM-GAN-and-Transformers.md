@@ -4,15 +4,16 @@ id: 6127
 title: Understanding LLM GAN and Transformers
 date: 2024-07-26
 permalink: /dsblog/Understanding-LLM-GAN-and-Transformers
-tags: []
+tags: [Large Language Models, GANs, Transformers, Deep Learning, AI Architecture, Neural Networks, Machine Learning]
 categories:
   - dsblog
+keywords: [LLM Architecture, Generative AI, Transformer Models, Neural Networks, Deep Learning Models, Language Processing, AI Model Comparison, Machine Learning Architecture]
 header:
     teaser: /assets/images/dspost/dsp6127-Understanding-LLM-GAN-and-Transformers.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Compare and understand the architectures of Large Language Models, GANs, and Transformers. Learn about their unique characteristics, applications, and how they revolutionize artificial intelligence.   
 author_profile: true   
 share: true   
 toc: true   

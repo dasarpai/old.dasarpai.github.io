@@ -4,15 +4,16 @@ id: 6119
 title: Decoding Windows User Folder
 date: 2024-06-30
 permalink: /dsblog/Decoding-Windows-User-Folder
-tags: []
+tags: [Windows, System Administration, File Management, User Profiles, Operating Systems, Windows Configuration, System Settings]
 categories:
   - dsblog
+keywords: [Windows User Folder, AppData Directory, System Configuration, User Profiles, Windows File System, File Management, Windows Settings, System Administration]
 header:
     teaser: /assets/images/dspost/dsp6119-Decoding-Windows-User-Folder.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Understand the structure and purpose of Windows user folders. Learn about AppData directories, user profiles, and how Windows organizes user-specific files and settings.   
 author_profile: true   
 share: true   
 toc: true   

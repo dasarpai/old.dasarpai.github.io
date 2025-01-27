@@ -4,22 +4,22 @@ id: 6139
 title: All About AI Hype
 date: 2024-08-27
 permalink: /dsblog/All-About-ai-Hype
-tags: [AI Trends, Future with AI]
+tags: [AI Trends, Technology Impact, Future Technology, AI Ethics, Technological Change, Digital Transformation, Societal Impact]
 categories:
   - dsblog
+keywords: [AI Hype, Technology Impact, Future of AI, Digital Transformation, AI Ethics, Technological Change, Societal Changes, AI Development, Technology Trends]
 header:
     teaser: /assets/images/dspost/dsp6139-All-About-ai-Hype.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Examine the reality behind AI hype and its impact on society. Explore the balance between AI's transformative potential and realistic expectations, while considering ethical implications and societal changes.   
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
 mathjax: "true"
 comments: true
-keywords: [AI hype, artificial intelligence trends, future of AI, AI myths, machine learning hype, AI technology 2024, AI applications, AI innovations, understanding AI, AI misconceptions, AI industry growth, deep learning advancements, AI predictions]
 
 ---
 

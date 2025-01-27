@@ -4,15 +4,16 @@ id: 6129
 title: LLM Architecture and Training
 date: 2024-08-04
 permalink: /dsblog/LLM-Architecture-and-Training
-tags: []
+tags: [LLM Architecture, Deep Learning, Model Training, Neural Networks, AI Development, Machine Learning, Transformer Models]
 categories:
   - dsblog
+keywords: [LLM Training, Model Architecture, Neural Network Design, AI Model Development, Deep Learning Training, Language Model Architecture, Transformer Networks, Model Optimization]
 header:
     teaser: /assets/images/dspost/dsp6129-LLM-Architecture-and-Training.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Dive deep into the architecture and training process of Large Language Models. Understand the components, training methodologies, and optimization techniques used in building advanced AI models.   
 author_profile: true   
 share: true   
 toc: true   

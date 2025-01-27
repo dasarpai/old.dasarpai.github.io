@@ -4,16 +4,16 @@ id: 6073
 title: Embedding with FastText
 date: 2023-07-15
 permalink: '/dsblog/Embedding-with-FastText'
-tags: [NLP, Embedding, FastText] 
+tags: [NLP, Word Embeddings, FastText, Machine Learning, Text Processing, Deep Learning] 
 categories:
   - dsblog
-
+keywords: [FastText, Word Embeddings, Natural Language Processing, Text Analysis, Vector Representations, Word Vectors, Text Classification, Multilingual NLP]
 header:
     teaser: /assets/images/dspost/dsp6073-Embedding-with-FastText.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Explore FastText word embeddings for natural language processing tasks. Learn about its advantages, implementation, and comparison with other embedding techniques like BERT. Understand how FastText handles out-of-vocabulary words and multilingual text.   
 author_profile: true   
 share: true   
 toc: true   
@@ -162,4 +162,3 @@ Here's a general outline of the steps:
 	- Based on the similarity scores, select the passage or sentence with the highest score as the most relevant answer to the question.
 
 Using a multilingual language model like mBERT or XLM-R will help you leverage the knowledge encoded in the embeddings, considering both English and Sanskrit words present in your corpus.
-

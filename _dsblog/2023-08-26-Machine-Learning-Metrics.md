@@ -4,17 +4,16 @@ id: 6092
 title: Machine Learning Metrics
 date: 2023-08-21
 permalink: '/dsblog/Machine-Learning-Metrics'
-tags: [Machine Learning, NLP, ML Metrics, Model Evaluation, Abbreviation]
+tags: [Machine Learning, Model Evaluation, Performance Metrics, Data Science, ML Metrics, Model Assessment, Statistical Analysis] 
 categories:
   - dsblog
-
-
+keywords: [Machine Learning Metrics, Model Evaluation, Performance Measurement, ML Model Assessment, Evaluation Metrics, Model Performance, Statistical Metrics, ML Evaluation]
 header:
     teaser: /assets/images/dspost/dsp6092-Machine-Learning-Metrics.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A comprehensive guide to machine learning evaluation metrics. Learn about various metrics used to assess model performance, including accuracy, precision, recall, F1-score, and specialized metrics for different ML tasks.   
 author_profile: true   
 share: true   
 toc: true   

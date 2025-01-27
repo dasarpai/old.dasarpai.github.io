@@ -4,16 +4,16 @@ id: 6069
 title: 'What is GAN Architecture?'
 date: 2023-07-03
 permalink: '/dsblog/What-is-GAN-Architecture'
-tags: [NLP, AI Transformers, Deep Learning, GAN] 
+tags: [Deep Learning, GAN, Neural Networks, Computer Vision, Image Generation, Machine Learning] 
 categories:
   - dsblog
-
+keywords: [Generative Adversarial Networks, GAN Architecture, Deep Learning, Neural Networks, Image Generation, Computer Vision, Machine Learning, AI Models]
 header:
     teaser: /assets/images/dspost/dsp6069-What-is-GAN-Architecture.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: An in-depth exploration of Generative Adversarial Networks (GANs) architecture, including various GAN types, their applications in image generation, and how they work. Understand the generator-discriminator dynamic and different GAN variants.   
 author_profile: true   
 share: true   
 toc: true   

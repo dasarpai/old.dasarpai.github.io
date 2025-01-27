@@ -4,15 +4,16 @@ id: 6108
 title: Data Science and Basics of Astrology    
 date: "2023-12-27T08:33:00+05:30"        
 permalink: /dsblog/Basics-of-Astrology
-tags: [Education, Data Science, Astrology, Astronomy]
+tags: [Astrology, Data Science, Astronomy, Vedic Science, Celestial Objects, Predictive Modeling, Ancient Knowledge]
 categories:
   - dsblog
+keywords: [Astrology Basics, Data Science in Astrology, Astronomical Calculations, Vedic Astrology, Celestial Patterns, Predictive Models, Ancient Sciences, Modern Astrology]
 header:
     teaser: /assets/images/dspost/dsp6108-Basics-of-Astrology.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Explore the intersection of data science and astrology. Learn how modern computational methods can be applied to ancient astrological principles, and understand the basics of celestial patterns and their interpretations.   
 author_profile: true   
 share: true   
 toc: true   

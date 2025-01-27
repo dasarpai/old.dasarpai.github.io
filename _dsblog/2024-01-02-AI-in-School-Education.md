@@ -4,16 +4,16 @@ id: 6109
 title: AI in School Education
 date: 2024-01-02
 permalink: /dsblog/AI-in-School-Education
-tags: [AI-Usecases, Education] 
+tags: [AI in Education, Educational Technology, Digital Learning, School Innovation, Teaching Technology, EdTech, Learning Analytics] 
 categories:
   - dsblog
-
+keywords: [AI Education Applications, Educational Technology, Digital Learning Tools, School Innovation, Smart Classrooms, Learning Analytics, Educational AI, Modern Teaching Methods]
 header:
     teaser: /assets/images/dspost/dsp6109-AI-Usecases-in-Education.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Discover how artificial intelligence is transforming school education. Explore innovative applications of AI in teaching, learning assessment, personalized education, and classroom management for enhanced educational outcomes.   
 author_profile: true   
 share: true   
 toc: true   
@@ -140,5 +140,3 @@ Embracing AI in education isn't just about revolutionizing classrooms; it's abou
 As a philosopher and spiritual thinker I want to make all the stakeholders aware that teaching peaceful living, living in harmoney, truly respecting the resources, elders and people around is important part of teaching. And parents cannot run away from this. No matter how much technology we bring in education, parents are responsible to bring children on this planet, and they are responsible for their right upbrining. In the name of society, modernization, AI they cannot brush away their hands. Bad upbring leads to bad citizen of the nation, bad name for parents and traditions, and lifetime headache for parents and family.
 
 The journey has begun. The possibilities are endless. Together, let us embark on this transformative path towards an AI-enhanced educational frontier.
-
-

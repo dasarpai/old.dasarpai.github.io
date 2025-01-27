@@ -4,15 +4,16 @@ id: 6144
 title: GenAI Capabilities from AWS, Azure and GCP
 date: 2024-09-25
 permalink: /dsblog/GenAI-Capabilities-from-AWS+GCP+Azure
-tags: [GenAI, Large Language Model]
+tags: [Cloud AI Services, AWS, Azure, Google Cloud, Generative AI, Cloud Computing, Machine Learning Infrastructure]
 categories:
   - dsblog
+keywords: [Cloud AI Platforms, AWS AI Services, Azure AI, Google Cloud AI, Generative AI Tools, Cloud Machine Learning, AI Infrastructure Comparison]
 header:
     teaser: /assets/images/dspost/dsp6144-GenAI-Capabilities-from-AWS+GCP+Azure.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Compare and understand the Generative AI capabilities across major cloud providers - AWS, Azure, and Google Cloud Platform. Learn about their AI services, infrastructure, and implementation approaches.   
 author_profile: true   
 share: true   
 toc: true   
@@ -20,7 +21,6 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: ["Generative AI", "Cloud AI Services", "AWS AI", "Azure OpenAI", "Google Cloud AI", "Cloud Machine Learning", "AI Platform Comparison", "Enterprise AI Solutions", "AI Cloud Infrastructure", "MLOps", "AI Model Deployment", "Cloud AI Tools", "AI Service Providers", "AI Development Platforms", "AI Infrastructure"]
 ---
 
 ![GenAI Capabilities from AWS, Azure, and Google Cloud](/assets/images/dspost/dsp6144-GenAI-Capabilities-from-AWS+GCP+Azure.jpg)

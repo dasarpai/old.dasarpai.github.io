@@ -4,16 +4,16 @@ id: 6071
 title: Sorting Algorithm A Summary
 date: 2023-07-10
 permalink: '/dsblog/Sorting-Algorithm-A-Summary'
-tags: [Programming, Algorithms] 
+tags: [Programming, Algorithms, Data Structures, Computer Science, Sorting, Algorithm Analysis] 
 categories:
   - dsblog
-
+keywords: [Sorting Algorithms, Algorithm Complexity, Data Structures, Time Complexity, Space Complexity, Quick Sort, Merge Sort, Bubble Sort, Algorithm Analysis]
 header:
     teaser: /assets/images/dspost/dsp6071-Sorting-Algorithm-A-Summary.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A comprehensive overview of various sorting algorithms, their implementations, time and space complexities. Learn about different sorting techniques including Quick Sort, Merge Sort, Bubble Sort, and their practical applications.   
 author_profile: true   
 share: true   
 toc: true   
@@ -150,9 +150,3 @@ Itr5: .....
 	- Space Complexity: The space complexity of insertion sort is **O(1)** since it sorts the array in place without requiring additional memory proportional to the input size. It only requires a constant amount of additional space to store temporary variables during swapping and insertion operations.
 
 Note that the time and space complexities mentioned above represent the standard complexities for these sorting algorithms. Different implementations or variations may have slight variations in their complexities.
-
-
-
-
-
-

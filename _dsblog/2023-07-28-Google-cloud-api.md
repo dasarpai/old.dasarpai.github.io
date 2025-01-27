@@ -4,16 +4,16 @@ id: 6082
 title: Google Cloud APIs
 date: 2023-07-28
 permalink: '/dsblog/Google-Cloud-APIS'
-tags: [Google Cloud, APIs] 
+tags: [Google Cloud, APIs, Cloud Computing, Cloud Services, Developer Tools, Cloud Integration, Cloud Development] 
 categories:
   - dsblog
-
+keywords: [Google Cloud APIs, Cloud Services, API Integration, Google Cloud Platform, Cloud Development, GCP APIs, Cloud Computing, Developer Tools]
 header:
     teaser: /assets/images/dspost/dsp6082-Google-API-Services.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A comprehensive guide to Google Cloud APIs, including available services, integration methods, and implementation details. Learn about various Google Cloud Platform APIs and how to effectively use them in your applications.   
 author_profile: true   
 share: true   
 toc: true   
@@ -209,4 +209,3 @@ If you are using AI API services, then the price depends on what specific AI ser
 - [Google Cloud API Libraries in Different Languages](https://cloud.google.com/apis/docs/cloud-client-libraries)
 - [Google Cloud Python Library of API on Github](https://github.com/googleapis/google-cloud-python)
 - [API Library List](https://cloud.google.com/python/docs/reference)
-

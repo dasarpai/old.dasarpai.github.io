@@ -4,15 +4,16 @@ id: 6113
 title: Transformers Demystified A Step-by-Step Guide
 date: 2024-07-25
 permalink: /dsblog/transformers-demystified-a-step-by-step-guide
-tags: [NLP, NLU, LLM]
+tags: [Transformers, Deep Learning, Natural Language Processing, Neural Networks, Machine Learning, AI Architecture, Attention Mechanism]
 categories:
   - dsblog
+keywords: [Transformer Architecture, Neural Networks, Attention Mechanism, Deep Learning Models, NLP Architecture, Machine Learning Models, AI Model Design, Language Processing]
 header:
     teaser: /assets/images/dspost/dsp6113-transformers-demystified-a-step-by-step-guide.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A comprehensive guide to understanding transformer architecture. Learn about attention mechanisms, encoder-decoder structures, and how transformers revolutionize natural language processing.   
 author_profile: true   
 share: true   
 toc: true   

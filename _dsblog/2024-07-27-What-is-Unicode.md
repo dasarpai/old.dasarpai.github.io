@@ -4,15 +4,16 @@ id: 6114
 title: What is Unicode and how does it works?
 date: 2024-07-27
 permalink: /dsblog/what-is-unicode-and-how-does-it-works
-tags: [NLP, NLU, LLM]
+tags: [Unicode, Character Encoding, Text Processing, Software Development, International Standards, Programming, Data Representation]
 categories:
   - dsblog
+keywords: [Unicode Standard, Character Encoding, UTF-8, UTF-16, UTF-32, Text Processing, International Text, Character Sets, Text Representation]
 header:
     teaser: /assets/images/dspost/dsp6114-what-is-unicode-and-how-does-it-works.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Understand Unicode and its implementation in modern computing. Learn about different Unicode encodings (UTF-8, UTF-16, UTF-32), their uses, and how they handle international character sets.   
 author_profile: true   
 share: true   
 toc: true   
@@ -198,4 +199,3 @@ While UTF-32 might seem like the straightforward choice due to its fixed-width n
 Dr Hari Thapliyaal   
 dasarpai.com    
 linkedin.com/in/harithapliyal 
-

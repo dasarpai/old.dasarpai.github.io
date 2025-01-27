@@ -4,15 +4,16 @@ id: 6117
 title: Decoding docker commands
 date: 2024-06-28
 permalink: /dsblog/Decoding-docker-commands
-tags: []
+tags: [Docker, Containerization, DevOps, Software Development, Container Management, Development Tools, System Administration]
 categories:
   - dsblog
+keywords: [Docker Commands, Container Management, DevOps Tools, Docker Images, Containerization, Docker Compose, Container Deployment, Docker Configuration]
 header:
     teaser: /assets/images/dspost/dsp6117-Decoding-docker-commands.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A comprehensive guide to understanding and using Docker commands. Learn about container management, image building, deployment, and best practices for efficient Docker operations.   
 author_profile: true   
 share: true   
 toc: true   

@@ -4,17 +4,16 @@ id: 6094
 title: Python APIs for Data
 date: 2023-08-28
 permalink: '/dsblog/python-apis-for-data'
-tags: [Python, API, Data]
+tags: [Python, APIs, Data Integration, Web Services, Programming, Data Collection, Development Tools] 
 categories:
   - dsblog
-
-
+keywords: [Python APIs, Data Integration, Web Services, API Development, Data Collection Tools, Python Libraries, Web APIs, Data Access]
 header:
     teaser: /assets/images/dspost/dsp6094-Python-APIs-for-Data.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A comprehensive guide to Python APIs for data collection and integration. Explore various APIs and libraries available for accessing and processing data from different sources, including social media, databases, and web services.   
 author_profile: true   
 share: true   
 toc: true   
@@ -163,4 +162,3 @@ mathjax: "true"
 Wunderground : Weather data from 250,000+ Weather Stations.
 - [API Documentation](https://www.wunderground.com/login)
 - [Scraping Wunderground](https://www.pythonforbeginners.com/api/scraping-wunderground)
-

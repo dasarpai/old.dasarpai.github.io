@@ -4,15 +4,16 @@ id: 6130
 title: LLM Skills and Human Skills
 date: 2024-08-04
 permalink: /dsblog/LLM-Skills-and-Human-Skills
-tags: []
+tags: [Artificial Intelligence, Human Skills, AI Capabilities, Workforce Development, AI Integration, Professional Development, Future Skills]
 categories:
   - dsblog
+keywords: [LLM Capabilities, Human Skills, AI vs Human Intelligence, Future of Work, Skill Development, AI Integration, Professional Growth, Workforce Evolution]
 header:
     teaser: /assets/images/dspost/dsp6130-LLM-Skills-and-Human-Skills.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Compare and contrast the capabilities of Large Language Models with human skills. Understand how AI complements human abilities and shapes the future of work and skill development.   
 author_profile: true   
 share: true   
 toc: true   

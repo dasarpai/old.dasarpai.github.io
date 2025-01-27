@@ -4,16 +4,16 @@ id: 6068
 title: 'A Guide to Model Fine Tuning with OpenAI API'
 date: 2023-07-02
 permalink: '/dsblog/Model-Fine-Tuning-with-OpenAI-API'
-tags: [NLP, AI Transformers, Deep Learning, OpenAI] 
+tags: [NLP, AI Transformers, Deep Learning, OpenAI, Model Fine-tuning, API Integration] 
 categories:
   - dsblog
-
+keywords: [OpenAI API, Model Fine-tuning, Transfer Learning, Language Models, API Integration, Machine Learning, GPT Models, Custom Models]
 header:
     teaser: /assets/images/dspost/dsp6068-A-Guide-to-Model-Fine-Tuning-with-OpenAI-API.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A practical guide to fine-tuning language models using OpenAI's API. Learn about data preparation, training process, hyperparameter optimization, and best practices for creating custom models tailored to your specific needs.   
 author_profile: true   
 share: true   
 toc: true   

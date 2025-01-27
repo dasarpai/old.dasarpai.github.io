@@ -4,15 +4,16 @@ id: 6132
 title: Software Security Concepts
 date: 2024-07-27
 permalink: /dsblog/Software-Security-Concepts
-tags: []
+tags: [Cybersecurity, Software Development, Security Protocols, Information Security, Data Protection, Network Security, Security Best Practices]
 categories:
   - dsblog
+keywords: [Software Security, Cybersecurity Concepts, Information Security, Security Protocols, Data Protection, Network Security, Security Architecture, Security Standards]
 header:
     teaser: /assets/images/dspost/dsp6132-Software-Security-Concepts.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Explore fundamental concepts in software security and cybersecurity. Learn about security protocols, data protection methods, and best practices for building secure software systems.   
 author_profile: true   
 share: true   
 toc: true   

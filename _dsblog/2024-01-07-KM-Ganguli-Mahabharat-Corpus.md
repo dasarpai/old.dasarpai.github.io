@@ -4,16 +4,16 @@ id: 6111
 title: KM Ganguli Mahabharat Corpus
 date: 2024-01-07
 permalink: /dsblog/KM-Ganguli-Mahabharat-Corpus
-tags: [AI-Usecases, Government] 
+tags: [Mahabharata, Sanskrit Literature, Text Corpus, Digital Humanities, Ancient Texts, Indian Literature, Historical Documents] 
 categories:
   - dsblog
-
+keywords: [Mahabharata Corpus, KM Ganguli Translation, Sanskrit Text Analysis, Digital Humanities, Ancient Indian Literature, Text Digitization, Historical Text Processing, Indian Epic Studies]
 header:
     teaser: /assets/images/dspost/dsp6111-KM-Ganguli-Mahabharata-Corpus.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Explore the digital corpus of KM Ganguli's English translation of the Mahabharata. Learn about the structure, content, and significance of this comprehensive translation of the ancient Indian epic for digital humanities research.   
 author_profile: true   
 share: true   
 toc: true   
@@ -43,4 +43,3 @@ mathjax: "true"
 16. [Mausala Parva (The Book of the Clubs)](/mb-kmganguli-mahabharat_16)   
 17. [Mahaprasthanika Parva (The Book of the Great Journey)](/mb-kmganguli-mahabharat_17)   
 18. [Svargarohana Parva (The Book of the Ascent to Heaven)](/mb-kmganguli-mahabharat_18)
-

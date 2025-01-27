@@ -4,16 +4,16 @@ id: 6077
 title: Introduction to ML Model Deployment
 date: 2023-07-19
 permalink: '/dsblog/Introduction-to-ML-Model-deployment'
-tags: [MLOps, AI Deployment, Model Deployment] 
+tags: [MLOps, Model Deployment, Machine Learning, DevOps, Production AI, Cloud Computing, Model Serving] 
 categories:
   - dsblog
-
+keywords: [Machine Learning Deployment, MLOps, Model Serving, Production AI, ML Infrastructure, Model Optimization, Deployment Frameworks, Cloud Deployment]
 header:
     teaser: /assets/images/dspost/dsp6077-Introduction-to-ML-Model-deployment.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A comprehensive guide to machine learning model deployment, covering various deployment strategies, frameworks, and best practices. Learn about model serving, optimization techniques, and infrastructure considerations for production AI systems.   
 author_profile: true   
 share: true   
 toc: true   
@@ -226,4 +226,3 @@ There are several products and libraries designed to accelerate deep learning in
 Dr Hari Thapliyaal   
 dasarpai.com    
 linkedin.com/in/harithapliyal   
-

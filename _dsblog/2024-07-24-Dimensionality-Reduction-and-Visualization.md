@@ -4,15 +4,16 @@ id: 6126
 title: Dimensionality Reduction and Visualization
 date: 2024-07-24
 permalink: /dsblog/Dimensionality-Reduction-and-Visualization
-tags: []
+tags: [Data Science, Machine Learning, Data Visualization, Dimensionality Reduction, PCA, t-SNE, Data Analysis]
 categories:
   - dsblog
+keywords: [Dimensionality Reduction, Data Visualization, PCA Analysis, t-SNE, UMAP, Feature Selection, Data Analysis Methods, Machine Learning Techniques]
 header:
     teaser: /assets/images/dspost/dsp6126-Dimensionality-Reduction-and-Visualization.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Explore techniques for reducing data dimensions and creating meaningful visualizations. Learn about PCA, t-SNE, UMAP, and other methods for effective data analysis and representation.   
 author_profile: true   
 share: true   
 toc: true   

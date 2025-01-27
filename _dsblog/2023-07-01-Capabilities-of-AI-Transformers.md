@@ -4,16 +4,16 @@ id: 6067
 title: 'Capabilities of AI Transformers'
 date: 2023-07-01
 permalink: '/dsblog/Capabilities-of-AI-Transformers'
-tags: [NLP, AI Transformers, Deep Learning] 
+tags: [NLP, AI Transformers, Deep Learning, Machine Learning, Neural Networks, Language Models] 
 categories:
   - dsblog
-
+keywords: [AI Transformers, Natural Language Processing, Deep Learning, Machine Learning Models, Neural Network Architecture, Language Models, BERT, GPT, Transformer Architecture]
 header:
     teaser: /assets/images/dspost/dsp6067-Capabilities-of-AI-Transformers.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A comprehensive overview of AI Transformer capabilities, exploring various transformer architectures and their applications in NLP, computer vision, and other domains. Learn about different transformer models like BERT, GPT, and their specific use cases.   
 author_profile: true   
 share: true   
 toc: true   

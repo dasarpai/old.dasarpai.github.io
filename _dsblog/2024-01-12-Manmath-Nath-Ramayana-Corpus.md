@@ -4,16 +4,16 @@ id: 6112
 title: Manamath Nath - Ramayana Corpus
 date: 2024-01-12
 permalink: /dsblog/manamath-nath-ramayana-corpus
-tags: [AI-Usecases, Government] 
+tags: [AI Usecases, Ramayana, Sanskrit Literature, Text Corpus, Digital Humanities, Ancient Texts, Indian Literature, Epic Poetry] 
 categories:
   - dsblog
-
+keywords: [Ramayana Corpus, Manmath Nath Translation, Sanskrit Text Analysis, Digital Humanities, Ancient Indian Literature, Text Digitization, Epic Poetry Analysis, Indian Epic Studies]
 header:
     teaser: /assets/images/dspost/dsp6112-Manmath-Nath-Ramayana-Corpus.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Discover the digital corpus of Manmath Nath's translation of the Ramayana. Explore the structure and content of this significant translation of the ancient Indian epic, ideal for digital humanities and textual research.   
 author_profile: true   
 share: true   
 toc: true   
@@ -34,6 +34,3 @@ mathjax: "true"
 1. [Sunder Kanda](/manmathnath-ramayana-5)
 1. [Lanka Kanda](/manmathnath-ramayana-6)
 1. [Utter Kanda](/manmathnath-ramayana-7)
-
-
-

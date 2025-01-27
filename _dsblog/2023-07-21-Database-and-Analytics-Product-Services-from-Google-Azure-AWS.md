@@ -4,16 +4,16 @@ id: 6079
 title: Database and Analytics Product Services from Google Azure AWS
 date: 2023-07-21
 permalink: '/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS'
-tags: [AWS, Google, Azure, Cloud, AutoML, Data Analytics, Databases] 
+tags: [Cloud Computing, Database Services, Data Analytics, AWS, Google Cloud, Azure, Cloud Databases, Big Data] 
 categories:
   - dsblog
-
+keywords: [Cloud Databases, Data Analytics Services, AWS Database, Google Cloud Database, Azure Database, Cloud Data Warehouse, Big Data Analytics, Cloud Storage]
 header:
     teaser: /assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A detailed comparison of database and analytics services offered by major cloud providers. Explore various database options, data warehousing solutions, and analytics tools available on AWS, Google Cloud, and Azure platforms.   
 author_profile: true   
 share: true   
 toc: true   

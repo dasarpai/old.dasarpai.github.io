@@ -4,16 +4,16 @@ id: 6084
 title: SQL and Relational Algebra
 date: 2023-08-14
 permalink: '/dsblog/relational-algebra'
-tags: [RDBMS, Database Joins] 
+tags: [SQL, Database, Relational Algebra, RDBMS, Database Theory, Query Optimization, Data Management] 
 categories:
   - dsblog 
-
+keywords: [SQL, Relational Algebra, Database Theory, RDBMS, Database Operations, Query Optimization, Set Operations, Database Management]
 header:
     teaser: /assets/images/dspost/dsp6084-Relational-Algebra.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Understand the fundamental concepts of relational algebra and its application in SQL databases. Learn about various relational operations, set theory, and how they form the theoretical foundation of modern database systems.   
 author_profile: true   
 share: true   
 toc: true   

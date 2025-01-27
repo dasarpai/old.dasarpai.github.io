@@ -4,15 +4,16 @@ id: 6125
 title: Serverless databases
 date: 2024-07-23
 permalink: /dsblog/Serverless-databases
-tags: []
+tags: [Serverless Computing, Cloud Databases, Database Management, Cloud Computing, Data Storage, Cloud Architecture, Database Technology]
 categories:
   - dsblog
+keywords: [Serverless Databases, Cloud Database Solutions, Database as a Service, Serverless Architecture, Cloud Data Storage, Database Management Systems, Serverless Computing, Cloud Infrastructure]
 header:
     teaser: /assets/images/dspost/dsp6125-Serverless-databases.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Discover serverless database solutions and their benefits. Learn about various serverless database options, their features, and how they can optimize your cloud-based data management needs.   
 author_profile: true   
 share: true   
 toc: true   

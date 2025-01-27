@@ -4,16 +4,16 @@ id: 6083
 title: Types of Questions
 date: 2023-08-11
 permalink: '/dsblog/types-of-questions'
-tags: [Google Cloud, APIs] 
+tags: [Communication, Question Types, Research Methods, Critical Thinking, Interview Skills] 
 categories:
   - dsblog
-
+keywords: [Question Types, Communication Skills, Research Methods, Interview Questions, Critical Thinking, Survey Design, Question Techniques, Effective Questioning]
 header:
     teaser: /assets/images/dspost/dsp6083-Types-of-Questions.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Explore different types of questions used in research, interviews, and communication. Learn about open-ended, closed-ended, probing, and rhetorical questions, and understand when to use each type effectively.   
 author_profile: true   
 share: true   
 toc: true   

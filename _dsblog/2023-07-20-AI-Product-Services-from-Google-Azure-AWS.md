@@ -4,16 +4,16 @@ id: 6078
 title: AI Product and Services from Google, Azure and AWS
 date: 2023-07-20
 permalink: '/dsblog/AI-Product-and-Services-from-Google-Azure-and-AWS'
-tags: [AWS, Google, Azure, Cloud, AutoML, AI Products] 
+tags: [AWS, Google Cloud, Azure, Cloud Computing, AI Services, Machine Learning, Cloud AI] 
 categories:
   - dsblog
-
+keywords: [Cloud AI Services, AWS AI, Google Cloud AI, Azure AI, Machine Learning Services, Cloud Computing, AI Products, Cloud Platforms]
 header:
     teaser: /assets/images/dspost/dsp6078-AI-Product-and-Services-from-Google-Azure-and-AWS.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A comprehensive comparison of AI and machine learning services offered by major cloud providers - Google Cloud, Microsoft Azure, and Amazon Web Services (AWS). Explore their capabilities, features, and use cases.   
 author_profile: true   
 share: true   
 toc: true   

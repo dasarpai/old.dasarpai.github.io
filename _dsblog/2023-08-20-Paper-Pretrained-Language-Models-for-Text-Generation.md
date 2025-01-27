@@ -4,16 +4,16 @@ id: 6088
 title: Paper-Summary- A Survey Paper# Pretrained Language Models for Text Generation
 date: 2023-08-18
 permalink: '/dsblog/rps-Pretrained-Language-Models-for-Text-Generation'
-tags: [AI Paper, NLP, Pretrained Model]
+tags: [AI Paper, NLP, Research Paper, Text Generation, Pretrained Models, NLP, Machine Learning, Language Models, AI Research] 
 categories:
   - dsblog
-
+keywords: Pretrained Language Models, Text Generation, NLP Research, Machine Translation, Text Summarization, Language Model Architecture, AI Text Generation, Research Survey
 header:
     teaser: /assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A comprehensive summary of research on pretrained language models for text generation. This survey paper explores various techniques, applications, and advancements in using pretrained models for tasks like machine translation and text summarization.   
 author_profile: true   
 share: true   
 toc: true   

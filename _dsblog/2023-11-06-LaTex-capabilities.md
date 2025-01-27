@@ -4,15 +4,16 @@ id: 6098
 title: LaTeX Capabilities
 date: 2023-11-06
 permalink: /dsblog/latex-capabilities
-tags: [LaTeX, Research]
+tags: [LaTeX, Technical Writing, Document Preparation, Academic Writing, Research Tools, Scientific Publishing, Typesetting]
 categories:
   - dsblog
+keywords: [LaTeX Document System, Technical Writing, Academic Publishing, Document Formatting, Scientific Writing, Mathematical Typesetting, Research Documentation, Academic Tools]
 header:
     teaser: /assets/images/dspost/dsp6098-Latex-capabilities.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Discover the powerful capabilities of LaTeX for academic and technical writing. Learn about its features for document preparation, mathematical typesetting, bibliography management, and professional publishing.   
 author_profile: true   
 share: true   
 toc: true   

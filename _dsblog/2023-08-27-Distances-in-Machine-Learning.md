@@ -4,17 +4,16 @@ id: 6093
 title: Distances in Machine Learning
 date: 2023-08-27
 permalink: '/dsblog/Distances-in-Machine-Learning'
-tags: [Machine Learning, Maths in AI, Abbreviation]
+tags: [Machine Learning, Maths in AI, Distance Metrics, Mathematical Concepts, Data Analysis, Similarity Measures, ML Algorithms, Statistical Methods] 
 categories:
   - dsblog
-
-
+keywords: [Distance Metrics, Machine Learning Distance, Similarity Measures, Mathematical Distance, ML Algorithms, Data Analysis Methods, Statistical Distance, Vector Space Metrics]
 header:
     teaser: /assets/images/dspost/dsp6093-Distances-in-Machine-Learning.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: An in-depth exploration of various distance metrics used in machine learning. Learn about different types of distances, their mathematical foundations, and applications in ML algorithms for measuring similarity and dissimilarity between data points.   
 author_profile: true   
 share: true   
 toc: true   
@@ -182,5 +181,3 @@ D_{\text{JS}}(P \| Q) = \frac{1}{2} D_{\text{KL}}(P \| M) + \frac{1}{2} D_{\text
 $$
 
 where $$ M = \frac{1}{2}(P + Q) $$ and $$ D_{\text{KL}} $$ is the Kullback-Leibler divergence.
-
-

@@ -4,16 +4,17 @@ id: 6105
 title: Topic Modeling with BERT
 date: 2023-11-13
 permalink: /dsblog/topic-modeling-with-bert
-tags: [NLP, NLU, LLM, Clustering, Topic Modeling]
+tags: [BERT, Topic Modeling, Text Analysis, Natural Language Processing, Machine Learning, Document Clustering, Text Mining]
 categories:
   - dsblog
+keywords: [BERTopic, Topic Modeling, BERT Applications, Text Analysis, Document Classification, Natural Language Processing, Text Mining, Content Analysis]
 header:
     teaser: /assets/images/dspost/dsp6105-Topic-Modeling-with-BERT.jpg
     
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Discover how to perform topic modeling using BERT-based approaches. Learn about advanced techniques for identifying and analyzing topics in text collections using transformer-based models and clustering algorithms.   
 author_profile: true   
 share: true   
 toc: true   

@@ -4,16 +4,16 @@ id: 6070
 title: 'What is CAPTCHA?'
 date: 2023-07-03
 permalink: '/dsblog/What-is-Captcha'
-tags: [Glossary] 
+tags: [Security, Web Development, Authentication, Bot Prevention, Computer Vision] 
 categories:
   - dsblog
-
+keywords: [CAPTCHA, Web Security, Bot Prevention, Authentication Systems, Human Verification, reCAPTCHA, Security Measures, Web Protection]
 header:
     teaser: /assets/images/dspost/dsp6070-What-is-Captcha.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Understanding CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart) - its purpose, types, implementation, and role in web security. Learn how CAPTCHAs protect websites from automated bots and spam.   
 author_profile: true   
 share: true   
 toc: true   

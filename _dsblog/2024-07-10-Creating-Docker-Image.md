@@ -4,15 +4,16 @@ id: 6122
 title: Creating Docker Image
 date: 2024-07-10
 permalink: /dsblog/Creating-Docker-Image
-tags: []
+tags: [Docker, Container Images, DevOps, Containerization, Docker Build, Development Tools, Deployment]
 categories:
   - dsblog
+keywords: [Docker Images, Container Creation, Dockerfile, Image Building, Docker Configuration, Container Development, DevOps Tools, Docker Best Practices]
 header:
     teaser: /assets/images/dspost/dsp6122-Creating-Docker-Image.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Learn how to create and manage Docker images effectively. Understand Dockerfile syntax, image building process, and best practices for containerizing applications.   
 author_profile: true   
 share: true   
 toc: true   

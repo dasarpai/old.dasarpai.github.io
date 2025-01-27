@@ -4,15 +4,16 @@ id: 6103
 title: Graph of Thoughts
 date: 2023-11-11
 permalink: /dsblog/graph-of-thoughts
-tags: [NLP, NLU, LLM]
+tags: [Graph of Thoughts, LLM Architecture, AI Reasoning, Neural Networks, Machine Learning, Cognitive Computing, Knowledge Representation]
 categories:
   - dsblog
+keywords: [Graph of Thoughts, LLM Reasoning, Neural Architectures, AI Cognition, Knowledge Graphs, Machine Learning Models, Thought Processing, AI Decision Making]
 header:
     teaser: /assets/images/dspost/dsp6103-Graph-of-Thoughts.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Explore the Graph of Thoughts (GoT) architecture, a novel approach to enhancing language models' reasoning capabilities. Learn how this framework structures and processes information in a graph-based format for improved AI decision-making.   
 author_profile: true   
 share: true   
 toc: true   
@@ -49,6 +50,3 @@ https://www.youtube.com/watch?v=tCPA89n6NGQ&t=1562
 1. 39:18 🤔 GPT-4 suggests that future AI systems like GPT-5 could potentially engage in meta-learning or self-improvement, opening the possibility for AI to design its own GoO structure.
 1. 39:43 📊 Adequate training data is crucial for advanced AI systems to learn diverse tasks in multiple domains and potentially design complex GoO structures.
 1. 40:07 📈 Mathematical graph theory could help in constructing multiple graphs for specific problems, setting the stage for training more advanced AI systems.
-
-
-

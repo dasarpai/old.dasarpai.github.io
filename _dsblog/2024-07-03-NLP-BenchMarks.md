@@ -4,15 +4,16 @@ id: 6120
 title: NLP BenchMarks
 date: 2024-07-03
 permalink: /dsblog/NLP-BenchMarks1
-tags: []
+tags: [Natural Language Processing, Machine Learning, AI Benchmarks, Language Models, Performance Evaluation, NLP Testing, Model Assessment]
 categories:
   - dsblog
+keywords: [NLP Benchmarks, Language Model Evaluation, AI Performance Metrics, GLUE Benchmark, SuperGLUE, Model Testing, Natural Language Understanding, Performance Assessment]
 header:
     teaser: /assets/images/dspost/dsp6120-NLP-BenchMarks.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Explore comprehensive benchmarks for evaluating Natural Language Processing models. Learn about various testing frameworks, performance metrics, and evaluation standards used in assessing language models.   
 author_profile: true   
 share: true   
 toc: true   
@@ -145,6 +146,3 @@ Some of the popular benchmarks datasets are as below.
 - https://www.confident-ai.com/blog/the-current-state-of-benchmarking-llms
 - https://arize.com/blog-course/llm-leaderboards-benchmarks/
 - https://deepgram.com/learn/llm-benchmarks-guide-to-evaluating-language-models
-
-
-

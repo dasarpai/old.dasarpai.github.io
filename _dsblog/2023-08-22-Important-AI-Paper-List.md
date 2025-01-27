@@ -4,16 +4,16 @@ id: 6090
 title: Important AI Paper List
 date: 2023-08-22
 permalink: '/dsblog/select-ai-papers'
-tags: [LLM, Transformer, Encoder, Decoder, Encoder-Decoder, Machine Learning, NLP]
+tags: [LLM, Transformer, Encoder, Decoder, Research Papers, AI Research, Machine Learning, Deep Learning, Academic Resources, AI Development, Research Collection] 
 categories:
   - dsblog
-
+keywords: [AI Research Papers, Machine Learning Papers, Deep Learning Research, AI Academic Resources, Research Collection, ML Publications, AI Development Papers, Scientific Literature]
 header:
     teaser: /assets/images/dspost/dsp6090-rps-Important-AI-Paper-List.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A curated collection of influential research papers in artificial intelligence, machine learning, and deep learning. This comprehensive list includes groundbreaking papers that have shaped the field of AI and continue to influence its development.   
 author_profile: true   
 share: true   
 toc: true   
