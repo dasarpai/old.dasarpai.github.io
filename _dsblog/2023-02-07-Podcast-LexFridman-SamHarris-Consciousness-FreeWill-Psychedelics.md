@@ -4,7 +4,16 @@ id: 6050
 title: Podcast Lex Fridman Sam Harris Consciousness Free Will Psychedelics
 date: 2023-02-07
 permalink: '/dsblog/Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics'
-tags: [AI Podcast Summary, Lex Fridman, Consciousness] 
+tags: 
+  - Consciousness
+  - Philosophy of Mind
+  - Free Will
+  - Psychedelics
+  - Neuroscience
+  - Intellectual Discussion
+  - Cognitive Science
+  - Mind Exploration
+  - Consciousness Research
 categories:
   - dsblog
 
@@ -14,11 +23,13 @@ excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal   
 layout: dspost-layout   
 excerpt:   
+  A detailed summary of the profound conversation between Lex Fridman and Sam Harris, exploring deep topics including consciousness, free will, and psychedelics. This discussion delves into the nature of human consciousness, the illusion of free will, and the role of psychedelics in understanding the mind.
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
 mathjax: "true"
+keywords: [Lex Fridman podcast, Sam Harris interview, consciousness exploration, free will debate, psychedelics research, philosophical discussions, mind science, consciousness studies, neuroscience insights]
 ---
    
 ![Postcast Lex Fridman Sam Harris Consciousness FreeWill Psychedelics](/assets/images/dspost/dsp6050-Podcast-LexFridman-SamHarris-Consciousness-FreeWill-Psychedelics.jpg)   
@@ -100,6 +111,3 @@ Here is the summary of the discussion.
    - Robots that can display love and are super intelligent may be able to manipulate us, making it hard to tell if the love is real or an illusion.
    - Meditation is a superpower that allows us to be captivated by the present moment and obviate any need to ask the meaning of life.
    - Real attention to the present moment can dissolve the illusion that future happiness is contingent on becoming something else.
-
-
-

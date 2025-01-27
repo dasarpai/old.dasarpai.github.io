@@ -4,7 +4,17 @@ id: 6034
 title: 'Introduction to Neural Network'
 date: 2023-01-17
 permalink: '/dsblog/Introduction-to-Neural-Network'
-tags: [NLP] 
+tags: 
+  - Neural Networks
+  - Deep Learning
+  - Machine Learning
+  - Artificial Intelligence
+  - Model Architecture
+  - Data Science
+  - AI Fundamentals
+  - Neural Network Types
+  - Model Training
+  - AI Algorithms
 categories:
   - dsblog
 
@@ -14,11 +24,14 @@ excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal   
 layout: dspost-layout   
 excerpt:   
+"A comprehensive introduction to neural networks, covering fundamental concepts, architecture types, and key assumptions. Learn about the essential components of neural networks, including neurons, layers, and activation functions, along with important considerations for model training and implementation in real-world applications."
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
 mathjax: "true"
+keywords: [neural networks, deep learning, machine learning algorithms, artificial intelligence, neural network architecture, model training, neural network types, deep learning fundamentals, AI model assumptions, neural network components, artificial neurons, network layers, activation functions, backpropagation, model optimization, supervised learning, deep neural networks, AI model training, neural network applications, machine learning basics]
+
 ---
 
 ![Introduction to Neural Network](/assets/images/dspost/dsp6034-Introduction-to-Neural-Network.jpg)

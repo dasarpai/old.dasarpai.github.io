@@ -4,7 +4,16 @@ id: 6171
 title: "Types of Large Language Models (LLM)"
 date: 2024-10-24
 permalink: /dsblog/Types-of-LLM
-tags: ["Generative AI", "Text Generation", "AI Conversation", "Content Creation", "Natural Language Processing"]
+tags:
+  - Large Language Models
+  - Artificial Intelligence
+  - Natural Language Processing
+  - Machine Learning
+  - AI Models
+  - Language AI
+  - Text Generation
+  - AI Technology
+  - Deep Learning
 categories:
   - dsblog
 header:
@@ -12,7 +21,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt: "A comprehensive guide to understanding different types of Large Language Models (LLMs), their capabilities, naming conventions, and practical applications in various domains."   
+excerpt: "An in-depth exploration of Large Language Models (LLMs) types, including base models, instruction-tuned models, and embedding models. Discover their architectures, capabilities, use cases, and how different LLM variants serve specific applications in AI and machine learning."   
 author_profile: true   
 share: true   
 toc: true   
@@ -20,7 +29,7 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: ["LLM", "Types of LLM", "Language Models", "Generative AI", "Text Generation", "AI Conversation", "Natural Language Processing", "Embedding Models", "Foundation Models", "Instruction Models", "Code Generation Models", "AI Model Architecture", "Machine Learning", "Deep Learning", "Neural Networks"]
+keywords: [large language models, LLM types, AI language models, natural language processing, machine learning models, text generation AI, language model applications, AI model comparison, NLP technology]
 ---
 
 ![](/assets/images/dspost/dsp6171-Types-of-LLM.jpg)

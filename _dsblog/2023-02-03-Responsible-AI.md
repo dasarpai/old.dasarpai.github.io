@@ -4,7 +4,16 @@ id: 6047
 title: Responsible AI 
 date: 2023-02-03
 permalink: '/dsblog/Responsible-AI'
-tags: [AI Ethics] 
+tags: 
+  - AI Ethics
+  - Responsible AI
+  - Ethical AI
+  - AI Governance
+  - Data Ethics
+  - AI Policy
+  - Technology Ethics
+  - AI Development
+  - Sustainable AI
 categories:
   - dsblog 
 
@@ -13,12 +22,13 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A comprehensive guide to responsible AI development and implementation, covering ethical principles, governance frameworks, and best practices for creating sustainable and accountable AI systems. Learn about the importance of ethical considerations in AI development and how to ensure AI technologies benefit society while minimizing potential risks."
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
 mathjax: "true"
+keywords: [Responsible AI development, ethical AI principles, AI governance, artificial intelligence ethics, ethical technology, AI policy framework, sustainable AI practices, ethical data science, AI accountability]
 ---
 ![Responsible-AI](/assets/images/dspost/dsp6047-Responsible-AI.jpg)   
    

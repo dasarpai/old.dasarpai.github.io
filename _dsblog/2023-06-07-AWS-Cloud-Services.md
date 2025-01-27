@@ -4,7 +4,17 @@ id: 6063
 title:  A Comprehensive Guide to 210+ AWS Services 
 date: 2023-06-06
 permalink: '/dsblog/AWS-Cloud-Service-Catalog'
-tags: [Cloud, AWS] 
+tags: 
+  - AWS Cloud
+  - Cloud Computing
+  - Amazon Web Services
+  - Cloud Services
+  - Cloud Infrastructure
+  - Enterprise Cloud
+  - AWS Platform
+  - Cloud Solutions
+  - Cloud Technology
+keywords: [AWS services catalog, Amazon cloud services, AWS platform, enterprise cloud solutions, cloud infrastructure, AWS products, cloud computing services, AWS service categories, cloud technology solutions]
 categories:
   - dsblog
 
@@ -13,7 +23,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "An extensive guide to over 210 Amazon Web Services (AWS) cloud offerings. Explore AWS's comprehensive ecosystem of services spanning compute, storage, databases, AI/ML, security, and more, with detailed descriptions and direct console links for each service."
 author_profile: true   
 share: true   
 toc: true   

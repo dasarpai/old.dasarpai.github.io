@@ -4,7 +4,16 @@ id: 6043
 title: What is GAN? 
 date: 2023-01-17
 permalink: '/dsblog/What-is-GAN'
-tags: [NLP] 
+tags: 
+  - Generative AI
+  - Deep Learning
+  - Neural Networks
+  - Machine Learning
+  - Computer Vision
+  - Image Generation
+  - AI Models
+  - Image Synthesis
+  - GAN Architecture
 categories:
   - dsblog
 
@@ -13,12 +22,15 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: 
+"A comprehensive introduction to Generative Adversarial Networks (GANs), exploring their architecture, applications in image generation and synthesis, and various implementation techniques. Learn about the revolutionary impact of GANs in creating realistic images and advancing the field of artificial intelligence."
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
 mathjax: "true"
+keywords: [generative adversarial networks, GAN architecture, deep learning models, image synthesis, neural networks, image generation, adversarial training, machine learning algorithms, AI image processing]
+
 ---
 
 ![Partial Dependence Plots](/assets/images/dspost/dsp6043-gan.jpg)
@@ -95,4 +107,3 @@ Image-to-image translation includes many tasks, such as the translation of seman
 - https://neptune.ai/blog/6-gan-architectures
 - https://www.theclickreader.com/list-of-generative-adversarial-networks-applications/
 - https://www.projectpro.io/article/generative-adversarial-networks-gan-based-projects-to-work-on/530
-

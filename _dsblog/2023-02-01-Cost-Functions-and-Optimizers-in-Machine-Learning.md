@@ -4,7 +4,8 @@ id: 6045
 title: Cost Functions and Optimizers in Machine Learning 
 date: 2023-02-01
 permalink: '/dsblog/Cost-Functions-and-Optimizers-in-Machine-Learning'
-tags: [NLP, Machine Learning, ] 
+tags: [Machine Learning, Deep Learning, Model Optimization, Neural Networks, Loss Functions, Gradient Descent, Model Training, Mathematical Optimization, Algorithm Design]
+keywords: [cost functions, machine learning optimizers, loss functions, gradient descent, neural network training, optimization algorithms, model optimization, learning rate, training optimization, mathematical optimization]
 categories:
   - dsblog
 
@@ -13,7 +14,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A detailed exploration of cost functions and optimization algorithms in machine learning, covering various loss functions, gradient descent methods, and modern optimizers like Adam and RMSprop. Learn how different optimization techniques affect model training and performance in deep learning applications.
 author_profile: true   
 share: true   
 toc: true   
@@ -449,5 +450,3 @@ Some popular optimisers include stochastic gradient descent (SGD), momentum, Ada
 Dr Hari Thapliyal   
 https://linkedin.com/in/harithapliyal   
 https://dasarpai.com 
-
-

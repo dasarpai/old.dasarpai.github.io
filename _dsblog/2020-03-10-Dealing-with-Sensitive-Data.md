@@ -11,13 +11,18 @@ tags:
   - Sensitive Data
   - Data Protection
   - Data Governance
-keywords: data security, data privacy, sensitive data handling, data protection, data governance, data anonymization, data encryption, GDPR compliance, data masking, secure data management
+  - GDPR Compliance
+  - Data Encryption
+  - Information Security
+  - Data Management
+  - Cybersecurity
+keywords: data security, data privacy, sensitive data handling, data protection, data governance, data anonymization, data encryption, GDPR compliance, data masking, secure data management, PII protection, data classification, access control, data privacy regulations, information security, cybersecurity best practices, data breach prevention, secure data storage, data compliance, risk management
 header:
   teaser: "/assets/images/dspost/dsp6001-Dealing-with-Sensitive-Data.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt: "Learn essential strategies for handling sensitive data in data science projects. Covers data anonymization, encryption, access controls, and compliance requirements for protecting confidential information across different environments."   
+excerpt: "A comprehensive guide to handling sensitive data in data science and business applications. Learn essential strategies including data anonymization, encryption, access controls, and compliance requirements for protecting confidential information. Understand best practices for PII protection, data classification, and secure data storage across different environments while maintaining GDPR and other regulatory compliance."   
 author_profile: true   
 share: true   
 toc: true   

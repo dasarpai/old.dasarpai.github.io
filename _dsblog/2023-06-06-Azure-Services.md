@@ -4,7 +4,17 @@ id: 6062
 title:  Unlocking the Power of Azure- Exploring 300+ Cloud Services and Their Purposes 
 date: 2023-06-06
 permalink: '/dsblog/Azure-Cloud-Service-Catalog'
-tags: [Azure, Cloud] 
+tags:
+  - Azure Cloud
+  - Cloud Computing
+  - Microsoft Azure
+  - Cloud Services
+  - Cloud Infrastructure
+  - Enterprise Cloud
+  - Cloud Solutions
+  - Azure Platform
+  - Cloud Technology
+keywords: [Azure services catalog, Microsoft cloud services, Azure cloud platform, enterprise cloud solutions, cloud infrastructure, Azure products, cloud computing services, Azure service categories, cloud technology solutions]
 categories:
   - dsblog
 
@@ -13,7 +23,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A comprehensive guide to over 300 Microsoft Azure cloud services and their purposes. Explore Azure's vast ecosystem of services across categories including AI, databases, networking, security, DevOps, and more, with detailed descriptions and direct links to each service."
 author_profile: true   
 share: true   
 toc: true   

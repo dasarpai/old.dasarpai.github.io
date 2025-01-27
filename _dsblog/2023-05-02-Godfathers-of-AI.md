@@ -4,7 +4,17 @@ id: 6058
 title: God Fathers of AI 
 date: 2023-05-05
 permalink: '/dsblog/God-Fathers-of-AI'
-tags: [AI-General, Machine Learning] 
+tags:
+  - Artificial Intelligence
+  - AI History
+  - Computer Science
+  - AI Pioneers
+  - Machine Learning
+  - Deep Learning
+  - AI Research
+  - Technology Innovation
+  - AI Development
+keywords: [AI pioneers, artificial intelligence history, machine learning pioneers, AI researchers, computer science leaders, deep learning experts, AI innovation, technology pioneers, AI development history]
 categories:
   - dsblog
 
@@ -13,7 +23,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Discover the influential figures who shaped the field of Artificial Intelligence. From early pioneers to modern innovators, learn about the key contributions of AI's founding fathers and their lasting impact on the development of machine learning, neural networks, and artificial intelligence technologies."
 author_profile: true   
 share: true   
 toc: true   
@@ -60,9 +70,3 @@ In other fields of studies or in religion, there is only one god or only one god
 1. Alex Krizhevsky ( Ukrainian-born Canadian)- A computer scientist and AI researcher who is known for his work in deep learning and convolutional neural networks. [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
 1. Pieter Abbeel (1977, AI Research Lab at the University of California, Berkeley) - A computer science professor at UC Berkeley who is known for his work in deep reinforcement learning, robotics, and machine learning.
 1. Ashish Vaswani (Google Brain)- A computer scientist and AI researcher who has made significant contributions to the field in the last decade. He is known for his work in natural language processing and machine learning, particularly in the area of attention mechanisms. Vaswani is one of the co-authors of the "Attention is All You Need" paper, which introduced the Transformer architecture for neural machine translation and has since become widely used in natural language processing tasks. He has also previously worked at Microsoft Research and IBM Research.
-
-
-
-
-
-

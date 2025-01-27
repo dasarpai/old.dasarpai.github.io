@@ -4,7 +4,17 @@ id: 6056
 title: Types of Machine Learning
 date: 2023-04-27
 permalink: '/dsblog/Types-of-Machine-Learning'
-tags: [Machine-Learning]
+tags:
+  - Machine Learning
+  - Deep Learning
+  - Artificial Intelligence
+  - Neural Networks
+  - Data Science
+  - Supervised Learning
+  - Unsupervised Learning
+  - Reinforcement Learning
+  - AI Algorithms
+keywords: [machine learning types, AI algorithms, deep learning methods, neural networks, supervised learning, unsupervised learning, reinforcement learning, ML techniques, artificial intelligence models]
 categories:
   - dsblog
 
@@ -13,7 +23,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A comprehensive guide to various types of machine learning approaches and algorithms. Explore different ML paradigms including supervised, unsupervised, reinforcement learning, and advanced concepts like transfer learning, meta-learning, and contrastive learning, with detailed explanations of their applications and implementations."
 author_profile: true   
 share: true   
 toc: true   
@@ -545,4 +555,3 @@ Machine learning techniques are essential for solving many real-world problems, 
 Dr Hari Thapliyaal   
 dasarpai.com    
 linkedin.com/in/harithapliyal   
-

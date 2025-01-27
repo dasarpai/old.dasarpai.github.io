@@ -4,7 +4,16 @@ id: 6153
 title: "Exploring Apache Hive"
 date: 2024-10-04
 permalink: /dsblog/Exploring-Apache-Hive
-tags: [Bigdata, Hive, SQL]
+tags:
+  - Apache Hive
+  - Big Data
+  - Data Warehousing
+  - Hadoop
+  - SQL
+  - Data Processing
+  - Database
+  - Data Analytics
+  - ETL
 categories:
   - dsblog
 header:
@@ -12,7 +21,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A comprehensive guide to Apache Hive, exploring its features, architecture, and applications in big data processing. Learn about ACID transactions, data warehousing capabilities, integration with visualization tools, and best practices for scalable data processing with Hive."
 author_profile: true   
 share: true   
 toc: true   
@@ -20,7 +29,7 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: ["Apache Hive", "Big Data", "Hadoop", "Data Warehousing", "SQL on Hadoop", "HiveQL", "Distributed Computing", "Data Partitioning", "ETL Processing", "Query Optimization", "HDFS", "MapReduce", "Hive vs. SQL"]
+keywords: ["Apache Hive", "big data processing", "data warehousing", "Hadoop ecosystem", "SQL querying", "data analytics", "ETL tools", "data processing", "database management"]
 
 ---
 

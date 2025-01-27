@@ -1,10 +1,20 @@
 ---   
 mathjax: true   
 id: 6049   
-title: Books on Conciousness   
+title: Books on Consciousness   
 date: 2023-02-06   
 permalink: '/dsblog/Books-on-Conciousness'   
-tags: [NLP, BOOKS]   
+tags:
+  - Consciousness Studies
+  - Philosophy of Mind
+  - Spiritual Science
+  - Psychology
+  - Neuroscience
+  - Human Consciousness
+  - Mind Studies
+  - Cognitive Science
+  - Consciousness Research
+keywords: [consciousness books, philosophy of mind, spiritual science, cognitive studies, consciousness research, neuroscience literature, mind exploration, consciousness theory, human awareness]
 categories:
   - dsblog   
    
@@ -13,7 +23,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A curated collection of influential books exploring consciousness, the philosophy of mind, and spiritual science. Discover key works from renowned authors examining human consciousness, cognitive processes, and the intersection of science and spirituality in understanding the nature of awareness and being."
 author_profile: true   
 share: true   
 toc: true   
@@ -23,7 +33,7 @@ mathjax: "true"
    
 ![Books-on-Conciousness](/assets/images/dspost/dsp6049-Books-on-Conciousness.jpg)   
    
-# Books on Conciousness   
+# Books on Consciousness   
    
 ## Introduction   
    
@@ -41,7 +51,7 @@ In my own way, I have been reading, listening, contemplating, and meditating on 
    
 Note: I am not saying other professionals don't ask these questions. When life goes through different circumstances everyone at one point or another goes through these questions. But, a serious software engineer who writes software (intelligence) for the hardware (body) has a high probability of thinking about these questions.   
    
-# 100+ Good Books on Conciousness   
+# 100+ Good Books on Consciousness   
   
 ## 1. The Principles of Psychology
 William James, 1890
@@ -361,7 +371,7 @@ In an extraordinary conversation sweeping the planet, two Hindu Goddesses Lakshm
 Ingo Swann, Paula Gunn Gunn Allen, 2018
 
 ## 70. Information―Consciousness―Reality
-**How a New Understanding of the Universe Can Help Answer Age-Old Questions of Existence**
+**How a New Understanding of the Universe Can Help Answer Age-Old Questions of Existence**   
 James B. Glattfelder, 2019
 
 ## 71. Conscious: A Brief Guide to the Fundamental Mystery of the Mind

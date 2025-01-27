@@ -5,14 +5,25 @@ date: '2023-01-06T15:50:00+05:30'
 permalink: /dsblog/Statistics-Interview-Question-for-Data-Scientist
 categories:
   - dsblog
-tags: [Statistics, Maths, Stats for Data Science]  
+tags:
+  - Statistics
+  - Data Science Interview
+  - Probability Theory
+  - Statistical Analysis
+  - Data Science
+  - Hypothesis Testing
+  - Statistical Methods
+  - Data Analysis
+  - Mathematical Concepts
+  - Statistical Distributions
+keywords: [statistics interview questions, data science statistics, probability theory, statistical analysis, hypothesis testing, descriptive statistics, inferential statistics, statistical distributions, correlation analysis, causation vs correlation, statistical measures, data science concepts, statistical methods, probability distributions, statistical testing, data analysis techniques, statistical formulas, mathematical statistics, statistical inference, interview preparation]
+excerpt: "A comprehensive collection of statistics interview questions for data scientists, covering fundamental concepts like probability theory, hypothesis testing, statistical distributions, and data analysis methods. Learn about descriptive and inferential statistics, correlation analysis, statistical measures, and practical applications with real-world examples."
    
 header:  
   teaser: "/assets/images/dspost/dsp6025-Statistics-Interview-Question-for-Data-Scientist.jpg"  
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
 author_profile: true   
 share: true   
 toc: true   

@@ -4,7 +4,17 @@ id: 6055
 title: Linux OS Directories     
 date: 2023-04-26    
 permalink: '/dsblog/Linux-OS-Directories'    
-tags: [Linux]     
+tags:
+  - Linux
+  - Operating Systems
+  - System Administration
+  - File System
+  - Linux Directory Structure
+  - Unix
+  - System Architecture
+  - Linux Administration
+  - Technical Guide
+keywords: [Linux directories, filesystem hierarchy, system administration, Linux file structure, operating system organization, Linux paths, system files, Linux management, directory structure]
 categories:
   - dsblog     
     
@@ -13,7 +23,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A detailed guide to Linux operating system directory structure and organization. Learn about the purpose and contents of essential Linux directories, their roles in system administration, and how the filesystem hierarchy standard is implemented across Linux distributions."
 author_profile: true   
 share: true   
 toc: true   

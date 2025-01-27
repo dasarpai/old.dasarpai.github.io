@@ -1,24 +1,24 @@
---- 
+---
 id: 6022       
 title: "Linear Regression Interview Questions"   
 date: '2023-01-07T15:50:00+05:30'   
 permalink: /dsblog/Linear-Regression-Interview-Questions
 categories:
   - dsblog
-tags: [Linear Regression, Interview Question, Machine Learning]   
-   
+tags: [Linear Regression, Statistical Analysis, Machine Learning, Model Evaluation, Data Science, Predictive Modeling, Regression Analysis]   
+keywords: [Linear Regression, Statistical Models, Regression Analysis, Model Evaluation, Predictive Analytics, Data Science Interview, Machine Learning Algorithms, Statistical Methods]
 header:   
   teaser: "/assets/images/dspost/dsp6022-Linear-Regression-Interview-Questions.jpg"   
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: Comprehensive guide to Linear Regression interview questions covering model assumptions, evaluation metrics, feature selection, and practical implementation techniques in data science.   
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
 mathjax: "true"
---- 
+---
 
 ![Prompt Engineering for GPT4](/assets/images/dspost/dsp6022-Linear-Regression-Interview-Questions.jpg)
 
@@ -193,6 +193,8 @@ Suppose you're predicting house prices, and a few luxury mansions are skewing yo
 
 By adjusting the threshold $$\delta$$, you can control how sensitive the model is to outliers.
 
+
+----
 
 ## Question 12: Can you explain the difference between L1 and L2 regularization?
 

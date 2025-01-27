@@ -4,7 +4,16 @@ id: 6151
 title: "Exploring Docker and VS Code Integration"
 date: 2024-10-02
 permalink: /dsblog/Exploring-Docker-and-VS-Code-Integration
-tags: [Python, IDE, VS Code, Docker, Containerization]
+tags:
+  - Docker
+  - Visual Studio Code
+  - Development Tools
+  - DevOps
+  - Containerization
+  - Development Environment
+  - Software Development
+  - IDE Integration
+  - Cloud Development
 categories:
   - dsblog
 header:
@@ -12,7 +21,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A comprehensive guide to integrating Docker with Visual Studio Code, covering DevContainers, remote development, best practices, and advanced configurations. Learn how to set up, manage, and optimize containerized development environments for efficient software development."
 author_profile: true   
 share: true   
 toc: true   
@@ -20,7 +29,7 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: ["VS Code Remote Containers setup", "Local VS Code vs Remote Containers", "Docker volume mount guide", "Access datasets in Docker container", "VS Code with Docker", "Docker minikube-config volume", "Formatters vs Linters in programming", "Debuggers and Profilers in VS Code", "Why use VS Code Remote Containers", "Docker and VS Code integration"]
+keywords: ["Docker integration", "VS Code containers", "development environments", "DevContainers", "containerized development", "VS Code extensions", "remote development", "development workflow", "container management"]
 
 ---
 

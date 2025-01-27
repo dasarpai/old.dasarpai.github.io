@@ -4,7 +4,16 @@ id: 6061
 title:  Google Cloud Service Catalog - A Comprehensive Overview of 250+ Google Cloud Services 
 date: 2023-06-05
 permalink: '/dsblog/Google-Cloud-Service-Catalog'
-tags: [Google, GCP, Cloud] 
+tags: 
+  - Google Cloud Platform
+  - Cloud Computing
+  - Cloud Services
+  - GCP
+  - Cloud Infrastructure
+  - Cloud Solutions
+  - Enterprise Cloud
+  - Cloud Technology
+  - Digital Infrastructure
 categories:
   - dsblog
 
@@ -13,7 +22,8 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: 
+  A comprehensive catalog of over 250 Google Cloud Platform (GCP) services, including detailed information about each service's purpose, documentation, and implementation. This guide covers everything from AI and ML services to networking, security, and development tools available in the Google Cloud ecosystem.
 author_profile: true   
 share: true   
 toc: true   

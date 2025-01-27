@@ -4,7 +4,16 @@ id: 6150
 title: "Automated Machine Learning"
 date: 2024-10-01
 permalink: /dsblog/AutoML-Tools
-tags: [AutoML, GCP AutoML, AWS AutoML, Azure AutoML, Machine Learning]
+tags:
+  - AutoML
+  - Machine Learning
+  - AI Automation
+  - Cloud AutoML
+  - ML Tools
+  - Data Science
+  - Model Development
+  - AI Platform
+  - ML Automation
 categories:
   - dsblog
 header:
@@ -12,7 +21,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A comprehensive overview of Automated Machine Learning (AutoML) tools and platforms. Compare leading solutions including Google Cloud AutoML, AWS AutoML, Azure AutoML, and other enterprise platforms, with detailed analysis of their features, use cases, and best practices."  
 author_profile: true   
 share: true   
 toc: true   
@@ -20,7 +29,8 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: []
+keywords: [automated machine learning, AutoML tools, ML automation, cloud AutoML platforms, machine learning automation, AI model development, automated data science, ML model building, AutoML solutions]
+
 ---
 
 ![What is AutoML](/assets/images/dspost/dsp6150-AutoML-Tools.jpg)

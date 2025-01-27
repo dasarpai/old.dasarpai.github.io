@@ -4,7 +4,16 @@ id: 6064
 title:  All Resources to Learn Data Science 
 date: 2023-06-08
 permalink: '/dsblog/all-resources-to-learn-data-science'
-tags: [Pinned, AI Resources] 
+tags:
+  - Data Science
+  - Learning Resources
+  - AI Education
+  - Machine Learning
+  - Educational Tools
+  - Technical Resources
+  - Programming Tools
+  - Data Science Learning
+  - Study Materials
 categories:
   - dsblog
 
@@ -19,6 +28,7 @@ share: true
 toc: true   
 toc_sticky: true 
 mathjax: "true"
+keywords: [data science resources, AI learning materials, machine learning tools, educational resources, programming tutorials, data science education, technical learning, AI tools, learning platforms]
 ---
 
 ![All Resources to Learn Data Science](/assets/images/dspost/dsp6064-Resources-to-Learn-Everything-About-AI.jpg)    

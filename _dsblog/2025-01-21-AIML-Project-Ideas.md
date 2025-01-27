@@ -28,7 +28,8 @@ keywords: ["AI Project Ideas", "Innovation", "Future Trends", "Project Developme
 
 ![AI Project Ideas](/assets/images/dspost/dsp6205-AI-Project-Ideas.jpg)
 
-# [AI Project Ideas
+# AI Project Ideas
+
 ## Introduction
 In your journey of learning and practicing AI project you may find these articles and repositories useful. I found it over many places and compiled them here. Some of the link may break. These are beginner level ideas for AI project. If you are starting your journey then you will find value in exploring these. If you have been seriously for more than 5+ years in AI/ML then your can ignore this article.
 

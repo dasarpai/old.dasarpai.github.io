@@ -204,8 +204,7 @@ In essence, few-shot learning allows a model to quickly adapt to new tasks by un
 ### Summary
 
 - **Few-Shot Learning**: Relies on prompt engineering skills to craft effective examples and instructions for the model to perform tasks with minimal additional data.
-- **Custom GPTs**: Can be created using a variety of methods, including prompt engineering, instruction tuning, and fine-tuning.
-- **Explore GPT Section**: Features GPTs that may use different combinations of these techniques to cater to specific use cases or tasks.
+- **Fine-Tuning**: Requires machine learning expertise to further train a pre-trained model on a specific dataset, adjusting its weights to optimize performance for a particular task.
 
 Both approaches leverage pre-trained models but are used in different contexts and require different sets of skills to implement effectively.
 

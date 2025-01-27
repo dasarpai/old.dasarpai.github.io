@@ -6,7 +6,17 @@ permalink: /dsblog/AI-usecases-in-Agriculture-Industry
 categories:
   - dsblog 
    
-tags: [AI Usecases, Agriculture, Computer Vision, NLP] 
+tags:
+  - Agriculture Technology
+  - AI Applications
+  - Smart Farming
+  - Precision Agriculture
+  - Machine Learning
+  - Computer Vision
+  - Crop Management
+  - Agricultural Innovation
+  - Farm Automation
+  - Sustainable Agriculture
    
 header:  
   teaser: "/assets/images/dspost/dsp6037-AI-usecases-in-Agriculture-Industry.jpg"  
@@ -19,6 +29,7 @@ share: true
 toc: true   
 toc_sticky: true 
 mathjax: "true"
+keywords: [AI in agriculture, smart farming, precision agriculture, agricultural technology, crop management systems, farm automation, machine learning agriculture, agricultural innovation, sustainable farming, crop monitoring, agricultural robotics, precision farming technology, crop yield prediction, agricultural data analytics, smart irrigation systems, agricultural AI applications, digital agriculture, farm management technology, agricultural automation, sustainable agricultural practices]
 ---
 
 ![AI Usecases in Agriculture Industry](/assets/images/dspost/dsp6037-AI-usecases-in-Agriculture-Industry.jpg)   

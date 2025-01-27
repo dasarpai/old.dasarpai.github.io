@@ -4,7 +4,17 @@ id: 6052
 title: Types of Technologies 
 date: 2023-02-24
 permalink: '/dsblog/Types-of-Technologies'
-tags: [AI, ML, Technologies] 
+tags:
+  - Technology Overview
+  - Digital Technologies
+  - Innovation
+  - Tech Categories
+  - Emerging Technologies
+  - Information Technology
+  - Industrial Technology
+  - Technology Evolution
+  - Tech Infrastructure
+keywords: [technology categories, digital innovation, emerging technologies, tech infrastructure, information systems, industrial technology, technology applications, technological advancement, modern tech solutions]
 categories:
   - dsblog
 
@@ -13,7 +23,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A comprehensive overview of various technology types and their applications in modern society. Explore different categories of technologies from information systems to industrial applications, understanding their roles, impacts, and evolution in shaping our technological landscape."
 author_profile: true   
 share: true   
 toc: true   

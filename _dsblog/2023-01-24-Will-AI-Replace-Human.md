@@ -4,8 +4,16 @@ mathjax: true
 title: Will AI Replace Human?   
 date: "2023-01-19T08:33:00+05:30"   
 permalink: /dsblog/Will-AI-Replace-Human    
-tags: [Education, AI]   
-   
+tags:
+  - Artificial Intelligence
+  - Future of Work
+  - Industrial Revolution
+  - Technology Impact
+  - Human-AI Interaction
+  - Digital Transformation
+  - Automation
+  - Technological Evolution
+keywords: [AI impact on jobs, future of work, industrial revolution, human-AI collaboration, technological advancement, workforce automation, digital transformation, artificial intelligence evolution, technological disruption]
 categories:
   - dsblog
 header:   
@@ -13,7 +21,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "An in-depth exploration of AI's potential impact on human work and society, examining the evolution of industrial revolutions and how artificial intelligence might reshape our future workforce and daily lives. Discover the balance between human capabilities and AI automation in the emerging technological landscape."
 author_profile: true   
 share: true   
 toc: true   

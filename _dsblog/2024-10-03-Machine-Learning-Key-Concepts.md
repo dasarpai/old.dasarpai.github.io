@@ -4,7 +4,17 @@ id: 6152
 title: "Machine Learning Key Concepts"
 date: 2024-10-03
 permalink: /dsblog/Machine-Learning-Key-Concepts
-tags: [Machine Learning Concepts]
+tags: 
+  - Machine Learning
+  - Model Evaluation
+  - Cross Validation
+  - Hyperparameter Tuning
+  - Feature Engineering
+  - Model Optimization
+  - Regularization
+  - Ensemble Methods
+  - Dimensionality Reduction
+  - Explainable AI
 categories:
   - dsblog
 header:
@@ -12,7 +22,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A comprehensive guide to fundamental machine learning concepts, covering essential topics from model evaluation and cross-validation to advanced techniques like ensemble methods and explainable AI. Learn about hyperparameter tuning, feature engineering, regularization, dimensionality reduction, and best practices for building robust machine learning models. Includes detailed explanations of key algorithms, evaluation metrics, and practical implementation strategies."
 author_profile: true   
 share: true   
 toc: true   
@@ -20,7 +30,7 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: ["Cross-validation in machine learning", "Advantages of cross-validation", "5-fold cross-validation explained", "Hyperparameter optimization techniques", "Grid search vs random search", "Regularization in machine learning", "Bias-variance tradeoff solution", "Ensemble learning techniques", "Dimensionality reduction techniques", "Clustering algorithms in machine learning", "Deep learning and neural networks", "Generative models in machine learning", "Explainable AI methods", "Self-supervised learning in AI", "Federated learning in machine learning", "Reinforcement learning techniques", "Transformers and attention mechanisms", "Causal inference in machine learning", "Adversarial machine learning techniques"]
+keywords: machine learning concepts, model evaluation, cross validation, hyperparameter tuning, grid search, feature engineering, regularization techniques, bias-variance tradeoff, ensemble methods, dimensionality reduction, model optimization, kernel methods, clustering algorithms, neural networks, explainable AI, uncertainty quantification, continual learning, model performance metrics, machine learning best practices, deep learning concepts
 
 ---
 

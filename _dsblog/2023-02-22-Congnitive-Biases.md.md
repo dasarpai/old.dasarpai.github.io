@@ -4,7 +4,8 @@ id: 6051
 title: Cognitive Biases 
 date: 2023-02-22
 permalink: '/dsblog/cognitive-biases'
-tags: [NLP, Deep Learning, ML Training, MLOps] 
+tags: [Psychology, Cognitive Science, Decision Making, Human Behavior, Mental Models, Behavioral Psychology, Critical Thinking, Cognitive Psychology, Behavioral Economics]
+keywords: [cognitive biases, psychological biases, decision making errors, mental shortcuts, behavioral psychology, thinking patterns, cognitive errors, human judgment, psychological tendencies]
 categories:
   - dsblog
 
@@ -13,7 +14,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A comprehensive guide to cognitive biases, exploring how these systematic patterns of deviation from rational judgment affect our thinking and decision-making. Learn about various types of cognitive biases, from memory and social biases to decision-making shortcuts, and understand their impact on our daily lives.
 author_profile: true   
 share: true   
 toc: true   

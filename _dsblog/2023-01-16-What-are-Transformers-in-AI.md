@@ -4,7 +4,17 @@ id: 6031
 title: 'What Are Transformers in AI'
 date: 2021-08-03
 permalink: '/dsblog/What-Are-Transformers-in-AI'
-tags: [NLP, AI Transformers, Deep Learning] 
+tags: 
+  - Natural Language Processing
+  - Transformer Architecture
+  - Deep Learning
+  - Machine Learning
+  - Neural Networks
+  - Language Models
+  - AI Models
+  - Model Architecture
+  - Attention Mechanism
+  - AI Research
 categories:
   - dsblog
 
@@ -13,12 +23,14 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A comprehensive guide to AI Transformers, including a detailed timeline and overview of transformer model architectures from 2017 to present. Covers major developments from the original Transformer to modern variants like BERT, GPT, and Vision Transformers, with references to research papers and implementation details. Essential reading for understanding the evolution and capabilities of transformer-based AI models."
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
 mathjax: "true"
+keywords: [transformer models, AI transformers, natural language processing, deep learning architecture, attention mechanism, language models, BERT, GPT, neural networks, transformer variants, model architectures, AI research papers, machine learning models, NLP models, transformer timeline, AI model development, language understanding, computer vision transformers, multimodal transformers, state-of-the-art AI]
+
 ---
 
 ![What-are-Transformers-in-AI](/assets/images/dspost/dsp6031-What-are-Transformers-in-AI.jpg)   

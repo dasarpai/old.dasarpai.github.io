@@ -4,7 +4,7 @@ id: 6065
 title:  Model Garden of VertexAI     
 date: 2023-06-21    
 permalink: '/dsblog/Model-Garden-of-VertexAI'    
-tags: [Pinned, AI Resources]     
+tags: [Vertex AI, Machine Learning, Google Cloud, AI Models, Model Repository, Cloud AI, ML Models, AI Development, Cloud Computing]     
 categories:
   - dsblog   
     
@@ -13,12 +13,13 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: A comprehensive guide to Google Cloud's Vertex AI Model Garden, featuring a detailed catalog of pre-trained models, fine-tunable models, and task-specific LLM prompts. Explore various AI models for vision, language, speech processing, and more, with their applications and implementation details.
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
 mathjax: "true"    
+keywords: [Vertex AI models, Google Cloud AI, machine learning models, AI model repository, pre-trained models, model deployment, cloud AI solutions, ML model catalog, AI development tools]
 ---    
 
 ![All Resources to Learn Data Science](/assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg)        

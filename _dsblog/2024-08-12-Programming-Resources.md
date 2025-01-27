@@ -20,7 +20,6 @@ toc: true
 toc_sticky: true 
 mathjax: "true"
 comments: true
-keywords: [Programming resources, Best programming resources 2024, Top programming tools, Coding tutorials, Free programming courses, Developer resources guide, Learn to code online, Beginner programming resources, Advanced coding tutorials, Essential developer tools]
 ---
 
 ![Programming-Resources](/assets/images/dspost/dsp6136-Programming-Resources.jpg)
@@ -83,7 +82,7 @@ keywords: [Programming resources, Best programming resources 2024, Top programmi
 *   [Step by Step Guide to Database Normalization](https://www.databasestar.com/normalization-in-dbms/): A guide to database normalization.
 *   [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
 *   [The Open Web Application Security Project (OWASP)](https://www.owasp.org) : OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted.
-*   [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.org/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be) : What I’ve learned from teaching others
+*   [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be) : What I’ve learned from teaching others
 *   [Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 *   [We are reinventing the retail industry through innovative technology](http://multithreaded.stitchfix.com)
 *   [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : The Principles of Good Programming
@@ -260,7 +259,7 @@ keywords: [Programming resources, Best programming resources 2024, Top programmi
 *   [Coursera Engineering Blog](https://building.coursera.org/)
 *   [PayPal Engineering Blog](https://www.paypal-engineering.com/)
 *   [Nextdoor Engineering Blog](https://engblog.nextdoor.com/)
-*   [Booking.com Development Blog](https://blog.booking.com)
+*   [Booking.com Development Blog](https://blog.booking.com/)
 *   [Scalyr Engineering Blog](https://blog.scalyr.com/)
 
 ## Interview 

@@ -4,7 +4,16 @@ mathjax: true
 title:  GPU for Data Science Work  
 date: "2023-01-26T08:33:00+05:30"
 permalink: '/dsblog/GPU-for-Data-Science-Work'
-tags: [GPU, Deep Learning] 
+tags: 
+  - GPU Computing
+  - Data Science
+  - Deep Learning
+  - Hardware Acceleration
+  - Machine Learning
+  - Parallel Processing
+  - Computing Infrastructure
+  - AI Hardware
+  - High Performance Computing
 
 categories:
   - dsblog
@@ -14,12 +23,14 @@ author: Hari Thapliyaal
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: 
+"A comprehensive guide to understanding GPU requirements and selection for data science and deep learning work. Learn about key factors affecting GPU performance, hardware specifications, and how to choose the right GPU setup for your machine learning and data processing needs."
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
 mathjax: "true"
+keywords: [GPU for data science, deep learning hardware, parallel computing, machine learning infrastructure, GPU acceleration, data processing hardware, CUDA programming, GPU performance optimization, hardware requirements]
 ---
 
 ![GPU for Data Science Work](/assets/images/dspost/dsp6042-GPU-for-Data-Science-Work.jpg)   
@@ -93,4 +104,3 @@ NVIDIA's downside is that it has lately set limits on when you may use CUDA. Due
 AMD GPUs are excellent for gaming, but NVIDIA outperforms for deep learning work. AMD GPUs are less in use because of software optimization and drivers that need to be frequently updated. While on the Nvidia side, they have superior drivers with frequent updates, and on top of that, CUDA and cuDNN help accelerate computation.
 
 AMD GPUs have extremely minimal software support. AMD provides libraries such as ROCm. All significant network architectures, as well as TensorFlow and PyTorch, support these libraries. However, community support for the development of new networks is minimal.
-

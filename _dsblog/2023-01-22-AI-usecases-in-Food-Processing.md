@@ -7,19 +7,30 @@ permalink: /dsblog/AI-Use-Cases-in-Food-Processing
 categories:
   - dsblog 
    
-tags: [AI Usecases, Food Processing, Computer Vision, NLP]  
+tags:
+  - AI Applications
+  - Food Processing
+  - Computer Vision
+  - Machine Learning
+  - Quality Control
+  - Process Automation
+  - Food Safety
+  - Industrial AI
+  - Smart Manufacturing
+  - Food Technology
    
 header:  
   teaser: "/assets/images/dspost/dsp6036-AI-Use-Cases-in-Food-Processing.jpg"  
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Explore innovative AI applications in the food processing industry, from automated quality control and safety inspection to process optimization and smart manufacturing. Learn how computer vision, machine learning, and automation technologies are revolutionizing food production, improving quality assurance, and enhancing operational efficiency in food processing facilities."
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
 mathjax: "true"
+keywords: [AI in food processing, food industry automation, computer vision food inspection, food quality control, machine learning food safety, food processing automation, industrial AI applications, smart food manufacturing, food technology innovation, AI quality assurance, food production optimization, automated food inspection, food processing efficiency, AI-driven quality control, food industry technology, food safety automation, industrial process optimization, food manufacturing AI, smart food processing, digital transformation food industry]
 ---
 
 

@@ -4,7 +4,16 @@ id: 6154
 title: "Selecting Database for Project"
 date: 2024-10-05
 permalink: /dsblog/Selecting-Database-for-Project
-tags: [Bigdata, Hive, SQL]
+tags:
+  - Database Design
+  - SQL
+  - NoSQL
+  - Data Architecture
+  - System Design
+  - Data Storage
+  - Database Selection
+  - Data Management
+  - Technology Selection
 categories:
   - dsblog
 header:
@@ -12,7 +21,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A comprehensive guide to selecting the right database for your project. Learn about key factors including data formats, scalability, ACID compliance, sharding vs. partitioning, and how to evaluate SQL and NoSQL solutions based on your specific requirements."
 author_profile: true   
 share: true   
 toc: true   
@@ -20,7 +29,7 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: ["Database selection criteria", "CAP theorem explained", "Sharding vs partitioning", "Distributed vs centralized databases", "Database compression techniques", "ACID transaction support in databases", "Schema flexibility in databases", "Volume handling in big data", "Database query performance", "Concurrent processing in databases"]
+keywords: ["database selection", "SQL vs NoSQL", "data architecture", "database design", "data storage solutions", "database management", "system architecture", "data modeling", "database comparison"]
 
 ---
 

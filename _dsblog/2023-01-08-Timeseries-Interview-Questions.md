@@ -5,8 +5,19 @@ date: '2023-01-08T15:50:00+05:30'
 permalink: /dsblog/Timeseries-Interview-Questions
 categories:
   - dsblog
-tags: [Timeseries, Interview Questions, Machine Learning, Timeseries Analysis, Time series Forecasting, Time series analysis python, Time series forecasting in python]   
-   
+tags:
+  - Time Series Analysis
+  - Data Science Interview
+  - ARIMA Models
+  - Statistical Analysis
+  - Forecasting
+  - Machine Learning
+  - Data Science
+  - Predictive Analytics
+  - Statistical Methods
+  - Python Programming
+keywords: [time series analysis, ARIMA models, time series forecasting, stationarity testing, autocorrelation, seasonal decomposition, time series modeling, statistical forecasting, predictive analytics, python time series, interview preparation, data science questions, time series components, trend analysis, seasonality detection, time series statistics, forecasting methods, time series visualization, machine learning for time series, temporal data analysis]
+excerpt: "A comprehensive guide to time series analysis interview questions, covering key concepts like ARIMA models, stationarity, seasonality, and forecasting techniques. Learn about autocorrelation, trend analysis, and practical applications in Python, with detailed explanations and examples for data science interviews."
 header:   
   teaser: "/assets/images/dspost/dsp6023-Timeseries-Interview-Questions.jpg"   
 excerpt_separator: "<!--more-->"   

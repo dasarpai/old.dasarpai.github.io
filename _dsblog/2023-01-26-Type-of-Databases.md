@@ -4,7 +4,17 @@ mathjax: true
 title: Type of Databases      
 date: "2023-01-25T08:33:00+05:30"      
 permalink: /dsblog/Type-of-Databases    
-tags: [Database]      
+tags:
+  - Database Systems
+  - NoSQL
+  - SQL
+  - Data Storage
+  - Database Architecture
+  - Data Management
+  - Graph Databases
+  - Document Databases
+  - Key-Value Stores
+keywords: [database types, SQL vs NoSQL, database management systems, data storage solutions, graph databases, document stores, key-value databases, database architecture, database selection criteria]
        
 categories:
   - dsblog 
@@ -13,7 +23,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "An extensive overview of different database types, from traditional relational databases to modern NoSQL solutions. Explore various database architectures including document stores, graph databases, and key-value systems, understanding their unique characteristics and ideal use cases."
 author_profile: true   
 share: true   
 toc: true   
@@ -129,5 +139,3 @@ There are several database modeling tools available. Some of the popular tools a
 
 - [Database of Databases](https://dbdb.io/browse?q=)
 - [Most Popular Database Management Software](https://www.softwaretestinghelp.com/database-management-software/)
-
-
