@@ -22,8 +22,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt: 
-"Explore the transformative applications of AI in Banking, Financial Services, and Insurance (BFSI) sector. Discover how artificial intelligence is revolutionizing financial operations through automated underwriting, risk assessment, fraud detection, and personalized banking services, leading to improved efficiency and customer experience."
+excerpt: "Explore the transformative applications of AI in Banking, Financial Services, and Insurance (BFSI) sector. Discover how artificial intelligence is revolutionizing financial operations through automated underwriting, risk assessment, fraud detection, and personalized banking services, leading to improved efficiency and customer experience."
 author_profile: true   
 share: true   
 toc: true   

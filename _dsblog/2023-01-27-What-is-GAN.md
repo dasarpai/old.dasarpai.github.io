@@ -22,8 +22,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt: 
-"A comprehensive introduction to Generative Adversarial Networks (GANs), exploring their architecture, applications in image generation and synthesis, and various implementation techniques. Learn about the revolutionary impact of GANs in creating realistic images and advancing the field of artificial intelligence."
+excerpt: "A comprehensive introduction to Generative Adversarial Networks (GANs), exploring their architecture, applications in image generation and synthesis, and various implementation techniques. Learn about the revolutionary impact of GANs in creating realistic images and advancing the field of artificial intelligence."
 author_profile: true   
 share: true   
 toc: true   

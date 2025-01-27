@@ -23,8 +23,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
-"A comprehensive introduction to neural networks, covering fundamental concepts, architecture types, and key assumptions. Learn about the essential components of neural networks, including neurons, layers, and activation functions, along with important considerations for model training and implementation in real-world applications."
+excerpt: "A comprehensive introduction to neural networks, covering fundamental concepts, architecture types, and key assumptions. Learn about the essential components of neural networks, including neurons, layers, and activation functions, along with important considerations for model training and implementation in real-world applications."
 author_profile: true   
 share: true   
 toc: true   

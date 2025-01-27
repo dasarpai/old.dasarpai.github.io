@@ -23,8 +23,7 @@ author: Hari Thapliyaal
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt: 
-"A comprehensive guide to understanding GPU requirements and selection for data science and deep learning work. Learn about key factors affecting GPU performance, hardware specifications, and how to choose the right GPU setup for your machine learning and data processing needs."
+excerpt: "A comprehensive guide to understanding GPU requirements and selection for data science and deep learning work. Learn about key factors affecting GPU performance, hardware specifications, and how to choose the right GPU setup for your machine learning and data processing needs."
 author_profile: true   
 share: true   
 toc: true   
