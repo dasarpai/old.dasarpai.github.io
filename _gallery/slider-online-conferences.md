@@ -3,7 +3,7 @@ id: 803
 title: Online Conferences - Data Science, AI, ML
 date: '2020-10-21T14:51:37+05:30'
 layout: slider-online-conferences-layout
-permalink: /slider-online-conferences
+permalink: /gallary/slider-online-conferences
 author_profile: false
 read_time: false
 header:

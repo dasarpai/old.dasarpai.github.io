@@ -3,7 +3,7 @@ id: 809
 title: Project Management Workshops - Selected Photos
 date: '2020-10-21T14:51:37+05:30'
 layout: slider-pm-workshops-layout
-permalink: /slider-pm-selected-photos
+permalink: /gallary/slider-pm-selected-photos
 author_profile: false
 sidebar:
    nav: "docs"

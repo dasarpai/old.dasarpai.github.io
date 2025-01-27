@@ -1,37 +1,70 @@
 <!-- start custom footer snippets -->
 <div class="footer-row">
-    <div class="footer-col" style="flex: 20%;">
-        <h4>Resources</h4>
-        <ul>
-          {% for item in site.data.navigation.resources1 %}
-            <li><a href="{{ item.url | relative_url }}">{{ item.label | default: item.title }}</a></li>
-          {% endfor %}
-        </ul>
-  </div>
-  <div class="footer-col" style="flex: 20%;">
+
+  <div class="footer-col" style="flex: 25%;">
     <h4>Important Links</h4>
     <ul>
-      {% for item in site.data.navigation.footer1 %}
+      {% for item in site.data.navigation.importantlinks %}
         <li><a href="{{ item.url | relative_url }}">{{ item.label | default: item.title }}</a></li>
       {% endfor %}
     </ul>
   </div>
-  <div class="footer-col" style="flex: 20%;">
-    <h4>Blogs</h4>
+
+  <div class="footer-col" style="flex: 25%;">
+    <h4>My Blogs</h4>
     <ul>
-      {% for item in site.data.navigation.blogs1 %}
+      {% for item in site.data.navigation.myblogs %}
         <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
       {% endfor %}
     </ul>
   </div>
-  <div class="footer-col" style="flex: 20%;">
+
+  <div class="footer-col" style="flex: 25%;">
+        <h4>Resources</h4>
+        <ul>
+          {% for item in site.data.navigation.allresources %}
+            <li><a href="{{ item.url | relative_url }}">{{ item.label | default: item.title }}</a></li>
+          {% endfor %}
+        </ul>
+  </div>
+
+  <div class="footer-col" style="flex: 25%;">
+    <h4>Wisdom in Awareness</h4>
+    <ul>
+      {% for item in site.data.navigation.wia %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.label | default: item.title }}</a></li>
+      {% endfor %}
+    </ul>
+</div>
+
+
+<div class="footer-col" style="flex: 25%;">
+  <h4>Samskrut Yatra</h4>
+  <ul>
+    {% for item in site.data.navigation.samskrutyatra %}
+      <li><a href="{{ item.url | relative_url }}">{{ item.label | default: item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+  <div class="footer-col" style="flex: 25%;">
+    <h4>Project Management</h4>
+    <ul>
+      {% for item in site.data.navigation.projectmanagement %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="footer-col" style="flex: 25%;">
     <h4>Gallery</h4>
     <ul>
-      {% for item in site.data.navigation.gallary1 %}
+      {% for item in site.data.navigation.mygallary %}
         <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
       {% endfor %}
     </ul>
   </div>
+
 </div>
 
 <style>

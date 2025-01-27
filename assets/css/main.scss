@@ -35,20 +35,20 @@ textarea,
 
 /* Default styles for mobile devices */
 html {
-  font-size: 26px; /* Adjust this value as needed for mobile */
+  font-size: 28px; /* Adjust this value as needed for mobile */
 }
 
 /* Styles for tablets and larger devices */
 @media (min-width: 48em) { /* 768px assuming 1em = 16px */
   html {
-      font-size: 26px; /* Adjust this value as needed for tablets */
+      font-size: 24px; /* Adjust this value as needed for tablets */
   }
 }
 
 /* Styles for desktops and larger devices */
 @media (min-width: 80em) { /* 1280px assuming 1em = 16px */
   html {
-      font-size: 20px; /* Adjust this value as needed for desktops */
+      font-size: 18px; /* Adjust this value as needed for desktops */
   }
 }
 
@@ -208,21 +208,24 @@ font-size: 1em;
   
   .footer-row {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
     gap: 2em;
     max-width: 1280px;
     margin: 0 auto;
     padding: 0 1em;
 
-    @media screen and (max-width: 992px) {
-      grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr);
+
+    @media screen and (min-width: 48em) {
+      grid-template-columns: repeat(3, 1fr);
     }
 
-    @media screen and (max-width: 576px) {
-      grid-template-columns: 1fr;
+    @media screen and (min-width: 80em) {
+      grid-template-columns: repeat(4, 1fr);
     }
   }
   
+
+
   .footer-col {
     h4 {
       color: #fff;

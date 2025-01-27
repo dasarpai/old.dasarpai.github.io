@@ -3,7 +3,7 @@ id: 805
 title: Online Training - Data Science, AI, ML - Page 2
 date: '2020-10-21T14:51:37+05:30'
 layout: slider-online-sessions1-layout
-permalink: /slider-online-sessions2
+permalink: /gallary/slider-online-sessions2
 author_profile: false
 sidebar:
    nav: "docs"
