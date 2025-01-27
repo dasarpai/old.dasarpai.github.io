@@ -4,7 +4,7 @@ id: 6134
 title: Open Source vs Closed Source AI
 date: 2024-08-06
 permalink: /dsblog/Open-Source-vs-Closed-Source-AI
-tags: []
+tags: ["AI", "Open Source", "Closed Source", "Machine Learning", "AI Development", "Technology Ethics", "Model Deployment", "AI Infrastructure", "AI Democratization", "AI Transparency"]
 categories:
   - dsblog
 header:
@@ -12,13 +12,14 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A comparative analysis of open source and closed source AI systems, examining their implications for transparency, cost, accessibility, and the future of AI development."   
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
 mathjax: "true"
 comments: true
+keywords: ["Open Source AI", "Closed Source AI", "AI Development", "AI Infrastructure", "Model Deployment", "AI Transparency", "AI Democratization", "AI Ethics", "AI Costs", "AI Technology"]
 ---
 
 ![Open-Source-vs-Closed-Source-AI](/assets/images/dspost/dsp6134-Open-Source-vs-Closed-Source-AI.jpg)

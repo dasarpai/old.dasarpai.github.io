@@ -13,7 +13,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Learn about Python software development and distribution, focusing on best practices, tools, and methods for successful project deployment."
 author_profile: true   
 share: true   
 toc: true   
@@ -21,11 +21,11 @@ toc_sticky: true
 mathjax: "true"
 ---
 
-**Contents**
-* TOC
-{:toc}
+
 
 ![Software Distribution](/assets/images/dspost/dsp6012-Python-Software-Development-and-Distribution.jpg)   
+
+# Software Distribution
 
 ## Introduction   
 We don’t develop any good and valuable piece of software from scratch. We use pieces of code written by others. This piece of code can be a service running on another machine or software written but kept in a repository. This service may be created by some other company, individual, our company, our team, or ourselves. So any software has two components, one, which is created by us, and we are responsible for the maintenance of that. Another component is a piece of software that is created by someone else, and we are not responsible for the maintenance of that.

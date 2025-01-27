@@ -6,14 +6,14 @@ date: 2021-07-18
 categories:
   - dsblog
 tags: [DS Resources, Basic Statistics, Statistics for Data Science]
-
+keywords: statistics fundamentals, data analysis, statistical methods, probability theory, descriptive statistics, inferential statistics, hypothesis testing, statistical distributions, correlation analysis, regression analysis
 header:
   teaser: /assets/images/dsresources/dsr118-Basic-Statistics-for-Data-Science.jpg
 last_modified_at: 2021-06-02T15:46:43-04:00
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Essential guide to basic statistics concepts for data science. Learn fundamental statistical methods, probability theory, and analytical techniques crucial for data analysis and machine learning."
 author_profile: true   
 share: true   
 toc: true   
@@ -65,4 +65,3 @@ mathjax: "true"
 15.  [https://sciencedirect.com](https://sciencedirect.com)
 16.  [https://statisticshowto.datasciencecentral.com](https://statisticshowto.datasciencecentral.com)
 17.  [https://ztable.net](https://ztable.net)
-

@@ -9,13 +9,14 @@ tags:
   - Project Management
   - Why AI Project Fail?
   - AI Project Failure
+keywords: AI project failure, project management challenges, machine learning implementation, data quality issues, model deployment problems, AI project risks, model maintenance, scalability issues, team expertise, business alignment
 header:
   teaser: "/assets/images/dspost/dsp6007-Why-AI-Project-Fails.jpg"
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal   
 mathjax: true
 share: true
-excerpt:   
+excerpt: "Comprehensive analysis of common reasons behind AI project failures, including technical challenges, management issues, and implementation pitfalls. Learn how to avoid these mistakes in your AI initiatives."
 layout: dspost-layout   
 author_profile: true   
 toc: true   
@@ -52,12 +53,3 @@ I have been in IT project management for 2+ decades. Being in the industry for q
 18.  **In-house Development**: When data is too sensitive and secure like a credit card, health records, income, security-related, etc., and we don’t have internal competency of model development and maintenance then data need to be given to third parties. You need lots of preparation and data crunching before you give this to third parties. This is expensive and time-consuming and many times projects don’t take off.
 19.  **Sponsors need to think beyond cost-cutting and increasing profit**. We also need to look towards the AI systems to increase customer loyalty, customer satisfaction, reduce the stress of employees, ease of doing business, etc. When these are not the metrics then we may start an AI project with the wrong objective and declare it dead after some time. 
 20.  **Overselling**. End-user or customers or sponsors don’t care about the technology used to solve the problem. AI or not AI doesn’t matter much. It is a technical term; the engineering team should bother about it, whether the technical team wants to solve a problem using AI or without AI. Without using the name AI if a system is helping an organization that is good enough. Just because the AI tag is attached to a system expectation of people rises very high. Once these expectations are high then it is not easy to manage those expectations even after delivering the best system.
-
-
-
-
-
-
-
-
-

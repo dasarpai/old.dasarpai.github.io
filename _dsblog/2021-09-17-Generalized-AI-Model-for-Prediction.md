@@ -8,12 +8,13 @@ categories:
 tags:
   - Machine Learning Models  
   - Generalized ML Model 
+keywords: generalized AI models, machine learning prediction, model generalization, multi-modal AI, feature selection, model performance, predictive modeling, AI model development, model accuracy, model scalability
 header:
   teaser: "/assets/images/dspost/dsp6009-Generalized-AI-Model-for-Prediction.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Exploring the challenges and approaches in developing generalized AI models for prediction tasks. Learn about multi-modal integration, feature selection, and balancing model accuracy with generalization capabilities."
 author_profile: true   
 share: true   
 toc: true   
@@ -52,6 +53,3 @@ In physics, physicists are looking for a theory of everything or an equation tha
 In the world of data science, data scientists are trying to build a model to predict everything. For this, they are trying to develop a generalized, multi-modal model. But that is impossible to build. Using certain features (X) we can develop a problem-specific, domain-specific, language-specific model but not a generic model.
 
 What is your thought about the generalized, multi-modal model? A problem in the realm of physics is less complicated but hugely complicated in the field of data science. Why? Because physics is dealing with nature and data science is dealing with humans, their behavior, and their businesses.
-
-
-

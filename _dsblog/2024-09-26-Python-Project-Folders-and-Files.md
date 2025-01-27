@@ -20,7 +20,7 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: ["Python project structure", "Python scripts folder", "virtual environment in Python", ".venv folder usage", "Python development best practices", "Python folder organization"]
+keywords: ["Python Project Structure", "Python Development", "Project Organization", "Virtual Environment", "Python Best Practices", "Development Setup", "Package Management", "Project Architecture", "Python Modules", "Configuration Management", "Development Environment", "Python Dependencies", "Code Organization", "Project Layout", "Software Development"]
 ---
 
 ![Python Project Folders and Files](/assets/images/dspost/dsp6145-Python-Project-Folders-and-Files.jpg)

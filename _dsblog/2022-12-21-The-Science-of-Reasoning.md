@@ -5,19 +5,19 @@ date: '2022-12-21T15:50:00+05:30'
 permalink: /dsblog/The-Science-of-Reasoning
 categories:
   - dsblog
-tags: [Type of Reasoning]
-
+tags: [Type of Reasoning, Logic, Critical Thinking, Argumentation, Fallacies, Analytical Thinking]
+keywords: logical reasoning, critical thinking, fallacies, argument analysis, deductive reasoning, inductive reasoning, logical fallacies, cognitive biases, rational thinking, decision making
 header:
   teaser: "/assets/images/dspost/dsp6017-The-Science-of-Reasoning.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Deep dive into the science of reasoning and logical thinking. Explore different types of reasoning, common logical fallacies, and how to build sound arguments while avoiding cognitive biases in decision-making processes."
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
-mathjax: "true"
+mathjax: true
 ---
 
 # The Science of Reasoning   
@@ -122,4 +122,3 @@ Now we understand, for reasoning, we need an argument. An argument is composed o
  
 ## More References
 https://en.wikipedia.org/wiki/List_of_fallacies   
-

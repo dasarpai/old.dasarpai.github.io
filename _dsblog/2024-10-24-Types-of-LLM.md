@@ -12,7 +12,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A comprehensive guide to understanding different types of Large Language Models (LLMs), their capabilities, naming conventions, and practical applications in various domains."   
 author_profile: true   
 share: true   
 toc: true   
@@ -20,7 +20,7 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: ["LLM", "Types of LLM", "Language Models", "Generative AI", "Text Generation", "AI Conversation", "Natural Language Processing"]
+keywords: ["LLM", "Types of LLM", "Language Models", "Generative AI", "Text Generation", "AI Conversation", "Natural Language Processing", "Embedding Models", "Foundation Models", "Instruction Models", "Code Generation Models", "AI Model Architecture", "Machine Learning", "Deep Learning", "Neural Networks"]
 ---
 
 ![](/assets/images/dspost/dsp6171-Types-of-LLM.jpg)

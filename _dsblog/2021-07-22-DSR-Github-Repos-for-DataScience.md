@@ -6,12 +6,13 @@ date: '2021-07-22T15:50:00+05:30'
 categories:
   - dsblog
 tags: [DS Resources, Github Repos] 
+keywords: github repositories, data science projects, machine learning code, open source ML, data analysis tools, python libraries, AI frameworks, code examples, learning resources, development tools
 header:
    teaser: "/assets/images/dsresources/dsr122-Github-Repos-to-Learn-DataScience.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Curated collection of valuable GitHub repositories for data science and machine learning. Find essential tools, frameworks, and example projects to enhance your data science skills."
 author_profile: true   
 share: true   
 toc: true   

@@ -12,7 +12,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A comprehensive guide to understanding AI benchmarks, their importance in evaluating model performance, and key benchmarking frameworks used in the industry."   
 author_profile: true   
 share: true   
 toc: true   
@@ -122,4 +122,3 @@ The "5-shot" part of MMLU indicates that during evaluation, the model is given 5
 In few-shot learning contexts, the goal is to assess how well a model can generalize from a limited number of examples. The model's performance is evaluated based on how effectively it can utilize those 5 examples to make predictions on new, unseen inputs within the same task.
 
 The MMLU (5-shot) benchmark tests a model's ability to generalize from a small number of examples. This is particularly relevant in practical applications where labeled data may be scarce or expensive to obtain. By providing a standardized way to evaluate models on various tasks with few examples, MMLU allows for comparative analysis of different models and architectures, helping researchers understand which models perform better in terms of few-shot learning capabilities.
-

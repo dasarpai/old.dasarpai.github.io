@@ -1,7 +1,7 @@
 ---
 id: 801    
 layout: gallery
-permalink: /gallery
+permalink: /gallary
 title: "My Gallery Links"
 author_profile: true
 header:

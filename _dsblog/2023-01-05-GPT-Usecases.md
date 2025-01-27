@@ -5,19 +5,19 @@ date: '2023-01-05T15:50:00+05:30'
 permalink: /dsblog/gpt-usecases 
 categories:
   - dsblog
-tags: [OpenAI, NLP, Machine Learning, Natural Language Processing, GPT3]   
-   
+tags: [OpenAI, NLP, Machine Learning, Natural Language Processing, GPT3, Language Models, AI Technology, Transformer Architecture]   
+keywords: GPT applications, language models, transformer architecture, OpenAI technology, natural language processing, GPT use cases, AI text generation, machine learning models, GPT fine-tuning, industry applications
 header:   
   teaser: "/assets/images/dspost/dsp6020-GPT-Usecases.jpg"   
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Discover the diverse applications and potential of GPT (Generative Pre-trained Transformer) technology across industries. Learn how this revolutionary language model is reshaping text generation, content creation, and natural language understanding."
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
-mathjax: "true"
+mathjax: true
 --- 
 
    
@@ -75,7 +75,3 @@ OpenAI is still silent on the number of parameters and date of launch but there 
 - [GPT-4 is Almost Here, And it Looks Better than Anything Else](https://analyticsindiamag.com/gpt-4-is-almost-here-and-it-looks-better-than-anything-else/)
 - [Will GPT-4 Be a Massive Language Model That Can Imitate Human Brain](https://www.analyticsinsight.net/will-gpt-4-be-a-massive-language-model-that-can-imitate-human-brain/)
 - [Open AI’s GPT 4 could support up to 1 trillion parameters, will be bigger than ChatGPT 3](https://indianexpress.com/article/technology/tech-news-technology/chatgpt-4-release-features-specifications-parameters-8344149/)
-
-
-
-

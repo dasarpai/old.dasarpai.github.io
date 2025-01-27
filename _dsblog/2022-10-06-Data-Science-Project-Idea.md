@@ -14,12 +14,13 @@ tags:
   - Machine Learning Project Ideas 
   - Deep Learning Project Ideas 
   - NLP Project Ideas
+keywords: data science projects, machine learning applications, AI project examples, deep learning implementations, NLP use cases, computer vision projects, time series analysis, predictive modeling, classification projects, real-world AI applications
 header:
   teaser: /assets/images/dspost/dsp6013-Data-Science-Project-Ideas.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Extensive collection of practical project ideas for data science and AI enthusiasts. From machine learning and deep learning to NLP and computer vision, discover diverse projects to build your portfolio and enhance your skills."
 author_profile: true   
 share: true   
 toc: true   
@@ -141,7 +142,3 @@ Cryptocurrency Price Prediction | Time Series
 Tata Motors Stock Price Prediction | Time Series
 Number of Orders Prediction | Time Series
 Microsoft Stock Price Prediction | Time Series
-
-
-
-

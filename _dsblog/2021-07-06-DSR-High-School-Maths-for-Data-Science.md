@@ -5,20 +5,26 @@ permalink: /dsblog/high-school-maths-for-ds
 date: 2021-07-06
 categories:
   - dsblog
-tags: [DS Resources, Mathematics for Data Scientist]
-
+tags:
+  - Basic Mathematics
+  - Data Science Fundamentals
+  - High School Math
+  - Math Prerequisites
+  - Learning Resources
+  - Educational Material
+keywords: high school mathematics, basic math for data science, math fundamentals, algebra basics, geometry fundamentals, trigonometry basics, calculus introduction, mathematical concepts, data science prerequisites, math tutorials
 header:
   teaser: /assets/images/dsresources/dsr106-High-School-Maths-for-Data-Science.jpg
 last_modified_at: 2021-08-28T15:46:43-04:00
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Essential high school mathematics concepts required for data science. A comprehensive guide covering algebra, geometry, trigonometry, and basic calculus with practical examples and tutorials."
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
-mathjax: "true"
+mathjax: true
 ---
 
 ![High School Maths for Data Science](/assets/images/dsresources/dsr106-High-School-Maths-for-Data-Science.jpg)   

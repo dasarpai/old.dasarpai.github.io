@@ -20,7 +20,7 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: ["Generative AI comparison", "AWS AI services", "Azure OpenAI", "Google Cloud AI", "OpenAI vs AWS AI", "AI cloud providers", "Salesforce Einstein GPT"]
+keywords: ["Generative AI", "Cloud AI Services", "AWS AI", "Azure OpenAI", "Google Cloud AI", "Cloud Machine Learning", "AI Platform Comparison", "Enterprise AI Solutions", "AI Cloud Infrastructure", "MLOps", "AI Model Deployment", "Cloud AI Tools", "AI Service Providers", "AI Development Platforms", "AI Infrastructure"]
 ---
 
 ![GenAI Capabilities from AWS, Azure, and Google Cloud](/assets/images/dspost/dsp6144-GenAI-Capabilities-from-AWS+GCP+Azure.jpg)

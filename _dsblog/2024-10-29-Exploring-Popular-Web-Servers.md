@@ -12,7 +12,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "An in-depth exploration of popular web servers including Apache, Nginx, IIS, and others, comparing their features, use cases, and optimal deployment scenarios."   
 author_profile: true   
 share: true   
 toc: true   
@@ -20,7 +20,7 @@ toc_sticky: true
 toc_levels: 3
 mathjax: "true"
 comments: true
-keywords: ["Web Server", "Web Development", "Apache", "Nginx", "Lighttpd", "IIS", "Web Server Comparison"]
+keywords: ["Web Server", "Web Development", "Apache", "Nginx", "Lighttpd", "IIS", "Web Server Comparison", "Server Architecture", "HTTP Server", "Web Hosting", "Server Performance", "Server Security", "Enterprise Web Servers", "Web Infrastructure"]
 ---
 
 ![Exploring Popular Web Server](/assets/images/dspost/dsp6176-Exploring-Popular-Web-Server.jpg)

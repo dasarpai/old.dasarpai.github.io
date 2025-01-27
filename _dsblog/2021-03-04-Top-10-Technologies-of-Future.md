@@ -6,14 +6,19 @@ permalink: /dsblog/Top-10-Technologies-of-Future
 categories:
   - dsblog
 tags:
-  - Naive Bayes Classifier
-  - Naive Bayes
+  - Future Technology
+  - Emerging Technologies
+  - Technology Trends
+  - Innovation
+  - Digital Transformation
+  - Tech Future
+keywords: future technologies, emerging tech, technology trends 2025, quantum computing, artificial intelligence, blockchain, IoT, biotechnology, renewable energy, digital transformation
 header:
   teaser: "/assets/images/dspost/dsp6004-Top-10-Future-Technologies.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Explore the top 10 groundbreaking technologies that will shape our future. From AI and quantum computing to biotechnology and renewable energy, discover the innovations that will transform industries and society."
 author_profile: true   
 share: true   
 toc: true   
@@ -58,14 +63,3 @@ Algorithm to speed up designing new drugs.
 The drug will be uniquely tailored to your body and the doctor will be able to give you a personal risk assessment.
 
 **Source**: World Economic Forum 2020
-
-
-
-
-
-
-
-
-
-
-

@@ -6,12 +6,13 @@ date: '2021-07-21T15:50:00+05:30'
 categories:
   - dsblog
 tags: [DS Resources, AI Diary] 
+keywords: personal notes, AI resources, machine learning references, learning materials, research papers, technical articles, educational content, AI tools, ML frameworks, development resources
 header:
    teaser: "/assets/images/dsresources/dsr121-AI-ML-Resources-from-My-Diary.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A curated collection of AI and ML resources from personal research and learning journey. Features valuable references, tools, frameworks, and educational materials for AI/ML practitioners."
 author_profile: true   
 share: true   
 toc: true   

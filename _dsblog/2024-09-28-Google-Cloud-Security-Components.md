@@ -20,7 +20,7 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: ["GCP security best practices", "Google Cloud security architecture", "IAM roles and permissions", "Google Cloud identity management", "Cloud security principles"]
+keywords: ["Google Cloud Platform", "Cloud Security", "IAM", "Identity Management", "Cloud Infrastructure", "Security Best Practices", "Access Control", "Security Architecture", "Cloud Permissions", "GCP Security", "Security Roles", "Cloud Governance", "Security Policies", "Cloud Authentication", "Security Components"]
 ---
 
 ![Navigating Google Cloud Security](/assets/images/dspost/dsp6147-Google-Cloud-Security-Components.jpg)

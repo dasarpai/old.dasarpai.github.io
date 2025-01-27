@@ -10,17 +10,18 @@ tags:
   - Configuration Management  
   - Directory Structure
   - MLOps
+keywords: machine learning project structure, project organization, MLOps best practices, code organization, model deployment, project management, configuration management, development workflow, production deployment, testing framework
 header:
   teaser: "/assets/images/dspost/dsp6010-Directory-Strucutre-of-ML-Project.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Guide to organizing machine learning projects with an efficient directory structure. Learn best practices for code organization, model deployment, and maintaining a clean, scalable ML project architecture."
 author_profile: true   
 share: true   
 toc: true   
-toc_sticky: true 
-mathjax: "true"
+toc_sticky: true
+mathjax: true
 ---
 
 ![Configuration Management](/assets/images/dspost/dsp6010-Directory-Strucutre-of-ML-Project.jpg)   
@@ -174,8 +175,3 @@ Conclusion
 ----------
 
 Let me know if I miss anything, or you do anything differently. If you are starting your first data science project for some customer or serious research, you can create this folder structure and keep putting files and content based on the need. It will give you clarity, and you can spend your time doing something which is more important than this administrative work.
-
-
-
-
-

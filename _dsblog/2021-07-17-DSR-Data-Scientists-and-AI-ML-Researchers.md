@@ -6,14 +6,14 @@ date: 2021-07-17
 categories:
   - dsblog
 tags: [DS Resources, AI Researchers, ML Researchers, NLP Researchers]
-
+keywords: data scientists, AI researchers, machine learning experts, NLP researchers, research profiles, academic researchers, industry experts, AI pioneers, ML practitioners, data science leaders
 header:
   teaser: /assets/images/dsresources/dsr117-Data-Scientists-and-AI-ML-Researchers.jpg
 last_modified_at: 2021-06-15T15:46:43-04:00
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Directory of prominent data scientists, AI researchers, and machine learning experts. Discover leading professionals and their contributions to the fields of AI, ML, and data science."
 author_profile: true   
 share: true   
 toc: true   

@@ -238,8 +238,12 @@ importantlinks:
       url: "/services"   
     - title: "My Data Science Courses/Services"
       url: "/dscourses"   
-    - title: "My Project/Work Catalog"
-      url: "/project-index-page" 
+    - title: "MyWork by Business Domain"
+      url: "/summary-of-al-ml-projects" 
+    - title: "MyWork by Tech Stack"
+      url: "/summary-of-my-technology-stacks"
+    - title: "MyWork in Project Management"
+      url: "/summary-of-management-projects"
     - title: "Clients"
       url: "/clients"
     - title: "Testimonial"
@@ -294,32 +298,6 @@ allresources:
     - title: "Microsoft PM Templates"
       url: "/microsoft-pm-templates"
 
-wia:
-    - title: "WIA Home"
-      url: "/wia-home"
-    - title: "WIA Blog"
-      url: "/wiaposts"
-    - title: "WIA Topics"
-      url: "/wia-tags" 
-    - title: "WIA Quotes"
-      url: "/quotations-blog"    
-    - title: "GK Blog"
-      url: "/gk"        
-    - title: "GK Topic"
-      url: "/gk-tags" 
-    - title: "Book Summary"
-      url: "/booksummary"  
-      
-samskrutyatra:
-    - title: "SamskrutYatra Home"
-      url: "/samskrutyatra-home" 
-    - title: "Samskrut Blog"
-      url: "/samskrutyatra"      
-    - title: "Samskrut Topics"
-      url: "/samskrutyatra-tags"    
-    - title: "My Chantings"
-      url: "/samskrutyatra-tags#chanting"     
-
 projectmanagement:
     - title: "PMLOGY Home"
       url: "/pmlogy-home"
@@ -342,6 +320,29 @@ projectmanagement:
     - title: "PMBOK6 Hindi Explorer"
       url: "/pmbok6hi"
 
+wia:
+    - title: "WIA Home"
+      url: "/wia-home"
+    - title: "WIA Blog"
+      url: "/wiaposts"
+    - title: "WIA Topics"
+      url: "/wia-tags" 
+    - title: "WIA Quotes"
+      url: "/quotations-blog"    
+    - title: "GK Blog"
+      url: "/gk"        
+    - title: "GK Topic"
+      url: "/gk-tags"  
+
+samskrutyatra:
+    - title: "SamskrutYatra Home"
+      url: "/samskrutyatra-home" 
+    - title: "Samskrut Blog"
+      url: "/samskrutyatra"      
+    - title: "Samskrut Topics"
+      url: "/samskrutyatra-tags"    
+    - title: "My Chantings"
+      url: "/samskrutyatra-tags#chanting"     
 
 
 mygallary:

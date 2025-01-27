@@ -12,7 +12,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A curated collection of valuable programming resources, including learning platforms, coding tutorials, best practices, interview preparation materials, and career development guides for developers at all levels."   
 author_profile: true   
 share: true   
 toc: true   
@@ -180,7 +180,7 @@ keywords: [Programming resources, Best programming resources 2024, Top programmi
 *   [What are the scaling issues to keep in mind while developing a social network feed?](https://www.quora.com/Activity-Streams/What-are-the-scaling-issues-to-keep-in-mind-while-developing-a-social-network-feed)
 *   [Facebook Activity Feeds Architecture](http://www.slideshare.net/danmckinley/etsy-activity-feeds-architecture)
 *   [Building Timeline](https://www.facebook.com/note.php?note_id=10150468255628920)
-*   [Facebook Timeline](http://highscalability.com/blog/2012/1/23/facebook-timeline-brought-to-you-by-the-power-of-denormaliza.html)
+*   [Facebook Timeline](http://highscalability.com/blog/2011/1/23/facebook-timeline-brought-to-you-by-the-power-of-denormaliza.html)
 *   [Efficient Computation of Frequent and Top-k Elements in Data Streams](http://www.cse.ust.hk/~raywong/comp5331/References/EfficientComputationOfFrequentAndTop-kElementsInDataStreams.pdf)
 *   [An Optimal Strategy for Monitoring Top-k Queries in Streaming Windows](http://davis.wpi.edu/xmdv/docs/EDBT11-diyang.pdf)
 *   [How to Create an Asynchronous Multiplayer Game](http://www.indieflashblog.com/how-to-create-an-asynchronous-multiplayer-game.html)

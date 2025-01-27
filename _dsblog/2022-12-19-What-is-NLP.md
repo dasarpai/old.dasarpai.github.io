@@ -5,19 +5,19 @@ date: '2022-12-19T15:50:00+05:30'
 permalink: /dsblog/what-is-nlp
 categories:
   - dsblog
-tags: [Machine Learning]
-
+tags: [Machine Learning, Natural Language Processing, Text Analysis, Language Models, NLP Applications, Text Mining]
+keywords: natural language processing, NLP, text analysis, language models, word embeddings, text mining, sentiment analysis, machine translation, text classification, language understanding
 header:
   teaser: "/assets/images/dspost/dsp6016-What-is-NLP.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Comprehensive introduction to Natural Language Processing (NLP) and its applications. Learn about word embeddings, text analysis techniques, and how NLP is revolutionizing human-computer interaction and text understanding."
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
-mathjax: "true"
+mathjax: true
 ---
 
 ![What is NLP?](/assets/images/dspost/dsp6016-What-is-NLP.jpg)   
@@ -157,5 +157,3 @@ There are hundreds of usecases of NLP in different domains. Wherever business ex
 
 ## Conclusion
 Recently after the invention of encoder-decoder architecture, transformer architecture, GPU power, and GPT we see a huge surge in NLP and its application. In the future when humanity will be able to communicate with machines with their own voice, language  & dialect, then human-machine interaction will touch new heights and this is possible only with the advancement of NLP technologies.
-
-

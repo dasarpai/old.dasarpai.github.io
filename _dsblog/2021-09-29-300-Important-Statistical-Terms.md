@@ -9,17 +9,18 @@ tags:
   - Statistical Terms
   - Statistics
   - Statistics for Data Science
+keywords: statistical terminology, data science statistics, probability concepts, statistical analysis, statistical measures, data distribution, hypothesis testing, statistical inference, statistical methods, data analysis terms
 header:
   teaser: "/assets/images/dspost/dsp6011-300+Important-Statitical-Terms.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Comprehensive glossary of 300+ essential statistical terms and concepts used in data science. From basic probability to advanced statistical inference, this guide covers key terminology for data analysis and machine learning."
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
-mathjax: "true"
+mathjax: true
 ---
 
 # Important Statistical Terms   
@@ -330,12 +331,3 @@ Sno | Term | Definition
 These definitions are taken from - https://www.stat.berkeley.edu/~stark/SticiGui/Text/gloss.htm
 
 I am maintaining these terms on this page, so that it here for my reference. I am rearranging these terms here. Removing certain unrelated terms (as per me). I may change this table based on my further exploration and understanding. For the original definition please read from the above link. If any term is misunderstood or misexplained then please comment below. I will correct it here, after due consideration. If any important term is missing from this table then please mention the commentbox below.
-
-
-
-
-
-
-
-
-

@@ -5,19 +5,19 @@ date: '2023-01-04T15:50:00+05:30'
 permalink: /dsblog/chatgpt-usecases 
 categories:
   - dsblog
-tags: [NLP, Machine Learning, Natural Language Processing, ChatGPT, GPT3, OpenAI]   
-   
+tags: [NLP, Machine Learning, Natural Language Processing, ChatGPT, GPT3, OpenAI, AI Applications, Language Models]   
+keywords: ChatGPT applications, GPT use cases, AI language models, natural language processing, conversational AI, OpenAI technology, AI automation, business applications, content generation, AI assistant
 header:   
   teaser: "/assets/images/dspost/dsp6019-ChatGPT-Usecases.jpg"   
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Explore practical applications and use cases of ChatGPT across various industries. Learn how this revolutionary AI language model is transforming business operations, content creation, and user interactions."
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
-mathjax: "true"
+mathjax: true
 --- 
 
    
@@ -128,9 +128,3 @@ Sometimes you are in hurry and don’t have time to read a good book. Now, you w
 
 # Conclusion
 ChatGPT is very promising and disruptive technology from OpenAI. Shortly, it is going to change the market in a big way. How search market going to shape? Microsoft along with OpenAI has a stake in ChatGPT, so how it is going to affect services from Bing, and consequently, how is it going to affect the search market? What will be the cost of search services? What will be the impact of this on the advertisement business? What are the new products going to come into the market etc? We just need to wait and watch for the answers to these questions. If you are a technology investor/enthusiast then you must be planning to ride this huge wave. If you are an information consumer then your way of consuming information is going to change. It is going to shake many of the jobs from the market and going to create new job opportunities. It is a time for you to learn it now and shape your career before ChatGPT-based AI products and services destroy it for you.
-
-
-
-
-
-

@@ -20,7 +20,7 @@ toc_sticky: true
 toc_levels: 2
 mathjax: "true"
 comments: true
-keywords: ["Flutter folder structure", "Flutter machine learning integration", "AI in Flutter apps", "Organize Flutter projects", "Flutter ML models best practices", "TensorFlow Lite in Flutter", "Flutter project structure for AI"]
+keywords: ["Flutter Development", "Mobile App Development", "AI Integration", "Flutter Architecture", "Project Organization", "Machine Learning", "TensorFlow Lite", "Cross-Platform Development", "Flutter Best Practices", "Mobile AI", "App Structure", "Development Workflow", "Code Organization", "Flutter Framework", "Mobile Development"]
 ---
 
 ![]( /assets/images/dspost/dsp6146-Building-AI-Powered-Flutter-Apps.jpg)

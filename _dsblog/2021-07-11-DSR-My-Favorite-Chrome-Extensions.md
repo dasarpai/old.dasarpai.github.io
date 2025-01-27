@@ -6,13 +6,14 @@ date: 2021-07-11
 categories:
   - dsblog
 tags: [DS Resources, Chrome Tools, Chrome Extensions]
+keywords: chrome extensions, browser tools, productivity tools, web development extensions, research tools, browser plugins, chrome addons, web utilities, browser enhancement, developer tools
 header:
   teaser:  /assets/images/dsresources/dsr111-My-Favorite-Chrome-Extensions.jpg
 last_modified_at: 2022-09-08T15:46:43-04:00
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A curated list of essential Chrome extensions for developers, researchers, and productivity enthusiasts. Discover tools that enhance your browsing experience and boost your workflow efficiency."
 author_profile: true   
 share: true   
 toc: true   

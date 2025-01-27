@@ -12,7 +12,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A comprehensive guide to understanding the Python ecosystem, including its history, package management, virtual environments, and popular libraries for different applications."   
 author_profile: true   
 share: true   
 toc: true   

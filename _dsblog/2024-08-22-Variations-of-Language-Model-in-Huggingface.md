@@ -4,7 +4,7 @@ id: 6138
 title: Variations of Language Model in Huggingface
 date: 2024-08-22
 permalink: /dsblog/Variations-of-Language-Model-in-Huggingface
-tags: []
+tags: ["Hugging Face", "Language Models", "Natural Language Processing", "GPT", "BERT", "Model Architecture", "Machine Learning"]
 categories:
   - dsblog
 header:
@@ -12,13 +12,14 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "An in-depth exploration of different language model variations in Hugging Face, including GPT2 adaptations, their architectures, and specific use cases for various NLP tasks."   
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
 mathjax: "true"
 comments: true
+keywords: ["Language Models", "Hugging Face", "GPT Models", "Model Variations", "NLP", "Machine Learning", "Model Architecture", "Model Adaptation", "AI Development", "Deep Learning"]
 ---
 
 ![Variations-of-LanguageModel](/assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg)

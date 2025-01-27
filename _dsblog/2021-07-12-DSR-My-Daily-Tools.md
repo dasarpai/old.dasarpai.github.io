@@ -6,14 +6,14 @@ date: 2021-07-12
 categories:
   - dsblog
 tags: [DS Resources, Daily Tools, Soft Tools, PM Tools, Design Tools, SEO Tools, AI Tools]
-
+keywords: productivity tools, software tools, project management software, design tools, SEO tools, AI applications, file converters, screen capture tools, collaboration software, development tools
 header:
   teaser:  /assets/images/dsresources/dsr112-My-Daily-Tools.jpg
 last_modified_at: 2021-06-15T15:46:43-04:00
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A comprehensive collection of essential software tools and applications used daily for productivity, project management, design, SEO, and AI tasks. Find the right tools to enhance your workflow."
 author_profile: true   
 share: true   
 toc: true   

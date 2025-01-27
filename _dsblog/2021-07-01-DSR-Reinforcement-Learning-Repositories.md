@@ -3,7 +3,16 @@ id: 101
 title: "Reinforcement Learning Git Repositories"
 permalink: /dsblog/rl-git-repo
 date: 2020-07-01
-tags: [DS Resources, Reinforcment Learning, RL Git Repositories] 
+tags: 
+  - Reinforcement Learning
+  - Machine Learning
+  - GitHub Resources
+  - Deep Learning
+  - AI Development
+  - Open Source
+  - Python Libraries
+  - Deep RL
+keywords: reinforcement learning repositories, RL GitHub projects, machine learning resources, deep learning frameworks, AI development tools, TensorFlow RL, PyTorch RL, Q-learning implementations, deep reinforcement learning code, RL algorithms, OpenAI baselines, DeepMind repositories, RL frameworks
 categories:
   - dsblog 
 header:
@@ -11,13 +20,14 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A comprehensive collection of essential Reinforcement Learning (RL) repositories on GitHub, featuring production-ready implementations, research frameworks, and learning resources from industry leaders like OpenAI and DeepMind. Includes popular libraries for TensorFlow and PyTorch, complete with examples and documentation."
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
 mathjax: "true"
 ---
+
 ![Reinforcement Learning Git Repositories](/assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg)    
    
 # Reinforcement Learning Git Repositories    
@@ -84,4 +94,3 @@ mathjax: "true"
 | 58  | https://github.com/unixpickle/anyrl-py  | Tensorflow |
 | 59  | https://github.com/Scitator/rl-course-experiments | Tensorflow |
 | 60  | https://github.com/oxwhirl/pymarl | PyTorch  |
-

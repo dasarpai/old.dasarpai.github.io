@@ -5,20 +5,28 @@ permalink: /dsblog/maths-for-ds
 date: 2021-07-04
 categories:
   - dsblog
-tags: [DS Resources, Mathematics for Data Scientist]
-
+tags: 
+  - Mathematics for Data Science
+  - Linear Algebra
+  - Calculus
+  - Statistics
+  - Probability Theory
+  - Mathematical Foundations
+  - Machine Learning Math
+  - Optimization Theory
+keywords: data science mathematics, linear algebra fundamentals, calculus for machine learning, statistical concepts, probability theory, optimization methods, mathematical notation, matrix operations, differential equations, eigenvalues and eigenvectors, gradient descent mathematics, mathematical proofs, vector calculus, mathematical modeling, numerical methods
 header:
   teaser: /assets/images/dsresources/dsr104-Mathematics-for-Data-Scientist.jpg
 last_modified_at: 2021-09-28T15:46:43-04:00
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "In-depth exploration of essential mathematical concepts required for data science and machine learning. Covers linear algebra, calculus, statistics, and probability theory with practical applications in ML algorithms. Includes detailed explanations, formulas, and real-world examples."
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
-mathjax: "true"
+mathjax: true
 ---
 
 ![Mathematics for Data Scientist](/assets/images/dsresources/dsr104-Mathematics-for-Data-Scientist.jpg)   

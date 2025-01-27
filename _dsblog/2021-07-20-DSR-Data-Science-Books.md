@@ -6,7 +6,7 @@ date: 2022-07-20
 categories:
   - dsblog
 tags: [DS Resources, AI, Data Science, Machine Learning, eBook, Data Science Books]
-
+keywords: data science books, AI textbooks, machine learning resources, programming books, technical ebooks, learning materials, educational PDFs, computer science literature, academic resources, reference guides
 header:
   teaser: /assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg
 
@@ -14,7 +14,7 @@ last_modified_at: 2021-07-02T15:46:43-04:00
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Extensive collection of data science, AI, and machine learning books and educational resources. Find comprehensive learning materials from beginner to advanced levels in various formats."
 author_profile: true   
 share: true   
 toc: true   
@@ -433,7 +433,7 @@ Sno | Book | Pages | Size(MB)
 392 | What is data science EBOOK.pdf | 141 | 3.497
 393 | Why a Bayesian Approach to Drug Development and Evaluation EBOOK.pdf | 68 | 1.212
 394 | Writing for computer science 3rd edition BOOK.pdf | 285 | 5.263
-
+ 
  
 ## Presentations
 

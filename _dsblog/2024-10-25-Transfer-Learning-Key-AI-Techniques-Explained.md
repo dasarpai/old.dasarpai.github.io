@@ -12,7 +12,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A detailed exploration of key AI learning techniques including transfer learning, in-context learning, prompt engineering, and zero-shot learning, with practical examples and applications."   
 author_profile: true   
 share: true   
 toc: true   

@@ -6,13 +6,13 @@ date: 2021-07-16
 tags: [DS Resources, Data Sources, Databases, ETL Tools] 
 categories:
   - dsblog
-
+keywords: data sources, ETL tools, database management, data integration, data warehousing, data pipeline, data transformation, data storage, data processing, business intelligence
 header:
    teaser: /assets/images/dsresources/dsr116-Data-Sources-Databases-ETL-Tools.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Comprehensive guide to data sources, databases, and ETL tools essential for machine learning projects. Learn about various data integration solutions and how to effectively manage your data pipeline."
 author_profile: true   
 share: true   
 toc: true   

@@ -5,19 +5,19 @@ date: '2022-10-15T15:50:00+05:30'
 permalink: /dsblog/Domain-Knowledge-in-Machine-Learning
 categories:
   - dsblog
-tags: [Machine Learning]
-
+tags: [Machine Learning, Domain Expertise, Industry Knowledge, ML Applications, Feature Engineering, Model Development]
+keywords: domain knowledge, machine learning expertise, industry-specific ML, feature engineering, business understanding, model development, data science applications, domain-driven ML, subject matter expertise, ML implementation
 header:
   teaser: "/assets/images/dspost/dsp6015-domain-knowledge-in-machine-learning.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Explore the crucial role of domain knowledge in machine learning projects. Learn how industry expertise enhances feature engineering, model development, and overall ML solution effectiveness across different business domains."
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
-mathjax: "true"
+mathjax: true
 ---
 
 ![Domain Knowledge in Machine Learning](/assets/images/dspost/dsp6015-domain-knowledge-in-machine-learning.jpg)   
@@ -47,4 +47,3 @@ Can we solve this problem without ML?
 Don’t blame the user that you are giving the wrong input and my model is failing.   
 
 Any thoughts?
-

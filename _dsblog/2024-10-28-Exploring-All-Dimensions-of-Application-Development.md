@@ -12,7 +12,7 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "A comprehensive exploration of modern application development, covering essential aspects from DevOps and CI/CD to edge computing and emerging technologies."   
 author_profile: true   
 share: true   
 toc: true   
@@ -132,5 +132,3 @@ Each of these aspects is crucial to modern software development, covering everyt
 ## 19. **Edge Computing**
    - Deploying code closer to users at the network's edge to reduce latency and improve performance.
    - **Platforms**: Cloudflare Workers, AWS Lambda@Edge, Vercel’s Edge Functions.
-
-

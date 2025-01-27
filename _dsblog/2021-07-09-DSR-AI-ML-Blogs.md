@@ -6,7 +6,7 @@ date: 2021-07-12
 categories:
   - dsblog
 tags: [DS Resources, AI Blogs]
-
+keywords: AI blogs, machine learning blogs, deep learning resources, data science websites, tech blogs, ML tutorials, AI news, research blogs, industry insights, educational resources
 header:
   teaser:  /assets/images/dsresources/dsr109-AI-ML-DL-Blogs-Sites.jpg
 
@@ -14,7 +14,7 @@ last_modified_at: 2021-07-02T15:46:43-04:00
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Curated collection of top AI, Machine Learning, and Deep Learning blogs and websites. Stay updated with the latest trends, tutorials, and insights from industry experts and researchers."
 author_profile: true   
 share: true   
 toc: true   

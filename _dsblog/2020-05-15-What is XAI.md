@@ -8,12 +8,17 @@ categories:
 tags:
   - XAI
   - Explainable AI
+  - Machine Learning Interpretability
+  - AI Transparency
+  - Model Explainability
+  - AI Ethics
+keywords: explainable artificial intelligence, interpretable ML, AI transparency, model interpretability, LIME, SHAP, model explanation, AI accountability, responsible AI, AI black box
 header:
   teaser: "/assets/images/dspost/dsp6003-XAI.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Deep dive into Explainable AI (XAI) - understand how it makes AI systems transparent and interpretable. Learn about key XAI tools, techniques, and their importance in building trustworthy AI solutions."
 author_profile: true   
 share: true   
 toc: true   
@@ -88,16 +93,3 @@ Here are some widely-used XAI libraries and tools to build explainable systems:
 - [Explainable AI Frameworks Driving a New Paradigm for Transparency in AI](https://analyticsindiamag.com/8-explainable-ai-frameworks-driving-a-new-paradigm-for-transparency-in-ai/)
 - [DARPA’s Explainable Artificial Intelligence Program](https://www.darpa.mil/program/explainable-artificial-intelligence)
 - [Google Cloud Explainable AI](https://cloud.google.com/explainable-ai)
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -5,19 +5,19 @@ date: '2022-12-28T15:50:00+05:30'
 permalink: /dsblog/what-is-computer-vision 
 categories:
   - dsblog
-tags: [Computer Vision]   
-   
+tags: [Computer Vision, Image Processing, Deep Learning, Neural Networks, Machine Learning, AI Applications]   
+keywords: computer vision, image processing, object detection, facial recognition, neural networks, deep learning, machine perception, visual AI, image analysis, computer vision applications
 header:   
   teaser: "/assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg"   
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Comprehensive guide to Computer Vision technology and its applications. Understand how machines process and interpret visual information using neural networks, and explore real-world applications in various industries."
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
-mathjax: "true"
+mathjax: true
 --- 
    
 ![What is Computer Vision](/assets/images/dspost/dsp6018-What-is-Computer-Vision.jpg)   

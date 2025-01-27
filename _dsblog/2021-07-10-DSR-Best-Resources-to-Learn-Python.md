@@ -6,7 +6,8 @@ date: 2021-07-10
 categories:
   - dsblog
 tags: [DS Resources, Resource for Python Learning, Python Resources]
-excerpt: #
+keywords: python tutorials, learn python programming, python for beginners, python courses, coding resources, programming tutorials, data science python, python libraries, python documentation, online learning
+excerpt: "Comprehensive collection of the best resources for learning Python programming - from beginner tutorials to advanced courses, documentation, and practical examples for data science applications."
 header:
   teaser:  /assets/images/dsresources/dsr110-Best-Resources-to-Learn-Python.jpg
 
@@ -14,7 +15,6 @@ last_modified_at: 2021-06-30T15:46:43-04:00
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
 author_profile: true   
 share: true   
 toc: true   
@@ -122,4 +122,3 @@ mathjax: "true"
 31.  [https://udemy.com](https://udemy.com/)
 32.  [https://w3schools.com](https://w3schools.com/)
 33.  [https://wiki.python.org](https://wiki.python.org/)
-

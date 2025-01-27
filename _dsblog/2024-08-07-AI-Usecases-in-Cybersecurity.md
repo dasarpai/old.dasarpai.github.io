@@ -4,7 +4,7 @@ id: 6135
 title: AI Usecases in Cybersecurity
 date: 2024-08-07
 permalink: /dsblog/AI-Usecases-in-Cybersecurity
-tags: []
+tags: ["AI", "Cybersecurity", "Machine Learning", "Threat Detection", "Network Security", "Security Analytics", "Ethical AI", "Data Protection", "Risk Management", "Security Automation"]
 categories:
   - dsblog
 header:
@@ -12,13 +12,14 @@ header:
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "An exploration of artificial intelligence applications in cybersecurity, including threat detection, network protection, and ethical considerations in implementing AI-powered security solutions."   
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
 mathjax: "true"
 comments: true
+keywords: ["AI in Cybersecurity", "Threat Detection", "Network Security", "Machine Learning Security", "Security Analytics", "AI Ethics", "Cybersecurity Automation", "Security AI", "Risk Management", "Cyber Defense"]
 ---
 
 ![AI-Usecases-in-Cybersecurity](/assets/images/dspost/dsp6135-AI-Usecases-in-Cybersecurity.jpg)

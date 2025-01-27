@@ -11,7 +11,7 @@ header:
      teaser: /assets/images/wiapost/5056-What-Is-Csr.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: "This article explores the concept of Corporate Social Responsibility (CSR) and its significance in modern business practices, drawing insights from ancient wisdom and contemporary examples."
 author_profile: true 
 share: true 
 ---
@@ -19,8 +19,9 @@ share: true
 ![What Is CSR](/assets/images/wiapost/5056-What-Is-Csr.jpg)     
 
 # What Is CSR
+   
 ## About Corporate Social Responsibility (CSR)     
-        
+   
 Corporate Social Responsibility is a concept    
 Where a corporate should own the responsibility of society.    
 They should not simply make a profit, share the profit    

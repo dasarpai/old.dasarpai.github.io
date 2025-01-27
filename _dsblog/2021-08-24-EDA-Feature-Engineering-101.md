@@ -11,18 +11,18 @@ tags:
   - Exploratory Data Analysis
   - Data Analysis
   - Machine Learning
+keywords: exploratory data analysis, feature engineering, data preprocessing, data cleaning, feature selection, data visualization, statistical analysis, data transformation, outlier detection, data preparation
 header:
   teaser: "/assets/images/dspost/dsp6008-EDA101.jpg"
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Comprehensive guide to Exploratory Data Analysis (EDA) and Feature Engineering fundamentals. Learn essential techniques for data preprocessing, visualization, and feature creation for machine learning projects."
 author_profile: true   
 share: true   
 toc: true   
-toc_sticky: true 
-mathjax: "true"
-comments: true
+toc_sticky: true
+mathjax: true
 ---
 
 ![EDA & Feature Engineering](/assets/images/dspost/dsp6008-EDA101.jpg)   
@@ -238,11 +238,3 @@ In this article, we learned.
 *   Importance of feature engineering
 *   Different steps are required for data cleaning and imbalance handling.
 *   What are the different stages of a data science project life cycle.
-
-
-
-
-
-
-
-

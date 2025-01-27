@@ -9,10 +9,9 @@ categories:
   - dsblog
 header:
     teaser: /assets/images/dspost/dsp6174-Exploring-LLM-App-Development.jpg
-excerpt_separator: "<!--more-->"   
+excerpt: "A comprehensive guide to developing applications with Large Language Models (LLMs), covering key aspects from architecture and scalability to security and user experience."   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
 author_profile: true   
 share: true   
 toc: true   

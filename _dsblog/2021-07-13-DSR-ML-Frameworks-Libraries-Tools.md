@@ -19,6 +19,8 @@ share: true
 toc: true   
 toc_sticky: true 
 mathjax: "true"
+excerpt: "A comprehensive overview of popular machine learning frameworks, libraries, and tools."
+keywords: [machine learning, frameworks, libraries, tools, data science, AI]
 ---
 
 ![Machine Learning Framework, Library, Tools](/assets/images/dsresources/dsr113-Machine-Learning-Framework-Library-Tools.jpg)   

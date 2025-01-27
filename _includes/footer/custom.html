@@ -29,6 +29,15 @@
   </div>
 
   <div class="footer-col" style="flex: 25%;">
+    <h4>Project Management</h4>
+    <ul>
+      {% for item in site.data.navigation.projectmanagement %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  
+  <div class="footer-col" style="flex: 25%;">
     <h4>Wisdom in Awareness</h4>
     <ul>
       {% for item in site.data.navigation.wia %}
@@ -47,14 +56,7 @@
   </ul>
 </div>
 
-  <div class="footer-col" style="flex: 25%;">
-    <h4>Project Management</h4>
-    <ul>
-      {% for item in site.data.navigation.projectmanagement %}
-        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
+
 
   <div class="footer-col" style="flex: 25%;">
     <h4>Gallery</h4>

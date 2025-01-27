@@ -6,19 +6,27 @@ date: "2022-07-03T08:33:00+05:30"
 last_modified_at: 2022-09-11T15:46:43-04:00
 categories:
   - dsblog
-tags: [DS Resources, DS Cheatsheet]
-
+tags:
+  - Data Science Cheatsheets
+  - Machine Learning Reference
+  - Python Programming
+  - Statistics Guide
+  - Data Visualization
+  - Quick Reference
+  - Learning Resources
+  - Technical Documentation
+keywords: data science cheatsheets, machine learning quick reference, python programming guide, statistics formulas, data visualization tips, pandas cheatsheet, numpy reference, scikit-learn guide, deep learning basics, SQL commands, probability concepts, matplotlib tutorial, seaborn plotting, data preprocessing steps, model evaluation metrics
 header:
   teaser: /assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   
-excerpt:   
+excerpt: "Essential collection of data science cheatsheets covering Python libraries (Pandas, NumPy, Scikit-learn), statistics, machine learning algorithms, data visualization, and SQL. Perfect for quick reference during development or interview preparation. Includes downloadable PDF versions for offline use."
 author_profile: true   
 share: true   
 toc: true   
 toc_sticky: true 
-mathjax: "true"
+mathjax: true
 ---
 
 ![Data Science Cheatsheets](/assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg)   

@@ -6,12 +6,13 @@ date: 2021-07-15
 tags: [DS Resources, Data Science Datasets] 
 categories:
  - dsblog
+keywords: machine learning datasets, data science resources, public datasets, research data, training datasets, image datasets, NLP datasets, computer vision data, open data repositories, dataset collections
 header:
   teaser: /assets/images/dsresources/dsr115-Datasets.jpg 
 excerpt_separator: "<!--more-->"  
 author: Hari Thapliyaal  
 layout: dspost-layout  
-excerpt:  
+excerpt: "Extensive collection of machine learning datasets from various domains including computer vision, NLP, speech recognition, and more. Find the perfect dataset for your research or project needs."
 author_profile: true  
 share: true  
 toc: true  
