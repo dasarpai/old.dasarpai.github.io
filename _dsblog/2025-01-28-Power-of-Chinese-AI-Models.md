@@ -30,7 +30,7 @@ keywords: ["Chinese AI", "AI Models", "Technology", "Innovation"]
 # Power of Chinese AI Models
 
 ## Introduction
-After Deepseek R1 bloodbath in the market now people started paying more attention towards China and west started looking towards east, including people in east are looking towards North.
+After the Deepseek R1 turmoil in the market, there has been a shift in attention towards China. The West is now looking towards the East, and even those in the East are turning their gaze northward.
 
 I was tracking these models for sometime so thought to summarize them at one place for my readers.
 

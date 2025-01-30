@@ -28,7 +28,7 @@ keywords: ["CNN", "Deep Learning", "AI", "Neural Networks"]
 ![Understanding the Working of CNN](/assets/images/dspost/dsp6213-Understanding-Working-of-CNN.jpg)
 
 # Understanding the Working of CNN
-In this article we will try to understand the working of CNN. This article is not for the beginner, if you some understanding of CNN and has come computation related question then this article is helpful for you.
+In this article, we aim to delve deeper into the working of CNNs. This article is intended for readers who have a basic understanding of CNNs and have computation-related questions. If you have any other questions about CNNs, feel free to ask in the comments.
 
 **Questions we are looking into.**
 - What is the meaning of convolution in neural network?

@@ -28,7 +28,7 @@ keywords: ["Transformers", "Embeddings", "Deep Learning", "NLP"]
 ![Understanding Contextual Embedding in Transformers](/assets/images/dspost/dsp6214-Understanding-Contextual-Embedding-in-Transformer.jpg)
 
 ## Introduction
-Embedding is confusing for many people. And contextual embedding done by transformers is even more confusing. Even after understanding we have many questions. In this article we are trying to answer following questions.
+Embedding can be confusing for many people, and contextual embedding performed by transformers can be even more perplexing. Even after gaining an understanding, many questions remain. In this article, we aim to address the following questions.
 
 - What is Embedding?
 - What is Fixed Embedding?
