@@ -4,14 +4,15 @@ id: 5051
 title: Religion Of Humanity
 date: "2017-06-24T08:33:00+05:30"
 permalink: /wiaposts/religion-of-humanity
-tags: [ Dharma, 'Ethics & Morality', 'My Views']    
+tags: ['Dharma', 'Ethics & Morality', 'My Views']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5051-Religion-Of-Humanity.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Examining the concept of humanity as a universal religion.' 
+keywords: ['Humanity', 'Religion', 'Ethics', 'Dharma']
 author_profile: true 
 share: true 
 ---
@@ -289,4 +290,3 @@ and live like human?
 Hari Om Tat Sat    
     
 Your Truly Hari    
-    

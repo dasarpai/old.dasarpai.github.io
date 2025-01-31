@@ -4,14 +4,15 @@ id: 5023
 title: About Yagnya
 date: "2016-07-20T08:33:00+05:30"
 permalink: /wiaposts/about-yagnya
-tags: [ 'Bhagwat Gita', 'Indian Culture', Philosophy]    
+tags: ['Bhagwat Gita', 'Indian Culture', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5023-About-Yagnya.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'An exploration of the concept of Yagnya in Indian culture and its philosophical significance.' 
+keywords: ['Yagnya', 'Indian Culture', 'Philosophy', 'Bhagwat Gita']
 author_profile: true 
 share: true 
 ---

@@ -4,14 +4,15 @@ id: 5068
 title: The Purpose Of Motions
 date: "2018-02-04T08:33:00+05:30"
 permalink: /wiaposts/the-purpose-of-motions
-tags: [ Concepts, Philosophy]    
+tags: ['Concepts', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5068-The-Purpose-Of-Motions.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Exploring the philosophical significance of motion in life and nature.' 
+keywords: ['Motion', 'Philosophy', 'Life', 'Nature']
 author_profile: true 
 share: true 
 ---

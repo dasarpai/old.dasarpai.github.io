@@ -4,13 +4,13 @@ title: Relationship Of No Relations
 date: "2019-09-05T08:33:00+05:30"
 permalink: /wiaposts/relationship-of-no-relations
 tags: [ Philosophy]    
-
+keywords: ["philosophical exploration of relationships", "understanding connections without relations", "poetic insights on human bonds", "philosophy of non-relational connections", "exploring human connections in philosophy"]  
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5105-Relationship-Of-No-Relations.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: A philosophical exploration of relationships and human connections, delving into the concept of connections without traditional relations.
 author_profile: true 
 share: true 
 ---

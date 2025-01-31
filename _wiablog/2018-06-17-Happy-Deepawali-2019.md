@@ -4,14 +4,15 @@ id: 5075
 title: Happy Deepawali 2019
 date: "2018-06-17T08:33:00+05:30"
 permalink: /wiaposts/happy-deepawali-2019
-tags: [ 'Annual Wishes']    
+tags: ['Annual Wishes']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5075-Happy-Deepawali-2019.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Extending warm wishes and reflections on the significance of Deepawali.'
+keywords: ['Deepawali Wishes 2019', 'Significance of Deepawali', 'Festival of Lights Reflections', 'Cultural Celebrations']
 author_profile: true 
 share: true 
 ---

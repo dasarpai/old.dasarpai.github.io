@@ -4,14 +4,15 @@ id: 5026
 title: Who Is Athiest
 date: "2016-08-20T08:33:00+05:30"
 permalink: /wiaposts/who-is-athiest
-tags: [ 'Atheist']    
+tags: ['Atheist']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5026-Who-Is-Athiest.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A thoughtful exploration of atheism and the quest for truth.' 
+keywords: ['Atheism', 'Truth', 'Philosophy', 'Exploration']
 author_profile: true 
 share: true 
 ---

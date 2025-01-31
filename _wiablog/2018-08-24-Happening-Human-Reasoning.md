@@ -4,14 +4,15 @@ id: 5079
 title: Happening Human Reasoning
 date: "2018-08-24T08:33:00+05:30"
 permalink: /wiaposts/happening-human-reasoning
-tags: [ Concepts, Philosophy]    
+tags: ['Concepts', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5079-Happening-Human-Reasoning.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Analyzing the dynamic nature of human reasoning and its philosophical implications.'
+keywords: ['Dynamic Human Reasoning', 'Philosophical Implications of Reasoning', 'Cognitive Processes', 'Human Thought Patterns']
 author_profile: true 
 share: true 
 ---

@@ -4,14 +4,15 @@ id: 5011
 title: An Example Of Web Of Problems
 date: "2016-02-25T08:33:00+05:30"
 permalink: /wiaposts/an-example-of-web-of-problems
-tags: [ 'My Story']    
+tags: ['My Story']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5011-An-Example-Of-Web-Of-Problems.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A personal narrative exploring the interconnected challenges of life.' 
+keywords: ['Web of Problems', 'Challenges', 'Personal Story', 'Narrative']
 author_profile: true 
 share: true 
 ---

@@ -4,14 +4,15 @@ id: 5042
 title: Characteristics Of A Divinely Person
 date: "2017-03-12T08:33:00+05:30"
 permalink: /wiaposts/characteristics-of-a-divinely-person
-tags: [ 'Bhagwat Gita', Philosophy]    
+tags: ['Bhagwat Gita', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5042-Characteristics-Of-A-Divinely-Person.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'An exploration of divine qualities as described in the Bhagwat Gita.'
+keywords: ['Divine', 'Bhagwat Gita', 'Philosophy', 'Qualities']
 author_profile: true 
 share: true 
 ---

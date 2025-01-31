@@ -4,14 +4,15 @@ id: 5084
 title: The Art Of Dying
 date: "2018-10-29T08:33:00+05:30"
 permalink: /wiaposts/the-art-of-dying
-tags: [ Death, Life, Philosophy, Poetry, Vedanta]    
+tags: ['Death', 'Life', 'Philosophy', 'Poetry', 'Vedanta']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5084-The-Art-Of-Dying.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Exploring the philosophical and spiritual perspectives on death and dying.' 
+keywords: ['Philosophy of Death', 'Spiritual Perspectives on Dying', 'Vedantic Views on Life and Death', 'Poetic Reflections on Mortality']
 author_profile: true 
 share: true 
 ---

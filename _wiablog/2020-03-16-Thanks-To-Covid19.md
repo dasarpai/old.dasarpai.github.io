@@ -4,13 +4,13 @@ title: Thanks To Covid19
 date: '2020-03-16T08:33:00+05:30'
 permalink: /wiaposts/thanks-to-covid19
 tags: [ 'My Views', Philosophy, Prayers]
-
+keywords: ["reflections on COVID-19", "understanding pandemic impacts through philosophy", "poetic insights on COVID-19 and society", "philosophy of pandemics and human behavior", "exploring COVID-19 in philosophical context"]
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5100-Thanks-To-Covid19.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: "Reflection on the impacts of COVID-19, exploring societal changes and human behavior."
 author_profile: true 
 share: true 
 ---
@@ -98,4 +98,3 @@ and an enemy can kill you without hitting and bleeding you.
 
 Hari Om Tat Sat  
 Yours Truly Hari
-

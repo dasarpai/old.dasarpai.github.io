@@ -4,14 +4,15 @@ id: 5037
 title: Who Is Ravana?
 date: "2017-01-29T08:33:00+05:30"
 permalink: /wiaposts/who-is-ravana
-tags: [ Dharma, 'Indian Culture', Philosophy]    
+tags: ['Dharma', 'Indian Culture', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5037-Who-Is-Ravana.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Exploring the complex character of Ravana through cultural and philosophical lenses.' 
+keywords: ['Ravana', 'Dharma', 'Indian Culture', 'Philosophy']
 author_profile: true 
 share: true 
 ---

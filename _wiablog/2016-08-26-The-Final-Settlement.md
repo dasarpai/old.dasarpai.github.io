@@ -4,14 +4,15 @@ id: 5027
 title: The Final Settlement
 date: "2016-08-26T08:33:00+05:30"
 permalink: /wiaposts/the-final-settlement
-tags: [ Philosophy, Vedanta]    
+tags: ['Philosophy', 'Vedanta']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5027-The-Final-Settlement.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A philosophical reflection on life’s ultimate questions and the idea of finality.' 
+keywords: ['Final Settlement', 'Philosophy', 'Vedanta', 'Reflection']
 author_profile: true 
 share: true 
 ---

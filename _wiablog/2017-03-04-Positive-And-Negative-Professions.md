@@ -4,14 +4,15 @@ id: 5040
 title: Positive And Negative Professions
 date: "2017-03-04T08:33:00+05:30"
 permalink: /wiaposts/positive-and-negative-professions
-tags: [ 'My Story', Philosophy]    
+tags: ['My Story', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5040-Positive-And-Negative-Professions.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Reflecting on the impact of professions on personal and societal growth.' 
+keywords: ['Professions', 'Growth', 'Philosophy', 'Society']
 author_profile: true 
 share: true 
 ---

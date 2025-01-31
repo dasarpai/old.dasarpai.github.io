@@ -4,14 +4,15 @@ id: 5053
 title: Learning From The Nature
 date: "2017-07-20T08:33:00+05:30"
 permalink: /wiaposts/learning-from-the-nature
-tags: [ 'Indian Culture', Philosophy]    
+tags: ['Indian Culture', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5053-Learning-From-The-Nature.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Insights and lessons drawn from observing nature.'
+keywords: ['Nature', 'Learning', 'Philosophy', 'Indian Culture']
 author_profile: true 
 share: true 
 ---

@@ -4,14 +4,15 @@ id: 5017
 title: Nectar For Society
 date: "2016-05-08T08:33:00+05:30"
 permalink: /wiaposts/nectar-for-society
-tags: [ 'Indian Culture', Philosophy]    
+tags: ['Indian Culture', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5017-Nectar-For-Society.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Exploring the cultural and philosophical ideals that serve as a foundation for society.' 
+keywords: ['Society', 'Culture', 'Philosophy', 'Ideals']
 author_profile: true 
 share: true 
 ---

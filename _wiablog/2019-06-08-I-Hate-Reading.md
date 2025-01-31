@@ -4,13 +4,13 @@ title: I Hate Reading
 date: "2019-06-08T08:33:00+05:30"
 permalink: /wiaposts/i-hate-reading
 tags: [ Life, 'My Story', 'My Views']    
-
+keywords: ["why some people dislike reading books", "personal story about reading habits", "life experiences with reading", "views on reading culture", "challenges of enjoying reading"]  
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5098-I-Hate-Reading.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: A personal reflection on the challenges and experiences of not enjoying reading, exploring cultural and personal perspectives.
 author_profile: true 
 share: true 
 ---

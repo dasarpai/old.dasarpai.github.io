@@ -4,14 +4,15 @@ id: 5074
 title: A Witness Of The Transformation
 date: "2018-05-25T08:33:00+05:30"
 permalink: /wiaposts/a-witness-of-the-transformation
-tags: [ Concepts, Life, Mindfulness, Philosophy]    
+tags: ['Concepts', 'Life', 'Mindfulness', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5074-A-Witness-Of-The-Transformation.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Observing the journey of personal transformation through mindfulness and awareness.' 
+keywords: ['Personal Transformation Journey', 'Mindfulness and Awareness', 'Life Changes', 'Philosophical Insights on Transformation']
 author_profile: true 
 share: true 
 ---

@@ -4,14 +4,15 @@ id: 5041
 title: Journey Of The Siddhartha
 date: "2017-03-11T08:33:00+05:30"
 permalink: /wiaposts/journey-of-the-siddhartha
-tags: [ 'Indian Culture', Mindfulness, Philosophy]    
+tags: ['Indian Culture', 'Mindfulness', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5041-Journey-Of-The-Siddhartha.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A reflective journey through the life and teachings of Siddhartha.' 
+keywords: ['Siddhartha', 'Journey', 'Mindfulness', 'Philosophy']
 author_profile: true 
 share: true 
 ---

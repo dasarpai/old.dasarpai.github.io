@@ -4,14 +4,15 @@ id: 5088
 title: About Indian Secularism
 date: "2018-12-16T08:33:00+05:30"
 permalink: /wiaposts/about-indian-secularism
-tags: [ Concepts, 'Indian Culture']    
+tags: ['Concepts', 'Indian Culture']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5088-About-Indian-Secularism.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Exploring the principles and challenges of secularism in India.' 
+keywords: ['Indian Secularism', 'Principles of Secularism', 'Cultural Challenges', 'Secularism in Indian Society']
 author_profile: true 
 share: true 
 ---

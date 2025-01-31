@@ -4,7 +4,7 @@ id: 5056
 title: What Is CSR
 date: "2017-08-17T08:33:00+05:30"
 permalink: /wiaposts/what-is-csr
-tags: [ 'Bhagwat Gita', 'Ethics & Morality', 'My Views', Philosophy, 'Philosophy for Business']    
+tags: ['Bhagwat Gita', 'Ethics & Morality', 'My Views', 'Philosophy', 'Philosophy for Business']    
 
 categories: [wiaposts] 
 header:
@@ -12,6 +12,7 @@ header:
 author: Hari Thapliyaal 
 layout: wiapost-layout
 excerpt: "This article explores the concept of Corporate Social Responsibility (CSR) and its significance in modern business practices, drawing insights from ancient wisdom and contemporary examples."
+keywords: ['CSR', 'Corporate Social Responsibility', 'Business Ethics', 'Philosophy']
 author_profile: true 
 share: true 
 ---

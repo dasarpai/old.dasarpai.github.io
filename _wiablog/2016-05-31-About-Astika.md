@@ -4,14 +4,15 @@ id: 5019
 title: About Astika
 date: "2016-05-31T08:33:00+05:30"
 permalink: /wiaposts/about-astika
-tags: [ Concepts, Dharma, Philosophy]    
+tags: ['Concepts', 'Dharma', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5019-About-Astika.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'An exploration of the concept of Astika within the framework of Dharma and philosophy.' 
+keywords: ['Astika', 'Dharma', 'Philosophy', 'Concepts']
 author_profile: true 
 share: true 
 ---

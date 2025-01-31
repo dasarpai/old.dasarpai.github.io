@@ -4,14 +4,15 @@ id: 5045
 title: Indian Genes Inner Science
 date: "2017-03-29T08:33:00+05:30"
 permalink: /wiaposts/indian-genes-inner-science
-tags: [ 'Indian Culture', Philosophy]    
+tags: ['Indian Culture', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5045-Indian-Genes-Inner-Science.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Exploring the cultural and philosophical aspects of Indian genetic heritage.' 
+keywords: ['Indian Genes', 'Culture', 'Philosophy', 'Heritage']
 author_profile: true 
 share: true 
 ---

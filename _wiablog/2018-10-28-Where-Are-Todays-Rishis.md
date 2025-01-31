@@ -4,14 +4,15 @@ id: 5083
 title: Where Are Todays Rishis
 date: "2018-10-28T08:33:00+05:30"
 permalink: /wiaposts/where-are-todays-rishis
-tags: [ 'Indian Culture', Poetry]    
+tags: ['Indian Culture', 'Poetry']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5083-Where-Are-Todays-Rishis.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A poetic inquiry into the presence and role of Rishis in modern times.' 
+keywords: ['Modern Rishis', 'Role of Rishis Today', 'Cultural Reflections', 'Poetic Inquiry']
 author_profile: true 
 share: true 
 ---

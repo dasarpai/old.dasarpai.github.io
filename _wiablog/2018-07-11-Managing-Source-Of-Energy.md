@@ -4,14 +4,15 @@ id: 5076
 title: Managing Source Of Energy
 date: "2018-07-11T08:33:00+05:30"
 permalink: /wiaposts/managing-source-of-energy
-tags: [ Concepts, Science, Yoga]    
+tags: ['Concepts', 'Science', 'Yoga']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5076-Managing-Source-Of-Energy.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Exploring methods to effectively manage energy sources through scientific and yogic practices.' 
+keywords: ['Energy Management Techniques', 'Scientific Approaches to Energy', 'Yoga and Energy Balance', 'Sustainable Energy Practices']
 author_profile: true 
 share: true 
 ---

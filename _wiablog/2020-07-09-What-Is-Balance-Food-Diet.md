@@ -4,13 +4,13 @@ title: What Is Balance Food Diet?
 date: "2020-07-09T08:33:00+05:30"
 permalink: /wiaposts/what-is-balance-food-diet
 tags: [ Concepts, 'Ethics and Morality', 'My Views']    
-
+keywords: ["philosophical exploration of balanced diet", "understanding nutrition in philosophy", "poetic insights on food and health", "philosophy of diet and well-being", "exploring balanced diet in philosophical context"]
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5131-What-Is-Balance-Food-Diet.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: "Exploration of balanced diet, delving into insights on nutrition and well-being.
 author_profile: true 
 share: true 
 ---

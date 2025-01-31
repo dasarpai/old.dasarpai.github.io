@@ -4,14 +4,15 @@ id: 5058
 title: Meditation Perspective Of A Practitioner
 date: "2017-09-17T08:33:00+05:30"
 permalink: /wiaposts/meditation-perspective-of-a-practitioner
-tags: [ Concepts, Mindfulness, Yoga]    
+tags: ['Concepts', 'Mindfulness', 'Yoga']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5058-Meditation-Perspective-Of-A-Practitioner.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Insights from a practitioner on the personal journey and benefits of meditation.' 
+keywords: ['Meditation', 'Mindfulness', 'Yoga', 'Practitioner']
 author_profile: true 
 share: true 
 ---

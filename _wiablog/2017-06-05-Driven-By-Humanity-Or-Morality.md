@@ -4,14 +4,15 @@ id: 5050
 title: Driven By Humanity Or Morality
 date: "2017-06-05T08:33:00+05:30"
 permalink: /wiaposts/driven-by-humanity-or-morality
-tags: [ 'Ethics & Morality', Philosophy]    
+tags: ['Ethics & Morality', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5050-Driven-By-Humanity-Or-Morality.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A philosophical exploration of the driving forces of humanity and morality.' 
+keywords: ['Humanity', 'Morality', 'Philosophy', 'Ethics']
 author_profile: true 
 share: true 
 ---

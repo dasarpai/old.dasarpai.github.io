@@ -4,14 +4,15 @@ id: 5087
 title: Who Killed Tantra
 date: "2018-12-06T08:33:00+05:30"
 permalink: /wiaposts/who-killed-tantra
-tags: [ 'Indian Culture']    
+tags: ['Indian Culture']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5087-Who-Killed-Tantra.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Investigating the decline of Tantra in Indian culture and its historical context.' 
+keywords: ['Decline of Tantra', 'Historical Context of Tantra', 'Indian Cultural Practices', 'Tantric Traditions']
 author_profile: true 
 share: true 
 ---

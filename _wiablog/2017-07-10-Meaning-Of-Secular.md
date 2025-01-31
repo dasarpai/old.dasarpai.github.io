@@ -4,14 +4,15 @@ id: 5052
 title: Meaning Of Secular
 date: "2017-07-10T08:33:00+05:30"
 permalink: /wiaposts/meaning-of-secular
-tags: [ Concepts, 'Indian Culture', 'My Views']    
+tags: ['Concepts', 'Indian Culture', 'My Views']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5052-Meaning-Of-Secular.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Understanding the concept of secularism in the context of Indian culture.' 
+keywords: ['Secular', 'Indian Culture', 'Concepts', 'Views']
 author_profile: true 
 share: true 
 ---

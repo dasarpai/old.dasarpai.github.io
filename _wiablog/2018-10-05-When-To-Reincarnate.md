@@ -4,14 +4,15 @@ id: 5081
 title: When To Reincarnate?
 date: "2018-10-05T08:33:00+05:30"
 permalink: /wiaposts/when-to-reincarnate
-tags: [ Concepts, 'Indian Culture', Philosophy, Poetry]    
+tags: ['Concepts', 'Indian Culture', 'Philosophy', 'Poetry']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5081-When-To-Reincarnate.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Exploring the philosophical and cultural perspectives on reincarnation.' 
+keywords: ['Reincarnation Philosophy', 'Cultural Perspectives on Rebirth', 'Indian Cultural Beliefs', 'Poetic Reflections on Life']
 author_profile: true 
 share: true 
 ---

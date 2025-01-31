@@ -11,7 +11,8 @@ header:
      teaser: /assets/images/wiapost/5002-Thirukkural-In-Hindi.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'An exploration of Thirukkural translated into Hindi, highlighting its cultural and philosophical significance.' 
+keywords: ['Thirukkural', 'Hindi', 'Indian Culture', 'Philosophy']
 author_profile: true 
 share: true 
 ---

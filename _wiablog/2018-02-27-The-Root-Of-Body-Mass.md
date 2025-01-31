@@ -4,14 +4,15 @@ id: 5069
 title: The Root Of Body Mass
 date: "2018-02-27T08:33:00+05:30"
 permalink: /wiaposts/the-root-of-body-mass
-tags: [ Concepts, Philosophy, Science]    
+tags: ['Concepts', 'Philosophy', 'Science']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5069-The-Root-Of-Body-Mass.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Investigating the fundamental principles behind body mass and its formation.' 
+keywords: ['Body Mass', 'Science', 'Philosophy', 'Concepts']
 author_profile: true 
 share: true 
 ---

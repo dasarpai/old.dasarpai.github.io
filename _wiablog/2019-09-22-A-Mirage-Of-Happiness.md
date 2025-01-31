@@ -4,13 +4,13 @@ title: A Mirage Of Happiness
 date: "2019-09-22T08:33:00+05:30"
 permalink: /wiaposts/a-mirage-of-happiness
 tags: [ Philosophy, 'Pleasure &amp; Joy', Poetry]    
-
+keywords: ["philosophical exploration of happiness", "understanding mirages of joy", "poetic insights on pleasure and happiness", "philosophy of happiness and joy", "exploring illusions of happiness in philosophy"]
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5108-A-Mirage-Of-Happiness.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: The mirages of happiness, delving into insights on pleasure and joy.
 author_profile: true 
 share: true 
 ---

@@ -4,14 +4,15 @@ id: 5025
 title: My Creator
 date: "2016-08-02T08:33:00+05:30"
 permalink: /wiaposts/my-creator
-tags: [ Mindfulness, Philosophy]    
+tags: ['Mindfulness', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5025-My-Creator.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A reflective piece on the concept of creation and the creator within mindfulness and philosophy.' 
+keywords: ['Creator', 'Mindfulness', 'Philosophy', 'Reflection']
 author_profile: true 
 share: true 
 ---

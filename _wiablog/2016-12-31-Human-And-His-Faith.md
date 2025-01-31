@@ -4,14 +4,15 @@ id: 5035
 title: Human And His Faith
 date: "2016-12-31T08:33:00+05:30"
 permalink: /wiaposts/human-and-his-faith
-tags: [ Philosophy, Poetry]    
+tags: ['Philosophy', 'Poetry']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5035-Human-And-His-Faith.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A poetic exploration of the relationship between humanity and faith.' 
+keywords: ['Human', 'Faith', 'Philosophy', 'Poetry']
 author_profile: true 
 share: true 
 ---

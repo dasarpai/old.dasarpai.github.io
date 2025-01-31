@@ -4,14 +4,15 @@ id: 5036
 title: Which Metrics Does Really Matter?
 date: "2017-01-19T08:33:00+05:30"
 permalink: /wiaposts/which-metrics-does-really-matter
-tags: [ 'Philosophy for Business', Poetry]    
+tags: ['Philosophy for Business', 'Poetry']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5036-Which-Metrics-Does-Really-Matter.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A philosophical inquiry into the metrics that truly matter in business and life.' 
+keywords: ['Metrics', 'Business', 'Philosophy', 'Inquiry']
 author_profile: true 
 share: true 
 ---

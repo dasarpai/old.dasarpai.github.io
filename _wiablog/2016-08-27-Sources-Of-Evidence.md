@@ -4,14 +4,15 @@ id: 5028
 title: Sources Of Evidence
 date: "2016-08-27T08:33:00+05:30"
 permalink: /wiaposts/sources-of-evidence
-tags: [ 'Indian Culture', Philosophy]    
+tags: ['Indian Culture', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5028-Sources-Of-Evidence.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'An analysis of different sources of evidence and their impact on understanding.' 
+keywords: ['Evidence', 'Indian Culture', 'Philosophy', 'Analysis']
 author_profile: true 
 share: true 
 ---

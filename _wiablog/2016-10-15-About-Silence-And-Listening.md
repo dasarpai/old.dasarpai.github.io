@@ -4,14 +4,15 @@ id: 5031
 title: About Silence And Listening
 date: "2016-10-15T08:33:00+05:30"
 permalink: /wiaposts/about-silence-and-listening
-tags: [ Mind, Philosophy]    
+tags: ['Mind', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5031-About-Silence-And-Listening.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A deep dive into the power of silence and the art of listening.' 
+keywords: ['Silence', 'Listening', 'Mind', 'Philosophy']
 author_profile: true 
 share: true 
 ---

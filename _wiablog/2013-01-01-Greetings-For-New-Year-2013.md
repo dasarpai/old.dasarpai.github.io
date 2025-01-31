@@ -11,7 +11,8 @@ header:
      teaser: /assets/images/wiapost/5001-Greetings-For-New-Year-2013.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A joyful message welcoming the New Year 2013, filled with hope and new beginnings.' 
+keywords: ['New Year', 'Greetings', '2013', 'Annual Wishes']
 author_profile: true 
 share: true 
 ---
@@ -67,4 +68,3 @@ Wish you a happy new year ahead.
 Love & Regards
 
 Hari Thapliyaal
-

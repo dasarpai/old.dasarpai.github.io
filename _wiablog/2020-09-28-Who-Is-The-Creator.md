@@ -4,13 +4,13 @@ title: Who Is The Creator?
 date: "2020-09-28T08:33:00+05:30"
 permalink: /wiaposts/who-is-the-creator
 tags: [ Philosophy, Vedanta]    
-
+keywords: ["philosophical exploration of the creator", "understanding creation in philosophy", "poetic insights on creator and creation", "philosophy of creation and existence", "exploring the creator in philosophical context"]  
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5138-Who-Is-The-Creator.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: A philosophical and poetic exploration of the creator, delving into insights on creation and existence.
 author_profile: true 
 share: true 
 ---

@@ -4,14 +4,15 @@ id: 5013
 title: About Responsibility
 date: "2016-03-20T08:33:00+05:30"
 permalink: /wiaposts/about-responsibility
-tags: [ Concepts, Philosophy]    
+tags: ['Concepts', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5013-About-Responsibility.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'An exploration of the philosophical underpinnings of responsibility and its impact on human behavior.' 
+keywords: ['Responsibility', 'Philosophy', 'Human Behavior', 'Concepts']
 author_profile: true 
 share: true 
 ---

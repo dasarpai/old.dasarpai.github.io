@@ -11,7 +11,8 @@ header:
      teaser: /assets/images/wiapost/5003-Who-Is-The-Real-Enemy-Of-A-Hindu.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'An analysis of the challenges faced by Hindu society in identifying its true adversaries.' 
+keywords: ['Hindu Society', 'Challenges', 'Adversaries', 'Analysis']
 author_profile: true 
 share: true 
 ---

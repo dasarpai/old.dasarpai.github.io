@@ -4,14 +4,15 @@ id: 5033
 title: The Way To Learn
 date: "2016-11-14T08:33:00+05:30"
 permalink: /wiaposts/the-way-to-learn
-tags: [ Education, Philosophy]    
+tags: ['Education', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5033-The-Way-To-Learn.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Insights into effective learning methods and the philosophy of education.' 
+keywords: ['Learning', 'Education', 'Philosophy', 'Teaching']
 author_profile: true 
 share: true 
 ---

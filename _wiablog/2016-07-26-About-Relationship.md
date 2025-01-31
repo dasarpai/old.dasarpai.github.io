@@ -4,14 +4,15 @@ id: 5024
 title: About Relationship
 date: "2016-07-26T08:33:00+05:30"
 permalink: /wiaposts/about-relationship
-tags: [ Concepts, Philosophy, Vedanta]    
+tags: ['Concepts', 'Philosophy', 'Vedanta']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5024-About-Relationship.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'An insightful exploration of relationships through the lens of philosophy and Vedanta.' 
+keywords: ['Relationship', 'Philosophy', 'Vedanta', 'Concepts']
 author_profile: true 
 share: true 
 ---

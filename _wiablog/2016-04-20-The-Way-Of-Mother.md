@@ -4,14 +4,15 @@ id: 5016
 title: The Way Of Mother
 date: "2016-04-20T08:33:00+05:30"
 permalink: /wiaposts/the-way-of-mother
-tags: [ 'My Story', Philosophy]    
+tags: ['My Story', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5016-The-Way-Of-Mother.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A heartfelt story exploring the nurturing and guiding role of a mother.' 
+keywords: ['Mother', 'Guidance', 'Nurturing', 'Story']
 author_profile: true 
 share: true 
 ---

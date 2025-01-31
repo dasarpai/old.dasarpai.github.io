@@ -4,14 +4,15 @@ id: 5060
 title: Rider On Freedom
 date: "2017-10-08T08:33:00+05:30"
 permalink: /wiaposts/rider-on-freedom
-tags: [ Concepts, Education, Philosophy]    
+tags: ['Concepts', 'Education', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5060-Rider-On-Freedom.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Exploring the concept of freedom and its implications on education and society.' 
+keywords: ['Freedom', 'Education', 'Philosophy', 'Society']
 author_profile: true 
 share: true 
 ---

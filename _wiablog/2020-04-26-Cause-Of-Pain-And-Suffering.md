@@ -4,13 +4,13 @@ title: Cause Of Pain And Suffering
 date: "2020-04-26T08:33:00+05:30"
 permalink: /wiaposts/cause-of-pain-and-suffering
 tags: [ Life, Mind, 'My Views', Philosophy]    
-
+keywords: ["exploration of pain and suffering", "understanding causes of suffering in philosophy", "poetic insights on pain and human experience", "philosophy of suffering and healing", "exploring pain and suffering in philosophical context"]  
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5124-Cause-Of-Pain-And-Suffering.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: Exploration of the causes of pain and suffering, delving into insights on human experience and healing.
 author_profile: true 
 share: true 
 ---

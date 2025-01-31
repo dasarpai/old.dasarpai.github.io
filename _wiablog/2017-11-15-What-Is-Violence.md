@@ -4,14 +4,15 @@ id: 5062
 title: What Is Violence
 date: "2017-11-15T08:33:00+05:30"
 permalink: /wiaposts/what-is-violence
-tags: [ Concepts, 'Ethics & Morality', Philosophy]    
+tags: ['Concepts', 'Ethics & Morality', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5062-What-Is-Violence.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Exploring the nature of violence and its ethical implications.' 
+keywords: ['Violence', 'Ethics', 'Morality', 'Philosophy']
 author_profile: true 
 share: true 
 ---

@@ -4,13 +4,13 @@ title: Human Compulsiveness
 date: "2020-05-16T08:33:00+05:30"
 permalink: /wiaposts/human-compulsiveness
 tags: [ Education, 'Ethics and Morality', Mindfulness, 'My Views', Philosophy]    
-
+keywords: ["exploration of human compulsiveness", "understanding compulsive behavior in philosophy", "poetic insights on mindfulness and choice", "philosophy of compulsiveness and awareness", "exploring human compulsiveness in philosophical context"]  
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5126-Human-Compulsiveness.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: "Exploration of human compulsiveness, delving into insights on mindfulness and choice."  
 author_profile: true 
 share: true 
 ---

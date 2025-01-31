@@ -4,14 +4,15 @@ id: 5048
 title: About Physicality And Relationship
 date: "2017-05-12T08:33:00+05:30"
 permalink: /wiaposts/about-physicality-and-relationship
-tags: [ Philosophy]    
+tags: ['Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5048-About-Physicality-And-Relationship.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Exploring the dynamics of physicality and relationships through philosophical insights.' 
+keywords: ['Physicality', 'Relationship', 'Philosophy', 'Dynamics']
 author_profile: true 
 share: true 
 ---

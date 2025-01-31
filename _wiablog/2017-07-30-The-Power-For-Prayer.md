@@ -4,14 +4,15 @@ id: 5055
 title: The Power For Prayer
 date: "2017-07-30T08:33:00+05:30"
 permalink: /wiaposts/the-power-for-prayer
-tags: [ Poetry, Prayers]    
+tags: ['Poetry', 'Prayers']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5055-The-Power-For-Prayer.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Reflecting on the spiritual and emotional strength derived from prayer.' 
+keywords: ['Prayer', 'Power', 'Spiritual', 'Poetry']
 author_profile: true 
 share: true 
 ---

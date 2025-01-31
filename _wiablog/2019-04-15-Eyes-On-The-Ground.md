@@ -10,7 +10,7 @@ header:
      teaser: /assets/images/wiapost/5095-Eyes-On-The-Ground.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt:  "Whether I walk, jog or run If I have continuous eyes on the ground  I will not fall because of environmental reasons."
 author_profile: true 
 share: true 
 ---

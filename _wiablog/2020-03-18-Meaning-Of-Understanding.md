@@ -4,13 +4,13 @@ title: Meaning Of Understanding
 date: "2020-03-18T08:33:00+05:30"
 permalink: /wiaposts/meaning-of-understanding
 tags: [ Concepts, Life, 'My Views', Philosophy]    
-
+keywords: ["Exploration of understanding", "understanding meaning in philosophy", "poetic insights on understanding and knowledge", "philosophy of understanding and perception", "exploring understanding in philosophical context"]  
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5121-Meaning-Of-Understanding.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: Exploration of understanding, delving into insights on meaning and perception.
 author_profile: true 
 share: true 
 ---

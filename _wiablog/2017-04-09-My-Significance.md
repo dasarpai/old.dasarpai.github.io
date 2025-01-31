@@ -4,14 +4,15 @@ id: 5046
 title: My Significance
 date: "2017-04-09T08:33:00+05:30"
 permalink: /wiaposts/my-significance
-tags: [ Philosophy]    
+tags: ['Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5046-My-Significance.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A philosophical reflection on personal significance and existence.' 
+keywords: ['Significance', 'Philosophy', 'Existence', 'Reflection']
 author_profile: true 
 share: true 
 ---

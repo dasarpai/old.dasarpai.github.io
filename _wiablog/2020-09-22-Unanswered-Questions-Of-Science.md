@@ -4,13 +4,13 @@ title: Unanswered Questions Of Science
 date: "2020-09-22T08:33:00+05:30"
 permalink: /wiaposts/unanswered-questions-of-science
 tags: [ Science]    
-
+keywords: ["philosophical exploration of unanswered science questions", "understanding scientific mysteries in philosophy", "poetic insights on science and curiosity", "philosophy of science and exploration", "exploring unanswered science questions in philosophical context"]  
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5136-Unanswered-Questions-Of-Science.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: "A philosophical and poetic exploration of unanswered questions in science, delving into insights on curiosity and exploration."  
 author_profile: true 
 share: true 
 ---

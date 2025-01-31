@@ -3,7 +3,7 @@ id: 5009
 title: Who Is The Doer?
 date: "2016-01-25T08:33:00+05:30"
 permalink: /wiaposts/who-is-the-doer
-tags: [ Concepts, Philosophy]    
+tags: ['Concepts', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
@@ -11,7 +11,8 @@ header:
 
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A philosophical inquiry into the concept of agency and action.' 
+keywords: ['Agency', 'Action', 'Philosophy', 'Inquiry']
 author_profile: true 
 share: true 
 ---

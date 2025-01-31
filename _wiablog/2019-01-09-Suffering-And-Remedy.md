@@ -3,14 +3,15 @@ id: 5089
 title: Suffering And Remedy
 date: "2019-01-09T08:33:00+05:30"
 permalink: /wiaposts/suffering-and-remedy
-tags: [ Concepts, Mindfulness, Philosophy]    
+tags: ['Concepts', 'Mindfulness', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5089-Suffering-And-Remedy.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Exploring the philosophical perspectives on suffering and paths to remedy.' 
+keywords: ['Philosophy of Suffering', 'Mindfulness Practices', 'Paths to Remedy', 'Philosophical Insights']
 author_profile: true 
 share: true 
 ---

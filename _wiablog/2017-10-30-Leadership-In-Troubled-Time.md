@@ -4,14 +4,15 @@ id: 5061
 title: Leadership In Troubled Time
 date: "2017-10-30T08:33:00+05:30"
 permalink: /wiaposts/leadership-in-troubled-time
-tags: [ Concepts, Philosophy, 'Philosophy for Business']    
+tags: ['Concepts', 'Philosophy', 'Philosophy for Business']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5061-Leadership-In-Troubled-Time.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Insights on leading effectively during challenging times and crises.' 
+keywords: ['Leadership', 'Crisis Management', 'Philosophy', 'Business']
 author_profile: true 
 share: true 
 ---

@@ -4,14 +4,15 @@ id: 5007
 title: Greetings For New Year 2017
 date: '2017-01-01T08:33:00+05:30'
 permalink: /wiaposts/greetings-for-new-year-2017
-tags: [ 'Annual Wishes']
+tags: ['Annual Wishes']
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5007-Greetings-For-New-Year-2017.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Warm wishes and reflections for the New Year 2017.' 
+keywords: ['New Year', 'Greetings', 'Wishes', '2017']
 author_profile: true 
 share: true 
 ---
@@ -55,5 +56,3 @@ Wish you a very happy, healthy, joyful new year ahead.
 
 Love &amp; Regards  
 Hari Thapliyaal
-
-

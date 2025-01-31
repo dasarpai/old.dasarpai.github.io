@@ -4,14 +4,15 @@ id: 5067
 title: The Concept Of Yoga
 date: "2018-01-19T08:33:00+05:30"
 permalink: /wiaposts/the-concept-of-yoga
-tags: [ Concepts, 'Indian Culture', Yoga]    
+tags: ['Concepts', 'Indian Culture', 'Yoga']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5067-The-Concept-Of-Yoga.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Understanding the essence of yoga and its role in Indian culture.' 
+keywords: ['Yoga', 'Indian Culture', 'Philosophy', 'Practice']
 author_profile: true 
 share: true 
 ---

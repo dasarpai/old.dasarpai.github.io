@@ -4,7 +4,7 @@ title: The Meaning Of Namaste
 date: "2019-03-24T08:33:00+05:30"
 permalink: /wiaposts/the-meaning-of-namaste
 tags: [ Concepts, 'Indian Culture', Philosophy]    
-
+keywords: [Namaste, Indian Culture, Greeting, Philosophy, Respect]  
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5094-The-Meaning-Of-Namaste.jpg

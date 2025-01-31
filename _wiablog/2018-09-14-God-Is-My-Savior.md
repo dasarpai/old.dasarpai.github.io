@@ -4,14 +4,15 @@ id: 5080
 title: God Is My Savior
 date: "2018-09-14T08:33:00+05:30"
 permalink: /wiaposts/god-is-my-savior
-tags: [ Devotion, Dharma, Vedanta]    
+tags: ['Devotion', 'Dharma', 'Vedanta']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5080-God-Is-My-Savior.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Reflecting on the role of divine guidance and protection in life.' 
+keywords: ['Divine Guidance', 'Role of God in Life', 'Spiritual Protection', 'Dharma and Vedanta']
 author_profile: true 
 share: true 
 ---

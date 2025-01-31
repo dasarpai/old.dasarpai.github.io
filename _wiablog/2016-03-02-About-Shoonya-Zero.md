@@ -4,14 +4,15 @@ id: 5012
 title: About Shoonya Zero
 date: "2016-03-02T08:33:00+05:30"
 permalink: /wiaposts/about-shoonya-zero
-tags: [ Concepts, Philosophy]    
+tags: ['Concepts', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5012-About-Shoonya-Zero.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Delving into the philosophical implications of Shoonya, or Zero, in various contexts.' 
+keywords: ['Shoonya', 'Zero', 'Philosophy', 'Concepts']
 author_profile: true 
 share: true 
 ---

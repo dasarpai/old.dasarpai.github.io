@@ -4,13 +4,13 @@ title: I Don't Know
 date: "2020-03-06T08:33:00+05:30"
 permalink: /wiaposts/i-dont-know
 tags: [ 'My Views', Philosophy]    
-
+keywords: ["Exploration of uncertainty", "understanding the unknown in philosophy", "poetic insights on not knowing", "philosophy of uncertainty and exploration", "exploring the unknown in philosophical context"]  
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5120-I-Dont-Know.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: Exploration of uncertainty and the unknown, delving into insights on exploration and not knowing.
 author_profile: true 
 share: true 
 ---

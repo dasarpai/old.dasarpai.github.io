@@ -4,14 +4,15 @@ id: 5082
 title: Understanding Maya
 date: "2018-10-12T08:33:00+05:30"
 permalink: /wiaposts/understanding-maya
-tags: [ 'Bhagwat Gita', Concepts, Vedanta, Maya]    
+tags: ['Bhagwat Gita', 'Concepts', 'Vedanta', 'Maya']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5082-Understanding-Maya.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Delving into the concept of Maya and its implications in Vedantic philosophy.' 
+keywords: ['Concept of Maya', 'Vedantic Philosophy', 'Illusion and Reality', 'Bhagwat Gita Insights']
 author_profile: true 
 share: true 
 ---

@@ -4,14 +4,15 @@ id: 5085
 title: Where Is The Focus Of Hindus?
 date: "2018-11-05T08:33:00+05:30"
 permalink: /wiaposts/where-is-the-focus-of-hindus
-tags: [ Education, 'Indian Culture', 'My Views']    
+tags: ['Education', 'Indian Culture', 'My Views']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5085-Where-Is-The-Focus-Of-Hindus.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Examining the cultural and educational priorities within Hindu society.' 
+keywords: ['Hindu Cultural Focus', 'Educational Priorities in Hinduism', 'Cultural Reflections', 'Personal Views on Hindu Society']
 author_profile: true 
 share: true 
 ---

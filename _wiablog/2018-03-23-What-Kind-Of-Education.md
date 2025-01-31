@@ -4,14 +4,15 @@ id: 5070
 title: What Kind Of Education?
 date: "2018-03-23T08:33:00+05:30"
 permalink: /wiaposts/what-kind-of-education
-tags: [ Education]    
+tags: ['Education']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5070-What-Kind-Of-Education.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Discussing the various approaches to education and their impact on learning.' 
+keywords: ['Types of Education Systems', 'Impact of Education on Learning', 'Educational Approaches', 'Learning Outcomes']
 author_profile: true 
 share: true 
 ---

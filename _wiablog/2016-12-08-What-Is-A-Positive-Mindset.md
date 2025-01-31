@@ -4,14 +4,15 @@ id: 5034
 title: What Is A Positive Mindset
 date: "2016-12-08T08:33:00+05:30"
 permalink: /wiaposts/what-is-a-positive-mindset
-tags: [ Mind, Philosophy, Poetry, Vedanta]    
+tags: ['Mind', 'Philosophy', 'Poetry', 'Vedanta']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5034-What-Is-A-Positive-Mindset.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Understanding the elements of a positive mindset through philosophical and poetic lenses.' 
+keywords: ['Positive Mindset', 'Philosophy', 'Poetry', 'Vedanta']
 author_profile: true 
 share: true 
 ---

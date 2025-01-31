@@ -4,14 +4,15 @@ id: 5029
 title: Who Is Guru
 date: "2016-08-30T08:33:00+05:30"
 permalink: /wiaposts/who-is-guru
-tags: [ Education, Guru, Guru Purnima, 'Indian Culture', Philosophy]    
+tags: ['Education', 'Guru', 'Guru Purnima', 'Indian Culture', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5029-Who-Is-Guru.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'An exploration of the role and significance of a Guru in education and culture.' 
+keywords: ['Guru', 'Education', 'Indian Culture', 'Philosophy']
 author_profile: true 
 share: true 
 ---

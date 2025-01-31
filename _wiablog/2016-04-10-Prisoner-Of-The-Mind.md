@@ -4,14 +4,15 @@ id: 5014
 title: Prisoner Of The Mind
 date: "2016-04-10T08:33:00+05:30"
 permalink: /wiaposts/prisoner-of-the-mind
-tags: [ Mind, 'My Views', Philosophy, Poetry]    
+tags: ['Mind', 'My Views', 'Philosophy', 'Poetry']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5014-Prisoner-Of-The-Mind.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A poetic reflection on the constraints imposed by the mind and the journey to liberation.' 
+keywords: ['Mind', 'Poetry', 'Liberation', 'Philosophy']
 author_profile: true 
 share: true 
 ---

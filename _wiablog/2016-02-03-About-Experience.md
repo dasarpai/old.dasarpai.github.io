@@ -4,14 +4,15 @@ id: 5010
 title: About Experience
 date: "2016-02-03T08:33:00+05:30"
 permalink: /wiaposts/about-experience
-tags: [ Concepts, 'Indian Culture', Mind, Philosophy]    
+tags: ['Concepts', 'Indian Culture', 'Mind', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5010-About-Experience.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Understanding the role of experience in shaping human perception and philosophy.' 
+keywords: ['Experience', 'Perception', 'Philosophy', 'Mind']
 author_profile: true 
 share: true 
 ---

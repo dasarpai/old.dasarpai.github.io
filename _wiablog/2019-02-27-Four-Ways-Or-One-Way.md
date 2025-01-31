@@ -3,14 +3,15 @@ id: 5092
 title: Four Ways Or One Way
 date: "2019-02-27T08:33:00+05:30"
 permalink: /wiaposts/four-ways-or-one-way
-tags: [ 'Bhagwat Gita', Dharma, Moksha, Philosophy]    
+tags: [ 'Bhagwat Gita', 'Dharma', 'Moksha', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5092-Four-Ways-Or-One-Way.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Examining the philosophical debate between multiple paths or a singular way to Moksha.' 
+keywords: ['Paths to Moksha', 'Philosophical Debate', 'Bhagwat Gita Teachings', 'Dharma and Moksha']
 author_profile: true 
 share: true 
 ---

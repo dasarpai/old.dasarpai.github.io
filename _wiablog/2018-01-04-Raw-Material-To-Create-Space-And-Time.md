@@ -4,14 +4,15 @@ id: 5065
 title: Raw Material To Create Space And Time
 date: "2018-01-04T08:33:00+05:30"
 permalink: /wiaposts/raw-material-to-create-space-and-time
-tags: [ Concepts, Philosophy, Science, Vedanta]    
+tags: ['Concepts', 'Philosophy', 'Science', 'Vedanta']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5065-Raw-Material-To-Create-Space-And-Time.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Investigating the fundamental elements that constitute space and time.' 
+keywords: ['Space', 'Time', 'Science', 'Vedanta']
 author_profile: true 
 share: true 
 ---

@@ -4,13 +4,13 @@ title: Do We Have A Free Will
 date: "2020-05-06T08:33:00+05:30"
 permalink: /wiaposts/do-we-have-a-free-will
 tags: [ Mind, 'My Views', Philosophy, Vedanta]    
-
+keywords: ["exploration of free will", "understanding free will in vedanta", "poetic insights on free will and choice", "philosophy of free will and determinism", "exploring free will in philosophical context"]  
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5125-Do-We-Have-A-Free-Will.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: Exploration of free will, delving into insights from Vedanta and philosophical contexts.
 author_profile: true 
 share: true 
 ---

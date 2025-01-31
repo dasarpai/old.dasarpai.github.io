@@ -4,13 +4,13 @@ title: Knocking Your Own Door
 date: "2020-05-17T08:33:00+05:30"
 permalink: /wiaposts/knocking-your-own-door
 tags: [ Mind, 'My Views', Philosophy]    
-
+keywords: ["exploration of self-discovery", "understanding self-awareness in philosophy", "poetic insights on introspection and growth", "philosophy of self-discovery and awareness", "exploring self-discovery in philosophical context"]  
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5127-Knocking-Your-Own-Door.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: "Exploration of self-discovery, delving into insights on introspection and growth."  
 author_profile: true 
 share: true 
 ---

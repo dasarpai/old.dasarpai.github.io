@@ -4,14 +4,15 @@ id: 5073
 title: Source Of The Color
 date: "2018-05-05T08:33:00+05:30"
 permalink: /wiaposts/source-of-the-color
-tags: [ Concepts, Philosophy, Science]    
+tags: ['Concepts', 'Philosophy', 'Science']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5073-Source-Of-The-Color.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Investigating the origins and significance of color in the natural world.' 
+keywords: ['Origins of Color', 'Significance of Color', 'Philosophical View on Color', 'Scientific Study of Color']
 author_profile: true 
 share: true 
 ---

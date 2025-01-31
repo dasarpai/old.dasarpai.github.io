@@ -4,14 +4,15 @@ id: 5059
 title: About Forgiveness
 date: "2017-09-24T08:33:00+05:30"
 permalink: /wiaposts/about-forgiveness
-tags: [ Concepts, Philosophy]    
+tags: ['Concepts', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5059-About-Forgiveness.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Exploring the concept of forgiveness and its impact on personal growth and relationships.' 
+keywords: ['Forgiveness', 'Philosophy', 'Growth', 'Relationships']
 author_profile: true 
 share: true 
 ---

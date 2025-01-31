@@ -10,7 +10,8 @@ header:
      teaser: /assets/images/wiapost/5008-Greetings-For-New-Year-2019.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Extending warm wishes and reflections for the new year 2019.'
+keywords: ['New Year 2019 Wishes', 'New Year Reflections', 'Annual Greetings', 'Celebrating New Beginnings']
 author_profile: true 
 share: true 
 ---
@@ -48,4 +49,3 @@ May unwise people go away from my physical and mental existence so that I do not
 Love & Regards
 
 Hari Thapliyaal
-

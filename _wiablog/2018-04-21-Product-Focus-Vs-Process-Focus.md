@@ -4,14 +4,15 @@ id: 5072
 title: Product Focus Vs Process Focus
 date: "2018-04-21T08:33:00+05:30"
 permalink: /wiaposts/product-focus-vs-process-focus
-tags: [ 'Bhagwat Gita', Concepts, 'Indian Culture', Philosophy]    
+tags: ['Bhagwat Gita', 'Concepts', 'Indian Culture', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5072-Product-Focus-Vs-Process-Focus.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Analyzing the differences between focusing on the product versus the process in various contexts.' 
+keywords: ['Product Focus', 'Process Focus', 'Bhagwat Gita Insights', 'Cultural Perspectives on Focus']
 author_profile: true 
 share: true 
 ---
@@ -78,4 +79,3 @@ Hari Om Tat Sat
 Yours Truly Hari    
     
 #Jugaad #Karmanye-Vadhikaraste #karmaphilosophy #karma    
-    

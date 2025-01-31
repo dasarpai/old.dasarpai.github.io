@@ -4,14 +4,15 @@ id: 5064
 title: Most Prayer Worthy Self Mind
 date: "2017-12-13T08:33:00+05:30"
 permalink: /wiaposts/most-prayer-worthy-self-mind
-tags: [ Concepts, Philosophy, Prayers]    
+tags: ['Concepts', 'Philosophy', 'Prayers']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5064-Most-Prayer-Worthy-Self-Mind.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Exploring the significance of prayer and self-awareness in personal growth.' 
+keywords: ['Prayer', 'Self-awareness', 'Philosophy', 'Growth']
 author_profile: true 
 share: true 
 ---

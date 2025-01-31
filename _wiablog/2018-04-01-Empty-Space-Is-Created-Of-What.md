@@ -4,14 +4,15 @@ id: 5071
 title: Empty Space Is Created Of What?
 date: "2018-04-01T08:33:00+05:30"
 permalink: /wiaposts/empty-space-is-created-of-what
-tags: [ Concepts, Philosophy, Science]    
+tags: ['Concepts', 'Philosophy', 'Science']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5071-Empty-Space-Is-Created-Of-What.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Exploring the composition and nature of empty space in the universe.' 
+keywords: ['Composition of Empty Space', 'Nature of the Universe', 'Philosophical Inquiry into Space', 'Scientific Exploration of Space']
 author_profile: true 
 share: true 
 ---

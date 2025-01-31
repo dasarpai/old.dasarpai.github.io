@@ -4,14 +4,15 @@ id: 5057
 title: Job Satisfaction
 date: "2017-08-30T08:33:00+05:30"
 permalink: /wiaposts/job-satisfaction
-tags: [ Concepts, Philosophy, 'Pleasure & Joy']    
+tags: ['Concepts', 'Philosophy', 'Pleasure & Joy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5057-Job-Satisfaction.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Exploring the factors that contribute to job satisfaction and personal fulfillment.' 
+keywords: ['Job Satisfaction', 'Fulfillment', 'Work', 'Philosophy']
 author_profile: true 
 share: true 
 ---

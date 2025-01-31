@@ -4,14 +4,15 @@ id: 5038
 title: About Free Will
 date: "2017-02-03T08:33:00+05:30"
 permalink: /wiaposts/about-free-will
-tags: [ Concepts, Moksha, Philosophy, Vedanta]    
+tags: ['Concepts', 'Moksha', 'Philosophy', 'Vedanta']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5038-About-Free-Will.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A philosophical discussion on the nature of free will and its implications.' 
+keywords: ['Free Will', 'Philosophy', 'Moksha', 'Vedanta']
 author_profile: true 
 share: true 
 ---

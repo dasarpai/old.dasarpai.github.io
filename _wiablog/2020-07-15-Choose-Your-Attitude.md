@@ -4,13 +4,13 @@ title: Choose Your Attitude
 date: "2020-07-15T08:33:00+05:30"
 permalink: /wiaposts/choose-your-attitude
 tags: [ 'My Views', Philosophy]    
-
+keywords: ["philosophical exploration of attitude", "understanding mindset in philosophy", "poetic insights on choice and perspective", "philosophy of attitude and perception", "exploring attitude in philosophical context"]  
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5132-Choose-Your-Attitude.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: A philosophical and poetic exploration of attitude, delving into insights on mindset and choice.
 author_profile: true 
 share: true 
 ---

@@ -4,14 +4,15 @@ id: 5018
 title: Questions About Meditation
 date: "2016-05-27T08:33:00+05:30"
 permalink: /wiaposts/questions-about-meditation
-tags: [ Mind, Mindfulness, Poetry, Vedanta]    
+tags: ['Mind', 'Mindfulness', 'Poetry', 'Vedanta']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5018-Questions-About-Meditation.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A contemplative inquiry into the practice and philosophy of meditation.' 
+keywords: ['Meditation', 'Mindfulness', 'Philosophy', 'Contemplation']
 author_profile: true 
 share: true 
 ---

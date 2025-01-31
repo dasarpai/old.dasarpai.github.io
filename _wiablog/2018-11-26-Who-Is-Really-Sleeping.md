@@ -4,14 +4,15 @@ id: 5086
 title: Who Is Really Sleeping?
 date: "2018-11-26T08:33:00+05:30"
 permalink: /wiaposts/who-is-really-sleeping
-tags: [ 'Bhagwat Gita', Concepts, Philosophy, Poetry]    
+tags: ['Bhagwat Gita', 'Concepts', 'Philosophy', 'Poetry']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5086-Who-Is-Really-Sleeping.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A philosophical inquiry into awareness and consciousness inspired by the Bhagwat Gita.' 
+keywords: ['Awareness and Consciousness', 'Philosophical Inquiry', 'Bhagwat Gita Insights', 'Poetic Reflections on Sleep']
 author_profile: true 
 share: true 
 ---

@@ -4,14 +4,15 @@ id: 5005
 title: Greetings For New Year 2016
 date: '2016-01-01T08:33:00+05:30'
 permalink: /wiaposts/greetings-for-new-year-2016
-tags: [Annual Wishes]
+tags: ['New Year', 'Greetings', '2016']
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5005-Greetings-For-New-Year-2016.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Welcoming the New Year 2016 with enthusiasm and hope for a prosperous future.' 
+keywords: ['New Year', 'Greetings', '2016', 'Hope']
 author_profile: true 
 share: true 
 ---

@@ -4,14 +4,15 @@ id: 5044
 title: No Universal Teachings
 date: "2017-03-20T08:33:00+05:30"
 permalink: /wiaposts/no-universal-teachings
-tags: [ Philosophy]    
+tags: ['Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5044-No-Universal-Teachings.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A discussion on the limitations of universal teachings and their adaptability.' 
+keywords: ['Universal Teachings', 'Philosophy', 'Adaptability', 'Limitations']
 author_profile: true 
 share: true 
 ---

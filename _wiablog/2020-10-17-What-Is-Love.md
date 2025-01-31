@@ -4,13 +4,13 @@ title: What Is Love?
 date: "2020-10-17T08:33:00+05:30"
 permalink: /wiaposts/what-is-love
 tags: [ 'My Views', Philosophy, 'Pleasure & Joy']    
-
+keywords: ["philosophical exploration of love", "understanding love in philosophy", "poetic insights on love and joy", "philosophy of love and relationships", "exploring love in philosophical context"]  
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5139-What-Is-Love.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: A philosophical and poetic exploration of love, delving into insights on relationships and joy.
 author_profile: true 
 share: true 
 ---

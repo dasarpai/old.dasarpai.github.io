@@ -11,7 +11,8 @@ header:
      teaser: /assets/images/wiapost/5006-Understanding-The-Reality-Of-The-World.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Exploring the philosophical concepts of reality as depicted in the Bhagwat Gita.' 
+keywords: ['Bhagwat Gita', 'Reality', 'Philosophy', 'Maya']
 author_profile: true 
 share: true 
 ---

@@ -4,13 +4,13 @@ title: The Nature Of Karma Fala
 date: "2019-12-25T08:33:00+05:30"
 permalink: /wiaposts/the-nature-of-karma-fala
 tags: [ Dharma, Philosophy]    
-
+keywords: ["exploration of karma fala", "understanding karma and its outcomes", "poetic insights on karma and dharma", "philosophy of karma and its implications", "exploring karma in philosophical context"]  
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5114-The-Nature-Of-Karma-Fala.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: An exploration of the nature of karma fala, delving into insights on karma and its outcomes.  
 author_profile: true 
 share: true 
 ---

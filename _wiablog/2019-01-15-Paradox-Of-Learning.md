@@ -3,14 +3,15 @@ id: 5090
 title: Paradox Of Learning
 date: "2019-01-15T08:33:00+05:30"
 permalink: /wiaposts/paradox-of-learning
-tags: [ Education, Mind]    
+tags: ['Education', 'Mind']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5090-Paradox-Of-Learning.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Analyzing the complexities and contradictions within the learning process.' 
+keywords: ['Paradox of Learning', 'Educational Complexities', 'Mind and Learning', 'Contradictions in Education']
 author_profile: true 
 share: true 
 ---

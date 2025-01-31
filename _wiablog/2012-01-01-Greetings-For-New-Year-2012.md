@@ -11,7 +11,8 @@ header:
      teaser: /assets/images/wiapost/5000-Greetings-For-New-Year-2012.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A warm greeting for the New Year 2012, reflecting on past achievements and future aspirations.' 
+keywords: ['New Year', 'Greetings', '2012', 'Annual Wishes']
 author_profile: true 
 share: true 
 ---
@@ -62,5 +63,3 @@ but by the love which they can share with all.
 
 Love & Regards  
 Hari Thapliyaal
-
-

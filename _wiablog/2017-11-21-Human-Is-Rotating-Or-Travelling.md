@@ -4,14 +4,15 @@ id: 5063
 title: Human Is Rotating Or Travelling
 date: "2017-11-21T08:33:00+05:30"
 permalink: /wiaposts/human-is-rotating-or-travelling
-tags: [ Concepts, Philosophy]    
+tags: ['Concepts', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5063-Human-Is-Rotating-Or-Travelling.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'A philosophical inquiry into human existence and movement.' 
+keywords: ['Human Existence', 'Philosophy', 'Movement', 'Concepts']
 author_profile: true 
 share: true 
 ---

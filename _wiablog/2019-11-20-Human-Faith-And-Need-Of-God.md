@@ -4,13 +4,13 @@ title: Human Faith and Need Of God
 date: "2019-11-20T08:33:00+05:30"
 permalink: /wiaposts/human-faith-and-need-of-god
 tags: [ Dharma, Philosophy]    
-
+keywords: ["Exploration of faith and god", "understanding human need for god", "poetic insights on faith and divinity", "philosophy of faith and spirituality", "exploring faith in philosophical context"]  
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5112-Human-Faith-And-Need-Of-God.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: Exploration of human faith and the need for god, delving into insights on spirituality and divinity.
 author_profile: true 
 share: true 
 ---

@@ -4,13 +4,13 @@ title: What Test To Know The Self?
 date: "2020-06-09T08:33:00+05:30"
 permalink: /wiaposts/what-test-to-know-the-self
 tags: [ Life, Philosophy]    
-
+keywords: ["philosophical exploration of self-knowledge", "understanding self-awareness in philosophy", "poetic insights on self-discovery and growth", "philosophy of self-knowledge and awareness", "exploring self-knowledge in philosophical context"]  
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5129-What-Test-To-Know-The-Self.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: "Exploration of self-knowledge, delving into insights on self-awareness and growth."
 author_profile: true 
 share: true 
 ---

@@ -4,13 +4,13 @@ title: The Play Is Over
 date: "2019-08-07T08:33:00+05:30"
 permalink: /wiaposts/the-play-is-over
 tags: [ Mindfulness, Philosophy]    
-
+keywords: ["reflections on life's journey", "mindfulness and acceptance", "philosophical closure to experiences", "end of life's play metaphor", "understanding life's transitions"]  
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5103-The-Play-Is-Over.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: "A philosophical reflection on life's journey and transitions, exploring mindfulness and acceptance as the play of life comes to an end."  
 author_profile: true 
 share: true 
 ---

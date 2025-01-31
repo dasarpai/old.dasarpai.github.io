@@ -4,14 +4,15 @@ id: 5047
 title: Life In Awareness
 date: "2017-04-18T08:33:00+05:30"
 permalink: /wiaposts/life-in-awareness
-tags: [ Mindfulness, Philosophy]    
+tags: ['Mindfulness', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5047-Life-In-Awareness.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Insights into living a life of awareness and mindfulness.' 
+keywords: ['Awareness', 'Mindfulness', 'Philosophy', 'Life']
 author_profile: true 
 share: true 
 ---

@@ -4,13 +4,13 @@ title: Reality And Relativity
 date: "2019-10-24T08:33:00+05:30"
 permalink: /wiaposts/reality-and-relativity
 tags: [ Philosophy, Poetry]    
-
+keywords: ["Exploration of reality and relativity", "understanding relativity through philosophy", "poetic insights on reality and relativity", "philosophy of reality and perception", "exploring relativity in philosophical context"]
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5110-Reality-And-Relativity.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: Exploration of reality and relativity, delving into insights on perception and philosophical context.
 author_profile: true 
 share: true 
 ---

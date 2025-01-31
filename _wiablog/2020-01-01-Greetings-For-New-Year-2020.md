@@ -4,13 +4,13 @@ title: Greetings For New Year 2020
 date: '2020-01-01T08:33:00+05:30'
 permalink: /wiaposts/greetings-for-new-year-2020
 tags: [ 'Annual Wishes']
-
+keywords: ["new year greetings 2020", "philosophical reflections on new year", "poetic insights on new beginnings", "celebrating new year with philosophy", "exploring new year themes in philosophical context"]
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5097-Greetings-For-New-Year-2020.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: Reflection on the New Year 2020, celebrating new beginnings and insights.
 author_profile: true 
 share: true 
 ---
@@ -65,5 +65,3 @@ for yourself and for the people you love.
 
 Yours Truly Hari  
 Hari Om Tat Sat
-
-

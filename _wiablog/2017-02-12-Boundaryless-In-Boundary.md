@@ -4,14 +4,15 @@ id: 5039
 title: Boundaryless In Boundary
 date: "2017-02-12T08:33:00+05:30"
 permalink: /wiaposts/boundaryless-in-boundary
-tags: [ Mind, Philosophy]    
+tags: ['Mind', 'Philosophy']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5039-Boundaryless-In-Boundary.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Exploring the paradox of boundaries and freedom within the mind.' 
+keywords: ['Boundary', 'Freedom', 'Mind', 'Philosophy']
 author_profile: true 
 share: true 
 ---

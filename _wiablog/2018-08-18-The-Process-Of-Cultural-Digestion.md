@@ -4,14 +4,15 @@ id: 5078
 title: The Process Of Cultural Digestion
 date: "2018-08-18T08:33:00+05:30"
 permalink: /wiaposts/the-process-of-cultural-digestion
-tags: [ Concepts, Education, 'Indian Culture']    
+tags: ['Concepts', 'Education', 'Indian Culture']    
 
 categories: [wiaposts] 
 header:
      teaser: /assets/images/wiapost/5078-The-Process-Of-Cultural-Digestion.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt:  
+excerpt: 'Understanding how cultures assimilate and transform through education and interaction.' 
+keywords: ['Cultural Assimilation Process', 'Educational Impact on Culture', 'Cultural Transformation', 'Indian Cultural Dynamics']
 author_profile: true 
 share: true 
 ---
