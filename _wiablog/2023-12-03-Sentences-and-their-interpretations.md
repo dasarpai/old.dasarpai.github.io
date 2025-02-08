@@ -15,11 +15,9 @@ excerpt:
 author_profile: true        
 share: true        
 ---   
-
 ![Sentences and Their Interpretations](/assets/images/wiapost/5252-Sentences-and-Their-Interpretations.jpg)
-
-# Sentences and Their Interpretations   
    
+# Sentences and Their Interpretations   
 Once all villagers decided to pray for rain.    
 On the day of prayer, all the people gathered,    
 but only one boy came with an umbrella.       

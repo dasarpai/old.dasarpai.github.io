@@ -10,7 +10,7 @@ header:
      teaser: /assets/images/wiapost/5131-What-Is-Balance-Food-Diet.jpg
 author: Hari Thapliyaal 
 layout: wiapost-layout
-excerpt: "Exploration of balanced diet, delving into insights on nutrition and well-being.
+excerpt: "Exploration of balanced diet, delving into insights on nutrition and well-being."
 author_profile: true 
 share: true 
 ---
