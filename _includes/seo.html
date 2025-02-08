@@ -136,4 +136,30 @@
   <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
 {% endif %}
 
+
+
+{% if page_large_image %}
+  <meta property="og:image" content="{{ page_large_image }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+{% elsif page_teaser_image %}
+  <meta property="og:image" content="{{ page_teaser_image }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+{% endif %}
+
+
+{% if og_type == "article" %}
+  {% if page.categories %}
+    {% for category in page.categories %}
+      <meta property="article:section" content="{{ category }}">
+    {% endfor %}
+  {% endif %}
+  {% if page.tags %}
+    {% for tag in page.tags %}
+      <meta property="article:tag" content="{{ tag }}">
+    {% endfor %}
+  {% endif %}
+{% endif %}
+
 <!-- end _includes/seo.html -->

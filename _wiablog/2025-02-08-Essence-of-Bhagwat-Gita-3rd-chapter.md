@@ -3,7 +3,7 @@ id: 5275
 mathjax: true        
 title:  "Essence of Bhagwat Gita: 3rd Chapter"        
 date: "2025-02-08T08:33:00+05:30"        
-permalink: /wiaposts/Essence-of-Bhagwat-Gita-3rd-chapter
+permalink: /wiaposts/essence-of-bhagwat-gita-3rd-chapter
 header:        
     teaser: /assets/images/wiapost/5275-Essence-of-Bhagwat-Gita-3rd-chapter.jpg               
 author: Hari Thapliyaal        
