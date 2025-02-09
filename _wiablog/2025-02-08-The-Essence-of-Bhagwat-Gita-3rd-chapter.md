@@ -1,7 +1,7 @@
 ---        
 id: 5275
 mathjax: true        
-title:  "Essence of Bhagwat Gita: 3rd Chapter"        
+title:  "The Essence of Bhagwat Gita: 3rd Chapter"        
 date: "2025-02-08T08:33:00+05:30"        
 permalink: /wiaposts/essence-of-bhagwat-gita-3rd-chapter
 header:        
@@ -14,11 +14,14 @@ categories: [wiaposts]
 tags:  [Vedanta,  Mindfulness, Bhagwat Gita]      
 keywords: [Bhagavad Gita Chapter 3 Summary, Karma Yoga, Mindfulness and Self Realization, Path of Selfless Action, Essence of Bhagavad Gita]  
 excerpt: The third chapter of the Bhagavad Gita is a treasure trove of spiritual wisdom, providing powerful insights on the path of  action, the importance of mindfulness, and the keys to achieving self-realization.
+toc: true
+toc_sticky: true
+toc_levels: 3
 ---
 
 ![](/assets/images/wiapost/5275-Essence-of-Bhagwat-Gita-3rd-chapter.jpg)
 
-# Essence of Bhagwat Gita: 3rd Chapter
+# The Essence of Bhagwat Gita: 3rd Chapter
 
 The third chapter of the *Bhagavad Gita* focuses on **Karma Yoga**. Our modern life presents several challenges when it comes to understanding ancient wisdom:  
 
@@ -190,7 +193,40 @@ Krishna advises surrendering actions to the divine (Ishwararpanam). This mindset
 
 ---
 
-## **9. Control Over Desires (Lust & Anger as Enemies)**  
+## **9. Following your own Swadharma**  
+### **Bhagwat Gita Sloka 3.35: English Version**
+Śreyān svadharmo viguṇaḥ paradharmāt svanuṣṭhitāt \|   
+Svadharme nidhanam śreyaḥ paradharmo bhayāvahaḥ \|\| 3.35
+
+It is far better to perform one's own duty (dharma) imperfectly than to perfectly perform another's duty. It is better to die in one’s own duty; following another’s path is fraught with fear.
+
+### **Bhagwat Gita Sloka 3.35: Hindi Version**
+श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् \|   
+स्वधर्मे निधनं श्रेयः परधर्मो भयावहः \|\| 3.35
+
+अपने स्वधर्म का पालन करना, भले ही वह दोषपूर्ण हो, दूसरे के धर्म का पूरी तरह से पालन करने से श्रेष्ठ है। स्वधर्म में मरना भी कल्याणकारी है, जबकि परधर्म भयावह होता है।
+
+
+You might ask questions like:  
+- How do I know my **Swadharma**?  
+- Is taking care of my parents and fulfilling my office responsibilities my Swadharma?  
+- Or is my Swadharma following my **Jati Dharma**, which comes from my **Kula** (community) and **Varna**?  
+- Or is my Swadharma about caring for the weak, poor, and underprivileged?  
+- Or does it mean putting the interests of my nation, parents, and community above my own?  
+
+Next, you can explore:  
+- **What is Paradharma?**  
+- Is taking care of others' parents, community, and nation considered Paradharma?  
+- Is prioritizing my self-interest above others (such as competitors, vendors, ill-intentioned people, or selfish individuals) Paradharma?  
+
+Then, reflect: Why is Paradharma fraught with danger, and why is Swadharma better?  
+
+This is just an example of how you can reflect on every shloka. Scriptures are not just about memorization, chanting, or proving how good your memory is. That is a very small aspect of life. These shlokas from scriptures are to help you reflect, declutter your mind, and bring clarity to your life.  
+
+
+
+---
+## **10. Control Over Desires (Lust & Anger as Enemies)**  
 ### **Bhagwat Gita Sloka 3.37: English Version**
 
 Kāma eṣha krodha eṣha rajo-guṇa-samudbhavaḥ \|  
