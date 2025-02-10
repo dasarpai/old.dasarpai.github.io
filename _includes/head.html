@@ -1,6 +1,9 @@
 {{ ... }}
 <meta charset="utf-8">
 
+<!-- Canonical URL to avoid duplicate indexing -->
+<link rel="canonical" href="{{ site.url }}{{ page.url | downcase }}">
+
 <!-- Open Graph / Social Media Meta Tags -->
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
