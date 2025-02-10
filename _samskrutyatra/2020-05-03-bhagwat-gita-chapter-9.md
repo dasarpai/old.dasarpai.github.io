@@ -16,7 +16,7 @@ header:
 author: 'Hari Thapliyaal'    
     
 excerpt:    
-    
+keywords: [Bhagwat Gita Chapter 9, Raj Yoga, Upnishad]       
 share: true    
 ---    
     

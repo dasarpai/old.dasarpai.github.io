@@ -16,7 +16,7 @@ header:
 author: 'Hari Thapliyaal'    
     
 excerpt:    
-    
+keywords: [Bhagwat Gita Chapter 7, Gyana Vigyana Yoga, Upnishad]       
 share: true    
 ---    
     

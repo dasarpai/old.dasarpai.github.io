@@ -16,7 +16,7 @@ header:
 author: 'Hari Thapliyaal'    
     
 excerpt:    
-    
+keywords: [Bhagwat Gita Chapter 15, Purushotama Yoga, Upnishad]       
 share: true    
 ---    
     

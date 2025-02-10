@@ -16,7 +16,7 @@ header:
 author: 'Hari Thapliyaal'    
     
 excerpt:    
-    
+keywords: [Bhagwat Gita Chapter 14, Prakriti Guna Tri Vibhag Yoga, Three Guna of Nature, Gunatraya Vibhag, Upnishad]       
 share: true    
 ---    
     

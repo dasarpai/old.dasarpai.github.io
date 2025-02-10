@@ -16,7 +16,7 @@ header:
 author: 'Hari Thapliyaal'    
     
 excerpt:    
-    
+keywords: [Bhagwat Gita Chapter 18, Moksha Sanyasa Yoga, Upnishad]       
 share: true    
 ---    
     

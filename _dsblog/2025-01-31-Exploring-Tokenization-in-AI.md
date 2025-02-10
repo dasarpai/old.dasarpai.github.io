@@ -28,7 +28,7 @@ keywords: ["Tokenization", "Embeddings", "NLP", "Language Models"]
 ![Exploring Tokenization and Embedding in NLP](/assets/images/dspost/dsp6215-Exploring-Tokenization-in-AI.jpg)
 
 # Exploring Tokenization and Embedding in NLP
-Tokenization and embedding are key components of natural language processing (NLP) models. Sometimes people misunderstand tokenization and embedding and this article is to address those issues. This is in question answer format and addressing following questions.
+Tokenization and embedding are key components of natural language processing (NLP) models. Sometimes people misunderstand tokenization and embedding and this article is to address those issues. This is in the question answer format and addressing following questions.
 
 
 1. What is tokenization?
@@ -92,9 +92,7 @@ For example we have word *simultaneously* which is not part of vocbulary. In tha
 
 2. **Averaging the Token Embeddings**  
    - Compute the **mean** of all subword embeddings:
-     \[
-     E_{word} = \frac{1}{N} \sum_{i=1}^{N} E_{token_i}
-     \]
+     $$ E_{word} = \frac{1}{N} \sum_{i=1}^{N} E_{token_i}$$
    - This smooths out variations and gives a balanced representation.
 
 3. **Weighted Average (Attention-Based)**  

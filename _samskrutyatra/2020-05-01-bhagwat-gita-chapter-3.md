@@ -16,7 +16,7 @@ header:
 author: 'Hari Thapliyaal'    
     
 excerpt:    
-    
+keywords: [Bhagwat Gita Chapter 3, Karma Yoga, Upnishad]       
 share: true    
 ---    
     

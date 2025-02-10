@@ -16,7 +16,7 @@ header:
 author: 'Hari Thapliyaal'    
     
 excerpt:    
-    
+keywords: [Bhagwat Gita Chapter 17, Shraddha Tri Vibhag Yoga, Three Types of Shraddha, Upnishad]       
 share: true    
 ---    
     

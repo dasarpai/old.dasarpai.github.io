@@ -16,7 +16,7 @@ header:
 author: 'Hari Thapliyaal'    
     
 excerpt:    
-    
+keywords: [Bhagwat Gita Chapter 10, Vibhuti Yoga, Upnishad]       
 share: true    
 ---    
     

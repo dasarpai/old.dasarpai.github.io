@@ -16,7 +16,7 @@ header:
 author: 'Hari Thapliyaal'    
     
 excerpt:    
-    
+keywords: [Bhagwat Gita Chapter 1, Vishad Yoga, Upnishad]    
 share: true    
 ---    
     

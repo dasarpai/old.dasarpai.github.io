@@ -40,7 +40,7 @@ Partially or fully close source: 🔒
 
 ## List of Chinese Models
 
-| Developer | Model | SeriesModels | IncludedFeatures
+| Developer | Model | SeriesModels | Features of this Model
 | --- | --- | --- | --- 
 | Tsinghua &amp; Fudan University| OpenChineseGPT| OpenChineseGPT 🚀| Dialogue, instruction-following
 | Tsinghua &amp; Fudan University| OpenBuddy| OpenBuddy 🚀| Dialogue, instruction-following

@@ -370,7 +370,7 @@ If an input image has:
 Then the output size is:
 
 
-\left( \frac{H - K + 2P}{S} + 1 \right) x \left( \frac{W - K + 2P}{S} + 1 \right) x F
+$$\left( \frac{H - K + 2P}{S} + 1 \right) x \left( \frac{W - K + 2P}{S} + 1 \right) x F$$
 
 
 where:
@@ -388,7 +388,7 @@ Given:
 Using the formula:
 
 
-\left( \frac{224 - 3 + 2(1)}{1} + 1 \right) x \left( \frac{224 - 3 + 2(1)}{1} + 1 \right) x 64
+$$\left( \frac{224 - 3 + 2(1)}{1} + 1 \right) x \left( \frac{224 - 3 + 2(1)}{1} + 1 \right) x 64$$
 
 = 224 x 224 x 64
 

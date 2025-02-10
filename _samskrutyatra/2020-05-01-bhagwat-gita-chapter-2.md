@@ -16,7 +16,7 @@ header:
 author: 'Hari Thapliyaal'    
     
 excerpt:    
-    
+keywords: [Bhagwat Gita Chapter 2, Sankhya Yoga, Upnishad]    
 share: true    
 ---    
     

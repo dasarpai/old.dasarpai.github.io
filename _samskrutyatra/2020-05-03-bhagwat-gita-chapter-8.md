@@ -16,7 +16,7 @@ header:
 author: 'Hari Thapliyaal'    
     
 excerpt:    
-    
+keywords: [Bhagwat Gita Chapter 8, Aksharabrahm Yoga, Upnishad]       
 share: true    
 ---    
     

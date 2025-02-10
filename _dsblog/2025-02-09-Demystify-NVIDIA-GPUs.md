@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 6216
-title: "Demystify NVIDIA GPUs"
+title: "Demystifying NVIDIA GPUs"
 date: 2025-02-09
 permalink: /dsblog/demystify-nvidia-gpus
 tags:
@@ -25,13 +25,13 @@ comments: true
 keywords: ["NVIDIA", "GPUs", "Deep Learning"]
 ---
 
-![Demystify NVIDIA GPUs](/assets/images/dspost/dsp6216-Demystify-NVIDIA-GPUs.jpg)
+![Demystifying NVIDIA GPUs](/assets/images/dspost/dsp6216-Demystify-NVIDIA-GPUs.jpg)
 
-# Demystify NVIDIA GPUs
+# Demystifying NVIDIA GPUs
 
 ## Introduction
 
-NVIDIA has been in the GPU manufacturing business since 1993. They offer hundreds of different types of GPUs for various segments and purposes. For those not in the GPU infrastructure business, it can be confusing to understand even their naming conventions. In this article, I will do my best to help you understand the different types of NVIDIA GPUs and their naming convention
+NVIDIA has been in the GPU manufacturing business since 1993. They offer hundreds of different types of GPUs for various segments and purposes. For those not in the GPU infrastructure business, it can be confusing to understand even their naming conventions. In this article, I will do my best to help you understand the different types of NVIDIA GPUs and their naming conventions.
 
 Any GPU can be identified by asking following questions.
 - What architecture that GPU is using?
@@ -110,6 +110,7 @@ First let's understand these terms.
 ---
 
 #### **2. Tesla K80 (Old AI Compute GPU)**
+
 | **Variable**         | **Value** |
 |---------------------|-----------|
 | **Architecture**     | Kepler |
@@ -127,6 +128,7 @@ First let's understand these terms.
 ---
 
 #### **3. H100 (Latest AI GPU for Data Centers)**
+
 | **Variable**        | **Value** |
 |--------------------|-----------|
 | **Architecture**    | Hopper |
@@ -161,6 +163,7 @@ Kepler-based GPUs in Different NVIDIA Product Lines
 ---
 
 ### Key Differences and Relationship Between Tesla, Kepler, and GTX  
+
 | Feature | **GTX (Gaming GPUs)** | **Tesla (AI/HPC GPUs)** |
 |---------|----------------|-----------------|
 | **Target Audience** | Gamers, general users | AI researchers, scientific computing |
@@ -181,13 +184,13 @@ Kepler-based GPUs in Different NVIDIA Product Lines
 - If you're doing **AI freelance work**, modern **RTX GPUs (4090, 4070, etc.)** have replaced old Tesla/Kepler GPUs for deep learning.  
 - If you're working with **data center-level AI**, then you’d look at modern **A100, H100, or Blackwell GPUs** instead of old Tesla cards.  
 
-## What are different gpu architecture from nvidia?
+## What are different GPU architecture from nvidia?
 
 NVIDIA has released multiple GPU **architectures** over the years, each bringing improvements in performance, efficiency, and AI capabilities. Here's a breakdown of the major architectures:
 
----
 
 ### **Latest & Current Architectures**  
+
 | Architecture | Year | Notable GPUs | Key Features |
 |-------------|------|-------------|-------------|
 | **Blackwell** | 2024 | B100, B200, RTX 50 Series (upcoming) | AI-focused, HBM3e memory, improved efficiency, NVLink 5.0 |
@@ -196,9 +199,9 @@ NVIDIA has released multiple GPU **architectures** over the years, each bringing
 | **Ampere** | 2020 | RTX 3090, 3080, A100, GA102 | 3rd-gen Tensor Cores, PCIe 4.0, AI optimizations |
 | **Turing** | 2018 | RTX 2080 Ti, 2080, 2060, GTX 16 Series | First with RTX (Ray Tracing), DLSS 1.0 |
 
----
 
 ### **Older Architectures (Legacy & Gaming Focused)**  
+
 | Architecture | Year | Notable GPUs | Key Features |
 |-------------|------|-------------|-------------|
 | **Volta** | 2017 | Tesla V100, Titan V | First with Tensor Cores, HBM2 memory |
@@ -207,14 +210,12 @@ NVIDIA has released multiple GPU **architectures** over the years, each bringing
 | **Kepler** | 2012 | GTX 780 Ti, 780, 770 | First with GPU Boost, CUDA advancements |
 | **Fermi** | 2010 | GTX 580, 480, Tesla GPUs | Early CUDA support, power-hungry |
 
----
 
 ### **Specialized Architectures for AI & Data Centers**
 - **Tesla** (Fermi, Kepler, Maxwell) – Early AI & HPC focus
 - **Pascal & Volta** – Introduced deep learning accelerations
 - **Ampere, Hopper, Blackwell** – Modern AI training GPUs
 
----
 
 ### **Which Architecture Should You Consider?**
 - If you want **gaming + AI workloads**, go for **Ada Lovelace (RTX 40)** or wait for **Blackwell (RTX 50)**.  
@@ -226,6 +227,7 @@ NVIDIA has released multiple GPU **architectures** over the years, each bringing
 The power consumption of an **RTX 4070** in a day depends on **usage, power draw, and duration**. Let's break it down:  
 
 ### RTX 4070 Power Draw (Approximate)
+
 | **Usage Type** | **Power Consumption (Wattage, W)** |
 |--------------|----------------------------------|
 | **Idle / Low Usage** | ~15-20W |
@@ -237,6 +239,7 @@ The power consumption of an **RTX 4070** in a day depends on **usage, power draw
 **Energy Consumption (kWh) = (GPU Wattage × Hours Used) ÷ 1000**  
 
 **Example Scenarios (for 24 hours)**  
+
 | **Usage Scenario** | **Hours Per Day** | **Wattage (W)** | **Energy Used (kWh)** | **Cost (at $0.15/kWh)** |
 |--------------------|------------------|------------------|-----------------|-----------------|
 | **Idle / Light Work** | 24 hrs | 20W | 0.48 kWh | ~$0.07 |
@@ -248,7 +251,6 @@ Note: Cost of electricity is different in the differnt countries. It depends upo
 
 The average electric rate in the United States is 16.54 cents per kWh. Louisiana has the cheapest electric rate (on average) with customers paying 11.23 cents per kWh for electricity. Electricity rates in Hawaii are the highest with rates 42.10 cents per kWh for electricity.
 
----
 
 ### Monthly & Yearly Estimates (AI Workload)
 If you run **AI workloads for 8 hours/day** at ~180W:  

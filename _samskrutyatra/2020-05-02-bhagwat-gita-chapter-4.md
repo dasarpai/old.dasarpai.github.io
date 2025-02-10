@@ -16,7 +16,7 @@ header:
 author: 'Hari Thapliyaal'    
     
 excerpt:    
-    
+keywords: [Bhagwat Gita Chapter 4, Gyana Yoga, Jnyana Yoga, Upnishad]       
 share: true    
 ---    
     

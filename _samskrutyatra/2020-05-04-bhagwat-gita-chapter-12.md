@@ -16,7 +16,7 @@ header:
 author: 'Hari Thapliyaal'    
     
 excerpt:    
-    
+keywords: [Bhagwat Gita Chapter 12, Bhakti Yoga, Upnishad]       
 share: true    
 ---    
     

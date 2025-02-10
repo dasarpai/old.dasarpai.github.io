@@ -16,7 +16,7 @@ keywords: [Bhagavad Gita Chapter 18 Summary, Moksha Sannyasa Yoga, Path of Liber
 excerpt: The 18th chapter of the Bhagavad Gita, titled Moksha-Sannyasa Yoga" (The Yoga of Liberation and Renunciation). It is one of the longest chapter with 78 sloka. Key takeaways from this chapter are discussed in this article.
 toc: true
 toc_sticky: true
-toc_levels: 3
+toc_levels: 2
 ---
 
 ![The Essence of Bhagwat Gita: 18th Chapter](/assets/images/wiapost/5276-Essence-of-Bhagwat-Gita-18th-chapter.jpg)
@@ -196,11 +196,35 @@ The 18th chapter of the **Bhagavad Gita**, titled Moksha-Sannyasa Yoga" (The Yog
 
 ---
 
-### 4. **Path to Moksha (Liberation)**  
-
+## Path to Moksha (Liberation)  
 ### Sloka in Devanagari & Hindi
 सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।   
 अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥ 18.66   
 
 सभी धर्मों को त्याग कर **केवल मेरी शरण में आओ**। मैं तुम्हें सभी पापों से मुक्त कर दूँगा, चिंता मत करो।  
 
+---
+
+## Warning in the 18th Chapter
+### Sloka in Devanagari & Hindi
+
+यदहङ्कारमाश्रित्य न योत्स्य इति मन्यसे।   
+मिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति॥ 18.59   
+य इदं परमं गुह्यं मद्भक्तेष्वभिधास्यति।   
+भक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः॥ 18.68   
+यः श्रद्धावाननसूयश्च शृणुयादपि यो नरः।   
+सोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम्॥ 18.71   
+
+यदि अहंकारवश तुम जो यह सोच रहे हो, "मैं युद्ध नहीं करूंगा", यह तुम्हारा निश्चय मिथ्या है। तुम्हारी प्रकृति तुम्हें प्रवृत्त करेगी।   
+जो मुझमें भक्ति करके इस परम गुह्य ज्ञान का उपदेश मेरे भक्तों को देता है, वह नि:सन्देह मुझे ही प्राप्त होता है।   
+जो श्रद्धावान् और अनसूय (दोषदृष्टि रहित) व्यक्ति इसका श्रवणमात्र भी करेगा, वह भी पुण्यकर्मों जैसे शुभ लोकों को प्राप्त कर लेगा।
+
+----
+
+## Sanjay told Dritrashtra the Result of war before it started
+### Sloka in Devanagari & Hindi
+
+यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः।   
+तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम।।18.78।
+
+जहाँ योगेश्वर श्रीकृष्ण हैं और जहाँ धनुर्धारी अर्जुन है वहीं पर श्री, विजय, विभूति और ध्रुव नीति है, ऐसा मेरा मत है।

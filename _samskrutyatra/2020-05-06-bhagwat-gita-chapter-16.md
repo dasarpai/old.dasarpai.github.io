@@ -16,7 +16,7 @@ header:
 author: 'Hari Thapliyaal'    
     
 excerpt:    
-    
+keywords: [Bhagwat Gita Chapter 16, Daiva Asura Sampada, Daiva Asura Guna, Daivasura Sampada, Upnishad]       
 share: true    
 ---    
     

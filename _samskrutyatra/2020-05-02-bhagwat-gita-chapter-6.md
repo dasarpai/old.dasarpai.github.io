@@ -16,7 +16,7 @@ header:
 author: 'Hari Thapliyaal'    
     
 excerpt:    
-    
+keywords: [Bhagwat Gita Chapter 6, Dhynan Yoga, Meditation Yoga, Upnishad]       
 share: true    
 ---    
     

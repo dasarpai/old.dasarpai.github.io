@@ -16,7 +16,7 @@ header:
 author: 'Hari Thapliyaal'    
     
 excerpt:    
-    
+keywords: [Bhagwat Gita Chapter 13, Kshetra Kshetragya Yoga, Prakrit Purush Yoga, Upnishad]       
 share: true    
 ---    
     

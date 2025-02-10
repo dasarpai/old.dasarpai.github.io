@@ -16,7 +16,7 @@ header:
 author: 'Hari Thapliyaal'    
     
 excerpt:    
-    
+keywords: [Bhagwat Gita Chapter 5, Karma Sanyasa Yoga, Upnishad]       
 share: true    
 ---    
     
