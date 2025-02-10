@@ -24,7 +24,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
-keywords: ["Artificial Intelligence", "Natural Language Processing", "Transformers", "Attention", "Visualizing AI", "AI and NLP", "Grant Sanderson", "TNG Big Tech 2024"]
+keywords: ["visualizing transformers and attention", "transformers attention mechanism", "grant sanderson talk at tng big tech 2024", "ai and nlp concepts", "transformers demystified", "attention is all you need paper", "language models and transformers"]
 ---
 
 ![Visualizing transformers and attention](/assets/images/dspost/dsp6189-Visualizing-transformers-and-attention.jpg)

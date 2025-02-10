@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true
 toc_levels: 2
 comments: true
-keywords: ["AI", "Models", "Latest Information", "Methods", "Approaches"]
+keywords: ["adapting ai models to the latest information", "ai models methods and approaches", "keeping ai models up to date", "latest information in ai", "ai models update strategies", "ai information retrieval", "ai knowledge graph"]
 ---
 
 ![]( /assets/images/dspost/dsp6202-Adapting-AI-Models-to-the-Latest-Information.jpg)

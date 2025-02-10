@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true
 toc_levels: 2
 comments: true
-keywords: ["curl", "command line", "web development", "HTTP", "HTTPS", "FTP"]
+keywords: ["curl commands for web development", "curl http methods", "curl command line tool", "curl for api testing", "curl for web scraping", "curl for file upload and download", "curl options and flags"]
 ---
 
 !![curl Commands](/assets/images/dspost/dsp6195-curl-commands.jpg)

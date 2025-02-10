@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
-keywords: ["Large Language Models", "LLM", "NLP", "AI", "Prompt Types", "Prompt Engineering", "LLM Project"]
+keywords: ["large language model prompt types", "llm project ideas", "nlp techniques for llm", "best llm models for nlp tasks", "llm use cases", "llm project planning", "llm integration with other ai models"]
 ---
 
 ![Framework for using LLM](/assets/images/dspost/dsp6192-Framework-for-using-LLM.jpg)

@@ -1,19 +1,14 @@
 {{ ... }}
 <meta charset="utf-8">
 
-<!-- Canonical URL to avoid duplicate indexing -->
-<link rel="canonical" href="{{ site.url }}{{ page.url | downcase }}">
-
 <!-- Open Graph / Social Media Meta Tags -->
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
-<meta property="og:url" content="{{ site.url }}{{ page.url | downcase }}" />
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 <meta property="og:site_name" content="{{ site.title }}" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}" />
-
-<!-- Ensure og:image is always present -->
-<meta property="og:image" content="{% if page.header.teaser %}{{ site.url }}{{ page.header.teaser }}{% elsif page.header.overlay_image %}{{ site.url }}{{ page.header.overlay_image }}{% elsif page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}/default-thumbnail.jpg{% endif %}" />
+<meta property="og:image" content="{% if page.header.teaser %}{{ site.url }}{{ page.header.teaser }}{% elsif page.header.overlay_image %}{{ site.url }}{{ page.header.overlay_image }}{% else %}{{ site.url }}{{ site.teaser }}{% endif %}" />
 <meta property="og:image:alt" content="{{ page.title }}" />
 <meta property="og:image:width" content="1280" />
 <meta property="og:image:height" content="720" />
@@ -21,7 +16,12 @@
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ page.title }}">
-<meta name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
-<meta name="twitter:image" content="{% if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}/default-thumbnail.jpg{% endif %}">
+<meta name="twitter:description" content="{{ page.description }}">
+<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
 
+<!-- For all browsers -->
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/custom-nav.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/nav-override.css' | relative_url }}">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 {{ ... }}

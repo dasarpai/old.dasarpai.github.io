@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
-keywords: ["Protein Folding", "Protein Science", "AI", "AlphaFold", "Revolutionizing", "Chemistry Nobel Prize 2024"]
+keywords: ["What is protein folding and how does it work", "How is AlphaFold revolutionizing protein science", "What are the implications of AlphaFold for chemistry", "What is the chemistry Nobel Prize 2024", "How does AlphaFold use AI to solve the protein folding problem"]
 ---
 
 ![ Answering Big Questions with AI](/assets/images/dspost/dsp6194-How-AlphaFold-is-Revolutionizing-Protein-Science.jpg)

@@ -24,7 +24,7 @@ toc: false
 toc_sticky: true
 toc_levels: 3
 comments: true
-keywords: ["Artificial Intelligence", "Machine Learning", "GPU", "NVIDIA", "GPU Architecture", "GPUs in AI", "AI and GPUs"]
+keywords: ["gpu architecture for artificial intelligence", "nvidia gpu for machine learning", "gpu deep learning applications", "gpu in ai research", "gpu for computer vision", "gpu for natural language processing", "gpu for robotics"]
 ---
 
 ![Exploring Graphics Processing Units (GPUs)](/assets/images/dspost/dsp6188-Exploring-GPUs.jpg)

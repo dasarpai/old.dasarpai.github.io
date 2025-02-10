@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true
 toc_levels: 2
 comments: true
-keywords: ["CNN", "Deep Learning", "AI", "Neural Networks"]
+keywords: ["Understanding Convolutional Neural Networks", "How CNN Works", "Working of Convolutional Neural Networks", "How CNN is used in AI", "Convolutional Neural Networks in AI", "How CNN is used in Deep Learning", "Working of Convolutional Neural Networks in Deep Learning"]
 ---
 
 ![Understanding the Working of CNN](/assets/images/dspost/dsp6213-Understanding-Working-of-CNN.jpg)
