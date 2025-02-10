@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
-keywords: ["Nvidia AI innovations", "AI in graphics and robotics", "Intelligence in GPU architecture", "Nvidia's AI-powered graphics", "Robotics and artificial intelligence", "Nvidia's AI-driven innovations", "AI in GPU technology"]
+keywords: ["Nvidia's AI innovations in graphics and robotics", "Intelligence in GPU architecture for AI development", "Nvidia's AI-powered graphics processing", "Robotics and artificial intelligence innovations by Nvidia", "Nvidia's AI-driven innovations in GPU technology", "AI in GPU technology for computer vision and natural language processing", "Nvidia's latest advancements in AI and GPU technology"]
 ---
 
 ![Shaping Tomorrow with AI: Nvidia’s Innovations in Graphics, Robotics, and Intelligence](/assets/images/dspost/dsp6198-shaping-tomorrow-with-ai-nvidia.jpg)

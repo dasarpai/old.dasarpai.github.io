@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true
 toc_levels: 2
 comments: true
-keywords: ["Transformers", "Embeddings", "Deep Learning", "NLP"]
+keywords: ["Contextual Embedding in Transformers", "How Transformers Handle Context", "What is Fixed Embedding", "How Contextural Embedding is Generated", "What will be the output size of attention formula softmax", "What is meaning of a LLM has context length of 2 million tokens", "How many attention layers we keep in transformer like gpt4"]
 ---
 
 ![Understanding Contextual Embedding in Transformers](/assets/images/dspost/dsp6214-Understanding-Contextual-Embedding-in-Transformer.jpg)
