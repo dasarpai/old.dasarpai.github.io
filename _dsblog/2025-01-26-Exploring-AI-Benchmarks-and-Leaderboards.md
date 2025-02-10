@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
-keywords: ["evaluating AI models", "performance metrics for AI", "AI model evaluation benchmarks", "AI leaderboards", "standardized AI evaluation", "comparing AI models", "AI model performance evaluation"]
+keywords: ["AI", "Benchmarks", "Leaderboards", "Performance Evaluation"]
 ---
 
 ![Exploring AI Benchmarks & Leaderboards](/assets/images/dspost/dsp6210-Exploring-AI-Benchmarks-and-Leaderboards.jpg)

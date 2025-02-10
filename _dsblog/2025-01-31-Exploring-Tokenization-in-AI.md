@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true
 toc_levels: 2
 comments: true
-keywords: ["NLP Tokenization Schemes", "Tokenization in NLP", "Language Model Tokenization", "Embeddings in NLP", "NLP Tokenization Methods", "Tokenization Techniques NLP", "NLP Tokenization Examples"]
+keywords: ["Tokenization", "Embeddings", "NLP", "Language Models"]
 ---
 
 ![Exploring Tokenization and Embedding in NLP](/assets/images/dspost/dsp6215-Exploring-Tokenization-in-AI.jpg)

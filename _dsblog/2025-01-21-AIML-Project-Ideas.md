@@ -23,7 +23,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
-keywords: ["Best AI Project Ideas", "AI Project Ideas for Students", "AI Project Ideas for Research", "AI Project Ideas for Business", "AI Project Ideas for Professionals", "AI Project Ideas for Beginners", "AI Project Ideas for Innovation"]
+keywords: ["AI Project Ideas", "Innovation", "Future Trends", "Project Development", "Strategy Planning"]  
 ---
 
 ![AI Project Ideas](/assets/images/dspost/dsp6205-AI-Project-Ideas.jpg)

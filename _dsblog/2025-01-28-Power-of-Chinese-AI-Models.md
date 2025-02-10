@@ -22,7 +22,7 @@ toc: false
 toc_sticky: true
 toc_levels: 3
 comments: true
-keywords: ["Chinese AI Models", "AI Models from China", "Power of Chinese AI", "Chinese Technology Innovation", "Chinese AI Research", "Chinese AI Models List", "Chinese Language AI Models"]
+keywords: ["Chinese AI", "AI Models", "Technology", "Innovation"]
 ---
 
 ![Power of Chinese AI Models](/assets/images/dspost/dsp6212-Power-of-Chinese-AI-Models.jpg)

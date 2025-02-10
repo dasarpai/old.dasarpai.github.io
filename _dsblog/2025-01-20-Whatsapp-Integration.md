@@ -24,7 +24,7 @@ toc: true
 toc_sticky: true
 toc_levels: 2
 comments: true
-keywords: ["whatsapp business api integration", "whatsapp chatbot integration", "whatsapp messaging platform", "whatsapp business communication tools", "whatsapp api integration tutorial", "whatsapp integration architecture design", "whatsapp integration with custom crm"]
+keywords: ["WhatsApp Integration", "Business API", "Chatbots", "Messaging Platform", "Communication Tools", "API Integration"]  
 ---
 
 ![WhatsApp Integration](/assets/images/dspost/dsp6204-Whatsapp-Integration.jpg)

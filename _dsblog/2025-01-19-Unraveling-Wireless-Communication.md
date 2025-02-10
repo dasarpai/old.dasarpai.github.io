@@ -23,7 +23,7 @@ toc: true
 toc_sticky: true
 toc_levels: 2
 comments: true
-keywords: ["wireless communication protocols", "gsm protocol explained", "wi-fi communication technology", "wireless connectivity protocols", "wireless communication technologies", "wireless communication systems", "wireless communication networks"]
+keywords: ["Wireless Communication", "GSM", "Wi-Fi", "Protocols", "Connectivity"]
 ---
 
 ![](/assets/images/dspost/dsp6203-Unraveling-Wireless-Communication.jpg)

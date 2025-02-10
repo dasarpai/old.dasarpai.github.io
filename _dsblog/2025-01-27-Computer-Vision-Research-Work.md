@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
-keywords: ["computer vision research work", "advancements in computer vision", "history of computer vision", "computer vision breakthroughs", "computer vision research papers", "computer vision techniques", "computer vision applications"]
+keywords: ["Computer Vision", "AI Research", "Image Processing", "Deep Learning"]
 ---
 
 ![Computer Vision Research Work"](/assets/images/dspost/dsp6211-Computer-Vision-Research-Work.jpg)

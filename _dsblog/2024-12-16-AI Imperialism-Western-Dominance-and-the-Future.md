@@ -25,7 +25,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
-keywords: ["How Western Dominance Impacts Global AI Development", "Artificial Intelligence and Global Technological Equity", "Challenges of AI Adoption in Developing Nations", "The Future of AI Governance and Regulation", "The Role of Attention Mechanisms in AI Imperialism", "AI Imperialism and the Need for Diversity in AI Development", "The Impact of AI Imperialism on Global Economic Development"]
+keywords: ["Artificial Intelligence", "Natural Language Processing", "Transformer Models", "Attention Mechanisms", "AI Imperialism", "Global Technology Governance", "Western Dominance in AI", "Developing Nations and AI", "Technology Equity"]
 ---
 
 ![AI Imperialism](/assets/images/dspost/dsp6191-AI-Imperialism.jpg)

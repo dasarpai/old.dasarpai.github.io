@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
-keywords: ["openai 12 days of 2024", "openai announcements december 2024", "large language model updates", "ai model updates december 2024", "nlp model updates december 2024", "openai pro features", "openai chatgpt pro features"]
+keywords: ["Large Language Models", "LLM", "NLP", "AI", "OpenAI", "12 Days of 2024", "Announcements"]
 ---
 
 ![OpenAI 12 Days 2024 Announcements](/assets/images/dspost/dsp6193-OpenAI-12-Days-2024-Announcements.jpg)

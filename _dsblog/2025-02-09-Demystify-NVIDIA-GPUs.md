@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
-keywords: ["Understanding NVIDIA GPU names", "NVIDIA GPU naming conventions", "NVIDIA GPU for deep learning", "NVIDIA GPU for AI", "NVIDIA GPU for machine learning", "NVIDIA GPU for computer vision"]
+keywords: ["NVIDIA", "GPUs", "Deep Learning"]
 ---
 
 ![Demystifying NVIDIA GPUs](/assets/images/dspost/dsp6216-Demystify-NVIDIA-GPUs.jpg)

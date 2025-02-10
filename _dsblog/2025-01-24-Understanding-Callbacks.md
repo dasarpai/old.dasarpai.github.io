@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true
 toc_levels: 2
 comments: true
-keywords: ["what is callback in programming", "callback function in programming", "how do callbacks work", "asynchronous programming with callbacks", "callback in software design", "understanding callbacks in software development", "callback programming concepts"]  
+keywords: ["Callbacks", "Asynchronous Programming", "Software Development", "Programming Concepts"]  
 ---
 
 ![Understanding Callbacks](/assets/images/dspost/dsp6208-Understanding-Callbacks.jpg)

@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
-keywords: ["complete ecosystem of software development", "software development life cycle", "software engineering practices", "software development methodologies", "software development tools", "software development best practices", "software development principles"]
+keywords: ["software development", "SDLC", "software engineering"]
 ---
 
 ![The Complete Ecosystem of Software Development](/assets/images/dspost/dsp6196-the-complete-ecosystem-of-software-development.jpg)

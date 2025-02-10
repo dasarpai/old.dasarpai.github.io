@@ -22,7 +22,7 @@ toc: true
 toc_sticky: true
 toc_levels: 2
 comments: true
-keywords: ["open source licensing in ai", "ai licensing challenges", "considerations for ai licensing", "best practices for ai licensing", "open source ai licensing", "licensing considerations for ai products", "ai licensing guide"]
+keywords: ["Open Source", "Licensing", "AI", "Challenges", "Considerations", "Best Practices"]
 ---
 
 ![]( /assets/images/dspost/dsp6201-Navigating-Open-Source-Licensing-in-the-Age-of-AI.jpg)

@@ -23,7 +23,7 @@ toc: true
 toc_sticky: true
 toc_levels: 2
 comments: true
-keywords: ["ai product ideas for 2025", "innovative ai business ideas", "ai technology trends 2025", "ai product development strategy", "best ai business ideas for startup", "ai innovation ideas for business", "ai and machine learning product ideas"]
+keywords: ["AI Product Ideas", "Innovation", "Technology Trends", "Product Development", "Business Strategy"]  
 ---
 
 ![AI Product Ideas 2025](/assets/images/dspost/dsp6206-AI-Product-Ideas.jpg)
