@@ -13,7 +13,7 @@ share: true
 categories: [wiaposts] 
 tags:  [Vedanta,  Mindfulness, Bhagwat Gita]      
 keywords: [Bhagavad Gita Chapter 18 Summary, Moksha Sannyasa Yoga, Path of Liberation and Renunciation, Essence of Bhagavad Gita]  
-excerpt: The 18th chapter of the Bhagavad Gita, titled Moksha-Sannyasa Yoga" (The Yoga of Liberation and Renunciation). It is one of the longest chapter with 78 sloka. Key takeaways from this chapter are discussed in this article.
+excerpt: "The 18th chapter of the Bhagavad Gita, titled Moksha-Sannyasa Yoga (The Yoga of Liberation and Renunciation). It is one of the longest chapter with 78 sloka. Key takeaways from this chapter are discussed in this article."
 toc: true
 toc_sticky: true
 toc_levels: 2

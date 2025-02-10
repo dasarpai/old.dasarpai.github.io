@@ -13,7 +13,7 @@ share: true
 categories: [wiaposts] 
 tags:  [History of Science,  Modern Science, Europe]      
 keywords: [Why Modern Science Developed in Europe, The Emergence of Modern Science, Science and Western Society]  
-excerpt: A question that often comes to mind is: Why has scientific progress been so significant in the past 400 years, and why did it primarily take place in Europe? The world is vast, with many ancient civilizations contributing to human knowledge—so why does modern science seem so Eurocentric? In this article, I explore the answers to these questions.
+excerpt: "A question that often comes to mind is: Why has scientific progress been so significant in the past 400 years, and why did it primarily take place in Europe? The world is vast, with many ancient civilizations contributing to human knowledge—so why does modern science seem so Eurocentric? In this article, I explore the answers to these questions."
 toc: true
 toc_sticky: true
 toc_levels: 2

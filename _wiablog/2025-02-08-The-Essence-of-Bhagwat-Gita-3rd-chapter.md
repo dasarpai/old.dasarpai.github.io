@@ -13,7 +13,7 @@ share: true
 categories: [wiaposts] 
 tags:  [Vedanta,  Mindfulness, Bhagwat Gita]      
 keywords: [Bhagavad Gita Chapter 3 Summary, Karma Yoga, Mindfulness and Self Realization, Path of Selfless Action, Essence of Bhagavad Gita]  
-excerpt: The third chapter of the Bhagavad Gita is a treasure trove of spiritual wisdom, providing powerful insights on the path of  action, the importance of mindfulness, and the keys to achieving self-realization.
+excerpt: "The third chapter of the Bhagavad Gita is a treasure trove of spiritual wisdom, providing powerful insights on the path of  action, the importance of mindfulness, and the keys to achieving self-realization."
 toc: true
 toc_sticky: true
 toc_levels: 2

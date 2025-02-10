@@ -13,7 +13,7 @@ share: true
 categories: [wiaposts] 
 tags:  [Vedanta,  Mindfulness, Bhagwat Gita]      
 keywords: [Bhagavad Gita Chapter 4 Summary, Jnyana (Knowledge) Yoga, Path of Liberation and Renunciation, Essence of Bhagavad Gita]  
-excerpt: The 4th chapter of the Bhagavad Gita, titled Jnyana (Knowledge) Yoga. It has 42 slokas. Key takeaways from this chapter are discussed in this article.
+excerpt: "The 4th chapter of the Bhagavad Gita, titled Jnyana (Knowledge) Yoga. It has 42 slokas. Key takeaways from this chapter are discussed in this article."
 toc: true
 toc_sticky: true
 toc_levels: 2
