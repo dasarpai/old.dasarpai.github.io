@@ -31,7 +31,12 @@ The third chapter of the *Bhagavad Gita* focuses on **Karma Yoga**. Our modern l
 - When we actually need these ideas in our lives, we struggle to apply and reflect on them.  
 - The original text is in **Sanskrutam (Sanskrit)**, which most people don’t know. Translations often carry the influence of the translator’s thoughts, ideologies, and values.  
 
-Here, I am presenting the essence of Chapter 3 through **nine key shlokas**. Read them slowly and try to assimilate their meaning.  
+Here, I am presenting the essence of Chapter 3 through **nine key shlokas**. Read them slowly and try to assimilate their meaning. 
+
+I have been reflecting on the Bhagavad Gita and other Hindu Sanskrit texts for a long time, dedicating significant effort to seeking the Truth. I practice Hinduism, but my inquiries in the Essence of Bhagavad Gita Series do not come from a place of mere belief but from the perspective of a sincere seeker of Truth. I consider myself a serious seeker, and I strive to pursue the Truth in every possible way.
+
+Scriptures are not merely about memorization, chanting, gaining respect, receiving awards, earning the reputation of a great saint (Mahant), Mathadheesh, or Sadhu, or proving the sharpness of one’s memory. These are but minor aspects of life. The various shlokas from philosophical scriptures (Darshana Shastras) serve a higher purpose—to help us reflect, declutter our minds, and bring clarity to our lives. Storing scripture and photos on hardisk, bookmarking them, sharing them etc is meaningless if you have not paused to reflect or if you think you will do all this towards the end of life or before dying.
+
 
 You don’t need to read both the English and Hindi/Devanagari script—choose the one that aligns with your preference.  
 
@@ -220,10 +225,6 @@ Next, you can explore:
 - Is prioritizing my self-interest above others (such as competitors, vendors, ill-intentioned people, or selfish individuals) Paradharma?  
 
 Then, reflect: Why is Paradharma fraught with danger, and why is Swadharma better?  
-
-This is just an example of how you can reflect on every shloka. Scriptures are not just about memorization, chanting, or proving how good your memory is. That is a very small aspect of life. These shlokas from scriptures are to help you reflect, declutter your mind, and bring clarity to your life.  
-
-
 
 ---
 ## **10. Control Over Desires (Lust & Anger as Enemies)**  

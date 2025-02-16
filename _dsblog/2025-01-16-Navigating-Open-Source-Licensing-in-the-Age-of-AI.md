@@ -185,7 +185,7 @@ Yes, understanding and evaluating someone else's code can be challenging, just a
 
 In today’s fast-paced market, where competition can disrupt your plans unexpectedly, time-to-market is critical. By using existing open-source solutions, you can build faster, fail quickly, learn from mistakes, iterate, and refine your product to meet market demands. This agile approach allows you to stay competitive while focusing on delivering value and adapting to change.
 
-## what is AI Angle in Opensource Licensing?
+## What is AI angle in Opensource Licensing?
 The advancement in AI introduces additional considerations when using GitHub repositories, especially regarding licensing, ethical implications, and the nature of AI-generated or AI-related code. 
 
 AI advancements add layers of complexity to traditional licensing considerations. Beyond the technical and legal aspects, it's critical to assess ethical implications, data privacy, and regulatory compliance when using AI-related GitHub repositories. Staying informed about these issues not only ensures legal compliance but also supports responsible innovation in the AI-driven era.

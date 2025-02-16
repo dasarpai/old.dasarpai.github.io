@@ -328,3 +328,10 @@ font-size: 1em;
     }
   }
 }
+
+
+/* Hide Disqus ads - use at your own risk */
+iframe[src*="disqusads"],
+#disqus_thread iframe:not([src*="disqus.com"]) {
+  display: none !important;
+}

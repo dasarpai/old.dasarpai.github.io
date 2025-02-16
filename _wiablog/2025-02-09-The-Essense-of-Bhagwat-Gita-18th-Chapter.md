@@ -25,6 +25,10 @@ toc_levels: 2
 
 The 18th chapter of the **Bhagavad Gita**, titled Moksha-Sannyasa Yoga" (The Yoga of Liberation and Renunciation). It is one of the longest chapter with 78 sloka. Key takeaways from this chapter are discussed in this article. At this time I am writing only in Hindi and Devanagari script, in future when time permit I will translate this into English.
 
+I have been reflecting on the Bhagavad Gita and other Hindu Sanskrit texts for a long time, dedicating significant effort to seeking the Truth. I practice Hinduism, but my inquiries in the Essence of Bhagavad Gita Series do not come from a place of mere belief but from the perspective of a sincere seeker of Truth. I consider myself a serious seeker, and I strive to pursue the Truth in every possible way.
+
+Scriptures are not merely about memorization, chanting, gaining respect, receiving awards, earning the reputation of a great saint (Mahant), Mathadheesh, or Sadhu, or proving the sharpness of one’s memory. These are but minor aspects of life. The various shlokas from philosophical scriptures (Darshana Shastras) serve a higher purpose—to help us reflect, declutter our minds, and bring clarity to our lives. Storing scripture and photos on hardisk, bookmarking them, sharing them etc is meaningless if you have not paused to reflect or if you think you will do all this towards the end of life or before dying.
+
 ##  Difference between Renunciation (Sanyasa) and  Tyaga  
 ### Sloka in Devanagari & Hindi 
 काम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः ।  
@@ -79,7 +83,7 @@ The 18th chapter of the **Bhagavad Gita**, titled Moksha-Sannyasa Yoga" (The Yog
 अब इस स्थिति में जो मनुष्य असंस्कृत बुद्धि होने के कारण, आत्मा को कर्ता समझता हैं, वह दुर्मति पुरुष, यथार्थ नहीं देखता है।।
 
 
-## Who get boundage?
+## Who get the Bondage or Bandhan?
 ### Sloka in Devanagari & Hindi 
 यस्य नाहंकृतो भावो बुद्धिर्यस्य न लिप्यते।  
 हत्वापि स इमाँल्लोकान्न हन्ति न निबध्यते ।। 18.17

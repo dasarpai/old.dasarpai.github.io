@@ -24,6 +24,9 @@ toc_levels: 2
 # The Essence of Bhagwat Gita: 2nd Chapter
 The second chapter of Bhagavad Gita is "Sankhya Yoga" - The Yoga of Analysis. This chapter is one of the longest in the Bhagavad Gita, it has 72 slokas (verses). Sometimes people say if you understand this chapter throughly then you don't need any other chapter, if you don't have time.
 
+I have been reflecting on the Bhagavad Gita and other Hindu Sanskrit texts for a long time, dedicating significant effort to seeking the Truth. I practice Hinduism, but my inquiries in the Essence of Bhagavad Gita Series do not come from a place of mere belief but from the perspective of a sincere seeker of Truth. I consider myself a serious seeker, and I strive to pursue the Truth in every possible way.
+
+Scriptures are not merely about memorization, chanting, gaining respect, receiving awards, earning the reputation of a great saint (Mahant), Mathadheesh, or Sadhu, or proving the sharpness of one’s memory. These are but minor aspects of life. The various shlokas from philosophical scriptures (Darshana Shastras) serve a higher purpose—to help us reflect, declutter our minds, and bring clarity to our lives. Storing scripture and photos on hardisk, bookmarking them, sharing them etc is meaningless if you have not paused to reflect or if you think you will do all this towards the end of life or before dying.
 
  The chapter begins with Arjuna expressing his confusion about what is the right path for him to follow. Should he fight his elders and gurus, or should he not fight and instead follow the path of knowledge and renunciation? 
 

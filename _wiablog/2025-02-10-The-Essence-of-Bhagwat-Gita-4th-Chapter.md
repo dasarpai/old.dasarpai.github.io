@@ -25,6 +25,11 @@ toc_levels: 2
 
 The fourth chapter of Bhagwat Gita is Jnyana (Knowledge) Yoga. It has 42 slokas. What is the meaning of Jnyana or Knowledge in the context of Bhagwat Gita and Hindu Scriptures? What is the power of Knowledge? What is the role of this in Liberating person from suffering? These are the ideas dicussed here.
 
+I have been reflecting on the Bhagavad Gita and other Hindu Sanskrit texts for a long time, dedicating significant effort to seeking the Truth. I practice Hinduism, but my inquiries in the Essence of Bhagavad Gita Series do not come from a place of mere belief but from the perspective of a sincere seeker of Truth. I consider myself a serious seeker, and I strive to pursue the Truth in every possible way.
+
+Scriptures are not merely about memorization, chanting, gaining respect, receiving awards, earning the reputation of a great saint (Mahant), Mathadheesh, or Sadhu, or proving the sharpness of one’s memory. These are but minor aspects of life. The various shlokas from philosophical scriptures (Darshana Shastras) serve a higher purpose—to help us reflect, declutter our minds, and bring clarity to our lives. Storing scripture and photos on hardisk, bookmarking them, sharing them etc is meaningless if you have not paused to reflect or if you think you will do all this towards the end of life or before dying.
+
+
 ## Rajrishis had this knowledge in their tradition
 एवं परम्पराप्राप्तमिमं राजर्षयो विदुः ।    
 स कालेनेह महता योगो नष्टः परन्तप ॥ 4.2
@@ -50,15 +55,19 @@ You can ask question like
 जब-जब धर्म की हानि और अधर्म की वृद्धि होती है,  तब-तब मैं स्वयं को प्रकट करता हूँ।   
 साधुओं के रक्षण, दुष्कृत्य करने वालों के नाश, तथा धर्म संस्थापना के लिये, मैं प्रत्येक युग में प्रगट होता हूँ।
 
+Keeping your faith and Bhakta buddhi aside for the time being, if you ask this question who is this "I" in Sri Krishna's statement? Is He referring to that body which took birth from Devaki in Jail, nurtunred by Yashoda in Vrindavan? You will discovder deeper in yourself.
+
 ## You get liberated if...
 जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वतः।   
-त्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन।। 4.9
+त्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन।। 4.9   
 वीतरागभयक्रोधा मन्मया मामुपाश्रिताः।
 बहवो ज्ञानतपसा पूता मद्भावमागताः।। 4.10
 
 मेरा जन्म और कर्म दिव्य है,  इस प्रकार जो पुरुष तत्त्वत:  जानता है, वह शरीर को त्यागकर फिर जन्म को नहीं प्राप्त होता;  वह मुझे ही प्राप्त होता है।।
 
 राग भय और क्रोध से रहित मेरे शरण हुए मन के साथ बहुत से पुरुष ज्ञान रुप तप से पवित्र‌ हुए मेरे ओर मेरे स्वरुप को प्राप्त हुए हैं।
+
+Again, keeping your faith and Bhakta buddhi aside for the time being and ask a question as a seeker of Truth and Absolute Truth you can ask yourself who is this "I and my" in these two sloka of Bhagwat Gita? The talking and listening is happening between human bodies, in Sanskrit language using their physical organs. Without this what talking and listening is possible? And with this physical organs whatever talk and listen is happening is it referring to physical body, subtle body, causal body or something which is so subtle that is not matter to measure and contained. But that is the container of all physical? But then how non-physical contains  physical?
 
 ## The doer is non-doer 
 चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः।
@@ -67,8 +76,8 @@ You can ask question like
 गुण और कर्मों के विभाग से चातुर्वण्य मेरे द्वारा रचा गया है। यद्यपि मैं उसका कर्ता हूँ, तथापि तुम मुझे अकर्ता और अविनाशी जानो।।
 
 You can ask question, how this contridiction is possible?   
-Why Krishna is saying I am Karta, when He himself told the Karta is Prakriti. Is He referring to himself as Prakriti?   
-Why Krishna is saying I am Akarta, when we all see extremely complex and big things are happening around is beyond any human capabilities. Are all these things done by the Prakriti and He is just Sakshi, Drishta?   
+Why Krishna is saying I am Karta, when He himself told the Karta is Prakriti? Is He referring to himself as Prakriti?   
+Why Krishna is saying I am Akarta, when we all see extremely complex and big things are happening around is beyond any human capabilities? Are all these things done by the Prakriti and He is just Sakshi, Drishta?   
 
 ## What to do and how to act upon?
  
