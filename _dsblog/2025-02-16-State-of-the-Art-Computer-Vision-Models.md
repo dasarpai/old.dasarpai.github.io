@@ -204,6 +204,7 @@ Transformers, originally designed for NLP, are now used for image generation.
 ---
 
 ### **Summary of Methods**:
+
 | **Method**            | **Key Idea**                                                                 | **Strengths**                              | **Weaknesses**                             |
 |------------------------|-----------------------------------------------------------------------------|--------------------------------------------|--------------------------------------------|
 | **Diffusion Models**   | Gradually denoise random noise into images.                                 | High quality, flexible, scalable.          | Computationally expensive.                 |

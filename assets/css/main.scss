@@ -331,7 +331,11 @@ font-size: 1em;
 
 
 /* Hide Disqus ads - use at your own risk */
-iframe[src*="disqusads"],
-#disqus_thread iframe:not([src*="disqus.com"]) {
+/* Hide all dsq- iframes except the main comment iframe */
+iframe[id^="dsq-"]:not([src^="https://disqus.com/embed/comments/?base="]) {
+  height: 0 !important;
   display: none !important;
+  visibility: hidden !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
