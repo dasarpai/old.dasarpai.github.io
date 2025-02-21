@@ -1,9 +1,9 @@
 ---
 mathjax: true
 id: 6219
-title: "State of the Art Computer Vision Models: A Comprehensive Overview"
+title: "State of the Art Image Generation Models in Computer Vision: A Comprehensive Overview"
 date: 2025-02-16
-permalink: /dsblog/state-of-the-art-computer-vision-models
+permalink: /dsblog/state-of-the-art-image-generation-models-in-computer-vision
 tags:
   - Computer Vision
   - Image Generation
@@ -11,6 +11,7 @@ tags:
   - GANs
   - Autoregressive Models
   - State of the Art AI
+  - Image Synthesis Models
 categories:
   - dsblog
 header:
@@ -25,7 +26,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
-keywords: ["Computer Vision Models", "Image Generation Methods", "State of the Art AI", "Diffusion Models", "Generative Adversarial Networks (GANs)", "Autoregressive Models", "Image Synthesis Models"]
+keywords: ["State of the Art Image Generation Models", "Computer Vision Models", "Image Synthesis Models", "Diffusion Models", "Generative Adversarial Networks (GANs)", "Autoregressive Models", "State of the Art AI"]
 ---
 
 ![State-of-the-Art 3D Image Generation Models](/assets/images/dspost/dsp6219-State-of-the-Art-Computer-Vision-Models.jpg)
