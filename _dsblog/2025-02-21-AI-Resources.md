@@ -34,6 +34,100 @@ keywords: ["Best AI Resources", "Top AI Tools", "AI Development Tools List", "AI
 ## Introduction
 In a world driven by innovation and accelerated by artificial intelligence, the right tools can make all the difference—whether you’re hunting for your dream job, scaling a business, or pushing the boundaries of creativity and development. Welcome to the ultimate resource hub! I've curated an extensive collection of hundreds of cutting-edge tools across diverse categories—ranging from AI-powered presentation and diagramming solutions to development frameworks, data visualization platforms, and even niche treasures like Sanskrit tools. Whether you’re a job seeker, an entrepreneur, a developer, a designer, or simply an AI enthusiast, this comprehensive directory is your gateway to unlocking efficiency, inspiration, and success. Dive in and discover the tools that will empower you to navigate the future with confidence!
 
+## AI Diagraming Tools
+1. [https://diagrams.helpful.dev/](https://diagrams.helpful.dev/){:target="_blank"}
+1. [https://mermaid.js.org/ecosystem/tutorials.html](https://mermaid.js.org/ecosystem/tutorials.html){:target="_blank"}
+1. [https://miro.com/app/board/](https://miro.com/app/board/){:target="_blank"}
+1. [https://www.aidocmaker.com/g0/file](https://www.aidocmaker.com/g0/file){:target="_blank"}
+
+## AI Chat/Interaction Tools
+1. **Botpress** (open-source chatbot platform) : [https://botpress.com](https://botpress.com){:target="_blank"}
+1. **Character.AI** : [https://beta.character.ai](https://beta.character.ai){:target="_blank"}
+1. **ChatFAI** (AI for fictional character chats) : [https://chatfai.com](https://chatfai.com){:target="_blank"}
+1. **Chatsonic (by Writesonic)** : [https://writesonic.com/chat](https://writesonic.com/chat){:target="_blank"}
+1. **Claude (Anthropic)** : [https://claude.ai](https://claude.ai){:target="_blank"}
+1. **Cohere Chat** : [https://cohere.com](https://cohere.com){:target="_blank"}
+1. **DeepBrain AI** (AI chat and video avatars) : [https://www.deepbrain.io](https://www.deepbrain.io){:target="_blank"}
+1. **DeepSeek Chat** : [https://www.deepseek.com/chat](https://www.deepseek.com/chat){:target="_blank"}
+1. **DialoGPT (Microsoft Research)** : [https://github.com/microsoft/DialoGPT](https://github.com/microsoft/DialoGPT) (open-source, not a direct web app){:target="_blank"}
+1. **Eliza AI** (a modern take on the classic ELIZA chatbot) : [https://eliza.ai](https://eliza.ai){:target="_blank"}
+1. **GPT-NeoX (EleutherAI)** : [https://www.eleuther.ai](https://www.eleuther.ai) (open-source, not a direct web app){:target="_blank"}
+1. **Google Bard (Gemini)** : [https://bard.google.com](https://bard.google.com){:target="_blank"}
+1. **HuggingChat (Hugging Face)** : [https://huggingface.co/chat](https://huggingface.co/chat){:target="_blank"}
+1. **Inworld AI** (AI for character interactions) : [https://inworld.ai](https://inworld.ai){:target="_blank"}
+1. **Jasper Chat** (by Jasper AI) : [https://www.jasper.ai/chat](https://www.jasper.ai/chat){:target="_blank"}
+1. **Kuki Chatbot** (formerly Mitsuku) : [https://www.kuki.ai](https://www.kuki.ai){:target="_blank"}
+1. **Microsoft Copilot (formerly Bing Chat)** : [https://copilot.microsoft.com](https://copilot.microsoft.com){:target="_blank"}
+1. **Perplexity AI** : [https://www.perplexity.ai](https://www.perplexity.ai){:target="_blank"}
+1. **Pi (by Inflection AI)** : [https://heypi.com](https://heypi.com){:target="_blank"}
+1. **Poe (by Quora)** : [https://poe.com](https://poe.com){:target="_blank"}
+1. **Rasa** (open-source conversational AI) : [https://rasa.com](https://rasa.com){:target="_blank"}
+1. **Replika** (AI companion chatbot) : [https://replika.ai](https://replika.ai){:target="_blank"}
+1. **YouChat (You.com)** : [https://you.com/chat](https://you.com/chat){:target="_blank"}
+1. **ChatGPT (OpenAI)** : [https://chat.openai.com](https://chat.openai.com){:target="_blank"}
+
+
+## AI-Audio-Tools
+1. [https://aitestkitchen.withgoogle.com/tools/music-fx](https://aitestkitchen.withgoogle.com/tools/music-fx){:target="_blank"}
+1. [https://artlist.io/royalty-free-music](https://artlist.io/royalty-free-music){:target="_blank"}
+1. [https://motionarray.com/browse/royalty-free-music/free/](https://motionarray.com/browse/royalty-free-music/free/){:target="_blank"}
+1. [https://otter.ai/](https://otter.ai/){:target="_blank"}
+1. [https://pixabay.com/music/search/theme/podcast%20music/](https://pixabay.com/music/search/theme/podcast%20music/){:target="_blank"}
+1. [https://research.myshell.ai/open-voice](https://research.myshell.ai/open-voice){:target="_blank"}
+1. [https://soundraw.io/](https://soundraw.io/){:target="_blank"}
+1. [https://suno.com/](https://suno.com/){:target="_blank"}
+1. [https://tunetank.com/discover/themes/podcast/](https://tunetank.com/discover/themes/podcast/){:target="_blank"}
+1. [https://www.descript.com/](https://www.descript.com/){:target="_blank"}
+1. [https://www.epidemicsound.com/music/themes/podcast/podcast-hooks/](https://www.epidemicsound.com/music/themes/podcast/podcast-hooks/){:target="_blank"}
+1. [https://www.fineshare.com/ai-song-cover](https://www.fineshare.com/ai-song-cover){:target="_blank"}
+1. [https://www.melodyloops.com/my-music/longoloops/earth-surface/](https://www.melodyloops.com/my-music/longoloops/earth-surface/){:target="_blank"}
+1. [https://www.rev.com/pricing](https://www.rev.com/pricing){:target="_blank"}
+1. [https://www.udio.com/](https://www.udio.com/){:target="_blank"}
+
+
+## AI Image/Thumnail Generation Tools
+1. [https://app.artflow.ai/](https://app.artflow.ai/)
+1. [https://app.haikei.app/](https://app.haikei.app/){:target="_blank"}
+1. [https://app.leonardo.ai/image-generation](https://app.leonardo.ai/image-generation)
+1. [https://app.pixverse.ai/onboard](https://app.pixverse.ai/onboard)
+1. [https://app.runwayml.com/](https://app.runwayml.com/)
+1. [https://beta.dreamstudio.ai/dream](https://beta.dreamstudio.ai/dream){:target="_blank"}
+1. [https://character.ai/](https://character.ai/)
+1. [https://chat.mistral.ai/](https://chat.mistral.ai/)
+1. [https://designer.microsoft.com/](https://designer.microsoft.com/){:target="_blank"}
+1. [https://designer.microsoft.com/image-creator](https://designer.microsoft.com/image-creator)
+1. [https://dream-machine.lumalabs.ai/board/new](https://dream-machine.lumalabs.ai/board/new)
+1. [https://dreamstudio.ai/generate](https://dreamstudio.ai/generate){:target="_blank"}
+1. [https://fal.ai/models/fal-ai/flux/dev](https://fal.ai/models/fal-ai/flux/dev)
+1. [https://fal.ai/models/fal-ai/flux/schnell/playground](https://fal.ai/models/fal-ai/flux/schnell/playground)
+1. [https://firefly.adobe.com/](https://firefly.adobe.com/)
+1. [https://firefly.adobe.com/generate/](https://firefly.adobe.com/generate/){:target="_blank"}
+1. [https://gemini.google.com/app](https://gemini.google.com/app)
+1. [https://generated.photos/](https://generated.photos/){:target="_blank"}
+1. [https://grok.com/](https://grok.com/)
+1. [https://ideogram.ai/t/explore](https://ideogram.ai/t/explore)
+1. [https://pictory.ai/](https://pictory.ai/){:target="_blank"}
+1. [https://pika.art/](https://pika.art/)
+1. [https://this-person-does-not-exist.com/en](https://this-person-does-not-exist.com/en){:target="_blank"}
+1. [https://vercel.com/reactjs-projects-projects/~/ai/models/sdxl](https://vercel.com/reactjs-projects-projects/~/ai/models/sdxl)
+1. [https://www.adobe.com/in/products/catalog.html](https://www.adobe.com/in/products/catalog.html){:target="_blank"}
+1. [https://www.app.artflow.ai/](https://www.app.artflow.ai/){:target="_blank"}
+1. [https://www.canva.com/](https://www.canva.com/)
+1. [https://www.futurepedia.io/ai-tools/art-generators/best](https://www.futurepedia.io/ai-tools/art-generators/best){:target="_blank"}
+1. [https://www.krea.ai/](https://www.krea.ai/)
+1. [https://www.synthesia.io/](https://www.synthesia.io/){:target="_blank"}
+
+## AI Video Generator Tools
+1. [https://app.ltx.studio/](https://app.ltx.studio/)
+1. [https://app.pixverse.ai/onboard](https://app.pixverse.ai/onboard)
+1. [https://app.runwayml.com/](https://app.runwayml.com/)
+1. [https://dream-machine.lumalabs.ai/](https://dream-machine.lumalabs.ai/)
+1. [https://hailuoai.video/](https://hailuoai.video/)
+1. [https://pika.art/](https://pika.art/)
+1. [https://pollo.ai/template](https://pollo.ai/template)
+1. [https://www.genmo.ai/](https://www.genmo.ai/)
+1. [https://www.krea.ai/](https://www.krea.ai/)
+
 ## Job hunt and Business Hunt Tools
 1. [https://allremote.jobs/](https://allremote.jobs/){:target="_blank"}
 1. [https://angel.co/job-collections/highest-paying-jobs-september](https://angel.co/job-collections/highest-paying-jobs-september){:target="_blank"}
@@ -392,46 +486,6 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [https://www.visme.co/](https://www.visme.co/){:target="_blank"}
 1. [https://www.zoho.com/en-in/crm/](https://www.zoho.com/en-in/crm/){:target="_blank"}
 
-## AI Diagraming Tools
-1. [https://diagrams.helpful.dev/](https://diagrams.helpful.dev/){:target="_blank"}
-1. [https://mermaid.js.org/ecosystem/tutorials.html](https://mermaid.js.org/ecosystem/tutorials.html){:target="_blank"}
-1. [https://miro.com/app/board/](https://miro.com/app/board/){:target="_blank"}
-1. [https://www.aidocmaker.com/g0/file](https://www.aidocmaker.com/g0/file){:target="_blank"}
-
-## AI-Audio-Tools
-1. [https://aitestkitchen.withgoogle.com/tools/music-fx](https://aitestkitchen.withgoogle.com/tools/music-fx){:target="_blank"}
-1. [https://artlist.io/royalty-free-music](https://artlist.io/royalty-free-music){:target="_blank"}
-1. [https://motionarray.com/browse/royalty-free-music/free/sort_by=most-popular&page=4](https://motionarray.com/browse/royalty-free-music/free/sort_by=most-popular&page=4){:target="_blank"}
-1. [https://otter.ai/](https://otter.ai/){:target="_blank"}
-1. [https://pixabay.com/music/search/theme/podcast%20music/](https://pixabay.com/music/search/theme/podcast%20music/){:target="_blank"}
-1. [https://research.myshell.ai/open-voice](https://research.myshell.ai/open-voice){:target="_blank"}
-1. [https://soundraw.io/](https://soundraw.io/){:target="_blank"}
-1. [https://suno.com/](https://suno.com/){:target="_blank"}
-1. [https://tunetank.com/discover/themes/podcast/](https://tunetank.com/discover/themes/podcast/){:target="_blank"}
-1. [https://www.descript.com/](https://www.descript.com/){:target="_blank"}
-1. [https://www.epidemicsound.com/music/themes/podcast/podcast-hooks/](https://www.epidemicsound.com/music/themes/podcast/podcast-hooks/){:target="_blank"}
-1. [https://www.fineshare.com/ai-song-cover](https://www.fineshare.com/ai-song-cover){:target="_blank"}
-1. [https://www.melodyloops.com/my-music/longoloops/earth-surface/](https://www.melodyloops.com/my-music/longoloops/earth-surface/){:target="_blank"}
-1. [https://www.rev.com/pricing](https://www.rev.com/pricing){:target="_blank"}
-1. [https://www.udio.com/](https://www.udio.com/){:target="_blank"}
-
-
-## AI Image Generation Tools
-1. [https://firefly.adobe.com/generate/](https://firefly.adobe.com/generate/){:target="_blank"}
-1. [https://www.app.artflow.ai/](https://www.app.artflow.ai/){:target="_blank"}
-1. [https://app.haikei.app/](https://app.haikei.app/){:target="_blank"}
-1. [https://pictory.ai/](https://pictory.ai/){:target="_blank"}
-1. [https://generated.photos/](https://generated.photos/){:target="_blank"}
-1. [https://this-person-does-not-exist.com/en](https://this-person-does-not-exist.com/en){:target="_blank"}
-1. [https://www.synthesia.io/](https://www.synthesia.io/){:target="_blank"}
-1. [https://beta.dreamstudio.ai/dream](https://beta.dreamstudio.ai/dream){:target="_blank"}
-1. [https://dreamstudio.ai/generate](https://dreamstudio.ai/generate){:target="_blank"}
-1. [https://firefly.adobe.com/](https://firefly.adobe.com/){:target="_blank"}
-1. [https://www.adobe.com/in/products/catalog.html](https://www.adobe.com/in/products/catalog.html){:target="_blank"}
-1. [https://www.futurepedia.io/ai-tools/art-generators/best](https://www.futurepedia.io/ai-tools/art-generators/best){:target="_blank"}
-1. [https://designer.microsoft.com/](https://designer.microsoft.com/){:target="_blank"}
-
-
 
 ## Development Tools
 1. [http://codepad.org/](http://codepad.org/){:target="_blank"\}
@@ -736,12 +790,12 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [https://gptstore.ai/chat/-gochitchat-ai](https://gptstore.ai/chat/-gochitchat-ai){:target="_blank"}
 1. [https://gptstore.ai/chat/showme-redstarplugin-com](https://gptstore.ai/chat/showme-redstarplugin-com){:target="_blank"}
 1. [https://gptstore.ai/chat/webpilotai-com](https://gptstore.ai/chat/webpilotai-com){:target="_blank"}
-1. [https://help.autodesk.com/view/RVT/2022/ENU/guid=GUID-4E62D48A-783C-45F7-BD0D-F58E986E93F8](https://help.autodesk.com/view/RVT/2022/ENU/guid=GUID-4E62D48A-783C-45F7-BD0D-F58E986E93F8){:target="_blank"}
+1. [https://help.autodesk.com/](https://help.autodesk.com/{:target="_blank"}
 1. [https://keep.google.com/u/0/#home](https://keep.google.com/u/0/#home){:target="_blank"}
 1. [https://keepa.com/#!](https://keepa.com/#!){:target="_blank"}
 1. [https://languagetool.org/](https://languagetool.org/){:target="_blank"}
 1. [https://languagetool.org/editor/newregistered=true](https://languagetool.org/editor/newregistered=true){:target="_blank"}
-1. [https://marketplace.atlassian.com/apps/1230962/chatgpt-ai-assistant-for-jiratab=overview&hosting=cloud](https://marketplace.atlassian.com/apps/1230962/chatgpt-ai-assistant-for-jiratab=overview&hosting=cloud){:target="_blank"}
+1. [https://marketplace.atlassian.com/apps/](https://marketplace.atlassian.com/apps/){:target="_blank"}
 1. [https://meet.jit.si/](https://meet.jit.si/){:target="_blank"}
 1. [https://news.microsoft.com/reinventing-productivity/](https://news.microsoft.com/reinventing-productivity/){:target="_blank"}
 1. [https://noises.online/](https://noises.online/){:target="_blank"}
@@ -1040,7 +1094,7 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [https://github.com/orgs/dotnet-architecture/repositoriestype](https://github.com/orgs/dotnet-architecture/repositoriestype){:target="_blank"\}
 1. [https://groups.google.com/forum/#!forum/nltk-users](https://groups.google.com/forum/#!forum/nltk-users){:target="_blank"}
 1. [https://gyaandweep.com/purana/shivapurana/kotirudra-samhita/](https://gyaandweep.com/purana/shivapurana/kotirudra-samhita/){:target="_blank"\}
-1. [https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42](https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42){:target="_blank"}
+1. [Memorizing is not learning! — 6 tricks to prevent overfitting in machine learning.](https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42){:target="_blank"}
 1. [https://harvard-iacs.github.io/2019-CS109A/](https://harvard-iacs.github.io/2019-CS109A/){:target="_blank"}
 1. [https://huggingface.co/blog/Emma-N/enjoy-the-power-of-phi-3-with-onnx-runtime](https://huggingface.co/blog/Emma-N/enjoy-the-power-of-phi-3-with-onnx-runtime){:target="_blank"}
 1. [https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain){:target="_blank"}
@@ -1049,15 +1103,14 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [https://join.skillshare.com/jan2020-general/coupon=google2free](https://join.skillshare.com/jan2020-general/coupon=google2free){:target="_blank"}
 1. [https://kindlepreneur.com/the-thank-you-page/](https://kindlepreneur.com/the-thank-you-page/){:target="_blank"}
 1. [https://klu.ai/glossary/lmsys-leaderboard](https://klu.ai/glossary/lmsys-leaderboard){:target="_blank"}
-1. [https://learngpt.art/topics/61006004-12c6-4738-8e0b-685577a2ff8e/chapters/107e9a1a-69e7-43d3-9ed1-86f67ff1ab84](https://learngpt.art/topics/61006004-12c6-4738-8e0b-685577a2ff8e/chapters/107e9a1a-69e7-43d3-9ed1-86f67ff1ab84){:target="_blank"}
 1. [https://machinelearningmastery.com/save-load-keras-deep-learning-models/](https://machinelearningmastery.com/save-load-keras-deep-learning-models/){:target="_blank"}
 1. [https://makingindiaemployable.com/silver-dashboard/](https://makingindiaemployable.com/silver-dashboard/){:target="_blank"}
 1. [https://managementconsulted.com/lesson/consulting-101-what-is-management-consulted/](https://managementconsulted.com/lesson/consulting-101-what-is-management-consulted/){:target="_blank"}
 1. [https://mathdatasimplified.com/upgini-transform-raw-text-into-enriched-numeric-features/](https://mathdatasimplified.com/upgini-transform-raw-text-into-enriched-numeric-features/){:target="_blank"}
-1. [https://medium.com/@outside2SDs/an-overview-of-correlation-measures-between-categorical-and-continuous-variables-4c7f85610365](https://medium.com/@outside2SDs/an-overview-of-correlation-measures-between-categorical-and-continuous-variables-4c7f85610365){:target="_blank"}
-1. [https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/examples/company-research.html](https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/examples/company-research.html){:target="_blank"\}
+1. [An overview of correlation measures between categorical and continuous variables](https://medium.com/@outside2SDs/an-overview-of-correlation-measures-between-categorical-and-continuous-variables-4c7f85610365){:target="_blank"}
+1. [Conducting company research, or competitive analysis](https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/examples/company-research.html){:target="_blank"\}
 1. [https://morioh.com/topics/popular](https://morioh.com/topics/popular){:target="_blank"}
-1. [https://multiplatform.ai/neo4j-and-google-cloud-join-forces-to-empower-generative-ai-with-knowledge-graphs/](https://multiplatform.ai/neo4j-and-google-cloud-join-forces-to-empower-generative-ai-with-knowledge-graphs/){:target="_blank"}
+1. [Neo4j and Google Cloud Join Forces to Empower Generative AI with Knowledge Graph](https://multiplatform.ai/neo4j-and-google-cloud-join-forces-to-empower-generative-ai-with-knowledge-graphs/){:target="_blank"}
 1. [https://paperswithcode.com/paper/albert-a-lite-bert-for-self-supervised](https://paperswithcode.com/paper/albert-a-lite-bert-for-self-supervised){:target="_blank"}
 1. [https://pathmind.com/wiki/word2vec#sequence](https://pathmind.com/wiki/word2vec#sequence){:target="_blank"}
 1. [https://pbpython.com/categorical-encoding.html](https://pbpython.com/categorical-encoding.html){:target="_blank"}
@@ -1069,11 +1122,10 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [https://scikit-image.org/docs/dev/auto_examples/applications/plot_face_detection.html](https://scikit-image.org/docs/dev/auto_examples/applications/plot_face_detection.html){:target="_blank"}
 1. [https://scikit-image.org/docs/dev/auto_examples/applications/plot_geometric.html](https://scikit-image.org/docs/dev/auto_examples/applications/plot_geometric.html){:target="_blank"}
 1. [https://scikit-learn.org/stable/modules/preprocessing.html](https://scikit-learn.org/stable/modules/preprocessing.html){:target="_blank"}
-1. [https://scroll.in/video/925491/watch-six-indian-origin-children-are-among-the-eight-co-champions-of-the-us-national-spelling-bee](https://scroll.in/video/925491/watch-six-indian-origin-children-are-among-the-eight-co-champions-of-the-us-national-spelling-bee){:target="_blank"}
+1. [Six Indian-origin children are among the eight co-champions of the US national spelling bee](https://scroll.in/video/925491/watch-six-indian-origin-children-are-among-the-eight-co-champions-of-the-us-national-spelling-bee){:target="_blank"}
 1. [https://sebastianraschka.com/Articles/2014_about_feature_scaling.html](https://sebastianraschka.com/Articles/2014_about_feature_scaling.html){:target="_blank"}
 1. [https://shapeofdata.wordpress.com/2014/03/04/k-modes/](https://shapeofdata.wordpress.com/2014/03/04/k-modes/){:target="_blank"}
 1. [https://sotabench.com/benchmarks/object-detection-on-coco-minival](https://sotabench.com/benchmarks/object-detection-on-coco-minival){:target="_blank"}
-1. [https://stackexchange.com/users/15108851/hari-thapliyaltab=inbox&_=1493690910](https://stackexchange.com/users/15108851/hari-thapliyaltab=inbox&_=1493690910){:target="_blank"}
 1. [https://stats.stackexchange.com/questions/352383/how-to-calculate-p-value-for-multivariate-linear-regression](https://stats.stackexchange.com/questions/352383/how-to-calculate-p-value-for-multivariate-linear-regression){:target="_blank"}
 1. [https://stats.stackexchange.com/questions/68391/hessian-of-logistic-function](https://stats.stackexchange.com/questions/68391/hessian-of-logistic-function){:target="_blank"}
 1. [https://towardsdatascience.com/data-manipulation-for-machine-learning-with-pandas-ab23e79ba5de](https://towardsdatascience.com/data-manipulation-for-machine-learning-with-pandas-ab23e79ba5de){:target="_blank"}
@@ -1115,7 +1167,7 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [https://www.einfochips.com/blog/addressing-challenges-associated-with-imbalanced-datasets-in-machine-learning/](https://www.einfochips.com/blog/addressing-challenges-associated-with-imbalanced-datasets-in-machine-learning/){:target="_blank"}
 1. [https://www.einfochips.com/intelligent-vision-solutions-for-future-enterprise/](https://www.einfochips.com/intelligent-vision-solutions-for-future-enterprise/){:target="_blank"}
 1. [https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/](https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/){:target="_blank"}
-1. [https://www.freethink.com/technology/smart-contact-lensfbclid=IwAR2tKiAKYAB02YxqGPCSfpRQ4nQHPwiFvwKzJI-4D_XFbbkfWs-q2igEC5A](https://www.freethink.com/technology/smart-contact-lensfbclid=IwAR2tKiAKYAB02YxqGPCSfpRQ4nQHPwiFvwKzJI-4D_XFbbkfWs-q2igEC5A){:target="_blank"}
+1. [https://www.freethink.com/technology/(https://www.freethink.com/technology/){:target="_blank"}
 1. [https://www.geeksforgeeks.org/python-pandas-dataframe-corr/](https://www.geeksforgeeks.org/python-pandas-dataframe-corr/){:target="_blank"}
 1. [https://www.guru99.com/word-embedding-word2vec.html](https://www.guru99.com/word-embedding-word2vec.html){:target="_blank"}
 1. [https://www.hindawi.com/journals/cin/2020/2860479/](https://www.hindawi.com/journals/cin/2020/2860479/){:target="_blank"}
