@@ -41,6 +41,18 @@ jobs:
           name: site
           path: _site
       
+      - name: Ensure gh-pages branch exists
+        run: |
+          git fetch origin
+          if ! git show-ref --verify --quiet refs/heads/gh-pages; then
+            git checkout --orphan gh-pages
+            git reset --hard
+            git commit --allow-empty -m "Initialize gh-pages branch"
+            git push origin gh-pages
+          else
+            git checkout gh-pages
+          fi
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
