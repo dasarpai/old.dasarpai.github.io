@@ -132,6 +132,10 @@
   <meta name="baidu-site-verification" content="{{ site.baidu_site_verification }}">
 {% endif %}
 
+{% if site.algolia-site-verification %}
+   <meta name="algolia-site-verification"  content="456D272E443DB693" />
+{% endif %}
+
 {% if page.keywords %}
   <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
 {% endif %}

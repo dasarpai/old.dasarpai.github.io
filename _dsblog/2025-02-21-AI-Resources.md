@@ -86,47 +86,48 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 
 
 ## AI Image/Thumnail Generation Tools
-1. [https://app.artflow.ai/](https://app.artflow.ai/)
+1. [https://www.futurepedia.io/ai-tools/art-generators/best](https://www.futurepedia.io/ai-tools/art-generators/best){:target="_blank"}
+1. [https://app.artflow.ai/](https://app.artflow.ai/){:target="_blank"}
 1. [https://app.haikei.app/](https://app.haikei.app/){:target="_blank"}
-1. [https://app.leonardo.ai/image-generation](https://app.leonardo.ai/image-generation)
-1. [https://app.pixverse.ai/onboard](https://app.pixverse.ai/onboard)
-1. [https://app.runwayml.com/](https://app.runwayml.com/)
+1. [https://app.leonardo.ai/image-generation](https://app.leonardo.ai/image-generation){:target="_blank"}
+1. [https://app.pixverse.ai/onboard](https://app.pixverse.ai/onboard){:target="_blank"}
+1. [https://app.runwayml.com/](https://app.runwayml.com/){:target="_blank"}
 1. [https://beta.dreamstudio.ai/dream](https://beta.dreamstudio.ai/dream){:target="_blank"}
-1. [https://character.ai/](https://character.ai/)
-1. [https://chat.mistral.ai/](https://chat.mistral.ai/)
+1. [https://character.ai/](https://character.ai/){:target="_blank"}
+1. [https://chat.mistral.ai/](https://chat.mistral.ai/){:target="_blank"}
 1. [https://designer.microsoft.com/](https://designer.microsoft.com/){:target="_blank"}
-1. [https://designer.microsoft.com/image-creator](https://designer.microsoft.com/image-creator)
-1. [https://dream-machine.lumalabs.ai/board/new](https://dream-machine.lumalabs.ai/board/new)
+1. [https://designer.microsoft.com/image-creator](https://designer.microsoft.com/image-creator){:target="_blank"}
+1. [https://dream-machine.lumalabs.ai/board/new](https://dream-machine.lumalabs.ai/board/new){:target="_blank"}
 1. [https://dreamstudio.ai/generate](https://dreamstudio.ai/generate){:target="_blank"}
-1. [https://fal.ai/models/fal-ai/flux/dev](https://fal.ai/models/fal-ai/flux/dev)
-1. [https://fal.ai/models/fal-ai/flux/schnell/playground](https://fal.ai/models/fal-ai/flux/schnell/playground)
-1. [https://firefly.adobe.com/](https://firefly.adobe.com/)
-1. [https://firefly.adobe.com/generate/](https://firefly.adobe.com/generate/){:target="_blank"}
-1. [https://gemini.google.com/app](https://gemini.google.com/app)
+1. [https://fal.ai/models/fal-ai/flux/dev](https://fal.ai/models/fal-ai/flux/dev){:target="_blank"}
+1. [https://fal.ai/models/fal-ai/flux/schnell/playground](https://fal.ai/models/fal-ai/flux/schnell/playground){:target="_blank"}
+1. [https://firefly.adobe.com/](https://firefly.adobe.com/){:target="_blank"}
+1. [https://gemini.google.com/app](https://gemini.google.com/app){:target="_blank"}
 1. [https://generated.photos/](https://generated.photos/){:target="_blank"}
-1. [https://grok.com/](https://grok.com/)
-1. [https://ideogram.ai/t/explore](https://ideogram.ai/t/explore)
+1. [https://grok.com/](https://grok.com/){:target="_blank"}
+1. [https://ideogram.ai/t/explore](https://ideogram.ai/t/explore){:target="_blank"}
 1. [https://pictory.ai/](https://pictory.ai/){:target="_blank"}
-1. [https://pika.art/](https://pika.art/)
+1. [https://pika.art/](https://pika.art/){:target="_blank"}
 1. [https://this-person-does-not-exist.com/en](https://this-person-does-not-exist.com/en){:target="_blank"}
-1. [https://vercel.com/reactjs-projects-projects/~/ai/models/sdxl](https://vercel.com/reactjs-projects-projects/~/ai/models/sdxl)
+1. [https://vercel.com/reactjs-projects-projects/~/ai/models/sdxl](https://vercel.com/reactjs-projects-projects/~/ai/models/sdxl){:target="_blank"}
 1. [https://www.adobe.com/in/products/catalog.html](https://www.adobe.com/in/products/catalog.html){:target="_blank"}
 1. [https://www.app.artflow.ai/](https://www.app.artflow.ai/){:target="_blank"}
-1. [https://www.canva.com/](https://www.canva.com/)
-1. [https://www.futurepedia.io/ai-tools/art-generators/best](https://www.futurepedia.io/ai-tools/art-generators/best){:target="_blank"}
-1. [https://www.krea.ai/](https://www.krea.ai/)
+1. [https://www.canva.com/](https://www.canva.com/){:target="_blank"}
+1. [https://www.krea.ai/](https://www.krea.ai/){:target="_blank"}
 1. [https://www.synthesia.io/](https://www.synthesia.io/){:target="_blank"}
 
 ## AI Video Generator Tools
-1. [https://app.ltx.studio/](https://app.ltx.studio/)
-1. [https://app.pixverse.ai/onboard](https://app.pixverse.ai/onboard)
-1. [https://app.runwayml.com/](https://app.runwayml.com/)
-1. [https://dream-machine.lumalabs.ai/](https://dream-machine.lumalabs.ai/)
-1. [https://hailuoai.video/](https://hailuoai.video/)
-1. [https://pika.art/](https://pika.art/)
-1. [https://pollo.ai/template](https://pollo.ai/template)
-1. [https://www.genmo.ai/](https://www.genmo.ai/)
-1. [https://www.krea.ai/](https://www.krea.ai/)
+1. [https://www.futurepedia.io/ai-tools/art](https://www.futurepedia.io/ai-tools/art){:target="_blank"}
+1. [https://app.ltx.studio/](https://app.ltx.studio/){:target="_blank"}
+1. [https://app.pixverse.ai/onboard](https://app.pixverse.ai/onboard){:target="_blank"}
+1. [https://app.runwayml.com/](https://app.runwayml.com/){:target="_blank"}
+1. [https://dream-machine.lumalabs.ai/](https://dream-machine.lumalabs.ai/){:target="_blank"}
+1. [https://elai.io/](https://elai.io/){:target="_blank"}
+1. [https://hailuoai.video/](https://hailuoai.video/){:target="_blank"}
+1. [https://pika.art/](https://pika.art/){:target="_blank"}
+1. [https://pollo.ai/template](https://pollo.ai/template){:target="_blank"}
+1. [https://www.genmo.ai/](https://www.genmo.ai/){:target="_blank"}
+1. [https://www.krea.ai/](https://www.krea.ai/){:target="_blank"}
 
 ## Job hunt and Business Hunt Tools
 1. [https://allremote.jobs/](https://allremote.jobs/){:target="_blank"}
@@ -371,7 +372,6 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [https://www.eleuther.ai/](https://www.eleuther.ai/){:target="_blank"}
 1. [https://www.fixie.ai/](https://www.fixie.ai/){:target="_blank"}
 1. [https://www.forthought.tools](https://www.forthought.tools/){:target="_blank"\}
-1. [https://www.futurepedia.io/](https://www.futurepedia.io/){:target="_blank"}
 1. [https://www.gapminder.org/](https://www.gapminder.org/){:target="_blank"}
 1. [https://www.geogebra.org/graphing](https://www.geogebra.org/graphing){:target="_blank"}
 1. [https://www.gitbook.com/](https://www.gitbook.com/){:target="_blank"}
@@ -874,7 +874,8 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [https://www.springer.com/in](https://www.springer.com/in){:target="_blank"}
 
 
-## Conferences, Research Publication
+## Conferences, Research Journals and Publishers
+1. [https://arxiv.org/](https://arxiv.org/){:target="_blank"}
 1. [http://eacl.org/](http://eacl.org/){:target="_blank"}
 1. [http://lrec-conf.org/](http://lrec-conf.org/){:target="_blank"}
 1. [http://naacl.org/](http://naacl.org/){:target="_blank"}
@@ -895,6 +896,7 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [https://transacl.org/index.php/tacl/issue/view/17](https://transacl.org/index.php/tacl/issue/view/17){:target="_blank"}
 1. [https://www.aaai.org/](https://www.aaai.org/){:target="_blank"}
 1. [https://www.aclweb.org/portal/](https://www.aclweb.org/portal/){:target="_blank"}
+1. [http://www.jmlr.org/](http://www.jmlr.org/){:target="_blank"}
 1. [https://www.mitpressjournals.org/loi/coli](https://www.mitpressjournals.org/loi/coli){:target="_blank"}
 1. [https://www.sciencedirect.com/](https://www.sciencedirect.com/){:target="_blank"}
 1. [https://www.springer.com/gp/computer-science/ai](https://www.springer.com/gp/computer-science/ai){:target="_blank"}
@@ -905,7 +907,6 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 ## AI Blogs to Learn News aboutCurrent Development
 1. [http://blog.kaggle.com/](http://blog.kaggle.com/){:target="_blank"}
 1. [http://www.deeplearningbook.org](http://www.deeplearningbook.org){:target="_blank"}
-1. [http://www.jmlr.org/](http://www.jmlr.org/){:target="_blank"}
 1. [https://24x7coach.com/](https://24x7coach.com/){:target="_blank"}
 1. [https://ai.google/](https://ai.google/){:target="_blank"}
 1. [https://aihub.org/](https://aihub.org/){:target="_blank"}
@@ -1167,7 +1168,7 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [https://www.einfochips.com/blog/addressing-challenges-associated-with-imbalanced-datasets-in-machine-learning/](https://www.einfochips.com/blog/addressing-challenges-associated-with-imbalanced-datasets-in-machine-learning/){:target="_blank"}
 1. [https://www.einfochips.com/intelligent-vision-solutions-for-future-enterprise/](https://www.einfochips.com/intelligent-vision-solutions-for-future-enterprise/){:target="_blank"}
 1. [https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/](https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/){:target="_blank"}
-1. [https://www.freethink.com/technology/(https://www.freethink.com/technology/){:target="_blank"}
+1. [https://www.freethink.com/technology/](https://www.freethink.com/technology/){:target="_blank"}
 1. [https://www.geeksforgeeks.org/python-pandas-dataframe-corr/](https://www.geeksforgeeks.org/python-pandas-dataframe-corr/){:target="_blank"}
 1. [https://www.guru99.com/word-embedding-word2vec.html](https://www.guru99.com/word-embedding-word2vec.html){:target="_blank"}
 1. [https://www.hindawi.com/journals/cin/2020/2860479/](https://www.hindawi.com/journals/cin/2020/2860479/){:target="_blank"}
