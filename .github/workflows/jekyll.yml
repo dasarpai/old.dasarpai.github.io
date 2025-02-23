@@ -23,7 +23,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0'
+          ruby-version: '3.1'
           bundler-cache: true
           cache-version: 0
       - name: Setup Pages
@@ -59,3 +59,4 @@ jobs:
         with:
           branch: gh-pages # Ensure this matches your GitHub Pages branch
           folder: _site
+    timeout-minutes: 30 # Increase the timeout if needed
