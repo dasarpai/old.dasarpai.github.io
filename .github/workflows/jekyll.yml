@@ -1,5 +1,4 @@
 name: Deploy Jekyll site to Pages
-
 on:
   push:
     branches: ["main"]
@@ -27,7 +26,12 @@ jobs:
           ruby-version: '3.0'
           bundler-cache: true
           cache-version: 0
-      
+
+      - name: Set up Git user
+        run: |
+          git config --global user.email "hari@dasarpai.com"
+          git config --global user.name "dasarpai"
+          
       - name: Build the site
         run: |
           bundle install
