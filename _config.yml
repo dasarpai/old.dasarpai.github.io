@@ -215,7 +215,7 @@ include:
   - _pmbok6hi 
   - _pmblog 
   - _quotations
-  - _wiablog 
+  - _wiapost 
   - _management
   - _samskrut
   - _dscourses
@@ -320,17 +320,18 @@ pagination:
         per_page: 10
         permalink: '/page/:num/'
         title: ':title - page :num'
-    wiablog:  
-        collection: 'wiablog'
+    wiapost:  
+        collection: 'wiapost'
         per_page: 10
         permalink: '/page/:num/'
         title: ':title - page :num'
  
 
 feed:
+  path: feed.xml
   collections:
     - dsblog
-    - wiablog
+    - wiapost
     - pmblog
 
 # Plugins (previously gems:)
@@ -559,10 +560,10 @@ defaults:
       sidebar:
         nav: "docs"  
       
-  # _wiablog
+  # _wiapost
   - scope:
-      path: "_wiablog"
-      type: wiablog
+      path: "_wiapost"
+      type: wiapost
     values:
       layout: wiapost-layout
       author_profile: true
@@ -720,9 +721,9 @@ collections:
   quotations:
     output: true
     permalink: /quotations1/:categories/:title/
-  wiablog:
+  wiapost:
     output: true
-    permalink: /wiablog1/:categories/:title/
+    permalink: /wiapost1/:categories/:title/
  
   pmblog:
     output: true

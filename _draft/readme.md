@@ -11,7 +11,7 @@ pmblog : 1000
 pmbok6hi : 2000
 pmbok6 : 3000
 samskrut : 4000
-wiablog: 5000
+wiapost: 5000
 dsblog : 6001
 gk : 7001
 booksummary: 7501

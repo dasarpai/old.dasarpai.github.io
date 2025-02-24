@@ -1,0 +1,24 @@
+---
+layout: null
+permalink: /pmblog/feed.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.title }} - pmblog</title>
+  <link href="{{ site.url }}/pmblog/feed.xml" rel="self"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <author>
+    <name>{{ site.author.name }}</name>
+    <email>{{ site.author.email }}</email>
+  </author>
+
+  {% for post in site.pmblog %}
+  <entry>
+    <title>{{ post.title }}</title>
+    <link href="{{ site.url }}{{ post.url }}"/>
+    <id>{{ site.url }}{{ post.url }}</id>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <summary>{{ post.excerpt | strip_html }}</summary>
+  </entry>
+  {% endfor %}
+</feed>

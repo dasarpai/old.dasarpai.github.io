@@ -3,7 +3,7 @@ id: 737
 title: Wisdom in Awareness Blog
 layout: collection
 permalink: /wiaposts
-collection: wiablog
+collection: wiapost
 entries_layout: grid
 author_profile: true
 classes: wide

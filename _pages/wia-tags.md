@@ -15,7 +15,7 @@ sidebar:
 
 ## Welcome to dasarpAI WIA Blogs - Posts!
 
-{% include group-by-array collection=site.wiablog field="tags" %}
+{% include group-by-array collection=site.wiapost field="tags" %}
 
 {% for tag in group_names %}
 {% assign posts = group_items[forloop.index0] %}
