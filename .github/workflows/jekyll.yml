@@ -1,5 +1,4 @@
 name: Deploy Jekyll site to Pages
-
 on:
   push:
     branches: ["main"]
@@ -16,7 +15,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest  # Changed to match deploy job
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -30,7 +29,7 @@ jobs:
       
       - name: Clear cache
         run: rm -rf vendor/bundle
-
+      
       - name: Install dependencies
         run: bundle install
       
@@ -44,9 +43,8 @@ jobs:
           JEKYLL_ENV: production
       
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v3  # Changed to pages-specific artifact action
         with:
-          name: site
           path: ./_site
 
   deploy:
@@ -56,12 +54,6 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Download artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: github-pages
-          path: ./_site
-      
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
