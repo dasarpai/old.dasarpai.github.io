@@ -59,12 +59,9 @@ jobs:
       - name: Download artifact
         uses: actions/download-artifact@v4
         with:
-          name: site
+          name: github-pages
           path: ./_site
       
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
-        with:
-          branch: gh-pages
-          folder: ./_site
