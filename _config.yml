@@ -327,6 +327,11 @@ pagination:
         title: ':title - page :num'
  
 
+feed:
+  collections:
+    - dsblog
+    - wiablog
+    - pmblog
 
 # Plugins (previously gems:)
 plugins:
