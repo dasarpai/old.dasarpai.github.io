@@ -23,7 +23,6 @@
   },
   "devDependencies": {
     "uglify-js": "^3.17.4",
-    "netlify-plugin-cache": "^1.0.0",
-    "netlify-plugin-minify-html": "^1.0.0"
+    "netlify-plugin-cache": "^1.0.0"
   }
 }
