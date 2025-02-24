@@ -2,18 +2,6 @@
   publish = "_site"
   command = "jekyll build"
 
-[[plugins]]
-  package = "netlify-plugin-minify-html"
-
-  [plugins.inputs]
-    contexts = ['production']
-    minifyCSS = true
-    minifyJS = true
-    removeComments = true
-    removeEmptyElements = true
-    removeOptionalTags = true
-    collapseWhitespace = true
-
 [build.processing]
   skip_processing = false
 [build.processing.css]
