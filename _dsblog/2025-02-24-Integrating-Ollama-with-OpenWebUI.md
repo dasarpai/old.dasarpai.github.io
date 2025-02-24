@@ -13,7 +13,7 @@ tags:
 categories:
   - dsblog
 header:
-  teaser: /assets/images/dspost/dsp6227-Integrating-Ollama-and-Open-WebUI-with-Docker.jpg
+  teaser: /assets/images/dspost/dsp6227-Integrating-Ollama-and-Open-WebUI-on-Docker.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout
@@ -137,7 +137,7 @@ services:
 
 ## Diagram Representation
 
-![](/assets/images/dspost/mermaid-code/Docker-Webui-Integration.jpg)
+![](/assets/images/dspost/mermaid-code/dsp6227-Docker-Webui-Integration.jpg)
 
 ## Conclusion
 

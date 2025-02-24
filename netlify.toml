@@ -1,0 +1,57 @@
+[build]
+  publish = "_site"
+  command = "jekyll build"
+
+[[plugins]]
+  package = "netlify-plugin-minify-html"
+
+  [plugins.inputs]
+    contexts = ['production']
+    minifyCSS = true
+    minifyJS = true
+    removeComments = true
+    removeEmptyElements = true
+    removeOptionalTags = true
+    collapseWhitespace = true
+
+[build.processing]
+  skip_processing = false
+[build.processing.css]
+  bundle = true
+  minify = true
+[build.processing.js]
+  bundle = true
+  minify = true
+[build.processing.html]
+  pretty_urls = true
+[build.processing.images]
+  compress = true
+  quality = 85
+  strip_metadata = true
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+    Access-Control-Allow-Origin = "*"
+
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
+
+[[plugins]]
+  package = "netlify-plugin-cache"
+  [plugins.inputs]
+    paths = [
+      "node_modules",
+      ".jekyll-cache"
+    ]

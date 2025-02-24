@@ -195,7 +195,7 @@ For additional details, refer to Microsoft's documentation:
 
 ## 7. Overall Solution Architecture Diagram
 Below is a diagram showing how Windows, WSL 2, Docker, and VS Code interact:
-![Develop-Env-with-Windows+WSL2+Docker](/assets/images/dspost/mermaid-code/Develop-Env-with-Windows+WSL2+Docker.jpg)
+![Develop-Env-with-Windows+WSL2+Docker](/assets/images/dspost/mermaid-code/dsp6222-Develop-Env-with-Windows+WSL2+Docker.jpg)
 
 
 ## 8. Conclusion
