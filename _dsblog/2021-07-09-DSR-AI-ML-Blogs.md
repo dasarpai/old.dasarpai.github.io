@@ -5,6 +5,8 @@ permalink: /dsblog/ai-ml-blogs
 date: 2021-07-12
 categories:
   - dsblog
+  - dsresources
+  
 tags: [DS Resources, AI Blogs]
 keywords: AI blogs, machine learning blogs, deep learning resources, data science websites, tech blogs, ML tutorials, AI news, research blogs, industry insights, educational resources
 header:

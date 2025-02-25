@@ -5,6 +5,8 @@ permalink: /dsblog/basic-statistics-for-data-science
 date: 2021-07-18
 categories:
   - dsblog
+  - dsresources
+  
 tags: [DS Resources, Basic Statistics, Statistics for Data Science]
 keywords: statistics fundamentals, data analysis, statistical methods, probability theory, descriptive statistics, inferential statistics, hypothesis testing, statistical distributions, correlation analysis, regression analysis
 header:

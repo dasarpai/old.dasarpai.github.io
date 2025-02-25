@@ -5,6 +5,8 @@ permalink: /dsblog/ds-ai-ml-interview-resources
 date: 2020-07-02
 categories:
   - dsblog
+  - dsresources
+  
 tags: 
   - Data Science Interview
   - Machine Learning Interview

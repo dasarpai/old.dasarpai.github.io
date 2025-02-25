@@ -67,7 +67,7 @@
 
 {% assign entries_layout = page.entries_layout | default: 'grid' %}
 <div class="entries-{{ entries_layout }}">
-  {% assign posts = site.dsblog | sort: 'date' | reverse %}
+  {% assign posts = site[page.collection] | sort: 'date' | reverse %}
   {% for post in posts %}
     {% include archive-single.html type=entries_layout %}
   {% endfor %}

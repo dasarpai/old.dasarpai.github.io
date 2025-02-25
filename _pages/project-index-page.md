@@ -108,7 +108,7 @@ This domain covers employee management, recruitment, training, compensation, and
 - [Github Repo](https://github.com/dasarpai/DAI-Projects-All/tree/main/HR/Employee-Attrition){:TARGET=""_BLANK""}
 - [Colab](https://colab.research.google.com/github/dasarpai/DAI-Projects-All/blob/main/HR/Employee-Attrition/Attrition_in_an_Organization_Python.ipynb){:TARGET=""_BLANK""}
 - [HR Analysis of Employee Attrition & Performance - R](https://www.kaggle.com/code/harithapliyal/attrition-in-an-organization-why-employees-quit){:TARGET=""_BLANK""}
-"- **Objective:** Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.
+- **Objective:** Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.
 - [Github dataset](https://github.com/dasarpai/DAI-Datasets/blob/main/WA_Fn-UseC_-HR-Employee-Attrition.csv){:TARGET=""_BLANK""}
 - [HR Analysis of Employee Attrition & Performance - Python](https://www.kaggle.com/code/harithapliyal/attrition-in-an-organization-python){:TARGET=""_BLANK""}
 

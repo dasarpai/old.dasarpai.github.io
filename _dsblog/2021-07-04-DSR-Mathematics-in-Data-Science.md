@@ -5,6 +5,8 @@ permalink: /dsblog/maths-for-ds
 date: 2021-07-04
 categories:
   - dsblog
+  - dsresources
+  
 tags: 
   - Mathematics for Data Science
   - Linear Algebra

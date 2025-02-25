@@ -5,6 +5,8 @@ permalink: /dsblog/important-ai-research-papers
 date: 2021-07-05
 categories:
   - dsblog
+  - dsresources
+  
 tags:
   - AI Research Papers
   - Machine Learning Publications

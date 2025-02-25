@@ -5,6 +5,8 @@ permalink: /dsblog/ds-ai-ml-researchers
 date: 2021-07-17
 categories:
   - dsblog
+  - dsresources
+  
 tags: [DS Resources, AI Researchers, ML Researchers, NLP Researchers]
 keywords: data scientists, AI researchers, machine learning experts, NLP researchers, research profiles, academic researchers, industry experts, AI pioneers, ML practitioners, data science leaders
 header:

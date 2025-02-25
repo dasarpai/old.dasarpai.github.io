@@ -5,6 +5,8 @@ permalink: /dsblog/AI-ML-Resources-from-My-Diary
 date: '2021-07-21T15:50:00+05:30'
 categories:
   - dsblog
+  - dsresources
+  
 tags: [DS Resources, AI Diary] 
 keywords: personal notes, AI resources, machine learning references, learning materials, research papers, technical articles, educational content, AI tools, ML frameworks, development resources
 header:

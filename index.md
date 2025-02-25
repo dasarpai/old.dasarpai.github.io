@@ -2,6 +2,7 @@
 layout: home
 title: DasarpAI
 author_profile: true
+collection: dsblog
 ---
 
 <style>
@@ -160,8 +161,8 @@ AI is software, but AI projects are not like typical software projects. They hav
 
 ## Welcome to my Data Science/AI Blog
 <!-- dsblog listing starts. -->
-
-{% include home-dsblog.html %}
+<!-- to get the dsblog collection items only; in the front page header set collection=dsblog-->
+{% include getcollection-items.html %}
 
 <!-- dsblog listing ends. -->
 

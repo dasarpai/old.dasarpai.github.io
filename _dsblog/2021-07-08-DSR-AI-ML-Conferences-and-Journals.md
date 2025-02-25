@@ -5,6 +5,8 @@ permalink: /dsblog/ai-ml-dl-nlp-conferences
 date: 2021-07-08
 categories:
   - dsblog
+  - dsresources
+  
 tags: [DS Resources, AI Conferences, Machine Learning Conferences, NLP Conferences, Deep Learning Conferences]
 keywords: AI conferences, machine learning journals, deep learning conferences, NLP symposiums, academic publications, research conferences, ICML, NeurIPS, ICLR, ACL, AAAI conference
 header:

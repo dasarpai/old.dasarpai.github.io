@@ -5,6 +5,8 @@ permalink: /dsblog/best-youtube-channels-for-ds
 date: 2021-07-07
 categories:
   - dsblog
+  - dsresources
+  
 tags: [DS Resources, YouTube Channels for Data Scientist, YouTube Channels for AI, Online Learning, Educational Content, Data Science Education]
 keywords: data science youtube channels, machine learning tutorials, AI education, online data science courses, programming tutorials, mathematics for data science, statistics learning, python tutorials, data analysis videos, educational resources
 header:

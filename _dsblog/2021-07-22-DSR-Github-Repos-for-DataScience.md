@@ -5,6 +5,8 @@ permalink: /dsblog/Github-Repos-for-DataScience
 date: '2021-07-22T15:50:00+05:30'
 categories:
   - dsblog
+  - dsresources
+  
 tags: [DS Resources, Github Repos] 
 keywords: github repositories, data science projects, machine learning code, open source ML, data analysis tools, python libraries, AI frameworks, code examples, learning resources, development tools
 header:

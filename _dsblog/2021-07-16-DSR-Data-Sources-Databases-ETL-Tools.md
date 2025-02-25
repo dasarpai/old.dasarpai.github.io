@@ -6,6 +6,8 @@ date: 2021-07-16
 tags: [DS Resources, Data Sources, Databases, ETL Tools] 
 categories:
   - dsblog
+  - dsresources
+  
 keywords: data sources, ETL tools, database management, data integration, data warehousing, data pipeline, data transformation, data storage, data processing, business intelligence
 header:
    teaser: /assets/images/dsresources/dsr116-Data-Sources-Databases-ETL-Tools.jpg

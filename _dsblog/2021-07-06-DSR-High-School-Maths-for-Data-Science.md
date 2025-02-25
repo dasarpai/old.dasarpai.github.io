@@ -5,6 +5,8 @@ permalink: /dsblog/high-school-maths-for-ds
 date: 2021-07-06
 categories:
   - dsblog
+  - dsresources
+  
 tags:
   - Basic Mathematics
   - Data Science Fundamentals

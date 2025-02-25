@@ -5,6 +5,8 @@ permalink: /dsblog/data-science-tutorial-video-resources
 date: 2020-07-02
 categories:
   - dsblog
+  - dsresources
+  
 tags: [DS Resources, AI, Data Science, Machine Learning, Online Tutorial, Online Video]
 keywords: online courses, data science tutorials, machine learning courses, AI education, video tutorials, online learning, MOOCs, educational resources, e-learning, programming tutorials
 excerpt: "Comprehensive collection of online courses, tutorials, and video resources for learning Data Science, AI, and Machine Learning. Find the best educational content from top institutions and instructors."

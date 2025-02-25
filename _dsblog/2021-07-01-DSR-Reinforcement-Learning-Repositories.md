@@ -15,6 +15,8 @@ tags:
 keywords: reinforcement learning repositories, RL GitHub projects, machine learning resources, deep learning frameworks, AI development tools, TensorFlow RL, PyTorch RL, Q-learning implementations, deep reinforcement learning code, RL algorithms, OpenAI baselines, DeepMind repositories, RL frameworks
 categories:
   - dsblog 
+  - dsresources
+  
 header:
     teaser:  /assets/images/dsresources/dsr101-Reinforcement-Learning-Git-Repositories.jpg
 excerpt_separator: "<!--more-->"   

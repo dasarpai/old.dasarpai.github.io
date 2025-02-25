@@ -5,6 +5,8 @@ permalink: /dsblog/myfab-chrome-extensions
 date: 2021-07-11
 categories:
   - dsblog
+  - dsresources
+  
 tags: [DS Resources, Chrome Tools, Chrome Extensions]
 keywords: chrome extensions, browser tools, productivity tools, web development extensions, research tools, browser plugins, chrome addons, web utilities, browser enhancement, developer tools
 header:

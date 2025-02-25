@@ -5,6 +5,8 @@ permalink: /dsblog/my-daily-tools
 date: 2021-07-12
 categories:
   - dsblog
+  - dsresources
+  
 tags: [DS Resources, Daily Tools, Soft Tools, PM Tools, Design Tools, SEO Tools, AI Tools]
 keywords: productivity tools, software tools, project management software, design tools, SEO tools, AI applications, file converters, screen capture tools, collaboration software, development tools
 header:

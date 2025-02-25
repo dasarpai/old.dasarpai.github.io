@@ -268,7 +268,7 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
-incremental: true
+incremental: false
 
 
 # Markdown Processing
@@ -328,11 +328,13 @@ pagination:
  
 
 feed:
-  path: feed.xml
   collections:
     - dsblog
-    - wiapost
+    - booksummary
+    - samskrutyatra
     - pmblog
+    - wiapost
+
 
 # Plugins (previously gems:)
 plugins:

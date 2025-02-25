@@ -5,6 +5,8 @@ permalink: /dsblog/ds-ai-ml-books
 date: 2022-07-20
 categories:
   - dsblog
+  - dsresources
+  
 tags: [DS Resources, AI, Data Science, Machine Learning, eBook, Data Science Books]
 keywords: data science books, AI textbooks, machine learning resources, programming books, technical ebooks, learning materials, educational PDFs, computer science literature, academic resources, reference guides
 header:

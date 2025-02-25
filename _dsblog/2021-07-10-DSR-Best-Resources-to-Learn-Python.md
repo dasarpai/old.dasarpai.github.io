@@ -5,6 +5,8 @@ permalink: /dsblog/best-resources-to-learn-python
 date: 2021-07-10
 categories:
   - dsblog
+  - dsresources
+  
 tags: [DS Resources, Resource for Python Learning, Python Resources]
 keywords: python tutorials, learn python programming, python for beginners, python courses, coding resources, programming tutorials, data science python, python libraries, python documentation, online learning
 excerpt: "Comprehensive collection of the best resources for learning Python programming - from beginner tutorials to advanced courses, documentation, and practical examples for data science applications."

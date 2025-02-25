@@ -12,6 +12,8 @@ tags:
   - AI Business Tools
 categories:
   - dsblog
+  - dsresources
+
 header:
   teaser: /assets/images/dspost/dsp6224-AI-Resources.jpg
 excerpt_separator: "<!--more-->"
@@ -84,6 +86,9 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [https://www.rev.com/pricing](https://www.rev.com/pricing){:target="_blank"}
 1. [https://www.udio.com/](https://www.udio.com/){:target="_blank"}
 
+### Desktop Audio Tools
+1. [https://www.audacityteam.org/](https://www.audacityteam.org/){:target="_blank"} : Most popular free software for recording and editing audio 
+
 
 ## AI Image/Thumnail Generation Tools
 1. [https://www.futurepedia.io/ai-tools/art-generators/best](https://www.futurepedia.io/ai-tools/art-generators/best){:target="_blank"}
@@ -116,6 +121,11 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [https://www.krea.ai/](https://www.krea.ai/){:target="_blank"}
 1. [https://www.synthesia.io/](https://www.synthesia.io/){:target="_blank"}
 
+### Desktop Image Tools
+1. [https://imagemagick.org/](https://imagemagick.org/index.php)
+1. [https://www.gimp.org/](https://www.gimp.org/)
+
+
 ## AI Video Generator Tools
 1. [https://www.futurepedia.io/ai-tools/art](https://www.futurepedia.io/ai-tools/art){:target="_blank"}
 1. [https://app.ltx.studio/](https://app.ltx.studio/){:target="_blank"}
@@ -128,6 +138,10 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [https://pollo.ai/template](https://pollo.ai/template){:target="_blank"}
 1. [https://www.genmo.ai/](https://www.genmo.ai/){:target="_blank"}
 1. [https://www.krea.ai/](https://www.krea.ai/){:target="_blank"}
+
+### Desktop Video Tools
+1. OBS Studio 
+
 
 ## Job hunt and Business Hunt Tools
 1. [https://allremote.jobs/](https://allremote.jobs/){:target="_blank"}
@@ -537,7 +551,6 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [https://www.ijcse.com/aim-and-scope.html](https://www.ijcse.com/aim-and-scope.html){:target="_blank"\}
 1. [https://www.java.com/download/ie_manual.jsp](https://www.java.com/download/ie_manual.jsp){:target="_blank"\}
 1. [https://www.mycompiler.io/](https://www.mycompiler.io/){:target="_blank"\}
-1. [https://www.overleaf.com/project/64d39a8ffcf4fb111d940e90](https://www.overleaf.com/project/64d39a8ffcf4fb111d940e90){:target="_blank"\}
 1. [https://www.raais.org/](https://www.raais.org/){:target="_blank"\}
 1. [https://www.reddit.com/r/MachineLearning/](https://www.reddit.com/r/MachineLearning/){:target="_blank"\}
 1. [https://www.singlestore.com/pricing/](https://www.singlestore.com/pricing/){:target="_blank"\}
@@ -840,6 +853,12 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [https://www.whatplugin.ai/plugins/access-pdf-amp-docs](https://www.whatplugin.ai/plugins/access-pdf-amp-docs){:target="_blank"}
 1. [https://www.wolframalpha.com/](https://www.wolframalpha.com/){:target="_blank"}
 1. [https://www.zamzar.com/](https://www.zamzar.com/){:target="_blank"}
+
+
+### Desktop Assorted Tools
+1. [https://windirstat.net/](https://windirstat.net/){:target="_blank"} - WinDirStat is a disk usage statistics viewer and cleanup assistant for Microsoft Windows clients and servers
+1. [https://protonvpn.com/](https://protonvpn.com/){:target="_blank"} - Gain unrestricted access to global content, block annoying ads, and safeguard your privacy with a fast and secure VPN.
+1. [https://www.texstudio.org/](https://www.texstudio.org/){:target="_blank"}
 
 
 ## Pedagogy Tools

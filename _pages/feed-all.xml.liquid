@@ -1,0 +1,41 @@
+---
+layout: null
+permalink: /all/feed.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}</link>
+    <atom:link href="{{ site.url }}/all/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    
+    {% assign dsblog_posts = site.dsblog | default: empty_array %}
+    {% assign wiapost_posts = site.wiapost | default: empty_array %}
+    {% assign pmblog_posts = site.pmblog | default: empty_array %}
+    {% assign booksummary_posts = site.booksummary | default: empty_array %}
+    {% assign booksummary_posts = site.booksummary | default: empty_array %}
+    {% assign all_posts = dsblog_posts | concat: wiapost_posts | concat: pmblog_posts | concat: booksummary_posts %}
+    
+    {% assign valid_posts = '' | split: '' %}
+    {% for post in all_posts %}
+      {% if post.date %}
+        {% assign valid_posts = valid_posts | push: post %}
+      {% endif %}
+    {% endfor %}
+    
+    {% assign sorted_posts = valid_posts | sort: 'date' | reverse %}
+
+    {% for post in sorted_posts limit:30 %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        <link>{{ site.url }}{{ post.url }}</link>
+        <description>{{ post.excerpt | xml_escape }}</description>
+        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
