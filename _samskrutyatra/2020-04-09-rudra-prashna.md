@@ -8,7 +8,7 @@ permalink: /samskrutyatra/rudra-prashna
 redirect_from: 
   - '/samskrut/rudra-prashna'
 tags: [Chanting, Upanishad]    
-categories:    
+categories:  [Chanting]  
     
 header:    
    teaser: /assets/images/samskrut/Upanishad.jpg    

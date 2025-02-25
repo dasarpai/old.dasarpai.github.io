@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/sri-madana-mohana-ashtakam
 redirect_from: 
   - '/samskrut/sri-madana-mohana-ashtakam'
-tags: [Krishna, Chanting]    
-categories:    
+tags: [Krishna, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/Krishna.jpg    

@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/gurvashtaka
 redirect_from: 
   - '/samskrut/gurvashtaka'
-tags: [Guru, Chanting]    
-categories:    
+tags: [Guru, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/Sri-Ramakrishna.jpg    

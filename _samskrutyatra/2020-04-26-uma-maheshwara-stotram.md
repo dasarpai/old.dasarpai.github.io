@@ -8,7 +8,7 @@ permalink: /samskrutyatra/uma-maheshwara-stotram
 redirect_from: 
   - '/samskrut/uma-maheshwara-stotram'
 tags: [Shiva, Chanting, Stotram]    
-categories:    
+categories: [Chanting]   
     
 header:    
    teaser: /assets/images/samskrut/Umamaheshwar.jpg    

@@ -7,15 +7,15 @@ layout: samskrut-layout
 permalink: /samskrutyatra/parsat-pad-paavan
 redirect_from: 
   - '/samskrut/parsat-pad-paavan'
-tags: [Ramcharit Manas Chandas, Chanting]    
-categories:    
+tags: [Ramcharit Manas Chandas, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/RamcharaitMaanas.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "परसत पद पावन सोक नसावन प्रगट भई तपपुंज सही। देखत रघुनायक जन सुख दायक सनमुख होइ कर जोरि रही"   
     
 share: true    
 ---    

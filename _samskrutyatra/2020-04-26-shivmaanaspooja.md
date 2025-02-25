@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/shivmaanaspooja
 redirect_from: 
   - '/samskrut/shivmaanaspooja'
-tags: [Shiva, Chanting]    
-categories:    
+tags: [Shiva, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/Shiva.jpg    

@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/sankara-deshika-shatakam-totakaashtakam
 redirect_from: 
   - '/samskrut/sankara-deshika-shatakam-totakaashtakam'
-tags: [Shiva, Chanting]    
-categories:    
+tags: [Shiva, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/Shiva.jpg    

@@ -7,27 +7,24 @@ layout: samskrut-layout
 permalink: /samskrutyatra/rudraghan-paath
 redirect_from: 
   - '/samskrut/rudraghan-paath'
-tags: [Shiva, Chanting]    
-categories:    
+tags: [Shiva, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/Rudra.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "I am not able to find even basic text for RudraGhana Patha so putting this image from my Mantra Pushpam book. I hope you will enjoy this. This is very powerful for concentration development"   
     
 share: true    
 ---    
     
 ![](/assets/images/samskrut/Rudra.jpg)    
     
-
-    
 {% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/065-Rudraghanpaath.mp3" %}     
     
 # Rudraghan Paath    
-    
 I am not able to find even basic text for RudraGhana Patha so putting this image from my Mantra Pushpam book. I hope you will enjoy this. This is very powerful for concentration development.    
     
     

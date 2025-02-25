@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/guru-stotram
 redirect_from: 
   - '/samskrut/guru-stotram'
-tags: [Devi, Stotram, Guru, Chanting]    
-categories:    
+tags: [Devi, Stotram, Guru, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/durga.jpg    

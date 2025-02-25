@@ -9,14 +9,14 @@ redirect_from:
   - '/samskrut/shanti-paath'
 tags: [Paatham, Prayers, Chanting]
 
-categories:
+categories: [Chanting]
 
 header:
    teaser: /assets/images/samskrut/SanskritYatra-Sloka.jpg
 
 author: 'Hari Thapliyaal'
 
-excerpt:
+excerpt: Various Shanti Paatha from different Vedas are included here.
 
 share: true
 ---

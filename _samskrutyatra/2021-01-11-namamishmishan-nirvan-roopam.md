@@ -9,7 +9,7 @@ redirect_from:
   - '/samskrut/namamishmishan-nirvan-roopam'
 tags: [Shiva, Chanting]
 
-categories:
+categories: [Chanting]
 
 header:
   teaser: /assets/images/samskrut/Rudra.jpg

@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/ramchandra-stuti
 redirect_from: 
   - '/samskrut/ramchandra-stuti'
-tags: [Ramcharit Manas Chandas, Chanting]    
-categories:    
+tags: [Ramcharit Manas Chandas, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/RamcharaitMaanas.jpg    

@@ -8,7 +8,7 @@ permalink: /samskrutyatra/shiv-mahimnstotra
 redirect_from: 
   - '/samskrut/shiv-mahimnstotra'
 tags: [Shiva, Chanting, Stotram]    
-categories:    
+categories: [Chanting]   
     
 header:    
    teaser: /assets/images/samskrut/Shiva.jpg    

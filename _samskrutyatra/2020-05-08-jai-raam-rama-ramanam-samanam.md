@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/jai-raam-rama-ramanam-samanam
 redirect_from: 
   - '/samskrut/jai-raam-rama-ramanam-samanam'
-tags: [Ramcharit Manas Chandas, Chanting]    
-categories:    
+tags: [Ramcharit Manas Chandas, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/RamcharaitMaanas.jpg    

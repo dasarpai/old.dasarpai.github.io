@@ -8,7 +8,7 @@ permalink: /samskrutyatra/thirukkural-complete-in-hindi
 redirect_from: 
   - '/samskrut/thirukkural-complete-in-hindi'
 tags: [Chanting, Thiruvalluvar, Thirukkural in Hindi]    
-categories:    
+categories:  [Chanting]  
     
 header:    
    teaser: /assets/images/samskrut/Thiruvalluvar.jpg    

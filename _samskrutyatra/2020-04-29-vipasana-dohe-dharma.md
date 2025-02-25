@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/vipasana-dohe-dharma
 redirect_from: 
   - '/samskrut/vipasana-dohe-dharma'
-tags: [Vipasana, Chanting]    
-categories:    
+tags: [Vipasana, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/Vipasana.jpg    

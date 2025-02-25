@@ -8,7 +8,7 @@ permalink: /samskrutyatra/annapurna-stotram
 redirect_from: 
   - '/samskrut/annapurna-stotram'
 tags: [Devi, Chanting, Stotram]    
-categories:    
+categories: [Chanting]  
     
 header:    
    teaser: /assets/images/samskrut/durga.jpg    

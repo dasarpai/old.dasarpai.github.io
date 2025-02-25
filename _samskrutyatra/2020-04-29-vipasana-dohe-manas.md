@@ -8,8 +8,7 @@ permalink: /samskrutyatra/vipasana-dohe-manas
 redirect_from: 
   - '/samskrut/vipasana-dohe-manas'
 tags: [Vipasana, Chanting] 
-
-categories:    
+categories: [Chanting]    
     
 header:     
    teaser: /assets/images/samskrut/Vipasana.jpg    

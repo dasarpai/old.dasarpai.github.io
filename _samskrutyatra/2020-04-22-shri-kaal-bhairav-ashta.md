@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/shri-kaal-bhairav-ashta
 redirect_from: 
   - '/samskrut/shri-kaal-bhairav-ashta'
-tags: [Shiva, Chanting]    
-categories:    
+tags: [Shiva, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/Shiva.jpg    

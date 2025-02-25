@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/bajarang-baan
 redirect_from: 
   - '/samskrut/bajarang-baan'
-tags: [Bhajan, Chanting]    
-categories:    
+tags: [Bhajan, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/Hanumanji.jpg    

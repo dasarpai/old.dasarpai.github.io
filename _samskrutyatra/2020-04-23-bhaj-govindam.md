@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/bhaj-govindam
 redirect_from: 
   - '/samskrut/bhaj-govindam'
-tags: [Krishna, Chanting]    
-categories:    
+tags: [Krishna, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/Krishna.jpg    

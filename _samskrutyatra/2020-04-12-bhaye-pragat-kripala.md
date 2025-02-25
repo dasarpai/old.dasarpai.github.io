@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/bhaye-pragat-kripala
 redirect_from: 
   - '/samskrut/bhaye-pragat-kripala'
-tags: [Ramcharit Manas Chandas, Chanting]    
-categories:    
+tags: [Ramcharit Manas Chandas, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/RamcharaitMaanas.png    

@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/aditya-hridayam-stotram
 redirect_from: 
   - '/samskrut/aditya-hridayam-stotram'
-tags: [Prayer, Stotram, Chanting]    
-categories:    
+tags: [Prayer, Stotram, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/GayatriDevata.jpg    

@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/mahishasur-mardini
 redirect_from: 
   - '/samskrut/mahishasur-mardini'
-tags: [Devi, Chanting]    
-categories:    
+tags: [Devi, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/durga.jpg    

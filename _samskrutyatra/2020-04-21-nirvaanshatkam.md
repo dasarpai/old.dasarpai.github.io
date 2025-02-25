@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/nirvaanshatkam
 redirect_from: 
   - '/samskrut/nirvaanshatkam'
-tags: [आत्मषट्कम्, निर्वाणषट्कम्, निर्वाणषट्कम्, Upanishad, Chanting]    
-categories:    
+tags: [आत्मषट्कम्, निर्वाणषट्कम्, निर्वाणषट्कम्, Upanishad, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/Upanishad.jpg    

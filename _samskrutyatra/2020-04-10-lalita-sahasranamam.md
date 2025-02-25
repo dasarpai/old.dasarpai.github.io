@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/lalita-sahasranamam
 redirect_from: 
   - '/samskrut/lalita-sahasranamam'
-tags: [Devi, Chanting]    
-categories:    
+tags: [Devi, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/durga.jpg    

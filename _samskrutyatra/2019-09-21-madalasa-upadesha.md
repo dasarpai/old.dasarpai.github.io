@@ -8,14 +8,14 @@ permalink: /samskrutyatra/madalasa-upadesha
 redirect_from: 
   - '/samskrut/madalasa-upadesha'
 tags: [Upanishad, Chanting]
-categories:
+categories: [Chanting]
 
 header:
    teaser: /assets/images/samskrut/Upanishad.jpg
 
 author: 'Hari Thapliyaal'
 
-excerpt:
+excerpt: "शुद्धोसि बुद्धोसि निरँजनोऽसि, सँसारमाया परिवर्जितोऽसि  सँसारस्वप्नँ त्यज मोहनिद्राँ, मदालसोल्लपमुवाच पुत्रम्"
 
 share: true
 ---

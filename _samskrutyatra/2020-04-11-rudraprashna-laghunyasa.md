@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/rudraprashna-laghunyasa
 redirect_from: 
   - '/samskrut/rudraprashna-laghunyasa'
-tags: [Shiva, Chanting]    
-categories:    
+tags: [Shiva, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/Rudra.jpg    

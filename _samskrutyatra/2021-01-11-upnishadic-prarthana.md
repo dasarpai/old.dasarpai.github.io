@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/upnishadic-prarthana
 redirect_from: 
   - '/samskrut/upnishadic-prarthana'
-tags: [Upanishad, Prayer, Chanting]    
-categories:    
+tags: [Upanishad, Prayer, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/Upanishad.jpg    

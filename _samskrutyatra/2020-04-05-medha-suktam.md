@@ -8,14 +8,14 @@ permalink: /samskrutyatra/medha-suktam
 redirect_from: 
   - '/samskrut/medha-suktam'
 tags: [Suktam, Chanting]
-categories:
+categories: [Chanting]
 
 header:
    teaser: /assets/images/samskrut/Upanishad.jpg
 
 author: 'Hari Thapliyaal'
 
-excerpt:
+excerpt: "ॐ यश्छन्द॑सामृष॒भो वि॒श्वरू॑पः। छन्दो॒भ्योऽध्य॒मृता᳚थ्संब॒भूव॑।  स मेन्द्रो॑ मे॒धया᳚ स्पृणोतु। अ॒मृत॑स्य देव॒धार॑णो भूयासम्।  शरी॑रं मे॒ विच॑र्षणम्। जि॒ह्वा मे॒ मधु॑मत्तमा।"
 
 share: true
 ---

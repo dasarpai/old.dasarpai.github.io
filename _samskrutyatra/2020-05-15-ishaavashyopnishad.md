@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/ishaavashyopnishad
 redirect_from: 
   - '/samskrut/ishaavashyopnishad'
-tags: [Upanishad, Chanting]    
-categories:    
+tags: [Upanishad, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/Upanishad.jpg    

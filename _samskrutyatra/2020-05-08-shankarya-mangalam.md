@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/shankarya-mangalam
 redirect_from: 
   - '/samskrut/shankarya-mangalam'
-tags: [Shiva, Chanting]    
-categories:    
+tags: [Shiva, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/Rudra.jpg    

@@ -8,7 +8,7 @@ permalink: /samskrutyatra/thirukkural-in-hindi-chapter-06-10
 redirect_from: 
   - '/samskrut/thirukkural-in-hindi-chapter-06-10'
 tags: [Chanting, Thiruvalluvar, Thirukkural in Hindi]    
-categories:    
+categories: [Chanting]   
     
 header:    
    teaser: /assets/images/samskrut/Thiruvalluvar.jpg    

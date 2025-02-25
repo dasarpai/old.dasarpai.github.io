@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/lakshmi-nrusimha-karavalamba-stotram
 redirect_from: 
   - '/samskrut/lakshmi-nrusimha-karavalamba-stotram'
-tags: [Devi, Stotram, Chanting]    
-categories:    
+tags: [Devi, Stotram, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/LakshmiNrushimhan.jpg    

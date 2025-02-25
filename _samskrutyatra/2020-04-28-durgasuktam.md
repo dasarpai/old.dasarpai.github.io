@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/durgasuktam
 redirect_from: 
   - '/samskrut/durgasuktam'
-tags: [Devi, Durga Saptashati, Chanting]    
-categories:    
+tags: [Devi, Durga Saptashati, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/durga.jpg    

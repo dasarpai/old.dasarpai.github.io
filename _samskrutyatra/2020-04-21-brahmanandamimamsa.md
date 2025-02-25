@@ -8,7 +8,7 @@ permalink: /samskrutyatra/brahmanandamimamsa
 redirect_from: 
   - '/samskrut/brahmanandamimamsa'
 tags: [Chanting, Upanishad, तैत्तिरीयोपनिषत्]    
-categories:    
+categories: [Chanting]   
     
 header:    
    teaser: /assets/images/samskrut/Upanishad.jpg    

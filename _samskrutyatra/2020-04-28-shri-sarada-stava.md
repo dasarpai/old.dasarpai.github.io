@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/shri-sarada-stava
 redirect_from: 
   - '/samskrut/shri-sarada-stava'
-tags: [Devi, Chanting]    
-categories:    
+tags: [Devi, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/SaradaMaa.jpg    

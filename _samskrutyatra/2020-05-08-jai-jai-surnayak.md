@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/jai-jai-surnayak
 redirect_from: 
   - '/samskrut/jai-jai-surnayak'
-tags: [Ramcharit Manas Chandas, Chanting]    
-categories:    
+tags: [Ramcharit Manas Chandas, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/RamcharaitMaanas.jpg    

@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/devi-kshama-prarthana
 redirect_from: 
   - '/samskrut/devi-kshama-prarthana'
-tags: [Devi, Chanting]    
-categories:    
+tags: [Devi, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/durga.jpg    

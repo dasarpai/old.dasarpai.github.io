@@ -7,8 +7,8 @@ layout: samskrut-layout
 permalink: /samskrutyatra/achyutashtakam
 redirect_from: 
   - '/samskrut/achyutashtakam'
-tags: [Bhajan, Vishnu, Chanting]    
-categories:    
+tags: [Bhajan, Vishnu, Chanting]
+categories: [Chanting]
     
 header:    
    teaser: /assets/images/samskrut/Vishnu.jpg    
