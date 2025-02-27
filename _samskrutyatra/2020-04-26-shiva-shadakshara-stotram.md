@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "ॐकारं बिंदुसंयुक्तं नित्यं ध्यायंति योगिनः ।    कामदं मोक्षदं चैव ॐकाराय नमो नमः ॥"   
     
 share: true    
 ---    

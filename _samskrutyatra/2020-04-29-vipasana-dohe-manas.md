@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "मन ही दुर्जन मन सुजन मन बैरी मन मीत,    मन सुधरे सब सुधरे हैं कर मन पवन पुनीत । "   
     
 share: true    
 ---    

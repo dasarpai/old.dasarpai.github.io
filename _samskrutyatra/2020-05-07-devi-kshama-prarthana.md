@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "अपराधसहस्त्राणि क्रियन्तेऽहर्निशं मया।  दासोऽयमिति मां मत्वा क्षमस्व परमेश्‍वरि॥"   
     
 share: true    
 ---    

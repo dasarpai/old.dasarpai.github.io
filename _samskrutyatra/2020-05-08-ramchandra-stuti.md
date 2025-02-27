@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt:  "नमामि भक्त वत्सलं । कृपालु शील कोमलं ॥  भजामि ते पदांबुजं । अकामिनां स्वधामदं ॥ "  
     
 share: true    
 ---    

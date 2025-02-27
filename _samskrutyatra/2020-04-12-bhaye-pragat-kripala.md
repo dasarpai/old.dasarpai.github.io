@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt:  "When Bhagawan Vishnu incarnate as Raam from Maharani Kaushaliya then this is the conversation between Vishnu and Kaushliya. Keep in mind this is a poetic narration of “Sant Tulasidas Ji” from “Ramcharit Manas” and not original poem from “Balmiki Ramayan” " 
     
 share: true    
 ---    

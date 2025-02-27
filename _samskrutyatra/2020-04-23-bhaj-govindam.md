@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "भज गोविन्दं भज गोविन्दं, गोविन्दं भज मूढ़मते। संप्राप्ते सन्निहिते काले, न हि न हि रक्षति डुकृञ् करणे॥१॥"   
     
 share: true    
 ---    
@@ -25,12 +25,12 @@ share: true
 # भज गोविन्दं - चरपटपंजरिका स्तोत्रं    
 # Bhaj Govindam     
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/028-charpatPanjarikaStotram.mp3" %}     
+{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/028-charpatPanjarikaStotram.mp3" %}    
+
+भज गोविन्दं Sung by Dr. Hari Thapliyal 
     
 {% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/O005_AdiShankaras_BhajaGovinda_by_Gabriella_Burnel.mp3" %}     
-    
-    
-भज गोविन्दं Sung by Hari Thapliyal    
+  
 Bhajgovindam Sung by Gabriella Burnel    
     
 भज गोविन्दं भज गोविन्दं, गोविन्दं भज मूढ़मते।    

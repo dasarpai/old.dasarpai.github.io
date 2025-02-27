@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "प्रकृतिं परमामभयां वरदां नररूपधरां जनतापहराम्।  शरणागतसेवकतोषकरीं प्रणमामि परां जननीं जगताम्॥"    
     
 share: true    
 ---    

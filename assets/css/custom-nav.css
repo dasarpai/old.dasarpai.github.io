@@ -380,3 +380,68 @@
     transform: rotate(45deg);
     bottom: 0;
 }
+
+
+
+/* Goto top button */
+
+/* assets/css/custom-nav.css */
+/* ... (Existing code for dropdowns can remain) ... */
+
+/* Go to top button */
+
+#pst-back-to-top {
+    background-color: #9c5ffd;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    opacity: 1;
+    z-index: 1000;
+    transition: opacity 0.3s ease-in-out;
+    white-space: nowrap;
+
+    /* Horizontal centering styles */
+    bottom: 20px;
+    left: 50%; /* Position the left edge at 50% */
+    transform: translateX(-50%); /* Move the button to the left by half its width */
+
+    /* Specific width for desktop screens */
+    width: 100px; /* Set the width for desktop */
+    justify-content: center; /* to make content in center */
+}
+
+#pst-back-to-top:hover {
+    opacity: 0.8;
+}
+
+/*#pst-back-to-top svg {
+    width: 1em;
+    height: 1em;
+    fill: white;
+    display: block;
+}*/
+#pst-back-to-top i{
+  color: white;
+}
+
+/* change dropdown arrow color */
+.masthead .dropdown-arrow{
+  color: #fff;
+}
+
+/* Media query for smaller screens (mobile) */
+@media (max-width: 768px) {
+    #pst-back-to-top {
+        padding: 8px 16px;
+        bottom: 10px;
+        width: auto; /* Reset the width for mobile - adjust as needed*/
+        min-width: 60px;
+    }
+}
+
+  
+  

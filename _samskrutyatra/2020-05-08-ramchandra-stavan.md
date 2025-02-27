@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "श्रीरामचंद्र कृपालु भजमन हरण भाव भय दारुणम् ।  नवकंज लोचन, कंज मुख, कर कंज, पद कन्जारुणम ॥"   
     
 share: true    
 ---    

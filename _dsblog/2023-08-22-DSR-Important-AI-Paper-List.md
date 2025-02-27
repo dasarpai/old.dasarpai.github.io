@@ -7,6 +7,7 @@ permalink: '/dsblog/select-ai-papers'
 tags: [LLM, Transformer, Encoder, Decoder, Research Papers, AI Research, Machine Learning, Deep Learning, Academic Resources, AI Development, Research Collection] 
 categories:
   - dsblog
+  - dsresources
 keywords: [AI Research Papers, Machine Learning Papers, Deep Learning Research, AI Academic Resources, Research Collection, ML Publications, AI Development Papers, Scientific Literature]
 header:
     teaser: /assets/images/dspost/dsp6090-rps-Important-AI-Paper-List.jpg

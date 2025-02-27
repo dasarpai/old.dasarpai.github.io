@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "ॐ ईशा वास्यमिदꣳ सर्वं यत्किञ्च जगत्यां जगत् ।    तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम् ॥"   
     
 share: true    
 ---    

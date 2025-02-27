@@ -1,12 +1,12 @@
 ---    
 id: 4170    
 mathjax: true    
-title: 'Lalitasaharanam with Meaning'    
+title: 'Lalitasahasranamam with Meaning'    
 date: 2022-09-03    
 layout: samskrut-layout 
-permalink: /samskrutyatra/lalitasaharanam-with-meaning
+permalink: /samskrutyatra/lalitasahasranam-with-meaning
 redirect_from: 
-  - '/samskrut/lalitasaharanam-with-meaning'
+  - '/samskrut/lalitasahasranam-with-meaning'
 tags: [Devi]    
 categories:    
     
@@ -15,14 +15,14 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt:  "Meaning of lalitasahasranama in English"  
     
 share: true    
 ---    
     
 ![](/assets/images/samskrut/durga.jpg)    
     
-# Lalitasaharanam with Meaning    
+# Lalitasahasranama with Meaning    
     
 ॐ श्रीललितामहात्रिपुरसुन्दरीस्वरूपा श्रीमीनाक्षी परमेश्वरी परदेवताम्बिकायै नमः    
     

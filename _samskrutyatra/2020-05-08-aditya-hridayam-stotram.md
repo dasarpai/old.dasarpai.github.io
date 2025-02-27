@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt:  "ततो युद्धपरिश्रान्तं समरे चिन्तया स्थितम्।   रावणं चाग्रतो दृष्ट्वा युद्धाय समुपस्थितम्॥"  
     
 share: true    
 ---    

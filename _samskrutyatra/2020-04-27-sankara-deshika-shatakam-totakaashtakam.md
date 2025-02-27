@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt:  "विदिताखिलशास्त्रसुधाजलधे महितोपनिषत् कथितार्थनिधे ।  हृदये कलये विमलं चरणं भव शंकर देशिक मे शरणम् ॥"  
     
 share: true    
 ---    

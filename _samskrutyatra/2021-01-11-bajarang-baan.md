@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "बाल समय रवि भक्ष लियो तब तीनहुं लोक भयो अंधियारो।    ताहि सों त्रास भयो जग को यह संकट काहु सों जात न टारो॥ "    
     
 share: true    
 ---    

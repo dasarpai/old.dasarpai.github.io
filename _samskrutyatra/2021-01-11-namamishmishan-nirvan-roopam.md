@@ -15,7 +15,8 @@ header:
   teaser: /assets/images/samskrut/Rudra.jpg
 author: 'Hari Thapliyaal'
 
-excerpt: #
+excerpt: "नमामीशमीशान निर्वाणरूपं। विभुं व्यापकं ब्रह्मवेदस्वरूपम्।।निजं निर्गुणं निर्विकल्पं निरीहं। चिदाकाशमाकाशवासं भजेऽहं।।"
+
 author_profile: true
 share: true
 ---

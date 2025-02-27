@@ -28,15 +28,15 @@ comments: true
 ## Microsoft
 Microsoft's leadership framework, introduced under CEO Satya Nadella, centers on three core principles:
 
-1. **Create Clarity**: Leaders are expected to distill complex issues into clear, understandable goals and priorities, ensuring team alignment and a shared understanding of objectives.  [JD Meier](https://jdmeier.com/microsoft-leadership-principles/?utm_source=chatgpt.com)  
-2. **Generate Energy**: This principle emphasizes inspiring and motivating teams by fostering a positive, collaborative environment where individuals feel engaged and empowered to contribute their best work.  [JD Meier](https://jdmeier.com/microsoft-leadership-principles/?utm_source=chatgpt.com)  
-3. **Deliver Success**: Leaders are accountable for achieving results by setting high standards, measuring performance, and continuously seeking ways to innovate and deliver value to customers and stakeholders.  [JD Meier](https://jdmeier.com/microsoft-leadership-principles/?utm_source=chatgpt.com)
+1. **Create Clarity**: Leaders are expected to distill complex issues into clear, understandable goals and priorities, ensuring team alignment and a shared understanding of objectives.  [JD Meier](https://jdmeier.com/microsoft-leadership-principles)  
+2. **Generate Energy**: This principle emphasizes inspiring and motivating teams by fostering a positive, collaborative environment where individuals feel engaged and empowered to contribute their best work.  [JD Meier](https://jdmeier.com/microsoft-leadership-principles)  
+3. **Deliver Success**: Leaders are accountable for achieving results by setting high standards, measuring performance, and continuously seeking ways to innovate and deliver value to customers and stakeholders.  [JD Meier](https://jdmeier.com/microsoft-leadership-principles)
 
 Complementing these principles is the **Model, Coach, Care** framework, which outlines expected behaviors for managers:
 
-* **Model**: Act as role models by exemplifying the behaviors and attitudes they wish to see in their teams, leading by example to foster a culture of integrity and accountability.  [Dotneteers](https://dotneteers.net/satya-nadellas-model-model-coach-and-care-the-leadership-framework-for-modern-times/?utm_source=chatgpt.com)  
-* **Coach**: Provide guidance and support to help team members develop their skills and achieve their potential, emphasizing a growth mindset and continuous learning.  [Dotneteers](https://dotneteers.net/satya-nadellas-model-model-coach-and-care-the-leadership-framework-for-modern-times/?utm_source=chatgpt.com)  
-* **Care**: Show genuine concern for the well-being of team members, creating an inclusive environment where individuals feel valued and supported.  [Dotneteers](https://dotneteers.net/satya-nadellas-model-model-coach-and-care-the-leadership-framework-for-modern-times/?utm_source=chatgpt.com)
+* **Model**: Act as role models by exemplifying the behaviors and attitudes they wish to see in their teams, leading by example to foster a culture of integrity and accountability.  [Dotneteers](https://dotneteers.net/satya-nadellas-model-model-coach-and-care-the-leadership-framework-for-modern-times)  
+* **Coach**: Provide guidance and support to help team members develop their skills and achieve their potential, emphasizing a growth mindset and continuous learning.  [Dotneteers](https://dotneteers.net/satya-nadellas-model-model-coach-and-care-the-leadership-framework-for-modern-times)  
+* **Care**: Show genuine concern for the well-being of team members, creating an inclusive environment where individuals feel valued and supported.  [Dotneteers](https://dotneteers.net/satya-nadellas-model-model-coach-and-care-the-leadership-framework-for-modern-times)
 
 These frameworks are integral to Microsoft's mission to "empower every person and every organization on the planet to achieve more," fostering a culture that emphasizes growth, collaboration, and innovation.
   

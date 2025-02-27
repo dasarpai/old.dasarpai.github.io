@@ -29,7 +29,7 @@ main:
       - title: "Data Science Blog"
         url: "/dsblog"
       - title: "DS Resources"
-        url: "/datascience-tags#ds-resources"       
+        url: "/datascience-resources"       
       - title: "Data Science-Books"
         url: "/dsblog/ds-ai-ml-books"
       - title: "Data Science Cheatsheets"
@@ -111,8 +111,8 @@ main:
         url: "/samskrutyatra"      
       - title: "Samskrut Topics"
         url: "/samskrutyatra-tags"    
-      - title: "My Chantings"
-        url: "/samskrutyatra-tags#chanting"
+      - title: "My Vedic Chantings"
+        url: "/mychanting"
    
 
 
@@ -227,8 +227,8 @@ docs:
         url: "/samskrutyatra"      
       - title: "Samskrut Topics"
         url: "/samskrutyatra-tags"    
-      - title: "My Chantings"
-        url: "/samskrutyatra-tags#chanting"  
+      - title: "My Vedic Chantings"
+        url: "/mychanting"  
 
 
 ###### footer navigation ########
@@ -341,8 +341,8 @@ samskrutyatra:
       url: "/samskrutyatra"      
     - title: "Samskrut Topics"
       url: "/samskrutyatra-tags"    
-    - title: "My Chantings"
-      url: "/samskrutyatra-tags#chanting"     
+    - title: "My Vedic Chantings"
+      url: "/mychanting"     
 
 
 mygallary:

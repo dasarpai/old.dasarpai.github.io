@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "ॐ वन्दे देव उमापतिं सुरगुरुं, वन्दे जगत्कारणम् ।      वन्दे पन्नगभूषणं मृगधरं, वन्दे पशूनां पतिम् ॥ "   
     
 share: true    
 ---    

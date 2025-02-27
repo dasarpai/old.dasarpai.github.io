@@ -803,7 +803,7 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [https://gptstore.ai/chat/-gochitchat-ai](https://gptstore.ai/chat/-gochitchat-ai){:target="_blank"}
 1. [https://gptstore.ai/chat/showme-redstarplugin-com](https://gptstore.ai/chat/showme-redstarplugin-com){:target="_blank"}
 1. [https://gptstore.ai/chat/webpilotai-com](https://gptstore.ai/chat/webpilotai-com){:target="_blank"}
-1. [https://help.autodesk.com/](https://help.autodesk.com/{:target="_blank"}
+1. [https://help.autodesk.com/](https://help.autodesk.com/){:target="_blank"}
 1. [https://keep.google.com/u/0/#home](https://keep.google.com/u/0/#home){:target="_blank"}
 1. [https://keepa.com/#!](https://keepa.com/#!){:target="_blank"}
 1. [https://languagetool.org/](https://languagetool.org/){:target="_blank"}
@@ -924,12 +924,14 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [https://www.wandb.com/papers](https://www.wandb.com/papers){:target="_blank"}
 
 ## AI Blogs to Learn News aboutCurrent Development
+
 1. [http://blog.kaggle.com/](http://blog.kaggle.com/){:target="_blank"}
 1. [http://www.deeplearningbook.org](http://www.deeplearningbook.org){:target="_blank"}
 1. [https://24x7coach.com/](https://24x7coach.com/){:target="_blank"}
 1. [https://ai.google/](https://ai.google/){:target="_blank"}
 1. [https://aihub.org/](https://aihub.org/){:target="_blank"}
 1. [https://algotrak.com/](https://algotrak.com/){:target="_blank"}
+1. [https://alibabacloud/blog](https://alibabacloud/blog){:target="_blank"}
 1. [https://alison.com/tag/statistics](https://alison.com/tag/statistics){:target="_blank"}
 1. [https://allenai.org/](https://allenai.org/){:target="_blank"}
 1. [https://allenai.org/papers](https://allenai.org/papers){:target="_blank"}
@@ -953,6 +955,8 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [https://datasciencestop.com/](https://datasciencestop.com/){:target="_blank"}
 1. [https://datatofish.com/blog/](https://datatofish.com/blog/){:target="_blank"}
 1. [https://deepmind.google/](https://deepmind.google/){:target="_blank"}
+1. [https://deepmind.google/research](https://deepmind.google/research){:target="_blank"}
+1. [https://deepmind.google/technologies](https://deepmind.googletechnologies){:target="_blank"}
 1. [https://deepmind.google/discover/blog/](https://deepmind.google/discover/blog/){:target="_blank"}
 1. [https://developer.nvidia.com/blog/](https://developer.nvidia.com/blog/){:target="_blank"}
 1. [https://docs.docker.com/](https://docs.docker.com/){:target="_blank"}

@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt:   "Various Prarthans inspired from Upanishdic Thoughts" 
     
 share: true    
 ---    

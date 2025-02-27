@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "जागो लोगों जगत के बीती काली रात,   हुआ उजाला धर्म का मंगल हुआ प्रभात ।"   
     
 share: true    
 ---    

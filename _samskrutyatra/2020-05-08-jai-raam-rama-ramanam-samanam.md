@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "जय राम रमा रमनं समनं । भव ताप भयाकुल पाहि जनम ॥  अवधेस सुरेस रमेस बिभो । सरनागत मागत पाहि प्रभो ॥"    
     
 share: true    
 ---    

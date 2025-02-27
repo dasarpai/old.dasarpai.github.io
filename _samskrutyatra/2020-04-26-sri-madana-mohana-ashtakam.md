@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "जय शंखगदाधर नीलकलेवर पीतपटाम्बर देहि पदम् । जय चन्दनचर्चित कुण्डलमण्डित कौस्तुभशोभित देहि पदम् ॥ "  
     
 share: true    
 ---    

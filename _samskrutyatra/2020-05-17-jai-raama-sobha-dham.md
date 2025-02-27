@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "जय राम सोभा धाम। दायक प्रनत बिश्राम॥   धृत त्रोन बर सर चाप। भुजदंड प्रबल प्रताप॥"   
     
 share: true    
 ---    

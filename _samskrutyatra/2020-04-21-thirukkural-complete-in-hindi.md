@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "There are at least 19 translations of the Kural in Hindi. The first translation was probably that of Khenand Rakat, published in 1924. The University of Madras came out with a translation by Sankar Raju Naidu in 1958. The translation presented here is that of Vekatakrishnan who translated it first in 1964."    
     
 share: true    
 ---    

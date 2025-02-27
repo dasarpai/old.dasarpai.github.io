@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "जय जय सुरनायक जन सुखदायक प्रनतपाल भगवंता।  गो द्विज हितकारी जय असुरारी सिधुंसुता प्रिय कंता।।"   
     
 share: true    
 ---    
