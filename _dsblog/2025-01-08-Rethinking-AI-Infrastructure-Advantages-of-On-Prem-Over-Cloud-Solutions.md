@@ -80,7 +80,7 @@ There are valid reasons for considering alternatives to cloud-based infrastructu
 
 ---
 
-## How to make On Premises Infrastructure for Building AI Products
+## How to create On Premises Infrastructure for Building AI Products
 Local or on-premises solutions for developing AI products and using AI with your data provide more control, privacy, and customization options. Here's a breakdown of the key categories and tools/solutions for such setups:
 
 ---

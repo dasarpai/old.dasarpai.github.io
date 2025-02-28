@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 6229
-title: "Exploring Reasoning Models in AI Marketplace"
+title: "Exploring Reasoning Models in AI Marketplace, Feb 25"
 date: 2025-02-26
 permalink: /dsblog/exploring-reasoning-models
 tags:
@@ -31,7 +31,7 @@ keywords: ["Reasoning Models AI", "Human-Like Intelligence AI", "AI Problem Solv
 
 ![](/assets/images/dspost/dsp6229-Exploring-Reasoning-Models.jpg)
 
-# Exploring Reasoning Models in AI Marketplace
+# Exploring Reasoning Models in AI Marketplace - Feb'2025
 
 Reasoning models in the AI marketplace are advanced AI systems designed to simulate human-like reasoning for problem-solving and decision-making. Here’s a breakdown of the key models you might encounter:
 
@@ -65,11 +65,11 @@ Several major tech companies have developed proprietary reasoning models, each w
 
 - **OpenAI**: OpenAI has introduced o1, o1-mini, and o3-mini, focusing on advanced reasoning for tasks like math, science, and coding. These models use reinforcement learning (RL) techniques and are available through the OpenAI API and ChatGPT, with o3-mini recently made free for basic users ([OpenAI's o1 announcement](https://openai.com/blog/introducing-o1)). They are noted for their high performance but come with higher costs, with o1-mini being 20x more expensive per token than GPT-4o mini, reflecting the computational intensity of reasoning.
 
-- **DeepSeek AI**: DeepSeek, a Chinese AI startup, offers DeepSeek-R1 and its distilled versions, trained via large-scale RL without supervised fine-tuning. DeepSeek-R1 performs comparably to OpenAI’s o1 on math and coding benchmarks and is notable for its cost efficiency, using fewer GPUs and being approximately 96% cheaper ([DeepSeek's reasoning AI shows power of small models, efficiently trained | IBM](https://www.ibm.com/think/news/deepseek-r1-ai)). While open-source, it’s provided by a company and available on Hugging Face ([DeepSeek-R1 on Hugging Face](https://huggingface.co/DeepSeek-AI/DeepSeek-R1)).
+- **DeepSeek AI**: DeepSeek, a Chinese AI startup, offers DeepSeek-R1 and its distilled versions, trained via large-scale RL without supervised fine-tuning. DeepSeek-R1 performs comparably to OpenAI’s o1 on math and coding benchmarks and is notable for its cost efficiency, using fewer GPUs and being approximately 96% cheaper ([DeepSeek's reasoning AI shows power of small models, efficiently trained \| IBM](https://www.ibm.com/think/news/deepseek-r1-ai)). While open-source, it’s provided by a company and available on Hugging Face ([DeepSeek-R1 on Hugging Face](https://huggingface.co/DeepSeek-AI/DeepSeek-R1)).
 
 - **Google**: Google’s Gemini 2.0 Flash Thinking Experimental is an enhanced reasoning model capable of showing its thoughts, improving performance and explainability. It’s designed for multimodal tasks like programming, math, and physics, and is accessible through Google AI Studio and Vertex AI, with a one-million token context window for deeper analysis ([Google's Gemini 2.0 Flash Thinking Experimental](https://deepmind.google/technologies/gemini/flash-thinking/)). It’s experimental, with some inconsistencies noted in simple tasks, but shows promise in complex problem-solving.
 
-- **Anthropic**: Anthropic’s Claude 3.7 is the world’s first hybrid reasoning model, offering both quick responses and extended thinking for complex problems. It features a “scratchpad” to reveal reasoning processes and is available through their API, excelling in coding and powering AI agents ([Anthropic Launches the World’s First ‘Hybrid Reasoning’ AI Model | WIRED](https://www.wired.com/story/anthropic-world-first-hybrid-reasoning-ai-model/)).
+- **Anthropic**: Anthropic’s Claude 3.7 is the world’s first hybrid reasoning model, offering both quick responses and extended thinking for complex problems. It features a “scratchpad” to reveal reasoning processes and is available through their API, excelling in coding and powering AI agents ([Anthropic Launches the World’s First ‘Hybrid Reasoning’ AI Model \| WIRED](https://www.wired.com/story/anthropic-world-first-hybrid-reasoning-ai-model/)).
 
 - **Microsoft**: Microsoft’s Phi-4, with 14 billion parameters, is designed for complex reasoning tasks, particularly in STEM and mathematics, outperforming larger models on certain benchmarks. It’s available on Azure AI Foundry under the Microsoft Research License Agreement and will launch on Hugging Face, focusing on accuracy through enhanced training ([Microsoft introduces Phi-4, an AI model for advanced reasoning tasks – Computerworld](https://www.computerworld.com/article/3624280/)).
 
@@ -78,7 +78,7 @@ Several major tech companies have developed proprietary reasoning models, each w
 ## Open-Source Reasoning Models
 The open-source community has also contributed significantly, offering cost-effective alternatives:
 
-- **DeepSeek-R1**: As mentioned, DeepSeek-R1 is open-source, available on Hugging Face, and has gained attention for its efficiency and performance, reshaping the AI landscape by challenging proprietary models with lower computational requirements ([DeepSeek's reasoning AI shows power of small models, efficiently trained | IBM](https://www.ibm.com/think/news/deepseek-r1-ai)).
+- **DeepSeek-R1**: As mentioned, DeepSeek-R1 is open-source, available on Hugging Face, and has gained attention for its efficiency and performance, reshaping the AI landscape by challenging proprietary models with lower computational requirements ([DeepSeek's reasoning AI shows power of small models, efficiently trained \| IBM](https://www.ibm.com/think/news/deepseek-r1-ai)).
 
 - **S1**: Developed by researchers at Stanford and the University of Washington, S1 is a recent open-source reasoning model trained on less than $50 in compute credits, achieving performance comparable to OpenAI’s o1 on benchmarks like AIME2024 and LiveCodeBench-Medium. It’s trained on datasets distilled from Google’s Gemini Thinking Experimental, suggesting potential availability on platforms like Hugging Face, though specific access details may require further research ([This Free 'Reasoning' AI Model Beats OpenAI's o1—Without a $20 Monthly Fee - Decrypt](https://decrypt.co/300956/free-reasoning-ai-model-beats-openai-o1-chatgpt)).
 

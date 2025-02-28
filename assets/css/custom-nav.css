@@ -419,6 +419,7 @@
 }
 
 /*#pst-back-to-top svg {
+
     width: 1em;
     height: 1em;
     fill: white;
@@ -440,6 +441,7 @@
         bottom: 10px;
         width: auto; /* Reset the width for mobile - adjust as needed*/
         min-width: 60px;
+        font-size: 1.2em; /* Increase the icon size */
     }
 }
 
