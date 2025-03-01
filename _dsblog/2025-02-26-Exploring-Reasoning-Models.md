@@ -33,84 +33,86 @@ keywords: ["Reasoning Models AI", "Human-Like Intelligence AI", "AI Problem Solv
 
 # Exploring Reasoning Models in AI Marketplace - Feb'2025
 
-Reasoning models in the AI marketplace are advanced AI systems designed to simulate human-like reasoning for problem-solving and decision-making. Here’s a breakdown of the key models you might encounter:
+##  **What Makes a Model a "Reasoning Model"?**
+The term "reasoning model" is not strictly defined but generally refers to models that **explicitly demonstrate structured problem-solving abilities**, such as:
+- **Logical inference** (deductive/inductive reasoning)
+- **Multi-step problem-solving** (e.g., math, coding, puzzles)
+- **Common-sense reasoning** (understanding implicit context)
+- **Causal reasoning** (connecting causes and effects).
 
-## Major Proprietary Models
-- **OpenAI** offers o1, o1-mini, and o3-mini, known for their strong performance in math, science, and coding, available through their API and ChatGPT ([OpenAI's o1 announcement](https://openai.com/blog/introducing-o1)).
-- **DeepSeek AI** provides DeepSeek-R1 and its distilled versions, open-source but from a company, excelling in math and coding tasks ([DeepSeek-R1 on Hugging Face](https://huggingface.co/DeepSeek-AI/DeepSeek-R1)).
-- **Google** has Gemini 2.0 Flash Thinking Experimental, an experimental model for multimodal reasoning, accessible via Google AI Studio and Vertex AI ([Google's Gemini 2.0 Flash Thinking Experimental](https://deepmind.google/technologies/gemini/flash-thinking/)).
-- **Anthropic** offers Claude 3.7, a hybrid reasoning model with step-by-step problem-solving, available through their API ([Anthropic's Claude 3.7 announcement](https://www.anthropic.com/index)).
-- **Microsoft** has Phi-4, a 14 billion parameter model for complex reasoning, available on Azure AI Foundry and Hugging Face ([Microsoft's Phi-4 announcement](https://www.ibm.com/think/phi-4)).
-- **Alibaba** provides QwQ, an open-source reasoning model with advanced analytical capabilities, part of their Qwen family, available on Hugging Face ([Alibaba's QwQ announcement](https://www.alibabacloud.com/blog/601813)).
+Modern models achieve this through architectural innovations (e.g., chain-of-thought prompting, sparse attention) and training on datasets enriched with reasoning tasks (e.g., math problems, logic puzzles).
 
-## Open-Source Options
-- **DeepSeek-R1** is notable for being open-source, performing comparably to OpenAI’s o1 on certain benchmarks, and is accessible on Hugging Face.
-- **S1**, developed by Stanford and University of Washington, is a recent open-source model trained on minimal compute, rivaling proprietary models, though details on availability may vary ([S1 research paper](https://example.com/s1-paper)).
+## **Can we say earlier models like Phi-2, Mistral, and Llama 2 are Called "Reasoning Models"**
+These models are **explicitly optimized** for reasoning tasks through:
+- **Training Data**: Curated datasets with math, code, and logic problems.
+- **Architecture**: Techniques like sparse attention (Mistral) or small-but-efficient designs (Phi-2).
+- **Fine-Tuning**: Instruction-tuning to follow complex, multi-step prompts.
 
-An unexpected detail is the rise of open-source models like S1, trained on less than $50, challenging the dominance of proprietary models and potentially reducing costs for users. However, there’s ongoing debate about performance, with some models like DeepSeek-R1 showing cost efficiency but others, like OpenAI’s, being significantly more expensive due to higher computational needs.
+**Examples of Their Reasoning Capabilities**
+- **Phi-2** (Microsoft):    Trained on synthetic textbooks and logic puzzles, excelling at common-sense reasoning (e.g., *"If Alice has 3 apples and gives 2 to Bob, how many does she have?"*).
+
+- **Mistral 7B**:    Uses grouped-query attention for efficient long-context reasoning, outperforming larger models on logic puzzles and code generation.
+
+- **Llama 2** (Meta):   Fine-tuned on coding and math datasets (e.g., CodeLlama variant), enabling multi-step problem-solving in domains like arithmetic or chemistry.
 
 ---
 
-### Survey Note: Comprehensive Analysis of Reasoning Models in the AI Marketplace
+### **Was GPT-1 the "Reasoning Model"?**
+**GPT-1** (2018) was groundbreaking as an early transformer-based language model, but it lacked **explicit reasoning capabilities**:
+- **Limitations**: Struggled with multi-step logic (e.g., arithmetic beyond simple addition).  They have limited common-sense understanding (e.g., *"John put a glass on the edge of a table. It fell. Why?"*).  
+- **Role in Evolution**:    GPT-1’s transformer architecture became the foundation for later reasoning-focused models, but it wasn’t optimized for structured reasoning tasks.
 
-Reasoning models represent a significant advancement in AI, designed to mimic human reasoning for complex problem-solving and decision-making. These models, often built on large language models (LLMs), are trained to break down problems into steps, using techniques like chain of thought (CoT) reasoning, and are increasingly available in the AI marketplace through APIs, cloud platforms, and open-source repositories. This note provides a detailed survey of the current landscape as of February 27, 2025, covering major proprietary models, open-source options, and the broader context of their development and availability.
+The term "reasoning model" gained traction with models like **GPT-3** (2020), which showed emergent reasoning abilities, and **GPT-4**/**Claude 3**, which integrated explicit reasoning frameworks (e.g., tree-of-thought prompting).
 
-## Background and Definition
-Reasoning models are a subset of LLMs specifically engineered to handle complex tasks such as mathematics, coding, science, and strategic decision-making. Unlike general-purpose LLMs that generate quick responses, reasoning models explicitly show their thought process, often through decomposition, ideation, validation, and execution phases. This shift from "thinking fast" to "thinking slow" has been driven by the need for AI to tackle real-world complexity, as highlighted in recent industry analyses ([What is Reasoning in AI? Types and Applications in 2025](https://aisera.com/blog/ai-reasoning/)).
+## **Why there is a Confusion in the market and people think GPT o1 is the first reasoning model?**
+- **Ambiguity in Terminology**: "Reasoning" is a spectrum. Even early models like GPT-1 could answer simple questions, but modern models handle *structured, multi-step* reasoning.  
+- **Evolution of Capabilities**: As models scaled, reasoning emerged as a byproduct of training on diverse data (e.g., GPT-3), but newer models are **deliberately engineered** for reasoning.  
+- Recent models are using **Chain of Thought, Tree of Thoughts** to plan and execute reasoning processes, they are taking time to think and do the work and showing the progress on the screen. This is giving impression that earlier models were not reasoning.
 
-The AI marketplace, encompassing platforms like Hugging Face, Azure AI Foundry, Google Cloud, and company APIs, has seen a surge in these models, reflecting a trend toward inference compute, where additional processing time enhances reliability and sensibility of outputs. This trend coincides with the growing demand for AI in enterprise applications, where accuracy and explainability are critical.
 
-## Proprietary Reasoning Models
-Several major tech companies have developed proprietary reasoning models, each with unique strengths and availability:
 
-- **OpenAI**: OpenAI has introduced o1, o1-mini, and o3-mini, focusing on advanced reasoning for tasks like math, science, and coding. These models use reinforcement learning (RL) techniques and are available through the OpenAI API and ChatGPT, with o3-mini recently made free for basic users ([OpenAI's o1 announcement](https://openai.com/blog/introducing-o1)). They are noted for their high performance but come with higher costs, with o1-mini being 20x more expensive per token than GPT-4o mini, reflecting the computational intensity of reasoning.
 
-- **DeepSeek AI**: DeepSeek, a Chinese AI startup, offers DeepSeek-R1 and its distilled versions, trained via large-scale RL without supervised fine-tuning. DeepSeek-R1 performs comparably to OpenAI’s o1 on math and coding benchmarks and is notable for its cost efficiency, using fewer GPUs and being approximately 96% cheaper ([DeepSeek's reasoning AI shows power of small models, efficiently trained \| IBM](https://www.ibm.com/think/news/deepseek-r1-ai)). While open-source, it’s provided by a company and available on Hugging Face ([DeepSeek-R1 on Hugging Face](https://huggingface.co/DeepSeek-AI/DeepSeek-R1)).
+## Language Models vs. Reasoning Models
+Language models are AI systems trained to predict the next token (word, subword, or character) in a sequence. They learn statistical patterns from vast text corpora. Model like GPT-1, BERT, Llama 2, Falcon-180B can do several language task like translation, text generation, sentiment analysis, summarization, generation, NER and question-answering. But they lack the capability to solve complex, multi-step problems like arithmetic or logic.
 
-- **Google**: Google’s Gemini 2.0 Flash Thinking Experimental is an enhanced reasoning model capable of showing its thoughts, improving performance and explainability. It’s designed for multimodal tasks like programming, math, and physics, and is accessible through Google AI Studio and Vertex AI, with a one-million token context window for deeper analysis ([Google's Gemini 2.0 Flash Thinking Experimental](https://deepmind.google/technologies/gemini/flash-thinking/)). It’s experimental, with some inconsistencies noted in simple tasks, but shows promise in complex problem-solving.
+Reasoning models are language models explicitly optimized to perform structured problem-solving, logical inference, or causal analysis. They bridge the gap between pattern recognition and human-like deduction. Techniques like Sparse attention (Mistral), chain-of-thought prompting (GPT-4) helps in reasoning.
 
-- **Anthropic**: Anthropic’s Claude 3.7 is the world’s first hybrid reasoning model, offering both quick responses and extended thinking for complex problems. It features a “scratchpad” to reveal reasoning processes and is available through their API, excelling in coding and powering AI agents ([Anthropic Launches the World’s First ‘Hybrid Reasoning’ AI Model \| WIRED](https://www.wired.com/story/anthropic-world-first-hybrid-reasoning-ai-model/)).
+The next step of these two development is Agentic systems. Agentic systems are AI frameworks that autonomously plan, act, and iteratively improve using language or reasoning models as a core component. They integrate tools (APIs, calculators, temperature, or thousands of other tools can be written and integrated by Agentic systems), memory (ability to remember previous conversations), and feedback loops (ability to improve from previous feedbacks).
 
-- **Microsoft**: Microsoft’s Phi-4, with 14 billion parameters, is designed for complex reasoning tasks, particularly in STEM and mathematics, outperforming larger models on certain benchmarks. It’s available on Azure AI Foundry under the Microsoft Research License Agreement and will launch on Hugging Face, focusing on accuracy through enhanced training ([Microsoft introduces Phi-4, an AI model for advanced reasoning tasks – Computerworld](https://www.computerworld.com/article/3624280/)).
+## Proprietary and Opensource Modern Reasoning Models
 
-- **Alibaba**: Alibaba’s QwQ, part of the Qwen family, is an open-source reasoning model with 32 billion parameters, showcasing advanced analytical capabilities for problem-solving and decision-making. It’s available on Hugging Face and performs well on benchmarks like AIME and MATH, competing with OpenAI’s o1 ([Alibaba Cloud Unveils Open-Source AI Reasoning Model QwQ and New Image Editing Tool - Alibaba Cloud Community](https://www.alibabacloud.com/blog/alibaba-cloud-unveils-open-source-ai-reasoning-model-qwq-and-new-image-editing-tool_601813)). Additionally, Qwen 2.5-Max is noted for outperforming DeepSeek-V3 in certain tests, but QwQ is specifically highlighted as a reasoning model.
+Modern reasoning models have significantly advanced AI's ability to perform logical and structured problem-solving. 
 
-## Open-Source Reasoning Models
-The open-source community has also contributed significantly, offering cost-effective alternatives:
+### **Proprietary Reasoning Models:**
 
-- **DeepSeek-R1**: As mentioned, DeepSeek-R1 is open-source, available on Hugging Face, and has gained attention for its efficiency and performance, reshaping the AI landscape by challenging proprietary models with lower computational requirements ([DeepSeek's reasoning AI shows power of small models, efficiently trained \| IBM](https://www.ibm.com/think/news/deepseek-r1-ai)).
+1. **Claude 3.7 Sonnet** by Anthropic: Introduced in February 2025, Claude 3.7 Sonnet is a hybrid reasoning model that combines instinctive outputs with in-depth reasoning. It features an "extended thinking mode" for complex problem-solving, enhancing performance in tasks like coding and legal queries. ([Anthropic Launches the World’s First ‘Hybrid Reasoning’ AI Model \| WIRED](https://www.wired.com/story/anthropic-world-first-hybrid-reasoning-ai-model/)).
 
-- **S1**: Developed by researchers at Stanford and the University of Washington, S1 is a recent open-source reasoning model trained on less than $50 in compute credits, achieving performance comparable to OpenAI’s o1 on benchmarks like AIME2024 and LiveCodeBench-Medium. It’s trained on datasets distilled from Google’s Gemini Thinking Experimental, suggesting potential availability on platforms like Hugging Face, though specific access details may require further research ([This Free 'Reasoning' AI Model Beats OpenAI's o1—Without a $20 Monthly Fee - Decrypt](https://decrypt.co/300956/free-reasoning-ai-model-beats-openai-o1-chatgpt)).
+2. **Grok-3** by xAI: Released in February 2025, Grok-3 is trained with significantly more computing power than its predecessor, Grok-2. It offers advanced reasoning capabilities, including a "Think" mode for structured problem-solving and a "Big Brain" mode for complex tasks. 
+
+3. **DeepSeek-R1** by DeepSeek: Launched in January 2025, DeepSeek-R1 is an open-source reasoning model utilizing reinforcement learning. It competes with leading AI models, offering advanced reasoning capabilities at a lower operational cost. 
+
+4. **Microsoft**: Microsoft’s Phi-4, with 14 billion parameters, is designed for complex reasoning tasks, particularly in STEM and mathematics, outperforming larger models on certain benchmarks. It’s available on Azure AI Foundry under the Microsoft Research License Agreement and will launch on Hugging Face, focusing on accuracy through enhanced training ([Microsoft introduces Phi-4, an AI model for advanced reasoning tasks – Computerworld](https://www.computerworld.com/article/3624280/)). Available on Azure AI Foundry and Hugging Face ([Microsoft's Phi-4 announcement](https://www.ibm.com/think/phi-4)).
+
+5. **Google**: Google’s Gemini 2.0 Flash Thinking Experimental is an enhanced reasoning model capable of showing its thoughts, improving performance and explainability. It’s designed for multimodal tasks like programming, math, and physics, and is accessible through Google AI Studio and Vertex AI, with a one-million token context window for deeper analysis ([Google's Gemini 2.0 Flash Thinking Experimental](https://deepmind.google/technologies/gemini/flash-thinking/)). It’s experimental, with some inconsistencies noted in simple tasks, but shows promise in complex problem-solving.
+
+6. **OpenAI**: OpenAI has introduced o1, o1-mini, and o3-mini, focusing on advanced reasoning for tasks like math, science, and coding. These models use reinforcement learning (RL) techniques and are available through the OpenAI API and ChatGPT, with o3-mini recently made free for basic users ([OpenAI's o1 announcement](https://openai.com/blog/introducing-o1)). They are noted for their high performance but come with higher costs, with o1-mini being 20x more expensive per token than GPT-4o mini, reflecting the computational intensity of reasoning.
+
+### **Open-Source Reasoning Models:**
+
+1. **DeepSeek-R1** by DeepSeek: Beyond its proprietary applications, DeepSeek-R1 is also available as an open-source model under the MIT license, promoting widespread use and adaptation. DeepSeek-R1 is open-source, available on Hugging Face, and has gained attention for its efficiency and performance, reshaping the AI landscape by challenging proprietary models with lower computational requirements ([DeepSeek's reasoning AI shows power of small models, efficiently trained \| IBM](https://www.ibm.com/think/news/deepseek-r1-ai)). Available [DeepSeek-R1 on Hugging Face](https://huggingface.co/DeepSeek-AI/DeepSeek-R1)
+
+2. **Llama-3.2V-11B-cot** by Xkev: This open-source model is trained on reasoning stages and utilizes beam search during inference, enhancing its logical reasoning capabilities. 
+
+3. **DeepThought-8B-Llama-v0.01-alpha** by Ruliad: An open-source model based on Llama, it outputs its reasoning process in structured JSON, facilitating transparency and further research. 
+
+4. **QwQ-32B-Preview** by Qwen: A preview of Qwen's reasoning model, released before R1, it's utilized by researchers for experiments in logical reasoning. 
+
+5. **Sky-T1-32B-Preview** by NovaSky-AI: Fine-tuned from Qwen2.5 32B, this model is trained on outputs of QwQ-32B, enhancing its reasoning capabilities through structured training. 
+
+5. **S1**: Developed by researchers at Stanford and the University of Washington, S1 is a recent open-source reasoning model trained on less than $50 in compute credits, achieving performance comparable to OpenAI’s o1 on benchmarks like AIME2024 and LiveCodeBench-Medium. It’s trained on datasets distilled from Google’s Gemini Thinking Experimental, suggesting potential availability on platforms like Hugging Face, though specific access details may require further research ([This Free 'Reasoning' AI Model Beats OpenAI's o1—Without a $20 Monthly Fee - Decrypt](https://decrypt.co/300956/free-reasoning-ai-model-beats-openai-o1-chatgpt)).
 
 ## Market Availability and Trends
 These models are accessible through various channels: proprietary models via APIs (e.g., OpenAI, Anthropic, Google Cloud), cloud platforms (e.g., Azure AI Foundry, Alibaba Cloud), and open-source repositories (e.g., Hugging Face). The market has seen a shift toward inference compute, with reasoning models requiring more processing time but offering enhanced reliability, as seen with DeepSeek-R1’s cost efficiency and S1’s low training cost. However, controversy exists around pricing, with OpenAI’s models being significantly more expensive, and performance debates, especially for open-source models competing with proprietary ones.
 
-An unexpected detail is the rapid rise of open-source models like S1, trained on minimal resources, challenging the notion that advanced AI requires billions in funding. This could democratize access but raises questions about long-term support and scalability compared to proprietary offerings.
+The AI marketplace, encompassing platforms like Hugging Face, Azure AI Foundry, Google Cloud, and company APIs, has seen a surge in these models, reflecting a trend toward inference compute, where additional processing time enhances reliability and sensibility of outputs. This trend coincides with the growing demand for AI in enterprise applications, where accuracy and explainability are critical.
 
-## Comparative Table of Reasoning Models
-
-| Provider       | Model Name                          | Type         | Availability                     | Key Strengths                     |
-|----------------|-------------------------------------|--------------|-----------------------------------|------------------------------------|
-| OpenAI         | o1, o1-mini, o3-mini               | Proprietary  | API, ChatGPT                     | Math, science, coding, high cost  |
-| DeepSeek AI    | DeepSeek-R1, distilled versions    | Open-source  | Hugging Face                     | Cost-efficient, math, coding      |
-| Google         | Gemini 2.0 Flash Thinking Exp.     | Proprietary  | Google AI Studio, Vertex AI      | Multimodal, experimental          |
-| Anthropic      | Claude 3.7                         | Proprietary  | API                              | Hybrid reasoning, coding          |
-| Microsoft      | Phi-4                              | Proprietary  | Azure AI Foundry, Hugging Face   | STEM, mathematics, accuracy       |
-| Alibaba        | QwQ                                | Open-source  | Hugging Face                     | Analytical, problem-solving       |
-| Stanford/UW    | S1                                 | Open-source  | Likely Hugging Face              | Low cost, comparable to o1        |
-
-This table summarizes the models, their types, availability, and key strengths, highlighting the diversity in the marketplace.
-
-## Conclusion
-The AI marketplace for reasoning models is vibrant, with major players like OpenAI, Google, and Anthropic leading proprietary offerings, while open-source models like DeepSeek-R1 and S1 offer cost-effective alternatives. The choice depends on use case, budget, and need for explainability, with ongoing debates around cost, performance, and accessibility shaping the future of AI reasoning.
-
----
-
-### Key Citations
-- [OpenAI introduces o1 reasoning models](https://openai.com/blog/introducing-o1)
-- [DeepSeek-R1 model on Hugging Face](https://huggingface.co/DeepSeek-AI/DeepSeek-R1)
-- [Google DeepMind Gemini 2.0 Flash Thinking](https://deepmind.google/technologies/gemini/flash-thinking/)
-- [Anthropic AI research and models](https://www.anthropic.com/index)
-- [Microsoft Phi-4 AI model announcement](https://www.ibm.com/think/phi-4)
-- [Alibaba Cloud QwQ reasoning model launch](https://www.alibabacloud.com/blog/601813)
-- [S1 reasoning model research paper placeholder](https://example.com/s1-paper)

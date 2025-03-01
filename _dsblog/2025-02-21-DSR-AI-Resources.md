@@ -58,6 +58,7 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [heypi.com](https://heypi.com){:target="_blank"} :by Inflection AI
 1. [huggingface.co/chat](https://huggingface.co/chat){:target="_blank"}
 1. [inworld.ai](https://inworld.ai){:target="_blank"} : AI for character interactions
+1. [pi.ai/](https://pi.ai/){:target="_blank"} - This chat talks with different voices
 1. [poe.com](https://poe.com){:target="_blank"} : by Quora
 1. [rasa.com](https://rasa.com){:target="_blank"} : open-source conversational AI
 1. [replika.ai](https://replika.ai){:target="_blank"} : AI companion chatbot

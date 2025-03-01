@@ -38,7 +38,7 @@ Artificial Intelligence (AI) has come a long way, but few models have captured t
 
 ---
 
-## 1. **What Is DeepSeek R1?**
+## **Question 1: What Is DeepSeek R1?**
 
 DeepSeek R1 is an advanced AI model developed by **DeepSeek**, a company at the forefront of AI research and innovation. Unlike traditional AI models that rely on pattern recognition and statistical predictions, DeepSeek R1 is designed to **reason through problems step-by-step**, much like a human would. This makes it particularly adept at handling tasks that require logical thinking, such as solving math problems, debugging code, or even assisting in scientific research.
 
@@ -46,7 +46,7 @@ The model is part of a broader family of AI systems, including **R1-Zero** and o
 
 ---
 
-## 2. **How Does DeepSeek R1 Think?**
+## **Question 2: How Does DeepSeek R1 Think?**
 
 At its core, DeepSeek R1 is built to **emulate human reasoning**. Let’s break down how it approaches a problem, using a math problem as an example:
 
@@ -74,62 +74,56 @@ flowchart TD
 
 ---
 
-## 3. **What Different Techniques Were Used?**
-
-Got it! Here’s a refined version where each technique is explained in its own paragraph, maintaining clarity and depth while ensuring a smooth flow:
-
----
-
-### **DeepSeek R1: The Cost-Effective Powerhouse Rivaling GPT-4**
+## **Question 3: What Different Techniques Were Used by DeepSeek R1?**
 
 DeepSeek R1’s ability to match or surpass models like GPT-4 at a fraction of the cost is the result of a carefully crafted combination of advanced training techniques. Each technique plays a critical role in shaping the model’s reasoning capabilities, efficiency, and versatility. Let’s explore these techniques one by one.
 
 ---
 
-#### **1. Reinforcement Learning from Human Feedback (RLHF)**
+### **1. Reinforcement Learning from Human Feedback (RLHF)**
 
 Reinforcement Learning from Human Feedback (RLHF) is a cornerstone of DeepSeek R1’s training. This technique fine-tunes the model using feedback from human experts, who provide reward signals to guide the model toward desired behaviors, such as accurate reasoning and coherent outputs. For example, when solving math problems or debugging code, DeepSeek R1 is rewarded for breaking down tasks into logical steps rather than providing correct or incorrect answers. This ensures the model’s outputs align with human-like reasoning, making it particularly effective for complex problem-solving. RLHF also reduces reliance on massive labeled datasets, as the model learns to optimize for nuanced objectives like explanatory clarity, which static datasets alone cannot capture. To achieve this model need to break every goal into task and subtask along with verification tasks.
 
 ---
 
-#### **2. Self-Play Reinforcement Learning**
+### **2. Self-Play Reinforcement Learning**
 
 Self-play reinforcement learning allows DeepSeek R1 to improve by generating its own training data. The model solves problems, critiques its outputs, and iteratively refines its performance—much like a student practicing and self-correcting. For instance, in mathematical tasks, the model might generate solutions to combinatorial problems, compare them against ground truth, and adjust its weights to minimize errors. This technique is highly scalable, as it doesn’t require constant human annotation, and is particularly effective in domains with clear right or wrong answers, such as math and logic. Self-play has been instrumental in enabling DeepSeek R1 to excel in benchmarks like GSM8K, showcasing its ability to handle complex reasoning tasks.
 
 ---
 
-#### **3. Mixture-of-Experts (MoE) Optimization**
+### **3. Mixture-of-Experts (MoE) Optimization**
 
 Mixture-of-Experts (MoE) is a key efficiency driver for DeepSeek R1. This technique divides the model into specialized subnetworks, or “experts,” and activates only a subset of them for each task based on a gating mechanism. With 671 billion parameters in total but only 37 billion active during any forward pass, DeepSeek R1 achieves significant computational savings without sacrificing performance. The gating network is optimized alongside the experts using reinforcement learning, ensuring a balance between load distribution and accuracy. MoE is a major reason why DeepSeek R1 can operate efficiently on fewer GPUs compared to dense models, making it a cost-effective solution for high-performance AI. It is like when human receive some smell signal then only particular part of the brain becomes active to process the meaning of that signal (smell).
 
 ---
 
-#### **4. Quantization-Aware Training**
+### **4. Quantization-Aware Training**
 
 Quantization-aware training further enhances DeepSeek R1’s efficiency by reducing the precision of weights and activations during training. Instead of using 32-bit floating-point numbers, the model operates with 8-bit integers, slashing memory usage by up to 75%. This technique allows DeepSeek R1 to run on consumer-grade hardware like RTX 3090s, democratizing access to advanced AI capabilities. While quantization introduces a slight trade-off in accuracy, careful adjustments during training mitigate precision loss, ensuring the model remains highly effective. This approach is a testament to DeepSeek’s commitment to making powerful AI tools accessible and affordable.
 
 ---
 
-#### **5. Multi-Token Prediction**
+### **5. Multi-Token Prediction**
 
 Multi-token prediction is another innovative technique used in DeepSeek R1. Unlike traditional models that predict one token at a time, DeepSeek R1 predicts multiple tokens or phrases in parallel, significantly boosting inference speed. For example, instead of predicting “The” → “cat” → “sat,” the model might predict “The cat sat” as a single unit. This requires restructuring the attention mechanism to handle longer spans of data, but the payoff is substantial: DeepSeek R1 achieves up to 2x faster processing with 90% accuracy retention. This technique is particularly valuable for handling large datasets and improving real-time responsiveness.
 
 ---
 
-#### **6. Curriculum Learning**
+### **6. Curriculum Learning**
 
 Curriculum learning ensures that DeepSeek R1 builds its skills progressively, starting with simple tasks and gradually tackling more complex challenges. For instance, the model might begin with basic arithmetic or short code snippets before advancing to integrals or multi-file programming tasks. Reinforcement learning rewards are tuned to match the difficulty of each task, accelerating convergence and preventing overfitting to edge cases early in training. This structured approach is especially effective for reasoning-focused models, as it ensures a solid foundation before moving on to advanced problem-solving.
 
 ---
 
-#### **7. Pre-Training with Synthetic Data**
+### **7. Pre-Training with Synthetic Data**
 
 Before fine-tuning with RLHF, DeepSeek R1 undergoes pre-training on a mix of real and synthetic data. Synthetic datasets, such as AI-generated math proofs or codebases, supplement publicly available corpora, reducing reliance on costly, curated sources. This approach allows DeepSeek R1 to establish a broad knowledge base across diverse domains while keeping training costs low. Although synthetic data carries the risk of amplifying biases, careful curation and validation ensure the model’s outputs remain accurate and reliable. This technique is a key factor in DeepSeek R1’s ability to deliver high performance at a fraction of the cost of competitors.
 
 
 ---
 
-## 4. **How Were DeepSeek Variants Trained?**
+## **Question 4: How Were DeepSeek Variants Trained?**
 
 DeepSeek R1 is part of a family of models, each trained for specific purposes. Let’s take a closer look at two key variants:
 
@@ -149,7 +143,7 @@ DeepSeek R1 is part of a family of models, each trained for specific purposes. L
 
 ---
 
-## 5. **What Can It Do?**
+## **Question 5: What Can DeepSeek R1 Do?**
 
 DeepSeek R1’s capabilities are vast, but let’s focus on some key areas where it shines:
 
@@ -171,7 +165,7 @@ DeepSeek R1’s capabilities are vast, but let’s focus on some key areas where
 
 ---
 
-## 6. **Why Is It a Big Deal?**
+## **Question 6: Why Is It a Big Deal?**
 
 DeepSeek R1 is more than just an AI model—it’s a **paradigm shift** in how we think about AI. Here’s why:
 
