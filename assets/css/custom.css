@@ -447,3 +447,67 @@
 
   
   
+
+/* For side bar author */
+
+.author__urls-wrapper {
+    position: relative;
+    display: block; /* Changed from inline-block for better consistency */
+}
+
+.toggle-btn {
+    cursor: pointer;
+    display: inline-block !important; /* Force visibility with !important */
+    padding: 8px 16px; /* Default padding */
+    position: relative;
+    z-index: 101;
+    background-color: #333; /* Default visible background */
+    color: #fff; /* Default visible text color */
+    border: 1px solid #444; /* Default visible border */
+    visibility: visible !important; /* Ensure visibility */
+    opacity: 1 !important; /* Ensure not faded out */
+}
+
+/* Preserve original btn--inverse styles if needed */
+.btn--inverse {
+    background-color: #333 !important; /* Ensure visibility */
+    color: #fff !important; /* Ensure text visibility */
+}
+
+.social-icons {
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+    background: #fff;
+    border: 1px solid #ddd;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 100;
+    transition: opacity 0.3s ease;
+    opacity: 0;
+    min-width: 200px;
+}
+
+.social-icons.visible {
+    opacity: 1;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+    .author__urls-wrapper {
+        width: 100%;
+    }
+
+    .toggle-btn {
+        width: 100%;
+        box-sizing: border-box;
+        touch-action: manipulation;
+    }
+
+    .social-icons {
+        position: relative;
+        width: 100%;
+        left: 0;
+    }
+}

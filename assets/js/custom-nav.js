@@ -80,5 +80,44 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Event listener for button click
         backToTopButton.addEventListener('click', scrollToTop);
+
+        // Event listener for button touchstart
+        backToTopButton.addEventListener('touchstart', function(e) {
+            e.preventDefault(); // Prevent default action
+            scrollToTop();
+        }, { passive: true });
     }
+
+
+    /* side menu social button */
+    const toggleBtn = document.querySelector('.toggle-btn');
+    const socialIcons = document.querySelector('.social-icons');
+
+    // Unified click/touch handler
+    function toggleDropdown(e) {
+        e.preventDefault(); // Prevents any default button behavior
+        e.stopPropagation();
+        
+        if (socialIcons.style.display === 'none' || socialIcons.style.display === '') {
+            socialIcons.style.display = 'block';
+            setTimeout(() => socialIcons.classList.add('visible'), 10);
+        } else {
+            socialIcons.classList.remove('visible');
+            setTimeout(() => socialIcons.style.display = 'none', 300);
+        }
+    }
+
+    // Add both click and touch events for better mobile support
+    toggleBtn.addEventListener('click', toggleDropdown);
+    toggleBtn.addEventListener('touchstart', toggleDropdown, { passive: false });
+
+    // Close when clicking/tapping outside
+    document.addEventListener('click', function(event) {
+        if (!toggleBtn.contains(event.target) && !socialIcons.contains(event.target)) {
+            socialIcons.classList.remove('visible');
+            setTimeout(() => socialIcons.style.display = 'none', 300);
+        }
+    });
+
 });
+
