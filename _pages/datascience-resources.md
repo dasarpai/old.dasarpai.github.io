@@ -6,7 +6,7 @@ collection_name: dsblog
 category_name: "dsresources"
 title: "Welcome to AI ML Resources from Data Science Blog"
 entries_layout: grid
-author_profile: false
+author_profile: true
 classes: wide
 header:
   overlay_image: /assets/images/banners/ai-ml-resources-Banner.jpg

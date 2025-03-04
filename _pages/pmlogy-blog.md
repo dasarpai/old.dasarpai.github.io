@@ -5,7 +5,7 @@ layout: collection
 permalink: /pmblog
 collection: pmblog
 entries_layout: grid
-author_profile: false
+author_profile: true
 classes: wide
 header:
   overlay_image: /assets/images/banners/PM-Banner.jpg

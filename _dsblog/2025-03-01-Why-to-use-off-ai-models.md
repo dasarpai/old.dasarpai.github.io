@@ -2,7 +2,7 @@
 mathjax: true
 id: 6233
 title: "Why Use Offline AI Models?"
-date: 2025-02-28
+date: 2025-03-01
 permalink: /dsblog/why-use-offline-ai-models
 tags:
   - Offline AI Models

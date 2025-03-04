@@ -5,7 +5,7 @@ layout: collection
 permalink: /booksummary
 collection: booksummary
 entries_layout: grid
-author_profile: false
+author_profile: true
 classes: wide
 header:
   overlay_image: /assets/images/banners/booksummary-banner.jpg

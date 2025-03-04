@@ -35,20 +35,49 @@ textarea,
 
 /* Default styles for mobile devices */
 html {
-  font-size: 28px; /* Adjust this value as needed for mobile */
+  font-size: 1em !important; /* Adjust this value as needed for mobile */
+  -webkit-text-size-adjust: 160%;
 }
 
-/* Styles for tablets and larger devices */
-@media (min-width: 48em) { /* 768px assuming 1em = 16px */
+/* Styles for small mobile devices */
+@media (max-width: 320px) {
   html {
-      font-size: 24px; /* Adjust this value as needed for tablets */
+    font-size: 1.1em !important;
   }
 }
 
-/* Styles for desktops and larger devices */
-@media (min-width: 80em) { /* 1280px assuming 1em = 16px */
+/* Styles for medium mobile devices */
+@media (max-width: 480px) {
   html {
-      font-size: 18px; /* Adjust this value as needed for desktops */
+    font-size: 1.1em !important;
+  }
+}
+
+/* Styles for large mobile devices */
+@media (max-width: 768px) {
+  html {
+    font-size: 1.1em !important;
+  }
+}
+
+/* Styles for tablets */
+@media (max-width: 1024px) {
+  html {
+    font-size: 1.1em !important;
+  }
+}
+
+/* Styles for desktops */
+@media (max-width: 1280px) {
+  html {
+    font-size: 1.1em !important;
+  }
+}
+
+/* Styles for large desktops */
+@media (max-width: 1600px) {
+  html {
+    font-size: 1.1em !important;
   }
 }
 

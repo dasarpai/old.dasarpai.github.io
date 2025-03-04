@@ -4,7 +4,7 @@ title: PMLOGY - My Journey
 date: '2020-10-21T14:51:37+05:30'
 layout: slider
 permalink: /pmlogy-home
-author_profile: false
+author_profile: true
 header:
     caption: # Some Moments with Professionals & Life Long Learners
 carousels:

@@ -8,7 +8,7 @@ tags: [Project Management Templates, PRINCE2 Templates]
 header:            
   image: /assets/images/banners/pm-template-Banner.jpg                
 
-author_profile: false                
+author_profile: true                
 last_modified_at: 2022-09-11T15:46:43-04:00                
 mathjax: "true"                
 ---                

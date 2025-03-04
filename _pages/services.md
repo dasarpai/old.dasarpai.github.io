@@ -4,7 +4,7 @@ layout: collection
 permalink: /services
 collection: single
 title: "My Courses on Data Science, AI, ML, Deep Learning, NLP & Project Management"
-author_profile: false
+author_profile: true
 classes: wide
 read_time: false
 header:

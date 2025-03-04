@@ -10,7 +10,7 @@ tags: [PM Glossary]
 header:
   overlay_image: /assets/images/banners/Pmlogy-Glossary-Banner.jpg
   overlay_filter: .6 # same as adding an opacity of 0.5 to a black background
-author_profile: false
+author_profile: true
 last_modified_at: 2019-08-27T15:46:43-04:00
 toc: false
 mathjax: "true"

@@ -4,7 +4,7 @@ layout: collection
 permalink: /summary
 collection: single
 title: "Summary of My Work / Achievments"
-author_profile: false
+author_profile: true
 classes: wide
 header:
   overlay_image: /assets/images/banners/ai-ml-resources-Banner.jpg

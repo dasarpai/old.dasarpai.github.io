@@ -5,7 +5,7 @@ layout: single
 toc_sticky: true
 permalink: /privacy
 date: 2023-12-01
-author_profile: false
+author_profile: true
 last_modified_at: 2023-12-01T15:46:43-04:00
 toc: true
 mathjax: "true"

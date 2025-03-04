@@ -6,7 +6,7 @@ permalink: /test
 taxonomy: blog
 collection: wiapost
 entries_layout: grid
-author_profile: false
+author_profile: true
 classes: wide
 header:
   overlay_image: /assets/images/wiapost/WIA-Blogs-320x180.jpg

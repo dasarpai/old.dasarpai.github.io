@@ -14,7 +14,7 @@ header:
   actions:
     1. - label: "View Gallery"
     1.   url: "/gallery/"
-author_profile: false
+author_profile: true
 last_modified_at: 2024-10-03T15:46:43-04:00
 toc: true
 mathjax: "true"

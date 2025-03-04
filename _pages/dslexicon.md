@@ -6,7 +6,7 @@ layout: collection
 permalink: /dslexicon
 collection: dslexicon
 entries_layout: grid
-author_profile: false
+author_profile: true
 classes: wide
 
 header:
@@ -14,7 +14,7 @@ header:
   overlay_filter: .2 # same as adding an opacity of 0.5 to a black background
   teaser: /assets/images/banners/DS-Lexicon-thumbnail.jpg
   
-author_profile: false
+author_profile: true
 last_modified_at: 2022-09-15T15:46:43-04:00
 toc: true
 mathjax: "true"

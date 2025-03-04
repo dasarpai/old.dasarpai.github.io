@@ -452,26 +452,25 @@
 
 .author__urls-wrapper {
     position: relative;
-    display: block; /* Changed from inline-block for better consistency */
+    display: block;
 }
 
 .toggle-btn {
     cursor: pointer;
-    display: inline-block !important; /* Force visibility with !important */
-    padding: 8px 16px; /* Default padding */
+    display: inline-block !important;
+    padding: 8px 16px;
     position: relative;
     z-index: 101;
-    background-color: #333; /* Default visible background */
-    color: #fff; /* Default visible text color */
-    border: 1px solid #444; /* Default visible border */
-    visibility: visible !important; /* Ensure visibility */
-    opacity: 1 !important; /* Ensure not faded out */
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #444;
+    visibility: visible !important;
+    opacity: 1 !important;
 }
 
-/* Preserve original btn--inverse styles if needed */
 .btn--inverse {
-    background-color: #333 !important; /* Ensure visibility */
-    color: #fff !important; /* Ensure text visibility */
+    background-color: #333 !important;
+    color: #fff !important;
 }
 
 .social-icons {
@@ -484,16 +483,29 @@
     top: 100%;
     left: 0;
     z-index: 100;
-    transition: opacity 0.3s ease;
+    display: none; /* Switched to display for Chrome compatibility */
     opacity: 0;
+    transition: opacity 0.3s ease;
     min-width: 200px;
 }
 
 .social-icons.visible {
+    display: block;
     opacity: 1;
 }
 
-/* Mobile adjustments */
+.social-icons li a {
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    color: #333;
+    cursor: pointer;
+}
+
+.social-icons li a:hover {
+    background-color: #f5f5f5;
+}
+
 @media (max-width: 768px) {
     .author__urls-wrapper {
         width: 100%;

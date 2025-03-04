@@ -1,23 +1,43 @@
 # /_data/authors.yml
-Dr_Hari_Thapliyaal:
-  name: "Dr. Hari Thapliyaal"
-  avatar: "/assets/images/myphotos/Profilephoto1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Dr. Hari Thapliyal is a seasoned professional and prolific blogger with a multifaceted background that spans the realms of Data Science, Project Management, and Advait-Vedanta Philosophy. Holding a Doctorate in AI/NLP from SSBM (Geneva, Switzerland), Hari has earned Master's degrees in Computers, Business Management, Data Science, and Economics, reflecting his dedication to continuous learning and a diverse skill set.
-
-  With over three decades of experience in management and leadership, Hari has proven expertise in training, consulting, and coaching within the technology sector. His extensive 16+ years in all phases of software product development are complemented by a decade-long focus on course design, training, coaching, and consulting in Project Management.
-
-  In the dynamic field of Data Science, Hari stands out with more than three years of hands-on experience in software development, training course development, training, and mentoring professionals. His areas of specialization include Data Science, AI, Computer Vision, NLP, complex machine learning algorithms, statistical modeling, pattern identification, and extraction of valuable insights.
-
+author1:
+  name             : "Hari Thapliyaal"
+  avatar           : "/assets/images/myphotos/Profilephoto1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Dr. Hari Thapliyal is a seasoned professional and prolific blogger with a multifaceted background that spans the realms of Data Science, Project Management, and Advait-Vedanta Philosophy. Holding a Doctorate in AI/NLP from SSBM (Geneva, Switzerland), Hari has earned Master's degrees in Computers, Business Management, Data Science, and Economics, reflecting his dedication to continuous learning and a diverse skill set.\n\n
+  With over three decades of experience in management and leadership, Hari has proven expertise in training, consulting, and coaching within the technology sector. His extensive 16+ years in all phases of software product development are complemented by a decade-long focus on course design, training, coaching, and consulting in Project Management.\n\n
+  In the dynamic field of Data Science, Hari stands out with more than three years of hands-on experience in software development, training course development, training, and mentoring professionals. His areas of specialization include Data Science, AI, Computer Vision, NLP, complex machine learning algorithms, statistical modeling, pattern identification, and extraction of valuable insights.\n\n
   Hari's professional journey showcases his diverse experience in planning and executing multiple types of projects. He excels in driving stakeholders to identify and resolve business problems, consistently delivering excellent results. Beyond the professional sphere, Hari finds solace in long meditation, often seeking secluded places or immersing himself in the embrace of nature."
-  location: "Bangalore, India."
-  links: 
+
+  short_bio        : "Dr. Hari Thapliyal is a prolific blogger and seasoned professional with an extensive background in Data Science, Project Management, and Advait-Vedanta Philosophy. He holds a Doctorate in AI/NLP from SSBM, Geneva, along with Master’s degrees in Computers, Business Management, Data Science, and Economics. With over three decades of experience in management and leadership, Hari has extensive expertise in training, consulting, and coaching within the technology sector. His specializations include Data Science, AI, Computer Vision, NLP, and machine learning. Hari is also passionate about meditation and nature, often retreating to secluded places for reflection and peace."
+
+  location         : "Bangalore, India."
+  email            : hari@dasarpai.com
+
+  links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/harithapliyal/"
-           
-    - label: "Gmail"
-      icon: "fab fa-google"
-      url: "mailto:hari.thapliyal@gmail.com"
+      
+    - label: "Website"
+      icon: "fab fa-solid fa-link"
+      url: "https://dasarpai.com"
+      
+    - label: "Email"
+      icon: "fab fa-solid fa-envelope"
+      url: "mailto:hari@dasarpai.com"
+
+       
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dasarpai"
+      
+    - label: "OrcID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-7907-865X"
+      
+      
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/dasarpai/"
       
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -27,3 +47,7 @@ Dr_Hari_Thapliyaal:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/dasarpai/"
       
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.com/channels/1194908486153285712"
+

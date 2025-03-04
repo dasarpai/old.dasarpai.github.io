@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/banners/ai-ml-resources-Banner.jpg
   overlay_filter: 0
 
-author_profile: false
+author_profile: true
 last_modified_at: 2024-08-27T15:46:43-04:00
 toc: true
 mathjax: "true"
