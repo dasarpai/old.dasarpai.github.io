@@ -643,3 +643,11 @@ If you want to revert but keep some changes:
    git commit -m "Revert to commit 8913924aaef8bd3e278ffcb75d62de6fb3c76b79"
    git push --force
    ```
+
+## I have a some folder gdrive folder and don't want desktop.ini folder should be github. 
+When you have a local folder that is synced to Google Drive, it will automatically create a `desktop.ini` file for thumbnails. If you put `desktop.ini` in the `.gitignore` file, it doesn't work. You want to keep these constantly changing `desktop.ini` files on the local machine but you don't want to check them in. From the Command Prompt, use the following commands:
+
+```bash
+git rm --cached "gdrive/**/desktop.ini"
+git commit -m "Remove desktop.ini from Git index"
+```

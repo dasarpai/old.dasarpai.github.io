@@ -101,6 +101,7 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [synthesia.io/](https://www.synthesia.io/){:target="_blank"}
 1. [this-person-does-not-exist.com/en](https://this-person-does-not-exist.com/en){:target="_blank"}
 1. [vercel.com/reactjs-projects-projects/~/ai/models/sdxl](https://vercel.com/reactjs-projects-projects/~/ai/models/sdxl){:target="_blank"}
+1. [figma.com/](https://www.figma.com/){:target="_blank"}
 
 ### Desktop Image Tools
 1. [imagemagick.org/](https://imagemagick.org/index.php)
@@ -119,6 +120,13 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [pollo.ai/template](https://pollo.ai/template){:target="_blank"}
 1. [genmo.ai/](https://www.genmo.ai/){:target="_blank"}
 1. [krea.ai/](https://www.krea.ai/){:target="_blank"}
+1. [www.imagine.art/](https://www.imagine.art/)
+1. [iloveimg.com/](https://www.iloveimg.com/)
+1. [app.steve.ai/](https://app.steve.ai/)
+1. [veed.io/](https://www.veed.io/)
+1. [app.fliki.ai/e](https://app.fliki.ai/e)
+1. [ai.invideo.io/](https://ai.invideo.io/)
+ 
 
 ### Desktop Video Tools
 1. [OBS Studio]
