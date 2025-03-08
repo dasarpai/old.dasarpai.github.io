@@ -445,7 +445,11 @@
     }
 }
 
-  
+@media screen and (max-width: 768px) {
+    #pst-back-to-top {
+        width: auto; /* Set the width for mobile */
+    }
+}  
   
 
 /* For side bar author */

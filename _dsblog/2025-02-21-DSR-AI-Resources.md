@@ -42,6 +42,20 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [miro.com/app/board/](https://miro.com/app/board/){:target="_blank"}
 1. [aidocmaker.com/g0/file](https://www.aidocmaker.com/g0/file){:target="_blank"}
 
+## IDE for Development 
+1. Visual Code
+1. Windsurf
+1. Cursor 
+1. Aider 
+1. https://cline.bot/
+
+## for image prompt inspiration 
+- https://www.midjourney.com/explore?tab=top - for image promot inspiration 
+- https://discord.com/channels/662267976984297473/999550150705954856 (midjourney)
+- https://stability.ai/stable-assistant
+- https://assistant.stability.ai/gallery
+- https://runwayml.com/
+
 ## AI Chat/Interaction Tools
 1. [beta.character.ai](https://beta.character.ai){:target="_blank"}
 1. [botpress.com](https://botpress.com){:target="_blank"} : Open-source chatbot platform
@@ -70,7 +84,20 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [kuki.ai](https://www.kuki.ai){:target="_blank"} : Earlier Mitsuku
 1. [perplexity.ai](https://www.perplexity.ai){:target="_blank"}
 1. [you.com/chat](https://you.com/chat){:target="_blank"}
+1. [phind.com/](https://www.phind.com/){:target="_blank"}
+1. [x.ai](https://x.ai/)
+1. [venice.ai/](https://venice.ai/)
 
+## AI Studios Platforms
+AI studio platforms—web-based tools or environments where users can interact with, build, or experiment with AI models
+1. [Google AI Studio](https://aistudio.google.com/app)
+2. [Gemini](https://gemini.google.com/app)  
+3. [Azure AI Studio](https://ai.azure.com/)  
+4. [Vertex AI Studio](https://cloud.google.com/vertex-ai)  
+5. [Hugging Face Spaces](https://huggingface.co/spaces)  
+6. [AWS SageMaker Studio](https://aws.amazon.com/sagemaker/studio/)  
+7. [IBM Watson Studio](https://www.ibm.com/watson/studio)  
+8. [Google Notebook LM](https://notebooklm.google.com/)
 
 ## AI Image/Thumbnail Generation Tools
 1. [adobe.com/in/products/catalog.html](https://www.adobe.com/in/products/catalog.html){:target="_blank"}
@@ -102,6 +129,7 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [this-person-does-not-exist.com/en](https://this-person-does-not-exist.com/en){:target="_blank"}
 1. [vercel.com/reactjs-projects-projects/~/ai/models/sdxl](https://vercel.com/reactjs-projects-projects/~/ai/models/sdxl){:target="_blank"}
 1. [figma.com/](https://www.figma.com/){:target="_blank"}
+1. [www.krea.ai](www.krea.ai){:target="_blank"}
 
 ### Desktop Image Tools
 1. [imagemagick.org/](https://imagemagick.org/index.php)
@@ -126,6 +154,7 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [veed.io/](https://www.veed.io/)
 1. [app.fliki.ai/e](https://app.fliki.ai/e)
 1. [ai.invideo.io/](https://ai.invideo.io/)
+1. [www.krea.ai](www.krea.ai){:target="_blank"}
  
 
 ### Desktop Video Tools
@@ -1030,6 +1059,7 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [varsitytutors.com/high_school_math-help](https://www.varsitytutors.com/high_school_math-help){:target="_blank"}
 1. [w3schools.com/datascience/](https://www.w3schools.com/datascience/){:target="_blank"}
 1. [zealousweb.com/](https://www.zealousweb.com/){:target="_blank"}
+1. [the-decoder.com/](https://the-decoder.com/){:target="_blank"}
 
 ## Bookmarked Data Source
 1. [http://archive.ics.uci.edu/ml/index.php](http://archive.ics.uci.edu/ml/index.php){:target="_blank"\}
@@ -1109,6 +1139,24 @@ In a world driven by innovation and accelerated by artificial intelligence, the 
 1. [sanskritworld.in/](https://www.sanskritworld.in/){:target="_blank"}
 1. [sanskritworld.in/sanskrittool/SanskritVerb](https://www.sanskritworld.in/sanskrittool/SanskritVerb){:target="_blank"}
 
+## Python Libraries AI Engineer Should Know
+- Pydantic
+- Pydantic Settings
+- Python Dotenv
+- FastAPI
+- Celery
+- Databases
+- SQLAlchemy
+- Alembic
+- Pandas
+- LLM Model Providers
+- Instructor
+- LLM Frameworks
+- Vector Databases
+- Observability
+- DSPy
+- PDF Parsers
+- Jinja
 
 ## [My Bookmarked Blog Articles](/dsblog/mybookmark-blog-articles)
 This page already has become very long therefore moving bookmarked blog articles to another page. If you are interested you can visit the [My Bookmarked Blog Articles](/dsblog/mybookmark-blog-articles) page.
