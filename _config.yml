@@ -399,7 +399,11 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
+  endings: ["html", "head", "body"]  # Elements to compress
+  startings: ["div", "section"]  # Elements to compress
+  comments: "all"  # Comments handling
+  blanklines: true  # Remove blank lines
+  clippings: ["html", "head", "body"]  # Elements to clip
 
 # Defaults
 defaults:

@@ -17,7 +17,7 @@ categories:
   - ai
 
 header:
-  teaser: /assets/images/dspost/dsp6233-Why-to-use-off-ai-models.jpg
+  teaser: /assets/images/dspost/dsp6233-Why-to-use-offline-ai-models.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout

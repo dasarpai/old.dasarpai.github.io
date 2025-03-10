@@ -2,5 +2,14 @@
     "cSpell.words": [
         "anonymization",
         "multimodal"
+    ],
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "C:\\Users\\hari_\\Downloads\\chinook\\History.db",
+            "name": "ChromeHistory"
+        }
     ]
 }
