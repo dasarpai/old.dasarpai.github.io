@@ -15,6 +15,7 @@
 minimal_mistakes_skin    : "sunrise" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", 
 
 # Site Settings
+environment              : production
 long_date_format         : "%-d %B %Y at %H:%M"
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
@@ -36,7 +37,7 @@ copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "giscus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : dasarpai-com # https://dasarpai-com.disqus.com/admin/settings/general/ https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -50,23 +51,25 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
+    repo_id              : "dasarpai/dasarpai-comments"  # Shown during giscus setup at https://giscus.app
+    category_name        : "General Discussion" # Full text name of the category
     category_id          : # Shown during giscus setup at https://giscus.app
-    discussion_term      : # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-    strict               : # 1 for enabled, 0 for disabled (default)
-    input_position       : # "top", "bottom" # The comment input box will be placed above or below the comments
-    emit_metadata        : # 1 for enabled, 0 for disabled (default) # https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
-    lang                 : # "en" (default)
-    lazy                 : # true, false # Loading of the comments will be deferred until the user scrolls near the comments container.
+    discussion_term      : "url" # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : 1 # '1' for enabled (default), '0' for disabled
+    theme                : "light" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    strict               : 1 # 1 for enabled, 0 for disabled (default)
+    input_position       : "top" # "top", "bottom" # The comment input box will be placed above or below the comments
+    emit_metadata        : 1 # 1 for enabled, 0 for disabled (default) # https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
+    lang                 : "en" # "en" (default)
+    lazy                 : true # true, false # Loading of the comments will be deferred until the user scrolls near the comments container.
   staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+    repository           : "hari15sep-bots/dasarpai-staticman-elarkk"
+    branch               :  "master"
+    # endpoint             : "https://api.github.com/repos/hari15sep-bots/dasarpai-staticman-elarkk/issues"
+    endpoint             : "https://api.staticman.net/v1/entry"
 reCaptcha:
-  siteKey                : 6LemkdciAAAAAEwIgaytBovM5SUeu7P5bZpFSj8f
-  secret                 : 6LemkdciAAAAAMWQfAabO4iFR1Q0R720dkTfLWu9
+  siteKey                : "6LdiPeoqAAAAAOTg3cRz6p--dU8Kguv2xJPsZzm6"
+  secret                 : "6LdiPeoqAAAAAJHcVj1ASpm0j3x2PUaX2kb1CyeN" 
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
@@ -330,10 +333,11 @@ pagination:
 feed:
   collections:
     - dsblog
+    - wiapost
     - booksummary
     - samskrutyatra
     - pmblog
-    - wiapost
+
 
 
 # Plugins (previously gems:)
@@ -399,11 +403,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-  endings: ["html", "head", "body"]  # Elements to compress
-  startings: ["div", "section"]  # Elements to compress
-  comments: "all"  # Comments handling
-  blanklines: true  # Remove blank lines
-  clippings: ["html", "head", "body"]  # Elements to clip
+
 
 # Defaults
 defaults:
