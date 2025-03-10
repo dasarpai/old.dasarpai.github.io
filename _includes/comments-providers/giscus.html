@@ -11,7 +11,7 @@
     var script = document.createElement('script');
 
     script.setAttribute('src', 'https://giscus.app/client.js');
-    script.setAttribute('data-repo', '{{ site.repository | downcase }}');
+    script.setAttribute('data-repo', '{{ site.comments.giscus.repo | downcase }}');
     script.setAttribute('data-repo-id', '{{ site.comments.giscus.repo_id }}');
     script.setAttribute('data-category', '{{ site.comments.giscus.category_name }}');
     script.setAttribute('data-category-id', '{{ site.comments.giscus.category_id }}');
@@ -22,10 +22,11 @@
     script.setAttribute('data-input-position', '{{ site.comments.giscus.input_position | default: "top" }}');
     script.setAttribute('data-theme', '{{ site.comments.giscus.theme | default: "light" }}');
     script.setAttribute('data-lang',  '{{ site.comments.giscus.lang | default: "en" }}');
+
     {% if site.comments.giscus.lazy %}
-    script.setAttribute('data-loading', 'lazy');
+         script.setAttribute('data-loading', 'lazy');
     {% endif %}
-    script.setAttribute('crossorigin', 'anonymous');
+          script.setAttribute('crossorigin', 'anonymous');
 
     script.setAttribute('async', '');
 

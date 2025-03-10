@@ -51,9 +51,10 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
-    repo_id              : "dasarpai/dasarpai-comments"  # Shown during giscus setup at https://giscus.app
-    category_name        : "General Discussion" # Full text name of the category
-    category_id          : # Shown during giscus setup at https://giscus.app
+    repo                 : "dasarpai/dasarpai-comments"
+    repo_id              : "R_kgDOOGVFpA"  # Shown during giscus setup at https://giscus.app
+    category_name        : "General" # Full text name of the category
+    category_id          : "DIC_kwDOOGVFpM4CnzHR" # Shown during giscus setup at https://giscus.app
     discussion_term      : "url" # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : 1 # '1' for enabled (default), '0' for disabled
     theme                : "light" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
