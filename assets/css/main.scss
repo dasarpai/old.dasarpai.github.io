@@ -33,51 +33,37 @@ textarea,
   font-family: 'Roboto Serif', serif !important;
 }
 
-/* Default styles for mobile devices */
+/* Base font size - now larger for smallest mobile devices */
 html {
-  font-size: 1em !important; /* Adjust this value as needed for mobile */
-  -webkit-text-size-adjust: 160%;
+  font-size: 1.8em; /* Matching your original size for small devices */
+  -webkit-text-size-adjust: 100%;
 }
 
-/* Styles for small mobile devices */
-@media (max-width: 320px) {
+/* Medium mobile devices (321px to 480px) */
+@media (min-width: 321px) and (max-width: 480px) {
   html {
-    font-size: 1.8em !important;
+    font-size: 1.8em; /* Keeping your original size */
   }
 }
 
-/* Styles for medium mobile devices */
-@media (max-width: 480px) {
+/* Large mobile devices (481px to 768px) */
+@media (min-width: 481px) and (max-width: 768px) {
   html {
-    font-size: 1.8em !important;
+    font-size: 1.3em; /* Increased from your original 1.1em */
   }
 }
 
-/* Styles for large mobile devices */
-@media (max-width: 768px) {
+/* Tablets (769px to 1024px) */
+@media (min-width: 769px) and (max-width: 1024px) {
   html {
-    font-size: 1.1em !important;
+    font-size: 1.2em; /* Increased from your original 1.1em */
   }
 }
 
-/* Styles for tablets */
-@media (max-width: 1024px) {
+/* Desktops (1025px and up) */
+@media (min-width: 1025px) {
   html {
-    font-size: 1.1em !important;
-  }
-}
-
-/* Styles for desktops */
-@media (max-width: 1280px) {
-  html {
-    font-size: 1.1em !important;
-  }
-}
-
-/* Styles for large desktops */
-@media (max-width: 1600px) {
-  html {
-    font-size: 1.1em !important;
+    font-size: 1.1em; /* Keeping your original desktop size */
   }
 }
 
