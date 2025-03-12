@@ -35,21 +35,21 @@ textarea,
 
 /* Base font size - now larger for smallest mobile devices */
 html {
-  font-size: 1.8em; /* Matching your original size for small devices */
+  font-size: 2.0em; /* Matching your original size for small devices */
   -webkit-text-size-adjust: 100%;
 }
 
 /* Medium mobile devices (321px to 480px) */
 @media (min-width: 321px) and (max-width: 480px) {
   html {
-    font-size: 1.8em; /* Keeping your original size */
+    font-size: 2.0em; /* Keeping your original size */
   }
 }
 
 /* Large mobile devices (481px to 768px) */
 @media (min-width: 481px) and (max-width: 768px) {
   html {
-    font-size: 1.3em; /* Increased from your original 1.1em */
+    font-size: 1.5em; /* Increased from your original 1.1em */
   }
 }
 

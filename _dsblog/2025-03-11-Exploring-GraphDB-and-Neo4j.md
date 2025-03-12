@@ -323,11 +323,11 @@ RETURN p
 3. **`RETURN p`**  
    - Returns all `Person` nodes that satisfy the condition.
 
-Why It Works This Way:
+Why It Works This Way:   
 - The **subquery in `EXISTS`** ensures that the `p` node is only included in the result if there is at least one matching `Company` node.
 - The **matching inside `EXISTS` does not introduce new variables** but simply checks for the existence of a pattern.
 
-More Intuitive Alternative:
+More Intuitive Alternative:   
 Instead of using `EXISTS`, you could write:
 ```cypher
 MATCH (p:Person)-[:WORKS_AT]->(:Company)
@@ -352,21 +352,21 @@ Nodes in a GraphDB are like **rows in an RDBMS table**, but they are stored with
 Most GraphDBs use **linked lists, adjacency lists, or key-value stores** for nodes.
 
 1. **Adjacency List Representation** (Common in Neo4j)
-   ```
-   Node Table:
-   ┌────────┬─────────┬───────────────┬───────────┐
-   │ NodeID │ Label   │ Properties    │ Relations │
-   ├────────┼─────────┼───────────────┼───────────┤
-   │ 1      │ Person  │ {name: Alice} │ [R1, R3]  │
-   │ 2      │ Company │ {name: Acme}  │ [R2]      │
-   └────────┴─────────┴───────────────┴───────────┘
-   ```
+```
+Node Table:
+┌────────┬─────────┬───────────────┬───────────┐
+│ NodeID │ Label   │ Properties    │ Relations │
+├────────┼─────────┼───────────────┼───────────┤
+│ 1      │ Person  │ {name: Alice} │ [R1, R3]  │
+│ 2      │ Company │ {name: Acme}  │ [R2]      │
+└────────┴─────────┴───────────────┴───────────┘
+```
 
 2. **Key-Value Storage (Common in TigerGraph)**
-   ```
-   Key: NodeID
-   Value: {Label: Person, Properties: {name: "Alice", age: 30}}
-   ```
+```
+Key: NodeID
+Value: {Label: Person, Properties: {name: "Alice", age: 30}}
+```
 
 📌 **Advantages Over RDBMS:**  
 ✔ No need for foreign keys → **Faster lookups**  
@@ -387,20 +387,20 @@ A relationship contains:
 
 📌 **How it's Stored:**  
 1. **Doubly Linked List Representation (Neo4j)**
-   ```
-   Relationship Table:
-   ┌───────┬────────┬────────┬───────────────┬────────────┐
-   │ RelID │ Type   │ Start  │ End           │ Properties │
-   ├───────┼────────┼────────┼───────────────┼────────────┤
-   │ R1    │ FRIEND │ 1 (Alice) │ 3 (Bob) │ {since: 2020} |
-   │ R2    │ WORKS_AT │ 1 (Alice) │ 2 (Acme) │ {since: 2022} |
-   └───────┴────────┴────────┴───────────────┴────────────┘
-   ```
+```
+Relationship Table:
+┌───────┬────────┬────────┬───────────────┬────────────┐
+│ RelID │ Type   │ Start  │ End           │ Properties │
+├───────┼────────┼────────┼───────────────┼────────────┤
+│ R1    │ FRIEND │ 1 (Alice) │ 3 (Bob) │ {since: 2020} |
+│ R2    │ WORKS_AT │ 1 (Alice) │ 2 (Acme) │ {since: 2022} |
+└───────┴────────┴────────┴───────────────┴────────────┘
+```
 
 2. **Pointer-Based Storage (Optimized for Fast Traversal)**
-   ```
-   (Alice) --> [Pointer to R2] --> (Acme)
-   ```
+```
+(Alice) --> [Pointer to R2] --> (Acme)
+```
 
 📌 **Advantages Over RDBMS:**  
 ✔ **O(1) Traversal** → Direct memory pointers to related nodes  
@@ -410,6 +410,7 @@ A relationship contains:
 ---
 
 ### **Key Differences Between Node and Relationship Storage**
+
 | **Feature**            | **Node Storage** | **Relationship Storage** |
 |----------------|-------------|----------------|
 | **Data Type** | Entity (Person, Company) | Connection (e.g., FRIEND, WORKS_AT) |
@@ -441,18 +442,18 @@ R2: {Type: WORKS_AT, Start: 1, End: 2, Since: 2022}
 
 ### **💡 Querying the Relationship**
 - **GraphDB Query (Neo4j)**  
-  ```cypher
-  MATCH (a:Person {name: "Alice"})-[:WORKS_AT]->(c:Company)
-  RETURN a, c;
-  ```
+```cypher
+MATCH (a:Person {name: "Alice"})-[:WORKS_AT]->(c:Company)
+RETURN a, c;
+```
 - **RDBMS Query (SQL with JOINs)**  
-  ```sql
-  SELECT p.name, c.name
-  FROM persons p
-  JOIN works_at w ON p.id = w.person_id
-  JOIN companies c ON w.company_id = c.id
-  WHERE p.name = 'Alice';
-  ```
+```sql
+SELECT p.name, c.name
+FROM persons p
+JOIN works_at w ON p.id = w.person_id
+JOIN companies c ON w.company_id = c.id
+WHERE p.name = 'Alice';
+```
 
 **GraphDB Wins** because it **directly accesses** connected nodes instead of doing `JOINs`!
 
@@ -469,6 +470,86 @@ R2: {Type: WORKS_AT, Start: 1, End: 2, Since: 2022}
 - **Relationships** store **start & end node references** + metadata.  
 - **GraphDB eliminates foreign keys and JOINs**, leading to **faster relationship queries**.
 
+## Cypher Code Analysis 
+
+Let's assume we have following Information on Movies:
+
+"The Matrix" (Action, Sci-Fi)   
+"Forrest Gump" (Drama, Comedy)   
+"The Shawshank Redemption" (Drama)   
+
+We observe here that there are 4 Genres:
+
+Action   
+Comedy   
+Drama   
+Sci-Fi   
+
+### How to write query in Neo4j - GraphDB
+
+For the sake of brevity I am not using Create, Merge and Match syntax here.
+
+```
+(TheMatrix:Movie {title: "The Matrix", imdbRating: 8.7})
+-[:IN_GENRE]
+->(Action:Genre {name: "Action"})
+  (TheMatrix)
+-[:IN_GENRE]
+->(SciFi:Genre {name: "Sci-Fi"})
+
+(ForrestGump:Movie {title: "Forrest Gump", imdbRating: 8.8})
+-[:IN_GENRE]
+->(Drama:Genre {name: "Drama"})
+  (ForrestGump)
+-[:IN_GENRE]
+->(Comedy:Genre {name: "Comedy"})
+
+(Shawshank:Movie {title: "The Shawshank Redemption", imdbRating: 9.3})
+-[:IN_GENRE]
+->(Drama:Genre {name: "Drama"})
+```
+
+### Let's understand the format
+
+**Code for writing node**
+
+```
+###syntax for node 
+(: {}) ##syntax
+
+###template 
+(variable_name:label_name {pair of property_and_values})
+
+###abstract example
+(name_of_movie1:movie {title:"Title_of_Movie1",   
+Director_Name: "Name of the director for Movie1",   
+Producer_Name: "Name_of_Producer for movie1",   
+Rating: "Value_of_Rating_of_Movie1"})  
+
+###concreate example 
+(TheMatrix:Movie {title: "The Matrix", imbdRating: 8.7}
+```
+
+### Code for writing Relationship
+```
+###syntax for relationship
+()-[:]->() 
+
+
+###template
+(node1)-[:relation_name]->(node2) 
+
+##abstract example
+(movie1)-[:relation_name]->(genre1) 
+
+###Concrete Example
+
+(TheMatrix:Movie {title: "The Matrix", imbdRating: 8.7}   
+### (varable:label {property_of_label: property_of_value, and_other_properties}
+-[:IN_GENRE]                                            ### -[:Relation_Name]
+->(Action:Genre {name: "Action"})                       ### ->(another_node)
+```
+
 ## How to install Neo4j on local machine?
 - https://neo4j.com/download/
-- For application and application of GraphDB in AI you can follow this github repo:  [Advanced-QA-and-RAG-Series](https://github.com/dasarpai/Advanced-QA-and-RAG-Series)
+- For application of GraphDB in AI you can refer to this github repo:  [Advanced-QA-and-RAG-Series](https://github.com/dasarpai/Advanced-QA-and-RAG-Series)
