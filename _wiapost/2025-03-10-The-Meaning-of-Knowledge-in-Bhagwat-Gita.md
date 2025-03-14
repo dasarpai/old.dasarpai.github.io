@@ -24,15 +24,16 @@ toc_levels: 2
 
 In the Sanskrit language, there is a word "ज्ञान" (romanized as Gyan or Jnyana), which translates to "Knowledge" in English. However, in a worldly sense, when we talk about knowledge, we usually refer to information about something—generally objects, people, processes, or events around us. Sometimes, it also refers to our own body; for a slightly deeper thinker, it includes the mind and ego as well. But for a spiritual seeker, this "something" is not an external thing or "thing" at all but the Self.
 
-In this article, I have selected only those slokas (verses) from the Bhagavad Gita where the words ज्ञान, ज्ञेय, संज्ञ, or modifications of these words appear. I am intentionally avoiding any commentary on these slokas because the target audience of this article includes those who have an interest in Darshan Shastra, Sanskrit, and the Bhagavad Gita, and who can understand Sanskrit fairly well.
+In this article, I have selected only those slokas (verses) from the Bhagavad Gita where the words ज्ञान, ज्ञेय, संज्ञ, or modifications of these words appear. In the next section of this article I am including slokas containing a word Pragnya (प्रज्ञा) . I am intentionally avoiding any commentary on these slokas because the target audience of this article includes those who have an interest in Darshan Shastra, Sanskrit, and the Bhagavad Gita, and who can understand Sanskrit fairly well.
 
 Let’s look at these slokas. If you are looking for commentary, you may refer to texts, translations, or commentaries from your own tradition. If you do not have any specific source, you can refer to the IIT Kanpur website for commentaries.
 
 These verses helps us understanding what knowledge means, from where you can get different kind of knowledge, why it is important, how it is related to the ultimate meaning of life called Moksha, Self Realization, Liberation, Kaivalya, Reaching home, going inwards, dropping all fears etc. How different type and degree of knowledge helps human in navigating the life and ultimately pausing all the journey and reaching to the self.
 
 
-## Bhagwat Gita Verses where word "Knowledge" is used 
+## Bhagwat Gita Verses where word "Knowledge" is used - ज्ञान, ज्ञेय, संज्ञ
 
+1. अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम । नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ॥1-7॥   
 1. कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् । कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ॥1-39॥   
 1. **श्रीभगवानुवाच।**  लोकेऽस्मिन् द्विविधा निष्ठा पुरा प्रोक्ता मयानघ । ज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम् ॥3-3॥   
 1. यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः । तदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर ॥3-9॥   
