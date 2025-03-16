@@ -18,6 +18,47 @@ layout: default
   {% endunless %}
 {% endif %}
 
+
+
+{% if page.auto_number_headings %}
+<style>
+  /* Reset all counters at the page content level */
+.page__content {
+  counter-reset: h2counter;
+}
+
+/* For h2 headings */
+.page__content h2:not(.no-count)::before {
+  counter-increment: h2counter;
+  content: counter(h2counter) ". ";
+  /* Reset h3counter for THIS h2 element */
+}
+
+/* Reset h3counter for EACH h2 element */
+.page__content h2:not(.no-count) {
+  counter-reset: h3counter;
+}
+
+/* For h3 headings */
+.page__content h3:not(.no-count)::before {
+  counter-increment: h3counter;
+  content: counter(h2counter) "." counter(h3counter) ". ";
+}
+
+/* Reset h4counter for EACH h3 element */
+.page__content h3:not(.no-count) {
+  counter-reset: h4counter;
+}
+
+/* For h4 headings */
+.page__content h4:not(.no-count)::before {
+  counter-increment: h4counter;
+  content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) ". ";
+}
+</style>
+{% endif %}
+
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -46,7 +87,9 @@ layout: default
             </nav>
           </aside>
         {% endif %}
-        {{ content }}
+
+      {{ content }}
+
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
       

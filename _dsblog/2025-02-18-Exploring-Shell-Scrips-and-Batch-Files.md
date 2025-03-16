@@ -220,7 +220,7 @@ Customization: It allows users to customize their shell experience by adding con
 
 Persistent Settings: It ensures that certain settings and environment variables persist across all shell sessions without the need for manual reconfiguration.
 
-**How It Differs from Regular Scripts**   
+**How It Differs from Regular Scripts?**   
 Automatic Execution: Unlike regular scripts, which must be explicitly executed, the .bashrc file is automatically sourced when a new interactive shell session begins.
 
 Environment Changes: Changes made in .bashrc affect the current shell session, making it ideal for setting environment variables and aliases that you want available every time you open a terminal.

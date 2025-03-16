@@ -38,7 +38,7 @@ keywords:
   - "Cost-Effective Offline AI Solutions"
 ---
 
-![Why to use Offline AI Models](/assets/images/dspost/dsp6233-Why-to-use-off-ai-models.jpg)
+![Why to use Offline AI Models](/assets/images/dspost/dsp6233-Why-to-use-offline-ai-models.jpg)
 
 
 # Why to use Offline AI Models?

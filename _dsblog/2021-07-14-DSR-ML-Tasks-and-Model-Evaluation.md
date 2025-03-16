@@ -132,11 +132,13 @@ Sno|Task|Corpus|Paper|GLUE|SuperGLUE
 17 |  | [AX-b : Broadcoverage Diagnostic - Mathew's Corr]() | []() |No | Yes
 18 |  | [AX-g : Winogender Shema Diagnostic Gender Parity - Accuracy]() | []() |No | Yes
 
-### What is the difference between BLEU and GLUE
+### What is the difference between BLEU and GLUE?
 
 The **BLEU (Bilingual Evaluation Understudy)** score and the **GLUE (General Language Understanding Evaluation)** score are two different evaluation metrics used in the field of natural language processing (NLP), and they serve different purposes and evaluate different aspects of NLP models.
 
 BLEU is a metric commonly used to evaluate the **quality of machine translation** systems. It measures the similarity between the machine-generated translations and reference translations provided by human translators. BLEU score is **based on n-gram precision**, where it compares the n-gram sequences (typically up to 4-grams) between the machine-generated output and the reference translations. It assigns a score between 0 and 1, with a higher score indicating better translation quality.
+
+GLUE, on the other hand, is a benchmark for evaluating the performance of NLP models on a range of language understanding tasks. It provides a single-number evaluation metric that aggregates the performance of a model across multiple tasks, including textual entailment, sentiment analysis, question-answering, and more. The GLUE score is a weighted average of the model's performance on each of these tasks, with higher scores indicating better overall language understanding capabilities.
 
 ## What is METEOR Score?
 **METEOR (Metric for Evaluation of Translation with Explicit ORdering)** is a popular automatic evaluation metric used in the field of Natural Language Processing (NLP) to assess the quality of machine translation outputs. METEOR is designed to measure the overall similarity and alignment between a generated translation and a reference (human-generated) translation, taking into account multiple levels of linguistic analysis.
