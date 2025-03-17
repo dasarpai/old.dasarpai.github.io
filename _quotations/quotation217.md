@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Mind Prism
+# Mind Prism
 
 ![Mind Prism](/assets/images/quotations/quotation217.jpg)

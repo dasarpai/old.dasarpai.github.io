@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Manas and Chaitnya
+# Manas and Chaitnya
 
 ![Manas and Chaitnya](/assets/images/quotations/quotation068.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Conclusion about God
+# Conclusion about God
 
 ![Conclusion about God](/assets/images/quotations/quotation221.jpg)

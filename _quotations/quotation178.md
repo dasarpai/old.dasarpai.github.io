@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Test to know the Self
+# Test to know the Self
 
 ![Test to know the Self](/assets/images/quotations/quotation178.jpg)

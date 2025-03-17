@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Stay Positive Even When Alone
+# Stay Positive Even When Alone
 
 ![Stay Positive Even When Alone](/assets/images/quotations/quotation161.jpg)

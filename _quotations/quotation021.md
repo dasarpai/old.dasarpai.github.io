@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Spiritual Gurus vs ML Engineer
+# Spiritual Gurus vs ML Engineer
 
 ![Spiritual Gurus vs ML Engineer](/assets/images/quotations/quotation021.jpg)

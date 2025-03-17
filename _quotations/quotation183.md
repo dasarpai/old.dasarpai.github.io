@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Fearless Living
+# Fearless Living
 
 ![Fearless Living](/assets/images/quotations/quotation183.jpg)

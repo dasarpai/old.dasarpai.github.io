@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Karma cannot be Canceled
+# Karma cannot be Canceled
 
 ![Karma cannot be Canceled](/assets/images/quotations/quotation219.jpg)

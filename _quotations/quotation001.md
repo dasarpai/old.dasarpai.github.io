@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Life and God
+# Life and God
 
 ![Life and God](/assets/images/quotations/quotation001.jpg)

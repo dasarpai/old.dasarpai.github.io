@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Free Will
+# Free Will
 
 ![Free Will](/assets/images/quotations/quotation228.jpg)

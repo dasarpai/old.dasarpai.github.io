@@ -18,6 +18,7 @@ toc: true
 toc_sticky: true
 --- 
 
+![](/assets/images/default/gkblog.jpg)
 
 # Famous Statements of Indian Foreign Minister S. Jaishankar
 

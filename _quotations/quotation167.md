@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Machine Learning and Maths
+# Machine Learning and Maths
 
 ![Machine Learning and Maths](/assets/images/quotations/quotation167.jpg)

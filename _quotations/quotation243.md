@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Morality to Control People
+# Morality to Control People
 
 ![Morality to Control People](/assets/images/quotations/quotation243.jpg)

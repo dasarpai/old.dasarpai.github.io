@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Purpose of the Human Life
+# Purpose of the Human Life
 
 ![Purpose of the Human Life](/assets/images/quotations/quotation029.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Death, Love and Meditation
+# Death, Love and Meditation
 
 ![Death, Love and Meditation](/assets/images/quotations/quotation194.jpg)

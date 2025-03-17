@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Generalization
+# Generalization
 
 ![Generalization](/assets/images/quotations/quotation111.jpg)

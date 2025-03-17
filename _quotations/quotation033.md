@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Mind and Life
+# Mind and Life
 
 ![Mind and Life](/assets/images/quotations/quotation033.jpg)

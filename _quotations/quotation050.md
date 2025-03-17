@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Love and Mind
+# Love and Mind
 
 ![Love and Mind](/assets/images/quotations/quotation050.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Living the Purpose of the Human Body
+# Living the Purpose of the Human Body
 
 ![Living the Purpose of the Human Body](/assets/images/quotations/quotation233.jpg)

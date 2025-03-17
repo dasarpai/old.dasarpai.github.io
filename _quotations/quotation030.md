@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Life in Living Being
+# Life in Living Being
 
 ![Life in Living Being](/assets/images/quotations/quotation030.jpg)

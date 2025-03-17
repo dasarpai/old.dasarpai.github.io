@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Opposites Attracts
+# Opposites Attracts
 
 ![Opposites Attracts](/assets/images/quotations/quotation046.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Karma
+# Karma
 
 ![Karma](/assets/images/quotations/quotation171.jpg)

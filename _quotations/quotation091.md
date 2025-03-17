@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Reflective Mind
+# Reflective Mind
 
 ![Reflective Mind](/assets/images/quotations/quotation091.jpg)

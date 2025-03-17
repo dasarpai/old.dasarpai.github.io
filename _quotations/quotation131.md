@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Opinion about tomorrow
+# Opinion about tomorrow
 
 ![Opinion about tomorrow](/assets/images/quotations/quotation131.jpg)

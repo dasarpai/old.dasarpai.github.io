@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Price vs Value
+# Price vs Value
 
 ![Price vs Value](/assets/images/quotations/quotation106.jpg)

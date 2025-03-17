@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Machine Model Training and Child Training
+# Machine Model Training and Child Training
 
 ![Machine Model Training and Child Training](/assets/images/quotations/quotation165.jpg)

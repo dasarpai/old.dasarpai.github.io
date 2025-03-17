@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Attitude towards Luck
+# Attitude towards Luck
 
 ![Attitude towards Luck](/assets/images/quotations/quotation086.jpg)

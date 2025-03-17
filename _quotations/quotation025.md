@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Map is not Road
+# Map is not Road
 
 ![Map is not Road](/assets/images/quotations/quotation025.jpg)

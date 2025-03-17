@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Man vs Machine
+# Man vs Machine
 
 ![Man vs Machine](/assets/images/quotations/quotation215.jpg)

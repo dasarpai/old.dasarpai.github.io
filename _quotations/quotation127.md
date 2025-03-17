@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Experience of True Self
+# Experience of True Self
 
 ![Experience of True Self](/assets/images/quotations/quotation127.jpg)

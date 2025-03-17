@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Human Capabilities and Machine
+# Human Capabilities and Machine
 
 ![Human Capabilities and Machine](/assets/images/quotations/quotation110.jpg)

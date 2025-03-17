@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Existence without Adjectives
+# Existence without Adjectives
 
 ![Existence without Adjectives](/assets/images/quotations/quotation020.jpg)

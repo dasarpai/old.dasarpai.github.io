@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Crazy Human Mind
+# Crazy Human Mind
 
 ![Crazy Human Mind](/assets/images/quotations/quotation112.jpg)

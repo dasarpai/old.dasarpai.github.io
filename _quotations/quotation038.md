@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Happiness and Friends
+# Happiness and Friends
 
 ![Happiness and Friends](/assets/images/quotations/quotation038.jpg)

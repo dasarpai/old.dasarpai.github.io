@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Scientist vs Spiritualist
+# Scientist vs Spiritualist
 
 ![Scientist vs Spiritualist](/assets/images/quotations/quotation102.jpg)

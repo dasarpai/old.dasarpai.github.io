@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Do not Kill your Body
+# Do not Kill your Body
 
 ![Do not Kill your Body](/assets/images/quotations/quotation008.jpg)

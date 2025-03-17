@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Relax by Being
+# Relax by Being
 
 ![Relax by Being](/assets/images/quotations/quotation204.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Heating to Blasting
+# Heating to Blasting
 
 ![Heating to Blasting](/assets/images/quotations/quotation096.jpg)

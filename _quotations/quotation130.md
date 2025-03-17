@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Mindless Competition
+# Mindless Competition
 
 ![Mindless Competition](/assets/images/quotations/quotation130.jpg)

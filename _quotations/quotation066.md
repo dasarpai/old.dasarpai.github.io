@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Knowledge Base in Sanskrit
+# Knowledge Base in Sanskrit
 
 ![Knowledge Base in Sanskrit](/assets/images/quotations/quotation066.jpg)

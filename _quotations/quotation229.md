@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Working with Heart and Head
+# Working with Heart and Head
 
 ![Working with Heart and Head](/assets/images/quotations/quotation229.jpg)

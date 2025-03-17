@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Mind is illness
+# Mind is illness
 
 ![Mind is illness](/assets/images/quotations/quotation005.jpg)

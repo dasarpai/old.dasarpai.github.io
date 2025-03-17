@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Angerlessness is not Virtue
+# Angerlessness is not Virtue
 
 ![Angerlessness is not Virtue](/assets/images/quotations/quotation093.jpg)

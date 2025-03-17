@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## What is an Accident
+# What is an Accident
 
 ![What is an Accident](/assets/images/quotations/quotation015.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Hard work vs Donkey Work
+# Hard work vs Donkey Work
 
 ![Hard work vs Donkey Work](/assets/images/quotations/quotation088.jpg)

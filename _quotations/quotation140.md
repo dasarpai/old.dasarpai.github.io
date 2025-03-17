@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Should I Pray for Atheist
+# Should I Pray for Atheist
 
 ![Should I Pray for Atheist](/assets/images/quotations/quotation140.jpg)

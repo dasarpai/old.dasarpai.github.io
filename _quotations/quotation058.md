@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Language of the Cosmos
+# Language of the Cosmos
 
 ![Language of the Cosmos](/assets/images/quotations/quotation058.jpg)

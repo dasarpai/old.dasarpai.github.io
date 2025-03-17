@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Never Multiply with Negative
+# Never Multiply with Negative
 
 ![Never Multiply with Negative](/assets/images/quotations/quotation189.jpg)

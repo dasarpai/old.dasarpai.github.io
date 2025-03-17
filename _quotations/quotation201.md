@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Human Energy Flow
+# Human Energy Flow
 
 ![Human Energy Flow](/assets/images/quotations/quotation201.jpg)

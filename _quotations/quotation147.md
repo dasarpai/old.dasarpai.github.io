@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Having and Being
+# Having and Being
 
 ![Having and Being](/assets/images/quotations/quotation147.jpg)

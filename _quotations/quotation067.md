@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Price for Freedom
+# Price for Freedom
 
 ![Price for Freedom](/assets/images/quotations/quotation067.jpg)

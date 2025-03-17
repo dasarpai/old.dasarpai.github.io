@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Do not get hooked on the words
+# Do not get hooked on the words
 
 ![Do not get hooked on the words](/assets/images/quotations/quotation003.jpg)

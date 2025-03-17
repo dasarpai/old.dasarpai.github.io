@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Worship
+# Worship
 
 ![Worship](/assets/images/quotations/quotation017.jpg)

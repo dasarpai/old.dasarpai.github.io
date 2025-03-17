@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Love or Compromise
+# Love or Compromise
 
 ![Love or Compromise](/assets/images/quotations/quotation222.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Education and Suffering
+# Education and Suffering
 
 ![Education and Suffering](/assets/images/quotations/quotation105.jpg)

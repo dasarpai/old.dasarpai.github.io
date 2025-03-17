@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## The Purpose of the Human Body
+# The Purpose of the Human Body
 
 ![The Purpose of the Human Body](/assets/images/quotations/quotation232.jpg)

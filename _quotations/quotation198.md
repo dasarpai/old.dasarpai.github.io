@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Silence for the Self
+# Silence for the Self
 
 ![Silence for the Self](/assets/images/quotations/quotation198.jpg)

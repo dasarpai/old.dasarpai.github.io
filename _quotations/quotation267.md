@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## The Process of Learning and Evoluation
+# The Process of Learning and Evolution
 
 ![he Process of Learning and Evoluation](/assets/images/quotations/quotation267.jpg)

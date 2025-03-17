@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Three things to happen
+# Three things to happen
 
 ![Three things to happen](/assets/images/quotations/quotation070.jpg)

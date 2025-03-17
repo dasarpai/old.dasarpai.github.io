@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Tree and Human
+# Tree and Human
 
 ![Tree and Human](/assets/images/quotations/quotation270.jpg)

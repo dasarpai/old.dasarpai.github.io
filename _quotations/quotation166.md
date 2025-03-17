@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Data Augmentation in Machine Learning
+# Data Augmentation in Machine Learning
 
 ![Data Augmentation in Machine Learning](/assets/images/quotations/quotation166.jpg)

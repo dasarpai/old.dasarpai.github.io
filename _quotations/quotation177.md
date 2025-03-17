@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Love for Mathematics and Physics
+# Love for Mathematics and Physics
 
 ![Love for Mathematics and Physics](/assets/images/quotations/quotation177.jpg)

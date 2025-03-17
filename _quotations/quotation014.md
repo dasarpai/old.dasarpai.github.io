@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Rationality
+# Rationality
 
 ![Rationality](/assets/images/quotations/quotation014.jpg)

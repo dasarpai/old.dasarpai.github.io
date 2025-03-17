@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Why is he happy?
+# Why is he happy?
 
 ![Why is he happy?](/assets/images/quotations/quotation249.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Happiness through Love
+# Happiness through Love
 
 ![Happiness through Love](/assets/images/quotations/quotation023.jpg)

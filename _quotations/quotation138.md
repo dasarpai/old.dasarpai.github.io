@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Genuine Seekers are Rare Breed
+# Genuine Seekers are Rare Breed
 
 ![Genuine Seekers are Rare Breed](/assets/images/quotations/quotation138.jpg)

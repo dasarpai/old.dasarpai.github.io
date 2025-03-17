@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Develop A Mind to Dwell on the Self
+# Develop A Mind to Dwell on the Self
 
 ![Develop A Mind to Dwell on the Self](/assets/images/quotations/quotation156.jpg)

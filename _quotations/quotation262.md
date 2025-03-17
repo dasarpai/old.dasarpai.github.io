@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Your Chemistry your Choice
+# Your Chemistry your Choice
 
 ![Your Chemistry your Choice](/assets/images/quotations/quotation262.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Friendship with Good People
+# Friendship with Good People
 
 ![Friendship with Good People](/assets/images/quotations/quotation139.jpg)

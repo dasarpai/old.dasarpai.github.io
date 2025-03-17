@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Means and Goal
+# Means and Goal
 
 ![Means and Goal](/assets/images/quotations/quotation060.jpg)

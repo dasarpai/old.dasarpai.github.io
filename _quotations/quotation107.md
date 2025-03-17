@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Nirvana
+# Nirvana
 
 ![Nirvana](/assets/images/quotations/quotation107.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Glory of Sanskrit
+# Glory of Sanskrit
 
 ![Glory of Sanskrit](/assets/images/quotations/quotation151.jpg)

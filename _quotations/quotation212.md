@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Truth cannot be Said
+# Truth cannot be Said
 
 ![Truth cannot be Said](/assets/images/quotations/quotation212.jpg)

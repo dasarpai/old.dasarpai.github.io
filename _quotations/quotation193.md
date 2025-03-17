@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## What is Spirituality?
+# What is Spirituality?
 
 ![What is Spirituality?](/assets/images/quotations/quotation193.jpg)

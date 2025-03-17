@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Bodies and Their Food
+# Bodies and Their Food
 
 ![Bodies and Their Food](/assets/images/quotations/quotation248.jpg)

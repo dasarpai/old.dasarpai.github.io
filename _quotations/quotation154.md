@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Women and Samskrut
+# Women and Samskrut
 
 ![Women and Samskrut](/assets/images/quotations/quotation154.jpg)

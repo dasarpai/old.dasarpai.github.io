@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Yoga Nidra
+# Yoga Nidra
 
 ![Yoga Nidra](/assets/images/quotations/quotation158.jpg)

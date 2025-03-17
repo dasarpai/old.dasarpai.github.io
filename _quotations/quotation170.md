@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Sloka
+# Sloka
 
 ![Sloka](/assets/images/quotations/quotation170.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Language is to say what you don't want
+# Language is to say what you don't want
 
 ![Language is to say what you don't want](/assets/images/quotations/quotation135.jpg)

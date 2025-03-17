@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## The Concept of God
+# The Concept of God
 
 ![The Concept of God](/assets/images/quotations/quotation255.jpg)

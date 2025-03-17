@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Part of the Problem
+# Part of the Problem
 
 ![Part of the Problem](/assets/images/quotations/quotation045.jpg)

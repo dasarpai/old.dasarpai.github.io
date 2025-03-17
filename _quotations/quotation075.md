@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Type of Mind
+# Type of Mind
 
 ![Type of Mind](/assets/images/quotations/quotation075.jpg)

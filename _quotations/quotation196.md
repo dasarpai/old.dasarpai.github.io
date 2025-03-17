@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Light and Blindness
+# Light and Blindness
 
 ![Light and Blindness](/assets/images/quotations/quotation196.jpg)

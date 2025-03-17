@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Elasticity of Karma
+# Elasticity of Karma
 
 ![Elasticity of Karma](/assets/images/quotations/quotation187.jpg)

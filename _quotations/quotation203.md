@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## How to Stop Mind?
+# How to Stop Mind?
 
 ![How to Stop Mind?](/assets/images/quotations/quotation203.jpg)

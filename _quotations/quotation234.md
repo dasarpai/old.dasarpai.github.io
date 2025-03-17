@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Size of Body and Intelligence
+# Size of Body and Intelligence
 
 ![Size of Body and Intelligence](/assets/images/quotations/quotation234.jpg)

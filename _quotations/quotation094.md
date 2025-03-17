@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Knowing Facts vs Realizing Truth
+# Knowing Facts vs Realizing Truth
 
 ![Knowing Facts vs Realizing Truth](/assets/images/quotations/quotation094.jpg)

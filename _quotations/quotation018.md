@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Self Beyond Word
+# Self Beyond Word
 
 ![Self Beyond Word](/assets/images/quotations/quotation018.jpg)

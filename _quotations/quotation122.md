@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Unsupported Warranty
+# Unsupported Warranty
 
 ![Unsupported Warranty](/assets/images/quotations/quotation122.jpg)

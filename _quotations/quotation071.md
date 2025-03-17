@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Information Bombardment
+# Information Bombardment
 
 ![Information Bombardment](/assets/images/quotations/quotation071.jpg)

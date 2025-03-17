@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## What is Sin?
+# What is Sin?
 
 ![What is Sin?](/assets/images/quotations/quotation202.jpg)

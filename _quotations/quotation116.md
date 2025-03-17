@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Hurting When you Don't Want
+# Hurting When you Don't Want
 
 ![Hurting When you Don't Want](/assets/images/quotations/quotation116.jpg)

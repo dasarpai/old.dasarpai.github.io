@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Education after 2023
+# Education after 2023
 
 ![Education after 2023](/assets/images/quotations/quotation256.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Suffering, Pain, and Happiness
+# Suffering, Pain, and Happiness
 
 ![Suffering, Pain, and Happiness](/assets/images/quotations/quotation037.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Purpose and Limitation of Languages
+# Purpose and Limitation of Languages
 
 ![Purpose and Limitation of Languages](/assets/images/quotations/quotation224.jpg)

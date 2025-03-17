@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## The will of the universe
+# The will of the universe
 
 ![The will of the universe](/assets/images/quotations/quotation230.jpg)

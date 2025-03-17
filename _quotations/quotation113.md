@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Career Temptations vs Actual Passion
+# Career Temptations vs Actual Passion
 
 ![Career Temptations vs Actual Passion](/assets/images/quotations/quotation113.jpg)

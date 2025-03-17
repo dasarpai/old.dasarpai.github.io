@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Krishna and Cows
+# Krishna and Cows
 
 ![Krishna and Cows](/assets/images/quotations/quotation036.jpg)

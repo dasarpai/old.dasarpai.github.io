@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## The Way to know the Self
+# The Way to know the Self
 
 ![The Way to know the Self](/assets/images/quotations/quotation064.jpg)

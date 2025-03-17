@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Futuristic Education
+# Futuristic Education
 
 ![Futuristic Education](/assets/images/quotations/quotation133.jpg)

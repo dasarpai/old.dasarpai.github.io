@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Avoidable Assumptions
+# Avoidable Assumptions
 
 ![Avoidable Assumptions](/assets/images/quotations/quotation098.jpg)

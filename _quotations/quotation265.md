@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Trust Building
+# Trust Building
 
 ![Trust Building](/assets/images/quotations/quotation265.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Teachers of Dukkha All Around
+# Teachers of Dukkha All Around
 
 ![Teachers of Dukkha All Around](/assets/images/quotations/quotation104.jpg)

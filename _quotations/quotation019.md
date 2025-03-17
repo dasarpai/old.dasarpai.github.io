@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Accept Life in Totality
+# Accept Life in Totality
 
 ![Accept Life in Totality](/assets/images/quotations/quotation019.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Natural Mind vs Cultured Mind
+# Natural Mind vs Cultured Mind
 
 ![Natural Mind vs Cultured Mind](/assets/images/quotations/quotation090.jpg)

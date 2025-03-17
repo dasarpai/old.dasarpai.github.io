@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Food Habit
+# Food Habit
 
 ![Food Habit](/assets/images/quotations/quotation056.jpg)

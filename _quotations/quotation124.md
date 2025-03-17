@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Consciousness in Deep Sleep
+# Consciousness in Deep Sleep
 
 ![Consciousness in Deep Sleep](/assets/images/quotations/quotation124.jpg)

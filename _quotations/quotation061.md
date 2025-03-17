@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Purpose of the History
+# Purpose of the History
 
 ![Purpose of the History](/assets/images/quotations/quotation061.jpg)

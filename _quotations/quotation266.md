@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Enjoy the Process
+# Enjoy the Process
 
 ![Enjoy the Process](/assets/images/quotations/quotation266.jpg)

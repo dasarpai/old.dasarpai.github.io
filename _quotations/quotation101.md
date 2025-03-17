@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Attachment vs Love
+# Attachment vs Love
 
 ![Attachment vs Love](/assets/images/quotations/quotation101.jpg)

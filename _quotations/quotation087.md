@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Interpreting Math Formula
+# Interpreting Math Formula
 
 ![Interpreting Math Formula](/assets/images/quotations/quotation087.jpg)

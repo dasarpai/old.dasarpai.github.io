@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Our Mind
+# Our Mind
 
 ![Our Mind](/assets/images/quotations/quotation034.jpg)

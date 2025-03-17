@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Infinite World
+# Infinite World
 
 ![Infinite World](/assets/images/quotations/quotation168.jpg)

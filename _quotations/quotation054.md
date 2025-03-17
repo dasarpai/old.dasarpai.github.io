@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Love and Moksha
+# Love and Moksha
 
 ![Love and Moksha](/assets/images/quotations/quotation054.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Meaning of Spiritual Life
+# Meaning of Spiritual Life
 
 ![Meaning of Spiritual Life](/assets/images/quotations/quotation059.jpg)

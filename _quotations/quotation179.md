@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Human Compulsiveness
+# Human Compulsiveness
 
 ![Human Compulsiveness](/assets/images/quotations/quotation179.jpg)

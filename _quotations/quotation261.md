@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Detachment and Attachment
+# Detachment and Attachment
 
 ![Detachment and Attachment](/assets/images/quotations/quotation261.jpg)

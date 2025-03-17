@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Source of Happiness
+# Source of Happiness
 
 ![Source of Happiness](/assets/images/quotations/quotation085.jpg)

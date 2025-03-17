@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Wise Spider or Human
+# Wise Spider or Human
 
 ![Wise Spider or Human](/assets/images/quotations/quotation117.jpg)

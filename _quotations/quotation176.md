@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Thinking in Human vs Computers
+# Thinking in Human vs Computers
 
 ![Thinking in Human vs Computers](/assets/images/quotations/quotation176.jpg)

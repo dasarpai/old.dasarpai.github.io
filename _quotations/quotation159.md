@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Following Books or Action in Awareness
+# Following Books or Action in Awareness
 
 ![Following Books or Action in Awareness](/assets/images/quotations/quotation159.jpg)

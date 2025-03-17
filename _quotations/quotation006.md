@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Immortality beyond Graveyard
+# Immortality beyond Graveyard
 
 ![Immortality beyond Graveyard](/assets/images/quotations/quotation006.jpg)

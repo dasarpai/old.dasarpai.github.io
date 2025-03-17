@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Destruction in Meditation
+# Destruction in Meditation
 
 ![Destruction in Meditation](/assets/images/quotations/quotation254.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Leadership
+# Leadership
 
 ![Leadership](/assets/images/quotations/quotation188.jpg)

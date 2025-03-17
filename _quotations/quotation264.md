@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Who is Pandita?
+# Who is Pandita?
 
 ![Who is Pandita?](/assets/images/quotations/quotation264.jpg)

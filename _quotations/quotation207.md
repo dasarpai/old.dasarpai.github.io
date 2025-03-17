@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Slavery of Master
+# Slavery of Master
 
 ![Slavery of Master](/assets/images/quotations/quotation207.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Living and Dying
+# Living and Dying
 
 ![Living and Dying](/assets/images/quotations/quotation009.jpg)

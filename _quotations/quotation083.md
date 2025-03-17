@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Mistaking, Blaming, and Forging
+# Mistaking, Blaming, and Forging
 
 ![Mistaking, Blaming, and Forging](/assets/images/quotations/quotation083.jpg)

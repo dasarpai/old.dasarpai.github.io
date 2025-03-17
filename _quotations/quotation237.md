@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Busy life and freedom
+# Busy life and freedom
 
 ![Busy life and freedom](/assets/images/quotations/quotation237.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Ability to Question Makes us Human
+# Ability to Question Makes us Human
 
 ![Ability to Question Makes us Human](/assets/images/quotations/quotation152.jpg)

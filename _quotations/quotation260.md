@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Head vs Heart
+# Head vs Heart
 
 ![Head vs Heart](/assets/images/quotations/quotation260.jpg)

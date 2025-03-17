@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Saakshi of Mind
+# Saakshi of Mind
 
 ![Saakshi of Mind](/assets/images/quotations/quotation062.jpg)

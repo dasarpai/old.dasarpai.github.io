@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Six Topics to Think
+# Six Topics to Think
 
 ![Six Topics to Think](/assets/images/quotations/quotation028.jpg)

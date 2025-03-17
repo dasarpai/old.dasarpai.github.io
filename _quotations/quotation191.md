@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Moksha
+# Moksha
 
 ![Moksha](/assets/images/quotations/quotation191.jpg)

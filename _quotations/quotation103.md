@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Dukh me Sumiran Sab Kare
+# Dukh me Sumiran Sab Kare
 
 ![Dukh me Sumiran Sab Kare](/assets/images/quotations/quotation103.jpg)

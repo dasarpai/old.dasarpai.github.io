@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Information Age and Helpless Human
+# Information Age and Helpless Human
 
 ![Information Age and Helpless Human](/assets/images/quotations/quotation160.jpg)

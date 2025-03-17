@@ -27,13 +27,14 @@ keywords: [Summary of The Beginning of Infinity, David Deutsch, Philosophy]
 ![The Beginning of Infinity](/assets/images/booksummary/7541-The-Beginning-of-Infinity.jpg)
 
 # The Beginning of Infinity
+"The Beginning of Infinity: Explanations That Transform the World" by David Deutsch is a complex exploration of philosophy, science, and the potential for human progress. The book explores and establishes deep connections between the laws of nature, the human condition, knowledge, and the possibility for progress. This book has 18 chapters.
 
 - Any real process is physically possible to perform provided the knowledge to do so has been acquired. 
 - The Age of Enlightenment was an intellectual and philosophical movement that occurred in Europe in the 17th and the 18th centuries.
 - Enlightenment was the beginning of an infinite sequence of purposeful knowledge creation.
 - The Enlightenment set up the conditions for knowledge creation which disrupted the static societies that previously existed
 
-"The Beginning of Infinity: Explanations That Transform the World" by David Deutsch is a complex exploration of philosophy, science, and the potential for human progress. The book explores and establishes deep connections between the laws of nature, the human condition, knowledge, and the possibility for progress. This book has 18 chapters. Here's a chapter-by-chapter summary:
+ Here's a chapter-by-chapter summary:
 
 1. **The Reach of Explanations** - Deutsch argues that the power of science and human understanding is unlimited, and that through proper explanations, we can achieve an infinite understanding of the universe.
 

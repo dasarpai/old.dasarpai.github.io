@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Forgetting vs Forgiving
+# Forgetting vs Forgiving
 
 ![Forgetting vs Forgiving](/assets/images/quotations/quotation084.jpg)

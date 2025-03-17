@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Going Beyond Mind
+# Going Beyond Mind
 
 ![Going Beyond Mind](/assets/images/quotations/quotation214.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Religions of 21st Century
+# Religions of 21st Century
 
 ![Religions of 21st Century](/assets/images/quotations/quotation137.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Method of Greetings in India
+# Method of Greetings in India
 
 ![Method of Greetings in India](/assets/images/quotations/quotation181.jpg)

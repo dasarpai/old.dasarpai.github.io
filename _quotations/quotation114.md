@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## The Best is not the Best
+# The Best is not the Best
 
 ![The Best is not the Best](/assets/images/quotations/quotation114.jpg)

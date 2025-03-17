@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## All Time Honest is Impossible
+# All Time Honest is Impossible
 
 ![All Time Honest is Impossible](/assets/images/quotations/quotation132.jpg)

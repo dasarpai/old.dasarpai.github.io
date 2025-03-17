@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Morality vs Humanity
+# Morality vs Humanity
 
 ![Morality vs Humanity](/assets/images/quotations/quotation027.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Life Style & Happiness
+# Life Style & Happiness
 
 ![Life Style & Happiness](/assets/images/quotations/quotation051.jpg)

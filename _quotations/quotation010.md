@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Inactivity
+# Inactivity
 
 ![Inactivity](/assets/images/quotations/quotation010.jpg)

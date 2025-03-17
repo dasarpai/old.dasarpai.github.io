@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Defending in ignorance
+# Defending in ignorance
 
 ![Defending in ignorance](/assets/images/quotations/quotation031.jpg)

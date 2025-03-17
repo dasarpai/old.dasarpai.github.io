@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Happiness First
+# Happiness First
 
 ![Happiness First](/assets/images/quotations/quotation052.jpg)

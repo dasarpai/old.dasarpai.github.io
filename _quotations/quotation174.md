@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Does Human Being Have Free Will?
+# Does Human Being Have Free Will?
 
 ![Does Human Being Have Free Will?](/assets/images/quotations/quotation174.jpg)

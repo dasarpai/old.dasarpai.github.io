@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Worldly Joy
+# Worldly Joy
 
 ![Worldly Joy](/assets/images/quotations/quotation069.jpg)

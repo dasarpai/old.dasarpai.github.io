@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## A Fast Moving Train
+# A Fast Moving Train
 
 ![A Fast Moving Train](/assets/images/quotations/quotation120.jpg)

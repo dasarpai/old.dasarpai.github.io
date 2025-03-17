@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Empty Mind
+# Empty Mind
 
 ![Empty Mind](/assets/images/quotations/quotation042.jpg)

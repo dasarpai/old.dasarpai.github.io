@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Types of Vedanta
+# Types of Vedanta
 
 ![Types of Vedanta](/assets/images/quotations/quotation065.jpg)

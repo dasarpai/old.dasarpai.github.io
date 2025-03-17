@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## What is Mathematics
+# What is Mathematics
 
 ![What is Mathematics](/assets/images/quotations/quotation175.jpg)

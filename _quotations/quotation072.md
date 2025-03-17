@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## About Awareness
+# About Awareness
 
 ![About Awareness](/assets/images/quotations/quotation072.jpg)

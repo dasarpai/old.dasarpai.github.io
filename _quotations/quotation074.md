@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## AI and Human Jobs
+# AI and Human Jobs
 
 ![AI and Human Jobs](/assets/images/quotations/quotation074.jpg)

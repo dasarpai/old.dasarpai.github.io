@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Yajnya
+# Yajnya
 
 ![Yajnya](/assets/images/quotations/quotation169.jpg)

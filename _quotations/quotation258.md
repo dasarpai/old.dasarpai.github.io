@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Learning Process
+# Learning Process
 
 ![Learning Process](/assets/images/quotations/quotation258.jpg)

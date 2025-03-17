@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Don't Suffer
+# Don't Suffer
 
 ![Don't Suffer](/assets/images/quotations/quotation245.jpg)

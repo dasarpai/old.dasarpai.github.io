@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Who is Free in the World?
+# Who is Free in the World?
 
 ![Who is Free in the World?](/assets/images/quotations/quotation263.jpg)

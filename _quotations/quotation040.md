@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Listener, Message, and Messenger
+# Listener, Message, and Messenger
 
 ![Listener, Message, and Messenger](/assets/images/quotations/quotation040.jpg)

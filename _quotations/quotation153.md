@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Living with Awareness
+# Living with Awareness
 
 ![Living with Awareness](/assets/images/quotations/quotation153.jpg)

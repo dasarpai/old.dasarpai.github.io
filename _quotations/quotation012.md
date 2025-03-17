@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Respect vs Tolerance
+# Respect vs Tolerance
 
 ![Respect vs Tolerance](/assets/images/quotations/quotation012.jpg)

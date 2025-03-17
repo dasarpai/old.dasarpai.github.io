@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Pursuing Realty in Dream
+# Pursuing Realty in Dream
 
 ![Pursuing Realty in Dream](/assets/images/quotations/quotation002.jpg)

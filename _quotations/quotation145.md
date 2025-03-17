@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Nothing is Absolutely Good or Bad
+# Nothing is Absolutely Good or Bad
 
 ![Nothing is Absolutely Good or Bad](/assets/images/quotations/quotation145.jpg)

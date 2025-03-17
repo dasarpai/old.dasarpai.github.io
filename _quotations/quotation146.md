@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Negative or Positive Energy
+# Negative or Positive Energy
 
 ![Negative or Positive Energy](/assets/images/quotations/quotation146.jpg)

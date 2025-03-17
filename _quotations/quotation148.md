@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Superficial Life and Fear of AI
+# Superficial Life and Fear of AI
 
 ![Superficial Life and Fear of AI](/assets/images/quotations/quotation148.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Human Fear is Permanent
+# Human Fear is Permanent
 
 ![Human Fear is Permanent](/assets/images/quotations/quotation080.jpg)

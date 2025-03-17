@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Dissolve your Suffering
+# Dissolve your Suffering
 
 ![Dissolve your Suffering](/assets/images/quotations/quotation092.jpg)

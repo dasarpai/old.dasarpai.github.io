@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Human Suffering
+# Human Suffering
 
 ![Human Suffering](/assets/images/quotations/quotation227.jpg)

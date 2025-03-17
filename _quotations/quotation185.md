@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## House, Museum, or Tomb
+# House, Museum, or Tomb
 
 ![House, Museum, or Tomb](/assets/images/quotations/quotation185.jpg)

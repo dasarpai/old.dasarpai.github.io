@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Circular Life
+# Circular Life
 
 ![Circular Life](/assets/images/quotations/quotation039.jpg)

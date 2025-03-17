@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Real Living
+# Real Living
 
 ![Real Living](/assets/images/quotations/quotation190.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Working with Smarter People
+# Working with Smarter People
 
 ![Working with Smarter People](/assets/images/quotations/quotation163.jpg)

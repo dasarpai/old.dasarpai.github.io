@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Kind of People & Their Suffering
+# Kind of People & Their Suffering
 
 ![Kind of People & Their Suffering](/assets/images/quotations/quotation246.jpg)

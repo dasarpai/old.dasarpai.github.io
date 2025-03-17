@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Karma vs words
+# Karma vs words
 
 ![Karma vs words](/assets/images/quotations/quotation244.jpg)

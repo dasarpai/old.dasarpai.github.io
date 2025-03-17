@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Watching your Mind
+# Watching your Mind
 
 ![Watching your Mind](/assets/images/quotations/quotation121.jpg)

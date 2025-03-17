@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## When Silence is Good?
+# When Silence is Good?
 
 ![When Silence is Good?](/assets/images/quotations/quotation269.jpg)

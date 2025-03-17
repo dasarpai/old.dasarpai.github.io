@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Philosophical Pessimism
+# Philosophical Pessimism
 
 ![Philosophical Pessimism?](/assets/images/quotations/quotation250.jpg)

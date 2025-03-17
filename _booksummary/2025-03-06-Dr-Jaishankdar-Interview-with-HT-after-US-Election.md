@@ -3,7 +3,7 @@ mathjax: true
 id: 7546
 title: "Dr. Jaishankar's Interview with HT after US Election"
 date: 2025-03-06
-permalink: /booksummary/2025-03-06-Dr-Jaishankdar-Interview-with-HT-after-US-Election
+permalink: /booksummary/Dr-Jaishankdar-Interview-with-HT-after-US-Election-06-03-2025
 tags:
   - "Interview"
   - "Dr. S. Jaishankar"

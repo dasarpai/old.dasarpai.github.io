@@ -1,5 +1,5 @@
 ---       
-id: 5286
+id: 5287
 mathjax: true        
 title:  "The Meaning of Yagnya in Bhagwat gita"        
 date: "2025-03-12"        

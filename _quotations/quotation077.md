@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Objectification of Subject
+# Objectification of Subject
 
 ![Objectification of Subject](/assets/images/quotations/quotation077.jpg)

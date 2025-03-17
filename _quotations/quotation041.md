@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## God Supports the Weaker?
+# God Supports the Weaker?
 
 ![God Supports the Weaker?](/assets/images/quotations/quotation041.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Level of Living Philosophy
+# Level of Living Philosophy
 
 ![Level of Living Philosophy](/assets/images/quotations/quotation089.jpg)

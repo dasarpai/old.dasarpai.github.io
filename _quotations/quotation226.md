@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Sickness and Prescription
+# Sickness and Prescription
 
 ![Sickness and Prescription](/assets/images/quotations/quotation226.jpg)

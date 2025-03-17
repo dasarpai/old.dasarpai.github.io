@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Bondage is our creation
+# Bondage is our creation
 
 ![Bondage is our creation](/assets/images/quotations/quotation049.jpg)

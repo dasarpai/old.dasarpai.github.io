@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Meaning of Responsibility
+# Meaning of Responsibility
 
 ![Meaning of Responsibility](/assets/images/quotations/quotation150.jpg)

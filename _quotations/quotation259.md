@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Words of Socrates
+# Words of Socrates
 
 ![Words-of-Socrates](/assets/images/quotations/quotation259.jpg)

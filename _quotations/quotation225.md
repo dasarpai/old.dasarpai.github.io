@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## The curse of Knowledge
+# The curse of Knowledge
 
 ![The curse of Knowledge](/assets/images/quotations/quotation225.jpg)

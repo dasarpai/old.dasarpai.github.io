@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Understanding, Interpreting, and Solutioning
+# Understanding, Interpreting, and Solutioning
 
 ![Understanding, Interpreting, and Solutioning](/assets/images/quotations/quotation057.jpg)

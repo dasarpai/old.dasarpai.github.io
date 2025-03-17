@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## What is Nididhyasana?
+# What is Nididhyasana?
 
 ![What is Nididhyasana?](/assets/images/quotations/quotation081.jpg)

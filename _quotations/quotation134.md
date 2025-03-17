@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Coaching Method
+# Coaching Method
 
 ![Coaching Method](/assets/images/quotations/quotation134.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Useful Madness
+# Useful Madness
 
 ![Useful Madness](/assets/images/quotations/quotation206.jpg)

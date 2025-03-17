@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Knowledge Must Be Realized
+# Knowledge Must Be Realized
 
 ![Knowledge Must Be Realized](/assets/images/quotations/quotation155.jpg)

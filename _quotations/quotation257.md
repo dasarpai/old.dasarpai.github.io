@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Emotional-Machine
+# Emotional-Machine
 
 ![Emotional-Machine](/assets/images/quotations/quotation257.jpg)

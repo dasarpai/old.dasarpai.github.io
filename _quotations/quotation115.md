@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Holi 2022
+# Holi 2022
 
 ![Holi 2022](/assets/images/quotations/quotation115.jpg)

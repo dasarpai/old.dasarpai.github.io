@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Saint or Politician
+# Saint or Politician
 
 ![Saint or Politician](/assets/images/quotations/quotation239.jpg)

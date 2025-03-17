@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Root Cause of the Suffering
+# Root Cause of the Suffering
 
 ![Root Cause of the Suffering](/assets/images/quotations/quotation109.jpg)

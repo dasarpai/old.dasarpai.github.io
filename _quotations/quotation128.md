@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Adjusting Intensity of Mamkaar
+# Adjusting Intensity of Mamkaar
 
 ![Adjusting Intensity of Mamkaar](/assets/images/quotations/quotation128.jpg)

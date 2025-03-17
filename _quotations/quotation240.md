@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Fear of Death
+# Fear of Death
 
 ![Fear of Death](/assets/images/quotations/quotation240.jpg)

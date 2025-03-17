@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Genius is Disease
+# Genius is Disease
 
 ![Genius is Disease](/assets/images/quotations/quotation016.jpg)

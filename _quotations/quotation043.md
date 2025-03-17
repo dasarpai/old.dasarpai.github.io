@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## What should we do, for the peace of Mind?
+# What should we do, for the peace of Mind?
 
 ![What should we do, for the peace of Mind?](/assets/images/quotations/quotation043.jpg)

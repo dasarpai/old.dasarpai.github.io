@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Knowing vs Realizing
+# Knowing vs Realizing
 
 ![Knowing vs Realizing](/assets/images/quotations/quotation195.jpg)

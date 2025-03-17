@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Actions to Freedom
+# Actions to Freedom
 
 ![Actions to Freedom](/assets/images/quotations/quotation141.jpg)

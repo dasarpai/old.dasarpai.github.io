@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Human Looks for Slavery
+# Human Looks for Slavery
 
 ![Human Looks for Slavery](/assets/images/quotations/quotation241.jpg)

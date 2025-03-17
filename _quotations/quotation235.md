@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Food Taste vs Food Wisdom
+# Food Taste vs Food Wisdom
 
 ![Food Taste vs Food Wisdom](/assets/images/quotations/quotation235.jpg)

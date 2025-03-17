@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Cause of Pain and Suffering
+# Cause of Pain and Suffering
 
 ![Cause of Pain and Suffering](/assets/images/quotations/quotation180.jpg)

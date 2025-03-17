@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## The World is Complete
+# The World is Complete
 
 ![The World is Complete](/assets/images/quotations/quotation242.jpg)

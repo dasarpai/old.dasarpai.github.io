@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Democracy becoming Dictatorship
+# Democracy becoming Dictatorship
 
 ![Democracy becoming Dictatorship](/assets/images/quotations/quotation142.jpg)

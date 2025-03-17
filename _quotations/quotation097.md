@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Symmetry for Survival
+# Symmetry for Survival
 
 ![Symmetry for Survival](/assets/images/quotations/quotation097.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Purpose of Education 2
+# Purpose of Education 2
 
 ![Purpose of Education 2](/assets/images/quotations/quotation047.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Ganesh Worship in Hinduism
+# Ganesh Worship in Hinduism
 
 ![Ganesh Worship in Hinduism](/assets/images/quotations/quotation118.jpg)

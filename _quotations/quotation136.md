@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Educated People in Politics
+# Educated People in Politics
 
 ![Educated People in Politics](/assets/images/quotations/quotation136.jpg)

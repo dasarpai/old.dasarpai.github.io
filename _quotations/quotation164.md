@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Ideal Life to Live
+# Ideal Life to Live
 
 ![Ideal Life to Live](/assets/images/quotations/quotation164.jpg)

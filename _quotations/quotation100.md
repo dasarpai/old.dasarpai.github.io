@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Arrogance
+# Arrogance
 
 ![Arrogance](/assets/images/quotations/quotation100.jpg)

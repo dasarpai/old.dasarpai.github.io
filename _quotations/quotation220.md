@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Life, Death and Living
+# Life, Death and Living
 
 ![Life, Death and Living](/assets/images/quotations/quotation220.jpg)

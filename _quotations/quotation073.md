@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Limitation of Grammar
+# Limitation of Grammar
 
 ![Limitation of Grammar](/assets/images/quotations/quotation073.jpg)

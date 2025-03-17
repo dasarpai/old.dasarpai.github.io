@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Tragedy of Thinking
+# Tragedy of Thinking
 
 ![Tragedy of Thinking](/assets/images/quotations/quotation078.jpg)

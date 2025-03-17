@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Big Bang Timeline
+# Big Bang Timeline
 
 ![Big Bang Timeline](/assets/images/quotations/quotation252.jpg)

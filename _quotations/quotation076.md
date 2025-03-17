@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Infinity Divider
+# Infinity Divider
 
 ![Infinity Divider](/assets/images/quotations/quotation076.jpg)

@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Living in Fear
+# Living in Fear
 
 ![Living in Fear](/assets/images/quotations/quotation186.jpg)

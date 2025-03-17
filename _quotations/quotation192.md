@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## Existential Truth
+# Existential Truth
 
 ![Existential Truth](/assets/images/quotations/quotation192.jpg)

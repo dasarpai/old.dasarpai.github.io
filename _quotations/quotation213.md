@@ -14,6 +14,6 @@ excerpt:
 share: true 
 ---
 
-## You are not Past or Future
+# You are not Past or Future
 
 ![You are not Past or Future](/assets/images/quotations/quotation213.jpg)
