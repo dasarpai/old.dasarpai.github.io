@@ -30,7 +30,7 @@ mathjax: "true"
 
 Data Science, AI, Machine Learning, Books/ Guide/ Reports/ Presentations / Jupyter Notebook Available.
    
-All these books are available in pdf format at <a href="https://drive.google.com/drive/folders/1BB1xnuZ3KT87FAZlne1E3SGs5arH9Otp?usp=sharing" target="_blank"> this link</a>. I update this page less frequently but keep adding books in the repo. The list below may not contain the name you are looking for. Therefore, it is suggested to visit the link mentioned earlier. This link contains excellent presentations Book, (PPT), Handbook, Report, Articles (ARTC), Book, Booklet, eBook, Notebook, Notes, PAPER, GUIDE, TOC, Syllabus, LINKS, Handbook, Chapter, Tool, BROC – Broacher on Machine Learning, Deep Learning, NLP, Statistics, Reinforcement Learning, GAN. Approx 800 pdf files which inclues 350+ books. 
+All these books are available in pdf format at <a href="https://drive.google.com/drive/folders/14wS6JWWDsZ2TEXCD9A7jgLVCEVEd1Mpb?usp=sharing" target="_blank"> this link</a>. I update this page less frequently but keep adding books in the repo. The list below may not contain the name you are looking for. Therefore, it is suggested to visit the link mentioned earlier. This link contains excellent presentations Book, (PPT), Handbook, Report, Articles (ARTC), Book, Booklet, eBook, Notebook, Notes, PAPER, GUIDE, TOC, Syllabus, LINKS, Handbook, Chapter, Tool, BROC – Broacher on Machine Learning, Deep Learning, NLP, Statistics, Reinforcement Learning, GAN. Approx 800 pdf files which inclues 350+ books. 
 
 If you want to search all the books on above link then in the search box at above link you can enter "Book". Similarly if you looking for research paper you can type "Paper". You can use following tags to search in the search box. 
  
@@ -1188,7 +1188,7 @@ Sno | Book | Pages | Size(MB)
 60 | XGB Regressor With Hyperparameter Tuning TOOL.pdf | 45 | 0.475
 61 | Zero to Advance in DSA 50 Days Challenge TOC.pdf | 21 | 6.4
 
-## [PDFised Jupyter Notebook](https://drive.google.com/drive/folders/1UfV4kttDkk9xefjjJaQb1YzCPZq-iEe1?usp=sharing)
+## [PDFised Jupyter Notebook](https://drive.google.com/drive/folders/1-W-F8yo0Au_OBRMbvRrLegi1tVvZZ8LK?usp=sharing)
 
 1. 100 Numpy Exercises-JupyterNB.pdf
 1. 100 Pandas Exercises-JupyterNB.pdf

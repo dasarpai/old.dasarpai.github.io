@@ -920,6 +920,8 @@ A data scientist is dealing with different streams of subjects like statistics, 
 - Slope of Geometry = Gradient of calculus = Gradient in Deep Learning and Machine Learning. The value of slope or gradient can be between $$-\infty \,\, to \,\,+\infty$$
 
 ## Resources
+If any of the link breaks then you can search for these books at [location](https://drive.google.com/drive/folders/14wS6JWWDsZ2TEXCD9A7jgLVCEVEd1Mpb?usp=drive_link)
+
 - [Statistics_Cartoon_Guide-BOOK](https://drive.google.com/file/d/1rwFT2l39UsuNs9kyyqoSLsxH-zMk5FBx/view?usp=sharing)
 - [Probability and Statistics for Data Science-BOOK](https://drive.google.com/file/d/1RhqHx_7suKuHamekBkEHvwn5OjUD4sds/view?usp=sharing)
 - [Comprehensive & Practical Inferential Statistics Guide-GUIDE](https://drive.google.com/file/d/1PMa7FSwkY_AkI6UrtnhgPIWEjNs60kLY/view?usp=sharing)

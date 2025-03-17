@@ -36,7 +36,7 @@ mathjax: true
    
 # Data Science Interview Question Answers   
     
-Thousands of interview questions on various topic related to Machine Learning, Deep Learning, Computer Vision, NLP, AWS, GCP, MLOPS, Data Analytics, SQL, Python & Statistics. These questions are related to technology, architectures and solving business problem. [This gdrive link](https://drive.google.com/drive/folders/1LG5ZaDAyN-hU3eacWOY97CHHGDT1hKBD?usp=sharing) has 51 pdf files which contains the questions and answers.
+Thousands of interview questions on various topic related to Machine Learning, Deep Learning, Computer Vision, NLP, AWS, GCP, MLOPS, Data Analytics, SQL, Python & Statistics. These questions are related to technology, architectures and solving business problem. [This gdrive link](https://drive.google.com/drive/folders/1O9DcVhE5r0lBPpZd8bFjaA0FqPv94Vbm?usp=sharing) has 51 pdf files which contains the questions and answers.
 
 ## Interview Question Answers
 

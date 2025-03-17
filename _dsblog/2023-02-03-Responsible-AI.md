@@ -75,9 +75,8 @@ The development and deployment of AI has the potential to bring about significan
 
 ## Resources
 
-You can find all these books, reports, presentations at <a href="https://drive.google.com/drive/folders/1BB1xnuZ3KT87FAZlne1E3SGs5arH9Otp?usp=sharing" target="_blank"> this link</a>.
-
-[google drive](https://drive.google.com/drive/folders/1UcXNEOZND7GdoaV7k93lNH21DoJAFZMz?usp=sharing)   
+You can find all these books, reports, presentations at <a href="https://drive.google.com/drive/folders/14wS6JWWDsZ2TEXCD9A7jgLVCEVEd1Mpb?usp=drive_link" target="_blank"> this link</a>.
+  
 
 1. 10 Keys to AI Success in 2021-by-DataRobot-PPT.pdf
 1. 19 Slides on AI, AI-Ethics, and XAI - Murat Durmus-PPT.pdf

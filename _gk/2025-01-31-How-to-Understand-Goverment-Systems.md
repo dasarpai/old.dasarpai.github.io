@@ -8,7 +8,7 @@ tags: [Government Systems, Politics, Governance]
 keywords: [Government, Politics, Governance, Systems]
 categories: [GK, Government, Politics]
 header:
-    teaser: //assets/images/default/gkblog.jpg
+    teaser: /assets/images/default/gkblog.jpg
 author: Jane Doe
 layout: single
 excerpt: "This article explores a template to understand the structures and functions of government systems, providing insights into their roles and processes."

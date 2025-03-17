@@ -400,7 +400,7 @@ Defending against neural fake news. arXiv preprint arXiv:1905.12616, 2019
 - It produces a model that achieves high bi-text retrieval accuracy over 112 languages 
 
 ## NLP Papers Available on my Google Drive 
-You can download these papers from [link](https://drive.google.com/drive/folders/1UiDwP2EwhQCl6O9t_PCCtNmouLNwTav7?usp=sharing)
+You can download these papers from [link](https://drive.google.com/drive/folders/1588WNZVCTRbOnsrSVKousaky7A59mfl9?usp=sharing)
 
 1. A brief introduction to boosting.pdf
 1. A Closer Look at Fermentors and Bioreactors.pdf
@@ -604,7 +604,7 @@ You can download these papers from [link](https://drive.google.com/drive/folders
 1. XLNet Generalized Autoregressive Pretraining for Language Understanding.pdf
 
 ## AI Papers Available on my Google Drive 
-You can download these papers from [link](https://drive.google.com/drive/folders/1Ulrq7wjTekGbWoXr56jnj3N066k4hiLF?usp=sharing)
+You can download these papers from [link](https://drive.google.com/drive/folders/1_dMdWy_qytFEDs2JQr4ecSs92T1RG_Ju?usp=sharing)
 
 1. A Comprehensive Survey on Graph Neural  Networks-PAPER.pdf
 1. A machine learning approach to predicting psychosis-PAPER.pdf
