@@ -1,21 +1,42 @@
----       
-id: 6243
-mathjax: true        
-title:  "The Study of Life: Understanding Its Origins, Sustenance, and Evolution"        
-date: "2025-03-17"        
-permalink: /dsblog/the-study-of-life
-header:        
-    teaser: /assets/images/dspost/dsp6243-the-study-of-life.jpg               
-author: Hari Thapliyaal        
-layout: wiapost-layout        
-author_profile: true        
-share: true
-categories: [life-science, biology, ecology, evolution, nature, environment, conservation]
-tags:  [The Study of Life, Life Science, Biology, Ecology, Evolution, Nature, Environment, Conservation]
-excerpt: "What is life? How does it originate, sustain, and evolve? In this article, we delve into the scientific foundations of life, exploring its various disciplines, from biology and medicine to ecology and artificial intelligence. We also outline a comprehensive hierarchical classification of life sciences, covering various subfields that contribute to our understanding of the living world."
-toc_sticky: true
-toc_levels: 2
 ---
+mathjax: true
+id: 6243
+title: "What are Life Sciences?"
+date: 2025-03-17
+permalink: /dsblog/what-are-life-sciences
+tags:
+  - Life Sciences
+  - Biology
+  - What is Life
+  - Definition of Life
+  - Characteristics of Life
+  - Branches of Biology
+categories:
+  - dsblog
+  - biology
+  - life sciences
+
+header:
+  teaser: /assets/images/dspost/dsp6243-the-study-of-life.jpg
+excerpt_separator: "<!--more-->"
+author: Hari Thapliyaal
+layout: dspost-layout
+excerpt: "Understand the concept of life, its origins, sustenance, and evolution. This article covers the definition of life, characteristics, and branches of biology."
+author_profile: true
+share: true
+toc: true
+toc_sticky: true
+toc_levels: 3
+comments: true
+auto_number_headings : false
+keywords:
+  - "What is Life Science?"
+  - "Branches of Life Science"
+  - "Characteristics of Life"
+  - "Definition of Life"
+  - "What is Biology?"
+---
+
 
 ![The Study of Life: Understanding Its Origins, Sustenance, and Evolution](/assets/images/dspost/dsp6243-the-study-of-life.jpg)
 

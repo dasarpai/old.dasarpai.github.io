@@ -29,7 +29,7 @@ toc: true
 toc_sticky: true
 toc_levels: 3
 comments: true
-auto_number_headings : true
+auto_number_headings : false
 keywords:
   - "Applications of Math in Real Life"
   - "Real-Life Examples of Math"

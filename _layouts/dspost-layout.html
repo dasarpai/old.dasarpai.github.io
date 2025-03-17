@@ -117,10 +117,9 @@ layout: default
               {% endfor %}
             {% else %}
               <li>No categories</li>
-            {% endif %}
-          </ul>
+            {% endif %}				  
+          </ul>	 
         </div>
-
         <div class="post-tags">
           <h3>Tags:</h3>
           <ul>
@@ -159,23 +158,11 @@ layout: default
       {% include post_pagination.html %}
     </div>
 
-
-
-    <!-- <script>alert("Loading dspost-layout.html 1");</script> -->
-
-    <!-- <script>alert("{{site.environment}} " + " " + "{{site.comments.provider}}" + " "+ "{{page.comments}}");</script> -->
     {% if site.environment == 'production' and site.comments.provider and page.comments %}
 
-    <!-- <script>alert("Loading dspost-layout.html 2xxxx");</script> -->
       {% include comments.html %}
     {% endif %}
 
-
-    
-
-    
-
-    
   </article>
 
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
@@ -189,9 +176,6 @@ layout: default
       </div>
     </div>
   {% comment %}<!-- otherwise show recent posts if no related when `related: true` -->{% endcomment %}
-
-
-
 
   {% elsif page.id and page.related %}
     <div class="page__related">
