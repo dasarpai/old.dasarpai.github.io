@@ -116,9 +116,10 @@ layout: default
       {% include post_pagination.html %}
     </div>
     {% if site.environment == 'production' and site.comments.provider and page.comments %}
-    {% include comments.html %}
+       {% include comments.html %}
     {% endif %}
   </article>
+
 
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
@@ -164,7 +165,7 @@ layout: default
           {% assign sorted_posts = site.wiapost | sort: "author_date" | reverse %}
           {% for post in sorted_posts %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-          {% endfor %}
+          {% endfor %}			  
         {% else %}
           <li>No related articles available.</li>
         {% endif %}

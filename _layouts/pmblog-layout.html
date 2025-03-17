@@ -59,6 +59,9 @@ layout: default
         {% include page__date.html %}
       </footer>
 
+      <!-- Custom Disqus Section -->
+      {% include disqus-custom.html %}
+      
       <!-- Tags and Categories Section -->
 	  
 
@@ -94,15 +97,14 @@ layout: default
       </div>
 
       {% if site.environment == 'production' and site.comments.provider and page.comments %}
-      {% include comments.html %}
+         {% include comments.html %}
       {% endif %}
 
 
       
       <!-- Custom Disqus Section -->
       {% include disqus-custom.html %}
-      
-      </article>
+  </article>
 
       {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
       {% if page.id and page.related and site.related_posts.size > 0 %}
