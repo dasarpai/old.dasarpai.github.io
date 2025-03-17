@@ -3,7 +3,7 @@ id: 6243
 mathjax: true        
 title:  "The Study of Life: Understanding Its Origins, Sustenance, and Evolution"        
 date: "2025-03-17"        
-permalink: /wiaposts/the-study-of-life
+permalink: /dsblog/the-study-of-life
 header:        
     teaser: /assets/images/dspost/dsp6243-the-study-of-life.jpg               
 author: Hari Thapliyaal        
