@@ -43,6 +43,8 @@ There is no dearth of React tutorial and guide on the internet then why this art
 
 The learning process can be quite diverse, and people come from different backgrounds and experiences. Some may prefer a more structured approach, while others may enjoy exploring concepts through Q&A formats. This article aims to provide a concise introduction to React.js, also known as React, by exploring the most common questions people have about this popular JavaScript library. Whether you're a beginner looking to learn the basics or an experienced developer wanting to know more about React, this article should provide you with a solid foundation.
 
+This kind of article is not a replacement for practical working experience. If you have some previous experience it helps
+in revision. If you are new to React it help you understanding the possibilities. If you a manager or architect it helps understand what work can be done with React.
 
 ## History Behind React
 When Facebook introduced React in **2013**, it wasn’t just another JavaScript library—it was a response to major challenges in building complex web applications. 
@@ -56,7 +58,7 @@ When Facebook introduced React in **2013**, it wasn’t just another JavaScript 
 - Updating the DOM was slow
 - State management was hard
 - Code became difficult to maintain
-- Re-rendering the entire UI was inefficient*
+- Re-rendering the entire UI was inefficient
 
 Facebook was exploring better way to build UI that updates efficiently.
 
@@ -86,16 +88,19 @@ Virtual DOM: React uses a virtual DOM to efficiently update the user interface, 
 - JSX: React uses JSX, a syntax extension to JavaScript that allows you to write HTML-like structures within your JavaScript code, making it easier to define UI elements. 
 - Declarative: React encourages a declarative approach to UI development, meaning you describe what the UI should look like, and React handles the rendering and updates. 
 - Open Source: React is an open source library, developed and maintained by Facebook and a large community of developers. 
-Use Cases:
+
+**Use Cases:**  
 - Single-Page Applications (SPAs): React is well-suited for building SPAs, where the entire application runs within a single web page, and user interactions update the UI without full page reloads. 
 - Mobile Applications: React Native, a framework built on React, allows developers to build native mobile apps (Android and iOS) using React's component-based architecture. 
 - Web Applications: React is widely used for building complex web applications with dynamic and interactive user interfaces. 
-Why it's popular:
+
+**Why it's popular:**  
 - Performance: React's virtual DOM and efficient update mechanisms lead to fast and responsive applications. 
 - Reusability: Components can be easily reused across different parts of an application, promoting code maintainability and efficiency. 
 - Large Community: React has a large and active community, providing ample resources, libraries, and support. 
 - Learnability: React's component-based approach and declarative nature make it relatively easy to learn and use. 
-Alternatives:
+
+**Alternatives:**  
 - While React is a popular choice, other JavaScript libraries and frameworks for building user interfaces include Angular and Vue.js. 
 
 

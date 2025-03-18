@@ -40,7 +40,7 @@ keywords:
 
 ## Introduction
 
-If you are coming from a background of software development then you might have heard of terms like SDK (Software Development Kit), Framework, API (Application Programming Interface), Library, Platform, Toolkit, Engine, Runtime, IDE (Integrated Development Environment), CLI (Command-Line Interface), Middleware, Boilerplate, Stack, Environment, Suite, DSL (Domain-Specific Language), Scaffold, Package, Module, Template, Generator, Container, Orchestrator, Bindings, Driver, Sandbox, and many more. Sometimes you might be beating your head to understand what is the difference terms and why people coin a term every time. 
+If you are coming from a background of software development then you might have heard of terms like SDK (Software Development Kit), Framework, API (Application Programming Interface), Library, Platform, Toolkit, Engine, Runtime, IDE (Integrated Development Environment), CLI (Command-Line Interface), Middleware, Boilerplate, Stack, Environment, Suite, DSL (Domain-Specific Language), Scaffold, Package, Module, Template, Generator, Container, Orchestrator, Bindings, Driver, Sandbox, and many more. Sometimes you might be beating your head to understand what is the difference between these terms and why people coin a new term every time. 
 
 Even if you are not coming from a software development background, have you ever wondered what powers the apps, websites, and software you use every day? Behind every line of code lies a world of software development toolsets—from frameworks and SDKs to lesser-known gems like scaffolds and orchestrators. Whether you’re a beginner dipping your toes into coding or a seasoned developer looking to expand your toolkit, understanding these high-level tools is important. 
 

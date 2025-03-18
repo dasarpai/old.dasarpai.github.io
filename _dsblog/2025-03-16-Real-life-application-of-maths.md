@@ -44,13 +44,13 @@ keywords:
 
 Welcome to the fascinating world of mathematics! Math isn't just about solving equations in a classroom—it is deeply woven into the fabric of our daily lives. From predicting natural disasters to optimizing business strategies, mathematics helps us make sense of the world.  
 
-In this thread, we’ll explore 16 key areas of mathematics and their surprising real-world applications.  
+In this thread, we’ll explore 16 key areas of mathematics and their surprising real-world applications. And mind it all this tip of iceberg. This article is specially for those who who studied maths in school and college and today they are completely in the different field and they find it difficult to understand the usecases of maths except counting numbers and money calculations. :)  
 
 ## **1. Calculus: Understanding Change and Motion**  
 Calculus is the backbone of engineering, physics, and medicine. It helps in:  
 - **Medicine**: Modeling blood flow, tracking disease spread, and optimizing drug dosages.  
 - **Physics**: Understanding motion, from how planets orbit to how light bends.  
-- **Technology**: Developing machine learning algorithms that adjust dynamically, such as recommendation systems on Netflix and YouTube.  
+- **Technology**: Developing machine learning algorithms and neural network architectures that adjust dynamically, such as recommendation systems on Netflix and YouTube, image recognition in self-driving cars, and speech recognition in virtual assistants.  
 
 ## **2. Statistics: Making Data-Driven Decisions**  
 Statistics is used in nearly every field to make sense of data and make predictions:  
@@ -113,7 +113,7 @@ Mathematical physics is vital for:
 - **Material Science**: Developing new materials for electronics and energy storage.  
 
 ## **12. Linear Algebra: The Key to AI and Data Science**  
-Linear algebra is essential in:  
+Linear algebra is a specific area within algebra that focuses on vectors, vector spaces, matrices, and linear transformations. Linear algebra is essential in:  
 - **Machine Learning**: Powering facial recognition, fraud detection, and chatbots.  
 - **3D Graphics**: Enhancing animation in movies and video games.  
 - **Quantum Mechanics**: Describing how particles behave at atomic levels.  
@@ -137,7 +137,7 @@ Operations research helps in:
 - **Healthcare**: Optimizing hospital resource allocation.  
 
 ## **16. Fractals: Understanding Patterns in Nature**  
-Fractals are used in:  
+In math, a fractal is a never-ending pattern. Fractals are built by repeating something over and over again. Fractals may be created using numbers or with images Many fractals exist in nature, such as patterns that may be observed in ferns and broccoli. Fractals are used in:  
 - **Medical Imaging**: Enhancing MRI and CT scan analysis.  
 - **Stock Market Analysis**: Identifying trends and patterns in financial data.  
 - **Environmental Science**: Studying coastlines, mountain ranges, and natural formations.  
@@ -145,6 +145,6 @@ Fractals are used in:
 ---  
 
 ### **Conclusion**  
-Mathematics is more than just an academic subject; it’s a universal language that shapes our daily lives. Many of these mathematical concepts are extensively applied in Machine Learning, Data Science, and AI development, influencing everything from self-driving cars to virtual assistants.  
+Mathematics is more than just an academic subject; it’s a universal language that shapes our daily lives. This language is more powerful than human languages like English, Chinese, or Hindi. Many of these mathematical concepts are extensively applied in Machine Learning, Data Science, and AI development, influencing everything from self-driving cars to virtual assistants.  
 
 Math is everywhere—you just need to know where to look!  
