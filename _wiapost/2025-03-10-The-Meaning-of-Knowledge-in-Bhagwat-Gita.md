@@ -1,7 +1,7 @@
 ---       
 id: 5286
 mathjax: true        
-title:  "The Meaning of Knowledge in Bhagwat gita"        
+title:  "The Meaning of Word Knowledge or Gyan or Jnyana in Bhagwat Gita"        
 date: "2025-03-10"        
 permalink: /wiaposts/meaning-of-knowledge-in-bhagavad-gita
 header:        
@@ -20,7 +20,7 @@ toc_levels: 2
 
 ![The Meaning of Word Yoga in Bhagwat gita](/assets/images/wiapost/5286-meaning-of-knowledge-in-bhagavad-gita.jpg)
 
-# The Meaning of Word Knowledge in Bhagwat gita
+# The Meaning of Word Knowledge in Bhagwat Gita
 
 In the Sanskrit language, there is a word "ज्ञान" (romanized as Gyan or Jnyana), which translates to "Knowledge" in English. However, in a worldly sense, when we talk about knowledge, we usually refer to information about something—generally objects, people, processes, or events around us. Sometimes, it also refers to our own body; for a slightly deeper thinker, it includes the mind and ego as well. But for a spiritual seeker, this "something" is not an external thing or "thing" at all but the Self.
 

@@ -1,7 +1,7 @@
 ---       
 id: 5283
 mathjax: true        
-title:  "The Meaning of Word Dharma in Bhagwat gita"        
+title:  "The Meaning of Word Dharma in Bhagwat Gita"        
 date: "2025-03-03"        
 permalink: /wiaposts/meaning-of-dharma-in-bhagavad-gita
 header:        
@@ -20,7 +20,7 @@ toc_levels: 2
 
 ![The Meaning of Word Dharma in Bhagwat gita](/assets/images/wiapost/5283-meaning-of-dharma-in-bhagavad-gita.jpg)
 
-# The Meaning of Word Dharma in Bhagwat gita
+# The Meaning of Word Dharma in Bhagwat Gita
 
 The Bhagavad Gita is one of the most highly respected books of the Hindus. It has been translated into almost every language in the world. It contains 700 shlokas. This text is part of the Mahabharata's Bhishma Parva, which describes the first day of the battle when Bhishma was the commander-in-chief of the Kauravas. This separate book of 700 shlokas is a conversation between Arjuna and Bhagwan Krishna. It is in a question-and-answer format. Most of the questions were asked by Arjuna, but sometimes Krishna, in turn, asks questions in between and answers them. 
 
