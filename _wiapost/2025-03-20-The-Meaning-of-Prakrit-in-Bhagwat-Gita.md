@@ -12,8 +12,8 @@ author_profile: true
 share: true
 categories: [wiaposts, hinduism, bhagavad-gita] 
 tags:  [Prakriti in Bhagavad Gita, Meaning of Nature, Bhagavad Gita teachings, Hinduism, Spirituality, Self-Inquiry, Spiritual Growth, Self-Discovery, Inner Peace]      
-keywords: [What is Nature?, What is Prarkit?, Meaning of Prakriti in Bhagavad Gita, Bhagavad Gita teachings on Nature, Yoga in Hinduism, Spiritual Inquiry, Self-Discovery, Inner Peace, Spiritual Growth, Self-Improvement]
-excerpt: 
+keywords: [What is Nature, What is Prarkit, Meaning of Prakriti in Bhagavad Gita, Bhagavad Gita teachings on Nature, Yoga in Hinduism, Spiritual Inquiry, Self-Discovery, Inner Peace, Spiritual Growth, Self-Improvement]
+excerpt: "The Sanskrit word Prakriti or Prakruti has multiple meanings and is used in the Bhagavad Gita in different contexts. In the English language, we try to translate it to 'Nature'."
 toc_sticky: true
 toc_levels: 2
 ---
@@ -216,3 +216,34 @@ Based on the analysis, **प्रकृति** in the Bhagavad Gita is used in
 
 ## **Conclusion**
 In the Bhagavad Gita, **प्रकृति** predominantly signifies **material nature**, encompassing the physical world and its qualities (gunas). However, it also flexibly denotes **individual nature**, **divine nature**, a **normal state**, or an **unmanifest state**, depending on the context. Its frequent pairing with **purusha** underscores its role in the dualistic framework of matter and spirit. This multifaceted usage reflects the Gita’s philosophical depth, integrating cosmology, psychology, and spirituality.
+
+## Translation and Commentry on Bhagwat Gita
+is available at https://www.gitasupersite.iitk.ac.in/srimad/
+
+- Hindi Translation By Swami Ramsukhdas
+- Hindi Translation By Swami Tejomayananda
+- Hindi Translation Of Sri Shankaracharya's Sanskrit Commentary By Sri Harikrishnadas Goenka
+- Sanskrit Commentary By Sri Shankaracharya
+- Hindi Commentary By Swami Chinmayananda
+- Hindi Commentary By Swami Ramsukhdas
+- Sanskrit Commentary By Sri Abhinavgupta
+- Sanskrit Commentary By Sri Ramanujacharya
+- Sanskrit Commentary By Sri Anandgiri
+- Sanskrit Commentary By Sri Jayatirtha
+- Sanskrit Commentary By Sri Madhvacharya
+- Sanskrit Commentary By Sri Vallabhacharya
+- Sanskrit Commentary By Sri Madhusudan Saraswati
+- Sanskrit Commentary By Sri Sridhara Swami
+- Sanskrit Commentary By Sri Vedantadeshikacharya Venkatanatha
+- Sanskrit Commentary By Sri Purushottamji
+- Sanskrit Commentary By Sri Neelkanth
+- Sanskrit Commentary By Sri Dhanpati
+- English Commentary By Swami Sivananda
+- English Translation By Swami Sivananda
+- English Translation By Purohit Swami
+- English Translation By Swami Gambirananda
+- English Translation Of Sri Shankaracharya By Swami Gambirananda
+- English Translation By Dr. S. Sankaranarayan
+- English Translation of Abhinavgupta's Sanskrit Commentary By Dr. S. Sankaranarayan
+- English Translation of Ramanujacharya's Sanskrit Commentary By Swami Adidevananda
+- English Translation By Swami Adidevananda

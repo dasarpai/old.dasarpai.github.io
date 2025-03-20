@@ -14,7 +14,7 @@ categories: [wiaposts, hinduism, bhagavad-gita]
 tags:  [Yagnya in Bhagavad Gita, Meaning of Yagnya, Meaning of Gyan, Bhagavad Gita teachings, Hinduism, Spirituality, Self-Inquiry]      
 keywords: [Meaning of Yagnya in Bhagavad Gita, Bhagavad Gita teachings on Gyan, Yoga in Hinduism, Spiritual Inquiry, Self-Discovery]
 excerpt: "In the Sanskrit language, there is a word 'यज्ञ' (romanized as Yagnya or Yajnya), which closely translates to 'sacrifice' in English. However, in a Western sense, it refers to sacrificing or offering something very dear to you to a higher power, God, or a higher cause. In Vedanta, though, it carries multiple meanings, and without understanding Vedic culture and context, one cannot fully grasp this word."
-toc_sticky: true
+toc_sticky: false
 toc_levels: 2
 ---
 

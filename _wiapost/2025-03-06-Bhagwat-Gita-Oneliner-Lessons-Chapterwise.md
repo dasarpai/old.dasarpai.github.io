@@ -20,10 +20,12 @@ toc_levels: 2
 
 ![Bhagwat Gita Oneliner Lessons Chapterwise](/assets/images/wiapost/5285-bhagwat-gita-oneliner-lessons-chapterwise.jpg)
 
+# Bhagwat Gita Oneliner Lessons Chapterwise
+
 The Bhagavad Gita, a sacred Hindu scripture, consists of 18 chapters, each addressing different aspects of life, duty, and spirituality through the dialogue between Arjuna and Krishna on the battlefield of Kurukshetra. If you don't have time to daily read, connect, assimilate, and practice the teachings, then these 18 lines can help you to start with. There is no shortcut in life; don't assume this is all. This is just a starter.
 
 
-### Key Points Chapterwise
+## Key Learnings Chapterwise
 
 - Chapter 1 depicts Arjuna's confusion and grief. **Seek guidance in times of confusion. The big thing is you know your thinking is muddy and fortunate thing is there is someone who can guide you btter**
 - Chapter 2 emphasizes knowledge of the soul's immortality. **Know that the Atma (soul) is eternal; do not grieve for the body.**
@@ -46,7 +48,7 @@ The Bhagavad Gita, a sacred Hindu scripture, consists of 18 chapters, each addre
 
 
 
-### Other Sources/Interpretations to Learn Bhagwat Gita Summary
+## Other Sources/Interpretations to Learn Bhagwat Gita Summary
 - [Bhagavad Gita Summary Chapter 1 Detailed Analysis](https://www.holybhagavadgita.org/en/message/bhagavad-gita.summary-chapter-1/)
 - [Vedanta Vision Bhagavad Gita Chapter 1 Summary](https://vedantavision.org/bhagavad-gita-chapter-1.summary/)
 - [IskconBooks Chapter Wise Summary Bhagavad Gita](https://www.iskconbooks.com/chapter-wise_summary_of_bhagavad-gita_as_it_is/)

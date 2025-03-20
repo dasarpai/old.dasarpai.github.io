@@ -13,7 +13,7 @@ share: true
 categories: [wiaposts, hinduism, self-inquiry] 
 tags:  [The Paradox of Paths, Hindu Perspective, Self-Inquiry, Spiritual Inquiry, Self-Discovery, Spirituality]
 excerpt: "Sometimes, knowing too much holds us back, while not knowing enough pushes us forward. In this article, we explore the paradox of paths in the context of Hinduism and self-inquiry."
-toc_sticky: true
+toc_sticky: false
 toc_levels: 2
 ---
 

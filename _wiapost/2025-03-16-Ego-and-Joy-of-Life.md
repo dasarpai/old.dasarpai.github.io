@@ -13,7 +13,7 @@ share: true
 categories: [wiaposts, personal-growth, self-inquiry, spirituality, hinduism, motivation]
 tags:  [Overcome Ego, Find Joy in Life, Personal Growth, Self-Inquiry, Spirituality, Hinduism, Motivation]
 excerpt: "How to overcome the ego and find joy in life? In this article, I share my insights on how to find happiness and fulfillment by letting go of the ego."
-toc_sticky: true
+toc_sticky: false
 toc_levels: 2
 ---
 

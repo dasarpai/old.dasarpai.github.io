@@ -13,7 +13,7 @@ share: true
 categories: [wiaposts, hinduism, bhagavad-gita] 
 tags:  [Ahamkar in Bhagavad Gita, Meaning of Ahamkar, Bhagavad Gita teachings, Hinduism, Spirituality, Self-Inquiry, Spiritual Growth, Self-Discovery, Inner Peace]      
 keywords: [Meaning of Ahamkar in Bhagavad Gita, Bhagavad Gita teachings on Ego, Yoga in Hinduism, Spiritual Inquiry, Self-Discovery, Inner Peace, Spiritual Growth, Self-Improvement]
-excerpt: "In my view, the distinction between **Ahamkaara** and **Ego** is subtle yet profound, especially when viewed from a philosophical and spiritual lens. Ahamkara is **a tool that can be refined**, whereas ego is"
+excerpt: "In my view, the distinction between **Ahamkaara** and **Ego** is subtle yet profound, especially when viewed from a philosophical and spiritual lens. Ahamkara is **a tool that can be refined**, whereas ego is...."
 toc_sticky: true
 toc_levels: 2
 ---
@@ -154,3 +154,34 @@ Across these verses, *ahamkar* consistently refers to:
 2. **Obstacle to Liberation:** A barrier to peace and spiritual realization, overcome by detachment and humility (e.g., 2.71, 12.13, 18.53).
 3. **Source of Negative Traits:** Pride, arrogance, and self-centeredness that characterize ignorance or demonic tendencies (e.g., 16.18, 17.5).
 4. **Illusion of Agency:** The delusion of being the doer, which binds one to material existence (e.g., 3.27, 18.24, 18.59).
+
+## Translation and Commentry on Bhagwat Gita
+is available at https://www.gitasupersite.iitk.ac.in/srimad/
+
+- Hindi Translation By Swami Ramsukhdas
+- Hindi Translation By Swami Tejomayananda
+- Hindi Translation Of Sri Shankaracharya's Sanskrit Commentary By Sri Harikrishnadas Goenka
+- Sanskrit Commentary By Sri Shankaracharya
+- Hindi Commentary By Swami Chinmayananda
+- Hindi Commentary By Swami Ramsukhdas
+- Sanskrit Commentary By Sri Abhinavgupta
+- Sanskrit Commentary By Sri Ramanujacharya
+- Sanskrit Commentary By Sri Anandgiri
+- Sanskrit Commentary By Sri Jayatirtha
+- Sanskrit Commentary By Sri Madhvacharya
+- Sanskrit Commentary By Sri Vallabhacharya
+- Sanskrit Commentary By Sri Madhusudan Saraswati
+- Sanskrit Commentary By Sri Sridhara Swami
+- Sanskrit Commentary By Sri Vedantadeshikacharya Venkatanatha
+- Sanskrit Commentary By Sri Purushottamji
+- Sanskrit Commentary By Sri Neelkanth
+- Sanskrit Commentary By Sri Dhanpati
+- English Commentary By Swami Sivananda
+- English Translation By Swami Sivananda
+- English Translation By Purohit Swami
+- English Translation By Swami Gambirananda
+- English Translation Of Sri Shankaracharya By Swami Gambirananda
+- English Translation By Dr. S. Sankaranarayan
+- English Translation of Abhinavgupta's Sanskrit Commentary By Dr. S. Sankaranarayan
+- English Translation of Ramanujacharya's Sanskrit Commentary By Swami Adidevananda
+- English Translation By Swami Adidevananda
