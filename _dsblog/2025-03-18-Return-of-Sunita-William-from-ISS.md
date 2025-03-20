@@ -77,7 +77,7 @@ The focus on American astronauts in the media, especially in Western news outlet
 3. **Historical and Political Influence** – The U.S. played a major role in space exploration, and NASA has a long history of publicizing its missions. The Cold War space race also contributed to this focus.  
 4. **Private Sector Involvement** – With companies like **SpaceX and Boeing** now sending astronauts, U.S. missions attract more attention.  
 5. **English-Language Dominance** – Since most international news sources use English, American astronauts often get more coverage compared to Russian or Chinese astronauts.  
-6. **Sunita is India Name** - People in India specially Hindus and Christians find as if it their own family member. So India media encash this because Indians like to know more about her. It is good for Indian because we infuse inspiration in our children with the name resonating to our culture. Like Kalpana Chawala, columbia incident in 2003 our children too interest in space.
+6. **Sunita is Indian Name** - People in India especially Hindus and Christians find as if it their own family member. So Indian media encashed this because Indians like to know more about her. It is good for Indian because we can infuse an inspiration in our children with the name resonating to our culture. It is like Kalpana Chawala, Columbia incident in 2003 our children took interest in space sciences.
 
 However, space agencies like **Roscosmos, ESA, JAXA, and CNSA** also celebrate their astronauts. If you follow international news, you’ll see coverage of **Russian cosmonauts, European astronauts, and Chinese taikonauts** as well.  
 
@@ -94,12 +94,7 @@ In 2011, the U.S. Congress passed a law (the **Wolf Amendment**) that prohibits 
 
 ## Can you tell me more about Tiangong?
 
-Tiangong consists of three main modules:  
-
-### **🔹 Core Module: Tianhe (天和 - "Harmony of the Heavens")**  
-- Launched: **April 29, 2021**  
-- Functions as the living quarters and control center for the station  
-- Provides power, propulsion, life support, and communications  
+**Tiangong**
 - **Orbit**: **~400-450 km** altitude (similar to the ISS)  
 - **Size**: About **one-fifth the mass of the ISS** but can be expanded  
 - **Capacity**: Supports **3 astronauts (taikonauts) for long-term missions** (up to 6 temporarily)  
@@ -107,11 +102,16 @@ Tiangong consists of three main modules:
 - Conducting experiments in **biology, physics, material science, and medicine**  
 - Plans for **space-based telescope Xuntian (巡天, "Surveying the Heavens")** in 2025, similar to the Hubble Telescope  
 
-### **🔹 Science Modules: Wentian (问天 - "Quest for the Heavens") & Mengtian (梦天 - "Dreaming of the Heavens")**  
-- **Wentian (Launched July 24, 2022)** → Primarily for scientific experiments and extra sleeping quarters  
-- **Mengtian (Launched October 31, 2022)** → Focuses on microgravity research and technology experiments  
+### **Tiangong Core Module: Tianhe (天和 - "Harmony of the Heavens")**  
+- Launched: **April 29, 2021**  
+- Functions as the living quarters and control center for the station  
+- Provides power, propulsion, life support, and communications  
+
+### **Tiangong Science Modules**
+- Wentian (问天 - "Quest for the Heavens") : (Launched July 24, 2022) → Primarily for scientific experiments and extra sleeping quarters 
+- Mengtian (梦天 - "Dreaming of the Heavens") : Focuses on microgravity research and technology experiments 
  
-### **🚀 Notable Crewed Missions to Tiangong:**  
+### **Notable Crewed Missions to Tiangong:**  
 1. **Shenzhou 12 (June 2021)** – First crewed mission to Tiangong  
 2. **Shenzhou 13 (October 2021 - April 2022)** – First 6-month mission  
 3. **Shenzhou 14 & 15 (2022)** – Helped complete the station’s assembly  
@@ -157,6 +157,7 @@ The **International Space Station (ISS)** is a massive modular structure made up
 **Main Components of the ISS**  
 
 ### **Core Modules (Living & Working Areas)**  
+
 | **Module** | **Launch Year** | **Function** | **Country** |  
 |------------|--------------|--------------|------------|  
 | **Zarya ("Dawn")** | 1998 | First module, provides power & propulsion | Russia |  
@@ -171,6 +172,7 @@ The **International Space Station (ISS)** is a massive modular structure made up
 ---
 
 ### **External Structures & Docking Ports**  
+
 | **Component** | **Launch Year** | **Function** | **Country** |  
 |---------------|--------------|--------------|------------|  
 | **Canadarm2** | 2001 | Robotic arm for docking, repairs | Canada |  
@@ -203,7 +205,7 @@ The **International Space Station (ISS)** is a massive modular structure made up
 - **🧑‍🚀 Crew**: 6-7 astronauts at a time from NASA, Roscosmos, ESA, JAXA, and CSA  
 - **📡 Communication**: Uses satellites to relay data between the ISS and Earth  
 
-## **🌍 What’s Next for the ISS?**
+## **What’s Next for the ISS?**
 - The **ISS is planned to operate until 2030** before being **deorbited** and replaced by **commercial space stations** and NASA’s **Lunar Gateway**.  
 - **China’s Tiangong station** is becoming a new option for international research.  
 
@@ -356,7 +358,7 @@ Each module was carried into orbit using **rockets**, and then astronauts or rob
 
 ---
 
-## **🛰️ Difference Between ISS Modules and Spacecraft**
+## **Difference Between ISS Modules and Spacecraft**
 
 | **Feature** | **ISS Modules** | **Spacecraft** |
 |-------------|--------------|--------------|
@@ -430,19 +432,13 @@ The fate of a rocket after launch depends on **its type and purpose**. Rockets h
 
 ### **What Happens to Rocket Stages?**  
 
-1- **First Stage (Main Boosters)**  
-   - Provides **initial thrust** to escape Earth’s gravity.  
-   - Usually **detaches a few minutes after launch** and follows one of these fates:  
-     - **Reusable Rockets (e.g., Falcon 9, New Glenn):**  
-       - **Lands back on Earth** (on a drone ship or launch pad) for reuse.  
-     - **Non-Reusable Rockets (e.g., Soyuz, Proton, SLS):**  
-       - Falls **back into the ocean or remote land areas** and is destroyed.  
+1- **First Stage (Main Boosters):**  Provides **initial thrust** to escape Earth’s gravity.  Usually **detaches a few minutes after launch** and follows one of these fates:  
+   - **Reusable Rockets (e.g., Falcon 9, New Glenn):**  Lands back on Earth (on a drone ship or launch pad) for reuse.  
+   - **Non-Reusable Rockets (e.g., Soyuz, Proton, SLS):**  Falls **back into the ocean or remote land areas** and is destroyed.  
 
-2- **Second Stage**  
-   - Pushes the **spacecraft/module into orbit**.  
-   - After separation, it can:  
-     - **Burn up in the atmosphere** (if low orbit).  
-     - **Become space debris** (if it remains in high orbit).  
+2- **Second Stage**  : Pushes the **spacecraft/module into orbit**.  After separation, it can:  
+    - **Burn up in the atmosphere** (if low orbit).  
+    - **Become space debris** (if it remains in high orbit).  
 
 3- **Fairings (Protective Shell for Cargo)**  
    - **Detached early in flight** once the rocket reaches space.  
@@ -462,21 +458,21 @@ The fate of a rocket after launch depends on **its type and purpose**. Rockets h
 
 ---
 
-### **🌍 Where Do Rocket Parts Fall?**  
+### **Where Do Rocket Parts Fall?**  
 - **Oceans:** Most stages fall into the **Pacific or Atlantic Ocean**.  
 - **Remote Land Areas:** Russia’s rockets drop in **Kazakhstan/Siberia**.  
 - **Space Graveyards:** Unused rocket parts may be **sent to orbit decay zones (e.g., Point Nemo in the Pacific)**.  
 
 ---
 
-### **🛠️ Key Innovations in Rocket Recovery**
+### **Key Innovations in Rocket Recovery**
 - **SpaceX Falcon 9 & Starship:** **Lands back for reuse**.  
 - **Rocket Lab’s Electron Rocket:** **Uses parachutes & helicopters to recover**.  
 - **Blue Origin’s New Shepard:** **Lands vertically like Falcon 9**.  
 
 ---
 
-### **💡 Key Takeaways**
+### **Key Takeaways**
 - **Most rockets are destroyed** (burn up or fall into the ocean).  
 - **Some rockets (like Falcon 9) are reused** to reduce costs.  
 - **Space debris is a challenge**, and companies are working on **reusable rocket tech**.  
@@ -489,27 +485,27 @@ The **huge white plume** behind a rocket launch is a mix of **water vapor, smoke
 
 ### **What Creates the White Fume?**  
 
-1. **🔥 Rocket Exhaust (Main Cause)**  
+1. **Rocket Exhaust (Main Cause)**  
    - Rockets burn **liquid hydrogen (LH2) and liquid oxygen (LOX)** or other fuels.  
    - This combustion produces **water vapor (H₂O) and carbon dioxide (CO₂)**.  
    - In cold air, the hot water vapor **condenses into a white cloud** (like a jet contrail).  
 
-2. **💦 Water Sound Suppression System (Launch Pad Fog)**  
+2. **Water Sound Suppression System (Launch Pad Fog)**  
    - Tons of **water is sprayed under the rocket** to reduce sound and heat damage.  
    - When super-hot exhaust **instantly vaporizes this water**, it creates a thick white cloud.  
 
-3. **🛢️ Solid Rocket Booster Exhaust (If Used)**  
+3. **Solid Rocket Booster Exhaust (If Used)**  
    - Some rockets (e.g., **Space Shuttle, SLS, PSLV**) use **solid fuel boosters**, which produce:  
      - **Aluminum oxide (Al₂O₃) particles** → White smoke.  
      - **Hydrochloric acid (HCl) and other gases** → Adds to the plume.  
 
-4. **💨 Wind Effects & Condensation**  
+4. **Wind Effects & Condensation**  
    - The extreme heat **creates turbulence in the atmosphere**.  
    - Moist air condenses into a visible cloud **even after the rocket is gone**.  
 
 ---
 
-### **🚀 Why Does the Plume Look Different for Each Rocket?**
+### **Why Does the Plume Look Different for Each Rocket?**
 
 | **Rocket Type** | **Plume Appearance** | **Reason** |
 |---------------|----------------|--------------------|
@@ -520,7 +516,7 @@ The **huge white plume** behind a rocket launch is a mix of **water vapor, smoke
 
 ---
 
-### **💡 Key Takeaways**
+### **Key Takeaways**
 - **Mostly water vapor** (not pollution like factories).  
 - **Caused by burning fuel, water vaporization, and solid fuel residues**.  
 - **Plume color depends on rocket fuel type** (liquid = clearer, solid = smokier).  
