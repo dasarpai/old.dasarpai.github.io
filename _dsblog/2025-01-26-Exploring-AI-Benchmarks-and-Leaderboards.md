@@ -284,6 +284,43 @@ These benchmarks are designed for tasks involving web browsers, such as form fil
 - **DeepMind's Alphacode Web Automation Tasks:**  
   A set of benchmarks testing AI for automating workflows within web-based environments. [Alphacode](https://github.com/deepmind/alphacode)  
 
+## The Most Popular Benechmarks Used by Researchers and Industry
+1. **AGIEval**: A suite of human-centric exams (e.g., SAT, LSAT, GRE) to evaluate reasoning and knowledge in academic contexts.
+1. **APPS**: Automated Programming Problem Set, with 10,000 coding problems ranging from introductory to competition-level, testing code generation and correctness.
+1. **ARC (AI2 Reasoning Challenge)**: A set of grade-school science questions requiring reasoning over facts, split into Easy and Challenge sets. The Challenge set is especially tough, with human-level performance still elusive for most models.
+1. **BIG-Bench**: A massive, collaborative benchmark with over 200 diverse tasks, from linguistics to math to commonsense reasoning. It’s designed to push LLMs beyond their training data and includes a "Hard" subset (BIG-Bench Hard, or BBH) for extra challenge.
+1. **BoolQ**: A yes/no question-answering benchmark derived from Google search queries, assessing reading comprehension and reasoning over passages.
+1. **C-Eval**: A Chinese-language benchmark testing reasoning and knowledge across subjects like STEM, humanities, and professional fields, similar to MMLU but tailored for Chinese LLMs.
+1. **Chinese SimpleQA**: A factual accuracy test with concise, fact-based questions in Chinese, designed to assess straightforward knowledge recall.
+1. **CLUEWSC**: Part of the Chinese Language Understanding Evaluation (CLUE), this is a Winograd Schema Challenge variant testing coreference resolution and commonsense reasoning in Chinese.
+1. **CMath**: A Chinese math benchmark, possibly focusing on advanced or competition-level problems, testing structured reasoning in a Chinese context.
+1. **CMMLU**: Chinese Massive Multitask Language Understanding, a broad evaluation of knowledge and reasoning in Chinese across 57 subjects, akin to MMLU but culturally and linguistically specific.
+1. **CNMO2024**: Likely the Chinese National Mathematical Olympiad 2024, a high-level math competition dataset used to evaluate advanced problem-solving skills.
+1. **COCO (Common Objects in Context)**: Another vision benchmark, but focused on tasks like object detection, segmentation, and captioning. It’s more about understanding scenes holistically, not just classifying single objects.
+1. **Codeforces/CodeJam**: Competitive programming datasets from platforms like Codeforces or Google Code Jam, used informally to test advanced coding skills.
+1. **CoQA**: Conversational Question Answering, a dataset of 127,000+ questions across 8,000 conversations, evaluating contextual understanding and dialogue coherence.
+1. **DROP**: A reading comprehension benchmark requiring discrete reasoning over paragraphs, often involving numerical or logical deductions from text.
+1. **EvalPlus (HumanEval+ & MBPP+)**: Enhanced versions of HumanEval and MBPP with stricter test cases to catch edge cases and ensure robustness in code generation.
+-- **GLUE**: General Language Understanding Evaluation, a collection of 9 tasks (e.g., sentiment analysis, textual entailment) to test natural language understanding. SuperGLUE is its harder successor.
+1. **GPQA**: Graduate-Level Google-Proof Q&A Benchmark, featuring 448 challenging multiple-choice questions in biology, physics, and chemistry. Designed to be difficult even for PhD experts (65% accuracy) and resistant to simple web searches.
+1. **GSM8K**: Grade School Math 8K (if not what you meant by GSMBK), 8,000 math word problems requiring multi-step reasoning, popular for testing logical skills.
+1. **HellaSwag**: A commonsense reasoning benchmark where models pick the most plausible ending to a story or scenario. It’s tricky because it requires understanding context and human-like intuition, not just pattern matching.
+1. **HumanEval**: For code generation, this benchmark checks if a model can write functioning Python code to solve programming problems. It’s practical and directly tied to real-world utility in software development.
+1. **ImageNet**: For vision models, this is the classic. It’s a huge dataset of labeled images used to test object recognition accuracy. Though it’s been around a while, it’s still a foundational metric for computer vision.
+1. **LAMBADA**: Tests long-range dependency understanding by predicting the last word in a passage, requiring coherence over extended text.
+1. **LiveCodeBench**: A coding benchmark with fresh, real-world problems (e.g., from LeetCode, Codeforces) to evaluate code generation, repair, and execution, updated regularly to avoid contamination.
+1. **MATH**: A dataset of 12,500 free-response math problems from high school competitions, spanning algebra, calculus, and more—extremely challenging for LLMs.
+1. **Math-500**: A dataset of 500 math problems, likely an updated or in-distribution version of the MATH benchmark, testing logical and quantitative reasoning from basic to advanced levels.
+1. **MBPP+**: An enhanced version of the Mostly Basic Python Problems dataset, with around 1,000 entry-level programming tasks, including automated test cases for evaluation.
+1. **MMLU (Massive Multitask Language Understanding)**: This benchmark tests a model’s ability to handle college-level questions across 57 subjects, from STEM to humanities. It’s become a staple for assessing general knowledge and reasoning in large language models.
+1. **MMLU-Pro**: An advanced version of the Massive Multitask Language Understanding (MMLU) benchmark, with 12,000 complex, reasoning-focused questions across various disciplines (e.g., STEM, law, humanities). It uses 10 multiple-choice options instead of 4, making it tougher and less prone to random guessing.
+1. **PIQA**: Physical Interaction QA, with 16,000 questions testing physical commonsense reasoning (e.g., "How do you open a jar?").
+1. **SQuAD (Stanford Question Answering Dataset)**: A reading comprehension test where models answer questions based on a given passage. It’s a standard for evaluating how well AI can extract and interpret information from text.
+1. **SuperGLUE**: An upgraded GLUE with more complex tasks like coreference resolution and question answering, designed to differentiate top-performing models.
+1. **TriviaQA**: A large-scale trivia dataset with 650,000+ question-answer pairs, testing factual recall and reasoning over noisy web data.
+1. **TruthfulQA**: Designed to measure how truthful a model is, this benchmark throws curveballs with questions that might trip up models prone to hallucination or overconfidence. It’s increasingly relevant as trustworthiness becomes a bigger focus.
+1. **WinoGrande**: A larger-scale Winograd Schema Challenge (1,267 examples) testing commonsense reasoning through pronoun resolution in ambiguous sentences.
+
 ## What is Leaderboard?
 An AI Leaderboard is a publicly available platform or tool that ranks AI models, systems, or algorithms based on their performance on predefined benchmarks or datasets. It acts as a scoreboard for comparing different approaches and identifying the current state-of-the-art (SOTA) methods in specific AI tasks or domains. When above discussed different benchmarks are used by model provider or model evaluator against a given model then the performance of the model is reported on the leader board. So, a leaderboard is  
 
