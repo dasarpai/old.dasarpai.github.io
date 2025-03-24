@@ -6,7 +6,7 @@
 1. [brightdata.com](https://brightdata.com/)
 1. [bytedance.com/en](https://www.bytedance.com/en/){:target="_blank"}
 1. [chartjs.org](https://www.chartjs.org/){:target="_blank"}
-1. [codepen.io/hari-thapliyal/pen/YzjboGB](https://codepen.io/hari-thapliyal/pen/YzjboGB){:target="_blank"}
+1. [codepen.io](https://codepen.io/){:target="_blank"}
 1. [dashboard.cohere.com](https://dashboard.cohere.com/)
 1. [denser.ai](https://denser.ai/)
 1. [developers.google.com/chart](https://developers.google.com/chart){:target="_blank"}
@@ -18,7 +18,7 @@
 1. [informatica.com](https://www.informatica.com/){:target="_blank"}
 1. [insightsoftware.com/dundas](https://insightsoftware.com/dundas/){:target="_blank"}
 1. [jquery.com](https://jquery.com/){:target="_blank"}
-1. [jsfiddle.net/harithapliyal/bnr2qthx](https://jsfiddle.net/harithapliyal/bnr2qthx/){:target="_blank"}
+1. [jsfiddle.net](https://jsfiddle.net/){:target="_blank"}
 1. [kluster.ai](https://www.kluster.ai/){:target="_blank"}
 1. [leafletjs.com/examples.html](https://leafletjs.com/examples.html){:target="_blank"}
 1. [leiainc.com](https://www.leiainc.com/){:target="_blank"}
@@ -531,6 +531,31 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [voicepen.ai/auth](https://voicepen.ai/auth){:target="_blank"}
 ## Desktop Audio Tools ##
 1. [audacityteam.org](https://www.audacityteam.org/){:target="_blank"} : Most popular free software for recording and editing audio
+## Online Development Tools ##
+1. [Bolt.new](https://bolt.new\){:target="_blank"\} 
+1. [CodeAnywhere.com](https://codeanywhere.com/\){:target="_blank"\} 
+1. [CodePen.io](https://codepen.io/\){:target="_blank"\} 
+1. [CodeSandbox.io](https://codesandbox.io/\){:target="_blank"\} 
+1. [Coder.com](https://coder.com/\){:target="_blank"\} 
+1. [Deepnote.com](https://deepnote.com/\){:target="_blank"\} 
+1. [Eclipse theia-ide.org](https://theia-ide.org/\){:target="_blank"\} 
+1. [Github.com/features /codespaces](https://github.com/features/codespaces\){:target="_blank"\} 
+1. [Gitpod.io](https://www.gitpod.io/\){:target="_blank"\} 
+1. [Glitch.com](https://glitch.com/\){:target="_blank"\} 
+1. [Gradient console.paperspace.com](https://console.paperspace.com/\){:target="_blank"\} 
+1. [Hoppscotch.io](https://hoppscotch.io/\){:target="_blank"\} 
+1. [JSFiddle.net](https://jsfiddle.net/\){:target="_blank"\} 
+1. [JetBrains.com/Fleet](https://www.jetbrains.com/fleet/\){:target="_blank"\} 
+1. [Katacoda (Now O’Reilly)](https://katacoda.com/\){:target="_blank"\} 
+1. [Postman.com](https://www.postman.com/\){:target="_blank"\} 
+1. [Replit.com](https://replit.com/\){:target="_blank"\} 
+1. [StackBlitz.com](https://stackblitz.com/\){:target="_blank"\} 
+1. [VSCode.dev](https://vscode.dev/\){:target="_blank"\} 
+1. [colab.research .google.com](https://colab.research.google.com/\){:target="_blank"\} 
+1. [jupyter.org/ try-jupyter/lab](https://jupyter.org/try-jupyter/lab/\){:target="_blank"\} 
+1. [kaggle.com/code - Kernels](https://www.kaggle.com/code\){:target="_blank"\} 
+1. [labs.play-with -docker.com](https://labs.play-with-docker.com/\){:target="_blank"\} 
+1. [Pythonium.net](https://pythonium.net/\){:target="_blank"\} 
 ## Development Tools ##
 1. [codepad.org](http://codepad.org/){:target="_blank"}
 1. [algassert.com/quirk](https://algassert.com/quirk){:target="_blank"}

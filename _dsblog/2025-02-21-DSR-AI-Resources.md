@@ -63,126 +63,165 @@ Broadly these are the categorization of AI product capabilities.
 
 12. **Multimodal**: AI systems that can process and integrate multiple types of data inputs (text, images, audio, etc.) to perform complex tasks. Examples include OpenAI's CLIP and Google's Multimodal AI.
 
-This categorization captures the diverse applications of AI across various domains. However, it's worth noting that the field of AI is rapidly evolving, and new capabilities and categories are continually emerging.  For instance, advancements in AI ethics, explainability, and AI-driven cybersecurity are becoming increasingly important. 
-
-## Online Coding Tools & their Best Usage
+This categorization captures the diverse applications of AI across various domains. However, it's worth noting that the field of AI is rapidly evolving, and new capabilities and categories are continually emerging. For instance, advancements in AI ethics, explainability, and
 
 
-| No. | **Tool Name & URL** | **Category** | **Best Usage** | **Languages/Frameworks Supported** | **Type of Development Work** |
-| --- |----------------------|-------------|---------------|------------------------------------|-----------------------------|
-| 1. | [Bolt.new](https://bolt.new\){:target="_blank"\} | Slack App Development | Building Slack apps | JavaScript (Bolt.js) | Slack bot development |
-| 2. | [CodeAnywhere.com](https://codeanywhere.com/\){:target="_blank"\} | Containerized & Remote Development | Cloud-based development with SSH/container support | Multiple languages | Cloud IDE for remote development |
-| 3. | [CodePen.io](https://codepen.io/\){:target="_blank"\} | General Online IDEs | Frontend experiments and design previews | HTML, CSS, JavaScript | Web design previews and testing |
-| 4. | [CodeSandbox.io](https://codesandbox.io/\){:target="_blank"\} | General Online IDEs | Frontend & full-stack web development | JavaScript, React, Vue, Node.js | Web apps, frontend-heavy development |
-| 5. | [Coder.com](https://coder.com/\){:target="_blank"\} | Containerized & Remote Development | Self-hosted/cloud-based VS Code | Any language | Enterprise cloud development |
-| 6. | [Deepnote.com](https://deepnote.com/\){:target="_blank"\} | Python-Specific | Collaboration-focused notebooks for data science | Python | Data science and ML collaboration |
-| 7. | [Eclipse theia-ide.org](https://theia-ide.org/\){:target="_blank"\} | Web-Based VS Code & Similar IDEs | Open-source VS Code alternative | Multiple languages | Self-hosted cloud development |
-| 8. | [Github.com/features /codespaces](https://github.com/features/codespaces\){:target="_blank"\} | Web-Based VS Code & Similar IDEs | Cloud-hosted VS Code with full dev environments | Any language | Full-stack and enterprise development |
-| 9. | [Gitpod.io](https://www.gitpod.io/\){:target="_blank"\} | Backend & Full-Stack Development | Cloud-based dev environment for GitHub/GitLab | Multiple (Python, JavaScript, Go, Rust) | Full-stack development |
-| 10. | [Glitch.com](https://glitch.com/\){:target="_blank"\} | General Online IDEs | Collaborative development and real-time previews | Node.js, Express, JavaScript, Python | Web apps, API-based bots (WhatsApp, Twitter, Telegram) |
-| 11. | [Gradient console.paperspace.com](https://console.paperspace.com/\){:target="_blank"\} | AI & Machine Learning | Cloud-based ML development with Jupyter notebooks | Python, TensorFlow, PyTorch | Deep learning and AI development |
-| 12. | [Hoppscotch.io](https://hoppscotch.io/\){:target="_blank"\} | API & Backend Testing | Lightweight API request builder | REST, GraphQL, WebSockets | API debugging and testing |
-| 13. | [JSFiddle.net](https://jsfiddle.net/\){:target="_blank"\} | General Online IDEs | Quick prototyping for frontend | HTML, CSS, JavaScript | Frontend prototyping and experiments |
-| 14. | [JetBrains.com/Fleet](https://www.jetbrains.com/fleet/\){:target="_blank"\} | Web-Based VS Code & Similar IDEs | Lightweight, distributed IDE | Multiple languages | Web, backend, and enterprise projects |
-| 15. | [Katacoda (Now O’Reilly)](https://katacoda.com/\){:target="_blank"\} | DevOps & Cloud Development | Interactive DevOps learning platform | Kubernetes, Docker, Linux | Hands-on DevOps training |
-| 16. | [Postman.com](https://www.postman.com/\){:target="_blank"\} | API & Backend Testing | API development and testing | REST, GraphQL, WebSockets | API testing and automation |
-| 17. | [Replit.com](https://replit.com/\){:target="_blank"\} | General Online IDEs | General backend, web, and bot development | Python, JavaScript, Java, C++, Node.js, Flask, FastAPI | Web apps, API-based apps, bot development |
-| 18. | [StackBlitz.com](https://stackblitz.com/\){:target="_blank"\} | Backend & Full-Stack Development | Fast-loading web development IDE | JavaScript, TypeScript, Node.js | Web development, frontend-heavy full-stack apps |
-| 19. | [VSCode.dev](https://vscode.dev/\){:target="_blank"\} | Web-Based VS Code & Similar IDEs | Browser-based VS Code with GitHub integration | Any language supported by VS Code | Cloud-based development |
-| 20. | [colab.research .google.com](https://colab.research.google.com/\){:target="_blank"\} | Python-Specific | Cloud-based Jupyter notebooks with free GPU/TPU | Python, TensorFlow, PyTorch | Machine Learning, AI, data science |
-| 21. | [jupyter.org/ try-jupyter/lab](https://jupyter.org/try-jupyter/lab/\){:target="_blank"\} | Python-Specific | Browser-based Jupyter notebook experience | Python | Data science, ML, AI, and interactive computing |
-| 22. | [kaggle.com/code - Kernels](https://www.kaggle.com/code\){:target="_blank"\} | AI & Machine Learning | Free cloud notebooks with GPUs | Python, TensorFlow, PyTorch | Machine learning, deep learning research |
-| 23. | [labs.play-with -docker.com](https://labs.play-with-docker.com/\){:target="_blank"\} | DevOps & Cloud Development | Online Docker playground | Docker CLI | Container and DevOps testing |
-| 24. | [Pythonium.net](https://pythonium.net/\){:target="_blank"\} | Python-Specific | Backend & Full-Stack Development | Python | Development, and API testing |
+{% capture markdown_content %}
+  {% include all-ai-resources.md %}
+{% endcapture %}
 
-
-
-
-{% capture markdown_content %}{% include all-ai-resources.md %}{% endcapture %}
 {% assign sections = markdown_content | split: '## ' %}
-{% for section in sections %}
-  {% if section != "" %}
-    {% assign section_parts = section | split: "\n" %}
-    {% assign category_name = section_parts.first | strip %}
-    <details class="category">
-      <summary onclick="toggleCategory(this)"><h2>{{ category_name }}</h2></summary>
-      <ol class="content">
-        {% for line in section_parts offset: 1 %}
-          {% if line != "" %}
-            {% assign trimmed_line = line | strip %}
-            {% if trimmed_line contains "http://" or trimmed_line contains "https://" %}
-              <li><a href="{{ trimmed_line }}" target="_blank">{{ trimmed_line }}</a></li>
-            {% elsif trimmed_line contains "." %}
-              <li><a href="https://{{ trimmed_line }}" target="_blank">{{ trimmed_line }}</a></li>
-            {% else %}
-              <li>{{ trimmed_line }}</li>
-            {% endif %}
-          {% endif %}
-        {% endfor %}
-      </ol>
-    </details>
-  {% endif %}
-{% endfor %}
+
+<div class="ai-resources-container">
+  {% for section in sections %}
+    {% if section != "" %}
+      {% assign lines = section | split: "##" %}
+      {% assign category_name = lines.first | strip | escape %}
+
+      {% assign content_after = lines[1] | strip %} 
+
+
+      {% if category_name != "" and category_name != "No Resources Available" %}
+        <details class="category">
+          <summary>
+            <h2>{{ category_name }}</h2>
+          </summary>
+          <div class="content">
+            <ol>
+              {% assign content_lines = content_after | split: "1. " %}
+
+              <ol>
+                {% for line in content_lines %}
+                  {% assign stripped_line = line | strip %}
+                  {% if stripped_line != "" %}
+                    <li>
+                      {% if stripped_line contains "[" and stripped_line contains "](" %}
+                        <!-- Handle Markdown links -->
+                        {% assign link_parts = stripped_line | split: "](" %}
+                        {% assign link_text_temp = link_parts.first | remove: "1. " | remove: "- " | remove: "[" | strip %}
+                        {% assign link_url_temp = link_parts.last | split: ")" | first | strip %}
+
+                        {% assign link_text = link_text_temp | escape %}
+                        {% assign link_url = link_url_temp | escape %}
+
+                        <a href="{{ link_url }}" {% if stripped_line contains '{:target="_blank"}' %}target="_blank"{% endif %}>
+                          {{ link_text }}
+                        </a>
+                      {% elsif stripped_line contains "http" %}
+                        <!-- Handle plain URLs -->
+                        {% assign plain_url = stripped_line | remove: "1. " | remove: "- " | strip %}
+                        <a href="{{ plain_url }}" target="_blank">{{ plain_url }}</a>
+                      {% else %}
+                        <!-- Handle plain text -->
+                        {{ stripped_line | remove: "1. " | remove: "- " | strip | escape }}
+                      {% endif %}
+                    </li>
+                  {% endif %}
+                {% endfor %}
+              </ol>
+            </ol>
+          </div>
+        </details>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
 
 <style>
-  .category {
-    margin-bottom: 1.5em;
-    border: 1px solid #eee;
-    border-radius: 4px;
-    padding: 0.5em;
-  }
-  summary {
-    font-weight: bold;
-    cursor: pointer;
-    padding: 0.5em;
-    background: #f9f9f9;
-    border-radius: 3px;
-  }
-  summary h2 {
-    display: inline;
-    font-size: 1.2em;
-    margin: 0;
-  }
-  .content {
-    margin-top: 1em;
-    margin-bottom: 0;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.3s ease;
-  }
-  .content.show {
-    max-height: 1000px; /* Adjust based on content size */
-  }
+.ai-resources-container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.category {
+  margin-bottom: 1.5em;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 0.5em;
+}
+
+summary {
+  font-weight: bold;
+  cursor: pointer;
+  padding: 0.5em;
+  background: #f9f9f9;
+  border-radius: 3px;
+  list-style: none; /* Remove default arrow */
+  display: flex; /* Align arrow and text horizontally */
+  align-items: center; /* Vertically center align items */
+}
+
+summary::-webkit-details-marker {
+  display: none; /* Remove default arrow in WebKit browsers */
+}
+
+summary h2 {
+  margin: 0; /* Remove default margins */
+  margin-left: 10px; /* Add space between arrow and heading */
+  font-size: 1.2em;
+  display: inline; /* Ensure the heading stays inline */
+}
+
+summary::before {
+  content: "▶"; /* Custom arrow */
+  font-size: 1.2em;
+  transition: transform 0.3s ease;
+  margin-right: 10px; /* Add spacing between arrow and heading */
+}
+
+details[open] summary::before {
+  transform: rotate(90deg); /* Rotate arrow when expanded */
+}
+
+.content {
+  margin-top: 1em;
+  padding-left: 1em;
+}
+
+.content ol {
+  padding-left: 1.5em;
+}
+
+.content li {
+  margin-bottom: 0.5em;
+  line-height: 1.6;
+}
+
+.content a {
+  color: #0066cc;
+  text-decoration: underline;
+}
+
+.content a:hover {
+  color: #003366;
+}
 </style>
 
 <script>
-  function toggleCategory(element) {
-    const details = element.parentElement; // Get the <details> element
-    const content = details.querySelector('.content'); // Get the <ol> content
-    const isOpen = details.classList.contains('expanded');
-
-    // Toggle the expanded state
-    details.classList.toggle('expanded');
-    content.classList.toggle('show');
-
-    // Toggle the native open attribute to sync with <details>
-    details.open = !isOpen;
-  }
-
-  // Persist state with localStorage
-  document.addEventListener("DOMContentLoaded", function() {
+  document.addEventListener("DOMContentLoaded", function () {
     const categories = document.querySelectorAll(".category");
-    categories.forEach(category => {
-      const categoryName = category.querySelector('summary').textContent.trim();
-      if (localStorage.getItem("category_" + categoryName) === "open") {
-        category.classList.add("expanded");
-        category.querySelector('.content').classList.add("show");
+
+    categories.forEach((category) => {
+      const summary = category.querySelector("summary");
+      const categoryName = summary.textContent.trim();
+      const savedState = localStorage.getItem("category_" + encodeURIComponent(categoryName));
+
+      // Set initial state based on localStorage
+      if (savedState === "open") {
         category.open = true;
+      } else {
+        category.open = false;
       }
 
-      category.querySelector('summary').addEventListener("click", function() {
-        const isOpen = category.classList.contains("expanded");
-        localStorage.setItem("category_" + categoryName, isOpen ? "closed" : "open");
+      // Toggle and save state on click
+      summary.addEventListener("click", function () {
+        setTimeout(() => {
+          const isOpen = category.open;
+          localStorage.setItem(
+            "category_" + encodeURIComponent(categoryName),
+            isOpen ? "open" : "closed"
+          );
+        }, 0);
       });
     });
   });
