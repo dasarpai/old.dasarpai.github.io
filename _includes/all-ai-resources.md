@@ -1,52 +1,77 @@
 ## AI Chat/Interaction Tools ##
-These UI/consoles from different companies provide access to multiple models. Depending on your need, you can select the model. Most of the interfaces support multiple models, such as text, image, audio, video, PDF/text attachment, code generation, and more.
+These UI/consoles from different companies provide access to multiple models. Depending on your need, you can select the model. Most of the interfaces support multiple models, such as text, image, audio, video, PDF/text attachment, code generation, and more.:.
 1. [ai21.com](https://www.ai21.com/){:target="_blank"}
+1. [aisdr.com](https://aisdr.com/){:target="_blank"}  :: AI sales assistant
+1. [aiseo.ai](https://aiseo.ai/){:target="_blank"} :: (AI writing assistant)
 1. [amigochat.io](https://amigochat.io/){:target="_blank"}
 1. [app.aylien.com/search](https://app.aylien.com/search)
+1. [app.hyperwriteai.com/home](https://app.hyperwriteai.com/home){:target="_blank"} :: (AI writing tool)
 1. [app.wordtune.com/editor](https://app.wordtune.com/editor/)
 1. [astica.ai/nlp/gpt-s](https://astica.ai/nlp/gpt-s/)
+1. [autogpt.net](https://autogpt.net/){:target="_blank"}  :: Autonomous AI agent
 1. [beta.character.ai](https://beta.character.ai){:target="_blank"}
-1. [botpress.com](https://botpress.com){:target="_blank"} : Open-source chatbot platform
-1. [chat.deepseek.com](https://chat.deepseek.com/)
-1. [chat.deepseek.com](https://chat.deepseek.com/){:target="_blank"} : by Deepseek
+1. [beta.character.ai](https://beta.character.ai/){:target="_blank"} :: (AI chatbot)
+1. [botif.ai](https://botif.ai/){:target="_blank"}  :: AI chatbot platform
+1. [botpress.com](https://botpress.com){:target="_blank"} :: Open-source chatbot platform
+1. [chat.deepseek.com](https://chat.deepseek.com/){:target="_blank"} :: by Deepseek
 1. [chat.mistral.ai/chat](https://chat.mistral.ai/chat)
-1. [chat.qwen.ai](https://chat.qwen.ai/){:target="_blank"} : by Qwen
+1. [chat.qwen.ai](https://chat.qwen.ai/){:target="_blank"} :: by Qwen
 1. [chat.qwenlm.ai](https://chat.qwenlm.ai/)
 1. [chatbase.co](https://www.chatbase.co/){:target="_blank"}
-1. [chatfai.com](https://chatfai.com){:target="_blank"} : AI for fictional character chats
-1. [chatgpt.com](https://chat.openai.com){:target="_blank"} : by OpenAI
-1. [claude.ai/new](https://claude.ai/new)
-1. [claude.ai](https://claude.ai){:target="_blank"} : by Anthropic
-1. [cohere.com](https://cohere.com){:target="_blank"} : by cohere
-1. [copilot.microsoft.com](https://copilot.microsoft.com){:target="_blank"} : Earlier bing
-1. [deepbrain.io](https://www.deepbrain.io){:target="_blank"} : AI chat and video avatars
+1. [chatfai.com](https://chatfai.com){:target="_blank"} :: AI for fictional character chats
+1. [chatgpt.com](https://chat.openai.com){:target="_blank"} :: by OpenAI
+1. [claude.ai](https://claude.ai){:target="_blank"} :: by Anthropic
+1. [claude.ai/chats](https://claude.ai/chats){:target="_blank"} :: (AI chatbot)
+1. [cohere.com](https://cohere.com){:target="_blank"} :: by cohere
+1. [commentreply.ai](https://www.commentreply.ai/){:target="_blank"}  :: AI comment responder
+1. [copilot.microsoft.com](https://copilot.microsoft.com/){:target="_blank"}  :: AI assistant
+1. [deepbrain.io](https://www.deepbrain.io){:target="_blank"} :: AI chat and video avatars
+1. [eightify.app/welcome](https://www.eightify.app/welcome){:target="_blank"}  :: AI summary tool
 1. [eleuther.ai](https://www.eleuther.ai){:target="_blank"}
-1. [eliza.ai](https://eliza.ai){:target="_blank"} : a modern take on the classic ELIZA chatbot
-1. [gemini.google.com](https://gemini.google.com){:target="_blank"} : Earlier Bard
+1. [eliza.ai](https://eliza.ai){:target="_blank"} :: a modern take on the classic ELIZA chatbot
+1. [gemini.google.com](https://gemini.google.com){:target="_blank"} :: Earlier Bard
 1. [geo-not-available.blenderbot.ai](https://geo-not-available.blenderbot.ai/)
-1. [github.com/microsoft/DialoGPT](https://github.com/microsoft/DialoGPT){:target="_blank"} : by Microsoft Research
-1. [goose.ai](https://goose.ai/)
-1. [grok.com](https://grok.com/){:target="_blank"} : by X
-1. [heypi.com](https://heypi.com){:target="_blank"} :by Inflection AI
+1. [github.com/microsoft/DialoGPT](https://github.com/microsoft/DialoGPT){:target="_blank"} :: by Microsoft Research
+1. [goose.ai](https://goose.ai/){:target="_blank"}
+1. [gptstore.ai/chat/-gochitchat-ai](https://gptstore.ai/chat/-gochitchat-ai){:target="_blank"} :: (AI chatbot)
+1. [gptstore.ai/chat/showme-redstarplugin-com](https://gptstore.ai/chat/showme-redstarplugin-com){:target="_blank"} :: (AI chatbot)
+1. [gptstore.ai/chat/webpilotai-com](https://gptstore.ai/chat/webpilotai-com){:target="_blank"} :: (AI chatbot)
+1. [grok.com](https://grok.com/){:target="_blank"} :: by X
+1. [helloscribe.ai](https://www.helloscribe.ai/){:target="_blank"}  :: AI writing assistant
+1. [heypi.com](https://heypi.com){:target="_blank"} ::by Inflection AI
 1. [huggingface.co/chat](https://huggingface.co/chat){:target="_blank"}
-1. [inworld.ai](https://inworld.ai){:target="_blank"} : AI for character interactions
+1. [inworld.ai](https://inworld.ai){:target="_blank"} :: AI for character interactions
 1. [jasper.ai/chat](https://www.jasper.ai/chat){:target="_blank"}
-1. [kimi.ai](https://kimi.ai/){:target="_blank"} : by Moonshot AI
-1. [kuki.ai](https://www.kuki.ai){:target="_blank"} : Earlier Mitsuku
-1. [lobechat.com/chat](https://lobechat.com/chat)
-1. [nichesss.com](https://nichesss.com/)
+1. [kimi.ai](https://kimi.ai/){:target="_blank"} :: by Moonshot AI
+1. [kuki.ai](https://www.kuki.ai){:target="_blank"} :: Earlier Mitsuku
+1. [languagetool.org](https://languagetool.org/){:target="_blank"} :: (Grammar checker)
+1. [languagetool.org/editor/newregistered=true](https://languagetool.org/editor/newregistered=true){:target="_blank"} :: (Grammar checker)
+1. [lobechat.com/chat](https://lobechat.com/chat){:target="_blank"}
+1. [nichesss.com](https://nichesss.com/){:target="_blank"}
 1. [ninjachat.ai](https://www.ninjachat.ai/){:target="_blank"}
+1. [notegpt.io](https://notegpt.io/){:target="_blank"}  :: AI note-taking
 1. [openrouter.ai/deepseek/deepseek-chat](https://openrouter.ai/deepseek/deepseek-chat)
+1. [otio.ai](https://otio.ai/){:target="_blank"}  :: AI writing assistant
 1. [perplexity.ai](https://www.perplexity.ai){:target="_blank"}
 1. [phind.com](https://www.phind.com/){:target="_blank"}
 1. [pi.ai](https://pi.ai/){:target="_blank"} - This chat talks with different voices
-1. [poe.com/login](https://poe.com/login)
-1. [poe.com](https://poe.com){:target="_blank"} : by Quora
-1. [rasa.com](https://rasa.com){:target="_blank"} : open-source conversational AI
-1. [replika.ai](https://replika.ai){:target="_blank"} : AI companion chatbot
+1. [poe.com](https://poe.com){:target="_blank"} :: by Quora
+1. [quillbot.com](https://quillbot.com/){:target="_blank"} :: (Paraphrasing tool)
+1. [rasa.com](https://rasa.com){:target="_blank"} :: open-source conversational AI
+1. [replika.ai](https://replika.ai){:target="_blank"} :: AI companion chatbot
+1. [sembly.ai](https://www.sembly.ai/){:target="_blank"}  :: AI meeting assistant
+1. [simplified.com](https://simplified.com/){:target="_blank"}  :: AI content creation
 1. [textsynth.com/chat.html](https://textsynth.com/chat.html){:target="_blank"}
 1. [venice.ai](https://venice.ai/){:target="_blank"}
+1. [whatplugin.beehiiv.com](https://whatplugin.beehiiv.com/){:target="_blank"}  :: AI plugin directory
+1. [writer.com](https://writer.com/){:target="_blank"} :: (AI writing assistant)
 1. [writesonic.com/chat](https://writesonic.com/chat){:target="_blank"}
+1. [www.anthropic.com/product](https://www.anthropic.com/product){:target="_blank"} :: (AI text generation)
+1. [www.chatpdf.com](https://www.chatpdf.com/){:target="_blank"} :: (AI for PDF text interaction)
+1. [www.jasper.ai](https://www.jasper.ai/){:target="_blank"} :: (AI writing assistant)
+1. [www.onelook.com/reverse-dictionary.shtml](https://www.onelook.com/reverse-dictionary.shtml){:target="_blank"} :: (Dictionary tool)
+1. [www.paralleldots.com/emotion-analysis](https://www.paralleldots.com/emotion-analysis){:target="_blank"} :: (Text sentiment analysis)
+1. [www.quillpad.in/editor.htmlutm_source](http://www.quillpad.in/editor.htmlutm_source){:target="_blank"} :: (Text editor)
 1. [x.ai](https://x.ai/){:target="_blank"}
 1. [you.com/chat](https://you.com/chat){:target="_blank"}
 ## AI for Research & Education ##
@@ -60,8 +85,8 @@ These UI/consoles from different companies provide access to multiple models. De
 1. [desmos.com/calculator](https://www.desmos.com/calculator){:target="_blank"}
 1. [developers.strava.com](https://developers.strava.com/)
 1. [duolingo.com/placement/fr](https://www.duolingo.com/placement/fr){:target="_blank"}
-1. [elicit.com](https://elicit.com/)
-1. [ethical.institute](https://ethical.institute/)
+1. [elicit.com](https://elicit.com/){:target="_blank"}
+1. [ethical.institute](https://ethical.institute/){:target="_blank"}
 1. [gapminder.org](https://www.gapminder.org/){:target="_blank"}
 1. [geogebra.org/graphing](https://www.geogebra.org/graphing){:target="_blank"}
 1. [humiris.ai](https://www.humiris.ai/){:target="_blank"}
@@ -69,7 +94,7 @@ These UI/consoles from different companies provide access to multiple models. De
 1. [jamaibase.com](https://www.jamaibase.com/){:target="_blank"}
 1. [javatpoint.com](https://www.javatpoint.com/){:target="_blank"}
 1. [joinmilo.com](https://www.joinmilo.com/){:target="_blank"}
-1. [latitude.io](https://latitude.io/)
+1. [latitude.io](https://latitude.io/){:target="_blank"}
 1. [perplexity.ai](https://www.perplexity.ai/){:target="_blank"}
 1. [qiskit.org/textbook/preface.html](https://qiskit.org/textbook/preface.html){:target="_blank"}
 1. [questgen.ai](https://www.questgen.ai/){:target="_blank"}
@@ -97,7 +122,7 @@ These UI/consoles from different companies provide access to multiple models. De
 1. [aider.chat](https://aider.chat/){:target="_blank"}
 1. [tabnine.com](https://www.tabnine.com/){:target="_blank"}
 ## AI Studios Platforms ##
-AI studio platforms—web-based tools or environments where users can interact with, build, or experiment with AI models
+AI studio platforms—web-based tools or environments where users can interact with, build, or experiment with AI models.:.
 1. [Google AI Studio](https://aistudio.google.com/app){:target="_blank"}
 1. [Gemini](https://gemini.google.com/app){:target="_blank"}  
 1. [Azure AI Studio](https://ai.azure.com/){:target="_blank"}  
@@ -107,30 +132,34 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [IBM Watson Studio](https://www.ibm.com/watson/studio){:target="_blank"}  
 1. [Google Notebook LM](https://notebooklm.google.com/){:target="_blank"}
 ## Online Development Tools ##
+1. [app.funblocks.net](https://app.funblocks.net){:target="_blank"}  :: AI workflow builder
 1. [Bolt.new](https://bolt.new\){:target="_blank"\} 
 1. [CodeAnywhere.com](https://codeanywhere.com/\){:target="_blank"\} 
 1. [CodePen.io](https://codepen.io/\){:target="_blank"\} 
-1. [CodeSandbox.io](https://codesandbox.io/\){:target="_blank"\} 
 1. [Coder.com](https://coder.com/\){:target="_blank"\} 
+1. [CodeSandbox.io](https://codesandbox.io/\){:target="_blank"\} 
+1. [colab.research .google.com](https://colab.research.google.com/\){:target="_blank"\} 
 1. [Deepnote.com](https://deepnote.com/\){:target="_blank"\} 
 1. [Eclipse theia-ide.org](https://theia-ide.org/\){:target="_blank"\} 
+1. [editorx.com/features/development](https://www.editorx.com/features/development){:target="_blank"}  :: Web development
 1. [Github.com/features /codespaces](https://github.com/features/codespaces\){:target="_blank"\} 
 1. [Gitpod.io](https://www.gitpod.io/\){:target="_blank"\} 
 1. [Glitch.com](https://glitch.com/\){:target="_blank"\} 
 1. [Gradient console.paperspace.com](https://console.paperspace.com/\){:target="_blank"\} 
 1. [Hoppscotch.io](https://hoppscotch.io/\){:target="_blank"\} 
-1. [JSFiddle.net](https://jsfiddle.net/\){:target="_blank"\} 
 1. [JetBrains.com/Fleet](https://www.jetbrains.com/fleet/\){:target="_blank"\} 
-1. [Katacoda (Now O’Reilly)](https://katacoda.com/\){:target="_blank"\} 
-1. [Postman.com](https://www.postman.com/\){:target="_blank"\} 
-1. [Replit.com](https://replit.com/\){:target="_blank"\} 
-1. [StackBlitz.com](https://stackblitz.com/\){:target="_blank"\} 
-1. [VSCode.dev](https://vscode.dev/\){:target="_blank"\} 
-1. [colab.research .google.com](https://colab.research.google.com/\){:target="_blank"\} 
+1. [JSFiddle.net](https://jsfiddle.net/\){:target="_blank"\} 
 1. [jupyter.org/ try-jupyter/lab](https://jupyter.org/try-jupyter/lab/\){:target="_blank"\} 
 1. [kaggle.com/code - Kernels](https://www.kaggle.com/code\){:target="_blank"\} 
+1. [Katacoda (Now O’Reilly)](https://katacoda.com/\){:target="_blank"\} 
 1. [labs.play-with -docker.com](https://labs.play-with-docker.com/\){:target="_blank"\} 
+1. [mermaidchart.com](https://www.mermaidchart.com/){:target="_blank"}  :: Diagramming
+1. [Postman.com](https://www.postman.com/\){:target="_blank"\} 
 1. [Pythonium.net](https://pythonium.net/\){:target="_blank"\} 
+1. [Replit.com](https://replit.com/\){:target="_blank"\} 
+1. [StackBlitz.com](https://stackblitz.com/\){:target="_blank"\} 
+1. [vercel.com/reactjs-projects-projects](https://vercel.com/reactjs-projects-projects/){:target="_blank"}  :: Deployment
+1. [VSCode.dev](https://vscode.dev/\){:target="_blank"\} 
 ## Development Tools ##
 1. [codepad.org](http://codepad.org/){:target="_blank"}
 1. [algassert.com/quirk](https://algassert.com/quirk){:target="_blank"}
@@ -185,6 +214,8 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [thegreatcoursesplus.com/customer/account/signin](https://www.thegreatcoursesplus.com/customer/account/signin/){:target="_blank"}
 1. [turing.com/blog/top-npm-packages-for-node-js-developers](https://www.turing.com/blog/top-npm-packages-for-node-js-developers/){:target="_blank"}
 1. [w3schools.com/mysql/trymysql.asp](https://www.w3schools.com/mysql/trymysql.asp){:target="_blank"}
+
+
 ## AI LLM Tools & Frameworks ##
 1. [abacus.ai/anomalydetection](https://abacus.ai/anomalydetection){:target="_blank"}
 1. [console.mistral.ai/usage](https://console.mistral.ai/usage/){:target="_blank"}
@@ -250,17 +281,22 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [vectorshift.ai](https://vectorshift.ai/){:target="_blank"}
 1. [zustand-demo.pmnd.rs](https://zustand-demo.pmnd.rs/){:target="_blank"}
 ## AI Dev Tools & Libraries ##
+1. [ai.facebook.com/blog/hiplot-high-dimensional-interactive-plots-made-easy](https://ai.facebook.com/blog/hiplot-high-dimensional-interactive-plots-made-easy/){:target="_blank"}
+1. [blog.gramener.com](https://blog.gramener.com/){:target="_blank"}
+1. [codebeautify.org/html-to-markdown](https://codebeautify.org/html-to-markdown){:target="_blank"} :: (Code converter)
+1. [codegrepper.com/code-examples/python](https://www.codegrepper.com/code-examples/python){:target="_blank"}
+1. [docs.bokeh.org/en/latest](https://docs.bokeh.org/en/latest/){:target="_blank"}
+1. [gradio.app/docs](https://gradio.app/docs/){:target="_blank"}
 1. [http://corenlp.run](http://corenlp.run/){:target="_blank"}
 1. [http://liwc.wpengine.com](http://liwc.wpengine.com/){:target="_blank"}
 1. [http://taghindi.herokuapp.com](http://taghindi.herokuapp.com/){:target="_blank"}
 1. [http://www.nltk.org/nltk_data](http://www.nltk.org/nltk_data/){:target="_blank"}
-1. [ai.facebook.com/blog/hiplot-high-dimensional-interactive-plots-made-easy](https://ai.facebook.com/blog/hiplot-high-dimensional-interactive-plots-made-easy/){:target="_blank"}
-1. [blog.gramener.com](https://blog.gramener.com/){:target="_blank"}
-1. [docs.bokeh.org/en/latest](https://docs.bokeh.org/en/latest/){:target="_blank"}
-1. [gradio.app/docs](https://gradio.app/docs/){:target="_blank"}
 1. [infogram.com/blog](https://infogram.com/blog/){:target="_blank"}
 1. [learn.g2.com/types-of-data-visualizations](https://learn.g2.com/types-of-data-visualizations){:target="_blank"}
 1. [matplotlib.org](https://matplotlib.org/){:target="_blank"}
+1. [nltk.org](https://www.nltk.org/){:target="_blank"}
+1. [nltk.org/book](https://www.nltk.org/book/){:target="_blank"}
+1. [nltk.org/book/ch05.html](https://www.nltk.org/book/ch05.html){:target="_blank"}
 1. [numpy.org](https://numpy.org/){:target="_blank"}
 1. [opencv.org/courses](https://opencv.org/courses/){:target="_blank"}
 1. [pandas.pydata.org](https://pandas.pydata.org/){:target="_blank"}
@@ -268,17 +304,15 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [python.langchain.com/en/latest](https://python.langchain.com/en/latest/){:target="_blank"}
 1. [pytorch.org](https://pytorch.org/){:target="_blank"}
 1. [ray.so](https://ray.so/){:target="_blank"}
+1. [reddit.com](https://www.reddit.com/){:target="_blank"}
+1. [regex101.com](https://regex101.com/){:target="_blank"} :: (Regex tester)
 1. [scikit-image.org](https://scikit-image.org/){:target="_blank"}
 1. [scipy.org](https://scipy.org/){:target="_blank"}
 1. [seaborn.pydata.org/tutorial/color_palettes.html#palette-tutorial](https://seaborn.pydata.org/tutorial/color_palettes.html#palette-tutorial){:target="_blank"}
+1. [searchtechnologies.com/blog/natural-language-processing-techniques](https://www.searchtechnologies.com/blog/natural-language-processing-techniques){:target="_blank"}
 1. [spacy.io](https://spacy.io/){:target="_blank"}
 1. [stanfordnlp.github.io/stanfordnlp/pipeline.html](https://stanfordnlp.github.io/stanfordnlp/pipeline.html){:target="_blank"}
-1. [codegrepper.com/code-examples/python](https://www.codegrepper.com/code-examples/python){:target="_blank"}
-1. [nltk.org](https://www.nltk.org/){:target="_blank"}
-1. [nltk.org/book](https://www.nltk.org/book/){:target="_blank"}
-1. [nltk.org/book/ch05.html](https://www.nltk.org/book/ch05.html){:target="_blank"}
-1. [reddit.com](https://www.reddit.com/){:target="_blank"}
-1. [searchtechnologies.com/blog/natural-language-processing-techniques](https://www.searchtechnologies.com/blog/natural-language-processing-techniques){:target="_blank"}
+1. [tableconvert.com/html-to-markdown](https://tableconvert.com/html-to-markdown){:target="_blank"} :: (Code converter)
 1. [tensorflow.org](https://www.tensorflow.org/){:target="_blank"}
 1. [tensorflow.org/lite/examples](https://www.tensorflow.org/lite/examples/){:target="_blank"}
 1. [wolframalpha.com](https://www.wolframalpha.com/){:target="_blank"}
@@ -292,13 +326,14 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [boomy.com](https://boomy.com/){:target="_blank"}
 1. [character.ai/voice/new](https://character.ai/voice/new)
 1. [descript.com](https://www.descript.com/){:target="_blank"}
-1. [elevenlabs.io/genfm](https://elevenlabs.io/genfm){:target="_blank"}
 1. [elevenlabs.io](https://elevenlabs.io/){:target="_blank"}
+1. [elevenlabs.io/genfm](https://elevenlabs.io/genfm){:target="_blank"}
 1. [epidemicsound.com/music/themes/podcast/podcast-hooks](https://www.epidemicsound.com/music/themes/podcast/podcast-hooks/){:target="_blank"}
 1. [fineshare.com/ai-song-cover](https://www.fineshare.com/ai-song-cover){:target="_blank"}
 1. [lalal.ai](https://www.lalal.ai/){:target="_blank"}
 1. [melodyloops.com/my-music/longoloops/earth-surface](https://www.melodyloops.com/my-music/longoloops/earth-surface/){:target="_blank"}
 1. [motionarray.com/browse/royalty-free-music/free](https://motionarray.com/browse/royalty-free-music/free/){:target="_blank"}
+1. [noises.online](https://noises.online/){:target="_blank"} :: (Ambient sounds generator)
 1. [openai.com/research/jukebox](https://openai.com/research/jukebox)
 1. [otter.ai](https://otter.ai/){:target="_blank"}
 1. [papercup.com](https://www.papercup.com/){:target="_blank"}
@@ -316,8 +351,30 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [udio.com](https://www.udio.com/){:target="_blank"}
 1. [Voicemaker.in](Voicemaker.in){:target="_blank"}
 1. [voicepen.ai/auth](https://voicepen.ai/auth){:target="_blank"}
+1. [www.howtopronounce.com](https://www.howtopronounce.com/){:target="_blank"} :: (Pronunciation tool)
+1. [www.synthesia.io/homepage](https://www.synthesia.io/homepage){:target="_blank"} :: (AI video/voice synthesis)
 ## Desktop Audio Tools ##
-1. [audacityteam.org](https://www.audacityteam.org/){:target="_blank"} : Most popular free software for recording and editing audio
+1. [audacityteam.org](https://www.audacityteam.org/){:target="_blank"} :: Most popular free software for recording and editing audio
+## AI for Audio-to-Text Transcription ##
+AssemblyAI, Deepgram, and Rev.ai lead in accuracy. Otter.ai, Fireflies, and Speak are Real-time. Sonix, Happy Scribe, Google Speech-to-Text are Multilingual. AssemblyAI, Deepgram, Rev.ai provides API Options.:.
+1. [assemblyai.com](https://www.assemblyai.com){:target="_blank"}  :: API for high-accuracy transcription 
+1. [aws.amazon.com/transcribe](https://aws.amazon.com/transcribe){:target="_blank"}  :: AWS-based transcription service 
+1. [cloud.google.com/speech-to-text](https://cloud.google.com/speech-to-text){:target="_blank"}  :: Cloud-based API by Google 
+1. [deepgram.com](https://deepgram.com){:target="_blank"}  :: Low-latency transcription API 
+1. [descript.com](https://www.descript.com){:target="_blank"}  :: Transcription + audio/video editing 
+1. [elevenlabs.io](https://elevenlabs.io){:target="_blank"}  :: Speech-to-text (part of their voice toolkit) 
+1. [fireflies.ai](https://fireflies.ai){:target="_blank"}  :: AI notetaker for meetings (transcribes + analyzes) 
+1. [happyscribe.com](https://www.happyscribe.com){:target="_blank"}  :: Free tier available, supports 120+ languages 
+1. [notta.ai](https://www.notta.ai){:target="_blank"}  :: Transcribe recordings or live meetings 
+1. [otter.ai](https://otter.ai){:target="_blank"}  :: Real-time meeting transcription with speaker ID 
+1. [rev.ai](https://www.rev.ai){:target="_blank"}  :: Enterprise-grade transcription API 
+1. [sembly.ai](https://www.sembly.ai){:target="_blank"}  :: Meeting transcription + insights 
+1. [sonix.ai](https://sonix.ai){:target="_blank"}  :: Automated transcription with multilingual support 
+1. [speak.com](https://www.speak.com){:target="_blank"}  :: AI meeting notes + transcription 
+1. [superwhisper.com](https://superwhisper.com){:target="_blank"}  :: AI-powered transcription 
+1. [temi.com](https://www.temi.com){:target="_blank"}  :: Cheap, fast transcription 
+1. [trint.com](https://trint.com){:target="_blank"}  :: Transcription for journalists 
+1. [veed.io](https://www.veed.io){:target="_blank"}  :: Audio-to-text with editing tools 
 ## AI for Text-to-Image Image/Thumbnail Generation Tools ##
 1. [adobe.com/in/products/catalog.html](https://www.adobe.com/in/products/catalog.html){:target="_blank"}
 1. [app.artflow.ai](https://app.artflow.ai/){:target="_blank"}
@@ -335,20 +392,21 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [dreamstudio.ai/generate](https://dreamstudio.ai/generate){:target="_blank"}
 1. [fal.ai/models/fal-ai/flux/dev](https://fal.ai/models/fal-ai/flux/dev){:target="_blank"}
 1. [fal.ai/models/fal-ai/flux/schnell/playground](https://fal.ai/models/fal-ai/flux/schnell/playground){:target="_blank"}
+1. [figma.com](https://www.figma.com/){:target="_blank"}
 1. [firefly.adobe.com](https://firefly.adobe.com/){:target="_blank"}
 1. [futurepedia.io/ai-tools/art-generators/best](https://www.futurepedia.io/ai-tools/art-generators/best){:target="_blank"}
 1. [gemini.google.com/app](https://gemini.google.com/app){:target="_blank"}
 1. [generated.photos](https://generated.photos/){:target="_blank"}
 1. [grok.com](https://grok.com/){:target="_blank"}
 1. [ideogram.ai/t/explore](https://ideogram.ai/t/explore){:target="_blank"}
+1. [imagine.art](https://www.imagine.art/){:target="_blank"} :: (AI art generation)
 1. [krea.ai](https://www.krea.ai/){:target="_blank"}
+1. [krea.ai](www.krea.ai){:target="_blank"}
 1. [pictory.ai](https://pictory.ai/){:target="_blank"}
 1. [pika.art](https://pika.art/){:target="_blank"}
 1. [synthesia.io](https://www.synthesia.io/){:target="_blank"}
 1. [this-person-does-not-exist.com/en](https://this-person-does-not-exist.com/en){:target="_blank"}
 1. [vercel.com](https://vercel.com/l){:target="_blank"}
-1. [figma.com](https://www.figma.com/){:target="_blank"}
-1. [www.krea.ai](www.krea.ai){:target="_blank"}
 ## Desktop Image Tools ##
 1. [imagemagick.org](https://imagemagick.org/index.php){:target="_blank"}
 1. [gimp.org](https://www.gimp.org/){:target="_blank"}
@@ -457,7 +515,6 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [app.pictory.ai/textinput](https://app.pictory.ai/textinput){:target="_blank"}
 1. [app.pixverse.ai/onboard](https://app.pixverse.ai/onboard){:target="_blank"}
 1. [app.runwayml.com](https://app.runwayml.com){:target="_blank"}
-1. [app.runwayml.com](https://app.runwayml.com/){:target="_blank"}
 1. [app.steve.ai](https://app.steve.ai/){:target="_blank"}
 1. [clipchamp.com](https://clipchamp.com/){:target="_blank"}
 1. [deepmind.google/technologies/veo/veo-2](https://deepmind.google/technologies/veo/veo-2/){:target="_blank"}
@@ -476,100 +533,94 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [veed.io](https://www.veed.io/){:target="_blank"}
 1. [www.imagine.art](https://www.imagine.art/){:target="_blank"}
 1. [www.krea.ai](www.krea.ai){:target="_blank"}
+1. [www.veed.io](https://www.veed.io/){:target="_blank"} :: (Video editor)
+1. [www.videoask.com](https://www.videoask.com/){:target="_blank"} :: (Interactive video tool)
 ## Desktop Video Tools ##
 1. [blender.org](https://www.blender.org/){:target="_blank"}
 1. [openshot.org](https://www.openshot.org/){:target="_blank"}
 1. [obsstudio.com](https://obsstudio.com/){:target="_blank"}
 ## AI Diagraming Tools ##
+1. [aidocmaker.com/g0/file](https://www.aidocmaker.com/g0/file){:target="_blank"}
 1. [diagrams.helpful.dev](https://diagrams.helpful.dev/){:target="_blank"}
 1. [mermaid.js.org/ecosystem/tutorials.html](https://mermaid.js.org/ecosystem/tutorials.html){:target="_blank"}
-1. [miro.com/app/board](https://miro.com/app/board/){:target="_blank"}
-1. [aidocmaker.com/g0/file](https://www.aidocmaker.com/g0/file){:target="_blank"}
+1. [mindmeister.com](https://www.mindmeister.com/){:target="_blank"}  :: Mind mapping
+1. [miro.com](https://miro.com/){:target="_blank"}  :: Online whiteboard
+1. [venngage.com](https://venngage.com/){:target="_blank"}  :: Infographic maker
 ## AI for Productivity ##
-1. [aisdr.com](https://aisdr.com/){:target="_blank"}
-1. [app.funblocks.net](https://app.funblocks.net){:target="_blank"}
-1. [app.napkin.ai](https://app.napkin.ai/){:target="_blank"}
-1. [autogpt.net](https://autogpt.net/){:target="_blank"}
-1. [bardeen.ai](https://www.bardeen.ai/){:target="_blank"}
-1. [beautiful.ai](https://www.beautiful.ai/){:target="_blank"}
-1. [bibtex.com/c/bibtex-to-csv-converter](https://www.bibtex.com/c/bibtex-to-csv-converter/){:target="_blank"}
-1. [botif.ai](https://botif.ai/){:target="_blank"}
-1. [commentreply.ai](https://www.commentreply.ai/){:target="_blank"}
-1. [copilot.microsoft.com](https://copilot.microsoft.com/)
-1. [decktopus.com](https://www.decktopus.com/){:target="_blank"}
-1. [durable.co](https://durable.co/){:target="_blank"}
-1. [editorx.com/features/development](https://www.editorx.com/features/development){:target="_blank"}
-1. [eightify.app/welcome](https://www.eightify.app/welcome){:target="_blank"}
-1. [emaze.com](https://www.emaze.com/){:target="_blank"}
-1. [fireflies.ai](https://fireflies.ai/){:target="_blank"}
-1. [funblocks.net/aiflow.html](https://www.funblocks.net/aiflow.html){:target="_blank"}
-1. [gamma.app/lng=en](https://gamma.app/lng=en){:target="_blank"}
-1. [genial.ly](https://www.genial.ly/){:target="_blank"}
-1. [gitbook.com](https://www.gitbook.com/){:target="_blank"}
-1. [gling.ai](https://www.gling.ai/){:target="_blank"}
-1. [goagentive.com](https://goagentive.com/)
-1. [haikudeck.com](https://www.haikudeck.com/){:target="_blank"}
-1. [helloscribe.ai](https://www.helloscribe.ai/){:target="_blank"}
-1. [hume-evi-next-js-starter.vercel.app](https://hume-evi-next-js-starter.vercel.app/){:target="_blank"}
-1. [jellypod.ai](https://jellypod.ai/)
-1. [jotform.com/myforms](https://www.jotform.com/myforms/){:target="_blank"}
-1. [kickresume.com/en](https://www.kickresume.com/en/){:target="_blank"}
-1. [lucid.app/documents](https://lucid.app/documents)
-1. [lucid.app/lucidspark](https://lucid.app/lucidspark/)
-1. [ludus.one](https://ludus.one/){:target="_blank"}
-1. [maester.app](https://maester.app/){:target="_blank"}
-1. [make.com/en](https://www.make.com/en){:target="_blank"}
-1. [mermaidchart.com/app/projects](https://www.mermaidchart.com/app/projects/){:target="_blank"}
-1. [mindmeister.com](https://www.mindmeister.com/){:target="_blank"}
-1. [miro.com/app/dashboard](https://miro.com/app/dashboard/)
-1. [notegpt.io](https://notegpt.io/){:target="_blank"}
-1. [otio.ai](https://otio.ai/){:target="_blank"}
-1. [pdf2go.com](https://www.pdf2go.com/){:target="_blank"}
-1. [pitch.com](https://pitch.com/){:target="_blank"}
-1. [platform.hume.ai](https://platform.hume.ai/){:target="_blank"}
-1. [prezi.com](https://prezi.com/){:target="_blank"}
-1. [readme.com](https://readme.com/){:target="_blank"}
-1. [sembly.ai](https://www.sembly.ai/){:target="_blank"}
-1. [simplified.com](https://simplified.com/){:target="_blank"}
-1. [slack.com/intl/en-in](https://slack.com/intl/en-in/){:target="_blank"}
-1. [slidebean.com](https://slidebean.com/){:target="_blank"}
-1. [slidemagic.com](https://www.slidemagic.com/){:target="_blank"}
-1. [slides.com/users/sign_in](https://slides.com/users/sign_in){:target="_blank"}
-1. [slidesai.io](https://www.slidesai.io/){:target="_blank"}
-1. [slidespeak.co](https://slidespeak.co/){:target="_blank"}
-1. [stackshare.io](https://stackshare.io/){:target="_blank"}
-1. [template124.com/pmp-document](https://template124.com/pmp-document/){:target="_blank"}
-1. [tome.app](https://tome.app/){:target="_blank"}
-1. [tweetmonk.com](https://tweetmonk.com/){:target="_blank"}
-1. [venngage.com](https://venngage.com/){:target="_blank"}
-1. [vercel.com/reactjs-projects-projects](https://vercel.com/reactjs-projects-projects/){:target="_blank"}
-1. [visme.co](https://www.visme.co/){:target="_blank"}
-1. [whatplugin.beehiiv.com](https://whatplugin.beehiiv.com/){:target="_blank"}
-1. [zoho.com/en-in/crm](https://www.zoho.com/en-in/crm/){:target="_blank"}
+1. [app.clickup.com/9016092491/v/l/8cpd9ub-256](https://app.clickup.com/9016092491/v/l/8cpd9ub-256){:target="_blank"} :: (Project management)
+1. [app.crowdsignal.com/startplan=free](https://app.crowdsignal.com/startplan=free){:target="_blank"} :: (Survey tool)
+1. [bardeen.ai](https://www.bardeen.ai/){:target="_blank"}  :: AI workflow automation
+1. [bitly.com](https://bitly.com/){:target="_blank"} :: (URL shortener)
+1. [course.fast.ai/start_colab](https://course.fast.ai/start_colab){:target="_blank"} :: (AI learning)
+1. [dateful.com/time-zone-converter](https://dateful.com/time-zone-converter){:target="_blank"} :: (Time zone tool)
+1. [fireflies.ai](https://fireflies.ai/){:target="_blank"}  :: Meeting transcription
+1. [follow.it/my-feeds/dasarpai/statistic](https://follow.it/my-feeds/dasarpai/statistic){:target="_blank"} :: (RSS feed)
+1. [getgreenshot.org/downloads](https://getgreenshot.org/downloads/){:target="_blank"} :: (Screenshot tool)
+1. [goagentive.com](https://goagentive.com/){:target="_blank"}  :: AI agents
+1. [help.autodesk.com](https://help.autodesk.com/){:target="_blank"} :: (3D design help)
+1. [jellypod.ai](https://jellypod.ai/){:target="_blank"}  :: Email digest AI
+1. [keep.google.com/u/0/#home](https://keep.google.com/u/0/#home){:target="_blank"} :: (Notes)
+1. [keepa.com/#!](https://keepa.com/#!){:target="_blank"} :: (Price tracker)
+1. [make.com/en](https://www.make.com/en){:target="_blank"}  :: Automation platform
+1. [marketplace.atlassian.com/apps](https://marketplace.atlassian.com/apps/){:target="_blank"} :: (App marketplace)
+1. [meet.jit.si](https://meet.jit.si/){:target="_blank"} :: (Video conferencing)
+1. [news.microsoft.com/reinventing-productivity](https://news.microsoft.com/reinventing-productivity/){:target="_blank"} :: (Productivity tools)
+1. [palmetto.demos.dice-research.org](https://palmetto.demos.dice-research.org/){:target="_blank"} :: (Research tool)
+1. [pdftotext.com](https://pdftotext.com/){:target="_blank"} :: (PDF converter)
+1. [platform.hume.ai](https://platform.hume.ai/){:target="_blank"}  :: Emotional AI
+1. [prezi.com/dashboard/next/#/all](https://prezi.com/dashboard/next/#/all){:target="_blank"} :: (Presentation tool)
+1. [products.aspose.app/pdf/conversion/pdf-to-tex](https://products.aspose.app/pdf/conversion/pdf-to-tex){:target="_blank"} :: (PDF converter)
+1. [readme.com](https://readme.com/){:target="_blank"}  :: Documentation tool
+1. [romannurik.github.io/AndroidAssetStudio](https://romannurik.github.io/AndroidAssetStudio/){:target="_blank"} :: (Android assets)
+1. [shapenet.org/taxonomy-viewer](https://shapenet.org/taxonomy-viewer){:target="_blank"} :: (3D model viewer)
+1. [shields.io](https://shields.io/){:target="_blank"} :: (Badge generator)
+1. [stackshare.io](https://stackshare.io/){:target="_blank"}  :: Tech stack sharing
+1. [tableizer.journalistopia.com/tableizer.php](https://tableizer.journalistopia.com/tableizer.php){:target="_blank"} :: (Table generator)
+1. [wordhtml.com](https://wordhtml.com/){:target="_blank"} :: (HTML converter)
+1. [www.3ds.com/products/catia](https://www.3ds.com/products/catia){:target="_blank"} :: (3D design)
+1. [www.ansys.com/products/3d-design/ansys-discovery](https://www.ansys.com/products/3d-design/ansys-discovery){:target="_blank"} :: (3D design)
+1. [www.codecogs.com/latex/eqneditor.php](https://www.codecogs.com/latex/eqneditor.php){:target="_blank"} :: (LaTeX editor)
+1. [www.cortical.io/freetools/extract-keywords](https://www.cortical.io/freetools/extract-keywords/){:target="_blank"} :: (Keyword extraction)
+1. [www.downloadlinkedinvideo.com](https://www.downloadlinkedinvideo.com/){:target="_blank"} :: (Video downloader)
+1. [www.logicalincrements.com](https://www.logicalincrements.com/){:target="_blank"} :: (PC building guide)
+1. [www.makeuseof.com/tag/markkit-hightlight-text-webpage](https://www.makeuseof.com/tag/markkit-hightlight-text-webpage/){:target="_blank"} :: (Web highlighting)
+1. [www.onlinevideoconverter.com/youtube-converter](https://www.onlinevideoconverter.com/youtube-converter){:target="_blank"} :: (Video converter)
+1. [www.overleaf.com/learn](https://www.overleaf.com/learn){:target="_blank"} :: (LaTeX editor)
+1. [www.seoptimer.com/keyword-generator](https://www.seoptimer.com/keyword-generator){:target="_blank"} :: (SEO tool)
+1. [www.smartsheet.com/solutions/project-management](https://www.smartsheet.com/solutions/project-management){:target="_blank"} :: (Project management)
+1. [www.techpowerup.com/gpu-specs](https://www.techpowerup.com/gpu-specs/){:target="_blank"} :: (GPU specs)
+1. [www.the-qrcode-generator.com](https://www.the-qrcode-generator.com/){:target="_blank"} :: (QR code generator)
+1. [www.theworldcounts.com/populations](https://www.theworldcounts.com/populations/){:target="_blank"} :: (Population stats)
+1. [www.timeanddate.com](https://www.timeanddate.com/){:target="_blank"} :: (Time/date tool)
+1. [www.whatplugin.ai/plugins/access-pdf-amp-docs](https://www.whatplugin.ai/plugins/access-pdf-amp-docs){:target="_blank"} :: (PDF tool)
+1. [www.zamzar.com](https://www.zamzar.com/){:target="_blank"} :: (File converter)
 ## AI Presentation Tools ##
 1. [app.funblocks.net](https://app.funblocks.net){:target="_blank"}
 1. [app.napkin.ai](https://app.napkin.ai/){:target="_blank"}
-1. [gamma.app/lng=en](https://gamma.app/lng=en){:target="_blank"}
+1. [beautiful.ai](https://www.beautiful.ai/){:target="_blank"}
+1. [beautiful.ai](https://www.beautiful.ai/){:target="_blank"}  :: AI presentations
+1. [decktopus.com](https://www.decktopus.com/){:target="_blank"}
+1. [decktopus.com](https://www.decktopus.com/){:target="_blank"}  :: AI presentation maker
+1. [emaze.com](https://www.emaze.com/){:target="_blank"}  :: Presentation software
+1. [funblocks.net/aiflow.html](https://www.funblocks.net/aiflow.html){:target="_blank"}
+1. [gamma.app](https://gamma.app/lng=en){:target="_blank"}  :: AI presentations
+1. [genial.ly](https://www.genial.ly/){:target="_blank"}  :: Interactive content
+1. [haikudeck.com](https://www.haikudeck.com/){:target="_blank"}  :: Presentation tool
 1. [hume-evi-next-js-starter.vercel.app](https://hume-evi-next-js-starter.vercel.app/){:target="_blank"}
+1. [lucid.app](https://lucid.app/){:target="_blank"}  :: Visual collaboration
 1. [ludus.one](https://ludus.one/){:target="_blank"}
-1. [pitch.com](https://pitch.com/){:target="_blank"}
+1. [mindmeister.com](https://www.mindmeister.com/){:target="_blank"}
+1. [pitch.com](https://pitch.com/){:target="_blank"}  :: Presentation software
 1. [platform.hume.ai](https://platform.hume.ai/){:target="_blank"}
 1. [prezi.com](https://prezi.com/){:target="_blank"}
 1. [slidebean.com](https://slidebean.com/){:target="_blank"}
+1. [slidemagic.com](https://www.slidemagic.com/){:target="_blank"}
+1. [slidesai.io](https://www.slidesai.io/){:target="_blank"}  :: AI presentation maker
 1. [slidespeak.co](https://slidespeak.co/){:target="_blank"}
-1. [tome.app](https://tome.app/){:target="_blank"}
+1. [tome.app](https://tome.app/){:target="_blank"}  :: AI storytelling
 1. [venngage.com](https://venngage.com/){:target="_blank"}
 1. [vercel.com/reactjs-projects-projects](https://vercel.com/reactjs-projects-projects/){:target="_blank"}
-1. [beautiful.ai](https://www.beautiful.ai/){:target="_blank"}
-1. [decktopus.com](https://www.decktopus.com/){:target="_blank"}
-1. [emaze.com](https://www.emaze.com/){:target="_blank"}
-1. [funblocks.net/aiflow.html](https://www.funblocks.net/aiflow.html){:target="_blank"}
-1. [genial.ly](https://www.genial.ly/){:target="_blank"}
-1. [haikudeck.com](https://www.haikudeck.com/){:target="_blank"}
-1. [mindmeister.com](https://www.mindmeister.com/){:target="_blank"}
-1. [slidemagic.com](https://www.slidemagic.com/){:target="_blank"}
-1. [slidesai.io](https://www.slidesai.io/){:target="_blank"}
-1. [visme.co](https://www.visme.co/){:target="_blank"}
+1. [visme.co](https://www.visme.co/){:target="_blank"}  :: Visual content creation
 1. [zoho.com/en-in/crm](https://www.zoho.com/en-in/crm/){:target="_blank"}
 ## Job hunt and Business Hunt Tools ##
 1. [allremote.jobs](https://allremote.jobs/){:target="_blank"}
@@ -642,6 +693,8 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [apify.com](https://apify.com/)
 1. [ascend.io](https://www.ascend.io/){:target="_blank"}
 1. [babylonjs.com](https://www.babylonjs.com/){:target="_blank"}
+1. [beautifytools.com/excel-to-html-converter.php](http://beautifytools.com/excel-to-html-converter.php){:target="_blank"} :: (Excel to HTML)
+1. [bibtex.com/c/bibtex-to-csv-converter](https://www.bibtex.com/c/bibtex-to-csv-converter/){:target="_blank"}  :: Citation converter
 1. [bokeh.org](https://bokeh.org/){:target="_blank"}
 1. [brightdata.com](https://brightdata.com/)
 1. [bytedance.com/en](https://www.bytedance.com/en/){:target="_blank"}
@@ -650,8 +703,10 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [dashboard.cohere.com](https://dashboard.cohere.com/)
 1. [denser.ai](https://denser.ai/)
 1. [developers.google.com/chart](https://developers.google.com/chart){:target="_blank"}
+1. [durable.co](https://durable.co/){:target="_blank"}  :: Website builder
 1. [enterprisedna.co](https://enterprisedna.co/)
 1. [forthought.tools](https://www.forthought.tools/){:target="_blank"}
+1. [gitbook.com](https://www.gitbook.com/){:target="_blank"}  :: Documentation
 1. [grok.com](https://grok.com/)
 1. [haystack.deepset.ai](https://haystack.deepset.ai/)
 1. [highcharts.com/demo](https://www.highcharts.com/demo){:target="_blank"}
@@ -665,6 +720,7 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [looker.com](https://www.looker.com/){:target="_blank"}
 1. [metatags.io](https://metatags.io/)
 1. [meteor.com](https://www.meteor.com/){:target="_blank"}
+1. [pdf2go.com](https://www.pdf2go.com/){:target="_blank"}  :: PDF tools
 1. [phantombuster.com/signup](https://phantombuster.com/signup)
 1. [pixijs.com](https://pixijs.com/){:target="_blank"}
 1. [plotly.com](https://plotly.com/){:target="_blank"}
@@ -677,10 +733,12 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [qblocks.cloud](https://www.qblocks.cloud/){:target="_blank"}
 1. [quasi.market](https://quasi.market/){:target="_blank"}
 1. [reactjs.org](https://reactjs.org/){:target="_blank"}
+1. [sciweavers.org/free-online-latex-equation-editor](http://www.sciweavers.org/free-online-latex-equation-editor){:target="_blank"} :: (LaTeX editor){:target="_blank"}
 1. [scrapeless.com/en/solutions/real-estate](https://www.scrapeless.com/en/solutions/real-estate){:target="_blank"}
 1. [seaborn.pydata.org](https://seaborn.pydata.org/){:target="_blank"}
 1. [serpapi.com](https://serpapi.com/){:target="_blank"}
 1. [snowflake.com/en](https://www.snowflake.com/en/){:target="_blank"}
+1. [template124.com/pmp-document](https://template124.com/pmp-document/){:target="_blank"}  :: Project templates
 1. [tencentcloud.com/products/ivh](https://www.tencentcloud.com/products/ivh){:target="_blank"}
 1. [threejs.org](https://threejs.org/){:target="_blank"}
 1. [venice.ai](https://venice.ai/){:target="_blank"}
@@ -689,7 +747,7 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [vuejs.org](https://vuejs.org/){:target="_blank"}
 1. [wolfram.com](https://wolfram.com/){:target="_blank"}
 1. [wolfram.com](https://www.wolfram.com/){:target="_blank"}
-1. [worldmigrationreport.iom.int/wmr-2022-interactive](https://worldmigrationreport.iom.int/wmr-2022-interactive/){:target="_blank"}
+1. [worldmigrationreport.iom.int/wmr-2022-interactive](https://worldmigrationreport.iom.int/wmr-2022-interactive/)
 1. [zeroone.ai](https://www.zeroone.ai/){:target="_blank"}
 ## Data Visulization Blogs ##
 1. [http://www.howstat.com/cricket/Statistics/ Matches/MatchExtras_ODI.asp](http://www.howstat.com/cricket/Statistics/Matches/MatchExtras_ODI.asp){:target="_blank"}
@@ -823,6 +881,20 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [mentimeter.com](https://www.mentimeter.com/){:target="_blank"}
 1. [movavi.com](https://www.movavi.com/){:target="_blank"}
 1. [rawshorts.com](https://www.rawshorts.com/){:target="_blank"}
+## Assorted/Business/CRM+ Tools##
+1. [jotform.com/myforms](https://www.jotform.com/myforms/){:target="_blank"}  :: Form builder
+1. [kickresume.com/en](https://www.kickresume.com/en/){:target="_blank"}  :: Resume builder
+1. [slack.com/intl/en-in](https://slack.com/intl/en-in/){:target="_blank"}  :: Team communication
+1. [zoho.com/en-in/crm](https://www.zoho.com/en-in/crm/){:target="_blank"}  :: CRM system
+1. [app.napkin.ai](https://app.napkin.ai/){:target="_blank"}  :: AI note-taking
+1. [gling.ai](https://www.gling.ai/){:target="_blank"}  :: Video editing AI
+1. [hume-evi-next-js-starter.vercel.app](https://hume-evi-next-js-starter.vercel.app/){:target="_blank"}  :: Emotional AI demo
+1. [maester.app](https://maester.app/){:target="_blank"}  :: Learning platform
+1. [tweetmonk.com](https://tweetmonk.com/){:target="_blank"}  :: Twitter management
+## Desktop Assorted Tools ##
+1. [windirstat.net : WinDirStat is a disk usage statistics viewer and cleanup assistant for Microsoft Windows clients and servers](https://windirstat.net/){:target="_blank"}
+1. [protonvpn.com : Gain unrestricted access to global content, block annoying ads, and safeguard your privacy with a fast and secure VPN.](https://protonvpn.com/){:target="_blank"}
+1. [texstudio.org](https://www.texstudio.org/){:target="_blank"}
 ## Conferences, Research Journals and Publishers ##
 1. [2020.emnlp.org](https://2020.emnlp.org/){:target="_blank"}
 1. [aaai.org](https://www.aaai.org/){:target="_blank"}
@@ -1011,83 +1083,24 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [learnsanskrit.org/tools/sanscript](https://www.learnsanskrit.org/tools/sanscript/){:target="_blank"}
 1. [sanskritworld.in](https://www.sanskritworld.in/){:target="_blank"}
 1. [sanskritworld.in/sanskrittool/SanskritVerb](https://www.sanskritworld.in/sanskrittool/SanskritVerb){:target="_blank"}
-## Assorted Tools ##
-1. [http://beautifytools.com/excel-to-html-converter.php](http://beautifytools.com/excel-to-html-converter.php){:target="_blank"}
-1. [http://www.quillpad.in/editor.htmlutm_source](http://www.quillpad.in/editor.htmlutm_source){:target="_blank"}
-1. [http://www.sciweavers.org/free- online-latex-equation-editor](http://www.sciweavers.org/free-online-latex-equation-editor){:target="_blank"}
-1. [aiseo.ai](https://aiseo.ai/){:target="_blank"}
-1. [app.clickup.com/9016092491/v/l/8cpd9ub-256](https://app.clickup.com/9016092491/v/l/8cpd9ub-256){:target="_blank"}
-1. [app.crowdsignal.com/startplan=free](https://app.crowdsignal.com/startplan=free){:target="_blank"}
-1. [app.hyperwriteai.com/home](https://app.hyperwriteai.com/home){:target="_blank"}
-1. [azure.microsoft.com/en-us/solutions/ai/#overview](https://azure.microsoft.com/en-us/solutions/ai/#overview){:target="_blank"}
-1. [beta.character.ai](https://beta.character.ai/){:target="_blank"}
-1. [bitly.com](https://bitly.com/){:target="_blank"}
-1. [claude.ai/chats](https://claude.ai/chats){:target="_blank"}
-1. [codebeautify.org/html-to-markdown](https://codebeautify.org/html-to-markdown){:target="_blank"}
-1. [course.fast.ai/start_colab](https://course.fast.ai/start_colab){:target="_blank"}
-1. [dateful.com/time-zone-converter](https://dateful.com/time-zone-converter){:target="_blank"}
-1. [follow.it/my-feeds/dasarpai/statistic](https://follow.it/my-feeds/dasarpai/statistic){:target="_blank"}
-1. [getgreenshot.org/downloads](https://getgreenshot.org/downloads/){:target="_blank"}
-1. [gptstore.ai/chat/-gochitchat-ai](https://gptstore.ai/chat/-gochitchat-ai){:target="_blank"}
-1. [gptstore.ai/chat/showme-redstarplugin-com](https://gptstore.ai/chat/showme-redstarplugin-com){:target="_blank"}
-1. [gptstore.ai/chat/webpilotai-com](https://gptstore.ai/chat/webpilotai-com){:target="_blank"}
-1. [help.autodesk.com](https://help.autodesk.com/){:target="_blank"}
-1. [keep.google.com/u/0/#home](https://keep.google.com/u/0/#home){:target="_blank"}
-1. [keepa.com/#!](https://keepa.com/#!){:target="_blank"}
-1. [languagetool.org](https://languagetool.org/){:target="_blank"}
-1. [languagetool.org/editor/newregistered=true](https://languagetool.org/editor/newregistered=true){:target="_blank"}
-1. [marketplace.atlassian.com/apps](https://marketplace.atlassian.com/apps/){:target="_blank"}
-1. [meet.jit.si](https://meet.jit.si/){:target="_blank"}
-1. [news.microsoft.com/reinventing-productivity](https://news.microsoft.com/reinventing-productivity/){:target="_blank"}
-1. [noises.online](https://noises.online/){:target="_blank"}
-1. [palmetto.demos.dice-research.org](https://palmetto.demos.dice-research.org/){:target="_blank"}
-1. [pdftotext.com](https://pdftotext.com/){:target="_blank"}
-1. [poe.com](https://poe.com/){:target="_blank"}
-1. [prezi.com/dashboard/next/#/all](https://prezi.com/dashboard/next/#/all){:target="_blank"}
-1. [products.aspose.app/pdf/conversion/pdf-to-tex](https://products.aspose.app/pdf/conversion/pdf-to-tex){:target="_blank"}
-1. [quillbot.com](https://quillbot.com/){:target="_blank"}
-1. [regex101.com](https://regex101.com/){:target="_blank"}
-1. [romannurik.github.io/AndroidAssetStudio](https://romannurik.github.io/AndroidAssetStudio/){:target="_blank"}
-1. [shapenet.org/taxonomy-viewer](https://shapenet.org/taxonomy-viewer){:target="_blank"}
-1. [shields.io](https://shields.io/){:target="_blank"}
-1. [tableconvert.com/html-to-markdown](https://tableconvert.com/html-to-markdown){:target="_blank"}
-1. [tableizer.journalistopia.com/tableizer.php](https://tableizer.journalistopia.com/tableizer.php){:target="_blank"}
-1. [wordhtml.com](https://wordhtml.com/){:target="_blank"}
-1. [writer.com](https://writer.com/){:target="_blank"}
-1. [writesonic.com/chat](https://writesonic.com/chat){:target="_blank"}
-1. [3ds.com/products/catia](https://www.3ds.com/products/catia){:target="_blank"}
-1. [ansys.com/products/3d-design/ansys-discovery](https://www.ansys.com/products/3d-design/ansys-discovery){:target="_blank"}
-1. [anthropic.com/product](https://www.anthropic.com/product){:target="_blank"}
-1. [chatpdf.com](https://www.chatpdf.com/){:target="_blank"}
-1. [codecogs.com/latex/eqneditor.php](https://www.codecogs.com/latex/eqneditor.php){:target="_blank"}
-1. [cortical.io/freetools/extract-keywords](https://www.cortical.io/freetools/extract-keywords/){:target="_blank"}
-1. [downloadlinkedinvideo.com](https://www.downloadlinkedinvideo.com/){:target="_blank"}
-1. [howtopronounce.com](https://www.howtopronounce.com/){:target="_blank"}
-1. [imagine.art](https://www.imagine.art/){:target="_blank"}
-1. [jasper.ai](https://www.jasper.ai/){:target="_blank"}
-1. [makeuseof.com/tag/markkit-hightlight-text-webpage](https://www.makeuseof.com/tag/markkit-hightlight-text-webpage/){:target="_blank"}
-1. [onelook.com/reverse-dictionary.shtml](https://www.onelook.com/reverse-dictionary.shtml){:target="_blank"}
-1. [onlinevideoconverter.com/youtube-converter](https://www.onlinevideoconverter.com/youtube-converter){:target="_blank"}
-1. [overleaf.com/learn](https://www.overleaf.com/learn){:target="_blank"}
-1. [paralleldots.com/emotion-analysis](https://www.paralleldots.com/emotion-analysis){:target="_blank"}
-1. [seoptimer.com/keyword-generator](https://www.seoptimer.com/keyword-generator){:target="_blank"}
-1. [smartsheet.com/solutions/project-management](https://www.smartsheet.com/solutions/project-management){:target="_blank"}
-1. [synthesia.io/homepage](https://www.synthesia.io/homepage){:target="_blank"}
-1. [the-qrcode-generator.com](https://www.the-qrcode-generator.com/){:target="_blank"}
-1. [theworldcounts.com/populations](https://www.theworldcounts.com/populations/){:target="_blank"}
-1. [timeanddate.com](https://www.timeanddate.com/){:target="_blank"}
-1. [veed.io](https://www.veed.io/){:target="_blank"}
-1. [videoask.com](https://www.videoask.com/){:target="_blank"}
-1. [whatplugin.ai/plugins/access-pdf-amp-docs](https://www.whatplugin.ai/plugins/access-pdf-amp-docs){:target="_blank"}
-1. [zamzar.com](https://www.zamzar.com/){:target="_blank"}
-1. [https://www.techpowerup.com/gpu-specs](https://www.techpowerup.com/gpu-specs/){:target="_blank"}
-1. [https://www.logicalincrements.com](https://www.logicalincrements.com/){:target="_blank"}
-1. [https://keepa.com](https://keepa.com/){:target="_blank"} : Price tracker
-## Desktop Assorted Tools ##
-1. [windirstat.net : WinDirStat is a disk usage statistics viewer and cleanup assistant for Microsoft Windows clients and servers](https://windirstat.net/){:target="_blank"}
-1. [protonvpn.com : Gain unrestricted access to global content, block annoying ads, and safeguard your privacy with a fast and secure VPN.](https://protonvpn.com/){:target="_blank"}
-1. [texstudio.org](https://www.texstudio.org/){:target="_blank"}
-
+## Python Libraries AI Engineer Should Know ##
+1. Pydantic
+1. Pydantic Settings
+1. Python Dotenv
+1. FastAPI
+1. Celery
+1. Databases
+1. SQLAlchemy
+1. Alembic
+1. Pandas
+1. LLM Model Providers
+1. Instructor
+1. LLM Frameworks
+1. Vector Databases
+1. Observability
+1. DSPy
+1. PDF Parsers
+1. Jinja
 
 
 

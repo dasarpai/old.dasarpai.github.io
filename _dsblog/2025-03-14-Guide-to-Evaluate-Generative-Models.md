@@ -184,6 +184,59 @@ Depending on the domain, you might need task-specific metrics:
 
 ---
 
+## Model Evaluation In Summary  
+When evaluating Generative AI (GenAI) models, especially for product or research selection you can use following parameters.
+
+### 1. **Model Type and Size**
+- **Model family**: e.g., LLaMA, Mixtral, GPT, Phi-2, Gemma
+- **Parameter count**: e.g., 7B, 13B, 70B — relates to performance and resource requirements
+- **Architecture**: transformer-based, mixture of experts (MoE), etc.
+- **Quantization support**: INT4, INT8, FP16, etc. for inference efficiency
+
+### 2. **Domain Optimization**
+- **Coding ability**: trained/fine-tuned on code (e.g., Python, C++, Bash)
+- **Math & logic reasoning**: ability to solve arithmetic or symbolic problems
+- **Scientific understanding**: capability with STEM content
+- **Multimodal support**: supports images, audio, video, etc.
+
+### 3. **Context and Memory**
+- **Context length**: maximum number of tokens it can handle in a prompt
+- **Extended context**: support for retrieval-augmented generation (RAG)
+- **Memory mechanism**: e.g., long-term memory, scratchpad
+
+### 4. **Tool Use and Plugins**
+- **Tool use**: supports APIs, calculators, code execution
+- **Structured output**: returns JSON, tables, etc. for easier parsing
+- **Function calling**: structured invocation of tools or APIs
+
+### 5. **Efficiency and Deployment**
+- **Inference cost**: compute/memory requirements and runtime cost
+- **Latency**: time per token generation
+- **Model size on disk**: relevant for edge/local deployment
+- **Hardware compatibility**: CPU, GPU (NVIDIA, AMD), TPU
+
+### 6. **Instruction Following & Alignment**
+- **Instruction tuning**: trained on human instructions
+- **RLHF or DPO**: uses Reinforcement Learning with Human Feedback or Direct Preference Optimization
+- **Safety and bias mitigation**: ethical considerations and robustness
+
+### 7. **Language Support**
+- **Multilinguality**: how many and which languages are supported
+- **Translation accuracy**: performance on translation tasks
+- **Code-switching**: mixed-language prompt handling
+
+### 8. **Fine-Tuning and Adaptability**
+- **LoRA/QLoRA support**: efficient fine-tuning methods
+- **Adapters**: support for task-specific modular adapters
+- **Open weights**: for community-driven improvements
+
+### 9. **Benchmarks and Metrics**
+- **Eval benchmarks**: e.g., MMLU, HumanEval, GSM8K, ARC, HELM, etc.
+- **Accuracy and F1 scores**: for specific tasks
+- **Code generation pass rate**, **math correctness**, **factuality**
+
+---
+
 ## Model Evaluation vs Model Comparison
 "Evaluating model performance" and "Comparing model performance" are related but distinct concepts, and understanding the difference is key to effectively assessing and benchmarking AI models, especially GenAI models. 
 
