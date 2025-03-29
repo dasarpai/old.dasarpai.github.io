@@ -160,6 +160,7 @@ Logic families define the electronic characteristics of digital circuits, such a
 
 
 ## **Comparison of Popular Logic Families**
+
 | **Logic Family** | **Speed**         | **Power Consumption** | **Voltage Levels**       | **Applications**                 |
 |-------------------|-------------------|------------------------|--------------------------|-----------------------------------|
 | CMOS              | Moderate to high | Very low               | 3.3V, 5V (varies)        | Microprocessors, memory chips    |
@@ -668,7 +669,7 @@ Quantum physics underpins several key technologies by leveraging its principles 
 ### **3. Quantum Computing**
 #### **Role of Quantum Physics**:
 - **Superposition**:
-  - Qubits, the fundamental units of quantum computers, can exist in a superposition of \(|0⟩\) and \(|1⟩\), allowing quantum computers to perform many calculations simultaneously.
+  - Qubits, the fundamental units of quantum computers, can exist in a superposition of \(\|0⟩\) and \(\|1⟩\), allowing quantum computers to perform many calculations simultaneously.
 - **Entanglement**:
   - Entangled qubits are interconnected such that the state of one instantly influences the state of another, even at a distance. This enhances computational power and enables complex operations.
 - **Quantum Gates**:
@@ -712,6 +713,7 @@ Quantum physics underpins several key technologies by leveraging its principles 
 ---
 
 ### **Summary Table**
+
 | **Technology**       | **Quantum Principle**                      | **Example Applications**                                        |
 |-----------------------|--------------------------------------------|-----------------------------------------------------------------|
 | **Semiconductors**    | Energy bands, tunneling                   | Processors, memory chips, integrated circuits                  |

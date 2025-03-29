@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 6255
-title: Understanding Electronics Chips
+title: Overview of AI Benchmark Explorer Tool
 date: 2025-03-28
 permalink: /dsblog/aibenchmark-explorer
 tags:
@@ -13,7 +13,7 @@ tags:
   - AI Model Development
 categories:
   - dsblog
-  - AI
+  - dsresources
 
 header:
   teaser: /assets/images/dspost/dsp6255-dsr-aibenchmark-explorer.jpg
