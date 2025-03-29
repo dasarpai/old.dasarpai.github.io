@@ -1,7 +1,7 @@
 ---        
 id: 7012   
 mathjax: true        
-title: "PM Modi's Response on 75 years of Republic of India - Dec 202"
+title: "PM Modi's Response on 75 years of Republic of India - Dec 2024"
 date: "2024-12-14T08:33:00+05:30"        
 permalink: /gk/PM-Modi-Response-on-75years-of-RepublicIndia-Dec24        
 tags: [Narendra Modi, PM Modi, Republic of India, India, Governance, Politics, Bharatiya Janata Party, BJP]
@@ -21,6 +21,8 @@ toc_sticky: true
 ![PM Modi Response on 75 years of RepublicIndia Dec 2024](/assets/images/default/gkblog.jpg)
 
 # PM Modi's Response on 75 years of Republic of India - Dec 2024
+
+These notes are from PM Narendra Modi's addresses on the occasion of special discussion on 75th anniversary of adoption of Constitution in Lok Sabha.
 
 ## **1. Celebration of the Constitution’s Legacy**
    - **Milestone of 75 Years**: Acknowledged 75 years of India’s Constitution as a moment of pride for Indians and democracy lovers worldwide.

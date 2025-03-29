@@ -122,7 +122,7 @@ This categorization captures the diverse applications of AI across various domai
                       {% assign link_text = link_text_temp | escape %}
                       {% assign link_url = link_url_temp | escape %}
 
-                      <a href="{{ link_url }}" {% if stripped_line contains '{:target="_blank"}' %}target="_blank"{% endif %}>
+                      <a href="{{ link_url }}"  target="_blank" >
                         {{ link_text }}
                       </a>
 

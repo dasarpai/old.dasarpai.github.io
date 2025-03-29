@@ -287,6 +287,8 @@ myblogs:
 allresources:
     - title: "DS Resources"
       url: "/datascience-tags#ds-resources"       
+    - title: "AI Benchmark Explorer"
+      url: "aibenchmark-explorer.dasarpai.com"
     - title: "Data Science-Books"
       url: "/dsblog/ds-ai-ml-books"
     - title: "Data Science/AI Cheatsheets"

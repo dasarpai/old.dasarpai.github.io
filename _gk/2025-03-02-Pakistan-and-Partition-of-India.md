@@ -35,3 +35,5 @@ Author's name *"B.R. Ambedkar"*
 *Page number 297* Muslims will keep creating communal riots in India to create unrest.   
 *Page number 303* Muslims will never accept the government of Hindus in India.   
 *Page number 332* Muslims can never be patriots.   
+
+[Boot at Archive](https://dn790000.ca.archive.org/0/items/in.ernet.dli.2015.275465/2015.275465.Pakistan-Or.pdf)

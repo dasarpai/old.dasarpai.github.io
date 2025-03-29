@@ -84,10 +84,6 @@ Compatible with various programming languages, making it suitable for diverse de
 Reduces the time spent on manual code reviews, allowing developers and maintainers to focus on writing new features rather than fixing preventable issues.  
 
 
-
-
-
-
 ## **How CodeRabbit AI Works**  
 
 CodeRabbit AI streamlines the code review process by integrating with GitHub repositories and analyzing pull requests in real-time. It uses advanced AI models to detect issues, suggest improvements, and enforce coding standards. Here’s how it works step by step:  
@@ -126,28 +122,19 @@ Since CodeRabbit AI works within GitHub, developers can:
 By automating code reviews and reducing the manual workload, CodeRabbit AI helps teams maintain high-quality code, accelerate development cycles, and improve collaboration between developers and maintainers.
 
 
-
-
-
 ## **How to Integrate CodeRabbit with GitHub?**  
 
 Integrating **CodeRabbit AI** with GitHub is a straightforward process that allows teams to automate code reviews and improve development efficiency. Follow these steps to set up CodeRabbit AI in your GitHub repository:  
-
----
 
 ### **Step 1: Sign Up for CodeRabbit AI**  
 1. Visit the **[CodeRabbit AI website](https://www.coderabbit.ai/)**.  
 2. Click on **Sign Up** and log in using your **GitHub account**.  
 3. Authorize CodeRabbit AI to access your GitHub repositories.  
 
----
-
 ### **Step 2: Install CodeRabbit AI GitHub App**  
 1. Go to the **GitHub Marketplace** and search for **CodeRabbit AI**.  
 2. Click **Install** and select the repositories where you want to enable AI-powered code reviews.  
 3. Grant the necessary permissions, allowing CodeRabbit AI to read pull requests and leave review comments.  
-
----
 
 ### **Step 3: Configure CodeRabbit AI for Your Repository**  
 1. After installation, go to your repository settings on **GitHub**.  
@@ -156,21 +143,15 @@ Integrating **CodeRabbit AI** with GitHub is a straightforward process that allo
    - Enable or disable specific types of AI suggestions.  
    - Set up automatic PR review triggers.  
 
----
-
 ### **Step 4: Submit a Test Pull Request**  
 1. Make a small code change in your repository and create a **pull request (PR)**.  
 2. CodeRabbit AI will automatically analyze the PR and leave AI-generated review comments.  
 3. Review the feedback, make necessary adjustments, and push the updates.  
 
----
-
 ### **Step 5: Customize and Optimize CodeRabbit AI**  
 1. Fine-tune **CodeRabbit AI settings** based on your team’s coding standards.  
 2. Define **custom rules** to match your project’s specific requirements.  
 3. Monitor the AI feedback and improve workflow efficiency over time.  
-
----
 
 ### **Step 6: Collaborate and Merge with Confidence**  
 Once CodeRabbit AI is fully integrated, developers can:  
@@ -178,4 +159,58 @@ Once CodeRabbit AI is fully integrated, developers can:
 ✅ Identify and fix potential issues before merging.  
 ✅ Speed up the development and review process.  
 
-Now, after integrating **CodeRabbit AI** with GitHub, teams can enhance code quality, reduce manual review time, and ensure a smoother development workflow. 🚀
+Now, after integrating **CodeRabbit AI** with GitHub, teams can enhance code quality, reduce manual review time, and ensure a smoother development workflow.
+
+## What are other products like CodeRabbit AI?
+Each of these tools has unique strengths, with some focusing on **AI-powered code review (CodeRabbit AI, Codacy, DeepCode)**, while others specialize in **code suggestions (GitHub Copilot, Amazon CodeWhisperer)** or **static analysis (SonarCloud, LGTM)**.  
+
+1. **Amazon CodeWhisperer**  
+   - AI-powered coding assistant from AWS.  
+   - Provides real-time code suggestions and security analysis.  
+   - Focused on integration with AWS services and cloud applications.  
+
+1. **GitHub Copilot**  
+   - Developed by GitHub and powered by OpenAI.  
+   - Generates code snippets, suggests functions, and helps with auto-completions.  
+   - Does not perform full-fledged code reviews but assists in writing better code.  
+
+1. **Codacy**  
+   - Automated code review and quality analysis tool.  
+   - Provides static code analysis, security checks, and best practice enforcement.  
+   - Supports multiple languages and integrates with CI/CD pipelines.  
+
+1. **DeepCode (by Snyk)**  
+   - AI-driven code analysis tool for finding security vulnerabilities.  
+   - Uses machine learning to provide intelligent bug detection.  
+   - Integrates with GitHub, GitLab, and Bitbucket.  
+
+1. **SonarCloud (by SonarQube)**  
+   - Continuous code quality and security analysis for GitHub repositories.  
+   - Detects bugs, code smells, and security vulnerabilities.  
+   - Focuses more on static analysis than AI-powered review comments.  
+
+1. **CodeScene**  
+   - Uses AI and behavioral code analysis to detect potential issues.  
+   - Helps teams understand technical debt and code complexity.  
+   - Provides predictive analytics for code maintenance.  
+
+1. **Sourcery**  
+   - AI-powered refactoring tool for Python code.  
+   - Suggests improvements and optimizations to make code cleaner and more efficient.  
+   - Works as a plugin for IDEs like VS Code and PyCharm.  
+
+1. **JetBrains Qodana**  
+   - AI-powered static analysis tool from JetBrains.  
+   - Works with JetBrains IDEs and CI/CD pipelines.  
+   - Provides deep code insights and enforces coding guidelines.  
+
+1. **LGTM (Looks Good To Me)**  
+   - Automated code analysis and security scanning tool.  
+   - Developed by GitHub (acquired from Semmle).  
+   - Focuses on identifying vulnerabilities in large-scale repositories.  
+
+1. **Tabnine**  
+   - AI-based code completion tool, similar to GitHub Copilot.  
+   - Supports multiple languages and IDEs.  
+   - Focuses on productivity and intelligent code suggestions.  
+

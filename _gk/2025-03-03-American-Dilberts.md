@@ -20,9 +20,10 @@ toc_sticky: true
 
 ![](/assets/images/default/gkblog.jpg)
 
-Dilbert is an American comic strip and his one liners are famous. They are all classic!
+# American Dilberts: The Funniest One Liners
+Dilbert is an American comic strip written and illustrated by Scott Adams, first published on April 16, 1989. It is known for its satirical office humor about a white-collar, micromanaged office with engineer Dilbert as the title character. It has led to dozens of books, an animated television series, a video game, and hundreds of themed merchandise items. Dilbert Future and The Joy of Work are among the best-selling books in the series.
 
-*Here are few Dilbert's one liners:*
+## **Here are few Dilbert's one liners**
 
 1. I say no to alcohol, it just doesn't listen. 
 2. Marriage is one of the chief causes of divorce.
