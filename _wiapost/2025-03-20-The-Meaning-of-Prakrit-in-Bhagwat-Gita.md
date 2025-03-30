@@ -1,5 +1,5 @@
 ---       
-id: 5292
+id: 5293
 mathjax: true        
 title:  "The Meaning of Prakriti in Bhagwat Gita"        
 date: "2025-03-18"        
