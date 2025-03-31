@@ -4,7 +4,7 @@ title: This is Experiment Page
 layout: category
 permalink: /test
 taxonomy: blog
-collection: wiapost
+collection: wiaposts
 entries_layout: grid
 author_profile: true
 classes: wide

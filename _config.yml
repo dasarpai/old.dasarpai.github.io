@@ -219,7 +219,7 @@ include:
   - _pmbok6hi 
   - _pmblog 
   - _quotations
-  - _wiapost 
+  - _wiaposts 
   - _management
   - _samskrut
   - _dscourses
@@ -325,8 +325,8 @@ pagination:
         per_page: 10
         permalink: '/page/:num/'
         title: ':title - page :num'
-    wiapost:  
-        collection: 'wiapost'
+    wiaposts:  
+        collection: 'wiaposts'
         per_page: 10
         permalink: '/page/:num/'
         title: ':title - page :num'
@@ -335,7 +335,7 @@ pagination:
 feed:
   collections:
     - dsblog
-    - wiapost
+    - wiaposts
     - booksummary
     - samskrutyatra
     - pmblog
@@ -568,12 +568,12 @@ defaults:
       sidebar:
         nav: "docs"  
       
-  # _wiapost
+  # _s
   - scope:
-      path: "_wiapost"
-      type: wiapost
+      path: "_wiaposts"
+      type: wiaposts
     values:
-      layout: wiapost-layout
+      layout: wiaposts-layout
       author_profile: true
       read_time: true
       comments: true
@@ -729,9 +729,9 @@ collections:
   quotations:
     output: true
     permalink: /quotations1/:categories/:title/
-  wiapost:
+  wiaposts:
     output: true
-    permalink: /wiapost1/:categories/:title/
+    permalink: /wiaposts1/:categories/:title/
  
   pmblog:
     output: true

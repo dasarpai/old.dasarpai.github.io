@@ -12064,7 +12064,7 @@ Broadly if you observe cultures around you will notice **Western, Chinese, Japan
     
 Now in Indian urban families, there are only 5 greetings methods namely hi, hello, good morning good afternoon, and good night. And without paying attention, people think it means the same as Namaste, Namaskar, Jai Siya Ram, Pranam, Pailagu, Dandvat Pranaam etc. Nowadays, people are so much confused that they don’t know what needs to be done when. So the easiest way is to say hi.    
     
-[The meaning of Namaste](/wiapost/the-meaning-of-namaste/)    
+[The meaning of Namaste](/wiaposts/the-meaning-of-namaste/)    
     
 There are only two titles now, sir and madam. People don’t know how we were giving respect in our culture. Perhaps old people remember that if someone asks you your father, mother, or guru’s name you must put Shri, Shriman, or Shrimati before uttering their actual name. How people were addressing unknown people in the assembly of king or panchayat? Perhaps you forgot. Mahodaya, Shriman Ji, Shrimati Ji, Bandhu, Bhagini, Brata, Maharaj are just a few ways. People think sir and madam are easiest, and it is the same as our own culture.    
     
