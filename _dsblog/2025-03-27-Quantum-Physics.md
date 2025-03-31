@@ -104,14 +104,14 @@ When they say a quantum bit (qubit) can be "zero and one at the same time," they
 - In classical computing, you would have a bit that is either in state 0 or state 1. But in quantum computing, a qubit is described by a **quantum state** that can be a **linear combination** (or superposition) of both states.
   
 For example, a qubit might be in a state that is 50% 0 and 50% 1, or any other combination. Mathematically, this is represented as:
-\$\text{qubit state} = \alpha \|0\rangle + \beta \|1\rangle$
+$$$$\text{qubit state} = \alpha \|0\rangle + \beta \|1\rangle$$
 
-where \$\(\alpha\)\$ and \$\(\beta\)\$ are complex numbers that define the probability amplitudes of measuring the qubit in state 0 or state 1.
+where $$(\alpha)$$ and $$(\beta)$$ are complex numbers that define the probability amplitudes of measuring the qubit in state 0 or state 1.
 
 
 **The Key Points:**
 - **Superposition**: A qubit can be in a combination of both states at once, unlike classical bits that are always in one state.
-- **Measurement**: When you measure a qubit, it "collapses" into one of the two possible states (0 or 1), with probabilities determined by the coefficients \$\(\alpha\)\$ and \$\(\beta\)\$. Before measurement, however, it truly exists in both states.
+- **Measurement**: When you measure a qubit, it "collapses" into one of the two possible states (0 or 1), with probabilities determined by the coefficients $$(\alpha)$$ and $$(\beta)$$. Before measurement, however, it truly exists in both states.
 - **Interference**: This simultaneous existence of both states can lead to **quantum interference**, which is exploited in quantum computing algorithms to solve certain problems faster than classical computers.
 
 **Example:**
@@ -142,9 +142,9 @@ The foundations of quantum physics reveal a universe that is fundamentally diffe
 
 
 ### **2. Quantum Superposition**
-- **Principle**: A quantum system can exist in multiple states simultaneously until measured. For example, a qubit can be in a combination of \$\(\|0⟩\)\$ and \$\(\|1⟩\)\$.
+- **Principle**: A quantum system can exist in multiple states simultaneously until measured. For example, a qubit can be in a combination of $$(\|0⟩)$$ and $$(\|1⟩)$$.
 - **Key Concept**:
-  - The state of a quantum system is represented by a **wavefunction** \$\(\|\psi⟩\)\$, which contains all possible states and their probabilities.
+  - The state of a quantum system is represented by a **wavefunction** $$(\|\psi⟩)$$, which contains all possible states and their probabilities.
 - **Example**: Schrödinger’s cat thought experiment illustrates this principle on a macroscopic scale.
 
 
@@ -153,7 +153,7 @@ The foundations of quantum physics reveal a universe that is fundamentally diffe
 - **Key Concept**:
   - Energy levels in an atom are quantized, meaning electrons can only occupy specific energy states.
 - **Key Equation**:
-  - Planck’s relation: \$\( E = h \nu \)\$, where \$\(E\)\$ is energy, \$\(h\)\$ is Planck’s constant, and \$\(\nu\)\$ is the frequency.
+  - Planck’s relation: $$( E = h \nu )$$, where $$(E)$$ is energy, $$(h)$$ is Planck’s constant, and $$(\nu)$$ is the frequency.
 
 
 ### **4. Uncertainty Principle**
@@ -162,7 +162,7 @@ The foundations of quantum physics reveal a universe that is fundamentally diffe
   $$
   \Delta x \cdot \Delta p \geq \frac{\hbar}{2}
  $$
-  where \$\(\Delta x\)\$ is the uncertainty in position, \$\(\Delta p\)\$ is the uncertainty in momentum, and \$\(\hbar\)\$ is the reduced Planck’s constant.
+  where $$(\Delta x)$$ is the uncertainty in position, $$(\Delta p)$$ is the uncertainty in momentum, and $$(\hbar)$$ is the reduced Planck’s constant.
 - **Implication**: This limits the precision of measurements and reflects a fundamental property of quantum systems.
 
 
@@ -189,7 +189,7 @@ The foundations of quantum physics reveal a universe that is fundamentally diffe
   $$
   P = \|\psi\|^2
  $$
-  where \$\(P\)\$ is the probability and \$\(\|\psi\|^2\)\$ is the square of the wavefunction's amplitude.
+  where $$(P)$$ is the probability and $$(\|\psi\|^2)$$ is the square of the wavefunction's amplitude.
 - **Implication**: Quantum mechanics is inherently probabilistic.
 
 
@@ -199,7 +199,7 @@ The foundations of quantum physics reveal a universe that is fundamentally diffe
   $$
   i\hbar \frac{\partial}{\partial t} \|\psi(t)\rangle = \hat{H} \|\psi(t)\rangle
  $$
-  where \$\(\hat{H}\)\$ is the Hamiltonian operator, \$\(\|\psi(t)\rangle\)\$ is the wavefunction, and \$\(i\)\$ is the imaginary unit.
+  where $$(\hat{H})$$ is the Hamiltonian operator, $$(\|\psi(t)\rangle)$$ is the wavefunction, and $$(i)$$ is the imaginary unit.
 - **Implication**: Describes how the quantum state of a system evolves over time.
 
 
@@ -238,13 +238,13 @@ The statement that it is impossible to simultaneously know both the exact positi
 
 
 ### **What is Momentum?**
-- **Momentum** \$\( p \)\$ is a measure of the motion of an object. It is defined as:
+- **Momentum** $$( p )$$ is a measure of the motion of an object. It is defined as:
   $$
   p = mv
  $$
   where:
-  - \$\( m \)\$: mass of the object
-  - \$\( v \)\$: velocity of the object
+  - $$( m )$$: mass of the object
+  - $$( v )$$: velocity of the object
 
 - Momentum is a vector quantity, meaning it has both **magnitude** (how fast it's moving) and **direction** (the direction of motion).
 
@@ -253,8 +253,8 @@ In quantum mechanics, momentum is related to the wavelength of a particle's wave
 p = \frac{h}{\lambda}
 $$
 where:
-- \$\( h \)\$: Planck's constant \$\(6.626 \times 10^{-34} \, \text{Js}\)\$
-- \$\( \lambda \)\$: wavelength of the particle
+- $$( h )$$: Planck's constant $$(6.626 \times 10^{-34} \, \text{Js})$$
+- $$( \lambda )$$: wavelength of the particle
 
 
 ### **Heisenberg's Uncertainty Principle**
@@ -263,11 +263,11 @@ The uncertainty principle states:
 \Delta x \cdot \Delta p \geq \frac{\hbar}{2}
 $$
 where:
-- \$\( \Delta x \)\$: uncertainty in position
-- \$\( \Delta p \)\$: uncertainty in momentum
-- \$\( \hbar \)\$: reduced Planck's constant \$\( \hbar = \frac{h}{2\pi} \)\$
+- $$( \Delta x )$$: uncertainty in position
+- $$( \Delta p )$$: uncertainty in momentum
+- $$( \hbar )$$: reduced Planck's constant $$( \hbar = \frac{h}{2\pi} )$$
 
-This means there is a fundamental limit to how precisely we can know both the position \$\( x \)\$ and momentum \$\( p \)\$ of a particle simultaneously.
+This means there is a fundamental limit to how precisely we can know both the position $$( x )$$ and momentum $$( p )$$ of a particle simultaneously.
 
 
 ### **Why is This True?**
@@ -330,9 +330,9 @@ Let’s break this down:
     \lambda = \frac{h}{p}
    $$
     where:
-    - \$\( \lambda \)\$: wavelength
-    - \$\( h \)\$: Planck’s constant
-    - \$\( p \)\$: momentum of the electron
+    - $$( \lambda )$$: wavelength
+    - $$( h )$$: Planck’s constant
+    - $$( p )$$: momentum of the electron
 
 
 ### **2. Does This Mean an Electron Doesn't Travel in a Straight Line?**
@@ -400,8 +400,8 @@ If we know the initial speed of the electron and the time elapsed, **classical m
 $$
 
 #### Why We Can't Predict Exactly:
-- **Initial Position Uncertainty**: When the electron is emitted, we already have some uncertainty \$\( \Delta x \)\$ in its position.
-- **Momentum Uncertainty**: If we try to measure its momentum \$\( p = mv \)\$ very precisely, this increases the uncertainty in its position.
+- **Initial Position Uncertainty**: When the electron is emitted, we already have some uncertainty $$( \Delta x )$$ in its position.
+- **Momentum Uncertainty**: If we try to measure its momentum $$( p = mv )$$ very precisely, this increases the uncertainty in its position.
 - Over time, this initial uncertainty causes the wavefunction to **spread out**, making it harder to predict the electron's exact location.
 
 #### Instead of an Exact Position:
@@ -426,7 +426,7 @@ Yes, and this has been experimentally verified. For instance:
 
 
 ### **5. Why Speed Doesn't Help Predict the Exact Position**
-Even if we know the electron's speed \$\( v \)\$:
+Even if we know the electron's speed $$( v )$$:
 - **Position Uncertainty**: The position is fundamentally uncertain due to the quantum nature of the particle.
 - **Wave-Like Spread**: The wavefunction spreads out as the electron travels, increasing the uncertainty over time.
 
@@ -578,7 +578,7 @@ The deviation from a straight path happens because:
 You said "If you imagine the electron’s motion, it might "wiggle" or "spread out" in its possible positions during the journey." Without measuring, how can we say this? After measuring anyway it is at one specific location!
 
 ### **1. Wavefunction: The Mathematical Description**
-In quantum mechanics, the state of a particle (like an electron) is described by its **wavefunction** \$\( \psi(x, t) \)\$. This wavefunction:
+In quantum mechanics, the state of a particle (like an electron) is described by its **wavefunction** $$( \psi(x, t) )$$. This wavefunction:
 - Encodes all the information about the electron's position, momentum, and other properties.
 - Is a mathematical tool that predicts the **probability distribution** of where the electron might be found if measured.
 
@@ -619,7 +619,7 @@ The wavefunction is a model, but it’s supported by decades of experimental evi
 
 ### **5. What Does "Wiggle" Mean?**
 The "wiggle" of the electron refers to the oscillating nature of its wavefunction:
-- For example, a wavefunction might look like \$\( \psi(x) = A \sin(kx - \omega t) \)\$, where the sine wave describes oscillations in probability amplitudes.
+- For example, a wavefunction might look like $$( \psi(x) = A \sin(kx - \omega t) )$$, where the sine wave describes oscillations in probability amplitudes.
 - These oscillations can interfere constructively or destructively, influencing where the electron is more or less likely to be detected.
 
 
@@ -647,13 +647,13 @@ Yes, the wavefunction changes during the "travel" of the electron! Let's break t
 
 
 ### 1. **Wavefunction Represents the Electron's State**
-The wavefunction \$\( \psi(x, t) \)\$:
+The wavefunction $$( \psi(x, t) )$$:
 - Is a mathematical object that encodes all the information about an electron's state.
-- Depends on **position** \$\( x \)\$ and **time** \$\( t \)\$, so it evolves as the electron moves.
+- Depends on **position** $$( x )$$ and **time** $$( t )$$, so it evolves as the electron moves.
 
 For instance:
-- A wavefunction could look like \$\( \psi(x, t) = A \sin(kx - \omega t) \)\$ (a sine wave).
-- Or it could look like \$\( \psi(x, t) = A e^{-x^2} \)\$ (a Gaussian wave packet).
+- A wavefunction could look like $$( \psi(x, t) = A \sin(kx - \omega t) )$$ (a sine wave).
+- Or it could look like $$( \psi(x, t) = A e^{-x^2} )$$ (a Gaussian wave packet).
 - The **exact shape** of the wavefunction depends on the situation, like the forces acting on the electron or the boundaries it moves through.
 
 
@@ -692,13 +692,13 @@ Imagine the electron's wavefunction starting as a **Gaussian wave packet**:
 
 
 ### 5. **Wavefunction vs. Probability Distribution**
-The wavefunction \$\( \psi(x, t) \)\$ is **not a probability distribution itself**:
-- \$\( \psi(x, t) \)\$ can be complex (have real and imaginary parts).
-- The **probability distribution** is given by \$\( \|\psi(x, t)\|^2 \)\$, the square of the wavefunction's magnitude.
+The wavefunction $$( \psi(x, t) )$$ is **not a probability distribution itself**:
+- $$( \psi(x, t) )$$ can be complex (have real and imaginary parts).
+- The **probability distribution** is given by $$( \|\psi(x, t)\|^2 )$$, the square of the wavefunction's magnitude.
 
 For example:
-- A Gaussian wavefunction \$\( \psi(x, t) = A e^{-x^2} \)\$ leads to a Gaussian probability distribution \$\( \|\psi(x, t)\|^2 = \|A\|^2 e^{-2x^2} \)\$.
-- A sine wave \$\( \psi(x, t) = A \sin(kx - \omega t) \)\$ leads to a sinusoidal probability distribution.
+- A Gaussian wavefunction $$( \psi(x, t) = A e^{-x^2} )$$ leads to a Gaussian probability distribution $$( \|\psi(x, t)\|^2 = \|A\|^2 e^{-2x^2} )$$.
+- A sine wave $$( \psi(x, t) = A \sin(kx - \omega t) )$$ leads to a sinusoidal probability distribution.
 
 The wavefunction itself can oscillate (e.g., a sine wave) or spread (e.g., a Gaussian broadening), and this influences the resulting probabilities.
 
@@ -714,7 +714,7 @@ Think of it like ripples in a pond:
 
 
 ### 7. **Summary**
-- The wavefunction \$\( \psi(x, t) \)\$ evolves dynamically as the electron moves.
+- The wavefunction $$( \psi(x, t) )$$ evolves dynamically as the electron moves.
 - Its shape and evolution depend on the electron’s initial state, forces acting on it, and any interactions it experiences.
 - A Gaussian wavefunction might start narrow but spread over time, while a sine wave remains periodic but can interact and interfere.
 
@@ -733,7 +733,7 @@ When I mentioned "a free electron with constant energy," I was referring to a sp
   $$
   E_{\text{kinetic}} = \frac{1}{2} m v^2
  $$
-  where \$\( m \)\$ is the mass of the electron, and \$\( v \)\$ is its velocity.
+  where $$( m )$$ is the mass of the electron, and $$( v )$$ is its velocity.
 
 When there are **no external forces** (such as electric or magnetic fields) acting on the electron, its kinetic energy stays the same as it travels. So, as long as no work is done on the electron, its energy doesn't change.
 
@@ -764,8 +764,8 @@ But in the idealized quantum picture of a "free electron," these interactions ar
 
 ### **5. Momentum and Energy Relationship in Free Electron**
 For a free electron:
-- The **momentum** of the electron is related to its velocity by \$\( p = mv \)\$.
-- The **energy** (kinetic energy) is related to its momentum by \$\( E = \frac{p^2}{2m} \)\$.
+- The **momentum** of the electron is related to its velocity by $$( p = mv )$$.
+- The **energy** (kinetic energy) is related to its momentum by $$( E = \frac{p^2}{2m} )$$.
 
 As long as the velocity (and thus the momentum) of the electron doesn't change, its energy stays constant.
 
@@ -899,7 +899,7 @@ When we measure charge in experiments (like in a **Millikan oil drop experiment*
 
 
 ### **Summary**
-- The smallest measurable charge is the **elementary charge** \$\( e = 1.602 \times 10^{-19} \, \text{Coulombs} \)\$.
+- The smallest measurable charge is the **elementary charge** $$( e = 1.602 \times 10^{-19} \, \text{Coulombs} )$$.
 - Charge is quantized, meaning it can only exist in integer multiples of the elementary charge.
 
 ## What is coulomb and how to measure that?
@@ -916,8 +916,8 @@ Where:
 - **s** stands for seconds
 
 ### Relation to Elementary Charge
-- 1 **Coulomb** is the charge of about **\$\( 6.242 \times 10^{18} \)\$** electrons or protons.
-- Since the charge of a single electron is **\$\(-1.602 \times 10^{-19} \, \text{C}\)\$**, this means that one Coulomb contains a huge number of individual electron or proton charges.
+- 1 **Coulomb** is the charge of about **$$( 6.242 \times 10^{18} )$$** electrons or protons.
+- Since the charge of a single electron is **$$(-1.602 \times 10^{-19} \, \text{C})$$**, this means that one Coulomb contains a huge number of individual electron or proton charges.
 
 
 ### **How is Charge Measured in Coulombs?**
@@ -942,9 +942,9 @@ Q = C \times V
 $$
 
 Where:
-- \$\( Q \)\$ is the charge in **Coulombs**.
-- \$\( C \)\$ is the **capacitance** of the capacitor (in Farads).
-- \$\( V \)\$ is the **voltage** across the capacitor (in Volts).
+- $$( Q )$$ is the charge in **Coulombs**.
+- $$( C )$$ is the **capacitance** of the capacitor (in Farads).
+- $$( V )$$ is the **voltage** across the capacitor (in Volts).
 
 
 ### **3. Using a Faraday Cup:**
@@ -963,9 +963,9 @@ Q = I \times t
 $$
 
 Where:
-- \$\( Q \)\$ is the total charge in **Coulombs**.
-- \$\( I \)\$ is the **current** in amperes.
-- \$\( t \)\$ is the **time** in seconds.
+- $$( Q )$$ is the total charge in **Coulombs**.
+- $$( I )$$ is the **current** in amperes.
+- $$( t )$$ is the **time** in seconds.
 
 For example, if a current of **1 ampere** flows for **1 second**, then:
 
@@ -977,7 +977,7 @@ $$
 ### **Summary of Units and Relationships:**
 
 - **1 Coulomb (C)** = the amount of charge transported by **1 ampere** of current in **1 second**.
-- The **Coulomb** is a large unit, so we often talk about much smaller units like the **elementary charge** \$\( e = 1.602 \times 10^{-19} \, \text{C} \)\$ for individual particles like electrons.
+- The **Coulomb** is a large unit, so we often talk about much smaller units like the **elementary charge** $$( e = 1.602 \times 10^{-19} \, \text{C} )$$ for individual particles like electrons.
   
 
 ### **Conclusion**
@@ -996,31 +996,31 @@ $$
 is indeed very close to 1, but not exactly 1. This small difference is due to the fact that the value of the **elementary charge** (the charge of a single electron or proton) isn't perfectly aligned with the number of electrons that would make up exactly 1 Coulomb. 
 
 In reality, **6.242 × 10¹⁸ electrons** is approximately equal to 1 Coulomb, but slight differences arise because:
-- The **exact value of the elementary charge** is \$\( 1.602176634 \times 10^{-19} \, \text{C} \)\$, and in previous calculations, I had rounded it off to \$\( 1.602 \times 10^{-19} \, \text{C} \)\$.
+- The **exact value of the elementary charge** is $$( 1.602176634 \times 10^{-19} \, \text{C} )$$, and in previous calculations, I had rounded it off to $$( 1.602 \times 10^{-19} \, \text{C} )$$.
 - There are also experimental uncertainties when measuring such tiny quantities, leading to small deviations from theoretical perfection.
 
 
 ### To summarize:
-- The number \$\( 6.242 \times 10^{18} \)\$ electrons represents the **approximate** number of electrons that contribute to **1 Coulomb** of charge.
-- The value \$\( 0.9999684 \)\$ is extremely close to 1, but it indicates that the number is an approximation due to rounding and the practical measurement of quantities on the atomic scale.
+- The number $$( 6.242 \times 10^{18} )$$ electrons represents the **approximate** number of electrons that contribute to **1 Coulomb** of charge.
+- The value $$( 0.9999684 )$$ is extremely close to 1, but it indicates that the number is an approximation due to rounding and the practical measurement of quantities on the atomic scale.
 
 This slight difference doesn’t significantly affect most practical calculations and experiments where we're dealing with charge at macroscopic scales.
 
 ## How do we count that the number of electron is 6.242×10 ^18
 
-The value \$\( 6.242 \times 10^{18} \)\$ electrons per Coulomb is based on the **elementary charge** of an electron, which is \$\( 1.602 \times 10^{-19} \, \text{C} \)\$. To understand how this number is determined, let's walk through the process:
+The value $$( 6.242 \times 10^{18} )$$ electrons per Coulomb is based on the **elementary charge** of an electron, which is $$( 1.602 \times 10^{-19} \, \text{C} )$$. To understand how this number is determined, let's walk through the process:
 
 ### **Step-by-step Breakdown:**
 
 1. **Elementary Charge (e):**
-   - The **charge of a single electron** is \$\( e = -1.602 \times 10^{-19} \, \text{C} \)\$. This is a fundamental constant in physics, representing the smallest unit of electric charge.
+   - The **charge of a single electron** is $$( e = -1.602 \times 10^{-19} \, \text{C} )$$. This is a fundamental constant in physics, representing the smallest unit of electric charge.
 
 2. **Total Charge (Q) for 1 Coulomb:**
    - One **Coulomb (C)** is the total charge that flows through a conductor when a current of **1 ampere** is sustained for **1 second**.
-   - Therefore, the **total charge** we want to consider is \$\( 1 \, \text{C} \)\$.
+   - Therefore, the **total charge** we want to consider is $$( 1 \, \text{C} )$$.
 
 3. **Calculating the Number of Electrons in 1 Coulomb:**
-   - To find how many electrons (or protons) are needed to make up **1 Coulomb** of charge, we divide the total charge \$\( 1 \, \text{C} \)\$ by the charge of a single electron \$\( e \)\$:
+   - To find how many electrons (or protons) are needed to make up **1 Coulomb** of charge, we divide the total charge $$( 1 \, \text{C} )$$ by the charge of a single electron $$( e )$$:
 
  $$
 \text{Number of electrons} = \frac{\text{Total charge}}{\text{Charge of one electron}} 
@@ -1029,11 +1029,11 @@ $$
 = \frac{1 \, \text{C}}{1.602 \times 10^{-19} \, \text{C/electron}} = 6.242 \times 10^{18} \, \text{electrons}
 $$
 
-So, **1 Coulomb** corresponds to about **\$\( 6.242 \times 10^{18} \)\$** electrons, based on the known value of the elementary charge.
+So, **1 Coulomb** corresponds to about **$$( 6.242 \times 10^{18} )$$** electrons, based on the known value of the elementary charge.
 
 
 ### **Understanding the Process:**
-- This calculation assumes that the charge of each electron is consistent (and known) at \$\( 1.602 \times 10^{-19} \, \text{C} \)\$.
+- This calculation assumes that the charge of each electron is consistent (and known) at $$( 1.602 \times 10^{-19} \, \text{C} )$$.
 - By dividing the total charge (1 Coulomb) by the charge of a single electron, we obtain the number of electrons required to produce that total charge.
 
 
@@ -1042,12 +1042,12 @@ This relationship is fundamental to **electricity** and **electronics**, and it 
 
 
 ### **Conclusion:**
-- We arrive at \$\( 6.242 \times 10^{18} \)\$ electrons per Coulomb by dividing the total charge (1 Coulomb) by the elementary charge of a single electron.
+- We arrive at $$( 6.242 \times 10^{18} )$$ electrons per Coulomb by dividing the total charge (1 Coulomb) by the elementary charge of a single electron.
 - This value is an approximation based on the known value of the elementary charge, and it helps us understand how many electrons are required to make up **1 Coulomb**.
 
 
 ## How did we reach to this conclusion that 1ev or electron's charge is exactly this?
-The value of the electron's charge, \$\( 1.602 \times 10^{-19} \, \text{C} \)\$, was not just determined through theory but through **careful experimental measurements** and **scientific experiments**. Let me explain how scientists arrived at this conclusion step by step.
+The value of the electron's charge, $$( 1.602 \times 10^{-19} \, \text{C} )$$, was not just determined through theory but through **careful experimental measurements** and **scientific experiments**. Let me explain how scientists arrived at this conclusion step by step.
 
 ### **How the Charge of an Electron Was Determined**
 
@@ -1061,7 +1061,7 @@ One of the most famous experiments that determined the charge of the electron wa
 
 #### 2. **Key Finding:**
 - Millikan observed that the **charges on the droplets** were always **multiples of a smallest unit**. This unit was consistent across many trials, and it turned out to be the **charge of a single electron**.
-- From this experiment, Millikan deduced that the charge of a single electron is approximately \$\( 1.602 \times 10^{-19} \, \text{C} \)\$.
+- From this experiment, Millikan deduced that the charge of a single electron is approximately $$( 1.602 \times 10^{-19} \, \text{C} )$$.
 
 #### 3. **Why Millikan’s Experiment Worked:**
 - Millikan used very precise equipment and methods to suspend and measure the droplets. The balance of forces acting on the droplets allowed for an extremely accurate determination of the charge, and by observing that the charges were quantized (appeared in whole multiples of a single value), he concluded that this was the **fundamental unit of electric charge**, which we now call the **elementary charge**.
@@ -1070,9 +1070,9 @@ One of the most famous experiments that determined the charge of the electron wa
 - Since Millikan’s time, scientists have refined the methods used to measure the charge of the electron, but his experiment was the most direct and influential. Modern techniques, such as using **Josephson junctions** and **quantum Hall effect measurements**, have confirmed Millikan’s result with much higher precision.
 
 
-### **Understanding the Value of \$\( 1.602 \times 10^{-19} \, \text{C} \)\$**
+### **Understanding the Value of $$( 1.602 \times 10^{-19} \, \text{C} )$$**
 
-- The value \$\( 1.602 \times 10^{-19} \, \text{C} \)\$ is the **fundamental charge** carried by a single electron (or proton), and it is the smallest charge that can be isolated and measured in nature.
+- The value $$( 1.602 \times 10^{-19} \, \text{C} )$$ is the **fundamental charge** carried by a single electron (or proton), and it is the smallest charge that can be isolated and measured in nature.
 - This value is so small that it’s hard to visualize, but it is extremely significant because it defines the **quantization** of charge in the universe. It means that charges in nature can only exist in multiples of this fundamental value.
 
 
@@ -1082,7 +1082,7 @@ One of the most famous experiments that determined the charge of the electron wa
 
 
 ### **Summary:**
-- The value of \$\( 1.602 \times 10^{-19} \, \text{C} \)\$ (the charge of an electron) was **experimentally determined** by **Robert Millikan** in his famous oil drop experiment.
+- The value of $$( 1.602 \times 10^{-19} \, \text{C} )$$ (the charge of an electron) was **experimentally determined** by **Robert Millikan** in his famous oil drop experiment.
 - Through careful measurement, Millikan demonstrated that the charge on oil droplets was always a multiple of a small unit, which he identified as the **elementary charge** (the charge of a single electron).
 - Modern experiments have confirmed and refined this value, which is now a cornerstone of **quantum mechanics**, **electrodynamics**, and **electrical engineering**.
 
@@ -1103,24 +1103,24 @@ I = \frac{Q}{t}
 $$
 
 where:
-- \$\(I\)\$ = current (in Amperes, A),
-- \$\(Q\)\$ = charge (in Coulombs, C),
-- \$\(t\)\$ = time (in seconds, s).
+- $$(I)$$ = current (in Amperes, A),
+- $$(Q)$$ = charge (in Coulombs, C),
+- $$(t)$$ = time (in seconds, s).
 
 ### **Connecting Electrons and Coulombs**
 
-- The charge of a **single electron** is \$\( e = 1.602 \times 10^{-19} \, \text{C} \)\$.
-- **1 Coulomb** (C) of charge corresponds to the movement of **\$\( 6.242 \times 10^{18} \)\$** electrons.
+- The charge of a **single electron** is $$( e = 1.602 \times 10^{-19} \, \text{C} )$$.
+- **1 Coulomb** (C) of charge corresponds to the movement of **$$( 6.242 \times 10^{18} )$$** electrons.
 
-So, if \$\( 6.242 \times 10^{18} \)\$ electrons move through a conductor in **1 second**, they will carry a total charge of **1 Coulomb (C)**.
+So, if $$( 6.242 \times 10^{18} )$$ electrons move through a conductor in **1 second**, they will carry a total charge of **1 Coulomb (C)**.
 
 ### **To Summarize**:
 
 - If **6.242 × 10¹⁸ electrons** move through a conductor in **1 second**, they will create a **1 Coulomb (C)** of charge.
-- This is because \$\( 1 \, \text{C} \)\$ of charge corresponds to exactly **\$\( 6.242 \times 10^{18} \)\$ electrons** (since each electron has a charge of \$\( 1.602 \times 10^{-19} \, \text{C} \)\$.
+- This is because $$( 1 \, \text{C} )$$ of charge corresponds to exactly **$$( 6.242 \times 10^{18} )$$ electrons** (since each electron has a charge of $$( 1.602 \times 10^{-19} \, \text{C} )$$.
 
 In practical terms:
-- When you have a current of **1 Ampere**, **1 Coulomb** of charge flows through a conductor in **1 second**, which corresponds to about **\$\( 6.242 \times 10^{18} \)\$ electrons** moving through that conductor.
+- When you have a current of **1 Ampere**, **1 Coulomb** of charge flows through a conductor in **1 second**, which corresponds to about **$$( 6.242 \times 10^{18} )$$ electrons** moving through that conductor.
 
 
 
@@ -1128,31 +1128,31 @@ In practical terms:
 Measuring the number of electrons that have moved through a conductor involves understanding the **current** and **time**, and then using the relationship between **charge** and the **number of electrons**. Here's how this works step-by-step:
 
 ### 1. **Measure the Current**
-To measure the number of electrons that have moved, you first need to measure the **electric current** flowing through the conductor. The current, \$\( I \)\$, is the flow of charge per unit time and is measured in **Amperes (A)**. One Ampere is defined as **one Coulomb per second**:
+To measure the number of electrons that have moved, you first need to measure the **electric current** flowing through the conductor. The current, $$( I )$$, is the flow of charge per unit time and is measured in **Amperes (A)**. One Ampere is defined as **one Coulomb per second**:
 
  $$
 I = \frac{Q}{t}
 $$
 
 where:
-- \$\( I \)\$ = current (in Amperes, A),
-- \$\( Q \)\$ = total charge (in Coulombs, C),
-- \$\( t \)\$ = time (in seconds, s).
+- $$( I )$$ = current (in Amperes, A),
+- $$( Q )$$ = total charge (in Coulombs, C),
+- $$( t )$$ = time (in seconds, s).
 
 ### 2. **Calculate the Total Charge**
-Once you measure the current, you can calculate the total charge, \$\( Q \)\$, that has passed through the conductor in a given time \$\( t \)\$.
+Once you measure the current, you can calculate the total charge, $$( Q )$$, that has passed through the conductor in a given time $$( t )$$.
 
  $$
 Q = I \times t
 $$
 
-- If the current is \$\( 1 \, \text{A} \)\$ and the time is \$\( 1 \, \text{s} \)\$, the total charge is \$\( 1 \, \text{C} \)\$.
-- If the current is \$\( 2 \, \text{A} \)\$ and the time is \$\( 1 \, \text{s} \)\$, the total charge is \$\( 2 \, \text{C} \)\$, and so on.
+- If the current is $$( 1 \, \text{A} )$$ and the time is $$( 1 \, \text{s} )$$, the total charge is $$( 1 \, \text{C} )$$.
+- If the current is $$( 2 \, \text{A} )$$ and the time is $$( 1 \, \text{s} )$$, the total charge is $$( 2 \, \text{C} )$$, and so on.
 
 ### 3. **Relating Charge to the Number of Electrons**
-To find the number of electrons that correspond to the total charge \$\( Q \)\$, you use the **charge of an electron**, which is \$\( 1.602 \times 10^{-19} \, \text{C} \)\$.
+To find the number of electrons that correspond to the total charge $$( Q )$$, you use the **charge of an electron**, which is $$( 1.602 \times 10^{-19} \, \text{C} )$$.
 
-The total number of electrons, \$\( N_e \)\$, that have moved is:
+The total number of electrons, $$( N_e )$$, that have moved is:
 
  $$
 N_e = \frac{Q}{\text{charge of one electron}}
@@ -1165,7 +1165,7 @@ N_e = \frac{1 \, \text{C}}{1.602 \times 10^{-19} \, \text{C/electron}} = 6.242 \
 $$
 
 ### **Step-by-Step Example:**
-- Suppose you have a current of \$\( 2 \, \text{A} \)\$ flowing for \$\( 3 \, \text{seconds} \)\$.
+- Suppose you have a current of $$( 2 \, \text{A} )$$ flowing for $$( 3 \, \text{seconds} )$$.
 - The total charge that has passed through the conductor is:
   $$
   Q = 2 \, \text{A} \times 3 \, \text{s} = 6 \, \text{C}
@@ -1175,15 +1175,15 @@ $$
   N_e = \frac{6 \, \text{C}}{1.602 \times 10^{-19} \, \text{C/electron}} = 3.745 \times 10^{19} \, \text{electrons}
  $$
 
-So, in this case, \$\( 3.745 \times 10^{19} \)\$ electrons would have moved through the conductor in those 3 seconds.
+So, in this case, $$( 3.745 \times 10^{19} )$$ electrons would have moved through the conductor in those 3 seconds.
 
 ### **How to Actually Measure It:**
 In practice, measuring the exact number of electrons directly is difficult, but you can measure the current (in Amperes) using a **multimeter** or **ammeter**, and then calculate the number of electrons based on the current and time. Alternatively, advanced instruments like **coulombmeters** or **integrated circuits** could be used to directly measure the amount of charge passing through a conductor.
 
 ### **Summary:**
 - **Step 1**: Measure the **current** (in Amperes) and the **time** it flows.
-- **Step 2**: Calculate the **total charge** that has passed using \$\( Q = I \times t \)\$.
-- **Step 3**: Calculate the **number of electrons** using the relationship \$\( N_e = \frac{Q}{\text{charge of an electron}} \)\$.
+- **Step 2**: Calculate the **total charge** that has passed using $$( Q = I \times t )$$.
+- **Step 3**: Calculate the **number of electrons** using the relationship $$( N_e = \frac{Q}{\text{charge of an electron}} )$$.
 
 This is how we estimate the number of electrons that have moved in a given period based on the flow of current.
 
@@ -1213,7 +1213,7 @@ To find the total charge, we use the relationship between energy, charge, and vo
 \text{Energy (J)} = \text{Charge (C)} \times \text{Voltage (V)}
 $$
 
-Assuming the bulb operates at a typical household voltage of **120V** (or 230V, depending on your region, but let's use 120V for this example), we can rearrange the equation to solve for the total charge \$\(Q\)\$:
+Assuming the bulb operates at a typical household voltage of **120V** (or 230V, depending on your region, but let's use 120V for this example), we can rearrange the equation to solve for the total charge $$(Q)$$:
 
  $$
 Q = \frac{\text{Energy}}{\text{Voltage}}
@@ -1228,9 +1228,9 @@ $$
 So, the total charge that has passed through the bulb is **300 Coulombs**.
 
 ### 3. **Calculate the Number of Electrons**
-Now that we know the total charge, we can find the number of electrons that correspond to this charge. The charge of one electron is **\$\( 1.602 \times 10^{-19} \, \text{C} \)\$**. 
+Now that we know the total charge, we can find the number of electrons that correspond to this charge. The charge of one electron is **$$( 1.602 \times 10^{-19} \, \text{C} )$$**. 
 
-The number of electrons \$\(N_e\)\$ is:
+The number of electrons $$(N_e)$$ is:
 
  $$
 N_e = \frac{Q}{\text{Charge of one electron}}
@@ -1244,7 +1244,7 @@ $$
 To calculate the number of electrons that moved through the 10-watt bulb in 1 hour:
 - **Total energy used by the bulb in 1 hour** = 36,000 joules.
 - **Total charge (Q)** = 300 Coulombs.
-- **Number of electrons** = \$\( 1.87 \times 10^{21} \, \text{electrons} \)\$.
+- **Number of electrons** = $$( 1.87 \times 10^{21} \, \text{electrons} )$$.
 
 So, approximately **1.87 × 10²¹ electrons** flow through the bulb in 1 hour.
 
@@ -1307,10 +1307,10 @@ E = V \times I \times t
 $$
 
 Where:
-- \$\( E \)\$ = energy in joules (J),
-- \$\( V \)\$ = voltage in volts (V),
-- \$\( I \)\$ = current in amperes (A),
-- \$\( t \)\$ = time in seconds (s).
+- $$( E )$$ = energy in joules (J),
+- $$( V )$$ = voltage in volts (V),
+- $$( I )$$ = current in amperes (A),
+- $$( t )$$ = time in seconds (s).
 
 For example, a circuit with:
 - **1 volt** across a resistor,
@@ -1464,7 +1464,7 @@ It’s important to note that this process **requires** certain conditions, such
 - The process typically happens in the presence of **a strong electromagnetic field**, like that near a nucleus, because it helps conserve momentum during the interaction.
 
 ### **Why Doesn't This Contradict the Idea of Massless Photons?**
-Photons are indeed **massless** in the sense that they have **no rest mass**. However, they still carry **energy** and **momentum**, and energy and momentum are related to mass through Einstein's famous equation \$\( E = mc^2 \)\$. When a photon interacts with a field, its energy can manifest as mass in the form of particles. This doesn’t contradict the fact that photons are massless; instead, it demonstrates how **energy can create matter**.
+Photons are indeed **massless** in the sense that they have **no rest mass**. However, they still carry **energy** and **momentum**, and energy and momentum are related to mass through Einstein's famous equation $$( E = mc^2 )$$. When a photon interacts with a field, its energy can manifest as mass in the form of particles. This doesn’t contradict the fact that photons are massless; instead, it demonstrates how **energy can create matter**.
 
 ### **Key Takeaway:**
 So, even though photons are massless, their **energy** can lead to the creation of **massive particles** under the right conditions. This is a fundamental process in quantum mechanics and field theory and plays a role in phenomena like pair production.
@@ -1479,17 +1479,17 @@ $$
 
 Where:
 - **E** is the energy of the photon.
-- **h** is Planck’s constant (approximately \$\(6.626 \times 10^{-34}\)\$ joule-seconds).
+- **h** is Planck’s constant (approximately $$(6.626 \times 10^{-34})$$ joule-seconds).
 - **f** is the frequency of the photon.
 
-Alternatively, since the frequency and wavelength are inversely related \$\( f = \frac{c}{\lambda} \)\$, where \$\( c \)\$ is the speed of light and \$\( \lambda \)\$ is the wavelength), the energy can also be expressed as:
+Alternatively, since the frequency and wavelength are inversely related $$( f = \frac{c}{\lambda} )$$, where $$( c )$$ is the speed of light and $$( \lambda )$$ is the wavelength), the energy can also be expressed as:
 
  $$
 E = \frac{h \cdot c}{\lambda}
 $$
 
 Where:
-- **\$\(\lambda\)\$** is the wavelength of the photon.
+- **$$(\lambda)$$** is the wavelength of the photon.
 
 ### **How can a photon achieve high energy?**
 
@@ -1550,15 +1550,15 @@ Where:
 - **c** is the speed of light.
 - **m₀** is the rest mass of the photon (which is zero).
 
-Since the rest mass of a photon is zero \$\( m_0 = 0 \)\$, this simplifies to:
+Since the rest mass of a photon is zero $$( m_0 = 0 )$$, this simplifies to:
 
  $$
 E = pc
 $$
 
-This shows that the energy of a photon is related to its momentum through the speed of light, \$\(c\)\$. 
+This shows that the energy of a photon is related to its momentum through the speed of light, $$(c)$$. 
 
-- The energy of a photon is given by \$\( E = h \cdot f \)\$, where \$\(h\)\$ is Planck’s constant and \$\(f\)\$ is the frequency of the photon.
+- The energy of a photon is given by $$( E = h \cdot f )$$, where $$(h)$$ is Planck’s constant and $$(f)$$ is the frequency of the photon.
 - Using this in the equation, we get:
 
  $$
@@ -1626,10 +1626,10 @@ Compton scattering occurs when a photon (with energy and momentum) interacts wit
 $$
 
 Where:
-- \$\( \lambda_C \)\$ is the Compton wavelength,
-- \$\( h \)\$ is Planck's constant,
-- \$\( m_e \)\$ is the mass of the electron,
-- \$\( c \)\$ is the speed of light.
+- $$( \lambda_C )$$ is the Compton wavelength,
+- $$( h )$$ is Planck's constant,
+- $$( m_e )$$ is the mass of the electron,
+- $$( c )$$ is the speed of light.
 
 For the electron, this is a **characteristic scale** related to its quantum properties, not its physical size.
 
@@ -2064,11 +2064,11 @@ For a simple case, such as a single particle in one dimension, the wavefunction 
 \psi(x, t)
 $$
 Here:
-- \$\( x \)\$: Position variable (spatial coordinate).
-- \$\( t \)\$: Time variable.
-- \$\(\psi(x, t)\)\$: Complex-valued function that gives the probability amplitude.
+- $$( x )$$: Position variable (spatial coordinate).
+- $$( t )$$: Time variable.
+- $$(\psi(x, t))$$: Complex-valued function that gives the probability amplitude.
 
-The probability density at position \$\( x \)\$ and time \$\( t \)\$ is given by:
+The probability density at position $$( x )$$ and time $$( t )$$ is given by:
  $$
 P(x, t) = \|\psi(x, t)\|^2
 $$
@@ -2080,21 +2080,21 @@ For a single particle in three-dimensional space, the wavefunction depends on al
 \psi(x, y, z, t)
 $$
 Here:
-- \$\(x, y, z\)\$: Position coordinates.
-- \$\(t\)\$: Time.
+- $$(x, y, z)$$: Position coordinates.
+- $$(t)$$: Time.
 
 The wavefunction now describes the probability amplitude of the particle being found at a specific point in 3D space at a given time.
 
 
 ### **3. Many-Particle Systems**
-For systems with multiple particles, the wavefunction becomes a function of the coordinates of **all particles**. For \$\( N \)\$ particles, the wavefunction depends on \$\( 3N \)\$ spatial coordinates and time:
+For systems with multiple particles, the wavefunction becomes a function of the coordinates of **all particles**. For $$( N )$$ particles, the wavefunction depends on $$( 3N )$$ spatial coordinates and time:
  $$
 \psi(x_1, y_1, z_1, x_2, y_2, z_2, \ldots, x_N, y_N, z_N, t)
 $$
 Here:
-- \$\(x_1, y_1, z_1\)\$: Position of the first particle.
-- \$\(x_2, y_2, z_2\)\$: Position of the second particle.
-- \$\(N\)\$: Number of particles.
+- $$(x_1, y_1, z_1)$$: Position of the first particle.
+- $$(x_2, y_2, z_2)$$: Position of the second particle.
+- $$(N)$$: Number of particles.
 
 The wavefunction describes the joint probability amplitudes for all particles in the system.
 
@@ -2105,17 +2105,17 @@ In quantum mechanics, the wavefunction can also be expressed in terms of momentu
 \phi(p_x, p_y, p_z, t)
 $$
 Here:
-- \$\( p_x, p_y, p_z \)\$: Momentum components in 3D space.
-- \$\( t \)\$: Time.
+- $$( p_x, p_y, p_z )$$: Momentum components in 3D space.
+- $$( t )$$: Time.
 
 Position-space and momentum-space wavefunctions are related through the **Fourier transform**.
 
 
 ### **5. Wavefunction as a Composite of Other Functions**
 The wavefunction often incorporates other mathematical functions:
-- **Plane Waves:** A wavefunction for a free particle might look like \$\(\psi(x, t) = Ae^{i(kx - \omega t)}\)\$, where \$\(A, k, \omega\)\$ are constants.
-- **Superposition:** A wavefunction can be a sum of multiple functions, e.g., \$\(\psi(x) = \psi_1(x) + \psi_2(x)\)\$, representing different quantum states.
-- **Bound States:** In atoms, the wavefunction might combine radial and angular functions, e.g., \$\(\psi(r, \theta, \phi) = R(r)Y(\theta, \phi)\)\$, where \$\(R(r)\)\$ is the radial function and \$\(Y(\theta, \phi)\)\$ are spherical harmonics.
+- **Plane Waves:** A wavefunction for a free particle might look like $$(\psi(x, t) = Ae^{i(kx - \omega t)})$$, where $$(A, k, \omega)$$ are constants.
+- **Superposition:** A wavefunction can be a sum of multiple functions, e.g., $$(\psi(x) = \psi_1(x) + \psi_2(x))$$, representing different quantum states.
+- **Bound States:** In atoms, the wavefunction might combine radial and angular functions, e.g., $$(\psi(r, \theta, \phi) = R(r)Y(\theta, \phi))$$, where $$(R(r))$$ is the radial function and $$(Y(\theta, \phi))$$ are spherical harmonics.
 
 
 ### **6. Time Evolution**
@@ -2123,14 +2123,14 @@ The wavefunction evolves in time according to the **Schrödinger equation**:
  $$
 i\hbar \frac{\partial \psi}{\partial t} = \hat{H} \psi
 $$
-Here, the Hamiltonian \$\(\hat{H}\)\$ might depend on position, momentum, or other system-specific variables, causing the wavefunction to change dynamically.
+Here, the Hamiltonian $$(\hat{H})$$ might depend on position, momentum, or other system-specific variables, causing the wavefunction to change dynamically.
 
 
 ### **Conclusion**
 The wavefunction is a **multivariable function** that encapsulates the quantum state of a particle or system. It can depend on:
-- Spatial coordinates \$\(x, y, z\)\$.
-- Time \$\(t\)\$.
-- Other properties like momentum \$\(p_x, p_y, p_z\)\$.
+- Spatial coordinates $$(x, y, z)$$.
+- Time $$(t)$$.
+- Other properties like momentum $$(p_x, p_y, p_z)$$.
 
 Its structure can incorporate many mathematical functions (e.g., exponentials, spherical harmonics, or superpositions), and it describes the **probability amplitudes** for finding a particle in different states.
 
@@ -2138,44 +2138,44 @@ Its structure can incorporate many mathematical functions (e.g., exponentials, s
 Can you give me wavefunction of wave which has 500 nm wave lenght and traveling at the speed of light. Remaing things you can assume.
 
 
-Certainly! Let's construct the wavefunction of a photon with a **wavelength of 500 nm** \$\(5 \times 10^{-7}\)\$ meters) traveling at the speed of light \$\(c = 3 \times 10^8 \, \mathrm{m/s}\)\$.
+Certainly! Let's construct the wavefunction of a photon with a **wavelength of 500 nm** $$(5 \times 10^{-7})$$ meters) traveling at the speed of light $$(c = 3 \times 10^8 \, \mathrm{m/s})$$.
 
 
 ### **1. General Wavefunction for a Traveling Wave**
-The wavefunction for a wave traveling in one dimension (say along the \$\(x\)\$-axis) can be written as:
+The wavefunction for a wave traveling in one dimension (say along the $$(x)$$-axis) can be written as:
  $$
 \psi(x, t) = A e^{i(kx - \omega t)}
 $$
 Here:
-- \$\(A\)\$: Amplitude of the wave.
-- \$\(k\)\$: Wave number, related to the wavelength.
-- \$\(\omega\)\$: Angular frequency, related to the wave's energy or speed.
+- $$(A)$$: Amplitude of the wave.
+- $$(k)$$: Wave number, related to the wavelength.
+- $$(\omega)$$: Angular frequency, related to the wave's energy or speed.
 
 
 ### **2. Define the Parameters**
-#### **Wavelength \$\(\lambda\)\$:**
+#### **Wavelength $$(\lambda)$$:**
  $$
 \lambda = 500 \, \mathrm{nm} = 5 \times 10^{-7} \, \mathrm{m}
 $$
 
-#### **Wave Number \$\(k\)\$:**
+#### **Wave Number $$(k)$$:**
  $$
 k = \frac{2\pi}{\lambda} = \frac{2\pi}{5 \times 10^{-7}} = 1.257 \times 10^7 \, \mathrm{m^{-1}}
 $$
 
-#### **Speed of Light \$\(c\)\$:**
+#### **Speed of Light $$(c)$$:**
 The photon is traveling at the speed of light:
  $$
 c = 3 \times 10^8 \, \mathrm{m/s}
 $$
 
-#### **Frequency \$\(f\)\$:**
+#### **Frequency $$(f)$$:**
 The frequency of the photon is:
  $$
 f = \frac{c}{\lambda} = \frac{3 \times 10^8}{5 \times 10^{-7}} = 6 \times 10^{14} \, \mathrm{Hz}
 $$
 
-#### **Angular Frequency \$\(\omega\)\$:**
+#### **Angular Frequency $$(\omega)$$:**
 The angular frequency is related to the frequency by:
  $$
 \omega = 2\pi f = 2\pi (6 \times 10^{14}) = 3.77 \times 10^{15} \, \mathrm{rad/s}
@@ -2190,9 +2190,9 @@ $$
 
 
 ### **4. Interpretation**
-1. **Wave Nature:** This wavefunction describes a plane wave traveling along the \$\(x\)\$-axis with a wavelength of 500 nm.
-2. **Amplitude \$\(A\)\$:** The amplitude \$\(A\)\$ depends on the wave's intensity, which is related to the photon's energy. For simplicity, we assume \$\(A = 1\)\$ in normalized units.
-3. **Complex Form:** The wavefunction is complex, and its physical meaning lies in its square modulus \$\(\|\psi\|^2\)\$, which gives the probability density or intensity of the photon.
+1. **Wave Nature:** This wavefunction describes a plane wave traveling along the $$(x)$$-axis with a wavelength of 500 nm.
+2. **Amplitude $$(A)$$:** The amplitude $$(A)$$ depends on the wave's intensity, which is related to the photon's energy. For simplicity, we assume $$(A = 1)$$ in normalized units.
+3. **Complex Form:** The wavefunction is complex, and its physical meaning lies in its square modulus $$(\|\psi\|^2)$$, which gives the probability density or intensity of the photon.
 
 
 ### **Extensions**
@@ -2204,57 +2204,57 @@ To refine the wavefunction of the photon and describe its movement in **3D space
 
 
 ### **1. General 3D Wavefunction for a Traveling Wave**
-In 3D space, the wavefunction of a photon traveling in a direction given by a unit vector \$\(\mathbf{k} = (k_x, k_y, k_z)\)\$ is:
+In 3D space, the wavefunction of a photon traveling in a direction given by a unit vector $$(\mathbf{k} = (k_x, k_y, k_z))$$ is:
 
  $$
 \psi(\mathbf{r}, t) = A e^{i(\mathbf{k} \cdot \mathbf{r} - \omega t)}
 $$
 
 Here:
-- \$\(\mathbf{r} = (x, y, z)\)\$: Position in 3D space.
-- \$\(\mathbf{k} = (k_x, k_y, k_z)\)\$: Wavevector, which determines the photon's direction and magnitude. The magnitude of \$\(\mathbf{k}\)\$ is:
+- $$(\mathbf{r} = (x, y, z))$$: Position in 3D space.
+- $$(\mathbf{k} = (k_x, k_y, k_z))$$: Wavevector, which determines the photon's direction and magnitude. The magnitude of $$(\mathbf{k})$$ is:
   $$
   \|\mathbf{k}\| = k = \frac{2\pi}{\lambda}
  $$
-- \$\(A\)\$: Amplitude of the wave.
-- \$\(\omega\)\$: Angular frequency, determined by:
+- $$(A)$$: Amplitude of the wave.
+- $$(\omega)$$: Angular frequency, determined by:
   $$
   \omega = c k
  $$
-- \$\(\mathbf{k} \cdot \mathbf{r} = k_x x + k_y y + k_z z\)\$: The dot product captures the projection of \$\(\mathbf{r}\)\$ onto the wave's direction.
+- $$(\mathbf{k} \cdot \mathbf{r} = k_x x + k_y y + k_z z)$$: The dot product captures the projection of $$(\mathbf{r})$$ onto the wave's direction.
 
 
 ### **2. Specify the Wavelength and Wavevector**
-For a photon with a wavelength of \$\( \lambda = 500 \, \mathrm{nm}\)\$:
+For a photon with a wavelength of $$( \lambda = 500 \, \mathrm{nm})$$:
  $$
 k = \frac{2\pi}{\lambda} = 1.257 \times 10^7 \, \mathrm{m^{-1}}
 $$
 
-The wavevector \$\(\mathbf{k}\)\$ can be written in terms of its direction:
+The wavevector $$(\mathbf{k})$$ can be written in terms of its direction:
  $$
 \mathbf{k} = k (\hat{i} \cos\theta \cos\phi + \hat{j} \cos\theta \sin\phi + \hat{k} \sin\theta)
 $$
 
 Here:
-- \$\(\theta\)\$: The angle from the \$\(z\)\$-axis.
-- \$\(\phi\)\$: The azimuthal angle in the \$\(xy\)\$-plane.
+- $$(\theta)$$: The angle from the $$(z)$$-axis.
+- $$(\phi)$$: The azimuthal angle in the $$(xy)$$-plane.
 
 
 ### **3. 3D Wavefunction**
-Substitute \$\(\mathbf{k}\)\$ into the general equation:
+Substitute $$(\mathbf{k})$$ into the general equation:
  $$
 \psi(\mathbf{r}, t) = A e^{i[k (x \cos\theta \cos\phi + y \cos\theta \sin\phi + z \sin\theta) - \omega t]}
 $$
 
 Here:
-- \$\(x\)\$, \$\(y\)\$, \$\(z\)\$: Coordinates of the photon's location.
-- \$\(A\)\$: Amplitude.
-- \$\(k = 1.257 \times 10^7 \, \mathrm{m^{-1}}\)\$.
-- \$\(\omega = 3.77 \times 10^{15} \, \mathrm{rad/s}\)\$.
+- $$(x)$$, $$(y)$$, $$(z)$$: Coordinates of the photon's location.
+- $$(A)$$: Amplitude.
+- $$(k = 1.257 \times 10^7 \, \mathrm{m^{-1}})$$.
+- $$(\omega = 3.77 \times 10^{15} \, \mathrm{rad/s})$$.
 
 
 ### **4. Include Polarization**
-A photon inherently has polarization, which is orthogonal to its direction of motion. Let the polarization vector be \$\(\mathbf{p} = (p_x, p_y, p_z)\)\$, where:
+A photon inherently has polarization, which is orthogonal to its direction of motion. Let the polarization vector be $$(\mathbf{p} = (p_x, p_y, p_z))$$, where:
  $$
 \mathbf{p} \cdot \mathbf{k} = 0
 $$
@@ -2267,9 +2267,9 @@ $$
 
 
 ### **5. Physical Meaning**
-- **Wave Nature:** The wavefunction describes a photon propagating through 3D space along the direction defined by \$\((\theta, \phi)\)\$, with polarization \$\(\mathbf{p}\)\$.
-- **Probability Distribution:** The intensity of the photon at any point is proportional to \$\(\|\psi\|^2\)\$.
-- **Speed of Light:** The phase velocity is always \$\(c\)\$, ensuring the photon moves at the speed of light.
+- **Wave Nature:** The wavefunction describes a photon propagating through 3D space along the direction defined by $$((\theta, \phi))$$, with polarization $$(\mathbf{p})$$.
+- **Probability Distribution:** The intensity of the photon at any point is proportional to $$(\|\psi\|^2)$$.
+- **Speed of Light:** The phase velocity is always $$(c)$$, ensuring the photon moves at the speed of light.
 
 
 This is a 3D generalization of the wavefunction for a photon with a wavelength of 500 nm. If needed, further refinements can describe specific boundary conditions, interactions, or quantum superposition states.
@@ -2279,10 +2279,10 @@ This is a 3D generalization of the wavefunction for a photon with a wavelength o
 
 Now with this wavefunction, can you tell me where will the particle will be at t=10 second.
 
-The exact position of the photon at \$\( t = 10 \, \text{seconds} \)\$ **cannot be determined precisely** because photons do not have a well-defined position until they are measured. Instead, their position is described probabilistically by the wavefunction.
+The exact position of the photon at $$( t = 10 \, \text{seconds} )$$ **cannot be determined precisely** because photons do not have a well-defined position until they are measured. Instead, their position is described probabilistically by the wavefunction.
 
 ### What the Wavefunction Tells Us
-The wavefunction \$\(\psi(\mathbf{r}, t)\)\$ provides the **probability amplitude** of the photon being found at a certain point in space at a given time. To find the **probability** of detecting the photon at a specific location, you calculate:
+The wavefunction $$(\psi(\mathbf{r}, t))$$ provides the **probability amplitude** of the photon being found at a certain point in space at a given time. To find the **probability** of detecting the photon at a specific location, you calculate:
 
  $$
 P(\mathbf{r}) = \|\psi(\mathbf{r}, t)\|^2
@@ -2294,27 +2294,27 @@ This means:
 
 
 ### Can We Estimate the Region?
-If the photon is traveling at the speed of light \$\( c \)\$, after \$\( t = 10 \, \text{seconds} \)\$, it will have traveled a **distance of \$\( 3 \times 10^9 \, \text{m} \)\$** (i.e., \$\( c \times t \)\$ in the direction of its wavevector \$\(\mathbf{k}\)\$.
+If the photon is traveling at the speed of light $$( c )$$, after $$( t = 10 \, \text{seconds} )$$, it will have traveled a **distance of $$( 3 \times 10^9 \, \text{m} )$$** (i.e., $$( c \times t )$$ in the direction of its wavevector $$(\mathbf{k})$$.
 
 Thus:
-1. The photon is somewhere within a spherical region with a radius of \$\( 3 \times 10^9 \, \text{m} \)\$ centered on its starting point.
-2. The probability distribution \$\(\|\psi(\mathbf{r}, t)\|^2\)\$ would be most intense along the direction of \$\(\mathbf{k}\)\$ but will also depend on diffraction, scattering, or interactions the photon might encounter.
+1. The photon is somewhere within a spherical region with a radius of $$( 3 \times 10^9 \, \text{m} )$$ centered on its starting point.
+2. The probability distribution $$(\|\psi(\mathbf{r}, t)\|^2)$$ would be most intense along the direction of $$(\mathbf{k})$$ but will also depend on diffraction, scattering, or interactions the photon might encounter.
 
 
 ### Why Can't We Say the Exact Location?
 This uncertainty arises because photons obey the principles of **quantum mechanics**:
-- **Wave-Particle Duality:** The photon behaves like a wave (described by \$\(\psi(\mathbf{r}, t)\)\$ until measured, at which point it behaves like a particle.
+- **Wave-Particle Duality:** The photon behaves like a wave (described by $$(\psi(\mathbf{r}, t))$$ until measured, at which point it behaves like a particle.
 - **Heisenberg Uncertainty Principle:** You cannot know both the exact position and momentum of the photon simultaneously. The more precisely the photon's momentum (or energy) is known, the less precisely its position is defined.
 
 
 ### Practical Measurement
-If you measure the photon at \$\( t = 10 \, \text{seconds} \)\$, you'll find it somewhere within the spherical region \$\( 3 \times 10^9 \, \text{m} \)\$ away from its starting point. Its exact location depends on how you measure it and the specifics of its wavefunction at that time.
+If you measure the photon at $$( t = 10 \, \text{seconds} )$$, you'll find it somewhere within the spherical region $$( 3 \times 10^9 \, \text{m} )$$ away from its starting point. Its exact location depends on how you measure it and the specifics of its wavefunction at that time.
 
 
 ## If I give you radius and wavefunction can you locate electron?
 
 You just gave me the radius. Using probablity denstity function can you tell me where it can be found most?
-To determine where the photon is **most likely to be found**, we use the **probability density function** derived from the wavefunction \$\(\psi(\mathbf{r}, t)\)\$. The probability density is:
+To determine where the photon is **most likely to be found**, we use the **probability density function** derived from the wavefunction $$(\psi(\mathbf{r}, t))$$. The probability density is:
 
  $$
 P(\mathbf{r}, t) = \|\psi(\mathbf{r}, t)\|^2
@@ -2324,16 +2324,16 @@ Here’s how we analyze it step by step:
 
 
 ### Wavefunction of the Photon in 3D
-For a photon with a wavelength of \$\( \lambda = 500 \, \text{nm} \)\$ traveling in the direction of the wavevector \$\( \mathbf{k} \)\$, the wavefunction in 3D space is:
+For a photon with a wavelength of $$( \lambda = 500 \, \text{nm} )$$ traveling in the direction of the wavevector $$( \mathbf{k} )$$, the wavefunction in 3D space is:
 
  $$
 \psi(\mathbf{r}, t) = A e^{i(\mathbf{k} \cdot \mathbf{r} - \omega t)}
 $$
 
-- \$\( \mathbf{k} \)\$: wavevector \$\( \|\mathbf{k}\| = 2\pi / \lambda \)\$, direction of travel).
-- \$\( \mathbf{r} \)\$: position vector in 3D \$\( \mathbf{r} = (x, y, z) \)\$.
-- \$\( \omega = c \|\mathbf{k}\| \)\$: angular frequency.
-- \$\( A \)\$: normalization constant.
+- $$( \mathbf{k} )$$: wavevector $$( \|\mathbf{k}\| = 2\pi / \lambda )$$, direction of travel).
+- $$( \mathbf{r} )$$: position vector in 3D $$( \mathbf{r} = (x, y, z) )$$.
+- $$( \omega = c \|\mathbf{k}\| )$$: angular frequency.
+- $$( A )$$: normalization constant.
 
 
 ### Probability Density Function
@@ -2345,27 +2345,27 @@ $$
 
 This means:
 1. The photon’s wavefunction has **uniform intensity** across space. 
-2. The photon’s location is equally probable along a spherical shell of radius \$\( r = c t \)\$.
+2. The photon’s location is equally probable along a spherical shell of radius $$( r = c t )$$.
 
 
 ### Most Probable Location
-At \$\( t = 10 \, \text{seconds} \)\$:
-- The photon is most likely to be found on the spherical shell of radius \$\( r = c t = 3 \times 10^9 \, \text{m} \)\$.
+At $$( t = 10 \, \text{seconds} )$$:
+- The photon is most likely to be found on the spherical shell of radius $$( r = c t = 3 \times 10^9 \, \text{m} )$$.
 - The probability density doesn’t favor any specific location on the shell because it is symmetric and uniform around the origin.
 
 
 ### Key Points
 1. **No preferred position within the sphere**: The uniformity of the plane wave implies equal likelihood of finding the photon anywhere on the spherical shell.
-2. **Directional considerations**: If the photon was emitted in a specific direction (defined by \$\(\mathbf{k}\)\$, practical considerations suggest it is most likely to be found near that direction because \$\(\mathbf{k}\)\$ defines the main axis of travel.
+2. **Directional considerations**: If the photon was emitted in a specific direction (defined by $$(\mathbf{k})$$, practical considerations suggest it is most likely to be found near that direction because $$(\mathbf{k})$$ defines the main axis of travel.
 
-In short, while the photon is equally probable at any point on the spherical shell of radius \$\( c t \)\$, practical setups (e.g., a collimated beam or an optical system) will localize the photon near the direction of \$\(\mathbf{k}\)\$.
+In short, while the photon is equally probable at any point on the spherical shell of radius $$( c t )$$, practical setups (e.g., a collimated beam or an optical system) will localize the photon near the direction of $$(\mathbf{k})$$.
 
 
 
 ## It is crazy, I need some expert now!
 
 It is funny. To know all this radius I don't need probablity distribution function and wave function. how to use these function then?
-You’re absolutely correct that the **radius** \$\(r = ct\)\$ (distance the photon travels in time \$\(t\)\$ can be calculated from simple classical reasoning based on the speed of light. The **wavefunction** and **probability density function**, however, offer much deeper insights that go beyond just calculating the distance. Let’s explore their purpose and utility:
+You’re absolutely correct that the **radius** $$(r = ct)$$ (distance the photon travels in time $$(t)$$ can be calculated from simple classical reasoning based on the speed of light. The **wavefunction** and **probability density function**, however, offer much deeper insights that go beyond just calculating the distance. Let’s explore their purpose and utility:
 
 
 ### 1. **Why Use the Wavefunction?**
@@ -2390,7 +2390,7 @@ If the photon passes through two slits, its wavefunction becomes a **superpositi
 \psi(\mathbf{r}, t) = \psi_1(\mathbf{r}, t) + \psi_2(\mathbf{r}, t)
 $$
 Here:
-- \$\(\|\psi(\mathbf{r}, t)\|^2\)\$ gives the **interference pattern** on the detection screen.
+- $$(\|\psi(\mathbf{r}, t)\|^2)$$ gives the **interference pattern** on the detection screen.
 - The pattern can’t be explained using classical reasoning, as it arises from the photon’s quantum wave nature.
 
 
@@ -2407,7 +2407,7 @@ The wavefunction is crucial in scenarios where classical concepts like "path" or
 
 ### 4. **Using the Wavefunction in Your Example**
 For a photon moving through space:
-1. **Without obstacles**: The photon’s wavefunction is a plane wave, and the probability density is uniform on the sphere of radius \$\(r = ct\)\$.
+1. **Without obstacles**: The photon’s wavefunction is a plane wave, and the probability density is uniform on the sphere of radius $$(r = ct)$$.
 2. **With obstacles** (e.g., a slit or scattering object): The wavefunction becomes more complex, describing how the photon diffracts, scatters, or interferes.
 
 

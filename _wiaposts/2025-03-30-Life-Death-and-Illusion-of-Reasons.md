@@ -85,7 +85,7 @@ If you commit immoral acts,
 Thinking no one sees you,  
 That there is no God to judge,  
 That you are free to do as you please—  
-You are not an evolved soul.  
+You are not an evolved life or soul.  
 
 If you do good only out of fear,  
 You are still not evolved—  
@@ -104,6 +104,38 @@ Pain, suffering, and loss
 Are a part of life.  
 No one can take them away from you—  
 Except death.  
+
+
+We need to understand aging itself   
+does not cause death nor is it an illness.  
+Yes, with age we get more indulge in something  
+Which changes our thinking   
+That affects our health and well-being.  
+But this indulgence directly has no relation with age.  
+In fact if one is wise,  
+With age one should get indulgence less.  
+
+Oh Chaitanya, if one don't think about death   
+It does not mean one is living life fully,  
+It means either one is dead,   
+or he is ignoring because of fear or helplessness  
+But if one think about death then  
+It doesn't mean one is living either.  
+
+Accepting life as is more important   
+Than trying to avoid or escape from it.  
+Death, pain, suffering, loss need to be accepted as   
+Birth, health, pleasure, and relationships.  
+None of the them is more or less important.
+
+For someone acceptance mean surrender to God.  
+For another surrender your ego   
+For others it may be 
+drop results of Karma or    
+sit at the feet of Lord or    
+accept life as it is.  
+What is the meaning of surrender for you  
+Depends upon, how you evolved in your life.  
 
 
 Hari Om Tat Sat   
