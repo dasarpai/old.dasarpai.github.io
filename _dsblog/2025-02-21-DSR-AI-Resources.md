@@ -284,6 +284,8 @@ details[open] summary::before {
 | 23. | [labs.play-with -docker.com](https://labs.play-with-docker.com/\){:target="_blank"\} | DevOps & Cloud Development | Online Docker playground | Docker CLI | Container and DevOps testing |
 | 24. | [Pythonium.net](https://pythonium.net/\){:target="_blank"\} | Python-Specific | Backend & Full-Stack Development | Python | Development, and API testing |
 
+## [My Favorite Chrome Extensions](/dsblog/myfab-chrome-extensions) 
+Many of these resources are related to AI and some are normal productivity tools. I am maintaining them separately since quite a long time, so not mixing with this list. You can access that from [here](/dsblog/myfab-chrome-extensions)
 
 ## [My Bookmarked Blog Articles](/dsblog/mybookmark-blog-articles)
 This page already has become very long therefore moving bookmarked blog articles to another page. If you are interested you can visit the [My Bookmarked Blog Articles](/dsblog/mybookmark-blog-articles) page.

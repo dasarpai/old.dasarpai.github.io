@@ -8,7 +8,7 @@ date: 2024-10-03
 tags: [Hari Thapliyal, Projects]
 excerpt: "Image : Gallery"
 header:
-  [//]: # overlay_image: /assets/images/dasarpAI-Banner-LI.jpg
+  # overlay_image: /assets/images/dasarpAI-Banner-LI.jpg
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Gallery**](/gallery/)"
   actions:

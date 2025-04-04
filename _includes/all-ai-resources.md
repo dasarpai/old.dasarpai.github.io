@@ -74,6 +74,7 @@ These UI/consoles from different companies provide access to multiple models. De
 1. [www.quillpad.in/editor.htmlutm_source](http://www.quillpad.in/editor.htmlutm_source){:target="_blank"} :: (Text editor)
 1. [x.ai](https://x.ai){:target="_blank"}
 1. [you.com/chat](https://you.com/chat){:target="_blank"}
+1. [mindstudio.ai](https://www.mindstudio.ai/pricing){:target="_blank"}
 ## AI for Research & Education ##
 1. [aider.ai/advisors-pricing](https://www.aider.ai/advisors-pricing){:target="_blank"}
 1. [atomurl.net/math](https://atomurl.net/math)
@@ -225,6 +226,7 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [glitch.com](https://glitch.com)  :: A friendly hosting service for real-time collaborative development. Great for small full-stack apps (Node.js), allowing live editing and sharing with others in real-time.
 1. [infinityfree.net](https://www.infinityfree.net)  :: Classic free web hosting with unlimited bandwidth and disk (for PHP/HTML sites). Old-school but still useful for small static projects.
 ## AI / ML / Python-Focused Hosting ##
+1. [render.com](https://render.com/)
 1. [huggingface.co/spaces](https://huggingface.co/spaces)  :: Host ML demos using Gradio or Streamlit apps for free. GPU-backed support available for small demos and open-source projects.
 1. [streamlit.io](https://streamlit.io/)  :: Instant Python + AI app hosting (support for Streamlit, FastAPI, Gradio). Beautiful UI and simple CLI deployment. Free tier with compute limits.
 1. [modal.com](https://modal.com)  :: Serverless Python backend for ML inference and data apps. Not full hosting, but excellent for deploying model backends and workflows. First month $30 hosting free.
@@ -430,13 +432,6 @@ AssemblyAI, Deepgram, and Rev.ai lead in accuracy. Otter.ai, Fireflies, and Spea
 ## Desktop Image Tools ##
 1. [imagemagick.org](https://imagemagick.org/index.php){:target="_blank"}
 1. [gimp.org](https://www.gimp.org){:target="_blank"}
-## For image prompt inspiration  ##
-- [Midjourny - for image prompt inspiration](https://www.midjourney.com/explore?tab=top){:target="_blank"}
-- [Midjourny Discord](https://discord.com/channels/662267976984297473){:target="_blank"}
-- [stability.ai](https://stability.ai/stable-assistant){:target="_blank"}
-- [assistant.stability.ai/gallery](https://assistant.stability.ai/gallery){:target="_blank"}
-- [runwayml.com/](https://runwayml.com){:target="_blank"}
-- [civitai.green](https://civitai.green/
 ## AI for Design & Creativity ##
 1. [aiff.runwayml.com](https://aiff.runwayml.com){:target="_blank"}
 1. [alistapart.com](https://alistapart.com){:target="_blank"}
@@ -529,6 +524,23 @@ AssemblyAI, Deepgram, and Rev.ai lead in accuracy. Otter.ai, Fireflies, and Spea
 1. [wix.com/logo/maker/esh](https://www.wix.com/logo/maker/esh){:target="_blank"}
 1. [wordclouds.com](https://www.wordclouds.com){:target="_blank"}
 1. [worditout.com/word-cloud/create](https://worditout.com/word-cloud/create){:target="_blank"}
+1. [Freepik](https://www.freepik.com/)
+1. [Picjumbo](https://picjumbo.com/)
+1. [birme.net](https://www.birme.net/) :: Online tool to resize images to any specific dimension and crop them proportionately
+## Inspiration for image prompt ##
+- [Midjourny - for image prompt inspiration](https://www.midjourney.com/explore?tab=top){:target="_blank"}
+- [Midjourny Discord](https://discord.com/channels/662267976984297473){:target="_blank"}
+- [stability.ai](https://stability.ai/stable-assistant){:target="_blank"}
+- [assistant.stability.ai/gallery](https://assistant.stability.ai/gallery){:target="_blank"}
+- [runwayml.com/](https://runwayml.com){:target="_blank"}
+- [civitai.green](https://civitai.green/
+## Inspiration for Images ##
+1. [pexels.com](https://www.pexels.com){:target="_blank"}
+1. [unsplash.com](https://unsplash.com/)
+1. [pixabay.com](https://pixabay.com){:target="_blank"}
+1. [flickr.com/explore](https://www.flickr.com/explore){:target="_blank"}
+1. [Freepik](https://www.freepik.com/)
+1. [Picjumbo](https://picjumbo.com/)
 ## AI for Text-to-Video - Generator Tools ##
 1. [ai.invideo.io](https://ai.invideo.io){:target="_blank"}
 1. [app.fliki.ai/e](https://app.fliki.ai/e){:target="_blank"}
@@ -1122,7 +1134,6 @@ AssemblyAI, Deepgram, and Rev.ai lead in accuracy. Otter.ai, Fireflies, and Spea
 1. DSPy
 1. PDF Parsers
 1. Jinja
-
 
 
  
