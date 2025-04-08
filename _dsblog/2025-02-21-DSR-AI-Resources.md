@@ -94,7 +94,7 @@ This categorization captures the diverse applications of AI across various domai
       {% if category_name != "" and category_name != "No Resources Available" %}
         <details class="category">
           <summary>
-            <h2>{{ category_name }}</h2>
+            <h2 id="{{ category_name | slugify }}">{{ category_name }}</h2>
           </summary>
 
           <!-- Render descriptive paragraph if it exists -->
@@ -155,6 +155,11 @@ This categorization captures the diverse applications of AI across various domai
 </div>
 
 <style>
+html {
+  scroll-behavior: smooth;
+}
+
+
 .ai-resources-container {
   max-width: 900px;
   margin: 0 auto;

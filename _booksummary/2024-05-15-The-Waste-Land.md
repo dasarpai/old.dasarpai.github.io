@@ -17,7 +17,10 @@ share: true
 ---                            
                             
 ![The Waste Land](/assets/images/booksummary/7515-The-Waste-Land.jpg)                                 
-               
+
+# The Waste Land   
+
+## Introduction 
 T.S. Eliot's "The Waste Land" is heavily influenced by Indian Vedanta philosophy. The poem references the Upanishads, a collection of ancient Indian texts that are a central part of Vedanta philosophy, and incorporates elements of Hindu and Buddhist myths and symbols. Eliot's use of these references and symbols serves to convey the theme of spiritual and cultural decay in the modern world.
 
 "The Waste Land" is a long and complex poem that was published in 1922. It is considered one of the most important works of modernist literature, and its publication was a major event in the history of 20th century poetry.
@@ -31,7 +34,7 @@ Overall, the poem reflects the feelings of disillusionment and despair that were
 If you want to understand the poem in more detail, you might want to read it multiple times.
 
 			   
-# The Waste Land    
+ 
 			       
 ## I. The Burial of the Dead    
     

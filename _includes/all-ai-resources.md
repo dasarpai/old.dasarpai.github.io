@@ -873,11 +873,15 @@ AssemblyAI, Deepgram, and Rev.ai lead in accuracy. Otter.ai, Fireflies, and Spea
 1. [whatplugin.ai](https://www.whatplugin.ai){:target="_blank"}
 ## AI-Leaderboards ##
 1. [aider.chat/docs/leaderboards/#aider-llm-leaderboards](https://aider.chat/docs/leaderboards/#aider-llm-leaderboards){:target="_blank"}
+1. [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval)
+1. [ARC-AGI](https://arcprize.org/leaderboard)
 1. [evalplus.github.io/leaderboard.html](https://evalplus.github.io/leaderboard.html){:target="_blank"}
+1. [GAIA 2nd](https://huggingface.co/spaces/gaia-benchmark/leaderboard)
+1. [GAIA](https://hal.cs.princeton.edu/gaia) :: GAIA proposes real-world questions that require a set of fundamental abilities such as reasoning, multi-modality handling, web browsing, and generally tool-use proficiency.
 1. [huggingface.co/collections/clefourrier](https://huggingface.co/collections/clefourrier/leaderboards-and-benchmarks-64f99d2e11e92ca5568a7cce){:target="_blank"}
 1. [huggingface.co/spaces/ArtificialAnalysis/Text-to-Image-Leaderboard](https://huggingface.co/spaces/ArtificialAnalysis/Text-to-Image-Leaderboard){:target="_blank"}
-1. [huggingface.co/spaces/Krisseck/IFEval-Leaderboard](https://huggingface.co/spaces/Krisseck/IFEval-Leaderboard){:target="_blank"}
 1. [huggingface.co/spaces/bigcode/bigcode-models-leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard){:target="_blank"}
+1. [huggingface.co/spaces/Krisseck/IFEval-Leaderboard](https://huggingface.co/spaces/Krisseck/IFEval-Leaderboard){:target="_blank"}
 1. [huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard](https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard){:target="_blank"}
 1. [huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard){:target="_blank"}
 1. [huggingface.co/spaces/optimum/llm-perf-leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard){:target="_blank"}
@@ -885,6 +889,7 @@ AssemblyAI, Deepgram, and Rev.ai lead in accuracy. Otter.ai, Fireflies, and Spea
 1. [livebench.ai](https://livebench.ai){:target="_blank"}
 1. [llm.extractum.io/list/lbonly](https://llm.extractum.io/list/lbonly){:target="_blank"}
 1. [lmarena.ai/leaderboard](https://lmarena.ai/leaderboard){:target="_blank"}
+1. [Lmarena](https://lmarena.ai/?leaderboard)
 1. [openlm.ai/chatbot-arena](https://openlm.ai/chatbot-arena){:target="_blank"}
 ## AI Model Hubs ##
 1. [developers.google.com/mediapipe/solutions/model_maker](https://developers.google.com/mediapipe/solutions/model_maker){:target="_blank"}
@@ -896,7 +901,51 @@ AssemblyAI, Deepgram, and Rev.ai lead in accuracy. Otter.ai, Fireflies, and Spea
 1. [tfhub.dev](https://tfhub.dev){:target="_blank"}
 1. [alibabacloud.com/help/en/pai/user-guide/modelhub-model-repository](https://www.alibabacloud.com/help/en/pai/user-guide/modelhub-model-repository){:target="_blank"}
 1. [elinux.org/Jetson_Zoo#Model_Zoo](https://www.elinux.org/Jetson_Zoo#Model_Zoo){:target="_blank"}
-## Pedagogy Tools ##
+## Vector Databases##
+1. [www.pinecone.io](https://www.pinecone.io)  :: A fully managed, production-ready vector database with real-time indexing, metadata filtering, and seamless integration with AI frameworks like OpenAI and LangChain.
+1. [weaviate.io](https://weaviate.io)  ::  Open-source and cloud-native with built-in vectorizers, hybrid search, GraphQL API, and schema support for complex data relationships.
+1. [milvus.io](https://milvus.io)  ::  High-performance, billion-scale vector search engine supporting GPU acceleration and various indexing strategies, with both open-source and managed versions.
+1. [github.com/facebookresearch/faiss](https://github.com/facebookresearch/faiss)  :: A C++/Python library by Facebook for efficient vector similarity search, best for local use and custom pipelines (no persistence or metadata support).
+1. [vald.vdaas.org](https://vald.vdaas.org)  :: A scalable, Kubernetes-native vector search engine using NGT, offering self-healing and auto-scaling in distributed systems.
+1. [redis.io/docs/interact/search-and-query/vectors/](https://redis.io/docs/interact/search-and-query/vectors/)  :: Adds vector search to Redis, combining low-latency in-memory data with support for hybrid queries using HNSW or FLAT indexes.
+1. [www.trychroma.com](https://www.trychroma.com)  :: Lightweight and open-source, great for fast local development and experimentation, with a simple Python API and native LangChain support.
+1. [vespa.ai](https://vespa.ai)  :: A powerful search engine supporting vector + structured + textual data, real-time inference, and designed for large-scale recommendation systems.
+1. [qdrant.tech](https://qdrant.tech)  :: Open-source with a managed option, great for production workloads with filtering, metadata payloads, and integrations with LangChain.
+1. [www.marqo.ai](https://www.marqo.ai)  :: Multi-modal vector search engine (text + image), open-source with native indexing, ideal for content-rich applications.
+## Graph Databases##
+1. [neo4j.com](https://neo4j.com)  ::  The most popular and mature graph database with its own query language (Cypher). Ideal for complex relationships, real-time recommendations, fraud detection, and knowledge graphs. Offers both open-source and enterprise versions.
+1. [www.arangodb.com](https://www.arangodb.com)  ::   A multi-model database that supports graph, document, and key-value models in one engine. Great for flexibility, joins, and complex queries across different data types.
+1. [aws.amazon.com/neptune](https://aws.amazon.com/neptune) :: Fully managed graph database service by AWS. Supports open standards like Gremlin and SPARQL. Scalable and integrated with the AWS ecosystem for enterprise workloads.
+1. [www.orientdb.org](https://www.orientdb.org)  ::   Multi-model database combining graph, document, object, and key/value models. ACID-compliant with SQL-like syntax and strong support for complex relationships.
+1. [www.tigergraph.com](https://www.tigergraph.com)  ::   High-performance, distributed graph database focused on large-scale analytics. Designed for deep-link analysis and real-time insights with its GSQL query language.
+1. [janusgraph.org](https://janusgraph.org)  ::   Open-source, scalable graph database optimized for storing and querying large graphs. Integrates with big data stacks like Hadoop, Cassandra, HBase, and supports Gremlin.
+1. [dgraph.io](https://dgraph.io)  ::   Native, distributed graph database with GraphQL as its primary query language. High-performance and horizontally scalable, ideal for modern app development.
+1. [azure.microsoft.com/en-us/products/cosmos-db](https://azure.microsoft.com/en-us/products/cosmos-db)  ::   Microsoft’s globally distributed NoSQL DB offering graph support via the Gremlin API. Managed, scalable, and part of the Azure ecosystem for seamless integration.
+1. [oss.redis.com/redisgraph](https://oss.redis.com/redisgraph)  ::   A graph database module for Redis that uses Cypher and delivers extremely fast query execution by compiling queries into low-level operations.
+1. [www.ontotext.com/products/graphdb](https://www.ontotext.com/products/graphdb)  ::   RDF-based graph database for linked data and semantic web applications. Excellent for building knowledge graphs with SPARQL support.
+## Document Database## 
+1. [www.mongodb.com](https://www.mongodb.com)  ::  The most popular NoSQL document database with flexible schemas, high scalability, and rich tooling. Ideal for modern web, mobile, and real-time applications.
+1. [www.couchbase.com](https://www.couchbase.com)  ::  Distributed document and key-value database offering SQL-like queries (N1QL), built-in caching, full-text search, and mobile sync capabilities.
+1. [aws.amazon.com/documentdb](https://aws.amazon.com/documentdb)  :: Fully managed MongoDB-compatible database on AWS, providing high availability, scalability, and automated backups for enterprise use.
+1. [couchdb.apache.org](https://couchdb.apache.org)  ::  Open-source document store with a RESTful interface, offline-first syncing capabilities, and reliable replication using JSON and MapReduce.
+1. [firebase.google.com/products/firestore](https://firebase.google.com/products/firestore) :: Serverless NoSQL database by Google for real-time syncing, deeply integrated with Firebase Auth and Cloud Functions, perfect for mobile/web apps.
+1. [www.arangodb.com](https://www.arangodb.com)  ::  Multi-model database combining document, graph, and key-value data in one engine with a unified query language (AQL).
+1. [ravendb.net](https://ravendb.net) :: ACID-compliant NoSQL document database with full-text search, data subscriptions, and an intuitive UI. Suitable for enterprise-grade apps.
+1. [www.marklogic.com](https://www.marklogic.com)  ::  Enterprise-grade document database with integrated search, semantic data handling, and advanced security features for critical data apps.
+1. [www.oracle.com/database/nosql](https://www.oracle.com/database/nosql) :: Oracle’s scalable NoSQL offering with document support, suitable for enterprise use cases needing Oracle ecosystem integration.
+1. [azure.microsoft.com/en-us/products/cosmos-db](https://azure.microsoft.com/en-us/products/cosmos-db) :: Globally distributed NoSQL database with support for multiple APIs including MongoDB, Gremlin, and SQL. Offers auto-scaling and low-latency access.
+## Time Series Databases## 
+1. [www.influxdata.com](https://www.influxdata.com)  ::  **InfluxDB** is the most widely used time-series database, purpose-built for high write throughput, downsampling, and real-time analytics with SQL-like query language (Flux/InfluxQL).
+1. [www.timescale.com](https://www.timescale.com)  ::  **TimescaleDB** is a time-series database built on PostgreSQL. It combines SQL support with time-series optimizations like compression, continuous aggregates, and automatic partitioning.
+1. [prometheus.io](https://prometheus.io)  ::  Designed for monitoring and alerting, **Prometheus** stores time-series data with a powerful query language (PromQL) and integrates seamlessly with Grafana and Kubernetes.
+1. [opentsdb.net](https://opentsdb.net)  ::  **OpenTSDB** is a distributed, scalable time-series database built on top of HBase. It is ideal for long-term storage and analysis of massive datasets.
+1. [questdb.io](https://questdb.io)  ::  High-performance time-series database written in Java with SQL support and ultra-fast ingestion, ideal for financial data, IoT, and telemetry workloads.
+1. [druid.apache.org](https://druid.apache.org)  ::  **Apache Druid** is a real-time analytics database optimized for ingesting and querying time-series and event data with sub-second latency and OLAP-style queries.
+1. [grafana.com/oss/loki/](https://grafana.com/oss/loki/)  ::  While not a full time-series DB, **Loki** is a log aggregation system by Grafana that pairs with Prometheus for storing time-series logs with timestamp indexing.
+1. [kdb.ai](https://kdb.ai)  ::  KDB is a high-performance time-series database widely used in finance and trading for complex analytics over large-scale time-series data. 
+1. [www.tdengine.com](https://www.tdengine.com)  ::  Purpose-built time-series database optimized for IoT, with built-in caching, stream processing, and minimal storage footprint.
+1. [www.axiom.co](https://www.axiom.co)  ::  Cloud-native, real-time analytics platform that treats logs and events as time-series data. Great for observability and modern DevOps workflows.
+## Pedagogy Tools##
 1. [http://camstudio.org](http://camstudio.org){:target="_blank"}
 1. [http://www.pointerfocus.com](http://www.pointerfocus.com){:target="_blank"}
 1. [http://www.wiris.com/en/mathtype](http://www.wiris.com/en/mathtype){:target="_blank"}
@@ -1122,18 +1171,18 @@ AssemblyAI, Deepgram, and Rev.ai lead in accuracy. Otter.ai, Fireflies, and Spea
 1. Python Dotenv
 1. FastAPI
 1. Celery
-1. Databases
 1. SQLAlchemy
 1. Alembic
 1. Pandas
-1. LLM Model Providers
-1. Instructor
-1. LLM Frameworks
-1. Vector Databases
-1. Observability
 1. DSPy
 1. PDF Parsers
 1. Jinja
+1. LLM Model Providers
+1. Instructor
+1. Databases
+1. LLM Frameworks
+1. Vector Databases
+1. Observability
 
 
  
