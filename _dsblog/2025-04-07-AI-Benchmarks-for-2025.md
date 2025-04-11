@@ -2,7 +2,7 @@
 mathjax: true
 id: 6256
 title: "AI Benchmarks for 2025"
-date: 2025-04-07
+date: 2025-04-09
 permalink: /dsblog/ai-benchmarks-2025
 tags:
   - AI Benchmarks 2025

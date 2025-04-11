@@ -901,7 +901,7 @@ AssemblyAI, Deepgram, and Rev.ai lead in accuracy. Otter.ai, Fireflies, and Spea
 1. [tfhub.dev](https://tfhub.dev){:target="_blank"}
 1. [alibabacloud.com/help/en/pai/user-guide/modelhub-model-repository](https://www.alibabacloud.com/help/en/pai/user-guide/modelhub-model-repository){:target="_blank"}
 1. [elinux.org/Jetson_Zoo#Model_Zoo](https://www.elinux.org/Jetson_Zoo#Model_Zoo){:target="_blank"}
-## Vector Databases##
+## Vector Databases ##
 1. [www.pinecone.io](https://www.pinecone.io)  :: A fully managed, production-ready vector database with real-time indexing, metadata filtering, and seamless integration with AI frameworks like OpenAI and LangChain.
 1. [weaviate.io](https://weaviate.io)  ::  Open-source and cloud-native with built-in vectorizers, hybrid search, GraphQL API, and schema support for complex data relationships.
 1. [milvus.io](https://milvus.io)  ::  High-performance, billion-scale vector search engine supporting GPU acceleration and various indexing strategies, with both open-source and managed versions.
@@ -912,7 +912,7 @@ AssemblyAI, Deepgram, and Rev.ai lead in accuracy. Otter.ai, Fireflies, and Spea
 1. [vespa.ai](https://vespa.ai)  :: A powerful search engine supporting vector + structured + textual data, real-time inference, and designed for large-scale recommendation systems.
 1. [qdrant.tech](https://qdrant.tech)  :: Open-source with a managed option, great for production workloads with filtering, metadata payloads, and integrations with LangChain.
 1. [www.marqo.ai](https://www.marqo.ai)  :: Multi-modal vector search engine (text + image), open-source with native indexing, ideal for content-rich applications.
-## Graph Databases##
+## Graph Databases ##
 1. [neo4j.com](https://neo4j.com)  ::  The most popular and mature graph database with its own query language (Cypher). Ideal for complex relationships, real-time recommendations, fraud detection, and knowledge graphs. Offers both open-source and enterprise versions.
 1. [www.arangodb.com](https://www.arangodb.com)  ::   A multi-model database that supports graph, document, and key-value models in one engine. Great for flexibility, joins, and complex queries across different data types.
 1. [aws.amazon.com/neptune](https://aws.amazon.com/neptune) :: Fully managed graph database service by AWS. Supports open standards like Gremlin and SPARQL. Scalable and integrated with the AWS ecosystem for enterprise workloads.
@@ -923,7 +923,7 @@ AssemblyAI, Deepgram, and Rev.ai lead in accuracy. Otter.ai, Fireflies, and Spea
 1. [azure.microsoft.com/en-us/products/cosmos-db](https://azure.microsoft.com/en-us/products/cosmos-db)  ::   Microsoft’s globally distributed NoSQL DB offering graph support via the Gremlin API. Managed, scalable, and part of the Azure ecosystem for seamless integration.
 1. [oss.redis.com/redisgraph](https://oss.redis.com/redisgraph)  ::   A graph database module for Redis that uses Cypher and delivers extremely fast query execution by compiling queries into low-level operations.
 1. [www.ontotext.com/products/graphdb](https://www.ontotext.com/products/graphdb)  ::   RDF-based graph database for linked data and semantic web applications. Excellent for building knowledge graphs with SPARQL support.
-## Document Database## 
+## Document Database ##
 1. [www.mongodb.com](https://www.mongodb.com)  ::  The most popular NoSQL document database with flexible schemas, high scalability, and rich tooling. Ideal for modern web, mobile, and real-time applications.
 1. [www.couchbase.com](https://www.couchbase.com)  ::  Distributed document and key-value database offering SQL-like queries (N1QL), built-in caching, full-text search, and mobile sync capabilities.
 1. [aws.amazon.com/documentdb](https://aws.amazon.com/documentdb)  :: Fully managed MongoDB-compatible database on AWS, providing high availability, scalability, and automated backups for enterprise use.
@@ -934,7 +934,7 @@ AssemblyAI, Deepgram, and Rev.ai lead in accuracy. Otter.ai, Fireflies, and Spea
 1. [www.marklogic.com](https://www.marklogic.com)  ::  Enterprise-grade document database with integrated search, semantic data handling, and advanced security features for critical data apps.
 1. [www.oracle.com/database/nosql](https://www.oracle.com/database/nosql) :: Oracle’s scalable NoSQL offering with document support, suitable for enterprise use cases needing Oracle ecosystem integration.
 1. [azure.microsoft.com/en-us/products/cosmos-db](https://azure.microsoft.com/en-us/products/cosmos-db) :: Globally distributed NoSQL database with support for multiple APIs including MongoDB, Gremlin, and SQL. Offers auto-scaling and low-latency access.
-## Time Series Databases## 
+## Time Series Databases ##
 1. [www.influxdata.com](https://www.influxdata.com)  ::  **InfluxDB** is the most widely used time-series database, purpose-built for high write throughput, downsampling, and real-time analytics with SQL-like query language (Flux/InfluxQL).
 1. [www.timescale.com](https://www.timescale.com)  ::  **TimescaleDB** is a time-series database built on PostgreSQL. It combines SQL support with time-series optimizations like compression, continuous aggregates, and automatic partitioning.
 1. [prometheus.io](https://prometheus.io)  ::  Designed for monitoring and alerting, **Prometheus** stores time-series data with a powerful query language (PromQL) and integrates seamlessly with Grafana and Kubernetes.
@@ -945,7 +945,7 @@ AssemblyAI, Deepgram, and Rev.ai lead in accuracy. Otter.ai, Fireflies, and Spea
 1. [kdb.ai](https://kdb.ai)  ::  KDB is a high-performance time-series database widely used in finance and trading for complex analytics over large-scale time-series data. 
 1. [www.tdengine.com](https://www.tdengine.com)  ::  Purpose-built time-series database optimized for IoT, with built-in caching, stream processing, and minimal storage footprint.
 1. [www.axiom.co](https://www.axiom.co)  ::  Cloud-native, real-time analytics platform that treats logs and events as time-series data. Great for observability and modern DevOps workflows.
-## Pedagogy Tools##
+## Pedagogy Tools ##
 1. [http://camstudio.org](http://camstudio.org){:target="_blank"}
 1. [http://www.pointerfocus.com](http://www.pointerfocus.com){:target="_blank"}
 1. [http://www.wiris.com/en/mathtype](http://www.wiris.com/en/mathtype){:target="_blank"}
@@ -963,7 +963,7 @@ AssemblyAI, Deepgram, and Rev.ai lead in accuracy. Otter.ai, Fireflies, and Spea
 1. [mentimeter.com](https://www.mentimeter.com){:target="_blank"}
 1. [movavi.com](https://www.movavi.com){:target="_blank"}
 1. [rawshorts.com](https://www.rawshorts.com){:target="_blank"}
-## Assorted/Business/CRM+ Tools##
+## Assorted/Business/CRM+ Tools ##
 1. [jotform.com/myforms](https://www.jotform.com/myforms){:target="_blank"}  :: Form builder
 1. [kickresume.com/en](https://www.kickresume.com/en){:target="_blank"}  :: Resume builder
 1. [slack.com/intl/en-in](https://slack.com/intl/en-in){:target="_blank"}  :: Team communication

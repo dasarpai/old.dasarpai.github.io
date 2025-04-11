@@ -7,11 +7,11 @@ permalink: '/pmblog/User-Story'
 header:
    teaser: /assets/images/pmblog//1036-UserStory.jpg
 tags:
-    - 'Agile Terms'
+   'Agile Terms'
 categories:
-  - pmblog
+    pmblog
 toc: true   
-toc_sticky: true	
+toc_sticky: true
 layout: pmblog-layout 
 ---
 

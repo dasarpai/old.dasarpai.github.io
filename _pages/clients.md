@@ -36,7 +36,7 @@ Companies, where I did Inhouse training or People Participated in my Open House 
 ![JPMorgan](/assets/images/clients/BFSI-JPMorgan-min.jpg){: width="145"} | ![Tata AIG](/assets/images/clients/BFSI-Tata-AIG-Logo-min.jpg){: width="145"}
 
 ## Consulting, Training & Education
-![Accenture](/assets/images/clients/cons-Accenture-Logo-min.jpg){: width="145"} | ![KPMG](/assets/images/clients/cons-KPMG-min.jpg){: width="145"}{: width="145"} | ![Vinsys](/assets/images/clients/cons-Vinsys-min.jpg){: width="145"} | ![QAI](/assets/images/clients/cons-qai.jpg){: width="145"}
+![Accenture](/assets/images/clients/cons-Accenture-Logo-min.jpg){: width="145"} | ![KPMG](/assets/images/clients/cons-KPMG-min.jpg){: width="145"} | ![Vinsys](/assets/images/clients/cons-Vinsys-min.jpg){: width="145"} | ![QAI](/assets/images/clients/cons-qai.jpg){: width="145"}
 ![Allsys Services](/assets/images/clients/cons-allsysServices.jpg){: width="145"} | ![Pyramid Consulting](/assets/images/clients/cons-Pyramid-Consulting-Logo-min.jpg){: width="145"} | ![Sage Tech](/assets/images/clients/cons-Sage-Tech-min.jpg){: width="145"} | ![Future Focus](/assets/images/clients/cons-FutureFocus-min.jpg){: width="145"} | ![upGrad](/assets/images/clients/cons-upGrad.jpg){: width="145"}
 
 ## Engineering & Government
