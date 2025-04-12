@@ -234,6 +234,43 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [anvil.works](https://anvil.works)  :: Full-stack Python web apps with a drag-and-drop UI builder. Great for building internal tools or simple dashboards using only Python.
 1. [pythonanywhere.com](https://www.pythonanywhere.com)  :: Easy hosting for Python (Flask, Django) apps. Min $5/pm
 1. [hostinger.com/](https://www.hostinger.com/)  :: All kind of hosting, but paid.
+## Automation & Workflow Tools ##
+1. [n8n.io](https://n8n.io) :: Workflow automation tool with open-source self-hosting and extensive integrations.
+1. [github.com/huginn/huginn](https://github.com/huginn/huginn) :: Automates tasks online; acts like a personal assistant that triggers actions based on events.
+1. [nodered.org](https://nodered.org) :: Flow-based development tool for wiring hardware devices, APIs, and online services.
+1. [pipedream.com](https://pipedream.com) :: Integration platform for building event-driven workflows using code and APIs.
+1. [www.activepieces.com](https://www.activepieces.com) :: Open-source Zapier alternative for business automation.
+1. [windmill.dev](https://windmill.dev) :: Script-based workflow and job automation platform using Python and TypeScript.
+1. [cozy.io/en](https://cozy.io/en) :: Personal cloud platform with automation of personal data from banks, health, etc.
+## AI Workflow Orchestration & Agent Platforms ##
+1. [dify.ai](https://dify.ai) :: LLM app development & management platform with GUI and API support for chatbots and agents.
+1. [github.com/logspace-ai/langflow](https://github.com/logspace-ai/langflow) :: Visual framework for building LLM workflows with LangChain.
+1. [flowiseai.com](https://flowiseai.com) :: Drag-and-drop tool for creating LLM-based apps and agents visually (built on LangChain).
+1. [github.com/joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) :: Agent-based task orchestration where multiple LLM agents collaborate to complete tasks.
+1. [superagent.sh](https://superagent.sh) :: Platform for managing AI agents with memory, tools, and APIs.
+1. [dust.tt](https://dust.tt) :: AI workspace to build and deploy agents that connect to company data and APIs.
+## AI-Powered Integration Platforms ##
+1. [zapier.com/labs/ai](https://zapier.com/labs/ai) :: Natural language-driven automation builder within the Zapier ecosystem.
+1. [parabola.io](https://parabola.io) :: No-code automation for data workflows, often used in e-commerce and ops.
+1. [www.levity.ai](https://www.levity.ai) :: Automate workflows with AI that understands documents, images, and text.
+1. [www.relay.app](https://www.relay.app) :: Collaborative workflow automation platform with human-in-the-loop approvals.
+1. [www.bardeen.ai](https://www.bardeen.ai) :: Browser-based AI automation for repetitive desktop/web tasks.
+## 🌐 Browser-Use AI Agents ##
+ A "browser user AI agent" refers to an AI system that can interact with web browsers, mimicking human-like browsing behavior to automate tasks and extract information from websites. These agents leverage browser automation libraries like Playwright to perform actions such as navigating, clicking buttons, filling forms, and extracting data. These act as sidebars, overlays, or assistants directly inside your browser.
+1. [monica.im](https://monica.im)  :: Free. ChatGPT-powered sidebar agent that reads context from any webpage. Great for summarizing, translating, or replying.
+1. [harpa.ai](https://harpa.ai)  :: Free. AI agent that automates tasks like scraping, summarizing, searching, and form-filling on websites.
+1. [wiseone.io](https://wiseone.io)  :: Free. Reading and comprehension agent that enhances articles with summaries, definitions, and related info.
+1. [sider.ai](https://sider.ai)  :: Free (limited). Multimodal assistant overlay with support for ChatGPT, Claude, and Bing — works on any browser content.
+1. [getmerlin.in](https://www.getmerlin.in)  :: Free. Brings ChatGPT to Chrome; works with a shortcut to summarize, write, or reply anywhere online.
+1. [rewind.ai](https://www.rewind.ai)  :: Paid (macOS). Browser + system memory assistant that you can query like a timeline of your digital life.
+## 💻 Computer-Use AI Agents ## 
+These work across your operating system — not just in the browser.
+1. [microsoft.com/en-us/windows/copilot](https://www.microsoft.com/en-us/windows/copilot)  :: Free (Windows 11). Built-in AI assistant to help with settings, writing, and Bing Chat integration system-wide.
+1. [macgpt.com](https://macgpt.com)  :: Free. System-wide ChatGPT assistant for macOS with global hotkey access.
+1. [raycast.com](https://raycast.com)  :: Free (with pro tier). Command bar with AI agent for workflows, text generation, and queries — macOS only.
+1. [alfredapp.com](https://www.alfredapp.com)  ::  Free. macOS automation agent, extendable with GPT-based custom scripts.
+1. [sider.ai](https://sider.ai)  ::  Free (limited). Persistent AI agent that floats over any window — can summarize PDFs, write in Notepad, etc.
+1. [github.com/Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)  :: Free, Self-Hosted. Autonomous AI agents that plan and execute tasks via code on your machine. More technical to run.
 ## Valuable Docker Images ##
 1. docker pull raychan239/picsmaller - Pic Smaller is a super easy-to-use online image compression tool.
 1. docker pull frooodle/s-pdf - A robust, locally hosted web-based PDF manipulation tool using Docker. It enables you to carry out various operations on PDF files.
