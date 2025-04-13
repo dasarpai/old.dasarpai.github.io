@@ -1,7 +1,7 @@
 ---    
 id: 4053    
 mathjax: true    
-title: 'श्रीशिवपञ्चाक्षरस्तोत्रम्'    
+title: 'Shri Shivpanchaakshari Stotram - श्रीशिवपञ्चाक्षरस्तोत्रम्'    
 date: 2020-04-26    
 layout: samskrut-layout 
 permalink: /samskrutyatra/shri-shivpanchaakshari-stotram

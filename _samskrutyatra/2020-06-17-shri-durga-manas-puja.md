@@ -1,7 +1,7 @@
 ---    
 id: 4149    
 mathjax: true    
-title: 'श्रीदुर्गामानस-पूजा'    
+title: 'Shri Durga Manas Puja - श्रीदुर्गामानस-पूजा'    
 date: 2020-06-17    
 layout: samskrut-layout 
 permalink: /samskrutyatra/shri-durga-manas-puja

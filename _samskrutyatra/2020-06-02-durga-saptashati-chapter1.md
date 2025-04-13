@@ -1,7 +1,7 @@
 ---    
 id: 4133    
 mathjax: true    
-title: 'श्रीदुर्गासप्तशती - प्रथमोऽध्यायः'    
+title: 'Durga Saptashati Chapter 1 - श्रीदुर्गासप्तशती - प्रथमोऽध्यायः'    
 date: 2020-06-02    
 layout: samskrut-layout 
 permalink: /samskrutyatra/durga-saptashati-chapter1

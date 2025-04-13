@@ -1,7 +1,7 @@
 ---    
 id: 4081    
 mathjax: true    
-title: 'लक्ष्मीनृसिंह करावलम्ब स्तोत्र'    
+title: 'Lakshmi Nrusimha Karavalamba Stotram - लक्ष्मीनृसिंह करावलम्ब स्तोत्र'    
 date: 2020-05-07   
 layout: samskrut-layout 
 permalink: /samskrutyatra/lakshmi-nrusimha-karavalamba-stotram

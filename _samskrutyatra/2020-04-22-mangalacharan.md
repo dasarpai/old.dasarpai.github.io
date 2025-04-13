@@ -1,7 +1,7 @@
 ---    
 id: 4045    
 mathjax: true    
-title: 'मङ्गलाचरणम्'    
+title: 'Mangalacharan - मङ्गलाचरणम्'    
 date: 2020-04-22    
 layout: samskrut-layout 
 permalink: /samskrutyatra/mangalacharan

@@ -1,7 +1,7 @@
 ---    
 id: 4078    
 mathjax: true    
-title: 'अमृतबिन्दुपनिषत्'    
+title: 'AmrutBindu Upanishad  - अमृतबिन्दुपनिषत्'    
 date: 2020-04-30    
 layout: samskrut-layout 
 permalink: /samskrutyatra/amrutbindu-upanishad

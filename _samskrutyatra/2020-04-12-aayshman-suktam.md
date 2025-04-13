@@ -1,7 +1,7 @@
 ---    
 id: 4018    
 mathjax: true    
-title: 'आयुष्य सूक्तम्'    
+title: 'Aayshman Suktam - आयुष्य सूक्तम्'    
 date: 2020-04-12    
 layout: samskrut-layout 
 permalink: /samskrutyatra/aayshman-suktam

@@ -1,7 +1,7 @@
 ---    
 id: 4125    
 mathjax: true    
-title: 'छान्दोग्योपनिषत् पञ्चमोऽध्यायः'    
+title: 'Chandogyopnishad 5 - छान्दोग्योपनिषत् पञ्चमोऽध्यायः'    
 date: 2020-05-21    
 layout: samskrut-layout 
 permalink: /samskrutyatra/chandogyopnishad-5

@@ -1,7 +1,7 @@
 ---    
 id: 4061    
 mathjax: true    
-title: 'श्रीशिवमहिम्नस्तोत्र'    
+title: 'Shri Shiv Mahimna Stotram - श्रीशिवमहिम्नस्तोत्र'    
 date: 2020-04-28    
 layout: samskrut-layout 
 permalink: /samskrutyatra/shiv-mahimnstotra

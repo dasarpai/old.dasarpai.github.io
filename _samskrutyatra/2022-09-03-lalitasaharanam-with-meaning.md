@@ -1,7 +1,7 @@
 ---    
 id: 4170    
 mathjax: true    
-title: 'Lalitasahasranamam with Meaning'    
+title: 'Lalitasahasranamam with Meaning - ललितासहस्रनामं'    
 date: 2022-09-03    
 layout: samskrut-layout 
 permalink: /samskrutyatra/lalitasahasranam-with-meaning

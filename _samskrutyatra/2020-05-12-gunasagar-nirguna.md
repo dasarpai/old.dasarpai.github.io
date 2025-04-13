@@ -1,7 +1,7 @@
 ---
 id: 4108    
 mathjax: true
-title: 'गुणसागर निर्गुण परमेशा'
+title: 'Gunasagar Nirguna Paramesha - गुणसागर निर्गुण परमेशा'
 date: 2020-05-12
 layout: samskrut-layout 
 permalink: /samskrutyatra/gunasagar-nirguna

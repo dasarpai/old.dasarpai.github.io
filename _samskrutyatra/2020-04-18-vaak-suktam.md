@@ -1,7 +1,7 @@
 ---    
 id: 4030    
 mathjax: true    
-title: 'वाक्सूक्तम्'    
+title: 'Vaak Suktam - वाक्सूक्तम्'    
 date: 2020-04-18    
 layout: samskrut-layout 
 permalink: /samskrutyatra/vaak-suktam

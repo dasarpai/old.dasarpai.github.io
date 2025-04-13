@@ -1,7 +1,7 @@
 ---    
 id: 4076    
 mathjax: true    
-title: 'आत्मोपनिषत्'    
+title: 'Aatmopnishad - आत्मोपनिषत्'    
 date: 2020-04-30    
 layout: samskrut-layout 
 permalink: /samskrutyatra/aatmopnishad

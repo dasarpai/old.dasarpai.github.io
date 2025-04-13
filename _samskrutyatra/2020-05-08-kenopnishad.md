@@ -1,7 +1,7 @@
 ---    
 id: 4095    
 mathjax: true    
-title: 'अथ केनोपनिषत्'    
+title: 'Kenopnishad - केनोपनिषत्'    
 date: 2020-05-08    
 layout: samskrut-layout 
 permalink: /samskrutyatra/kenopnishad
@@ -22,7 +22,7 @@ share: true
     
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
-# अथ केनोपनिषत्    
+# केनोपनिषत्    
 ## Kenopnishad    
     
 ॐ आप्यायन्तु ममाङ्गानि वाक्प्राणश्चक्षुः    

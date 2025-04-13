@@ -1,7 +1,7 @@
 ---    
 id: 4046    
 mathjax: true    
-title: 'श्री काल भैरव अष्टकम्‌'    
+title: 'Shri Kaal Bhairav Ashtakam - श्री काल भैरव अष्टकम्‌'    
 date: 2020-04-22    
 layout: samskrut-layout 
 permalink: /samskrutyatra/shri-kaal-bhairav-ashta

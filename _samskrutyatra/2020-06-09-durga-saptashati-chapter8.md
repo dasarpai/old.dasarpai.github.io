@@ -1,7 +1,7 @@
 ---    
 id: 4140    
 mathjax: true    
-title: 'श्रीदुर्गासप्तशती - अष्टमोऽध्यायः'    
+title: 'Durga Saptashati Chapter 8 - श्रीदुर्गासप्तशती - अष्टमोऽध्यायः'    
 date: 2020-06-09    
 layout: samskrut-layout 
 permalink: /samskrutyatra/durga-saptashati-chapter8

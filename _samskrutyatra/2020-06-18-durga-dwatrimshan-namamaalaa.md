@@ -1,7 +1,7 @@
 ---    
 id: 4150    
 mathjax: true    
-title: 'अथ दुर्गाद्वात्रिंशन्नाममाला'    
+title: 'Durga DwaTrimShan NamaMaalaa - अथ दुर्गाद्वात्रिंशन्नाममाला'    
 date: 2020-06-18    
 layout: samskrut-layout 
 permalink: /samskrutyatra/durga-dwatrimshan-namamaalaa

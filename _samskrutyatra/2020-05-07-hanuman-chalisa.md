@@ -1,7 +1,7 @@
 ---    
 id: 4087    
 mathjax: true    
-title: 'हनुमान चालीसा'    
+title: 'Hanuman Chalisa - हनुमान चालीसा'    
 date: 2020-05-07    
 layout: samskrut-layout 
 permalink: /samskrutyatra/hanuman-chalisa

@@ -1,7 +1,7 @@
 ---    
 id: 4085    
 mathjax: true    
-title: 'क्षमा-प्रार्थना'    
+title: 'Devi Kshama Prarthana - क्षमा-प्रार्थना'    
 date: 2020-05-07    
 layout: samskrut-layout 
 permalink: /samskrutyatra/devi-kshama-prarthana

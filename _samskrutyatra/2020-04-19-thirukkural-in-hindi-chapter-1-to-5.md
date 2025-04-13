@@ -1,7 +1,7 @@
 ---    
 id: 4034    
 mathjax: true    
-title: 'तिरुक्कूरळ Chapter 1-5'    
+title: 'Thirukkural in Hindi Chapter 1 to 5 - तिरुक्कूरळ'    
 date: 2020-04-19    
 layout: samskrut-layout 
 permalink: /samskrutyatra/thirukkural-in-hindi-chapter-1-to-5

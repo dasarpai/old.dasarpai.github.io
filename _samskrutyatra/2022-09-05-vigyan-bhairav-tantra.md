@@ -1,7 +1,7 @@
 ---    
 id: 4171    
 mathjax: true    
-title: 'विज्ञान भैरव तंत्र के सूत्र'    
+title: 'Vijnana Bhairava Tantra Sutras - विज्ञान भैरव तंत्र के सूत्र'    
 date: 2022-09-05    
 layout: samskrut-layout 
 permalink: /samskrutyatra/vigyan-bhairav-tantra

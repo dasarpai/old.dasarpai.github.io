@@ -1,7 +1,7 @@
 ---    
 id: 4027    
 mathjax: true    
-title: 'देवीकवचम्'    
+title: 'Devi Kavacham - देवीकवचम्'    
 date: 2020-04-18    
 layout: samskrut-layout 
 permalink: /samskrutyatra/devi-kavacham

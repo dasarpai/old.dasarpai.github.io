@@ -1,7 +1,7 @@
 ---    
 id: 4041    
 mathjax: true    
-title: 'तैत्तिरीयोपनिषत् सस्वरा - द्वितीया ब्रह्मानन्दवल्ली'    
+title: 'Taitriya Upnishad Brahmananda Valli - तैत्तिरीयोपनिषत् सस्वरा - द्वितीया ब्रह्मानन्दवल्ली'    
 date: 2020-04-21    
 layout: samskrut-layout 
 permalink: /samskrutyatra/taitriya-upnishad-brahmananda-valli

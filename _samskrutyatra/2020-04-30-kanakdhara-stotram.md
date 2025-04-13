@@ -1,7 +1,7 @@
 ---    
 id: 4071    
 mathjax: true    
-title: 'कनकधारा स्तोत्रं'    
+title: 'Kanakdhara Stotram - कनकधारा स्तोत्रं'    
 date: 2020-04-30    
 layout: samskrut-layout 
 permalink: /samskrutyatra/kanakdhara-stotram

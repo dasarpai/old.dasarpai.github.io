@@ -1,7 +1,7 @@
 ---    
 id: 4088    
 mathjax: true    
-title: 'संकटमोचन हनुमानाष्टक'    
+title: 'Sankat Mochan HanumanAshtakam  - संकटमोचन हनुमानाष्टक'    
 date: 2020-05-07    
 layout: samskrut-layout 
 permalink: /samskrutyatra/sankat-mochan-hanumanasht

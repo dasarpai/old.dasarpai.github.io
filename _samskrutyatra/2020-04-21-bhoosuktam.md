@@ -1,7 +1,7 @@
 ---    
 id: 4037    
 mathjax: true    
-title: 'भूसूक्तम्'    
+title: 'भूसूक्तम्  - भूसूक्तम्'    
 date: 2020-04-21    
 layout: samskrut-layout 
 permalink: /samskrutyatra/bhoosuktam

@@ -1,7 +1,7 @@
 ---    
 id: 4137    
 mathjax: true    
-title: 'श्रीदुर्गासप्तशती - पञ्चमोऽध्यायः'    
+title: 'Durga Saptashati Chapter 5 - श्रीदुर्गासप्तशती - पञ्चमोऽध्यायः'    
 date: 2020-06-06    
 layout: samskrut-layout 
 permalink: /samskrutyatra/durga-saptashati-chapter5

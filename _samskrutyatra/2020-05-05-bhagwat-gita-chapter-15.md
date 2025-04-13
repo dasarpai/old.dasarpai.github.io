@@ -1,7 +1,7 @@
 ---    
 id: 4112    
 mathjax: true    
-title: 'श्रीमद्भगवद्गीता पञ्चदशोऽध्यायः - पुरुषोत्तमयोगः'    
+title: 'Bhagwat Gita Chapter 15 - श्रीमद्भगवद्गीता पञ्चदशोऽध्यायः - पुरुषोत्तमयोगः'    
 date: 2020-05-05    
 layout: samskrut-layout 
 permalink: /samskrutyatra/bhagwat-gita-chapter-15

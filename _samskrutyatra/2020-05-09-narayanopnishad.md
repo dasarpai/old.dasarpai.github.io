@@ -1,7 +1,7 @@
 ---    
 id: 4102    
 mathjax: true    
-title: 'नारायणोपनिषत्'    
+title: 'Narayanopnishad - नारायणोपनिषत्'    
 date: 2020-05-09    
 layout: samskrut-layout 
 permalink: /samskrutyatra/narayanopnishad

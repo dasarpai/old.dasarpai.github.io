@@ -1,7 +1,7 @@
 ---
 id: 4006    
 mathjax: true
-title: 'गीतांजली'
+title: 'Gitanjali - गीतांजली'
 date: 2020-03-13
 layout: samskrut-layout 
 permalink: /samskrutyatra/geetanjali

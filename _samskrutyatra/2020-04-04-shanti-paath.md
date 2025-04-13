@@ -1,7 +1,7 @@
 ---
 id: 4012    
 mathjax: true
-title: 'शान्तिपाठः'
+title: 'Shanti Patha - शान्तिपाठः'
 date: 2020-04-04
 layout: samskrut-layout 
 permalink: /samskrutyatra/shanti-paath
@@ -26,10 +26,8 @@ share: true
 {% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/062-ShantiPaath.mp3"%} 
 
 # शान्तिपाठः 
-===========
 
 ## Shanti Paath
-------------
 
 शान्तिपाठः
 

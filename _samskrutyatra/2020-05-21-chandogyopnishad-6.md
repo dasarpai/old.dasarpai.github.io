@@ -1,7 +1,7 @@
 ---    
 id: 4126    
 mathjax: true    
-title: 'छान्दोग्योपनिषत् षष्ठोऽध्यायः'    
+title: 'Chandogyopnishad 6 - छान्दोग्योपनिषत् षष्ठोऽध्यायः'    
 date: 2020-05-21    
 layout: samskrut-layout 
 permalink: /samskrutyatra/chandogyopnishad-6

@@ -1,7 +1,7 @@
 ---    
 id: 4158    
 mathjax: true    
-title: 'उपनिषदिय प्रार्थना'    
+title: 'Upnishadic Prarthana - उपनिषदिय प्रार्थना'    
 date: 2021-01-11    
 layout: samskrut-layout 
 permalink: /samskrutyatra/upnishadic-prarthana

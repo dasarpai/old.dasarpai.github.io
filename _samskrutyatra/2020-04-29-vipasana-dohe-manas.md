@@ -1,7 +1,7 @@
 ---    
 id: 4064    
 mathjax: true
-title: 'मन'
+title: 'Vipasana Dohe- Dharma  - मन'
 date: 2020-04-21    
 layout: samskrut-layout 
 permalink: /samskrutyatra/vipasana-dohe-manas

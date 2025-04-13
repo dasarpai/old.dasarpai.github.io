@@ -1,7 +1,7 @@
 ---
 id: 4005    
 mathjax: true
-title: 'मदालसा उपदेश'
+title: 'Madalasa Upadesh - मदालसा उपदेश'
 date: 2019-09-21
 layout: samskrut-layout 
 permalink: /samskrutyatra/madalasa-upadesha

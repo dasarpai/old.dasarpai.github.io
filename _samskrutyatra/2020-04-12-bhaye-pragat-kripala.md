@@ -1,7 +1,7 @@
 ---    
 id: 4020    
 mathjax: true    
-title: 'भए प्रगट कृपाला'    
+title: 'Bhaye Pragat Kripala - भए प्रगट कृपाला'    
 date: 2020-04-12    
 layout: samskrut-layout 
 permalink: /samskrutyatra/bhaye-pragat-kripala

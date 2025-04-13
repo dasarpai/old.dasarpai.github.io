@@ -1,7 +1,7 @@
 ---    
 id: 4142    
 mathjax: true    
-title: 'श्रीदुर्गासप्तशती दशमोऽध्यायः शुम्भ वध'    
+title: 'Durga Saptashati Chapter 10 - श्रीदुर्गासप्तशती दशमोऽध्यायः शुम्भ वध'    
 date: 2020-06-11    
 layout: samskrut-layout 
 permalink: /samskrutyatra/durga-saptashati-chapter10

@@ -1,7 +1,7 @@
 ---    
 id: 4031    
 mathjax: true    
-title: 'नारायणसूक्तम्'    
+title: 'Narayan Suktam- नारायणसूक्तम्'    
 date: 2020-04-19    
 layout: samskrut-layout 
 permalink: /samskrutyatra/narayan-suktam

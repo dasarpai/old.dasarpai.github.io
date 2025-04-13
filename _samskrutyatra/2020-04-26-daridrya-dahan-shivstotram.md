@@ -1,7 +1,7 @@
 ---    
 id: 4049    
 mathjax: true    
-title: 'दारिद्र्य दहन शिवस्तोत्रम्'    
+title: 'Daridrya Dahan Shivstotram - दारिद्र्य दहन शिवस्तोत्रम्'    
 date: 2020-04-26    
 layout: samskrut-layout 
 permalink: /samskrutyatra/daridrya-dahan-shivstotram

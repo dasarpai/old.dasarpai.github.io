@@ -1,7 +1,7 @@
 ---    
 id: 4114    
 mathjax: true    
-title: 'रुद्रघन पाठ'    
+title: 'Rudraghan Paath - रुद्रघन पाठ'    
 date: 2020-05-15    
 layout: samskrut-layout 
 permalink: /samskrutyatra/rudraghan-paath

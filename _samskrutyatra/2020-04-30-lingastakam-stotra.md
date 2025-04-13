@@ -1,7 +1,7 @@
 ---    
 id: 4072    
 mathjax: true    
-title: 'लिंगाष्टकमं स्तोत्र'    
+title: 'Lingastakam Stotra - लिंगाष्टकमं स्तोत्र'    
 date: 2020-04-30 
 layout: samskrut-layout 
 permalink: /samskrutyatra/lingastakam-stotra

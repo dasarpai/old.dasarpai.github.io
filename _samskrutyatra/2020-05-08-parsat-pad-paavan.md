@@ -1,7 +1,7 @@
 ---    
 id: 4096    
 mathjax: true    
-title: 'परसत पद पावन'    
+title: 'Parsat Pad Paavan - परसत पद पावन'    
 date: 2020-05-08    
 layout: samskrut-layout 
 permalink: /samskrutyatra/parsat-pad-paavan

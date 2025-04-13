@@ -1,7 +1,7 @@
 ---    
 id: 4051    
 mathjax: true    
-title: 'शिवषडाक्षर स्तोत्रं'    
+title: 'Shiva Shadakshara Stotram  - शिवषडाक्षर स्तोत्रं'    
 date: 2020-04-26    
 layout: samskrut-layout 
 permalink: /samskrutyatra/shiva-shadakshara-stotram

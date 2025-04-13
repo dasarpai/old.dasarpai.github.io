@@ -1,7 +1,7 @@
 ---
 id: 4013    
 mathjax: true
-title: 'मेधासूक्तं'
+title: 'Medha Suktam - मेधासूक्तं'
 date: 2020-04-05
 layout: samskrut-layout 
 permalink: /samskrutyatra/medha-suktam

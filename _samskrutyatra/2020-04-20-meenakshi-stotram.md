@@ -1,7 +1,7 @@
 ---    
 id: 4035    
 mathjax: true    
-title: 'मीनाक्षीस्तोत्रम्'    
+title: 'Meenakshi Stotram - मीनाक्षीस्तोत्रम्'    
 date: 2020-04-20    
 layout: samskrut-layout 
 permalink: /samskrutyatra/meenakshi-stotram

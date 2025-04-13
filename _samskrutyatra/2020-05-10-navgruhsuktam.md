@@ -1,7 +1,7 @@
 ---    
 id: 4104    
 mathjax: true    
-title: 'नवग्रहसूक्तम्'    
+title: 'Navgruhsuktam - नवग्रहसूक्तम्'    
 date: 2020-05-10    
 layout: samskrut-layout 
 permalink: /samskrutyatra/navgruhsuktam

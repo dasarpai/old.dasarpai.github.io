@@ -1,7 +1,7 @@
 ---    
 id: 4148    
 mathjax: true    
-title: 'अथ वैकृतिकं रहस्यम्'    
+title: 'Devi Vaikrutikam Rahashyam - वैकृतिकं रहस्यम्'    
 date: 2020-06-16    
 layout: samskrut-layout 
 permalink: /samskrutyatra/devi-vaikrutikam-rahashy

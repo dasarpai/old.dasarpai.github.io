@@ -1,7 +1,7 @@
 ---    
 id: 4054    
 mathjax: true    
-title: 'श्री मदन मोहन अष्टकम'    
+title: 'Sri Madana Mohana Ashtakam  - श्री मदन मोहन अष्टकम'    
 date: 2020-04-26    
 layout: samskrut-layout 
 permalink: /samskrutyatra/sri-madana-mohana-ashtakam

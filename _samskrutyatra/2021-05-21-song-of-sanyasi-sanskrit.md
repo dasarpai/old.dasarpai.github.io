@@ -1,7 +1,7 @@
 ---    
 id: 4169    
 mathjax: true    
-title: 'सन्यासी का गीत (संस्कृतं)'    
+title: 'Song of Sanyasi - सन्यासी का गीत (संस्कृतं)'    
 date: 2021-05-21    
 layout: samskrut-layout 
 permalink: /samskrutyatra/song-of-sanyasi-sanskrit

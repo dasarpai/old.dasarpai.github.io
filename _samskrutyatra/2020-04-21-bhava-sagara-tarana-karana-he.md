@@ -1,7 +1,7 @@
 ---    
 id: 4036    
 mathjax: true    
-title: 'भवसागर तारण कारण हे'    
+title: 'Bhava Sagara Tarana Karana He - भवसागर तारण कारण हे'    
 date: 2020-04-21    
 layout: samskrut-layout 
 permalink: /samskrutyatra/bhava-sagara-tarana-karana-he

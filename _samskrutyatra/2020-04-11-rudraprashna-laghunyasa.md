@@ -1,7 +1,7 @@
 ---    
 id: 4017    
 mathjax: true    
-title: 'रुद्रप्रश्नः लघुन्यासः'    
+title: 'RudraPrashna LaghuNyasa - रुद्रप्रश्नः लघुन्यासः'    
 date: 2020-04-11    
 layout: samskrut-layout 
 permalink: /samskrutyatra/rudraprashna-laghunyasa

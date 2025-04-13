@@ -1,7 +1,7 @@
 ---    
 id: 4038    
 mathjax: true    
-title: 'तैत्तिरीयोपनिषत्'    
+title: 'TaitriyaUpanishad BrahmanandaMimamsa - तैत्तिरीयोपनिषत् ब्रह्मानन्दमीमांसा'    
 date: 2020-04-21    
 layout: samskrut-layout 
 permalink: /samskrutyatra/brahmanandamimamsa

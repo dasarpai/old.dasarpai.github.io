@@ -1,7 +1,7 @@
 ---    
 id: 4117    
 mathjax: true    
-title: 'जय राम सदा सुखधाम'    
+title: 'Jai Raama Sada Sada Sukhdham Hare - जय राम सदा सुखधाम'    
 date: 2020-05-17    
 layout: samskrut-layout 
 permalink: /samskrutyatra/jai-raama-sada-sada-sukhdham-hare

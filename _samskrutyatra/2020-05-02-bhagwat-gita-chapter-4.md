@@ -1,7 +1,7 @@
 ---    
 id: 4075    
 mathjax: true    
-title: 'श्रीमद्भगवद्गीता चतुर्थोऽध्यायः'    
+title: 'Bhagwat Gita Chapter 4- श्रीमद्भगवद्गीता चतुर्थोऽध्यायः'    
 date: 2020-05-02    
 layout: samskrut-layout 
 permalink: /samskrutyatra/bhagwat-gita-chapter-4

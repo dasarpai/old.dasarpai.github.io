@@ -1,7 +1,7 @@
 ---    
 id: 4023    
 mathjax: true    
-title: 'पवमानसूक्तम्'    
+title: 'Pavmaan Suktam - पवमानसूक्तम्'    
 date: 2020-04-14    
 layout: samskrut-layout 
 permalink: /samskrutyatra/pavmaan-suktam

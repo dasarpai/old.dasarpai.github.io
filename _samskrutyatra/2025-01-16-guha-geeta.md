@@ -1,7 +1,7 @@
 ---       
 id: 4173       
 mathjax: true       
-title: 'गुहगीता'       
+title: 'Guyagita - गुहगीता'       
 date: 2025-01-16       
 layout: samskrut-layout    
 permalink: /samskrutyatra/guha-geeta   

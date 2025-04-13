@@ -1,7 +1,7 @@
 ---    
 id: 4089    
 mathjax: true    
-title: 'आदित्यहृदयम् स्त्रोत्रं'    
+title: 'AdityaHrudyam Stotram - आदित्यहृदयम् स्त्रोत्रं'    
 date: 2020-05-08    
 layout: samskrut-layout 
 permalink: /samskrutyatra/aditya-hridayam-stotram

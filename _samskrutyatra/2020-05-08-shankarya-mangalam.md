@@ -1,7 +1,7 @@
 ---    
 id: 4099    
 mathjax: true    
-title: 'शंकराय मंगलं'    
+title: 'Shankarya Mangalam - शंकराय मंगलं'    
 date: 2020-05-08    
 layout: samskrut-layout 
 permalink: /samskrutyatra/shankarya-mangalam

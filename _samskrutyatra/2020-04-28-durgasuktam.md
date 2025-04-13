@@ -1,7 +1,7 @@
 ---    
 id: 4060    
 mathjax: true    
-title: 'अथ दुर्गासूक्तम्'    
+title: 'DurgaSuktam - अथ दुर्गासूक्तम्'    
 date: 2020-04-28    
 layout: samskrut-layout 
 permalink: /samskrutyatra/durgasuktam

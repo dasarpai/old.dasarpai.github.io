@@ -1,7 +1,7 @@
 ---    
 id: 4135    
 mathjax: true    
-title: 'श्रीदुर्गासप्तशती - तृतीयोऽध्यायः'    
+title: 'Durga Saptashati Chapter 3 - श्रीदुर्गासप्तशती - तृतीयोऽध्यायः'    
 date: 2020-06-04    
 layout: samskrut-layout 
 permalink: /samskrutyatra/durga-saptashati-chapter3

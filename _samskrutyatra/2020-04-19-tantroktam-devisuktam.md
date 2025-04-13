@@ -1,7 +1,7 @@
 ---    
 id: 4033    
 mathjax: true    
-title: 'तन्त्रोक्तं देविसूक्तम्'    
+title: 'Tantroktam DeviSuktam - तन्त्रोक्तं देविसूक्तम्'    
 date: 2020-04-19    
 layout: samskrut-layout 
 permalink: /samskrutyatra/tantroktam-devisuktam

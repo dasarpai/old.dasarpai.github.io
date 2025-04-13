@@ -1,7 +1,7 @@
 ---    
 id: 4039    
 mathjax: true    
-title: 'निर्वाणषट्कम्'    
+title: 'NirvaanShatkam - निर्वाणषट्कम्'    
 date: 2020-04-21    
 layout: samskrut-layout 
 permalink: /samskrutyatra/nirvaanshatkam

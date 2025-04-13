@@ -1,7 +1,7 @@
 ---    
 id: 4052    
 mathjax: true    
-title: 'शिवमानसपूजा'    
+title: 'Shivmaanaspooja - शिवमानसपूजा'    
 date: 2020-04-26    
 layout: samskrut-layout 
 permalink: /samskrutyatra/shivmaanaspooja

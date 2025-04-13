@@ -1,7 +1,7 @@
 ---
 id: 4010    
 mathjax: true
-title: 'मन्त्रपुष्पं'
+title: 'Mantrapushpam - मन्त्रपुष्पं'
 date: 2020-04-03
 layout: samskrut-layout 
 permalink: /samskrutyatra/mantra-pushpam

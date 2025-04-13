@@ -1,7 +1,7 @@
 ---    
 id: 4122    
 mathjax: true    
-title: 'छान्दोग्योपनिषत् द्वितीयोऽध्यायः'    
+title: 'Chandogyopnishad 2 - छान्दोग्योपनिषत् द्वितीयोऽध्यायः'    
 date: 2020-05-21    
 layout: samskrut-layout 
 permalink: /samskrutyatra/chandogyopnishad-2

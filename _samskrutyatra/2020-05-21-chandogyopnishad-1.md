@@ -1,7 +1,7 @@
 ---    
 id: 4121    
 mathjax: true    
-title: 'छान्दोग्योपनिषत्'    
+title: 'Chandogyopnishad 1 - छान्दोग्योपनिषत्'    
 date: 2020-05-21    
 layout: samskrut-layout 
 permalink: /samskrutyatra/chandogyopnishad-1

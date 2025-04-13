@@ -1,7 +1,7 @@
 ---    
 id: 4160    
 mathjax: true    
-title: 'श्री गायत्री सहस्रनामस्तोत्रं'    
+title: 'Gayatri Sahasranama - श्री गायत्री सहस्रनामस्तोत्रं'    
 date: 2021-02-08    
 layout: samskrut-layout 
 permalink: /samskrutyatra/gayatri-sahasranama

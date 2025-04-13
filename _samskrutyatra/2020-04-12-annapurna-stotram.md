@@ -1,7 +1,7 @@
 ---    
 id: 4019    
 mathjax: true    
-title: 'अन्नपूर्णा स्तोत्रम्'    
+title: 'Annapurna Stotram - अन्नपूर्णा स्तोत्रम्'    
 date: 2020-04-12    
 layout: samskrut-layout 
 permalink: /samskrutyatra/annapurna-stotram

@@ -1,7 +1,7 @@
 ---    
 id: 4015    
 mathjax: true    
-title: 'रुद्रप्रश्नः'    
+title: 'Rudra Prashna  - रुद्रप्रश्नः'    
 date: 2020-04-09    
 layout: samskrut-layout 
 permalink: /samskrutyatra/rudra-prashna

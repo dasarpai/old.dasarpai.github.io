@@ -1,7 +1,7 @@
 ---    
 id: 4103    
 mathjax: true    
-title: 'श्रीमद्भगवद्गीता दशमोऽध्यायः - विभूतियोगः'    
+title: 'Bhagwat Gita Chapter 10 - श्रीमद्भगवद्गीता दशमोऽध्यायः - विभूतियोगः'    
 date: 2020-05-04    
 layout: samskrut-layout 
 permalink: /samskrutyatra/bhagwat-gita-chapter-10

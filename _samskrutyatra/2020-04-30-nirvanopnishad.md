@@ -1,7 +1,7 @@
 ---    
 id: 4066    
 mathjax: true    
-title: 'निर्वाणोपनिषत्'    
+title: 'Nirvanopnishad  - निर्वाणोपनिषत्'    
 date: 2020-04-30    
 layout: samskrut-layout 
 permalink: /samskrutyatra/nirvanopnishad

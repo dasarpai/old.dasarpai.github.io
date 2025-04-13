@@ -1,7 +1,7 @@
 ---    
 id: 4134    
 mathjax: true    
-title: 'श्रीदुर्गासप्तशती - द्वितीयोऽध्यायः'    
+title: 'Durga Saptashati Chapter 2 - श्रीदुर्गासप्तशती - द्वितीयोऽध्यायः'    
 date: 2020-06-03    
 layout: samskrut-layout 
 permalink: /samskrutyatra/durga-saptashati-chapter2

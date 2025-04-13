@@ -1,7 +1,7 @@
 ---    
 id: 4040    
 mathjax: true    
-title: 'तैत्तिरीयोपनिषत् सस्वरा - तृतीया भृगुवल्ली'    
+title: 'Taitriya Upnishad Bhrugu Valli  - तैत्तिरीयोपनिषत् सस्वरा - तृतीया भृगुवल्ली'    
 date: 2020-04-21    
 layout: samskrut-layout 
 permalink: /samskrutyatra/taitriya-upnishad-bhrugu-valli

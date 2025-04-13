@@ -1,7 +1,7 @@
 ---    
 id: 4094    
 mathjax: true    
-title: 'जय राम रमा रमनं समनं'    
+title: 'Jai Raam Rama Ramanam Samanam - जय राम रमा रमनं समनं'    
 date: 2020-05-08    
 layout: samskrut-layout 
 permalink: /samskrutyatra/jai-raam-rama-ramanam-samanam
@@ -23,7 +23,7 @@ share: true
 ![](/assets/images/samskrut/RamcharaitMaanas.jpg)    
     
 # जय राम रमा रमनं समनं    
-## #Jai Raam Rama Ramanam Samanam    
+## Jai Raam Rama Ramanam Samanam    
     
 तुलसीकृत रामचरित मानस    
     

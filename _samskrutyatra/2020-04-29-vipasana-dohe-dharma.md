@@ -1,7 +1,7 @@
 ---    
 id: 4063    
 mathjax: true    
-title: 'धर्म'    
+title: 'Vipasana Dohe- Dharma - धर्म'    
 date: 2020-04-29    
 layout: samskrut-layout 
 permalink: /samskrutyatra/vipasana-dohe-dharma

@@ -1,7 +1,7 @@
 ---    
 id: 4172    
 mathjax: true    
-title: 'हनुमान सहस्त्रनामावली'    
+title: 'Hanuman Sahsranamavali - हनुमान सहस्त्रनामावली'    
 date: 2023-04-26    
 layout: samskrut-layout 
 permalink: /samskrutyatra/shri-hanuman-sahasranamam

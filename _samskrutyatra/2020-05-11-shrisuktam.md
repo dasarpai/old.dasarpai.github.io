@@ -1,7 +1,7 @@
 ---    
 id: 4106    
 mathjax: true    
-title: 'श्रीसूक्तम्'    
+title: 'Shrisuktam - श्रीसूक्तम्'    
 date: 2020-05-11    
 layout: samskrut-layout 
 permalink: /samskrutyatra/shrisuktam

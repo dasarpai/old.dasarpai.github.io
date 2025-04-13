@@ -1,7 +1,7 @@
 ---
 id: 4156    
 mathjax: "true"
-title: 'नमामीशमीसान निर्वाणरूपं'
+title: 'NamamishMisan - नमामीशमीसान निर्वाणरूपं'
 date: '2010-01-10T14:33:35+00:00'
 layout: samskrut-layout 
 permalink: /samskrutyatra/namamishmishan-nirvan-roopam

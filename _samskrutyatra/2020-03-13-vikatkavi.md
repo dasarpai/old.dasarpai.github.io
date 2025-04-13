@@ -1,7 +1,7 @@
 ---
 id: 4008    
 mathjax: true
-title: 'विकटकविः'
+title: 'Vikatkavi - विकटकविः'
 date: 2020-03-13
 layout: samskrut-layout 
 permalink: /samskrutyatra/vikatkavi

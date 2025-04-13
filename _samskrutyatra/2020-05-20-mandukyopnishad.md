@@ -1,7 +1,7 @@
 ---    
 id: 4120    
 mathjax: true    
-title: 'माण्डूक्योपनिषत्'    
+title: 'Mandukyopnishad  - माण्डूक्योपनिषत्'    
 date: 2020-05-20    
 layout: samskrut-layout 
 permalink: /samskrutyatra/mandukyopnishad

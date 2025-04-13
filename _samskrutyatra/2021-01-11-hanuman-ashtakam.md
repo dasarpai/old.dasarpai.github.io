@@ -1,7 +1,7 @@
 ---    
 id: 4154    
 mathjax: true    
-title: 'संकटमोचन हनुमानाष्टकम्'    
+title: 'Hanuman Ashtakam - संकटमोचन हनुमानाष्टकम्'    
 date: 2021-01-11    
 layout: samskrut-layout 
 permalink: /samskrutyatra/hanuman-ashtakam

@@ -1,7 +1,7 @@
 ---    
 id: 4139    
 mathjax: true    
-title: 'श्रीदुर्गासप्तशती - सप्तमोऽध्यायः'    
+title: 'Durga Saptashati Chapter 7 - श्रीदुर्गासप्तशती - सप्तमोऽध्यायः'    
 date: 2020-06-08    
 layout: samskrut-layout 
 permalink: /samskrutyatra/durga-saptashati-chapter7

@@ -1,7 +1,7 @@
 ---    
 id: 4069    
 mathjax: true    
-title: 'अच्युतस्याष्टकम्'    
+title: 'Achyutashtakam  - अच्युतस्याष्टकम्'    
 date: 2020-04-30    
 layout: samskrut-layout 
 permalink: /samskrutyatra/achyutashtakam

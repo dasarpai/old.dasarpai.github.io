@@ -1,7 +1,7 @@
 ---    
 id: 4022    
 mathjax: true    
-title: 'भाग्य सूक्तम्'    
+title: 'Bhagya Shuktam- भाग्य सूक्तम्'    
 date: 2020-04-13    
 layout: samskrut-layout 
 permalink: /samskrutyatra/bhoo-shuktam
@@ -23,7 +23,7 @@ share: true
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # भाग्य सूक्तम्    
-## Bhoo Shuktam  
+## Bhagya Shuktam  
   
 ॐ प्रा॒तर॒ग्निं प्रा॒तरिन्द्रग्ं॑ हवामहे प्रा॒तर्मि॒त्रा वरु॑णा प्रा॒तर॒श्विना᳚ ।    
 प्रा॒तर्भगं॑ पू॒षणं॒ ब्रह्म॑ण॒स्पतिं॑ प्रा॒तः सोम॑मु॒त रु॒द्रग्ं हु॑वेम ॥१ ॥    

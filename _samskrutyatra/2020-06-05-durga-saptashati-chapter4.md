@@ -1,7 +1,7 @@
 ---    
 id: 4136    
 mathjax: true    
-title: 'श्रीदुर्गासप्तशती - चतुर्थोऽध्यायः'    
+title: 'Durga Saptashati Chapter 4 - श्रीदुर्गासप्तशती - चतुर्थोऽध्यायः'    
 date: 2020-06-05    
 layout: samskrut-layout 
 permalink: /samskrutyatra/durga-saptashati-chapter4

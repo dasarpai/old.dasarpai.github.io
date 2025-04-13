@@ -1,7 +1,7 @@
 ---    
 id: 4109    
 mathjax: true    
-title: 'नाम रामायण'    
+title: 'Naam Ramayan  - नाम रामायण'    
 date: 2020-05-12    
 layout: samskrut-layout 
 permalink: /samskrutyatra/naam-ramayan

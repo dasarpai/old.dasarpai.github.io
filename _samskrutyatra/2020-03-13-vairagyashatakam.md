@@ -1,7 +1,7 @@
 ---
 id: 4007    
 mathjax: true
-title: 'वैराग्यशतकम्'
+title: 'Vairagya Shatakam - वैराग्यशतकम्'
 date: 2020-03-13
 layout: samskrut-layout 
 permalink: /samskrutyatra/vairagyashatakam

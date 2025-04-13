@@ -1,7 +1,7 @@
 ---
 id: 4011    
 mathjax: true
-title: 'ऋग्वेदोक्तं देवीसूक्तम्'
+title: 'Rigvedoktam Devisuktam - ऋग्वेदोक्तं देवीसूक्तम्'
 date: 2020-04-03
 layout: samskrut-layout 
 permalink: /samskrutyatra/rigvedoktam-devisuktam
@@ -23,10 +23,8 @@ share: true
 ![](/assets/images/samskrut/durga.jpg)
 
 # ऋग्वेदोक्तं देवीसूक्तम्
-=======================
 
 ## Rigvedoktam Devisuktam
-----------------------
 
 ॥विनियोगः॥  
 ॐ अहमित्यष्टर्चस्य सूक्तस्य वागाम्भृणी ऋषिः,  

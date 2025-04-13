@@ -1,7 +1,7 @@
 ---    
 id: 4110    
 mathjax: true    
-title: 'श्रीमद्भगवद्गीता त्रयोदशोऽध्यायः - क्षेत्रक्षेत्रज्ञविभागयोगः'    
+title: 'Bhagwat Gita Chapter 13 - श्रीमद्भगवद्गीता त्रयोदशोऽध्यायः - क्षेत्रक्षेत्रज्ञविभागयोगः'    
 date: 2020-05-05    
 layout: samskrut-layout 
 permalink: /samskrutyatra/bhagwat-gita-chapter-13

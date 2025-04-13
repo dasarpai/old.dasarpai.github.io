@@ -1,7 +1,7 @@
 ---    
 id: 4152    
 mathjax: true    
-title: 'नमस्ते सदा वत्सले'    
+title: 'Namaste Sada Vatsale - नमस्ते सदा वत्सले'    
 date: 2021-01-01    
 layout: samskrut-layout 
 permalink: /samskrutyatra/namaste-sada-vatsale
