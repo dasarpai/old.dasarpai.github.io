@@ -15,7 +15,7 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt: "# माहेश्वर सूत्र ## Maheshwara Sutrani Maheshwar Sutrani is the foundation of Panini’s Astha-Adhyayi. It has 14 sutras, they are mentioned below. I have recorded them in singing format. Maheshwara Sutrani १. अइउण्। २. ऋऌक्। ३. एओङ्। ४. ऐऔच्। ५."
+excerpt: "माहेश्वर सूत्र ## Maheshwara Sutrani Maheshwar Sutrani is the foundation of Panini’s Astha-Adhyayi. It has 14 sutras, they are mentioned below. I have recorded them in singing format. Maheshwara Sutrani १. अइउण्। २. ऋऌक्। ३. एओङ्। ४. ऐऔच्। ५."
     
 share: true    
 ---

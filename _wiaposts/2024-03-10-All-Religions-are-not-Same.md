@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/wiapost/5249-All-Religions-are-not-Same.jpg  
 author: Hari Thapliyaal  
 layout:   wiaposts-layout
-excerpt: "## Introduction Long ago, when I completed the study of Prasthantrai (comprising the ten cardinal Upanishads, Bhagavad Gita, and Brahma Sutra), it opened my eyes to world religions and diverse philosophical concepts. I delved into it under the Advaita Vedanta"
+excerpt: "Introduction Long ago, when I completed the study of Prasthantrai (comprising the ten cardinal Upanishads, Bhagavad Gita, and Brahma Sutra), it opened my eyes to world religions and diverse philosophical concepts. I delved into it under the Advaita Vedanta"
 author_profile: true  
 share: true  
 toc: True  

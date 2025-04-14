@@ -15,7 +15,7 @@ header:
 
 author: 'Hari Thapliyaal'
 
-excerpt: "## Nasadiya Sukta ### Nasadiya Sukta from RigVeda In English we can call it Hymn of Creation. This is part of 10th mandala of the Rigveda (10:129). It is contemplating on the cosmology and the origin of the universe. This"
+excerpt: "Nasadiya Sukta ### Nasadiya Sukta from RigVeda In English we can call it Hymn of Creation. This is part of 10th mandala of the Rigveda (10:129). It is contemplating on the cosmology and the origin of the universe. This"
 
 share: true
 ---

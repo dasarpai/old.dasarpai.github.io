@@ -10,7 +10,7 @@ header:
      teaser: /assets/images/wiapost/5178-Why-Do-We-Do-Namaste.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt: "## Meaning of Namaste Namaste means, I bow down to you. Normally, you can bow down to some because that person is powerful. Or, out of her/his power, either she/he can give or punish you. So out of that fear"
+excerpt: "Meaning of Namaste Namaste means, I bow down to you. Normally, you can bow down to some because that person is powerful. Or, out of her/his power, either she/he can give or punish you. So out of that fear"
 author_profile: true 
 share: true 
 ---
