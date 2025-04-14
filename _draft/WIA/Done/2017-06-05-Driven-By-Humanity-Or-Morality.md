@@ -2,7 +2,7 @@
 id: 5050
 
 title: Driven By Humanity Or Morality
-date: "2017-06-05T08:33:00+05:30"
+date: "2017-06-05"
 permalink: /wiaposts/driven-by-humanity-or-morality
 tags: [ 'Ethics & Morality', Philosophy]    
 

@@ -1,7 +1,7 @@
---- 
+---
 id: 5180 
 title: There is no God!
-date: "2022-02-12T08:33:00+05:30"
+date: "2022-02-12"
 permalink: /wiaposts/there-is-no-god
 tags: [My Views, Theist ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5180-There-Is-No-God.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "If our Karma and Law or Karma is everything then what is the need of God? People say Karma is everything but they are afraid of this rule. They want to bypass this rule. Why? Due to ignorance or madness,"
 author_profile: true 
 share: true 
 ---
-  
 ![There is no God!](/assets/images/wiapost/5180-There-Is-No-God.jpg)   
    
 ## There is no God!   

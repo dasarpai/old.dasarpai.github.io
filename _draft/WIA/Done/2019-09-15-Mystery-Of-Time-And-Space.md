@@ -2,7 +2,7 @@
 id: 5107
 
 title: Mystery Of Time And Space
-date: "2019-09-15T08:33:00+05:30"
+date: "2019-09-15"
 permalink: /wiaposts/mystery-of-time-and-space
 tags: [ Concepts]    
 

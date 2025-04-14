@@ -1,4 +1,4 @@
----        
+---
 id: 5261 
 mathjax: true        
 title:  "What is Relationship?"        
@@ -11,11 +11,10 @@ header:
     teaser: /assets/images/wiapost/5260-what-is-relationship.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
-excerpt:        
+excerpt: "When I was in school, one of my friends had a father who was a very wealthy business tycoon. After my friend turned 18, his father took him to a bank and asked the bank officers to open an account"
 author_profile: true        
 share: true        
----     
-
+---
 ![What is Relationships](/assets/images/wiapost/5260-what-is-relationship.jpg)
    
 # What is Relationships?    

@@ -1,7 +1,7 @@
----        
+---
 id: 5231
 title:  What is the Reality?          
-date: "2023-08-14T08:33:00+05:30"        
+date: "2023-08-14"        
 permalink: /wiaposts/What-is-the-Reality      
 tags:  [My Views, Life, Philosophy]         
         
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5231-What-is-the-Reality.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
-excerpt:        
+excerpt: "You see something on a table and you ask yourself, \"What is that?\" Answer: It looks like an apple, so it is an apple. Then you ask, \"How many apples are there?\" Answer: You know the counting, and after counting,"
 author_profile: true        
 share: true        
----        
-        
+---
 ![PWhat is the Reality?](/assets/images/wiapost/5231-What-is-the-Reality.jpg)             
         
 # What is the Reality     

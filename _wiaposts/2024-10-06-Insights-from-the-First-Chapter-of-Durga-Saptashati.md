@@ -1,4 +1,4 @@
----        
+---
 id: 5268 
 mathjax: true        
 title:  "Insights from the First Chapter of Durga Saptashati"        
@@ -10,12 +10,11 @@ header:
     teaser: /assets/images/wiapost/5268-Insights-from-the-First-Chapter-of-Durga-Saptashati.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
-excerpt:        
+excerpt: "**The Significance of Durga Saptashati: Insights from the First Chapter** ## What is Purana? Scholars can provide many meanings and interpretations of this term. Here’s one: A **Purana** is a genre of ancient Hindu texts that contains narratives of the"
 author_profile: true        
 share: true
 keywords: ["Durga Saptashati", "Purana", "Hindu mythology", "Madhu and Kaitabha", "Divine Feminine", "Markandeya Purana", "Lessons from Durga Saptashati", "Ignorance and delusion in Hindu texts", "Significance of Puranas", "Teachings from Hindu scriptures"]    
---- 
-
+---
 ![What is Purana?](/assets/images/wiapost/5268-Insights-from-the-First-Chapter-of-Durga-Saptashati.jpg)
   
 # Insights from the First Chapter of Durga Saptashati   

@@ -1,7 +1,7 @@
---- 
+---
 id: 5152 
 title: Learning Process
-date: "2021-04-21T08:33:00+05:30"
+date: "2021-04-21"
 permalink: /wiaposts/learning-process
 tags: [ Education, 'My Views']    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5152-Learning-Process.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "When you see some long physics or maths formula then don’t get scared of it. It is just a way to represent the reality. Is it an absolute reality? No, it just represents that reality, and the absolute reality is"
 author_profile: true 
 share: true 
 ---
-
 ![Learning Process](/assets/images/wiapost/5152-Learning-Process.jpg)     
     
 # Learning Process    

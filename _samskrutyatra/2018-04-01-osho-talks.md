@@ -1,4 +1,4 @@
----    
+---
 id: 3999    
 mathjax: true    
 title: 'Osho Talks'    
@@ -13,11 +13,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "OSHO Talks on Tao Upanishad it has 127 episodes"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Osho.avif)   
     
 # Osho Talks       

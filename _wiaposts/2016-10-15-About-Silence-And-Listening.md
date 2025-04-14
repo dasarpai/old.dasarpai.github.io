@@ -2,7 +2,7 @@
 id: 5031
 
 title: About Silence And Listening
-date: "2016-10-15T08:33:00+05:30"
+date: "2016-10-15"
 permalink: /wiaposts/about-silence-and-listening
 tags: ['Mind', 'Philosophy']    
 

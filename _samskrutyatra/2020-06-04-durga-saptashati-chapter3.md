@@ -1,4 +1,4 @@
----    
+---
 id: 4135    
 mathjax: true    
 title: 'Durga Saptashati Chapter 3 - श्रीदुर्गासप्तशती - तृतीयोऽध्यायः'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Durga Saptashati Chapter3 ## सेनापतियोंसहित महिषासुर का वध ॥ध्यानम्॥ ॐ उद्यद्भानुसहस्रकान्तिमरुणक्षौमां शिरोमालिकां रक्तालिप्तपयोधरां जपवटीं विद्यामभीतिं वरम्। हस्ताब्जैर्दधतीं त्रिनेत्रविलसद्वक्त्रारविन्दश्रियं देवीं बद्धहिमांशुरत्‍नमुकुटां वन्देऽरविन्दस्थिताम्॥ “ॐ” ऋषिररुवाच॥१॥ निहन्यमानं तत्सैन्यमवलोक्य महासुरः। सेनानीश्‍चिक्षुरः कोपाद्ययौ योद्‍धुमथाम्बिकाम्॥२॥ स देवीं शरवर्षेण ववर्ष समरेऽसुरः। यथा मेरुगिरेः श्रृङ्‌गं तोयवर्षेण तोयदः॥३॥"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # श्रीदुर्गासप्तशती – तृतीयोऽध्यायः    
 ## Durga Saptashati Chapter3    

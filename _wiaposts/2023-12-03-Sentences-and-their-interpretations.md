@@ -1,4 +1,4 @@
----        
+---
 id: 5252       
 mathjax: true        
 title:  Sentences and Their Interpretations          
@@ -11,10 +11,10 @@ header:
     teaser: /assets/images/wiapost/5252-Sentences-and-Their-Interpretations.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
-excerpt:        
+excerpt: "Once all villagers decided to pray for rain. On the day of prayer, all the people gathered, but only one boy came with an umbrella. This is faith or innocence? When you throw babies in the air, they laugh because"
 author_profile: true        
 share: true        
----   
+---
 ![Sentences and Their Interpretations](/assets/images/wiapost/5252-Sentences-and-Their-Interpretations.jpg)
    
 # Sentences and Their Interpretations   

@@ -2,7 +2,7 @@
 id: 5084
 
 title: The Art Of Dying
-date: "2018-10-29T08:33:00+05:30"
+date: "2018-10-29"
 permalink: /wiaposts/the-art-of-dying
 tags: [ Death, Life, Philosophy, Poetry, Vedanta]    
 

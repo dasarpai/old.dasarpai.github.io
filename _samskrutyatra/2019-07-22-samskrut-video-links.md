@@ -15,11 +15,10 @@ header:
 
 author: 'Hari Thapliyaal'
 
-excerpt:
+excerpt: "[Movie on Samkaracharya](https://www.dropbox.com/s/dwisvcrq9h4lbj1/Adi%20Shankarachary%20-%20Hindi%20full.mp4?dl=0)"
 
 share: true
 ---
-
 ![](/assets/images/samskrut/MySamskrutYatra-min.jpg)
 
 # Samskrut Video Links

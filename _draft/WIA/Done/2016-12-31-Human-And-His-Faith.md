@@ -2,7 +2,7 @@
 id: 5035
 
 title: Human And His Faith
-date: "2016-12-31T08:33:00+05:30"
+date: "2016-12-31"
 permalink: /wiaposts/human-and-his-faith
 tags: [ Philosophy, Poetry]    
 

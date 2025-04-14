@@ -1,4 +1,4 @@
----    
+---
 id: 4037    
 mathjax: true    
 title: 'भूसूक्तम्  - भूसूक्तम्'    
@@ -11,16 +11,15 @@ tags: [Devi, Suktam]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Bhoosuktam ॐ भूमि॑र्भू॒म्ना द्यौर्व॑रि॒णाऽन्तरि॑क्षं महि॒त्वा । उ॒पस्थे॑ ते देव्यदिते॒ऽग्निम॑न्ना॒द-म॒न्नाद्या॒याद॑धे ॥ आऽयङ्गौः पृश्नि॑रक्रमी॒ दस॑नन्मा॒तरं॒ पुनः॑ । पि॒तरं॑ च प्र॒यन्त्सुवः॑ ॥ त्रि॒ग्ं॒शद्धाम॒ विरा॑जति॒ वाक्प॑त॒ङ्गाय॑ शिश्रिये । प्रत्य॑स्य वह॒ द्युभिः॑ ॥ अ॒स्य प्रा॒णाद॑पान॒त्य॑न्तश्च॑रति रोच॒ना । व्य॑ख्यन् महि॒षः सुवः॑ ॥ यत्त्वा᳚ क्रु॒द्धः प॑रो॒वप॑म॒न्युना॒"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # भूसूक्तम्    
 ## Bhoosuktam    

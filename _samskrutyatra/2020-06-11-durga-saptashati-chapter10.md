@@ -1,4 +1,4 @@
----    
+---
 id: 4142    
 mathjax: true    
 title: 'Durga Saptashati Chapter 10 - श्रीदुर्गासप्तशती दशमोऽध्यायः शुम्भ वध'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Durga Saptashati Chapter10 ## शुम्भ वध ध्यानम् ॐ उत्तप्तहेमरुचिरां रविचन्द्रवह्नि- नेत्रां धनुश्शरयुताङ्‌कुशपाशशूलम्। रम्यैर्भुजैश्‍च दधतीं शिवशक्तिरूपां कामेश्‍वरीं हृदि भजामि धृतेन्दुलेखाम्॥ “ॐ” ऋषिरुवाच॥१॥ निशुम्भं निहतं दृष्ट्‌वा भ्रातरं प्राणसम्मितम्। हन्यमानं बलं चैव शुम्भः क्रुद्धोऽब्रवीद्वचः॥२॥ बलावलेपाद्दुष्टे* त्वं मा दुर्गे गर्वमावह। अन्यासां बलमाश्रित्य युद्ध्यसे"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # श्रीदुर्गासप्तशती दशमोऽध्यायः    
 ## Durga Saptashati Chapter10    

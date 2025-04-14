@@ -11,7 +11,7 @@ tags: [DS Resources, Basic Statistics, Statistics for Data Science]
 keywords: statistics fundamentals, data analysis, statistical methods, probability theory, descriptive statistics, inferential statistics, hypothesis testing, statistical distributions, correlation analysis, regression analysis
 header:
   teaser: /assets/images/dsresources/dsr118-Basic-Statistics-for-Data-Science.jpg
-last_modified_at: 2021-06-02T15:46:43-04:00
+
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -2,7 +2,7 @@
 id: 5083
 
 title: Where Are Todays Rishis
-date: "2018-10-28T08:33:00+05:30"
+date: "2018-10-28"
 permalink: /wiaposts/where-are-todays-rishis
 tags: [ 'Indian Culture', Poetry]    
 

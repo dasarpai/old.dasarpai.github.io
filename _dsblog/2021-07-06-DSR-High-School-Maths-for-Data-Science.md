@@ -17,7 +17,7 @@ tags:
 keywords: high school mathematics, basic math for data science, math fundamentals, algebra basics, geometry fundamentals, trigonometry basics, calculus introduction, mathematical concepts, data science prerequisites, math tutorials
 header:
   teaser: /assets/images/dsresources/dsr106-High-School-Maths-for-Data-Science.jpg
-last_modified_at: 2021-08-28T15:46:43-04:00
+
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -1,4 +1,4 @@
----    
+---
 id: 4039    
 mathjax: true    
 title: 'NirvaanShatkam - निर्वाणषट्कम्'    
@@ -15,19 +15,24 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "मनोबुद्ध्यहंकारचित्तानि नाहं न च श्रोत्रजिह्वे न च घ्राणनेत्रे । न च व्योमभूमिः न तेजो न वायुः चिदानंदरूपः शिवोऽहं शिवोऽहम्"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # निर्वाणषट्कम्     
 ## NirvaanShatkam    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/001-NirvaanShatkam2.m4a" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/001-NirvaanShatkam2.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/001-NirvanShatakam3.m4a" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/001-NirvanShatakam3.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
         
 मनोबुद्ध्यहंकारचित्तानि नाहं    
 न च श्रोत्रजिह्वे न च घ्राणनेत्रे ।    

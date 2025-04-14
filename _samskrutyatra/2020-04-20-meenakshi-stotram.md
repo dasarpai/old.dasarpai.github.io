@@ -1,4 +1,4 @@
----    
+---
 id: 4035    
 mathjax: true    
 title: 'Meenakshi Stotram - मीनाक्षीस्तोत्रम्'    
@@ -15,17 +15,19 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "श्रीविद्ये शिववामभागनिलये श्रीराजराजार्चिते श्रीनाथादिगुरुस्वरूपविभवे चिन्तामणीपीठिके । श्रीवाणीगिरिजानुताङ्घ्रिकमले श्रीशांभवि श्रीशिवे मध्याह्ने मलयध्वजाधिपसुते मां पाहि मीनाम्बिके ॥ १ ॥ चक्रस्थेऽचपले चराचरजगन्नाथे जगत्पूजिते आर्तालीवरदे नताभयकरे वक्षोजभारान्विते । विद्ये वेदकलापमौलिविदिते विद्युल्लताविग्रहे मातः पूर्णसुधारसार्द्रहृदये मां पाहि मीनाम्बिके ॥ २ ॥ कोटीराङ्गदरत्नकुण्डलधरे कोदण्डबाणाञ्चिते कोकाकारकुचद्वयोपरिलसत्प्रालम्बहाराञ्चिते । शिञ्जन्नूपुरपादसारसमणीश्रीपादुकालंकृते"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/MeenakshiStotram.jpg)    
     
 # मीनाक्षीस्तोत्रम्    
 ## Meenakshi Stotram    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/010-meenakshiStotram.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/010-meenakshiStotram.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
 श्रीविद्ये शिववामभागनिलये श्रीराजराजार्चिते    
 श्रीनाथादिगुरुस्वरूपविभवे चिन्तामणीपीठिके ।    

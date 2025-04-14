@@ -1,7 +1,7 @@
 --- 
 id: 5092
 title: Four Ways Or One Way
-date: "2019-02-27T08:33:00+05:30"
+date: "2019-02-27"
 permalink: /wiaposts/four-ways-or-one-way
 tags: [ 'Bhagwat Gita', 'Dharma', 'Moksha', 'Philosophy']    
 

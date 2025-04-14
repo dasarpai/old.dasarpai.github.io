@@ -1,4 +1,4 @@
----    
+---
 id: 4053    
 mathjax: true    
 title: 'Shri Shivpanchaakshari Stotram - श्रीशिवपञ्चाक्षरस्तोत्रम्'    
@@ -15,17 +15,19 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "नागेन्द्रहाराय त्रिलोचनाय, भस्माङ्गरागाय महेश्वराय । नित्याय शुद्धाय दिगम्बराय, तस्मै न काराय नमः शिवाय ॥१॥ मन्दाकिनी सलिलचन्दन चर्चिताय, नन्दीश्वर प्रमथनाथ महेश्वराय । मन्दारपुष्प बहुपुष्प सुपूजिताय, तस्मै म काराय नमः शिवाय ॥२॥ शिवाय गौरीवदनाब्जवृन्द, सूर्याय दक्षाध्वरनाशकाय । श्रीनीलकण्ठाय वृषध्वजाय, तस्मै शि काराय"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Shiva.jpg)    
     
 # श्रीशिवपञ्चाक्षरस्तोत्रम्    
 ## Shri Shivpanchaakshari Stotram    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/023-ShivPanchaAkshari.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/023-ShivPanchaAkshari.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
 नागेन्द्रहाराय त्रिलोचनाय,    
 भस्माङ्गरागाय महेश्वराय ।    

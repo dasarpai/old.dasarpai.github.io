@@ -2,7 +2,7 @@
 id: 5075
 
 title: Happy Deepawali 2019
-date: "2018-06-17T08:33:00+05:30"
+date: "2018-06-17"
 permalink: /wiaposts/happy-deepawali-2019
 tags: [ 'Annual Wishes']    
 

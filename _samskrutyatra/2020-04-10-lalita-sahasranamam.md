@@ -11,7 +11,7 @@ tags: [Devi, Chanting]
 categories: [Chanting]
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
@@ -20,12 +20,15 @@ excerpt:  "सिन्दूरारुणविग्रहां त्र�
 share: true    
 ---    
     
-![](/assets/images/samskrut/durga.jpg)    
+![](/assets/images/samskrut/Durga.jpg)    
     
 # ललितासहस्रनामं    
 ## Lalita Sahasranamam     
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/012-LalitaSahasranaamStotram.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/012-LalitaSahasranaamStotram.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
 Chanting in the above Audio Starts from Dhyana Stotram    
     

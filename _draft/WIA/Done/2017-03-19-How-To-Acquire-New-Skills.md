@@ -2,7 +2,7 @@
 id: 5043
 
 title: How To Acquire New Skills
-date: "2017-03-19T08:33:00+05:30"
+date: "2017-03-19"
 permalink: /wiaposts/how-to-acquire-new-skills
 tags: [ 'My Views', Science]    
 

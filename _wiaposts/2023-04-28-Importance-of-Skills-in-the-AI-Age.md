@@ -1,4 +1,4 @@
----    
+---
 id: 5227   
 title:  Importance of Skills in The AI Age      
 date: "2023-04-28T08:33:00+05:30"    
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5227-Importance-of-Skills-in-the-AI-Age.jpg    
 author: Hari Thapliyaal    
 layout:   wiaposts-layout
-excerpt:    
+excerpt: "While teaching data science and AI I emphasize on the strong foundation of maths, stats, and programming. Learners say cloud-based AI and AutoML tools are doing all this What are the benefits of learning this? Whether physical skills like driving,"
 author_profile: true    
 share: true    
----    
-    
+---
 ![Importance of Skills in AI Age](/assets/images/wiapost/5227-Importance-of-Skills-in-the-AI-Age.jpg)         
     
 # Importance of Skills in The AI Age    

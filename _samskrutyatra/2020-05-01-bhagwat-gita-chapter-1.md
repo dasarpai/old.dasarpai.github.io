@@ -1,4 +1,4 @@
----    
+---
 id: 4068    
 mathjax: true    
 title: 'Bhagwat Gita Chapter 1 - श्रीमद्भगवद्गीता प्रथमोऽध्यायः'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Bhagwat Gita Chapter 1 ॐ श्री परमात्मने नमः ॥ अथ श्रीमद्भगवद्गीता ॥ अथ प्रथमोऽध्यायः । अर्जुनविषादयोगः धृतराष्ट्र उवाच । धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥ १-१॥ सञ्जय उवाच । दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।"
 keywords: [Bhagwat Gita Chapter 1, Vishad Yoga, Upnishad]    
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता प्रथमोऽध्यायः    

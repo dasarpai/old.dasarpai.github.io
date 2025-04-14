@@ -2,7 +2,7 @@
 id: 5062
 
 title: What Is Violence
-date: "2017-11-15T08:33:00+05:30"
+date: "2017-11-15"
 permalink: /wiaposts/what-is-violence
 tags: [ Concepts, 'Ethics & Morality', Philosophy]    
 

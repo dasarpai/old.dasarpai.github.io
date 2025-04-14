@@ -23,7 +23,10 @@ share: true
 ![](/assets/images/samskrut/dRamcharaitMaanas.png)    
     
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/002-BhayaPragatKrupala.m4a" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/002-BhayaPragatKrupala.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
 # भए प्रगट कृपाला    
 ## Bhaye Pragat Kripala    

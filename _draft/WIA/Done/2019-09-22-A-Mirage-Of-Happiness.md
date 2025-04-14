@@ -2,7 +2,7 @@
 id: 5108
 
 title: A Mirage Of Happiness
-date: "2019-09-22T08:33:00+05:30"
+date: "2019-09-22"
 permalink: /wiaposts/a-mirage-of-happiness
 tags: [ Philosophy, 'Pleasure &amp; Joy', Poetry]    
 

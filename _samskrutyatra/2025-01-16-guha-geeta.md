@@ -1,4 +1,4 @@
----       
+---
 id: 4173       
 mathjax: true       
 title: 'Guyagita - गुहगीता'       
@@ -11,16 +11,15 @@ tags: [Hanumanji]
 categories:       
        
 header:       
-   teaser: /assets/images/samskrut/upanishad.jpg       
+   teaser: /assets/images/samskrut/Upanishad.jpg       
        
 author: 'Hari Thapliyaal'       
        
-excerpt:       
+excerpt: "## अथ प्रथमोऽध्यायः मनोविकारः विप्रा ऊचुः- सूतपुत्र महाप्राज्ञ कथकोऽसि दयाकर । गुहगीतां च नो वक्तुं त्वमेवार्हसि चानघ ॥ १.१॥ सूत उवाच- कुतुकी गुहगीतायाः श्रवणे तत्परो मुनिः । कर्मयोगी हिडिम्भं च प्रार्थयन् प्रत्यहं स्थितः ॥ १.२॥ श्रान्तोऽसि किं वा श्रोतुं मे"
        
 share: true       
----       
-       
-![Guha Geeta](/assets/images/samskrut/upanishad.jpg)       
+---
+![Guha Geeta](/assets/images/samskrut/Upanishad.jpg)       
        
 # अथ गुहगीता प्रारम्भः   
    

@@ -1,7 +1,7 @@
 --- 
 id: 5099 
 title: Morality Of Killing
-date: "2019-06-09T08:33:00+05:30"
+date: "2019-06-09"
 permalink: /wiaposts/morality-of-killing
 tags: [ 'Ethics and Morality', Philosophy, Poetry]    
 keywords: ["ethical implications of taking life", "philosophical views on morality", "poetry on life and death", "cultural perspectives on killing", "moral dilemmas in society"]  

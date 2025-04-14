@@ -2,7 +2,7 @@
 id: 5023
 
 title: About Yagnya
-date: "2016-07-20T08:33:00+05:30"
+date: "2016-07-20"
 permalink: /wiaposts/about-yagnya
 tags: [ 'Bhagwat Gita', 'Indian Culture', Philosophy]    
 

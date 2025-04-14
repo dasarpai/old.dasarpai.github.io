@@ -1,4 +1,4 @@
----    
+---
 id: 4146    
 mathjax: true    
 title: 'Devi Prahanikam Rahasyam - प्राधानिकं रहस्यम्'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Devi Praahanikam Rahasyam ॥विनियोगः॥ ॐ अस्य श्रीसप्तशतीरहस्यत्रयस्य नारायण ऋषिरनुष्टुप्छन्दः, महाकालीमहालक्ष्मीमहासरस्वत्यो देवता यथोक्तफलावाप्त्यर्थं जपे विनियोगः। राजोवाच भगवन्नवतारा मे चण्डिकायास्त्वयोदिताः। एतेषां प्रकृतिं ब्रह्मन् प्रधानं वक्तुमर्हसि॥१॥ आराध्यं यन्मया देव्याः स्वरूपं येन च द्विज। विधिना ब्रूहि सकलं यथावत्प्रणतस्य मे॥२॥ ऋषिरूवाच इदं रहस्यं परममनाख्येयं"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # अथ प्राधानिकं रहस्यम्    
 ## Devi Praahanikam Rahasyam    

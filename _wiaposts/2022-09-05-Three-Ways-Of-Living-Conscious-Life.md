@@ -1,7 +1,7 @@
---- 
+---
 id: 5199 
 title: Three ways of living conscious life
-date: "2022-09-05T08:33:00+05:30"
+date: "2022-09-05"
 permalink: /wiaposts/three-ways-of-living-conscious-life
 tags: [Life, Meditation]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5199-Three-Ways-Of-Living-Conscious-Life.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "There are three ways of living a conscious life, wakeful life. Each has its advantages and disadvantages. In each way you have to 'believe' that others exist equally or more profoundly the way you exist. **The way of knowing the"
 author_profile: true 
 share: true 
 ---
-
 ![Three ways of living conscious life](/assets/images/wiapost/5199-Three-Ways-Of-Living-Conscious-Life.jpg)        
     
 # Three ways of living conscious life    

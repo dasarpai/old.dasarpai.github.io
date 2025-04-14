@@ -2,7 +2,7 @@
 id: 5146
 
 title: A Price For The Wrong Identification
-date: "2021-02-03T08:33:00+05:30"
+date: "2021-02-03"
 permalink: /wiaposts/a-price-for-the-wrong-identification
 tags: [ 'My Views', Philosophy, Vedanta]    
 

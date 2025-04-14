@@ -1,4 +1,4 @@
----  
+---
 id: 5248 
 title:  Definitions of Holi people  
 date: "2024-02-03T08:33:00+05:30"  
@@ -10,14 +10,13 @@ header:
   teaser: /assets/images/wiapost/5248-Definition-of-Holi-people-institutions.jpg  
 author: Hari Thapliyaal  
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "I notice that people often use these terms very loosely without understanding their underlying meanings. Additionally, when I engage in defining these terms, many individuals adopt the \"all are the same\" philosophy. They employ the same old, meaningless logic that"
 author_profile: true  
 share: true  
 toc: True  
 toc_sticky: true  
 keywords: Who is Muni, Who is Rishi, What are Sapta Rishi, Who is Maharshi, Who is Sadguru, Who is Sadhu  
----  
-  
+---
 ![Definition of Holi people](/assets/images/wiapost/5248-Definition-of-Holi-people-institutions.jpg)  
   
 # Definitions of Holi people & institutions  

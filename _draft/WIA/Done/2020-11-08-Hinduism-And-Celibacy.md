@@ -2,7 +2,7 @@
 id: 5140
 
 title: Hinduism And Celibacy
-date: "2020-11-08T08:33:00+05:30"
+date: "2020-11-08"
 permalink: /wiaposts/hinduism-and-celibacy
 tags: [ 'Ethics & Morality', 'Indian Culture', 'My Views', 'Pleasure & Joy']    
 

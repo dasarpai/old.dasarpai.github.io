@@ -1,4 +1,4 @@
----        
+---
 id: 5270
 mathjax: true        
 title:  "Meaning of Beej Mantra from Durga Saptashati"        
@@ -10,12 +10,11 @@ header:
     teaser: /assets/images/wiapost/5270-Meaning-of-Beej-Mantra-from-Durga-Saptashati.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
-excerpt:        
+excerpt: "In Hindu traditions, when the omnipotent, omniscient, and omnipresent power is worshipped as the Divine Feminine, we use different **Beeja Mantras** for **Jap** (chanting) and invocation purposes. ## What is a Mantra? A \"Mantra\" is a syllable or verse that"
 author_profile: true        
 share: true
 keywords: ["Beeja Mantra", "Siddha Kunjika Stotram", "Om Aim Hreem Kleem", "Chamundayai Vichche", "Hindu Mantras", "Goddess Durga", "Spiritual Practices", "Mantra Chanting", "Divine Feminine Energy", "Sanskrit Mantras"]   
---- 
-
+---
 ![How to Know the Truth?](/assets/images/wiapost/5270-Meaning-of-Beej-Mantra-from-Durga-Saptashati.jpg)
    
 # Meaning of Beej Mantra from Durga Saptashati   

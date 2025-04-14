@@ -1,7 +1,7 @@
 --- 
 id: 5111 
 title: Dissolving A Drop In The Ocean
-date: "2019-11-10T08:33:00+05:30"
+date: "2019-11-10"
 permalink: /wiaposts/dissolving-a-drop-in-the-ocean
 tags: [ Moksha, Poetry, Vedanta]    
 keywords: ["exploration of dissolution", "understanding the ocean and drop metaphor", "poetic insights on dissolution and unity", "philosophy of unity and dissolution", "exploring metaphors in philosophical context"]  

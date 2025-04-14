@@ -1,4 +1,4 @@
----        
+---
 id: 5259 
 mathjax: true        
 title:  "My Nonsenses are Most Sensible"        
@@ -11,11 +11,10 @@ header:
     teaser: /assets/images/wiapost/5258-My-Nonsenses-are-Most-Sensible.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
-excerpt:        
+excerpt: "Everyone around me seems insane, while I am the only sane one, the only saint! Whatever I do is the right way; whatever you do is senseless, meaningless, illogical. I smoke in my room, filling it with smoke, and if"
 author_profile: true        
 share: true        
----     
-
+---
 ![My Nonsenses are Most Sensible](/assets/images/wiapost/5258-My-Nonsenses-are-Most-Sensible.jpg)
    
 # My Nonsenses is the Most Sensible      

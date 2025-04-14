@@ -2,7 +2,7 @@
 id: 5028
 
 title: Sources Of Evidence
-date: "2016-08-27T08:33:00+05:30"
+date: "2016-08-27"
 permalink: /wiaposts/sources-of-evidence
 tags: ['Indian Culture', 'Philosophy']    
 

@@ -1,4 +1,4 @@
----    
+---
 id: 4073    
 mathjax: true    
 title: 'Bhagwat Gita Chapter 3 - श्रीमद्भगवद्गीता तृतीयोऽध्यायः'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Bhagwat Gita Chapter 3 अथ तृतीयोऽध्यायः । कर्मयोगः अर्जुन उवाच । ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन । तत्किं कर्मणि घोरे मां नियोजयसि केशव ॥ ३-१॥ व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे । तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥ ३-२॥ श्रीभगवानुवाच ।"
 keywords: [Bhagwat Gita Chapter 3, Karma Yoga, Upnishad]       
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता तृतीयोऽध्यायः    

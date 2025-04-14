@@ -1,4 +1,4 @@
----    
+---
 id: 4070    
 mathjax: true    
 title: 'Bhagwat Gita Chapter 2 - अथ द्वितीयोऽध्यायः - साङ्ख्ययोगः'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Bhagwat Gita Chapter 2 सञ्जय उवाच । तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् । विषीदन्तमिदं वाक्यमुवाच मधुसूदनः ॥ २-१॥ श्रीभगवानुवाच । कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् । अनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन ॥ २-२॥ क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते । क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ॥ २-३॥"
 keywords: [Bhagwat Gita Chapter 2, Sankhya Yoga, Upnishad]    
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # अथ द्वितीयोऽध्यायः – साङ्ख्ययोगः    

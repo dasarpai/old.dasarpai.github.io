@@ -1,4 +1,4 @@
----    
+---
 id: 4026    
 mathjax: true    
 title: 'Devi Aparaadh Kshamapan Stotram - देवी अपराध क्षमापन स्तोत्रं'    
@@ -11,22 +11,27 @@ tags: [Devi, Durga Saptashati, Stotram]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "न मन्त्रं नो यन्त्रं तदापि च न जाने स्तुतिमहो न चाह्वानं ध्यानं तदापि च न जाने स्तुतिकथाः । न जाने मुद्रास्ते तदापि च न जाने विलपनं"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # देवी अपराध क्षमापन स्तोत्रं    
 ## Devi Aparaadh Kshamapan Stotram    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/032-DeviApradhKshamapanStotram1.mp3" %}     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/032-DeviApradhKshamapanStotram2.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/032-DeviApradhKshamapanStotram1.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/032-DeviApradhKshamapanStotram2.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
 न मन्त्रं नो यन्त्रं तदापि च न जाने स्तुतिमहो    
 न चाह्वानं ध्यानं तदापि च न जाने स्तुतिकथाः ।    

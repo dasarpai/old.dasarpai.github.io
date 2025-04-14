@@ -2,7 +2,7 @@
 id: 5010
 
 title: About Experience
-date: "2016-02-03T08:33:00+05:30"
+date: "2016-02-03"
 permalink: /wiaposts/about-experience
 tags: [ Concepts, 'Indian Culture', Mind, Philosophy]    
 

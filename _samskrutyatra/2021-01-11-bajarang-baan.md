@@ -7,7 +7,7 @@ layout: samskrut-layout
 permalink: /samskrutyatra/bajarang-baan
 redirect_from: 
   - '/samskrut/bajarang-baan'
-tags: [Bhajan, Chanting]
+tags: [Bhajan, Hanumanji, Chanting]
 categories: [Chanting]
     
 header:    
@@ -25,7 +25,10 @@ share: true
 # बजरंग बाण    
 ## Bajarang Baan    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/059-HanumanBaan.m4a" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/059-HanumanBaan.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
     
 बाल समय रवि भक्ष लियो तब तीनहुं लोक भयो अंधियारो।    

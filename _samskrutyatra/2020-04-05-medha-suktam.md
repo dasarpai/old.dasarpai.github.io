@@ -27,7 +27,10 @@ share: true
 
 तैत्तिरीयारण्यकम् – ४ प्रपाठकः १० – अनुवाकः ४१-४४
 
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/043-MedhaSuktam.mp3" %} 
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/043-MedhaSuktam.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio> 
 
 
 ॐ यश्छन्द॑सामृष॒भो वि॒श्वरू॑पः। छन्दो॒भ्योऽध्य॒मृता᳚थ्संब॒भूव॑।    

@@ -2,7 +2,7 @@
 id: 5143
 
 title: About Food And Nourishment
-date: "2021-01-03T08:33:00+05:30"
+date: "2021-01-03"
 permalink: /wiaposts/about-food-and-nourishment
 tags: [ Life, 'My Views', 'Pleasure &amp; Joy', Yoga]    
 

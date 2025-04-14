@@ -1,7 +1,7 @@
---- 
+---
 id: 5175 
 title: Earlier Hindu Institutions and Today's Society
-date: "2021-12-12T08:33:00+05:30"
+date: "2021-12-12"
 permalink: /wiaposts/earlier-hindu-institutions-and-todays-society
 tags: [ Indian Culture, Education]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5175-Earlier-Hindu-Institutions-And-Todays-Society.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Joint Families, where each family, Kula, has a Guru and elders. Land belongs to those who can cultivate and feed others. Knowledge belongs to those who can enhance and benefit others with his knowledge. Power belongs to those who can"
 author_profile: true 
 share: true 
 ---
-
 ![Earlier Hindu Institutions and Today's Society](/assets/images/wiapost/5175-Earlier-Hindu-Institutions-And-Todays-Society.jpg)     
    
 # Earlier Hindu Institutions and Today's Society   

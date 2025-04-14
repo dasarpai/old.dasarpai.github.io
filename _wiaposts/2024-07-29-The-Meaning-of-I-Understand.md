@@ -1,4 +1,4 @@
----        
+---
 id: 5251 
 mathjax: true        
 title:  The Meaning of Understanding          
@@ -11,11 +11,10 @@ header:
     teaser: /assets/images/wiapost/5251-The-Meaning-of-Understanding.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
-excerpt:        
+excerpt: "What do you mean when you say, \"I understand\"? Sometimes, you might say, \"I really understand.\" Suppose you have a piece of software code before you, or a philosophical idea is revealed to you (e.g., \"God is knowledge and infinite,"
 author_profile: true        
 share: true        
----        
-
+---
 ![The Meaning of Understanding](/assets/images/wiapost/5251-The-Meaning-of-Understanding.jpg)
    
 # The Meaning of Understanding     

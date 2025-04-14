@@ -11,7 +11,7 @@ tags: [DS Resources, YouTube Channels for Data Scientist, YouTube Channels for A
 keywords: data science youtube channels, machine learning tutorials, AI education, online data science courses, programming tutorials, mathematics for data science, statistics learning, python tutorials, data analysis videos, educational resources
 header:
   teaser:  /assets/images/dsresources/dsr107-Best-YouTube-Channels-to-Learn-Data-Science.jpg
-last_modified_at: 2021-07-28T15:46:43-04:00
+
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

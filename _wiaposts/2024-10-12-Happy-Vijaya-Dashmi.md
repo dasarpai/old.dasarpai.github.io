@@ -1,4 +1,4 @@
----        
+---
 id: 5271
 mathjax: true        
 title:  "Happy Vijayadashami 2024"        
@@ -10,12 +10,11 @@ header:
     teaser: /assets/images/wiapost/5271-Happy-Vijaydashmi-2024.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
-excerpt:        
+excerpt: "Hindus celebrate Durga Puja and remember the stories of Goddess Durga fighting and defeating demons. This festival is celebrated for nine days, culminating on the 10th day, known as Vijayadashami. During these nine days, we recite the *Durga Saptashati*, which"
 author_profile: true        
 share: true
 keywords: ["Durga Puja", "Durga Saptashati", "Vijayadashami", "Goddess Durga", "demons in Durga Saptashati", "Asuras in Hindu mythology", "symbolism of Ravana", "overcoming inner demons", "Mahishasura", "Shumbha and Nishumbha", "Madhu and Kaitabha", "Durga Puja festival", "Durga's victory over demons", "Hindu festival of Durga Puja", "demons representing human tendencies"]  
---- 
-
+---
 ![Happy Vijayadashami 2024](/assets/images/wiapost/5271-Happy-Vijaydashmi-2024.jpg)   
    
 # Happy Vijayadashami 2024   

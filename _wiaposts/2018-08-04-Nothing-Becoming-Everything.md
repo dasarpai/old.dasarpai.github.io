@@ -2,7 +2,7 @@
 id: 5077
 
 title: Nothing Becoming Everything
-date: "2018-08-04T08:33:00+05:30"
+date: "2018-08-04"
 permalink: /wiaposts/nothing-becoming-everything
 tags: ['Concepts', 'Indian Culture', 'Philosophy', 'Science']    
 

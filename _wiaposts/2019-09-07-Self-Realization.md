@@ -1,7 +1,7 @@
 --- 
 id: 5106 
 title: Self Realization
-date: "2019-09-07T08:33:00+05:30"
+date: "2019-09-07"
 permalink: /wiaposts/self-realization
 tags: [ Moksha, Philosophy, Poetry]    
 keywords: ["journey to self-realization", "moksha and self-discovery", "philosophical poetry on self-awareness", "exploring self through philosophy", "insights on self-realization in vedanta"]  

@@ -2,7 +2,7 @@
 id: 5060
 
 title: Rider On Freedom
-date: "2017-10-08T08:33:00+05:30"
+date: "2017-10-08"
 permalink: /wiaposts/rider-on-freedom
 tags: [ Concepts, Education, Philosophy]    
 

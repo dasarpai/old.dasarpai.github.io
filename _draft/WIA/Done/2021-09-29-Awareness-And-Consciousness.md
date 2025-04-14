@@ -2,7 +2,7 @@
 id: 5171
 
 title: Awareness and Consciousness
-date: "2021-09-29T08:33:00+05:30"
+date: "2021-09-29"
 permalink: /wiaposts/awareness-and-consciousness
 tags: [Meditation, Awareness, Consciousness ]    
 

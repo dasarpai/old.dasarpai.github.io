@@ -2,7 +2,7 @@
 id: 5020
 
 title: About Peace Or The Peace
-date: "2016-06-08T08:33:00+05:30"
+date: "2016-06-08"
 permalink: /wiaposts/about-peace-or-the-peace
 tags: [ Concepts, Dharma, 'Ethics and Morality', Philosophy]    
 

@@ -1,4 +1,4 @@
----    
+---
 id: 4071    
 mathjax: true    
 title: 'Kanakdhara Stotram - कनकधारा स्तोत्रं'    
@@ -11,16 +11,15 @@ tags: [Devi, Stotram]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Kanakdhara Stotram अंग हरे: पुलकभूषणमाश्रयन्ती भृंगांगनेव मुकुलाभरणं तमालम । अंगीकृताखिल विभूतिरपांगलीला मांगल्यदाsस्तु मम मंगलदेवताया: ।।1।। मुग्धा मुहुर्विदधती वदने मुरारे: प्रेमत्रपाप्रणिहितानि गतागतानि । माला दृशोर्मधुकरीव महोत्पले या सा मे श्रियं दिशतु सागरसम्भवाया: ।।2।। विश्वामरेन्द्रपदविभ्रमदान दक्षमानन्दहेतुरधिकं मुरविद्विषोsपि । ईषन्निषीदतु मयि क्षण"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # कनकधारा स्तोत्र    
 ## Kanakdhara Stotram    

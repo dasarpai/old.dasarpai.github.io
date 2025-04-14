@@ -2,7 +2,7 @@
 id: 5058
 
 title: Meditation Perspective Of A Practitioner
-date: "2017-09-17T08:33:00+05:30"
+date: "2017-09-17"
 permalink: /wiaposts/meditation-perspective-of-a-practitioner
 tags: [ Concepts, Mindfulness, Yoga]    
 

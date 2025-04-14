@@ -11,7 +11,7 @@ tags: [Devi, Stotram, Guru, Chanting]
 categories: [Chanting]
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
@@ -20,12 +20,15 @@ excerpt: "गुरुर्ब्रह्मा गुरुर्विष्
 share: true    
 ---    
     
-![](/assets/images/samskrut/durga.jpg)    
+![](/assets/images/samskrut/Durga.jpg)    
     
 # गुरु स्तोत्रम्     
 ## Guru Stotram    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/57-GuruStotram057-GuruStotram.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/57-GuruStotram057-GuruStotram.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
     
 गुरुर्ब्रह्मा गुरुर्विष्णुर्गुरुर्देवो महेश्वरः ।    

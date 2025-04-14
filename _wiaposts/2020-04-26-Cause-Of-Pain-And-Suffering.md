@@ -1,7 +1,7 @@
 --- 
 id: 5124 
 title: Cause Of Pain And Suffering
-date: "2020-04-26T08:33:00+05:30"
+date: "2020-04-26"
 permalink: /wiaposts/cause-of-pain-and-suffering
 tags: [ Life, Mind, 'My Views', Philosophy]    
 keywords: ["exploration of pain and suffering", "understanding causes of suffering in philosophy", "poetic insights on pain and human experience", "philosophy of suffering and healing", "exploring pain and suffering in philosophical context"]  

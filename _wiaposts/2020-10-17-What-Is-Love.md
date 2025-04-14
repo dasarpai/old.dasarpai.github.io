@@ -1,7 +1,7 @@
 --- 
 id: 5139 
 title: What Is Love?
-date: "2020-10-17T08:33:00+05:30"
+date: "2020-10-17"
 permalink: /wiaposts/what-is-love
 tags: [ 'My Views', Philosophy, 'Pleasure & Joy']    
 keywords: ["philosophical exploration of love", "understanding love in philosophy", "poetic insights on love and joy", "philosophy of love and relationships", "exploring love in philosophical context"]  
@@ -17,7 +17,7 @@ share: true
 
 ![What Is Love?](/assets/images/wiapost/5139-What-Is-Love.jpg)     
    
-## What Is Love?       
+# What Is Love?       
     
 Normally people think love is between opposite genders.     
 Some people think love is about sex.     

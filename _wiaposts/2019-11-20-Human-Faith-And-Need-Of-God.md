@@ -1,7 +1,7 @@
 --- 
 id: 5112 
 title: Human Faith and Need Of God
-date: "2019-11-20T08:33:00+05:30"
+date: "2019-11-20"
 permalink: /wiaposts/human-faith-and-need-of-god
 tags: [ Dharma, Philosophy]    
 keywords: ["Exploration of faith and god", "understanding human need for god", "poetic insights on faith and divinity", "philosophy of faith and spirituality", "exploring faith in philosophical context"]  

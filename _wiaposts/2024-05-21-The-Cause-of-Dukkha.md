@@ -1,4 +1,4 @@
----        
+---
 id: 5253 
 mathjax: true        
 title:  The Cause of Dukkha          
@@ -11,11 +11,10 @@ header:
     teaser: /assets/images/wiapost/5253-The-Cause-of-Dukkha.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
-excerpt:        
+excerpt: "The mind's work is to think, recall, and dream, To feel emotions like a flowing stream. It swings us from joy to sadness so deep, In its restless search for pleasure to keep. The mind never seeks the path of"
 author_profile: true        
 share: true        
----   
-
+---
 ![](/assets/images/wiapost/5253-The-Cause-of-Dukkha.jpg)
   
 # The Cause of Dukkha   

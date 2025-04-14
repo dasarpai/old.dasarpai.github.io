@@ -1,7 +1,7 @@
---- 
+---
 id: 5145 
 title: World Around
-date: "2021-01-24T08:33:00+05:30"
+date: "2021-01-24"
 permalink: /wiaposts/world-around
 tags: [ Concepts, Life, Mind, 'My Views', Maya]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5145-World-Around.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "There is the world that exists outside, That is the objective world. There is the world that exists inside our body boundary, this is the subjective world. An apple or flower or politician exists outside in the objective world as"
 author_profile: true 
 share: true 
 ---
-
 ![World Around](/assets/images/wiapost/5145-World-Around.jpg)     
    
 # World Around    

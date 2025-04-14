@@ -2,7 +2,7 @@
 id: 5065
 
 title: Raw Material To Create Space And Time
-date: "2018-01-04T08:33:00+05:30"
+date: "2018-01-04"
 permalink: /wiaposts/raw-material-to-create-space-and-time
 tags: ['Concepts', 'Philosophy', 'Science', 'Vedanta']    
 

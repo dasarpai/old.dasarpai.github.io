@@ -28,7 +28,10 @@ share: true
 
 तुलसीकृत रामचरित मानस    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/009-parsatPadPaavan.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/009-parsatPadPaavan.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
 परसत पद पावन सोक नसावन प्रगट भई तपपुंज सही।    
 देखत रघुनायक जन सुख दायक सनमुख होइ कर जोरि रही।।1।।    

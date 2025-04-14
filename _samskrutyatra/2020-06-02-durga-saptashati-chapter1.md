@@ -1,4 +1,4 @@
----    
+---
 id: 4133    
 mathjax: true    
 title: 'Durga Saptashati Chapter 1 - श्रीदुर्गासप्तशती - प्रथमोऽध्यायः'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Durga Saptashati Chapter1 ## मेधा ऋषि का राजा सुरथ और समाधि को भगवती की महिमा बताते हुए मधु-कैटभ-वध का प्रसंग सुनाना ॥विनियोगः॥ ॐ प्रथमचरित्रस्य ब्रह्मा ऋषिः, महाकाली देवता, गायत्री छन्दः, नन्दा शक्तिः, रक्तदन्तिका बीजम्, अग्निस्तत्त्वम्, ऋग्वेदः स्वरूपम्, श्रीमहाकालीप्रीत्यर्थे प्रथमचरित्रजपे"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # श्रीदुर्गासप्तशती – प्रथमोऽध्यायः    
 ## Durga Saptashati Chapter1    

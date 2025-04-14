@@ -2,7 +2,7 @@
 id: 5027
 
 title: The Final Settlement
-date: "2016-08-26T08:33:00+05:30"
+date: "2016-08-26"
 permalink: /wiaposts/the-final-settlement
 tags: ['Philosophy', 'Vedanta']    
 

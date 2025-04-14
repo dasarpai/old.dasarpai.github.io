@@ -1,4 +1,4 @@
----    
+---
 id: 4084    
 mathjax: true    
 title: 'Bhavani Ashtakam - भवान्यष्टकम्'    
@@ -11,21 +11,23 @@ tags: [Devi]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "न तातो न माता न बन्धुर्न दाता न पुत्रो न पुत्री न भृत्यो न भर्ता । न जाया न विद्या न वृत्तिर्ममैव गतिस्त्वं गतिस्त्वं त्वमेका भवानि ॥१॥ भवाब्धावपारे महादुःखभीरु पपात प्रकामी प्रलोभी प्रमत्तः । कुसंसारपाशप्रबद्धः सदाहं गतिस्त्वं गतिस्त्वं त्वमेका भवानि"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # भवान्यष्टकम्    
 ## Bhavani Ashtakam    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/060-BhavaniAshtakam.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/060-BhavaniAshtakam.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
     
     

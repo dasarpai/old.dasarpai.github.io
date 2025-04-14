@@ -2,7 +2,7 @@
 id: 5195
 
 title: The Meaning of Nishkam Karma
-date: "2022-07-13T08:33:00+05:30"
+date: "2022-07-13"
 permalink: /wiaposts/the-meaning-of-nishkam-karma
 tags: [ Life, Karma]    
 

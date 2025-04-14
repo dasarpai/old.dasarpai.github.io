@@ -2,7 +2,7 @@
 id: 5109
 
 title: Love As A Service
-date: "2019-10-16T08:33:00+05:30"
+date: "2019-10-16"
 permalink: /wiaposts/love-as-a-service
 tags: [ Philosophy, Poetry]    
 

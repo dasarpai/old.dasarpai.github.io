@@ -12,7 +12,7 @@ keywords: data science books, AI textbooks, machine learning resources, programm
 header:
   teaser: /assets/images/dsresources/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg
 
-last_modified_at: 2021-07-02T15:46:43-04:00
+
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

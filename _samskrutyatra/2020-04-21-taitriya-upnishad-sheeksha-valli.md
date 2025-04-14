@@ -1,4 +1,4 @@
----    
+---
 id: 4042    
 mathjax: true    
 title: 'Taitriya Upnishad Sheeksha Valli - तैत्तिरीयोपनिषत् सस्वरा - प्रथमा शीक्षावल्ली'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Taitriya Upnishad Sheeksha Valli ॐ श्री गुरुभ्यो नमः । ह॒रिः॒ ॐ । ॐ शं नो॑ मि॒त्रः शं वरु॑णः । शं नो॑ भवत्वर्य॒मा । शं न॒ इन्द्रो॒ बृह॒स्पतिः॑ । शं नो॒ विष्णु॑रुरुक्र॒मः । नमो॒ ब्रह्म॑णे । नम॑स्ते वायो । त्वमे॒व"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # {तैत्तिरीयोपनिषत् सस्वरा – प्रथमा शीक्षावल्ली    

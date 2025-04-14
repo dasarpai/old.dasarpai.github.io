@@ -1,7 +1,7 @@
---- 
+---
 id: 5143 
 title: About Food And Nourishment
-date: "2021-01-03T08:33:00+05:30"
+date: "2021-01-03"
 permalink: /wiaposts/about-food-and-nourishment
 tags: [ Life, 'My Views', 'Pleasure &amp; Joy', Yoga]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5143-About-Food-And-Nourishment.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "We have three living bodies embedded together But superficially it looks one. When it comes to nourishing, it is our responsibility to nourish all three. Consuming food that nourishes the Only one body and ignoring others is not wise. If"
 author_profile: true 
 share: true 
 ---
-
 ![About Food And Nourishment](/assets/images/wiapost/5143-About-Food-And-Nourishment.jpg)     
    
 # About Food And Nourishment   

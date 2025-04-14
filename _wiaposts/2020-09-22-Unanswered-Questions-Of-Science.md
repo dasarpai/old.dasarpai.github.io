@@ -1,7 +1,7 @@
 --- 
 id: 5136 
 title: Unanswered Questions Of Science
-date: "2020-09-22T08:33:00+05:30"
+date: "2020-09-22"
 permalink: /wiaposts/unanswered-questions-of-science
 tags: [ Science]    
 keywords: ["philosophical exploration of unanswered science questions", "understanding scientific mysteries in philosophy", "poetic insights on science and curiosity", "philosophy of science and exploration", "exploring unanswered science questions in philosophical context"]  

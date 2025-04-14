@@ -1,4 +1,4 @@
----        
+---
 id: 5267 
 mathjax: true        
 title:  "How to know the truth?"        
@@ -11,12 +11,11 @@ header:
     teaser: /assets/images/wiapost/5267-How-to-know-the-truth.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
-excerpt:        
+excerpt: "Suppose I come to your home. You offer me food, and I say, \"No, I won't take it.\" You might think I'm hesitating. You ask, \"Have you eaten?\" I reply, \"I have taken food.\" What options do you have then?"
 author_profile: true        
 share: true
 keywords: ["What is truth", "Philosophy of truth", "Existential questions", "How to find truth", "Truth vs belief", "Spiritual truth", "Knowing the self"]     
---- 
-
+---
 ![How to Know the Truth?](/assets/images/wiapost/5267-How-to-know-the-truth.jpg)
    
 # How to Know the Truth?   

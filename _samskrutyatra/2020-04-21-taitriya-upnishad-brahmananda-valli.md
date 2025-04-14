@@ -1,4 +1,4 @@
----    
+---
 id: 4041    
 mathjax: true    
 title: 'Taitriya Upnishad Brahmananda Valli - तैत्तिरीयोपनिषत् सस्वरा - द्वितीया ब्रह्मानन्दवल्ली'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Taitriya Upnishad Brahmananda Valli ॐ स॒ह ना॑ववतु । स॒ह नौ॑ भुनक्तु । स॒ह वी॒र्यं॑ करवावहै । ते॒ज॒स्विना॒वधी॑तमस्तु॒ मा वि॑द्विषा॒वहै᳚ । ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥ ॐ ब्र॒ह्म॒विदा॑प्नोति॒ परम्᳚ । तदे॒षाऽभु॑क्ता । स॒त्यं ज्ञा॒नम॑न॒न्तं ब्रह्म॑ । यो वे॑द॒ निहि॑तं॒ गुहा॑यां"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # तैत्तिरीयोपनिषत् सस्वरा – द्वितीया ब्रह्मानन्दवल्ली    

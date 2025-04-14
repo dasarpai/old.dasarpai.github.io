@@ -1,7 +1,7 @@
 --- 
 id: 5130 
 title: Shraddha On Guru
-date: "2020-06-27T08:33:00+05:30"
+date: "2020-06-27"
 permalink: /wiaposts/shraddha-on-guru
 tags: [ Guru, Poetry]    
 keywords: ["philosophical exploration of shraddha on guru", "understanding devotion in philosophy", "poetic insights on guru and disciple relationship", "philosophy of devotion and guidance", "exploring shraddha in philosophical context"]  

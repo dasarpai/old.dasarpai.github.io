@@ -1,4 +1,4 @@
----    
+---
 id: 4136    
 mathjax: true    
 title: 'Durga Saptashati Chapter 4 - श्रीदुर्गासप्तशती - चतुर्थोऽध्यायः'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Durga Saptashati Chapter4 ## इन्द्रादि देवताओं द्वारा देवी की स्तुति ध्यानम् ॐ कालाभ्राभां कटाक्षैररिकुलभयदां मौलिबद्धेन्दुरेखां शड्‌खं चक्रं कृपाणं त्रिशिखमपि करैरुद्वहन्तीं त्रिनेत्राम्। सिंहस्कन्धाधिरूढां त्रिभुवनमखिलं तेजसा पूरयन्तीं ध्यायेद् दुर्गां जयाख्यां त्रिदशपरिवृतां सेवितां सिद्धिकामैः॥ “ॐ” ऋषिरुवाच*॥१॥ शक्रादयः सुरगणा निहतेऽतिवीर्ये तस्मिन्दुरात्मनि सुरारिबले च"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # श्रीदुर्गासप्तशती – चतुर्थोऽध्यायः    
 ## Durga Saptashati Chapter4    

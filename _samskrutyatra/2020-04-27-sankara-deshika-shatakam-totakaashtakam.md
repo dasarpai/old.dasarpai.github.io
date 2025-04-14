@@ -25,7 +25,10 @@ share: true
 # तोटकाष्टकं ॥ शंकरदेशिकाष्टकम्     
 ## TotakaAshtakam - Sankara Deshika Shatakam    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/046-ShriShankarDeshikaShtakam.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/046-ShriShankarDeshikaShtakam.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
     
     

@@ -2,7 +2,7 @@
 id: 5165
 
 title: How to Evaluate IQ
-date: "2021-07-12T08:33:00+05:30"
+date: "2021-07-12"
 permalink: /wiaposts/how-to-evaluate-iq
 tags: [Education ]    
 

@@ -1,4 +1,4 @@
----    
+---
 id: 4028    
 mathjax: true    
 title: 'Shri Ganga Stotram - श्री गंगा स्तोत्रम'    
@@ -15,17 +15,19 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "देवि सुरेश्वरि भगति गंगे त्रिभुवनतारिणि तरलतरंगे । शंकरमौलिविहारिणि विमले मम मतिरास्तां तव पदकमले ।।1।। भागीरथि सुखदायिनि मातस्तव जलमहिमा निगमे ख्यात: । नाहं जाने तव महिमानं पाहि कृपामयि मामज्ञानम ।।2।। हरिपदपाद्यतरंगिणि गंगे हिमविधुमुक्ताधवलतरंगे । दूरीकुरू मम दुष्कृतिभारं कुरु कृपया भवसागरपारम ।।3।।"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Ganga.jpg)    
     
 # श्री गंगा स्तोत्रम    
 ## Shri Ganga Stotram    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/034-ShriGangaStotram.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/034-ShriGangaStotram.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
 देवि सुरेश्वरि भगति गंगे त्रिभुवनतारिणि तरलतरंगे ।    
 शंकरमौलिविहारिणि विमले मम मतिरास्तां तव पदकमले ।।1।।    

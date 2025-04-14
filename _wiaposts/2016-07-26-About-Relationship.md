@@ -2,7 +2,7 @@
 id: 5024
 
 title: About Relationship
-date: "2016-07-26T08:33:00+05:30"
+date: "2016-07-26"
 permalink: /wiaposts/about-relationship
 tags: ['Concepts', 'Philosophy', 'Vedanta']    
 

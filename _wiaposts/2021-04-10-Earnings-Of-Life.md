@@ -1,7 +1,7 @@
---- 
+---
 id: 5151 
 title: Earnings Of Life
-date: "2021-04-10T08:33:00+05:30"
+date: "2021-04-10"
 permalink: /wiaposts/earnings-of-life
 tags: [ 'Mad Thinking', 'My Views', Philosophy]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5151-Earnings-Of-Life.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "You are living comfortably at your home. You have inquisitiveness to know the world around So you go out and travel as far places as you want to know. While on the journey you feel you have to eat to"
 author_profile: true 
 share: true 
 ---
-
 ![Earnings Of Life](/assets/images/wiapost/5151-Earnings-Of-Life.jpg)       
     
 # Earnings Of Life   

@@ -2,7 +2,7 @@
 id: 5074
 
 title: A Witness Of The Transformation
-date: "2018-05-25T08:33:00+05:30"
+date: "2018-05-25"
 permalink: /wiaposts/a-witness-of-the-transformation
 tags: [ Concepts, Life, Mindfulness, Philosophy]    
 

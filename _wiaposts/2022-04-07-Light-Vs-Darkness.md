@@ -1,7 +1,7 @@
---- 
+---
 id: 5184 
 title: Light vs Darkness
-date: "2022-04-07T08:33:00+05:30"
+date: "2022-04-07"
 permalink: /wiaposts/light-vs-darkness
 tags: [Concepts, My Views ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5184-Light-Vs-Darkness.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Darkness in the whole existence is natural. It need not be created. Darkness is universal. But by effort if you can bring light then darkness disappears! Where does it go? Does it get contracted or Displaced? If you light all"
 author_profile: true 
 share: true 
 ---
-
 ![Light vs Darkness](/assets/images/wiapost/5184-Light-Vs-Darkness.jpg)   
    
 # Light vs Darkness   

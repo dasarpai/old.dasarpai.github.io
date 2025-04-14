@@ -1,4 +1,4 @@
----    
+---
 id: 4171    
 mathjax: true    
 title: 'Vijnana Bhairava Tantra Sutras - विज्ञान भैरव तंत्र के सूत्र'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "माता पार्वती के यह प्रश्न पूछने पर की ” ईश्वर कौन है” और “क्या है ?” भगवन शंकर उन्हें सीधे उत्तर न देके निम्नलिखित विधियां बताते है, जोकि ११२ है। किसी न किसी रूप में, सभी ग्रन्थ, धर्मो में इन्ही"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Rudra.jpg)    
     
 # विज्ञान भैरव तंत्र के सूत्र    

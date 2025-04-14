@@ -26,7 +26,10 @@ share: true
 ## Jai Jai Surnayak    
 (तुलसीकृत रामचरित मानस)    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/029-JaijaiSurNayak.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/029-JaijaiSurNayak.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
 जय जय सुरनायक जन सुखदायक प्रनतपाल भगवंता।    
 गो द्विज हितकारी जय असुरारी सिधुंसुता प्रिय कंता।।    

@@ -2,7 +2,7 @@
 id: 5086
 
 title: Who Is Really Sleeping?
-date: "2018-11-26T08:33:00+05:30"
+date: "2018-11-26"
 permalink: /wiaposts/who-is-really-sleeping
 tags: [ 'Bhagwat Gita', Concepts, Philosophy, Poetry]    
 

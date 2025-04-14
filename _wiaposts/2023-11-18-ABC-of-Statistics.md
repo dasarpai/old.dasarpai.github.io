@@ -1,4 +1,4 @@
----        
+---
 id: 5237 
 title:  ABC of Statistics          
 date: "2023-11-18T08:33:00+05:30"        
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5237-ABC-of-Statistics.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
-excerpt:        
+excerpt: "1. A table or dataset is generally means same thing. Ideally a dataset can have multiple tables. 1. A table contains numerous columns. 1. A table or dataset contains information, this can pertain to either a sample or a population."
 author_profile: true        
 share: true        
----        
-        
+---
 ![ABC of Statistics](/assets/images/wiapost/5237-ABC-of-Statistics.jpg)   
 		
 # ABC of Statistics    

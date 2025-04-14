@@ -1,4 +1,4 @@
----     
+---
 id: 5207  
 title: Are You Feeling Stuck in Life    
 date: "2022-12-16T08:33:00+05:30"    
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5207-Are-You-Feeling-Stuck-in-Life.jpg    
 author: Hari Thapliyaal     
 layout:   wiaposts-layout
-excerpt:   
+excerpt: "Life is not a railway track that goes straight. Every life has ups and downs, it has cycles of movement. But it is easy to say when you are at the peak or rising. From my experience, I can say"
 author_profile: true     
 share: true     
----    
-    
+---
 ![Classical Literature](/assets/images/wiapost/5207-Are-You-Feeling-Stuck-in-Life.jpg)         
     
 # Are You Feeling Stuck in Life?    

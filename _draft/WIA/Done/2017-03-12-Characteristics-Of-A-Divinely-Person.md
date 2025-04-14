@@ -2,7 +2,7 @@
 id: 5042
 
 title: Characteristics Of A Divinely Person
-date: "2017-03-12T08:33:00+05:30"
+date: "2017-03-12"
 permalink: /wiaposts/characteristics-of-a-divinely-person
 tags: [ 'Bhagwat Gita', Philosophy]    
 

@@ -2,7 +2,7 @@
 id: 5072
 
 title: Product Focus Vs Process Focus
-date: "2018-04-21T08:33:00+05:30"
+date: "2018-04-21"
 permalink: /wiaposts/product-focus-vs-process-focus
 tags: ['Bhagwat Gita', 'Concepts', 'Indian Culture', 'Philosophy']    
 

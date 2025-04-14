@@ -2,7 +2,7 @@
 id: 7017 
 mathjax: true        
 title: "Pakistan and Partition of India"
-date: "2025-03-02T08:33:00+05:30"
+date: "2025-03-02"
 permalink: /gk/pakistan-and-partition-of-india
 tags: [Pakistan, Partition of India, Indian History, Freedom Struggle of India, Independence of India]
 keywords: [Pakistan and India Partition, Freedom Struggle of India, Independence of India, Indian History, British Rule in India]

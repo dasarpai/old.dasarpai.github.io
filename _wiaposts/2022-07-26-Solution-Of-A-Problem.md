@@ -1,7 +1,7 @@
---- 
+---
 id: 5196 
 title: Solution of a Problem
-date: "2022-07-26T08:33:00+05:30"
+date: "2022-07-26"
 permalink: /wiaposts/solution-of-a-problem
 tags: [Life, Vedanta ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5196-Solution-Of-A-Problem.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "There are two worlds around us. One is the real world and another is the projected world. In both worlds objects are the same but their impact on us is different. In the real world, things exist the way they"
 author_profile: true 
 share: true 
 ---
-
 ![Solution of a Problem](/assets/images/wiapost/5196-Solution-Of-A-Problem.jpg)        
      
 # Solution of a Problem      

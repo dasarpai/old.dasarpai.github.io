@@ -1,7 +1,7 @@
 --- 
 id: 5137 
 title: Universal Constants
-date: "2020-09-26T08:33:00+05:30"
+date: "2020-09-26"
 permalink: /wiaposts/universal-constants
 tags: [ Nature, Science]    
 keywords: ["exploration of universal constants", "understanding nature's constants in philosophy", "poetic insights on science and nature", "philosophy of constants and change", "exploring universal constants in philosophical context"]  

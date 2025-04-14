@@ -1,7 +1,7 @@
---- 
+---
 id: 5154 
 title: What Is Death?
-date: "2021-04-30T08:33:00+05:30"
+date: "2021-04-30"
 permalink: /wiaposts/what-is-death
 tags: [ Death, Life, 'Mad Thinking', Philosophy]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5154-What-Is-Death.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Death cannot be understood without dwelling on the term called life. When a pot comes in shape from mud do you call that pot a new life? When milk turned into curd do you call that curd a new life?"
 author_profile: true 
 share: true 
 ---
-
 ![What Is Death?](/assets/images/wiapost/5154-What-Is-Death.jpg)   
    
 # What Is Death?    

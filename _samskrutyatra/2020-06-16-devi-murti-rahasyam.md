@@ -1,4 +1,4 @@
----    
+---
 id: 4147    
 mathjax: true    
 title: 'Devi Murti Rahasyam - मूर्तिरहस्यम्'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Devi Murti Rahasyam ऋषिरुवाच ॐ नन्दा भगवती नाम या भविष्यति नन्दजा। स्तुता सा पूजिता भक्त्या वशीकुर्याज्जगत्त्रयम्॥१॥ कनकोत्तमकान्तिः सा सुकान्तिकनकाम्बरा। देवी कनकवर्णाभा कनकोत्तमभूषणा॥२॥ कमलाङ्कुशपाशाब्जैरलङ्कृतचतुर्भुजा। इन्दिरा कमला लक्ष्मीः सा श्री रुक्माम्बुजासना॥३॥ या रक्तदन्तिका नाम देवी प्रोक्ता मयानघ। तस्याः स्वरूपं वक्ष्यामि शृणु"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # अथ मूर्तिरहस्यम्    
 ## Devi Murti Rahasyam    

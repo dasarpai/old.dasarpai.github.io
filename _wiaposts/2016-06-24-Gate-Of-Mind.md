@@ -2,7 +2,7 @@
 id: 5021
 
 title: Gate Of Mind
-date: "2016-06-24T08:33:00+05:30"
+date: "2016-06-24"
 permalink: /wiaposts/gate-of-mind
 tags: ['Mind', 'Philosophy', 'Vedanta']    
 

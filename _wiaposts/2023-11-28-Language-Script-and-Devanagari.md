@@ -1,4 +1,4 @@
----        
+---
 id: 5239 
 title: Language, Script and Devanagari          
 date: "2023-11-28T08:33:00+05:30"        
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5239-Language-Script-and-Devanagari.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
-excerpt:        
+excerpt: "Language is that which we speak. Script is that which we use to write words of any language. Hindi is a language not a script. English is a language not a script. Tamil is a language and script. Devanaagari is"
 author_profile: true        
 share: true        
----        
-        
+---
 ![Language, Script and Devanagari](/assets/images/wiapost/5239-Language-Script-and-Devanagari.jpg)    
    
 # Language, Script and Devanagari   

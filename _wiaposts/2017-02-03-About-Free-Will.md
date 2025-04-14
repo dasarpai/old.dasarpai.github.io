@@ -2,7 +2,7 @@
 id: 5038
 
 title: About Free Will
-date: "2017-02-03T08:33:00+05:30"
+date: "2017-02-03"
 permalink: /wiaposts/about-free-will
 tags: ['Concepts', 'Moksha', 'Philosophy', 'Vedanta']    
 

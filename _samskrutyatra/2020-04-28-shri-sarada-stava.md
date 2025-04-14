@@ -25,7 +25,10 @@ share: true
 # श्रीसारदास्तवं     
 ## Shri Sarada Stava    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/030-shriSaradaStava.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/030-shriSaradaStava.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
     
     

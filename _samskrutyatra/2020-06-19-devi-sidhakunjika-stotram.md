@@ -12,7 +12,7 @@ tags: [Devi, Durga Saptashati, Stotram]
 categories:
 
 header:
-  teaser: /assets/images/samskrut/durga.jpg
+  teaser: /assets/images/samskrut/Durga.jpg
 author: 'Hari Thapliyaal'
 
 excerpt: #
@@ -20,7 +20,7 @@ author_profile: true
 share: true
 ---
 
-![](/assets/images/samskrut/durga.jpg)
+![](/assets/images/samskrut/Durga.jpg)
 
 # सिद्धकुञ्जिकास्तोत्रम्
 ## Devi SidhaKunjiKa Stotram

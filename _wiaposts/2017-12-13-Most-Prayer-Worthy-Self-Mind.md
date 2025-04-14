@@ -2,7 +2,7 @@
 id: 5064
 
 title: Most Prayer Worthy Self Mind
-date: "2017-12-13T08:33:00+05:30"
+date: "2017-12-13"
 permalink: /wiaposts/most-prayer-worthy-self-mind
 tags: ['Concepts', 'Philosophy', 'Prayers']    
 

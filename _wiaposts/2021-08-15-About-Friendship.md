@@ -1,7 +1,7 @@
---- 
+---
 id: 5167 
 title: About Friendship
-date: "2021-08-15T08:33:00+05:30"
+date: "2021-08-15"
 permalink: /wiaposts/about-friendship
 tags: [ Life, Friendship]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5167-About-Friendship.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "The definition of friendship in real life is not the same as in social media. In the age of social media Connecting relatives, colleagues, like minded people is considered friendship. It has its own utility. Having relationships like spouse, children,"
 author_profile: true 
 share: true 
 ---
-
 ![About Friendship](/assets/images/wiapost/5167-About-Friendship.jpg)     
    
 ## About Friendship   

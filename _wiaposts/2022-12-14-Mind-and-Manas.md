@@ -1,4 +1,4 @@
----     
+---
 id: 5206 
 title: Mind and Manas    
 date: "2022-12-14T08:33:00+05:30"    
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5206-mind-and-manas.jpg    
 author: Hari Thapliyaal     
 layout:   wiaposts-layout
-excerpt:   
+excerpt: "## Two different concepts, Mind is not Manas The difference between Mind and Manas is not only of language. Normally we think Mind is enlgish word, Manas is Sanskrit word, मन is Hindi word and they all are same. But,"
 author_profile: true     
 share: true     
----    
-    
+---
 ![Classical Literature](/assets/images/wiapost/5206-mind-and-manas.jpg )    
     
 # Mind and Manas    

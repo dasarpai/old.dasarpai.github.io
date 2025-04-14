@@ -1,4 +1,4 @@
----    
+---
 id: 4116    
 mathjax: true    
 title: 'Bhagwat Gita Chapter 17 - श्रीमद्भगवद्गीता सप्तदशोऽध्यायः - श्रद्धात्रयविभागयोगः'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Bhagwat Gita Chapter 17 अथ सप्तदशोऽध्यायः । श्रद्धात्रयविभागयोगः अर्जुन उवाच । ये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयान्विताः । तेषां निष्ठा तु का कृष्ण सत्त्वमाहो रजस्तमः ॥ १७-१॥ श्रीभगवानुवाच । त्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा । सात्त्विकी राजसी चैव तामसी चेति"
 keywords: [Bhagwat Gita Chapter 17, Shraddha Tri Vibhag Yoga, Three Types of Shraddha, Upnishad]       
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता सप्तदशोऽध्यायः – श्रद्धात्रयविभागयोगः    

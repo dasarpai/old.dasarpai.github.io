@@ -29,7 +29,10 @@ share: true
     
 ## Acyutam Keshavam Ramanarayanam    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/055-Achutashtkam.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/055-Achutashtkam.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
 अच्युतं केशवं रामनारायणं कृष्णदामोदरं वासुदेवं हरिम्।    
 श्रीधरं माधवं गोपिकावल्लभं जानकीनायकं रामचंद्रं भजे॥1॥    

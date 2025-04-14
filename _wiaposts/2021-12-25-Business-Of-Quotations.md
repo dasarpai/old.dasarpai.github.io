@@ -1,7 +1,7 @@
---- 
+---
 id: 5177 
 title: Business of Quotations
-date: "2021-12-25T08:33:00+05:30"
+date: "2021-12-25"
 permalink: /wiaposts/business-of-quotations
 tags: [Concepts, Information ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5177-Business-Of-Quotations.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "When you are convinced of something then to convey that experience you use words. Because you do not have credibility to be believed so you refer from the best seller books, holy books, from your guru's books etc. After this"
 author_profile: true 
 share: true 
 ---
-
 ![Business of Quotations](/assets/images/wiapost/5177-Business-Of-Quotations.jpg)     
    
 # Business of Quotations    

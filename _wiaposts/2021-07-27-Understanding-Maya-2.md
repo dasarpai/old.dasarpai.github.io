@@ -1,7 +1,7 @@
---- 
+---
 id: 5166 
 title: Understanding Maya 2
-date: "2021-07-27T08:33:00+05:30"
+date: "2021-07-27"
 permalink: /wiaposts/understanding-maya-2
 tags: [ Vedanta, Maya, Parenting]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5166-Understanding-Maya-2.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "When you see sun is rising and settings But you know it doesn't Approx 72 inch is human body height One inch in eye size One tenth is size of pupil in the eye A small dust particle is enough"
 author_profile: true 
 share: true 
 ---
-
 ![Understanding Maya 2](/assets/images/wiapost/5166-Understanding-Maya-2.jpg)     
    
 # Understanding Maya 2   

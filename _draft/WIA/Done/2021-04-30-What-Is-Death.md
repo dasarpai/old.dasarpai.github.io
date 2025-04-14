@@ -2,7 +2,7 @@
 id: 5154
 
 title: What Is Death?
-date: "2021-04-30T08:33:00+05:30"
+date: "2021-04-30"
 permalink: /wiaposts/what-is-death
 tags: [ Death, Life, 'Mad Thinking', Philosophy]    
 

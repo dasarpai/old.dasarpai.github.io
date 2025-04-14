@@ -1,7 +1,7 @@
---- 
+---
 id: 5093 
 title: Who Is The Knower Of Brahman?
-date: "2019-03-15T08:33:00+05:30"
+date: "2019-03-15"
 permalink: /wiaposts/who-is-the-knower-of-brahman
 tags: [ 'Bhagwat Gita', Concepts, 'Indian Culture', Philosophy]    
 keywords: [Brahma Gnyani, Indian society, Mukta Purusha, Wisdom, Philosophy]  
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5093-Who-Is-The-Knower-Of-Brahman.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Don’t make the mistake of thinking that Brahma Gnyani knows everything, he doesn’t eat anything, he doesn’t do anything, he sits at one place under a tree without moving and bless to all whoever comes to him. I do not"
 author_profile: true 
 share: true 
 ---
-
 ![Who Is The Knower Of Brahman?](/assets/images/wiapost/5093-Who-Is-The-Knower-Of-Brahman.jpg)  
    
 # Who Is The Knower Of Brahman?   

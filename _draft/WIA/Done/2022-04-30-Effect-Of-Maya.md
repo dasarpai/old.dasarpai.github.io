@@ -2,7 +2,7 @@
 id: 5187
 
 title: Effect of Maya
-date: "2022-04-30T08:33:00+05:30"
+date: "2022-04-30"
 permalink: /wiaposts/effect-of-maya
 tags: [Vedanta, Maya, My Views ]    
 

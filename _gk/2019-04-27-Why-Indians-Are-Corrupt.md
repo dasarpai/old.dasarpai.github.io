@@ -2,7 +2,7 @@
 id: 7002
 mathjax: true  
 title: Why Indians Are Corrupt - a Rebuttal
-date: "2019-04-27T08:33:00+05:30"
+date: "2019-04-27"
 permalink: /gk/why-indians-are-corrupt
 tags: [ Rebuttal]    
 

@@ -1,4 +1,4 @@
----    
+---
 id: 4046    
 mathjax: true    
 title: 'Shri Kaal Bhairav Ashtakam - श्री काल भैरव अष्टकम्‌'    
@@ -15,18 +15,20 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "देवराज सेव्यमान पावनाङ्घ्रि पङ्कजं व्यालयज्ञ सूत्रमिन्दु शेखरं कृपाकरम्‌ । नारदादि योगिबृन्द वन्दितं दिगम्बरं काशिकापुराधिनाथ कालभेरवं भजे ॥ 1 ॥ भानुकोटि भास्वरं भवब्धितारकं परं नीलकण्ठ मीप्सितार्ध दायकं त्रिलोचनम्‌ । कालकाल मम्बुजाक्ष मस्तशून्य मक्षरं काशिकापुराधिनाथ कालभैरवं भजे ॥ 2 ॥ शूलटङ्क पाशदण्ड"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Shiva.jpg)    
     
 # श्री काल भैरव अष्टकम्‌    
 ## Shri Kaal Bhairav Ashtakam    
     
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/014-KaalBhairavAshtakam.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/014-KaalBhairavAshtakam.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
     
     

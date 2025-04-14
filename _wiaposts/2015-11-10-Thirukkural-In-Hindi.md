@@ -2,7 +2,7 @@
 id: 5002
 
 title: Thirukkural In Hindi
-date: "2015-11-10T08:33:00+05:30"
+date: "2015-11-10"
 permalink: /wiaposts/thirukkural-in-hindi
 tags: [Indian Culture, Philosophy, Thirukkural]    
 

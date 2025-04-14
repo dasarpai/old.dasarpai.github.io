@@ -2,7 +2,7 @@
 id: 5025
 
 title: My Creator
-date: "2016-08-02T08:33:00+05:30"
+date: "2016-08-02"
 permalink: /wiaposts/my-creator
 tags: ['Mindfulness', 'Philosophy']    
 

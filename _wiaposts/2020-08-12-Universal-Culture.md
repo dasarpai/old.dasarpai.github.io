@@ -1,7 +1,7 @@
 --- 
 id: 5134 
 title: Universal Culture
-date: "2020-08-12T08:33:00+05:30"
+date: "2020-08-12"
 permalink: /wiaposts/universal-culture
 tags: [ Concepts, Education, 'Indian Culture']    
 keywords: ["philosophical exploration of universal culture", "understanding cultural integration in philosophy", "poetic insights on global culture and identity", "philosophy of culture and diversity", "exploring universal culture in philosophical context"]  

@@ -1,4 +1,4 @@
----    
+---
 id: 4141    
 mathjax: true    
 title: 'Durga Saptashati Chapter 9 - श्रीदुर्गासप्तशती - नवमोऽध्यायः'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Durga Saptashati Chapter9 ## निशुम्भ-वध ॥ध्यानम्॥ ॐ बन्धूककाञ्चननिभं रुचिराक्षमालां पाशाङ्कुशौ च वरदां निजबाहुदण्डैः। बिभ्राणमिन्दुशकलाभरणं त्रिनेत्र- मर्धाम्बिकेशमनिशं वपुराश्रयामि॥ “ॐ” राजोवाच॥१॥ विचित्रमिदमाख्यातं भगवन् भवता मम। देव्याश्‍चरितमाहात्म्यं रक्तबीजवधाश्रितम्॥२॥ भूयश्‍चेच्छाम्यहं श्रोतुं रक्तबीजे निपातिते। चकार शुम्भो यत्कर्म निशुम्भश्‍चातिकोपनः॥३॥ ऋषिरुवाच॥४॥ चकार कोपमतुलं रक्तबीजे निपातिते। शुम्भासुरो"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # श्रीदुर्गासप्तशती – नवमोऽध्यायः    
 ## Durga Saptashati Chapter9    

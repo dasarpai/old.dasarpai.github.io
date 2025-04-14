@@ -2,7 +2,7 @@
 id: 5003
 
 title: Who Is The Real Enemy Of A Hindu
-date: "2015-12-03T08:33:00+05:30"
+date: "2015-12-03"
 permalink: /wiaposts/who-is-the-real-enemy-of-a-hindu
 tags: [My Views, Real Enemy, Hindu Society]    
 

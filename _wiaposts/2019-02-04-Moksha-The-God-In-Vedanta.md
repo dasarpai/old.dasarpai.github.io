@@ -1,7 +1,7 @@
 --- 
 id: 5091
 title: Moksha The God In Vedanta
-date: "2019-02-04T08:33:00+05:30"
+date: "2019-02-04"
 permalink: /wiaposts/moksha-the-god-in-vedanta
 tags: [ 'Indian Culture', 'Moksha', 'Philosophy', 'Vedanta', 'Maya']    
 

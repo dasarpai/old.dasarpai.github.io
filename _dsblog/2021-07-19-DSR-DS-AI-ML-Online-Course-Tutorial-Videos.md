@@ -12,7 +12,7 @@ keywords: online courses, data science tutorials, machine learning courses, AI e
 excerpt: "Comprehensive collection of online courses, tutorials, and video resources for learning Data Science, AI, and Machine Learning. Find the best educational content from top institutions and instructors."
 header:
   teaser:  /assets/images/dsresources/dsr119-DS-AI-ML-Online-Course-Tutorial-Videos.jpg
-last_modified_at: 2021-07-19T15:46:43-04:00
+
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

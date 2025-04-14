@@ -2,7 +2,7 @@
 id: 5135
 
 title: Value Based True Friendship
-date: "2020-08-31T08:33:00+05:30"
+date: "2020-08-31"
 permalink: /wiaposts/value-based-true-friendship
 tags: [ 'Indian Culture', 'Motivational Stories']    
 

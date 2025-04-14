@@ -2,7 +2,7 @@
 id: 5197
 
 title: Time and Present
-date: "2022-07-27T08:33:00+05:30"
+date: "2022-07-27"
 permalink: /wiaposts/time-and-present
 tags: [Time, Kaala ]    
 

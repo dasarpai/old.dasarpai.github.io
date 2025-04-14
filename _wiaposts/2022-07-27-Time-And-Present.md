@@ -1,7 +1,7 @@
---- 
+---
 id: 5197 
 title: Time and Present
-date: "2022-07-27T08:33:00+05:30"
+date: "2022-07-27"
 permalink: /wiaposts/time-and-present
 tags: [Time, Kaala ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5197-Time-And-Present.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "One second is made of 1000 milliseconds. One millisecond is made of 1000 microseconds. One microsecond is made of 1000 nanoseconds. One nanosecond is made of 1000 picoseconds. So, one second is made of 10^12 picoseconds. Thus a picosecond is"
 author_profile: true 
 share: true 
 ---
-
 ![Time and Present](/assets/images/wiapost/5197-Time-And-Present.jpg)      
     
 ## Time and Present      

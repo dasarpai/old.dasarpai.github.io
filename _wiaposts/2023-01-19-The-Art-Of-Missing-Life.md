@@ -1,4 +1,4 @@
----                        
+---
 id: 5215 
 title:  The Art -Of Missing Life                 
 date: "2023-01-19T08:33:00+05:30"                        
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5215-The-Art-Of-Missing-Life.jpg                       
 author: Hari Thapliyaal                        
 layout:   wiaposts-layout
-excerpt:                        
+excerpt: "You take a photograph of a bird, data is in your camera and the bird has flown. You take a photograph of a river, data is in your camera, and the water has gone away. You listen to a music"
 author_profile: true                        
 share: true                        
----                        
-                        
+---
 ![The Logic of Entangled Mind](/assets/images/wiapost/5215-The-Art-Of-Missing-Life.jpg)                             
                            
 # The Art Of Missing Life     

@@ -1,4 +1,4 @@
----    
+---
 id: 4138    
 mathjax: true    
 title: 'Durga Saptashati Chapter 6 - श्रीदुर्गासप्तशती - षष्ठोऽध्यायः'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Durga Saptashati Chapter6 ## धूम्रलोचन-वध ॥ध्यानम्॥ ॐ नागाधीश्‍वरविष्टरां फणिफणोत्तंसोरुरत्‍नावली- भास्वद्देहलतां दिवाकरनिभां नेत्रत्रयोद्भासिताम्। मालाकुम्भकपालनीरजकरां चन्द्रार्धचूडां परां सर्वज्ञेश्‍वरभैरवाङ्‌कनिलयां पद्मावतीं चिन्तये॥ “ॐ” ऋषिरुवाच॥१॥ इत्याकर्ण्य वचो देव्याः स दूतोऽमर्षपूरितः। समाचष्ट समागम्य दैत्यराजाय विस्तरात्॥२॥ तस्य दूतस्य तद्वाक्यमाकर्ण्यासुरराट् ततः। सक्रोधः प्राह दैत्यानामधिपं धूम्रलोचनम्॥३॥ हे धूम्रलोचनाशु"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # श्रीदुर्गासप्तशती – षष्ठोऽध्यायः    
 ## Durga Saptashati Chapter6    

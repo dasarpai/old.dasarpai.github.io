@@ -2,7 +2,7 @@
 id: 5185
 
 title: Paapam and Punyam in Awareness
-date: "2022-04-12T08:33:00+05:30"
+date: "2022-04-12"
 permalink: /wiaposts/paapam-and-punyam-in-awareness
 tags: [ My Views, Ethics and Morality, Awareness]    
 

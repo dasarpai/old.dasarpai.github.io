@@ -1,4 +1,4 @@
----    
+---
 id: 4149    
 mathjax: true    
 title: 'Shri Durga Manas Puja - श्रीदुर्गामानस-पूजा'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Shri Durga Manas Puja उद्यच्चन्दनकुङ्कुमारुण पयोधाराभिराप्लावितां नानानर्घ्यमणिप्रवालघटितां दत्तां गृहाणाम्बिके। आमृष्टां सुरसुन्दरीभिरभितो हस्ताम्बुजैर्भक्तितो मातः सुन्दरि भक्तकल्पलतिके श्रीपादुकामादरात्॥१॥ देवेन्द्रादिभिरर्चितं सुरगणैरादाय सिंहासनं चञ्चत्काञ्चनसंचयाभिरचितं चारुप्रभाभास्वरम्। एतच्चम्पककेतकीपरिमलं तैलं महानिर्मलं गन्धोद्वर्तनमादरेण तरुणीदत्तं गृहाणाम्बिके॥२॥ पश्‍चाद्देवि गृहाण शम्भुगृहिणि श्रीसुन्दरि प्रायशो गन्धद्रव्यसमूहनिर्भरतरं धात्रीफलं निर्मलम्। तत्केशान् परिशोध्य कङ्कतिकया मन्दाकिनीस्रोतसि"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # श्रीदुर्गामानस-पूजा    
 ## Shri Durga Manas Puja    

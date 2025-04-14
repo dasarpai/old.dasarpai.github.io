@@ -2,7 +2,7 @@
 id: 5057
 
 title: Job Satisfaction
-date: "2017-08-30T08:33:00+05:30"
+date: "2017-08-30"
 permalink: /wiaposts/job-satisfaction
 tags: [ Concepts, Philosophy, 'Pleasure & Joy']    
 

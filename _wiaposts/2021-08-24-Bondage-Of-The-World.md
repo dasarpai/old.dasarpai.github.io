@@ -1,7 +1,7 @@
---- 
+---
 id: 5168 
 title: Bondage of the World
-date: "2021-08-24T08:33:00+05:30"
+date: "2021-08-24"
 permalink: /wiaposts/bondage-of-the-world
 tags: [ Life, Karma]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5168-Bondage-Of-The-World.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Bondage is of two types, physical and mental. Either you put yourself in this bondage or system around you puts you in that bondage. In the bondage either you are happy or not. Either you have any hope of coming"
 author_profile: true 
 share: true 
 ---
-
 ![Bondage of the World](/assets/images/wiapost/5168-Bondage-Of-The-World.jpg)     
     
 # Bondage of the World   

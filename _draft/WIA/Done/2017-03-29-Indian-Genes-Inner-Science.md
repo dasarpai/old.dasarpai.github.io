@@ -2,7 +2,7 @@
 id: 5045
 
 title: Indian Genes Inner Science
-date: "2017-03-29T08:33:00+05:30"
+date: "2017-03-29"
 permalink: /wiaposts/indian-genes-inner-science
 tags: [ 'Indian Culture', Philosophy]    
 

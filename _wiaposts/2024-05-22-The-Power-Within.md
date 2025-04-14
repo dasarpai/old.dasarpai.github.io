@@ -1,4 +1,4 @@
----        
+---
 id: 5254 
 mathjax: true        
 title:  The Power Within          
@@ -11,11 +11,10 @@ header:
     teaser: /assets/images/wiapost/5254-The-Power-Within.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
-excerpt:        
+excerpt: "We all have the power to heal our own soul, Yet many still suffer, not feeling whole. Some can heal others, it’s their choice to make, To mend what is broken or let it ache. A rare few taste the"
 author_profile: true        
 share: true        
----  
-
+---
 ![](/assets/images/wiapost/5254-The-Power-Within.jpg)   
    
 # The Power Within    

@@ -1,4 +1,4 @@
----    
+---
 id: 4092    
 mathjax: true    
 title: 'Durgati Naashini Durge - दुर्गतिनाशिनी दुर्गे'    
@@ -11,21 +11,23 @@ tags: [Bhajan, Devi]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "जय दुर्गतिनाशिनी दुर्गे, माँ ज्ञान- भक्ति का वर दे ।। मम अँधियारे जीवन को, स्वर्णिम प्रकाश से भर दे ।। रिपुओं ने मुझको घेरा, बस मिल जाये आश्रय तेरा, निज तीक्ष्ण खड्ग से मातः, तृष्णासुर का वध कर दे ।।"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # दुर्गतिनाशिनी दुर्गे    
 ## Durgati Naashini Durge    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/025-DurgatiNaashiniDurge.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/025-DurgatiNaashiniDurge.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
 जय दुर्गतिनाशिनी दुर्गे, माँ ज्ञान- भक्ति का वर दे ।।     
 मम अँधियारे जीवन को, स्वर्णिम प्रकाश से भर दे ।।     

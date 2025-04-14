@@ -1,7 +1,7 @@
---- 
+---
 id: 5165 
 title: How to Evaluate IQ
-date: "2021-07-12T08:33:00+05:30"
+date: "2021-07-12"
 permalink: /wiaposts/how-to-evaluate-iq
 tags: [Education ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5165-How-To-Evaluate-Iq.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "After spending a decade in training, consulting, Coaching and mentoring activities I started believing that the IQ of a person should not be measured on the basis of facts, what a person knows. In fact in this information age when"
 author_profile: true 
 share: true 
 ---
-
 ![How to Evaluate IQ](/assets/images/wiapost/5165-How-To-Evaluate-Iq.jpg)      
    
 ## How to Evaluate IQ   

@@ -2,7 +2,7 @@
 id: 5056
 
 title: What Is CSR
-date: "2017-08-17T08:33:00+05:30"
+date: "2017-08-17"
 permalink: /wiaposts/what-is-csr
 tags: ['Bhagwat Gita', 'Ethics & Morality', 'My Views', 'Philosophy', 'Philosophy for Business']    
 

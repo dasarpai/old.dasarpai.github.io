@@ -2,7 +2,7 @@
 id: 5047
 
 title: Life In Awareness
-date: "2017-04-18T08:33:00+05:30"
+date: "2017-04-18"
 permalink: /wiaposts/life-in-awareness
 tags: [ Mindfulness, Philosophy]    
 

@@ -1,4 +1,4 @@
----    
+---
 id: 4140    
 mathjax: true    
 title: 'Durga Saptashati Chapter 8 - श्रीदुर्गासप्तशती - अष्टमोऽध्यायः'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Durga Saptashati Chapter8 ## रक्तबीज-वध ध्यानम् ॐ अरुणां करुणातरङ्‌गिताक्षीं धृतपाशाङ्‌कुशबाणचापहस्ताम्। अणिमादिभिरावृतां मयूखै- रहमित्येव विभावये भवानीम्॥ “ॐ” ऋषिरुवाच॥१॥ चण्डे च निहते दैत्ये मुण्डे च विनिपातिते। बहुलेषु च सैन्येषु क्षयितेष्वसुरेश्‍वरः॥२॥ ततः कोपपराधीनचेताः शुम्भः प्रतापवान्। उद्योगं सर्वसैन्यानां दैत्यानामादिदेश ह॥३॥ अद्य सर्वबलैर्दैत्याः षडशीतिरुदायुधाः।"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # श्रीदुर्गासप्तशती – अष्टमोऽध्यायः    
 ## Durga Saptashati Chapter8    

@@ -2,7 +2,7 @@
 id: 5078
 
 title: The Process Of Cultural Digestion
-date: "2018-08-18T08:33:00+05:30"
+date: "2018-08-18"
 permalink: /wiaposts/the-process-of-cultural-digestion
 tags: [ Concepts, Education, 'Indian Culture']    
 

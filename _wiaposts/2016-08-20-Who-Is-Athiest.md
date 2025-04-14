@@ -2,7 +2,7 @@
 id: 5026
 
 title: Who Is Athiest
-date: "2016-08-20T08:33:00+05:30"
+date: "2016-08-20"
 permalink: /wiaposts/who-is-athiest
 tags: ['Atheist']    
 

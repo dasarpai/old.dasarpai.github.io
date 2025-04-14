@@ -1,7 +1,7 @@
 --- 
 id: 5123 
 title: Boring Maths and Science
-date: "2020-04-18T08:33:00+05:30"
+date: "2020-04-18"
 permalink: /wiaposts/boring-maths-and-science
 tags: [ 'My Views']    
 keywords: ["Reflections on maths and science", "understanding boredom in education", "poetic insights on learning and curiosity", "philosophy of education and engagement", "exploring maths and science in philosophical context"]  

@@ -15,11 +15,10 @@ header:
 
 author: 'Hari Thapliyaal'
 
-excerpt:
+excerpt: "## Sanskrit Subhashitam PART1 उद्यमेनैव सिध्यन्ति कार्याणि न मनोरथैः । न हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगाः ।। Meaning: Success in life can be achieved only by hard work and not by merely wishing for it. No animal will enter"
 
 share: true
 ---
-
 ![](/assets/images/samskrut/SanskritYatra-Subhashitam.jpg)
 
 # संस्कृत सुभाषितम्

@@ -1,7 +1,7 @@
---- 
+---
 id: 5189 
 title: Bhaav-Vivek Balance
-date: "2022-05-19T08:33:00+05:30"
+date: "2022-05-19"
 permalink: /wiaposts/bhaav-vivek-balance
 tags: [Mind, Life ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5189-Bhaav-Vivek-Balance.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Bhav (power of emotions) and Vivek (power of intellect) both are crucial for a healthy mind. If you are too emotional with Vivek you can be dangerous. Anyone can twist your mind with some sweet words. This can make you"
 author_profile: true 
 share: true 
 ---
-
 ![Bhaav-Vivek Balance](/assets/images/wiapost/5189-Bhaav-Vivek-Balance.jpg)    
    
 # Bhaav-Vivek Balance   

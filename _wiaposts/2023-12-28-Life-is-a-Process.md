@@ -1,4 +1,4 @@
----        
+---
 id: 5244 
 title:   Life Process          
 date: "2023-12-28T08:33:00+05:30"        
@@ -10,12 +10,11 @@ header:
     teaser: /assets/images/wiapost/5244-Life-Process.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
-excerpt:        
+excerpt: "You are handling a process called life. Every process takes some input and creates some output. Inputs of the life process are all the resources available to us. It may be health, money, relationships, etc. Everyone has these kinds of"
 author_profile: true        
 share: true        
 Keywords: Purpose of Life, Joyfullness, Happiness
----        
-        
+---
 ![Life is a Process](/assets/images/wiapost/5244-Life-Process.jpg)        
         
 # Life Process    

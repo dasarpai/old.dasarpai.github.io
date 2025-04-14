@@ -1,7 +1,7 @@
---- 
+---
 id: 5150 
 title: Challenges In The Meditation Process
-date: "2021-03-24T08:33:00+05:30"
+date: "2021-03-24"
 permalink: /wiaposts/challenges-in-the-meditation-process
 tags: [ Meditation, Mind, Mindfulness]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5150-Challenges-In-The-Meditation-Process.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "You can meditate with open eyes and you can meditate with closed eyes. When you want to meditate with open eyes then the objective is to handle the worldly affair properly. Doing work with Dhyana. Knowing the world properly and"
 author_profile: true 
 share: true 
 ---
-
 ![Challenges In The Meditation Process](/assets/images/wiapost/5150-Challenges-In-The-Meditation-Process.jpg)   
     
 # Challenges In The Meditation Process      

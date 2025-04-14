@@ -1,4 +1,4 @@
----        
+---
 id: 5269 
 mathjax: true        
 title:  "Insights from the First Chapter of Durga Saptashati - Hindi"        
@@ -10,12 +10,11 @@ header:
     teaser: /assets/images/wiapost/5268-Insights-from-the-First-Chapter-of-Durga-Saptashati.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
-excerpt:        
+excerpt: "**दुर्गा सप्तशती का महत्व: पहले अध्याय से अंतर्दृष्टि** ## पुराण क्या है? विज्ञानियों के पास इस शब्द के कई अर्थ और व्याख्याएँ हो सकती हैं। यहाँ एक परिभाषा हैैै, **पुराण** प्राचीन हिंदू ग्रंथों की एक श्रेणी है, जिसमें ब्रह्मांड के"
 author_profile: true        
 share: true
 keywords: ["Durga Saptashati", "Purana", "Hindu mythology", "Madhu and Kaitabha", "Divine Feminine", "Markandeya Purana", "Lessons from Durga Saptashati", "Ignorance and delusion in Hindu texts", "Significance of Puranas", "Teachings from Hindu scriptures"]    
---- 
-
+---
 ![How to Know the Truth?](/assets/images/wiapost/5268-Insights-from-the-First-Chapter-of-Durga-Saptashati.jpg)
    
 # Insights from the First Chapter of Durga Saptashati - Hindi   

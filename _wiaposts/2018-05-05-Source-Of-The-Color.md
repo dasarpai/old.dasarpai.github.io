@@ -2,7 +2,7 @@
 id: 5073
 
 title: Source Of The Color
-date: "2018-05-05T08:33:00+05:30"
+date: "2018-05-05"
 permalink: /wiaposts/source-of-the-color
 tags: ['Concepts', 'Philosophy', 'Science']    
 

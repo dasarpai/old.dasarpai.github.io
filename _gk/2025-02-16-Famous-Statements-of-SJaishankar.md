@@ -2,7 +2,7 @@
 id: 7015  
 mathjax: true        
 title: "Famous Statements of S. Jaishankar - Indian Foreign Minister"
-date: "2025-02-16T08:33:00+05:30"
+date: "2025-02-16"
 permalink: /gk/famous-statements-s-jaishankar
 tags: [S Jaishankar, Indian Foreign Minister, Famous Quotes, International Relations, Diplomacy]
 keywords: [S Jaishankar Quotes, Indian Foreign Policy, International Relations Quotes, Diplomacy Quotes, Famous Diplomats]

@@ -2,7 +2,7 @@
 id: 5152
 
 title: Learning Process
-date: "2021-04-21T08:33:00+05:30"
+date: "2021-04-21"
 permalink: /wiaposts/learning-process
 tags: [ Education, 'My Views']    
 

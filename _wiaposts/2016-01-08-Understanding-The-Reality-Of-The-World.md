@@ -2,7 +2,7 @@
 id: 5006
 
 title: Understanding The Reality Of The World
-date: "2016-01-08T08:33:00+05:30"
+date: "2016-01-08"
 permalink: /wiaposts/understanding-the-reality-of-the-world
 tags: [Bhagwat Gita, Philosophy, Maya]    
 

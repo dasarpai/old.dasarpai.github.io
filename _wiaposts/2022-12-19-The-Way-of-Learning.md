@@ -1,4 +1,4 @@
----    
+---
 id: 5208  
 title: The Way of Learning    
 date: "2022-12-19T08:33:00+05:30"    
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5208-The-Way-of-Learning.jpg    
 author: Hari Thapliyaal    
 layout:   wiaposts-layout
-excerpt:    
+excerpt: "If you want to teach your children the process of making tea then you don't force them to memorize s for sugar, g for ginger, t for tea, w for water, m for milk, b for boil, etc. And if"
 author_profile: true    
 share: true    
----    
-    
+---
 ![The Way of Learning ](/assets/images/wiapost/5208-The-Way-of-Learning.jpg)         
     
 # The Way of Learning   

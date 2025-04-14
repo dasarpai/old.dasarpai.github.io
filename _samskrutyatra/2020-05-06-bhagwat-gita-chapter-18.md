@@ -1,4 +1,4 @@
----    
+---
 id: 4119    
 mathjax: true    
 title: 'Bhagwat Gita Chapter 18 - श्रीमद्भगवद्गीता अथाष्टादशोऽध्यायः - मोक्षसंन्यासयोगः'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Bhagwat Gita Chapter 18 ## अथाष्टादशोऽध्यायः । मोक्षसंन्यासयोगः अर्जुन उवाच । संन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् । त्यागस्य च हृषीकेश पृथक्केशिनिषूदन ॥ १८-१॥ श्रीभगवानुवाच । काम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः । सर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः ॥ १८-२॥ त्याज्यं दोषवदित्येके कर्म"
 keywords: [Bhagwat Gita Chapter 18, Moksha Sanyasa Yoga, Upnishad]       
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता अथाष्टादशोऽध्यायः – मोक्षसंन्यासयोगः   

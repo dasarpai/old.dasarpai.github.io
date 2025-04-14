@@ -2,7 +2,7 @@
 id: 5081
 
 title: When To Reincarnate?
-date: "2018-10-05T08:33:00+05:30"
+date: "2018-10-05"
 permalink: /wiaposts/when-to-reincarnate
 tags: [ Concepts, 'Indian Culture', Philosophy, Poetry]    
 

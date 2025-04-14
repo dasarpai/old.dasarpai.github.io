@@ -2,7 +2,7 @@
 id: 5079
 
 title: Happening Human Reasoning
-date: "2018-08-24T08:33:00+05:30"
+date: "2018-08-24"
 permalink: /wiaposts/happening-human-reasoning
 tags: [ Concepts, Philosophy]    
 

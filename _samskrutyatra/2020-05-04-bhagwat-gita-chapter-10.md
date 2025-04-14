@@ -1,4 +1,4 @@
----    
+---
 id: 4103    
 mathjax: true    
 title: 'Bhagwat Gita Chapter 10 - श्रीमद्भगवद्गीता दशमोऽध्यायः - विभूतियोगः'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Bhagwat Gita Chapter 10 अथ दशमोऽध्यायः । विभूतियोगः श्रीभगवानुवाच । भूय एव महाबाहो शृणु मे परमं वचः । यत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ॥ १०-१॥ न मे विदुः सुरगणाः प्रभवं न महर्षयः । अहमादिर्हि देवानां महर्षीणां च सर्वशः ॥ १०-२॥"
 keywords: [Bhagwat Gita Chapter 10, Vibhuti Yoga, Upnishad]       
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता दशमोऽध्यायः – विभूतियोगः    

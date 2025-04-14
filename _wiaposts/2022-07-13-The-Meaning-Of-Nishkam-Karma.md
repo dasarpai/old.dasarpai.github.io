@@ -1,7 +1,7 @@
---- 
+---
 id: 5195 
 title: The Meaning of Nishkam Karma
-date: "2022-07-13T08:33:00+05:30"
+date: "2022-07-13"
 permalink: /wiaposts/the-meaning-of-nishkam-karma
 tags: [ Life, Karma]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5195-The-Meaning-Of-Nishkam-Karma.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "In the Sanskrit language, the word Kriya means that which happens. Karma means which is done. Whatever needs to be done for that you need to have your desire and intention. In Sanskrit it is called Sankalp. So without Sankalp,"
 author_profile: true 
 share: true 
 ---
-
 ![The Meaning of Nishkam Karma](/assets/images/wiapost/5195-The-Meaning-Of-Nishkam-Karma.jpg)    
    
 # The Meaning of Nishkam Karma   

@@ -1,4 +1,4 @@
----     
+---
 id: 5203  
 title: About Eligibility    
 date: "2022-11-23T08:33:00+05:30"    
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5203-About-Eligibility.jpg    
 author: Hari Thapliyaal     
 layout:   wiaposts-layout
-excerpt:      
+excerpt: "Paatra in Sanskrit means pot, but it also means an eligible person. Paatrata means eligibility, capacity, capability to hold what is given to you. You can ask for anything, knowledge, money power. This is part of your imagination. But fortunately"
 author_profile: true     
 share: true     
----    
-    
+---
 ![About Eligibility](/assets/images/wiapost/5203-About-Eligibility.jpg)         
      
 # About Eligibility    

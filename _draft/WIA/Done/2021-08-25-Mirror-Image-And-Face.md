@@ -2,7 +2,7 @@
 id: 5169
 
 title: Mirror, Image and Face
-date: "2021-08-25T08:33:00+05:30"
+date: "2021-08-25"
 permalink: /wiaposts/mirror-image-and-face
 tags: [Life, Meditation, Karma ]    
 

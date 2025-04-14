@@ -2,7 +2,7 @@
 id: 5033
 
 title: The Way To Learn
-date: "2016-11-14T08:33:00+05:30"
+date: "2016-11-14"
 permalink: /wiaposts/the-way-to-learn
 tags: ['Education', 'Philosophy']    
 

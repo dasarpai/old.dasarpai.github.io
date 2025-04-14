@@ -2,7 +2,7 @@
 id: 5076
 
 title: Managing Source Of Energy
-date: "2018-07-11T08:33:00+05:30"
+date: "2018-07-11"
 permalink: /wiaposts/managing-source-of-energy
 tags: ['Concepts', 'Science', 'Yoga']    
 

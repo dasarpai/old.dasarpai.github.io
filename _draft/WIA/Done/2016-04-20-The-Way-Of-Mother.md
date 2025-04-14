@@ -2,7 +2,7 @@
 id: 5016
 
 title: The Way Of Mother
-date: "2016-04-20T08:33:00+05:30"
+date: "2016-04-20"
 permalink: /wiaposts/the-way-of-mother
 tags: [ 'My Story', Philosophy]    
 

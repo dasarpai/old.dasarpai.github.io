@@ -1,7 +1,7 @@
---- 
+---
 id: 5161 
 title: Training of the mind
-date: "2021-06-03T08:33:00+05:30"
+date: "2021-06-03"
 permalink: /wiaposts/training-of-the-mind
 tags: [ Mind, Education]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5161-Training-Of-The-Mind.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Since the first of our life All parts and systems of our body are designed, developed, trained, used, and maintained in such a way that survival of the life is kept at the helm of everything, we do or create."
 author_profile: true 
 share: true 
 ---
-
 ![Training of the mind](/assets/images/wiapost/5161-Training-Of-The-Mind.jpg)     
    
 ## Training of the mind  

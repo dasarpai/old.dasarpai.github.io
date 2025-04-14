@@ -2,7 +2,7 @@
 id: 5018
 
 title: Questions About Meditation
-date: "2016-05-27T08:33:00+05:30"
+date: "2016-05-27"
 permalink: /wiaposts/questions-about-meditation
 tags: [ Mind, Mindfulness, Poetry, Vedanta]    
 

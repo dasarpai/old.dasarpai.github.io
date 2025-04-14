@@ -2,7 +2,7 @@
 id: 5069
 
 title: The Root Of Body Mass
-date: "2018-02-27T08:33:00+05:30"
+date: "2018-02-27"
 permalink: /wiaposts/the-root-of-body-mass
 tags: ['Concepts', 'Philosophy', 'Science']    
 

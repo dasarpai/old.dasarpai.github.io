@@ -2,7 +2,7 @@
 id: 5225 
 mathjax: true
 title:  How Do You Want to Live?   
-date: "2023-04-27T08:33:00+05:30"
+date: "2023-04-27"
 permalink: /wiaposts/How-Do-You-Want-to-Live
 tags:  [My Views, Life, Philosophy] 
 
@@ -11,11 +11,10 @@ header:
     teaser: /assets/images/wiapost/5225-How-Do-You-Want-to-Live.jpg
 author: Hari Thapliyaal
 layout:   wiaposts-layout
-excerpt:
+excerpt: "Birth and death are certain. Life is full of uncertainties. And this is the fun of life. You do something and you get something. This is how the process of life goes on. Sometimes the output of your process meets"
 author_profile: true
 share: true
 ---
-
 ![How Do You Want to Live?](/assets/images/wiapost/5225-How-Do-You-Want-to-Live.jpg)     
    
 # How Do You Want to Live?    

@@ -1,4 +1,4 @@
----  
+---
 id: 5249 
 title:  All Religions are not Same  
 date: "2024-02-03T08:33:00+05:30"  
@@ -10,14 +10,13 @@ header:
   teaser: /assets/images/wiapost/5249-All-Religions-are-not-Same.jpg  
 author: Hari Thapliyaal  
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "## Introduction Long ago, when I completed the study of Prasthantrai (comprising the ten cardinal Upanishads, Bhagavad Gita, and Brahma Sutra), it opened my eyes to world religions and diverse philosophical concepts. I delved into it under the Advaita Vedanta"
 author_profile: true  
 share: true  
 toc: True  
 toc_sticky: true  
 keywords: Compare Religions, Comparative Religions, Hinduism vs Islam, Vedanta and Hinduism 
----  
-  
+---
 ![All-Religions-are-not-Same](/assets/images/wiapost/5249-All-Religions-are-not-Same.jpg)  
   
 # All Religions are not Same  

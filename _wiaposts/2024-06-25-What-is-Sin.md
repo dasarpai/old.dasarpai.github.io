@@ -1,4 +1,4 @@
----        
+---
 id: 5255 
 mathjax: true        
 title:  What is Sin?        
@@ -11,11 +11,10 @@ header:
     teaser: /assets/images/wiapost/5255-What-is-Sin.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
-excerpt:        
+excerpt: "You lose a loved one, a bond, or your health, Blame it on God, Fate, or Karma’s stealth. You feel consoled, the burden shared, But deep within, you're still ensnared. You blame the system, the people, the ways, And disgust"
 author_profile: true        
 share: true        
----        
-        
+---
 ![What-is-Sin](/assets/images/wiapost/5255-What-is-Sin.jpg)                
 		
 # What Is Sin?   

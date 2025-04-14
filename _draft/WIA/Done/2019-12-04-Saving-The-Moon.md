@@ -2,7 +2,7 @@
 id: 5113
 
 title: Saving The Moon
-date: "2019-12-04T08:33:00+05:30"
+date: "2019-12-04"
 permalink: /wiaposts/saving-the-moon
 tags: [ 'Philosophy for Business', Poetry]    
 

@@ -1,4 +1,4 @@
----        
+---
 id: 5263 
 mathjax: true        
 title:  "What is the Cause of Renunciation?"        
@@ -11,12 +11,11 @@ header:
     teaser: /assets/images/wiapost/5263-What-is-the-Cause-of-Renunciation.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
-excerpt:        
+excerpt: "In my college days, I had a very young friend named Pratibimb. One day, we met during a morning walk. He told me that he had a very sweet experience last night. I asked, \"What was so sweet that you’re"
 author_profile: true        
 share: true
 keywords: ["Dreams vs Reality", "Illusion of life", "Awakening from ignorance", "Self-realization philosophy", "Renouncing worldly attachments", "Philosophy of suffering and joy", "Spiritual awakening", "Meaning of dreams", "Consciousness and awareness", "Life as a dream metaphor"]        
---- 
-
+---
 ![What is the Cause of Renunciation?](/assets/images/wiapost/5263-What-is-the-Cause-of-Renunciation.jpg)
    
 # What is the Cause of Renunciation?    

@@ -1,4 +1,4 @@
----        
+---
 id: 5258 
 mathjax: true        
 title:  "My Nonsenses are Most Sensible - Poem"        
@@ -11,11 +11,10 @@ header:
     teaser: /assets/images/wiapost/5258-My-Nonsenses-are-Most-Sensible.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
-excerpt:        
+excerpt: "The world is madness, humans lost in haze, I stand alone, the saint in this maze. What I do is right, my path is clear, Your actions are senseless, driven by fear. I smoke in my room, my space, my"
 author_profile: true        
 share: true        
----     
-
+---
 ![My Nonsenses are Most Sensible - Poem](/assets/images/wiapost/5258-My-Nonsenses-are-Most-Sensible.jpg)
    
 # My Nonsenses is the Most Sensible - Poem   

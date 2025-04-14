@@ -11,7 +11,7 @@ tags: [Devi, Chanting]
 categories: [Chanting]
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
@@ -20,12 +20,15 @@ excerpt: "अपराधसहस्त्राणि क्रियन्त
 share: true    
 ---    
     
-![](/assets/images/samskrut/durga.jpg)    
+![](/assets/images/samskrut/Durga.jpg)    
     
 # क्षमा-प्रार्थना    
 ## Devi Kshama Prarthana    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/063-DeviKshamPrarthana.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/063-DeviKshamPrarthana.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
 अपराधसहस्त्राणि क्रियन्तेऽहर्निशं मया।    
 दासोऽयमिति मां मत्वा क्षमस्व परमेश्‍वरि॥१॥    

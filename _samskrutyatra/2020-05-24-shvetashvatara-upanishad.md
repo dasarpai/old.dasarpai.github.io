@@ -1,4 +1,4 @@
----    
+---
 id: 4130    
 mathjax: true    
 title: 'Shvetashvatara Upanishad - श्वेताश्वतरोपनिषत्'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Shvetashvatara Upanishad ॐ सहनाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै । तेजस्वि नावधीतमस्तु । मा विद्विषावहै ॥ ॐ शान्तिः शान्तिः शान्तिः ॥ श्वेताश्वतरोपनिषत् प्रथमोऽध्यायः हरिः ॐ ॥ ब्रह्मवादिनो वदन्ति । किं कारणं ब्रह्म कुतः स्म जाता जीवाम"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # श्वेताश्वतरोपनिषत्    

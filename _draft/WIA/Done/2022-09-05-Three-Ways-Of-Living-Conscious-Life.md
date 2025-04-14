@@ -2,7 +2,7 @@
 id: 5199
 
 title: Three ways of living conscious life
-date: "2022-09-05T08:33:00+05:30"
+date: "2022-09-05"
 permalink: /wiaposts/three-ways-of-living-conscious-life
 tags: [Life, Meditation]    
 

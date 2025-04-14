@@ -2,7 +2,7 @@
 id: 7001
 mathjax: true  
 title: Types Of Gitas
-date: "2016-09-21T08:33:00+05:30"
+date: "2016-09-21"
 permalink: /gk/types-of-gitas
 tags: [ 'Bhagwat Gita', 'Indian Culture']    
 

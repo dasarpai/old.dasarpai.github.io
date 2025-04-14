@@ -2,7 +2,7 @@
 id: 5118
 
 title: Do I Have Free Will?
-date: "2020-02-15T08:33:00+05:30"
+date: "2020-02-15"
 permalink: /wiaposts/do-i-have-free-will
 tags: [ Vedanta]    
 

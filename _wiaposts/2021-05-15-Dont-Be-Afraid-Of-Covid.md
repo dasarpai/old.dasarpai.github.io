@@ -1,4 +1,4 @@
---- 
+---
 id: 5122 
 title: Don't Be Afraid Of Covid
 date: '2021-05-15T08:33:00+05:30'
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5122-Dont-Be-Afraid-Of-Covid.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "We are a body of 15 trillion cells. The human body is a colony of billions of viruses and bacterias. Every day with food, water, and the air we consume those. And they sustain our bodies. That is why a"
 author_profile: true 
 share: true 
 ---
-
 ![Don't Be Afraid Of Covid](/assets/images/wiapost/5122-Dont-Be-Afraid-Of-Covid.jpg)     
    
 # Don't Be Afraid Of Covid   

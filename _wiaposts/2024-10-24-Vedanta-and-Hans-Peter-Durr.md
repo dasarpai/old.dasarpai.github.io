@@ -1,4 +1,4 @@
----        
+---
 id: 5272
 mathjax: true        
 title:  "Advaita Vedanta and Hans Peter Durr"        
@@ -10,12 +10,11 @@ header:
     teaser: /assets/images/wiapost/5272-Vedanta-and-Hans-Peter-Durr.jpg               
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
-excerpt:        
+excerpt: "Hans-Peter Dürr (7 October 1929 – 18 May 2014), a renowned German physicist, had deep insights into the philosophical parallels between modern physics and ancient spiritual wisdom, particularly Vedanta. While Dürr did not explicitly write a comprehensive work focused solely"
 author_profile: true        
 share: true
 keywords: [Vedanta, Science, "Hans Peter Durr"]  
---- 
-
+---
 ![Advaita Vedanta and Hans Peter Durr](/assets/images/wiapost/5272-Vedanta-and-Hans-Peter-Durr.jpg)    
     
 # Advaita Vedanta and Hans Peter Durr   

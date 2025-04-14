@@ -2,7 +2,7 @@
 id: 5048
 
 title: About Physicality And Relationship
-date: "2017-05-12T08:33:00+05:30"
+date: "2017-05-12"
 permalink: /wiaposts/about-physicality-and-relationship
 tags: ['Philosophy']    
 

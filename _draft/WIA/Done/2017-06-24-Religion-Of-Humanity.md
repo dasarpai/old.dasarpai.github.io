@@ -2,7 +2,7 @@
 id: 5051
 
 title: Religion Of Humanity
-date: "2017-06-24T08:33:00+05:30"
+date: "2017-06-24"
 permalink: /wiaposts/religion-of-humanity
 tags: [ Dharma, 'Ethics & Morality', 'My Views']    
 

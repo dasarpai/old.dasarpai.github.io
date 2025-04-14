@@ -1,7 +1,7 @@
 --- 
 id: 5090
 title: Paradox Of Learning
-date: "2019-01-15T08:33:00+05:30"
+date: "2019-01-15"
 permalink: /wiaposts/paradox-of-learning
 tags: ['Education', 'Mind']    
 

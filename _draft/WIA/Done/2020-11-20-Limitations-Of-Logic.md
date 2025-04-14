@@ -2,7 +2,7 @@
 id: 5141
 
 title: Limitations Of Logic
-date: "2020-11-20T08:33:00+05:30"
+date: "2020-11-20"
 permalink: /wiaposts/limitations-of-logic
 tags: [ 'My Views', Philosophy, Science]    
 

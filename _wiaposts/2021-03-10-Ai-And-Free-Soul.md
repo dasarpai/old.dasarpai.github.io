@@ -1,7 +1,7 @@
---- 
+---
 id: 5148 
 title: AI And Free Soul
-date: "2021-03-10T08:33:00+05:30"
+date: "2021-03-10"
 permalink: /wiaposts/ai-and-free-soul
 tags: [ Science, Vedanta]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5148-Ai-And-Free-Soul.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Human likes certainty but enjoys good surprises and learns from bad surprises. To make the future certain and predictable, he wants to plan future actions, have future strategies. That is why he loves prediction. But prediction is possible when statistics"
 author_profile: true 
 share: true 
 ---
-
 ![AI And Free Soul](/assets/images/wiapost/5148-Ai-And-Free-Soul.jpg)       
    
 # AI And Free Soul     

@@ -1,4 +1,4 @@
----    
+---
 id: 4077    
 mathjax: true    
 title: 'Bhagwat Gita Chapter 5 - श्रीमद्भगवद्गीता पञ्चमोऽध्यायः - संन्यासयोगः'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Bhagwat Gita Chapter 5 अथ पञ्चमोऽध्यायः । संन्यासयोगः अर्जुन उवाच । संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि । यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम् ॥ ५-१॥ श्रीभगवानुवाच । संन्यासः कर्मयोगश्च निःश्रेयसकरावुभौ । तयोस्तु कर्मसंन्यासात्कर्मयोगो विशिष्यते ॥ ५-२॥ ज्ञेयः स नित्यसंन्यासी"
 keywords: [Bhagwat Gita Chapter 5, Karma Sanyasa Yoga, Upnishad]       
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता पञ्चमोऽध्यायः – संन्यासयोगः    

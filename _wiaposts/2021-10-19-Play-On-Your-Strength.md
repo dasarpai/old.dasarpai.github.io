@@ -1,7 +1,7 @@
---- 
+---
 id: 5172 
 title: Play on your Strength
-date: "2021-10-19T08:33:00+05:30"
+date: "2021-10-19"
 permalink: /wiaposts/play-on-your-strength
 tags: [Life ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5172-Play-On-Your-Strength.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Mentally or physically everybody has a unique design. Either you or someone else can identify that uniqueness of yours. If you know this then you can live a more meaningful life. Otherwise, you have a feeling of living in a"
 author_profile: true 
 share: true 
 ---
-
 ![Play on your Strength](/assets/images/wiapost/5172-Play-On-Your-Strength.jpg)     
    
 ## Play on your Strength     

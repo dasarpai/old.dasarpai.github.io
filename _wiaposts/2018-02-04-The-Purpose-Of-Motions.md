@@ -2,7 +2,7 @@
 id: 5068
 
 title: The Purpose Of Motions
-date: "2018-02-04T08:33:00+05:30"
+date: "2018-02-04"
 permalink: /wiaposts/the-purpose-of-motions
 tags: ['Concepts', 'Philosophy']    
 

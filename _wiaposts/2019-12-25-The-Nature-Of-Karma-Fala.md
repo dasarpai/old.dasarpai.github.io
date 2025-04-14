@@ -1,7 +1,7 @@
 --- 
 id: 5114 
 title: The Nature Of Karma Fala
-date: "2019-12-25T08:33:00+05:30"
+date: "2019-12-25"
 permalink: /wiaposts/the-nature-of-karma-fala
 tags: [ Dharma, Philosophy]    
 keywords: ["exploration of karma fala", "understanding karma and its outcomes", "poetic insights on karma and dharma", "philosophy of karma and its implications", "exploring karma in philosophical context"]  

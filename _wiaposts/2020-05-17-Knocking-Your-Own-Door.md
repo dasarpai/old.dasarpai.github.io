@@ -1,7 +1,7 @@
 --- 
 id: 5127 
 title: Knocking Your Own Door
-date: "2020-05-17T08:33:00+05:30"
+date: "2020-05-17"
 permalink: /wiaposts/knocking-your-own-door
 tags: [ Mind, 'My Views', Philosophy]    
 keywords: ["exploration of self-discovery", "understanding self-awareness in philosophy", "poetic insights on introspection and growth", "philosophy of self-discovery and awareness", "exploring self-discovery in philosophical context"]  

@@ -1,4 +1,4 @@
----    
+---
 id: 4162    
 mathjax: true    
 title: 'Work of Rajiv Dixit'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "![Rajiv Dixit](/assets/images/wiapost/Rajiv_Dixit.jpg) This list highlights the major contributions of Rajiv Dixit Ji, a renowned orator and scholar with deep knowledge of Hindu life, culture, values, Ayurveda, and Indian history. A close associate of Swami Ramdev for many years, Rajiv Dixit"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/BharatMata.jpg)    
     
 # Work of Rajiv Dixit     

@@ -2,7 +2,7 @@
 id: 5052
 
 title: Meaning Of Secular
-date: "2017-07-10T08:33:00+05:30"
+date: "2017-07-10"
 permalink: /wiaposts/meaning-of-secular
 tags: [ Concepts, 'Indian Culture', 'My Views']    
 

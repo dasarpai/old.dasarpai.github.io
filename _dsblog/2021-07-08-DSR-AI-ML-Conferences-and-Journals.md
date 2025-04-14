@@ -11,7 +11,7 @@ tags: [DS Resources, AI Conferences, Machine Learning Conferences, NLP Conferenc
 keywords: AI conferences, machine learning journals, deep learning conferences, NLP symposiums, academic publications, research conferences, ICML, NeurIPS, ICLR, ACL, AAAI conference
 header:
   teaser:  /assets/images/dsresources/dsr108-AI-ML-Deep-Learning-NLP-Conferences-Journals.jpg
-last_modified_at: 2021-07-02T15:46:43-04:00
+
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

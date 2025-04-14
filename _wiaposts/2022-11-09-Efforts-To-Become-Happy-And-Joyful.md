@@ -1,7 +1,7 @@
---- 
+---
 id: 5202 
 title: Efforts to Become Happy and Joyful
-date: "2022-11-09T08:33:00+05:30"
+date: "2022-11-09"
 permalink: /wiaposts/efforts-to-become-happy-and-joyful
 tags: [Life ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5202-Efforts-To-Become-Happy-And-Joyful.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "We work hard to learn and earn. This learning and earning helps us buying comfort in life We think comfortable things makes us happy We forget there is very weak relationship between Having comfortable things around and being happy No"
 author_profile: true 
 share: true 
 ---
-
 ![Efforts to Become Happy and Joyful](/assets/images/wiapost/5202-Efforts-To-Become-Happy-And-Joyful.jpg)         
     
 # Efforts to Become Happy and Joyful    

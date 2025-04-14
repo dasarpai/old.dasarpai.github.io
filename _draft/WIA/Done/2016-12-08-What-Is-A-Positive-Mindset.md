@@ -2,7 +2,7 @@
 id: 5034
 
 title: What Is A Positive Mindset
-date: "2016-12-08T08:33:00+05:30"
+date: "2016-12-08"
 permalink: /wiaposts/what-is-a-positive-mindset
 tags: [ Mind, Philosophy, Poetry, Vedanta]    
 

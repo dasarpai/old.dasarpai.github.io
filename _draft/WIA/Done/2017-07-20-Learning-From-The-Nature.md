@@ -2,7 +2,7 @@
 id: 5053
 
 title: Learning From The Nature
-date: "2017-07-20T08:33:00+05:30"
+date: "2017-07-20"
 permalink: /wiaposts/learning-from-the-nature
 tags: [ 'Indian Culture', Philosophy]    
 

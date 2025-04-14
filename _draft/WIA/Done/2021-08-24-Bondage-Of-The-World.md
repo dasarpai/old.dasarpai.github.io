@@ -2,7 +2,7 @@
 id: 5168
 
 title: Bondage of the World
-date: "2021-08-24T08:33:00+05:30"
+date: "2021-08-24"
 permalink: /wiaposts/bondage-of-the-world
 tags: [ Life, Karma]    
 

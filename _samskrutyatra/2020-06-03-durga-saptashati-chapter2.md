@@ -1,4 +1,4 @@
----    
+---
 id: 4134    
 mathjax: true    
 title: 'Durga Saptashati Chapter 2 - श्रीदुर्गासप्तशती - द्वितीयोऽध्यायः'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Durga Saptashati Chapter2 ## देवताओं के तेज से देवी का प्रादुर्भाव और महिषासुर की सेना का वध ॥विनियोगः॥ ॐ मध्यमचरित्रस्य विष्णुर्ऋषिः, महालक्ष्मीर्देवता, उष्णिक् छन्दः, शाकम्भरी शक्तिः, दुर्गा बीजम्, वायुस्तत्त्वम्, यजुर्वेदः स्वरूपम्, श्रीमहालक्ष्मीप्रीत्यर्थं मध्यमचरित्रजपे विनियोगः। ॥ध्यानम्॥ ॐ अक्षस्रक्‌परशुं गदेषुकुलिशं पद्मं"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # श्रीदुर्गासप्तशती – द्वितीयोऽध्यायः    
 ## Durga Saptashati Chapter2    

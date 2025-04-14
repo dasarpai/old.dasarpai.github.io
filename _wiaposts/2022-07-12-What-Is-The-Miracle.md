@@ -1,7 +1,7 @@
---- 
+---
 id: 5194 
 title: What is the Miracle?
-date: "2022-07-12T08:33:00+05:30"
+date: "2022-07-12"
 permalink: /wiaposts/what-is-the-miracle
 tags: [ Life, God, Miracle]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5194-What-Is-The-Miracle.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "When some hot water falls on the body and it burns the body, burning didn’t happen because of a miracle. If something hanging at height is cut from the source and it falls to the ground. The falling didn’t happen"
 author_profile: true 
 share: true 
 ---
-
 ![What is the Miracle?](/assets/images/wiapost/5194-What-Is-The-Miracle.jpg)        
     
 # What is the Miracle?      

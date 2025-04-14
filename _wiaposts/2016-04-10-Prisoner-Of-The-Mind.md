@@ -2,7 +2,7 @@
 id: 5014
 
 title: Prisoner Of The Mind
-date: "2016-04-10T08:33:00+05:30"
+date: "2016-04-10"
 permalink: /wiaposts/prisoner-of-the-mind
 tags: ['Mind', 'My Views', 'Philosophy', 'Poetry']    
 

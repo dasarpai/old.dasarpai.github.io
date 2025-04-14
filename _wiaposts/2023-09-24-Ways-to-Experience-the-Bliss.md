@@ -1,4 +1,4 @@
----        
+---
 id: 5235  
 title:  Ways to Experience the Bliss          
 date: "2023-09-24T08:33:00+05:30"        
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5235-Ways-to-Experience-the-Bliss.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
-excerpt:        
+excerpt: "Humans are searching for peace and want to experience bliss. Humans want to get it by searching. First he search for knowledge then he search for work After that he search for money then search for network, relationship and power."
 author_profile: true        
 share: true        
----        
-        
+---
 ![Ways to Experience the Bliss](/assets/images/wiapost/5235-Ways-to-Experience-the-Bliss.jpg)             
         
 # Ways to Experience the Bliss    

@@ -1,4 +1,4 @@
----    
+---
 id: 4155    
 mathjax: true    
 title: 'Maheshwara Sutrani - माहेश्वर सूत्र'    
@@ -15,16 +15,18 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "# माहेश्वर सूत्र ## Maheshwara Sutrani Maheshwar Sutrani is the foundation of Panini’s Astha-Adhyayi. It has 14 sutras, they are mentioned below. I have recorded them in singing format. Maheshwara Sutrani १. अइउण्। २. ऋऌक्। ३. एओङ्। ४. ऐऔच्। ५."
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Maheshsutrani.jpg)    
     
     
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/017-MaheshwaraSutrani.m4a" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/017-MaheshwaraSutrani.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
 # माहेश्वर सूत्र    
 ## Maheshwara Sutrani    

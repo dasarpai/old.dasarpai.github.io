@@ -15,17 +15,19 @@ header:
 
 author: 'Hari Thapliyaal'
 
-excerpt:
+excerpt: "I will add text very soon."
 
 share: true
 ---
-
 ![](/assets/images/samskrut/Sri-Ramakrishna.jpg)
 
 #  गुणसागर निर्गुण परमेशा 
 ## Gunasagar Nirguna Paramesha
 
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/O003-GunasagarNirgunaParamesha.mp3" %} 
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/O003-GunasagarNirgunaParamesha.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio> 
 
 I will add text very soon.
 

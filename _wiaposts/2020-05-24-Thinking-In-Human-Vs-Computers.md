@@ -1,7 +1,7 @@
 --- 
 id: 5128 
 title: Thinking In Human Vs Computers
-date: "2020-05-24T08:33:00+05:30"
+date: "2020-05-24"
 permalink: /wiaposts/thinking-in-human-vs-computers
 tags: [ 'My Views']    
 keywords: ["philosophical reflections on human vs computer thinking", "understanding cognitive differences in philosophy", "poetic insights on human and machine cognition", "philosophy of cognition and technology", "exploring human vs computer thinking in philosophical context"]  

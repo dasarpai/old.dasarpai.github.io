@@ -1,4 +1,4 @@
----        
+---
 id: 5262 
 mathjax: true        
 title:  "The Search for Truth: Why Do We Rush to Conclusions?"        
@@ -11,11 +11,11 @@ header:
     teaser: /assets/images/wiapost/5262-why-do-we-conclude.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
-excerpt:        
+excerpt: "We think that we give birth. He thinks that we create. We think that we can kill, destroy, and finish. We think that without our doing, nothing will happen. But when we are surprised by the events around, we call"
 author_profile: true        
 share: true
 keywords: ["Truth-seeking", "Philosophical reflection", "Human understanding", "Logic and reasoning", "Pursuit of knowledge", "Karma and Prarabdha", "Life conclusions", "Human nature", "Knowledge and wisdom", "Self-awareness"]        
----     
+---
 ![why do we conclude?](/assets/images/wiapost/5262-why-do-we-conclude.jpg)  
    
 # Why do we conclude?    

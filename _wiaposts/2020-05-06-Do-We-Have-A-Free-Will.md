@@ -1,7 +1,7 @@
 --- 
 id: 5125 
 title: Do We Have A Free Will
-date: "2020-05-06T08:33:00+05:30"
+date: "2020-05-06"
 permalink: /wiaposts/do-we-have-a-free-will
 tags: [ Mind, 'My Views', Philosophy, Vedanta]    
 keywords: ["exploration of free will", "understanding free will in vedanta", "poetic insights on free will and choice", "philosophy of free will and determinism", "exploring free will in philosophical context"]  

@@ -2,7 +2,7 @@
 id: 5040
 
 title: Positive And Negative Professions
-date: "2017-03-04T08:33:00+05:30"
+date: "2017-03-04"
 permalink: /wiaposts/positive-and-negative-professions
 tags: [ 'My Story', Philosophy]    
 

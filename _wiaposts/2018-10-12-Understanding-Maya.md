@@ -2,7 +2,7 @@
 id: 5082
 
 title: Understanding Maya
-date: "2018-10-12T08:33:00+05:30"
+date: "2018-10-12"
 permalink: /wiaposts/understanding-maya
 tags: ['Bhagwat Gita', 'Concepts', 'Vedanta', 'Maya']    
 

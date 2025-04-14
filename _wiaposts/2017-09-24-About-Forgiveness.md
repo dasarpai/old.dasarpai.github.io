@@ -2,7 +2,7 @@
 id: 5059
 
 title: About Forgiveness
-date: "2017-09-24T08:33:00+05:30"
+date: "2017-09-24"
 permalink: /wiaposts/about-forgiveness
 tags: ['Concepts', 'Philosophy']    
 

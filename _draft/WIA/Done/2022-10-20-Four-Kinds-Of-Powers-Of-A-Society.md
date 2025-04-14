@@ -2,7 +2,7 @@
 id: 5201
 
 title: Four Kinds of Powers of a Society
-date: "2022-10-20T08:33:00+05:30"
+date: "2022-10-20"
 permalink: /wiaposts/four-kinds-of-powers-of-a-society
 tags: [Indian Culture ]    
 

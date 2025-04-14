@@ -1,4 +1,4 @@
----        
+---
 id: 5260 
 mathjax: true        
 title:  "What is Relationship - Poem"        
@@ -11,11 +11,10 @@ header:
     teaser: /assets/images/wiapost/5260-what-is-relationship.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
-excerpt:        
+excerpt: "In school, a friend with wealth so grand, His father took him by the hand, To the bank, where an account was made, A fortune's future, it seemed, was laid. One day, I needed money fast, My friend knew my"
 author_profile: true        
 share: true        
----     
-
+---
 ![What is Relationships - Poem](/assets/images/wiapost/5260-what-is-relationship.jpg)
    
 # What is Relationships - Poem   

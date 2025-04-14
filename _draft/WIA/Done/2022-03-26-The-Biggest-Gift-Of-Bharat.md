@@ -2,7 +2,7 @@
 id: 5183
 
 title: The Biggest Gift of Bharat
-date: "2022-03-26T08:33:00+05:30"
+date: "2022-03-26"
 permalink: /wiaposts/the-biggest-gift-of-bharat
 tags: [Indian Culture, Yoga, Meditation, Tantra, Upanishad ]    
 

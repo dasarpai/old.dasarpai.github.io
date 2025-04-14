@@ -2,7 +2,7 @@
 id: 5036
 
 title: Which Metrics Does Really Matter?
-date: "2017-01-19T08:33:00+05:30"
+date: "2017-01-19"
 permalink: /wiaposts/which-metrics-does-really-matter
 tags: [ 'Philosophy for Business', Poetry]    
 

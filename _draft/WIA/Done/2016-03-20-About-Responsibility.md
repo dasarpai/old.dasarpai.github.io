@@ -2,7 +2,7 @@
 id: 5013
 
 title: About Responsibility
-date: "2016-03-20T08:33:00+05:30"
+date: "2016-03-20"
 permalink: /wiaposts/about-responsibility
 tags: [ Concepts, Philosophy]    
 

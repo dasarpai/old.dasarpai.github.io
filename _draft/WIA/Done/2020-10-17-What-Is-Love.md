@@ -2,7 +2,7 @@
 id: 5139
 
 title: What Is Love?
-date: "2020-10-17T08:33:00+05:30"
+date: "2020-10-17"
 permalink: /wiaposts/what-is-love
 tags: [ 'My Views', Philosophy, 'Pleasure & Joy']    
 

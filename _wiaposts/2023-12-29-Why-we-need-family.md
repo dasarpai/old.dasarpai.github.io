@@ -1,4 +1,4 @@
----        
+---
 id: 5245 
 title:   Why do we need family?          
 date: "2023-12-29T08:33:00+05:30"        
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5245-why-do-we-need-family.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
-excerpt:        
+excerpt: "Knowledge resides within books for the next generation or sharing with those whom the author cannot directly reach. Knowledge is within tradition, but that is for family, friends, and those close around us. No book is required for this kind"
 author_profile: true        
 share: true        
----        
-        
+---
 ![Why do we need family](/assets/images/wiapost/5245-why-do-we-need-family.jpg)        
         
 # Why do we need family?    

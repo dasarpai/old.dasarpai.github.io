@@ -2,7 +2,7 @@
 id: 5066
 
 title: The Concept Of Six Sins
-date: "2018-01-15T08:33:00+05:30"
+date: "2018-01-15"
 permalink: /wiaposts/the-concept-of-six-sins
 tags: [ 'Indian Culture', Philosophy]    
 

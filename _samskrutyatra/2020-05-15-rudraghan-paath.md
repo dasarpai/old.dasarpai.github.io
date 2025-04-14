@@ -22,7 +22,10 @@ share: true
     
 ![](/assets/images/samskrut/Rudra.jpg)    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/065-Rudraghanpaath.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/065-Rudraghanpaath.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
 # Rudraghan Paath    
 I am not able to find even basic text for RudraGhana Patha so putting this image from my Mantra Pushpam book. I hope you will enjoy this. This is very powerful for concentration development.    

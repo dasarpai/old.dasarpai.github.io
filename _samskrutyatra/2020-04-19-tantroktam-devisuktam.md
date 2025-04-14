@@ -1,4 +1,4 @@
----    
+---
 id: 4033    
 mathjax: true    
 title: 'Tantroktam DeviSuktam - तन्त्रोक्तं देविसूक्तम्'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Tantroktam DeviSuktam नमो देव्यै महादेव्यै शिवायै सततं नमः । नमः प्रकृत्यै भद्रायै नियताः प्रणताः स्म ताम् ॥१॥ रौद्रायै नमो नित्यायै गौर्यै धात्र्यै नमो नमः । ज्योत्स्ना यै चेन्दुरुपिण्यै सुखायै सततं नमः ॥२॥ कल्याण्यै प्रणतां वृध्दै सिध्दयै कुर्मो नमो नमः"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # तन्त्रोक्तं देविसूक्तम्    
 ## Tantroktam DeviSuktam    

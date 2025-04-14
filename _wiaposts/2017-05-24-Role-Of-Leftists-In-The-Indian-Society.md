@@ -2,7 +2,7 @@
 id: 5049
 
 title: Role Of Leftists In The Indian Society
-date: "2017-05-24T08:33:00+05:30"
+date: "2017-05-24"
 permalink: /wiaposts/role-of-leftists-in-the-indian-society
 tags: ['My Views']    
 

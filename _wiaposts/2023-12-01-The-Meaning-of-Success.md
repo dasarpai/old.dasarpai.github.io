@@ -1,4 +1,4 @@
----        
+---
 id: 5240 
 title:  The Meaning of Success          
 date: "2023-12-01T08:33:00+05:30"        
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5240-The-Meaning-of-Success.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
-excerpt:        
+excerpt: "Every parent wants his children to be successful. Every citizen wants his state or country to be prosperous. Every teacher wants his students to become successful. There is industry around the success, Leaders from this industry teach newcomers to become"
 author_profile: true        
 share: true        
----        
-
+---
 ![The Meaning of Success](/assets/images/wiapost/5240-The-Meaning-of-Success.jpg)    
     
 # The Meaning of Success    

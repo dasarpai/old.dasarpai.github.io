@@ -1,4 +1,4 @@
----    
+---
 id: 4107    
 mathjax: true    
 title: 'Bhagwat Gita Chapter 12 - श्रीमद्भगवद्गीता द्वादशोऽध्यायः - भक्तियोगः'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Bhagwat Gita Chapter 12 अथ द्वादशोऽध्यायः । भक्तियोगः अर्जुन उवाच । एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते । ये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः ॥ १२-१॥ श्रीभगवानुवाच । मय्यावेश्य मनो ये मां नित्ययुक्ता उपासते । श्रद्धया परयोपेताः ते मे युक्ततमा मताः"
 keywords: [Bhagwat Gita Chapter 12, Bhakti Yoga, Upnishad]       
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता द्वादशोऽध्यायः – भक्तियोगः    

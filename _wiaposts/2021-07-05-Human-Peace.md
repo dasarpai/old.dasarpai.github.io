@@ -1,7 +1,7 @@
---- 
+---
 id: 5164 
 title: Human Peace
-date: "2021-07-05T08:33:00+05:30"
+date: "2021-07-05"
 permalink: /wiaposts/human-peace
 tags: [ Peace, Education, Wisdom]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5164-Human-Peace.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Information has become abundant and it is free through search engines like Google, bing, yahoo etc. Knowledge has become abundant and free through Wikipedia, quora etc. Energy is becoming abundant through nuclear, wind, solar, etc. Communication has become abundant through"
 author_profile: true 
 share: true 
 ---
-
 ![Human Peace](/assets/images/wiapost/5164-Human-Peace.jpg)   
    
 ## Human Peace   

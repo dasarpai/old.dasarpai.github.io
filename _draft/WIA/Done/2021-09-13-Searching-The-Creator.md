@@ -2,7 +2,7 @@
 id: 5170
 
 title: Searching the Creator
-date: "2021-09-13T08:33:00+05:30"
+date: "2021-09-13"
 permalink: /wiaposts/searching-the-creator
 tags: [ Life, Nature]    
 

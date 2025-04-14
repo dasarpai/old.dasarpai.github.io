@@ -2,7 +2,7 @@
 id: 5055
 
 title: The Power For Prayer
-date: "2017-07-30T08:33:00+05:30"
+date: "2017-07-30"
 permalink: /wiaposts/the-power-for-prayer
 tags: ['Poetry', 'Prayers']    
 

@@ -1,7 +1,7 @@
---- 
+---
 id: 5185 
 title: Paapam and Punyam in Awareness
-date: "2022-04-12T08:33:00+05:30"
+date: "2022-04-12"
 permalink: /wiaposts/paapam-and-punyam-in-awareness
 tags: [ My Views, Ethics and Morality, Awareness]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5185-Paapam-And-Punyam-In-Awareness.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "A person is in comma or deep sleep and something horrible related to him happens around him and he is unaware. He comes to know about this when he come out of coma or deep sleep. His deep sleep or"
 author_profile: true 
 share: true 
 ---
-
 ![Paapam and Punyam in Awareness](/assets/images/wiapost/5185-Paapam-And-Punyam-In-Awareness.jpg)    
    
 # Paapam and Punyam in Awareness   

@@ -1,4 +1,4 @@
----    
+---
 id: 4109    
 mathjax: true    
 title: 'Naam Ramayan  - नाम रामायण'    
@@ -15,18 +15,20 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "॥ बालकाण्डम् Baala-Kaannddam ॥ शुद्धब्रह्मपरात्पर राम् ॥१॥ कालात्मकपरमेश्वर राम् ॥२॥ शेषतल्पसुखनिद्रित राम् ॥३॥ ब्रह्माद्यामरप्रार्थित राम् ॥४॥ चण्डकिरणकुलमण्डन राम् ॥५॥ श्रीमद्दशरथनन्दन राम् ॥६॥ कौसल्यासुखवर्धन राम् ॥७॥ विश्वामित्रप्रियधन राम् ॥८॥ घोरताटकाघातक राम् ॥९॥ मारीचादिनिपातक राम् ॥१०॥ कौशिकमखसंरक्षक राम् ॥११॥ श्रीमदहल्योद्धारक राम् ॥१२॥"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Ramchandraji.jpg)    
     
 # नाम रामायण    
 ## Naam Ramayan    
     
 Sung by Pandit Bhajan Sopori    
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/O002-NaamRaam.m4a" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/O002-NaamRaam.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
     
 ॥ बालकाण्डम् Baala-Kaannddam ॥     

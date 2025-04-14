@@ -1,4 +1,4 @@
----                                
+---
 id: 5218    
 title:  The Real Hell of False Ego                        
 date: "2023-01-26T08:33:00+05:30"                                
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5218-The-Real-Hell-of-False-Ego.jpg                               
 author: Hari Thapliyaal                                
 layout:   wiaposts-layout
-excerpt:                                
+excerpt: "As a life, you can have the following feelings about yourself and each of these serves some purpose for yourself and the society around you and causes some harm to you. 1- In this infinite cosmos, among billions of galaxies,"
 author_profile: true                                
 share: true                                
----                                
-                                
+---
 ![The-Real-Hell-of-False-Ego](/assets/images/wiapost/5218-The-Real-Hell-of-False-Ego.jpg)                                     
                    
 # The Real Hell of False Ego    

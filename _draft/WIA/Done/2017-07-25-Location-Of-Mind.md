@@ -2,7 +2,7 @@
 id: 5054
 
 title: Location Of Mind
-date: "2017-07-25T08:33:00+05:30"
+date: "2017-07-25"
 permalink: /wiaposts/location-of-mind
 tags: [ Concepts, Death, Mind, Science]    
 

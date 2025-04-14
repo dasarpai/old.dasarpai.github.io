@@ -2,7 +2,7 @@
 id: 5225
 mathjax: true
 title:  How Do You Want to Live?   
-date: "2023-04-27T08:33:00+05:30"
+date: "2023-04-27"
 permalink: /wiaposts/How-Do-You-Want-to-Live
 tags:  [My Views, Life, Philosophy] 
 

@@ -1,4 +1,4 @@
----    
+---
 id: 4058    
 mathjax: true    
 title: 'Shiv Tandava Stotram - शिवतांडवस्तोत्रं'    
@@ -15,21 +15,26 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "जटाटवीगलज्जल प्रवाहपावितस्थले गलेऽवलम्ब्य लम्बितां भुजंगतुंगमालिकाम्‌। डमड्डमड्डमड्डमनिनादवड्डमर्वयं चकार चण्डताण्डवं तनोतु नः शिवः शिवम"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Shiva.jpg)    
     
 # शिवतांडवस्तोत्रं     
 ## Shiv Tandava Stotram    
     
 सामान्य गति    
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/005-ShivTandavaStotram.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/005-ShivTandavaStotram.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
 द्रुत गति    
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/045-ShivTandavaStotramFast.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/045-ShivTandavaStotramFast.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
 जटाटवीगलज्जल प्रवाहपावितस्थले    
 गलेऽवलम्ब्य लम्बितां भुजंगतुंगमालिकाम्‌।    

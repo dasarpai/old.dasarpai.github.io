@@ -1,7 +1,7 @@
---- 
+---
 id: 5191 
 title: Young Generation and Vedanta
-date: "2022-06-14T08:33:00+05:30"
+date: "2022-06-14"
 permalink: /wiaposts/young-generation-and-vedanta
 tags: [Vedanta, Life ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5191-Young-Generation-And-Vedanta.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Generally, people think philosophy is for old people. Read Bhagwat Gita or Upanishads when you are old. I am a youth, I have to live the life I don’t have time for all this useless. My child is too small"
 author_profile: true 
 share: true 
 ---
-
 ![Young Generation and Vedanta](/assets/images/wiapost/5191-Young-Generation-And-Vedanta.jpg)     
    
 # Young Generation and Vedanta    

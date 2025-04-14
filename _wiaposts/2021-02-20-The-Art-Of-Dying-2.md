@@ -1,7 +1,7 @@
---- 
+---
 id: 5147 
 title: The Art Of Dying 2
-date: "2021-02-20T08:33:00+05:30"
+date: "2021-02-20"
 permalink: /wiaposts/the-art-of-dying-2
 tags: [ Death, Life, 'My Views', Yoga]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5147-The-Art-Of-Dying-2.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Inhaling is different from exhaling and Exhaling is different from inhaling Both never happens to us at the same time But both happen continuously, one after another. If you breathe fully, in awareness, and with satisfaction then There is no"
 author_profile: true 
 share: true 
 ---
-
 ![The Art Of Dying 2](/assets/images/wiapost/5147-The-Art-Of-Dying-2.jpg)     
    
 ## The Art Of Dying 2   

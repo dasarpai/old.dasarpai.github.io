@@ -1,4 +1,4 @@
----    
+---
 id: 4125    
 mathjax: true    
 title: 'Chandogyopnishad 5 - छान्दोग्योपनिषत् पञ्चमोऽध्यायः'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Chandogyopnishad 5 यो ह वै ज्येष्ठं च श्रेष्ठं च वेद ज्येष्ठश्च ह वै श्रेष्ठश्च भवति प्राणो वाव ज्येष्ठश्च श्रेष्ठश्च ॥ ५.१.१॥ यो ह वै वसिष्ठं वेद वसिष्ठो ह स्वानां भवति वाग्वाव वसिष्ठः ॥ ५.१.२॥ यो ह वै प्रतिष्ठां वेद"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # छान्दोग्योपनिषत्  पञ्चमोऽध्यायः    

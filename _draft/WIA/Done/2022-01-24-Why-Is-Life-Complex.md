@@ -2,7 +2,7 @@
 id: 5179
 
 title: Why is life complex?
-date: "2022-01-24T08:33:00+05:30"
+date: "2022-01-24"
 permalink: /wiaposts/why-is-life-complex
 tags: [Life, My Views ]    
 

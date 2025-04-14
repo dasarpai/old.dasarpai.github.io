@@ -1,4 +1,4 @@
----        
+---
 id: 5264 
 mathjax: true        
 title:  "Why is there conflict in the Society?"        
@@ -11,12 +11,11 @@ header:
     teaser: /assets/images/wiapost/5264-Why-there-is-Conflict-in-society.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
-excerpt:        
+excerpt: "There is conflict between societies. There is conflict within society. There is conflict between nations. There is conflict within a nation. What is society? What is a nation? Is it just geographical boundaries, The color of human skin, the language"
 author_profile: true        
 share: true
 keywords: ["societal conflict", "causes of conflict", "leadership and conflict", "internal vs external conflict", "human behavior and conflict", "conflict resolution", "peace and conflict studies"]        
---- 
-
+---
 ![Why is there conflict in the Society?](/assets/images/wiapost/5264-Why-there-is-Conflict-in-society.jpg)   
    
 # Why is there conflict in the Society?   

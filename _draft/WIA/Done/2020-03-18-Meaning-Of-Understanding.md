@@ -2,7 +2,7 @@
 id: 5121
 
 title: Meaning Of Understanding
-date: "2020-03-18T08:33:00+05:30"
+date: "2020-03-18"
 permalink: /wiaposts/meaning-of-understanding
 tags: [ Concepts, Life, 'My Views', Philosophy]    
 

@@ -1,4 +1,4 @@
----    
+---
 id: 4079    
 mathjax: true    
 title: 'Bhagwat Gita Chapter 6 - श्रीमद्भगवद्गीता षष्ठोऽध्यायः - ध्यानयोगः'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Bhagwat Gita Chapter 6 अथ षष्ठोऽध्यायः । ध्यानयोगः श्रीभगवानुवाच । अनाश्रितः कर्मफलं कार्यं कर्म करोति यः । स संन्यासी च योगी च न निरग्निर्न चाक्रियः ॥ ६-१॥ यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव । न ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन"
 keywords: [Bhagwat Gita Chapter 6, Dhynan Yoga, Meditation Yoga, Upnishad]       
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता षष्ठोऽध्यायः – ध्यानयोगः    

@@ -25,7 +25,10 @@ share: true
 # दारिद्र्य दहन शिवस्तोत्रम्     
 ## Daridrya Dahan Shivstotram    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/042-DaridryaDukhDahanShivStotram.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/042-DaridryaDukhDahanShivStotram.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
     
     

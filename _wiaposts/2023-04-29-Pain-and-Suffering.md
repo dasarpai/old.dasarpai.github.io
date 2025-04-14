@@ -1,4 +1,4 @@
----        
+---
 id: 5228  
 title:  Pain and Suffering          
 date: "2023-04-29T08:33:00+05:30"        
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5228-Pain-and-Suffering.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
-excerpt:        
+excerpt: "Pain is physical. Suffering is emotional, it is mental. Suffering is because of thinking. Suffering is because of improper thinking. The remedy for pain is a tablet or injection or surgery. Remedy for suffering is the right knowledge. Realization, getting"
 author_profile: true        
 share: true        
----        
-        
+---
 ![Pain and Suffering ](/assets/images/wiapost/5228-Pain-and-Suffering.jpg)             
         
 # Pain and Suffering     

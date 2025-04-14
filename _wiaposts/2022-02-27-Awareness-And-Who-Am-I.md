@@ -1,7 +1,7 @@
---- 
+---
 id: 5181 
 title: Awareness and Who Am I
-date: "2022-02-27T08:33:00+05:30"
+date: "2022-02-27"
 permalink: /wiaposts/awareness-and-who-am-i
 tags: [ Vedanta, My Views]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5181-Awareness-And-Who-Am-I.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Birds, Animals and Human all breath and exists as long as they breath But only humans are aware of his own existence. Other exists but with with limited awareness, which is good enough for survival. Because human is aware about"
 author_profile: true 
 share: true 
 ---
-
 ![Awareness and Who Am I](/assets/images/wiapost/5181-Awareness-And-Who-Am-I.jpg)   
    
 # Awareness and Who Am I   

@@ -2,7 +2,7 @@
 id: 5200
 
 title: Jeevan Mukta
-date: "2022-09-29T08:33:00+05:30"
+date: "2022-09-29"
 permalink: /wiaposts/jeevan-mukta
 tags: [Life, Vedanta, My Views ]    
 

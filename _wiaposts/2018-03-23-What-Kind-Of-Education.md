@@ -2,7 +2,7 @@
 id: 5070
 
 title: What Kind Of Education?
-date: "2018-03-23T08:33:00+05:30"
+date: "2018-03-23"
 permalink: /wiaposts/what-kind-of-education
 tags: ['Education']    
 

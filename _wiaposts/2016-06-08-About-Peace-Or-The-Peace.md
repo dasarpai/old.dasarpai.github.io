@@ -1,8 +1,8 @@
---- 
+---
 id: 5020
 
 title: About Peace Or The Peace
-date: "2016-06-08T08:33:00+05:30"
+date: "2016-06-08"
 permalink: /wiaposts/about-peace-or-the-peace
 tags: [ Concepts, Dharma, 'Ethics and Morality', Philosophy]    
 
@@ -11,11 +11,10 @@ header:
      teaser: /assets/images/wiapost/5020-About-Peace-Or-The-Peace.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Peace and happiness in life is a desire of every human. Is it a goal of life, which we shall achieve one day? If you don’t have it then it may be a goal for you. Otherwise it a basic"
 author_profile: true 
 share: true 
 ---
-
 ![About Peace Or The Peace](/assets/images/wiapost/5020-About-Peace-Or-The-Peace.jpg)     
    
 # About Peace Or The Peace   

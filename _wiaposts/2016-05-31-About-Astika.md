@@ -2,7 +2,7 @@
 id: 5019
 
 title: About Astika
-date: "2016-05-31T08:33:00+05:30"
+date: "2016-05-31"
 permalink: /wiaposts/about-astika
 tags: ['Concepts', 'Dharma', 'Philosophy']    
 

@@ -1,7 +1,7 @@
---- 
+---
 id: 5176 
 title: Ideals in Hinduism
-date: "2021-12-24T08:33:00+05:30"
+date: "2021-12-24"
 permalink: /wiaposts/ideals-in-hinduism
 tags: [ Hinduism, Ethics and Morality]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5176-Ideals-In-Hinduism.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "People Question Rama, why he left Sita because someone questioned Sita's character? Rama should have defended and continued as king. Do you remember once Uma took the form of Sita to test the divinity of Rama. But, just because Shiva"
 author_profile: true 
 share: true 
 ---
-
 ![Ideals in Hinduism](/assets/images/wiapost/5176-Ideals-In-Hinduism.jpg)     
    
 ## Ideals in Hinduism   

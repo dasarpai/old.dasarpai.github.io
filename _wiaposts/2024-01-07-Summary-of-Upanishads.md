@@ -1,4 +1,4 @@
----            
+---
 id: 5247 
 title:   Introduction to Upanishads              
 date: "2024-01-07T08:33:00+05:30"            
@@ -10,14 +10,13 @@ header:
     teaser: /assets/images/wiapost/5247-Introduction-to-Upanishads.jpg            
 author: Hari Thapliyaal            
 layout:   wiaposts-layout
-excerpt:            
+excerpt: "In this article, I will discuss three main topics, primarily focusing on the introduction of Upanishads: - What is Vedanta or Upanishads? Exploring the essence of Vedantic texts, their diversity, the extent of original work, and the existing material available"
 author_profile: true            
 share: true   
 toc: True  
 toc_sticky: true    
 keywords: Vedanta, Upanishad, Purana, Shiva Purana, Vaishnav Purana, Shakta Purana     
----            
-            
+---
 ![Introduction to Upanishads](/assets/images/wiapost/5247-Introduction-to-Upanishads.jpg)            
             
 # Basics of Vedanta, Purana & Philosophical Schools   

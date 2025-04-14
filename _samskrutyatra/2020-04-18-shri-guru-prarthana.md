@@ -1,4 +1,4 @@
----    
+---
 id: 4029    
 mathjax: true    
 title: 'Shri Guru Prarthana - श्रीगुरु-प्रार्थना'    
@@ -15,17 +15,19 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "भवसागर-तारण-कारण हे । रविनन्दन-बन्धन-खण्डन हे ।। शरणागत किंकर भीत मने । गुरुदेव दया करो दीनजने ।१। हृदिकन्दर-तामस-भास्कर हे । तुमि विष्णु प्रजापति शंकर हे ।। परब्रह्म परात्पर वेद भणे । गुरुदेव दया करो दीन जने ।२। श्रीगुरु-प्रार्थना मनवारण-शासन-अंकुश हे ।"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Sri-Ramakrishna.jpg)    
     
 #  श्रीगुरु-प्रार्थना    
 ## Shri Guru Prarthana    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/033-BhavSagarTaran.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/033-BhavSagarTaran.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
 भवसागर-तारण-कारण हे । रविनन्दन-बन्धन-खण्डन हे ।।    
 शरणागत  किंकर भीत मने । गुरुदेव दया करो दीनजने ।१।    

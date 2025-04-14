@@ -1,4 +1,4 @@
----    
+---
 id: 4148    
 mathjax: true    
 title: 'Devi Vaikrutikam Rahashyam - वैकृतिकं रहस्यम्'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Devi Vaikrutikam Rahashyam ऋषिरुवाच ॐ त्रिगुणा तामसी देवी सात्त्विकी या त्रिधोदिता। सा शर्वा चण्डिका दुर्गा भद्रा भगवतीर्यते॥१॥ योगनिद्रा हरेरुक्ता महाकाली तमोगुणा। मधुकैटभनाशार्थं यां तुष्टावाम्बुजासनः॥२॥ दशवक्त्रा दशभुजा दशपादाञ्जनप्रभा। विशालया राजमाना त्रिंशल्लोचनमालया॥३॥ स्फुरद्दशनदंष्ट्रा सा भीमरूपापि भूमिप। रूपसौभाग्यकान्तीनां सा प्रतिष्ठा महाश्रियः॥४॥ खड्गबाणगदाशूलचक्रशङ्खभुशुण्डिभृत्।"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # अथ वैकृतिकं रहस्यम्    
 ## Devi Vaikrutikam Rahashyam    

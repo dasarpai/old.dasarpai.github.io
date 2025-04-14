@@ -1,7 +1,7 @@
 --- 
 id: 5101 
 title: Nuisance Of Translation
-date: "2019-07-10T08:33:00+05:30"
+date: "2019-07-10"
 permalink: /wiaposts/nuisance-of-translation
 tags: [ Concepts, Education, Poetry]    
 keywords: ["challenges of cultural translation", "impact of translation on education", "poetry inspired by translation issues", "understanding cultural nuisances", "insights from Rajiv Malhotra's work"]  

@@ -1,7 +1,7 @@
---- 
+---
 id: 5183 
 title: The Biggest Gift of Bharat
-date: "2022-03-26T08:33:00+05:30"
+date: "2022-03-26"
 permalink: /wiaposts/the-biggest-gift-of-bharat
 tags: [Indian Culture, Yoga, Meditation, Tantra, Upanishad ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5183-The-Biggest-Gift-Of-Bharat.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Three the biggest things which Bharat gave to the world but even our own people don't understand these fully. A. Tantra : A way to control your own life energy. Live your every breath. Live life in totality and without"
 author_profile: true 
 share: true 
 ---
-
 ![The Biggest Gift of Bharat](/assets/images/wiapost/5183-The-Biggest-Gift-Of-Bharat.jpg)     
    
 # The Biggest Gift of Bharat  

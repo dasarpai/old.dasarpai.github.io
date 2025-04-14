@@ -2,7 +2,7 @@
 id: 5012
 
 title: About Shoonya Zero
-date: "2016-03-02T08:33:00+05:30"
+date: "2016-03-02"
 permalink: /wiaposts/about-shoonya-zero
 tags: ['Concepts', 'Philosophy']    
 

@@ -2,7 +2,7 @@
 id: 5163
 
 title: Labeling Good and Bad
-date: "2021-06-25T08:33:00+05:30"
+date: "2021-06-25"
 permalink: /wiaposts/labeling-good-and-bad
 tags: [ Ethics and Morality, Education ]    
 

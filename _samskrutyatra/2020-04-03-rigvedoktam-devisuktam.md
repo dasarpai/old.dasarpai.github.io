@@ -11,16 +11,15 @@ tags: [Devi]
 categories:
 
 header:
-   teaser: /assets/images/samskrut/durga.jpg
+   teaser: /assets/images/samskrut/Durga.jpg
 
 author: 'Hari Thapliyaal'
 
-excerpt:
+excerpt: "ॐ अहमित्यष्टर्चस्य सूक्तस्य वागाम्भृणी ऋषिः, सच्चित्सुखात्मकः सर्वगतः परमात्मा देवता, द्वितीयाया ॠचो जगती, शिष्टानां त्रिष्टुप् छन्दः, देवीमाहात्म्यपाठे विनियोगः।"
 
 share: true
 ---
-
-![](/assets/images/samskrut/durga.jpg)
+![](/assets/images/samskrut/Durga.jpg)
 
 # ऋग्वेदोक्तं देवीसूक्तम्
 

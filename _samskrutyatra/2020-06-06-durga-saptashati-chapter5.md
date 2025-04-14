@@ -1,4 +1,4 @@
----    
+---
 id: 4137    
 mathjax: true    
 title: 'Durga Saptashati Chapter 5 - श्रीदुर्गासप्तशती - पञ्चमोऽध्यायः'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Durga Saptashati Chapter5 ## देवताओं द्वारा देवी की स्तुति, चण्ड-मुण्डके मुख से अम्बिका के रूप की प्रशंसा सुनकर शुम्भ का उनके पास दूत भेजना और दूत का निराश लौटना ॥विनियोगः॥ ॐ अस्य श्रीउत्तरचरित्रस्य रूद्र ऋषिः, महासरस्वती देवता, अनुष्टुप् छन्दः,"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # श्रीदुर्गासप्तशती – पञ्चमोऽध्यायः    
 ## Durga Saptashati Chapter5    

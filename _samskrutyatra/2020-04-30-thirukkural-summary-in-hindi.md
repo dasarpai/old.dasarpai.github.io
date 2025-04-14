@@ -1,4 +1,4 @@
----    
+---
 id: 4074    
 mathjax: true    
 title: 'Thirukkural Summary in Hindi'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## TirukKural Summary - Part 2 अध्याय 001 to 010 1. ईश्वर- स्तुति 2. वर्षा- महत्व 3. संन्यासी- महिमा 4. धर्म पर आग्रह 5. गार्हस्थ्य 6. सहधर्मिणो 7. संतान- लाभ 8. प्रेम-भाव 9. अतिथि- सत्कार 10. मधुर- भाषण अध्याय 011"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Thiruvalluvar.jpg)    
     
    

@@ -1,4 +1,4 @@
----    
+---
 id: 4111    
 mathjax: true    
 title: 'Bhagwat Gita Chapter 14 - श्रीमद्भगवद्गीता चतुर्दशोऽध्यायः - गुणत्रयविभागयोगः'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Bhagwat Gita Chapter 14 अथ चतुर्दशोऽध्यायः । गुणत्रयविभागयोगः श्रीभगवानुवाच । परं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम् । यज्ज्ञात्वा मुनयः सर्वे परां सिद्धिमितो गताः ॥ १४-१॥ इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः । सर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च ॥ १४-२॥ मम योनिर्महद्"
 keywords: [Bhagwat Gita Chapter 14, Prakriti Guna Tri Vibhag Yoga, Three Guna of Nature, Gunatraya Vibhag, Upnishad]       
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता चतुर्दशोऽध्यायः – गुणत्रयविभागयोगः    

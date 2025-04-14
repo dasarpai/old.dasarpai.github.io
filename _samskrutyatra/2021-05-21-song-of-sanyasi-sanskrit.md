@@ -1,4 +1,4 @@
----    
+---
 id: 4169    
 mathjax: true    
 title: 'Song of Sanyasi - सन्यासी का गीत (संस्कृतं)'    
@@ -15,11 +15,10 @@ header:
 
 author: 'Hari Thapliyaal'    
 
-excerpt:    
+excerpt: "## Song of Sanyasi by Swami Vivekananda उत्तिष्ठ स्वरः तस्य संगीतं यस्य जन्मः दूरे अभवत् यस्य संसारमलं न स्पर्शं शक्नोति गिरिं कंदरां एवं सघनवनस्य वंजरभूमीम् यस्य शान्तिं वासनास्य यशस्य ऐश्वर्यस्य विलापं नास्ति यत्र ज्ञानसत्यानन्दस्य धारा प्रवहति किं भवान इति त्रोटनसाहसं"
 
 share: true    
----    
-
+---
 ![](/assets/images/samskrut/Sri-Ramakrishna.jpg)    
 
 # सन्यासी का गीत    

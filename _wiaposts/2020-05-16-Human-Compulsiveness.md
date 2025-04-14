@@ -1,7 +1,7 @@
 --- 
 id: 5126 
 title: Human Compulsiveness
-date: "2020-05-16T08:33:00+05:30"
+date: "2020-05-16"
 permalink: /wiaposts/human-compulsiveness
 tags: [ Education, 'Ethics and Morality', Mindfulness, 'My Views', Philosophy]    
 keywords: ["exploration of human compulsiveness", "understanding compulsive behavior in philosophy", "poetic insights on mindfulness and choice", "philosophy of compulsiveness and awareness", "exploring human compulsiveness in philosophical context"]  

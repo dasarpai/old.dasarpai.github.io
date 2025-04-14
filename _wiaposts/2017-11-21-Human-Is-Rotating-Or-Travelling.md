@@ -2,7 +2,7 @@
 id: 5063
 
 title: Human Is Rotating Or Travelling
-date: "2017-11-21T08:33:00+05:30"
+date: "2017-11-21"
 permalink: /wiaposts/human-is-rotating-or-travelling
 tags: ['Concepts', 'Philosophy']    
 

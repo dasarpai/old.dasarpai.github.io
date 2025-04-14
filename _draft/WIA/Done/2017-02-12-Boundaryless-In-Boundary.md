@@ -2,7 +2,7 @@
 id: 5039
 
 title: Boundaryless In Boundary
-date: "2017-02-12T08:33:00+05:30"
+date: "2017-02-12"
 permalink: /wiaposts/boundaryless-in-boundary
 tags: [ Mind, Philosophy]    
 

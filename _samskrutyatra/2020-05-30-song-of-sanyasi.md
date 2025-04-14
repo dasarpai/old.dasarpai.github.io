@@ -1,4 +1,4 @@
----    
+---
 id: 4132    
 mathjax: true    
 title: 'Song of Sanyasi  - सन्यासी का गीत'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Song of Sanyasi by Swami Vivekananda जगाओ स्वर! उस गीत के जो जन्मा दूर कहीं है,वहां जहां सांसारिक मल पहुंच न सके, गिरि कंदरा और वनों की बंजर भूमिपर, जिसकी स्थिरता में विलाप नहीं है वासना, यश और ऐश्वर्य"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Sri-Ramakrishna.jpg)    
     
 #  सन्यासी का गीत    

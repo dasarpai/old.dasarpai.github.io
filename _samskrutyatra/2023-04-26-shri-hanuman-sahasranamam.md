@@ -1,4 +1,4 @@
----    
+---
 id: 4172    
 mathjax: true    
 title: 'Hanuman Sahsranamavali - हनुमान सहस्त्रनामावली'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "1. हनुमान्: – विशाल और टेढी ठुड्डी वाले । 2. श्रीप्रद: – शोभा प्रदन करने वाले । 3. वायुपुत्र: – वायु के पुत्र 4. रुद्र: – जो रुद्र के अवतार हैं (हनुमान जी एकादश रुद्र हैं) 5. अनघ: -पाप से"
     
 share: true    
----    
-    
+---
 ![Hanuman Ji](/assets/images/samskrut/Hanumanji.jpg)    
     
 # हनुमान सहस्त्रनामावली   

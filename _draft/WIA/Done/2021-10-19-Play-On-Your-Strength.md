@@ -2,7 +2,7 @@
 id: 5172
 
 title: Play on your Strength
-date: "2021-10-19T08:33:00+05:30"
+date: "2021-10-19"
 permalink: /wiaposts/play-on-your-strength
 tags: [Life ]    
 

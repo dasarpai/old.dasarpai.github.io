@@ -2,7 +2,7 @@
 id: 5194
 
 title: What is the Miracle?
-date: "2022-07-12T08:33:00+05:30"
+date: "2022-07-12"
 permalink: /wiaposts/what-is-the-miracle
 tags: [ Life, God, Miracle]    
 

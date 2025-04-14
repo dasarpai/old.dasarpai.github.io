@@ -1,4 +1,4 @@
----        
+---
 id: 5243  
 title:  Layers of Identities and Bondage          
 date: "2023-09-04T08:33:00+05:30"        
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5243-Layers-of-Identities-and-Bondage.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
-excerpt:        
+excerpt: "The waking state is when I am fully aware of the objects and events around my physical body and within it. The dreaming state is when I am fully aware of the objects and events around my dream body and"
 author_profile: true        
 share: true        
----        
-        
+---
 ![Layers of Identities and Bondage](/assets/images/wiapost/5243-Layers-of-Identities-and-Bondage.jpg)        
         
 # Layers of Identities and Bondage    

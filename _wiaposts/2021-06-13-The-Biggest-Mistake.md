@@ -1,7 +1,7 @@
---- 
+---
 id: 5162 
 title: The Biggest Mistake
-date: "2021-06-13T08:33:00+05:30"
+date: "2021-06-13"
 permalink: /wiaposts/the-biggest-mistake
 tags: [Life, Education ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5162-The-Biggest-Mistake.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "When we are children we even see the rise and set of the sun with amazement. Flying birds, and the color of the clouds and sky spark curiosity in us. Even a sprouting plant from seed was an amazement for"
 author_profile: true 
 share: true 
 ---
-
 ![The Biggest Mistake](/assets/images/wiapost/5162-The-Biggest-Mistake.jpg)     
    
 ## The Biggest Mistake   

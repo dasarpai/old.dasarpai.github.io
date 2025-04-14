@@ -1,7 +1,7 @@
---- 
+---
 id: 5190 
 title: Greeting and Culture
-date: "2022-05-27T08:33:00+05:30"
+date: "2022-05-27"
 permalink: /wiaposts/greeting-and-culture
 tags: [Namaste, My Views, Indian Culture ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5190-Greeting-And-Culture.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "What we know, that is because of our efforts and the support of family and friends. What we earn, that is because of our luck and work. How do we greet and treat others? It is because of culture. Namaste,"
 author_profile: true 
 share: true 
 ---
-
 ![Greeting and Culture](/assets/images/wiapost/5190-Greeting-And-Culture.jpg)     
    
 # Greeting and Culture   

@@ -2,7 +2,7 @@
 id: 5067
 
 title: The Concept Of Yoga
-date: "2018-01-19T08:33:00+05:30"
+date: "2018-01-19"
 permalink: /wiaposts/the-concept-of-yoga
 tags: [ Concepts, 'Indian Culture', Yoga]    
 

@@ -2,7 +2,7 @@
 id: 5088
 
 title: About Indian Secularism
-date: "2018-12-16T08:33:00+05:30"
+date: "2018-12-16"
 permalink: /wiaposts/about-indian-secularism
 tags: ['Concepts', 'Indian Culture']    
 

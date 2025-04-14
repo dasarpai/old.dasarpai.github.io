@@ -13,7 +13,7 @@ excerpt: "Comprehensive collection of the best resources for learning Python pro
 header:
   teaser:  /assets/images/dsresources/dsr110-Best-Resources-to-Learn-Python.jpg
 
-last_modified_at: 2021-06-30T15:46:43-04:00
+
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

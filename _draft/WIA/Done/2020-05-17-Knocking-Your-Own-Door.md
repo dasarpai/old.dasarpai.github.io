@@ -2,7 +2,7 @@
 id: 5127
 
 title: Knocking Your Own Door
-date: "2020-05-17T08:33:00+05:30"
+date: "2020-05-17"
 permalink: /wiaposts/knocking-your-own-door
 tags: [ Mind, 'My Views', Philosophy]    
 

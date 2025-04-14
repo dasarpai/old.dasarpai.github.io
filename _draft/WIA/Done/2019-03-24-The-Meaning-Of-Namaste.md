@@ -2,7 +2,7 @@
 id: 5094
 
 title: The Meaning Of Namaste
-date: "2019-03-24T08:33:00+05:30"
+date: "2019-03-24"
 permalink: /wiaposts/the-meaning-of-namaste
 tags: [ Concepts, 'Indian Culture', Philosophy]    
 

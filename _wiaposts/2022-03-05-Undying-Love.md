@@ -1,7 +1,7 @@
---- 
+---
 id: 5182 
 title: Undying Love
-date: "2022-03-05T08:33:00+05:30"
+date: "2022-03-05"
 permalink: /wiaposts/undying-love
 tags: [ My Views, Love, Relationship]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5182-Undying-Love.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Love, Respect, and Trust are the foundation of any relationship. You name any relation like your Ishta, mother, father, guru, wife, husband, son, daughter, daughter-in-law. Remove love, respect and trust from that relationship. That relation becomes like dry wood. You"
 author_profile: true 
 share: true 
 ---
-
 ![Undying Love](/assets/images/wiapost/5182-Undying-Love.jpg)     
    
 # Undying Love   

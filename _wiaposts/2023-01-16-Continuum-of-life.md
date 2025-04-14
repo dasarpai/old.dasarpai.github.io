@@ -1,4 +1,4 @@
----   
+---
 id: 5214   
 title: Continuum of life   
 date: "2023-01-16T08:33:00+05:30"   
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5214-Continuum-of-life.jpg   
 author: Hari Thapliyaal   
 layout:   wiaposts-layout
-excerpt:   
+excerpt: "Things around us are not full of life or lifeless. These are two opposites. This philosophy leads to duality or dichotomy. Everything which exists has life. How much life? Before that, we need to understand what life is? That which"
 author_profile: true   
 share: true   
----   
-   
+---
 ![The Logic of Entangled Mind](/assets/images/wiapost/5214-Continuum-of-life.jpg)        
    
 # Continuum of life   

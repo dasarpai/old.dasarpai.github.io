@@ -1,4 +1,4 @@
----    
+---
 id: 4160    
 mathjax: true    
 title: 'Gayatri Sahasranama - श्री गायत्री सहस्रनामस्तोत्रं'    
@@ -11,16 +11,15 @@ tags: [Devi]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Gayatri Sahasranama श्री गायत्री सहस्रनामस्तोत्रं देवी भागवतांतर्गत नारद उवाच – भगवन्-सर्वधर्मज्ञ, सर्व शास्त्र विशारद । श्रुति-स्मृति-पुराणानां, रहस्यं त्वन्मुखात्-श्रुतम्॥१॥ सर्वपाप हरं देव, येन विद्या प्रवर्तते । केन वा ब्रह्म-विज्ञानं, किं नु वा मोक्ष-साधनम्॥२॥ ब्राह्मणानां गतिः केन, केन वा मृत्यु नाशनम्"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # श्री गायत्री सहस्रनामस्तोत्रं    
 ## Gayatri Sahasranama    

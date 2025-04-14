@@ -2,7 +2,7 @@
 id: 5174
 
 title: Appreciate the Architecture of Mind
-date: "2021-12-02T08:33:00+05:30"
+date: "2021-12-02"
 permalink: /wiaposts/appreciate-the-architecture-of-mind
 tags: [ Mind, Meditation]    
 

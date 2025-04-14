@@ -12,7 +12,7 @@ keywords: AI blogs, machine learning blogs, deep learning resources, data scienc
 header:
   teaser:  /assets/images/dsresources/dsr109-AI-ML-DL-Blogs-Sites.jpg
 
-last_modified_at: 2021-07-02T15:46:43-04:00
+
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

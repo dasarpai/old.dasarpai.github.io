@@ -1,4 +1,4 @@
----    
+---
 id: 4090    
 mathjax: true    
 title: 'Bhagwat Gita Chapter 8 - श्रीमद्भगवद्गीता अष्टमोऽध्यायः - अक्षरब्रह्मयोगः'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Bhagwat Gita Chapter 8 अथ अष्टमोऽध्यायः । अक्षरब्रह्मयोगः अर्जुन उवाच । किं तद् ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम । अधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते ॥ ८-१॥ अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन । प्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभिः ॥ ८-२॥ श्रीभगवानुवाच"
 keywords: [Bhagwat Gita Chapter 8, Aksharabrahm Yoga, Upnishad]       
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/BhagwatGita.jpg)    
     
 # श्रीमद्भगवद्गीता अष्टमोऽध्यायः – अक्षरब्रह्मयोगः    

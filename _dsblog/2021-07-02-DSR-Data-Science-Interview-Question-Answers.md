@@ -20,7 +20,7 @@ tags:
 keywords: data science interview questions, machine learning interview preparation, AI technical questions, statistics interview topics, SQL coding challenges, Python programming interview, algorithm questions, probability questions, machine learning concepts, deep learning interview, data structures, system design, behavioral questions, salary negotiation, interview experience
 header:
   teaser: /assets/images/dsresources/dsr102-Data-Science-Interview-Question-Answers.jpg
-last_modified_at: 2022-09-09T15:46:43-04:00
+
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

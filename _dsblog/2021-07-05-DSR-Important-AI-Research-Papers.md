@@ -19,7 +19,7 @@ tags:
 keywords: artificial intelligence papers, machine learning research, deep learning publications, neural network architectures, computer vision breakthroughs, NLP innovations, reinforcement learning papers, AI algorithms, transformer models, convolutional neural networks, GAN research, BERT papers, GPT architecture, research methodology, citation metrics
 header:
   teaser: /assets/images/dsresources/dsr105-Important-AI-Research-Papers.jpg
-last_modified_at: 2021-09-25T15:46:43-04:00
+
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

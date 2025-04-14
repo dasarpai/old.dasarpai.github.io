@@ -1,4 +1,4 @@
----    
+---
 id: 4031    
 mathjax: true    
 title: 'Narayan Suktam- नारायणसूक्तम्'    
@@ -15,17 +15,19 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "सहस्रशीर्षं देवं विश्वाक्षं विश्वशम्भुवम् । विश्वं नारायणं देवं अक्षरं परमं पदम् । विश्वतः परमान्नित्यं विश्वं नारायणग्ं हरिम् । विश्वं एवेदं पुरुषस्तद्विश्वं उपजीवति । पतिं विश्वस्यात्मेश्वरग्ं शाश्वतग्ं शिवमच्युतम् । नारायणं महाज्ञेयं विश्वात्मानं परायणम् । नारायणपरो ज्योतिरात्मा नारायणः परः । नारायणपरं ब्रह्मं"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Vishnu.jpg)    
     
 # नारायणसूक्तम्    
 ## Narayan Suktam  
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/036-narayanSuktam.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/036-narayanSuktam.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
          
 सहस्रशीर्षं देवं विश्वाक्षं विश्वशम्भुवम् ।    
 विश्वं नारायणं देवं अक्षरं परमं पदम् ।    

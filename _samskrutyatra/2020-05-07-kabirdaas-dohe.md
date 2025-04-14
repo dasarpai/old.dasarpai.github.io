@@ -1,4 +1,4 @@
----    
+---
 id: 4080    
 mathjax: true    
 title: 'Kabirdaas Dohe - कबीरदास दोहे'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Kabirdaas Dohe In Indian Bhakti tradition Kabirdaas holds a very unique position. Because of his efforts to unify the Hindu & Muslim community he is respected by both. He is quoted in Gurubani of Sikh tradition and chanted by"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/saint-kabir-das.jpg)    
     
 # कबीरदास दोहे    

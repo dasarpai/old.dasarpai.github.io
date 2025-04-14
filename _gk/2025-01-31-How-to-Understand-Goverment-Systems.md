@@ -2,7 +2,7 @@
 id: 7014  
 mathjax: true        
 title: "How to Understand Government Systems"
-date: "2025-01-31T08:33:00+05:30"
+date: "2025-01-31"
 permalink: /gk/how-to-understand-government-systems
 tags: [Government Systems, Politics, Governance]
 keywords: [Government, Politics, Governance, Systems]

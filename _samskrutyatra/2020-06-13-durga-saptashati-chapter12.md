@@ -1,4 +1,4 @@
----    
+---
 id: 4144    
 mathjax: true    
 title: 'Durga Saptashati Chapter 12 - श्रीदुर्गासप्तशती - द्वादशोऽध्यायः'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Durga Saptashati Chapter12 ## देवी-चरित्रों के पाठ का माहात्म्य ॥ध्यानम्॥ ॐ विद्युद्दामसमप्रभां मृगपतिस्कन्धस्थितां भीषणां कन्याभिः करवालखेटविलसद्धस्ताभिरासेविताम्। हस्तैश्‍चक्रगदासिखेटविशिखांश्‍चापं गुणं तर्जनीं बिभ्राणामनलात्मिकां शशिधरां दुर्गां त्रिनेत्रां भजे॥ “ॐ” देव्युवाच॥१॥ एभिः स्तवैश्‍च मां नित्यं स्तोष्यते यः समाहितः। तस्याहं सकलां बाधां नाशयिष्याम्यसंशयम्*॥२॥ मधुकैटभनाशं च"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # श्रीदुर्गासप्तशती – द्वादशोऽध्यायः    
 ## Durga Saptashati Chapter12    

@@ -1,7 +1,7 @@
---- 
+---
 id: 5193 
 title: How to Engage for Imparting Knowledge
-date: "2022-07-11T08:33:00+05:30"
+date: "2022-07-11"
 permalink: /wiaposts/how-to-engage-for-imparting-knowledge
 tags: [Education ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5193-How-To-Engage-For-Imparting-Knowledge.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "The biggest counterproductive assumption a teacher or a trainer can make about the class is \"they all know what they want to learn and why they want to learn\". If so, then the problem is already known. Hence, let’s start"
 author_profile: true 
 share: true 
 ---
-
 ![How to Engage for Imparting Knowledge](/assets/images/wiapost/5193-How-To-Engage-For-Imparting-Knowledge.jpg)     
    
 # How to Engage for Imparting Knowledge    

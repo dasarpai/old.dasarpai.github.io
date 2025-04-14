@@ -19,7 +19,7 @@ tags:
 keywords: data science mathematics, linear algebra fundamentals, calculus for machine learning, statistical concepts, probability theory, optimization methods, mathematical notation, matrix operations, differential equations, eigenvalues and eigenvectors, gradient descent mathematics, mathematical proofs, vector calculus, mathematical modeling, numerical methods
 header:
   teaser: /assets/images/dsresources/dsr104-Mathematics-for-Data-Scientist.jpg
-last_modified_at: 2021-09-28T15:46:43-04:00
+
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

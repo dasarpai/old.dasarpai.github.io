@@ -1,4 +1,4 @@
----    
+---
 id: 4036    
 mathjax: true    
 title: 'Bhava Sagara Tarana Karana He - भवसागर तारण कारण हे'    
@@ -15,17 +15,19 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "भवसागर तारण कारण हे । रविनन्दन बन्धन खण्डन हे ॥ शरणागत किंकर भीत मने । गुरुदेव दया करो दीनजने ॥१॥ हृदिकन्दर तामस भास्कर हे । तुमि विष्णु प्रजापति शंकर हे ॥ परब्रह्म परात्पर वेद भणे । गुरुदेव दया करो दीनजने"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Sri-Ramakrishna.jpg)    
     
 # भवसागर तारण कारण हे    
 ## Bhava Sagara Tarana Karana He    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/033-BhavSagarTaran.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/033-BhavSagarTaran.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
     
 भवसागर तारण कारण हे ।    

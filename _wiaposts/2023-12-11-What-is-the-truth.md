@@ -1,4 +1,4 @@
----        
+---
 id: 5242 
 title:  What is the Truth          
 date: "2023-12-11T08:33:00+05:30"        
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5242-What-is-the-Truth.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
-excerpt:        
+excerpt: "Your son fails in 12th class exam or you get promoted in your job. One brings suffering and another brings happiness. Some believe happiness is because of my karma and suffering is because of God. Because God is testing me."
 author_profile: true        
 share: true        
----        
-      
+---
 ![What is the Truth](/assets/images/wiapost/5242-What-is-the-Truth.jpg)	   
     
 # What is the Truth   

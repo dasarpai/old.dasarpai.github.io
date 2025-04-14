@@ -1,4 +1,4 @@
----                    
+---
 id: 5213  
 title: Yours Value System and Contradictions                 
 date: "2023-01-15T08:33:00+05:30"                    
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5213-Yours-Value-System-and-Contradictions.jpg                   
 author: Hari Thapliyaal                    
 layout:   wiaposts-layout
-excerpt:                    
+excerpt: "Sanatan Dharma Values and beliefs are Every human takes birth because in their previous Life, that soul was human but couldn't get Moksha Or from previous millions of life evolution you became human first time. Whatever you do, whatever you"
 author_profile: true                    
 share: true                    
----                    
-                    
+---
 ![The Logic of Entangled Mind](/assets/images/wiapost/5213-Yours-Value-System-and-Contradictions.jpg)                         
                        
 # Yours Value System and Contradictions    

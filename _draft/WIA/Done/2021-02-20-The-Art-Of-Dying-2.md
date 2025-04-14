@@ -2,7 +2,7 @@
 id: 5147
 
 title: The Art Of Dying 2
-date: "2021-02-20T08:33:00+05:30"
+date: "2021-02-20"
 permalink: /wiaposts/the-art-of-dying-2
 tags: [ Death, Life, 'My Views', Yoga]    
 

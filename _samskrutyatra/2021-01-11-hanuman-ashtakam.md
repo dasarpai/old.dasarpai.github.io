@@ -1,4 +1,4 @@
----    
+---
 id: 4154    
 mathjax: true    
 title: 'Hanuman Ashtakam - संकटमोचन हनुमानाष्टकम्'    
@@ -7,7 +7,7 @@ layout: samskrut-layout
 permalink: /samskrutyatra/hanuman-ashtakam
 redirect_from: 
   - '/samskrut/hanuman-ashtakam'
-tags: [Bhajan]    
+tags: [Bhajan, Hanumanji]    
 categories:    
     
 header:    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Hanuman Ashtakam बाल समय रबि भक्षि लियो तब, तीनहुँ लोक भयो अँधियारो । ताहि सों त्रास भयो जग को, यह संकट काहु सों जात न टारो ॥ देवन आन करि बिनती तब, छाँड़ि दियो रबि कष्ट निवारो । को"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Hanumanji.jpg)    
     
 # संकटमोचन हनुमानाष्टकम्    

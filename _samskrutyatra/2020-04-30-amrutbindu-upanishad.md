@@ -1,4 +1,4 @@
----    
+---
 id: 4078    
 mathjax: true    
 title: 'AmrutBindu Upanishad  - अमृतबिन्दुपनिषत्'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## AmrutBindu Upanishad ॐ सह नाववतु सह नौ भुनक्तु सह वीर्यं करवावहै । तेजस्विनावधीतमस्तु मा विद्विषावहै ॥ ॐ शान्तिः शान्तिः शान्तिः । हरिः ॐ ॥ मनो हि द्विविधं प्रोक्तं शुद्धं चाशुद्धमेव च । अशुद्धं कामसंकल्पं शुद्धं कामविवर्जितम् ॥ १॥ मन"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Upanishad.jpg)    
     
 # अमृतबिन्दुपनिषत्     

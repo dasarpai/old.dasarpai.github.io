@@ -1,7 +1,7 @@
---- 
+---
 id: 5179 
 title: Why is life complex?
-date: "2022-01-24T08:33:00+05:30"
+date: "2022-01-24"
 permalink: /wiaposts/why-is-life-complex
 tags: [Life, My Views ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5179-Why-Is-Life-Complex.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Instinct is something which every life has on this planet. And it helps them in their survival. If survival is the goal of life then instinct is good enough. But human has two other great capabilities which other animals don't"
 author_profile: true 
 share: true 
 ---
-
 ![Why is life complex?](/assets/images/wiapost/5179-Why-Is-Life-Complex.jpg)     
    
 ## Why is life complex?   

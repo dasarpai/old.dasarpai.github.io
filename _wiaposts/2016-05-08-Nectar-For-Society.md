@@ -2,7 +2,7 @@
 id: 5017
 
 title: Nectar For Society
-date: "2016-05-08T08:33:00+05:30"
+date: "2016-05-08"
 permalink: /wiaposts/nectar-for-society
 tags: ['Indian Culture', 'Philosophy']    
 

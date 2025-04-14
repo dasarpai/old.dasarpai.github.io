@@ -2,7 +2,7 @@
 id: 5044
 
 title: No Universal Teachings
-date: "2017-03-20T08:33:00+05:30"
+date: "2017-03-20"
 permalink: /wiaposts/no-universal-teachings
 tags: ['Philosophy']    
 

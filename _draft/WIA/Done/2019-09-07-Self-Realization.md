@@ -2,7 +2,7 @@
 id: 5106
 
 title: Self Realization
-date: "2019-09-07T08:33:00+05:30"
+date: "2019-09-07"
 permalink: /wiaposts/self-realization
 tags: [ Moksha, Philosophy, Poetry]    
 

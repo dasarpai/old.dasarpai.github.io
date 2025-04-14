@@ -1,4 +1,4 @@
----    
+---
 id: 5230
 title:  Is old really Gold?      
 date: "2023-06-29T08:33:00+05:30"    
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5230-Is-old-really-Gold.jpg    
 author: Hari Thapliyaal    
 layout:   wiaposts-layout
-excerpt:    
+excerpt: "An important function of the human brain is memory. Humans should use this for learning lessons. Unfortunately, it's often used to create nostalgic moments in present life. Life only happens in present, it is neither past nor future. People love"
 author_profile: true    
 share: true    
----    
-    
+---
 ![Is Old Really Gold](/assets/images/wiapost/5230-Is-old-really-Gold.jpg)    
    
 # Is old really Gold?   

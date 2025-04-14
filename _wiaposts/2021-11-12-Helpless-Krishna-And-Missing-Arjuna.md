@@ -1,7 +1,7 @@
---- 
+---
 id: 5173 
 title: Helpless Krishna and Missing Arjuna
-date: "2021-11-12T08:33:00+05:30"
+date: "2021-11-12"
 permalink: /wiaposts/helpless-krishna-and-missing-arjuna
 tags: [Bhagwat Gita, Life ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5173-Helpless-Krishna-And-Missing-Arjuna.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "The truth is Bhagwat Gita was told by a friend Krishna to his best friend Arjuna. That too when he asked. Normal chit chat is fine but serious advice should not be given to your friend, if it is not"
 author_profile: true 
 share: true 
 ---
-
 ![Helpless Krishna and Missing Arjuna](/assets/images/wiapost/5173-Helpless-Krishna-And-Missing-Arjuna.jpg)     
    
 # Helpless Krishna and Missing Arjuna     

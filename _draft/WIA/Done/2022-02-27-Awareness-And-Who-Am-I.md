@@ -2,7 +2,7 @@
 id: 5181
 
 title: Awareness and Who Am I
-date: "2022-02-27T08:33:00+05:30"
+date: "2022-02-27"
 permalink: /wiaposts/awareness-and-who-am-i
 tags: [ Vedanta, My Views]    
 

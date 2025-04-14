@@ -1,7 +1,7 @@
---- 
+---
 id: 5094 
 title: The Meaning Of Namaste
-date: "2019-03-24T08:33:00+05:30"
+date: "2019-03-24"
 permalink: /wiaposts/the-meaning-of-namaste
 tags: [ Concepts, 'Indian Culture', Philosophy]    
 keywords: [Namaste, Indian Culture, Greeting, Philosophy, Respect]  
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5094-The-Meaning-Of-Namaste.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "“नम्” धातु + ङे प्रत्यय = नम:+ते= नमस्ते नम् means bow down ते means to you or for you Why should I bow down to you? Because you are senior to me? Elder to me? More knowledgeable than me? Higher"
 author_profile: true 
 share: true 
 ---
-  
 ![The Meaning Of Namaste](/assets/images/wiapost/5094-The-Meaning-Of-Namaste.jpg)     
    
 # The Meaning Of Namaste

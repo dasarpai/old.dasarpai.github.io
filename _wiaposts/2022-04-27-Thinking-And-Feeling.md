@@ -1,7 +1,7 @@
---- 
+---
 id: 5186 
 title: Thinking and Feeling
-date: "2022-04-27T08:33:00+05:30"
+date: "2022-04-27"
 permalink: /wiaposts/thinking-and-feeling
 tags: [Mind, My Views ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5186-Thinking-And-Feeling.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Feeling and Thinking are two different process in human And both work from different parts of the human brain. Metaphorically people say thinking is from the head and feeling from heart. People say when in conflict between head and heart"
 author_profile: true 
 share: true 
 ---
-
 ![Thinking and Feeling](/assets/images/wiapost/5186-Thinking-And-Feeling.jpg)     
    
 # Thinking and Feeling    

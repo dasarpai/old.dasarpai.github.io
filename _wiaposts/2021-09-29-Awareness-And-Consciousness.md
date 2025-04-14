@@ -1,7 +1,7 @@
---- 
+---
 id: 5171 
 title: Awareness and Consciousness
-date: "2021-09-29T08:33:00+05:30"
+date: "2021-09-29"
 permalink: /wiaposts/awareness-and-consciousness
 tags: [Meditation, Awareness, Consciousness ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5171-Awareness-And-Consciousness.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Awareness comes from consciousness; they both are not the same. Consciousness is everywhere in the entire universe but awareness belongs to life. Plants, insects, animals, and humans have awareness. When you are sleeping you are conscious but not aware. Body"
 author_profile: true 
 share: true 
 ---
-
 ![Awareness and Consciousness](/assets/images/wiapost/5171-Awareness-And-Consciousness.jpg)    
    
 # Awareness and Consciousness      

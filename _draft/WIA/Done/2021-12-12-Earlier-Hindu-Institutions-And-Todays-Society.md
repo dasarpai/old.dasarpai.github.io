@@ -2,7 +2,7 @@
 id: 5175
 
 title: Earlier Hindu Institutions and Today's Society
-date: "2021-12-12T08:33:00+05:30"
+date: "2021-12-12"
 permalink: /wiaposts/earlier-hindu-institutions-and-todays-society
 tags: [ Indian Culture, Education]    
 

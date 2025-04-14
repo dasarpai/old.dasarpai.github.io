@@ -2,7 +2,7 @@
 id: 6042
 mathjax: true
 title:  GPU for Data Science Work  
-date: "2023-01-26T08:33:00+05:30"
+date: "2023-01-26"
 permalink: '/dsblog/GPU-for-Data-Science-Work'
 tags: 
   - GPU Computing

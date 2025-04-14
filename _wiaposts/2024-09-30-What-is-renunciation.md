@@ -1,4 +1,4 @@
----        
+---
 id: 5264 
 mathjax: true        
 title:  "What is Renunciation?"        
@@ -11,12 +11,11 @@ header:
     teaser: /assets/images/wiapost/5265-What-is-renunciation.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout        
-excerpt:        
+excerpt: "In Sanskrit, there are two words: *Sanyasa* and *Tyaga*. People in the English-speaking world think both mean renunciation. They are related but not the same. Here, I am talking about *Tyaga*. Have you seen these people? Who are in the"
 author_profile: true        
 share: true
 keywords: ["Renunciation philosophy", "Meaning of Tyaga and Sanyasa", "What is renunciation in life", "Renunciation vs detachment", "Spiritual renunciation", "True renunciation meaning", "Philosophy of letting go", "Inner peace through renunciation"]       
---- 
-
+---
 ![What is Renunciation?](/assets/images/wiapost/5265-What-is-renunciation.jpg)   
    
 # What is Renunciation?   

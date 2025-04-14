@@ -2,7 +2,7 @@
 id: 5189
 
 title: Bhaav-Vivek Balance
-date: "2022-05-19T08:33:00+05:30"
+date: "2022-05-19"
 permalink: /wiaposts/bhaav-vivek-balance
 tags: [Mind, Life ]    
 

@@ -1,7 +1,7 @@
 --- 
 id: 5009
 title: Who Is The Doer?
-date: "2016-01-25T08:33:00+05:30"
+date: "2016-01-25"
 permalink: /wiaposts/who-is-the-doer
 tags: ['Concepts', 'Philosophy']    
 

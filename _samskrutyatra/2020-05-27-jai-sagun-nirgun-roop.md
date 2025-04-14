@@ -1,4 +1,4 @@
----    
+---
 id: 4131    
 mathjax: true    
 title: 'Jai Sagun Nirgun Roop  - जय सगुन निर्गुन रूप'    
@@ -15,17 +15,19 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "Kakbushandi (Crow Sage) says to Bainteya (King of birds) that at the time of Coronation of Rama in Ayodhya Vedas came in the form of birds and recited as following. Please make a note that this is Bhava of Tulasidas"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/RamcharaitMaanas.jpg)    
     
 # जय सगुन निर्गुन रूप    
 ## Jai Sagun Nirgun Roop    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/070-JaiSagunNirgun.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/070-JaiSagunNirgun.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
     
 Kakbushandi (Crow Sage) says to Bainteya (King of birds) that at the time of Coronation of Rama in Ayodhya Vedas came in the form of birds and recited as following. Please make a note that this is Bhava of Tulasidas Ji in Ramcharitmanas which he has expressed from Balmiki Ramayana and his own sadhana.    

@@ -11,7 +11,7 @@ tags: [Devi, Chanting, Stotram]
 categories: [Chanting]  
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
@@ -20,10 +20,13 @@ excerpt: "नित्यानन्दकरी वराभयकरी स�
 share: true    
 ---    
     
-![](/assets/images/samskrut/durga.jpg)    
+![](/assets/images/samskrut/Durga.jpg)    
      
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/019-AnnapurnaStotram.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/019-AnnapurnaStotram.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
     
 # अन्नपूर्णा स्तोत्रम्    

@@ -2,7 +2,7 @@
 id: 7018
 mathjax: true        
 title: "American Dilberts: The Funniest One Liners"
-date: "2025-03-03T08:33:00+05:30"
+date: "2025-03-03"
 permalink: /gk/american-dilberts
 tags: [Dilbert, American Comics, One Liners, Funny Quotes, Comic Strips]
 keywords: [Dilbert's one liners, American comics, Funny quotes, Comic strips, Dilbert's sayings]

@@ -1,4 +1,4 @@
---- 
+---
 id: 5117 
 title: Greetings For New Year 2021
 date: '2021-01-01T08:33:00+05:30'
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5117-Greetings-For-New-Year-2021.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "## Happy New Year 2021 **How do you wish someone a happy new year?** This depends upon with whom we are talking. There are people who mindlessly speak, walk, eat, and work. And there are people who are even aware"
 author_profile: true 
 share: true 
 ---
-
 ![Greetings For New Year 2021](/assets/images/wiapost/5117-Greetings-For-New-Year-2021.jpg)  
    
 # Greetings For New Year 2021   

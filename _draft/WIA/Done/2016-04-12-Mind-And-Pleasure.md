@@ -2,7 +2,7 @@
 id: 5015
 
 title: Mind And Pleasure
-date: "2016-04-12T08:33:00+05:30"
+date: "2016-04-12"
 permalink: /wiaposts/mind-and-pleasure
 tags: [ Mind, Mindfulness, Philosophy, 'Pleasure & Joy']    
 

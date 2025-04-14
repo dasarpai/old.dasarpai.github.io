@@ -2,7 +2,7 @@
 id: 5041
 
 title: Journey Of The Siddhartha
-date: "2017-03-11T08:33:00+05:30"
+date: "2017-03-11"
 permalink: /wiaposts/journey-of-the-siddhartha
 tags: ['Indian Culture', 'Mindfulness', 'Philosophy']    
 

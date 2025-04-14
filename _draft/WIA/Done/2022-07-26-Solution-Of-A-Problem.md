@@ -2,7 +2,7 @@
 id: 5196
 
 title: Solution of a Problem
-date: "2022-07-26T08:33:00+05:30"
+date: "2022-07-26"
 permalink: /wiaposts/solution-of-a-problem
 tags: [Life, Vedanta ]    
 

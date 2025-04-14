@@ -1,7 +1,7 @@
 --- 
 id: 5121 
 title: Meaning Of Understanding
-date: "2020-03-18T08:33:00+05:30"
+date: "2020-03-18"
 permalink: /wiaposts/meaning-of-understanding
 tags: [ Concepts, Life, 'My Views', Philosophy]    
 keywords: ["Exploration of understanding", "understanding meaning in philosophy", "poetic insights on understanding and knowledge", "philosophy of understanding and perception", "exploring understanding in philosophical context"]  

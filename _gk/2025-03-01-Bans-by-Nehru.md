@@ -2,7 +2,7 @@
 id: 7016
 mathjax: true        
 title: "Bans and Blocked Items by Nehru in India"
-date: "2025-03-01T08:33:00+05:30"
+date: "2025-03-01"
 permalink: /gk/bans-blocked-items-india
 tags: [Censorship in India, List of Banned Items, Freedom of Speech, Human Rights, Sedition Charges]
 keywords: [censorship in india, banned items in india, freedom of speech in india, human rights in india, sedition charges in india]

@@ -11,7 +11,7 @@ tags: [Devi, Chanting]
 categories: [Chanting]
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
@@ -20,13 +20,16 @@ excerpt:  "अयि गिरिनन्दिनि नन्दितमे�
 share: true    
 ---    
     
-![](/assets/images/samskrut/durga.jpg)    
+![](/assets/images/samskrut/Durga.jpg)    
     
 # महिषासुरमर्दिनि    
 ## Mahishasur Mardini     
 
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/021-MahishasurMardini.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/021-MahishasurMardini.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
 अयि गिरिनन्दिनि नन्दितमेदिनि विश्वविनोदिनि नन्दिनुते    
 गिरिवरविन्ध्यशिरोऽधिनिवासिनि विष्णुविलासिनि जिष्णुनुते ।    

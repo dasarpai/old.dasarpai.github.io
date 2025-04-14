@@ -1,7 +1,7 @@
---- 
+---
 id: 5146 
 title: A Price For The Wrong Identification
-date: "2021-02-03T08:33:00+05:30"
+date: "2021-02-03"
 permalink: /wiaposts/a-price-for-the-wrong-identification
 tags: [ 'My Views', Philosophy, Vedanta]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5146-A-Price-For-The-Wrong-Identification.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "If someone asks us, who are you? Or we ask ourselves, who am I? Or we ask someone, who are you? What answer do we expect from others? Or what answer do we give them? Depending upon the context and"
 author_profile: true 
 share: true 
 ---
-
 ![A Price For The Wrong Identification](/assets/images/wiapost/5146-A-Price-For-The-Wrong-Identification.jpg)    
     
 # A Price For The Wrong Identification       

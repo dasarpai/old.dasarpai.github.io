@@ -1,4 +1,4 @@
----    
+---
 id: 4143    
 mathjax: true    
 title: 'Durga Saptashati Chapter 11 - श्रीदुर्गासप्तशती -एकादशोऽध्यायः'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Durga Saptashati Chapter 11 ## देवताओं द्वारा देवी की सतुति तथा देवी द्वारा देवताओं को वरदान ॥ध्यानम्॥ ॐ बालरविद्युतिमिन्दुकिरीटां तुङ्‌गकुचां नयनत्रययुक्ताम्। स्मेरमुखीं वरदाङ्‌कुशपाशाभीतिकरां प्रभजे भुवनेशीम्॥ “ॐ” ऋषिरुवाच॥१॥ देव्या हते तत्र महासुरेन्द्रे सेन्द्राः सुरा वह्निपुरोगमास्ताम्। कात्यायनीं तुष्टुवुरिष्टलाभाद्* विकाशिवक्त्राब्जविकाशिताशाः*॥२॥ देवि प्रपन्नार्तिहरे"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # श्रीदुर्गासप्तशती -एकादशोऽध्यायः    
 ## Durga Saptashati Chapter 11    

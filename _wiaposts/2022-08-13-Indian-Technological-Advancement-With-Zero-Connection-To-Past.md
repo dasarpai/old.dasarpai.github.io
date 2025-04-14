@@ -1,7 +1,7 @@
---- 
+---
 id: 5198 
 title: Indian Technological Advancement with Zero connection to Past
-date: "2022-08-13T08:33:00+05:30"
+date: "2022-08-13"
 permalink: /wiaposts/indian-technological-advancement-with-zero-connection-to-past
 tags: [Indian Culture, Science ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5198-Indian-Technological-Advancement-With-Zero-Connection-To-Past.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "We complain in our society that a Bollywood hero gets quick fame, money, and reputation compared to a great scientist. We need to realize this is where we have brought our great culture of philosophy, debates, metallurgy, astrology, ayurveda, physics,"
 author_profile: true 
 share: true 
 ---
-
 ![Indian Technological Advancement with Zero connection to Past](/assets/images/wiapost/5198-Indian-Technological-Advancement-With-Zero-Connection-To-Past.jpg)        
    
 # Indian Technological Advancement with Zero connection to Past   

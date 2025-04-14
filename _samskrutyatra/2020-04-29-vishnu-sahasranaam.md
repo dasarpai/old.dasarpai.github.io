@@ -1,4 +1,4 @@
----    
+---
 id: 4065    
 mathjax: true    
 title: 'Vishnu SahasraNaam - श्रीविष्णुसहस्रनामस्तोत्रम्'    
@@ -15,11 +15,10 @@ header:
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Vishnu SahasraNaam There are 5 versions of VishnuSahasraNaamStotram. They differ in their Dhyana Stotram, FalaStuti, or in the Main body of verses. * **विष्णुसहस्रनामस्तोत्रम् (महाभारतान्तर्गतम्)** (Mentioned Below) It has following types of verses * Introductory Verses * Verses for"
     
 share: true    
----    
-    
+---
 ![](/assets/images/samskrut/Vishnu.jpg)    
     
 #  श्रीविष्णुसहस्रनामस्तोत्रम्    

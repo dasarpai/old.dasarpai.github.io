@@ -1,4 +1,4 @@
----    
+---
 id: 4088    
 mathjax: true    
 title: 'Sankat Mochan HanumanAshtakam  - संकटमोचन हनुमानाष्टक'    
@@ -7,20 +7,19 @@ layout: samskrut-layout
 permalink: /samskrutyatra/sankat-mochan-hanumanasht
 redirect_from: 
   - '/samskrut/sankat-mochan-hanumanasht'
-tags: [HanumanJi]    
+tags: [Hanumanji]    
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/HanumanJi.jpg    
+   teaser: /assets/images/samskrut/Hanumanji.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Sankat Mochan HanumanAshtakam गोस्वामी तुलसीदास कृत बाल समय रबि भक्षि लियो तब, तीनहुँ लोक भयो अँधियारो । ताहि सों त्रास भयो जग को, यह संकट काहु सों जात न टारो ॥ देवन आन करि बिनती तब, छाँड़ि दियो रबि"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/HanumanJi.jpg)    
+---
+![](/assets/images/samskrut/Hanumanji.jpg)    
     
 # संकटमोचन हनुमानाष्टक    
 ## Sankat Mochan HanumanAshtakam    

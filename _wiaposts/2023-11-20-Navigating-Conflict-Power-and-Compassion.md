@@ -1,4 +1,4 @@
----        
+---
 id: 5238  
 title:  Navigating Conflict, Power, and Compassion          
 date: "2023-11-20T08:33:00+05:30"        
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5238-Navigating-Conflict-Power-and-Compassion.jpg        
 author: Hari Thapliyaal        
 layout:   wiaposts-layout
-excerpt:        
+excerpt: "If you aim to dismantle or control X without engaging in direct conflict, start by identifying X's most formidable adversary. Engage in actions daily that incite conflict or hostility between X and their opponent. During this conflict, provide support to"
 author_profile: true        
 share: true        
----        
-        
+---
 ![Navigating Conflict, Power, and Compassion](/assets/images/wiapost/5238-Navigating-Conflict-Power-and-Compassion.jpg)
 		
 # Navigating Conflict, Power, and Compassion

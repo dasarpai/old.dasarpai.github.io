@@ -25,7 +25,10 @@ share: true
 # श्रीशिवमहिम्नस्तोत्र     
 ## Shri Shiv Mahimna Stotram    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/054-ShriShivMahimnaStotram.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/054-ShriShivMahimnaStotram.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
     
 **Composed by Gandharva Pushpadanta**     

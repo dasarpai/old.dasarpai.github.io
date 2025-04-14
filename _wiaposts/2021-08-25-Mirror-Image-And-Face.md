@@ -1,7 +1,7 @@
---- 
+---
 id: 5169 
 title: Mirror, Image and Face
-date: "2021-08-25T08:33:00+05:30"
+date: "2021-08-25"
 permalink: /wiaposts/mirror-image-and-face
 tags: [Life, Meditation, Karma ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5169-Mirror-Image-And-Face.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "You go before a mirror for various reasons. When you have doubt, when there is a curiosity, when someone compliments or points something out or just for the time-pass. When you are before the mirror and the mirror is clean"
 author_profile: true 
 share: true 
 ---
-
 ![Mirror, Image and Face](/assets/images/wiapost/5169-Mirror-Image-And-Face.jpg)     
    
 # Mirror, Image and Face     

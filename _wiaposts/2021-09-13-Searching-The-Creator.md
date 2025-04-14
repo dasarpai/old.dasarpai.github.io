@@ -1,7 +1,7 @@
---- 
+---
 id: 5170 
 title: Searching the Creator
-date: "2021-09-13T08:33:00+05:30"
+date: "2021-09-13"
 permalink: /wiaposts/searching-the-creator
 tags: [ Life, Nature]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5170-Searching-The-Creator.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Without seeing or hearing about many things we know about their existence from the results of their functions. I can see, this proves that I have eyes. I am living, this proves that I have a heart. I am thinking,"
 author_profile: true 
 share: true 
 ---
-
 ![Searching the Creator](/assets/images/wiapost/5170-Searching-The-Creator.jpg)     
    
 ## Searching the Creator      

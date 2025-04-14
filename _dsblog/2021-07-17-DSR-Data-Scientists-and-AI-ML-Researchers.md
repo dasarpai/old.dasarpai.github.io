@@ -11,7 +11,7 @@ tags: [DS Resources, AI Researchers, ML Researchers, NLP Researchers]
 keywords: data scientists, AI researchers, machine learning experts, NLP researchers, research profiles, academic researchers, industry experts, AI pioneers, ML practitioners, data science leaders
 header:
   teaser: /assets/images/dsresources/dsr117-Data-Scientists-and-AI-ML-Researchers.jpg
-last_modified_at: 2021-06-15T15:46:43-04:00
+
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
 layout: dspost-layout   

@@ -1,7 +1,7 @@
 --- 
 id: 5119 
 title: The Way Of Happiness
-date: "2020-02-26T08:33:00+05:30"
+date: "2020-02-26"
 permalink: /wiaposts/the-way-of-happiness
 tags: [ 'Bhagwat Gita', Education, 'Philosophy for Business', Vedanta]    
 keywords: ["Exploration of happiness", "understanding happiness in vedanta", "poetic insights on the way of happiness", "philosophy of happiness and fulfillment", "exploring happiness in philosophical context"]  

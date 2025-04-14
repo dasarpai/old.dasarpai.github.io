@@ -2,7 +2,7 @@
 id: 5085
 
 title: Where Is The Focus Of Hindus?
-date: "2018-11-05T08:33:00+05:30"
+date: "2018-11-05"
 permalink: /wiaposts/where-is-the-focus-of-hindus
 tags: ['Education', 'Indian Culture', 'My Views']    
 

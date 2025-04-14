@@ -1,4 +1,4 @@
----    
+---
 id: 4145    
 mathjax: true    
 title: 'Durga Saptashati Chapter 13 - श्रीदुर्गासप्तशती - त्रयोदशोऽध्यायः'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Durga Saptashati Chapter13 ## सुरथ और वैश्य को देवी का वरदान ध्यानम् ॐ बालार्कमण्डलाभासां चतुर्बाहुं त्रिलोचनाम्। पाशाङ्‌कुशवराभीतीर्धारयन्तीं शिवां भजे॥ “ॐ” ऋषिरुवाच॥१॥ एतत्ते कथितं भूप देवीमाहात्म्यमुत्तमम्। एवंप्रभावा सा देवी ययेदं धार्यते जगत्॥२॥ विद्या तथैव क्रियते भगवद्विष्णुमायया। तया त्वमेष वैश्‍यश्‍च तथैवान्ये"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # श्रीदुर्गासप्तशती – त्रयोदशोऽध्यायः    
 ## Durga Saptashati Chapter13    

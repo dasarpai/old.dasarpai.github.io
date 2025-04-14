@@ -2,7 +2,7 @@
 id: 5145
 
 title: World Around
-date: "2021-01-24T08:33:00+05:30"
+date: "2021-01-24"
 permalink: /wiaposts/world-around
 tags: [ Concepts, Life, Mind, 'My Views', Maya]    
 

@@ -1,7 +1,7 @@
 --- 
 id: 5132 
 title: Choose Your Attitude
-date: "2020-07-15T08:33:00+05:30"
+date: "2020-07-15"
 permalink: /wiaposts/choose-your-attitude
 tags: [ 'My Views', Philosophy]    
 keywords: ["philosophical exploration of attitude", "understanding mindset in philosophy", "poetic insights on choice and perspective", "philosophy of attitude and perception", "exploring attitude in philosophical context"]  

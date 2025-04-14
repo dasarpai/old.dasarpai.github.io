@@ -11,7 +11,7 @@ tags: [Devi]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
@@ -20,7 +20,7 @@ excerpt:  "Meaning of lalitasahasranama in English"
 share: true    
 ---    
     
-![](/assets/images/samskrut/durga.jpg)    
+![](/assets/images/samskrut/Durga.jpg)    
     
 # Lalitasahasranama with Meaning    
     

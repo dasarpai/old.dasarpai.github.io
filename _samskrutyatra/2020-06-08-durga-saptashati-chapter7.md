@@ -1,4 +1,4 @@
----    
+---
 id: 4139    
 mathjax: true    
 title: 'Durga Saptashati Chapter 7 - श्रीदुर्गासप्तशती - सप्तमोऽध्यायः'    
@@ -11,16 +11,15 @@ tags: [Devi, Durga Saptashati]
 categories:    
     
 header:    
-   teaser: /assets/images/samskrut/durga.jpg    
+   teaser: /assets/images/samskrut/Durga.jpg    
     
 author: 'Hari Thapliyaal'    
     
-excerpt:    
+excerpt: "## Durga Saptashati Chapter7 ## चण्ड और मुण्डका वध ध्यानम् ॐ ध्यायेयं रत्‍नपीठे शुककलपठितं शृण्वतीं श्यामलाङ्‌गीं न्यस्तैकाङ्‌घ्रिं सरोजे शशिशकलधरां वल्लकीं वादयन्तीम्। कह्लाराबद्धमालां नियमितविलसच्चोलिकां रक्तवस्त्रां मातङ्‌गीं शङ्‍खपात्रां मधुरमधुमदां चित्रकोद्भासिभालाम्॥ “ॐ” ऋषिरुवाच॥१॥ आज्ञप्तास्ते ततो दैत्याश्‍चण्डमुण्डपुरोगमाः। चतुरङ्‍गबलोपेता ययुरभ्युद्यतायुधाः॥२॥ ददृशुस्ते ततो देवीमीषद्धासां व्यवस्थिताम्। सिंहस्योपरि"
     
 share: true    
----    
-    
-![](/assets/images/samskrut/durga.jpg)    
+---
+![](/assets/images/samskrut/Durga.jpg)    
     
 # श्रीदुर्गासप्तशती – सप्तमोऽध्यायः    
 ## Durga Saptashati Chapter7    

@@ -25,7 +25,10 @@ share: true
 # BrahmanandaMimamsa    
 ## तैत्तिरीयोपनिषत् - द्वितीया ब्रह्मानन्दमीमांसा    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/038-BrahmanandaMimasha.mp3" %}     
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/038-BrahmanandaMimasha.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>     
     
 ॐ स॒ह ना॑ववतु । स॒ह नौ॑ भुनक्तु । स॒ह वी॒र्यं॑ करवावहै ।    
 ते॒ज॒स्विना॒वधी॑तमस्तु॒ मा वि॑द्विषा॒वहै᳚ ।    

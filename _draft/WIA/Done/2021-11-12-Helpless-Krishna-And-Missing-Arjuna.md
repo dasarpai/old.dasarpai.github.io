@@ -2,7 +2,7 @@
 id: 5173
 
 title: Helpless Krishna and Missing Arjuna
-date: "2021-11-12T08:33:00+05:30"
+date: "2021-11-12"
 permalink: /wiaposts/helpless-krishna-and-missing-arjuna
 tags: [Bhagwat Gita, Life ]    
 

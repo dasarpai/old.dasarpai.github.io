@@ -2,7 +2,7 @@
 id: 5162
 
 title: The Biggest Mistake
-date: "2021-06-13T08:33:00+05:30"
+date: "2021-06-13"
 permalink: /wiaposts/the-biggest-mistake
 tags: [Life, Education ]    
 

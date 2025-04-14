@@ -1,7 +1,7 @@
 --- 
 id: 5133 
 title: Equation Of Arjunas Arrows
-date: "2020-08-03T08:33:00+05:30"
+date: "2020-08-03"
 permalink: /wiaposts/equation-of-arjunas-arrows
 tags: [ 'Indian Culture', 'Indian Sciences']    
 keywords: ["philosophical exploration of Arjuna's arrows", "understanding Indian sciences in philosophy", "poetic insights on mythology and mathematics", "philosophy of Indian culture and knowledge", "exploring Arjuna's arrows in philosophical context"]  

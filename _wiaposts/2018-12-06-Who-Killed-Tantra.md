@@ -2,7 +2,7 @@
 id: 5087
 
 title: Who Killed Tantra
-date: "2018-12-06T08:33:00+05:30"
+date: "2018-12-06"
 permalink: /wiaposts/who-killed-tantra
 tags: ['Indian Culture']    
 

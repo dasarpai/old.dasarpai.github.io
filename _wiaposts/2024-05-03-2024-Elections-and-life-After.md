@@ -1,4 +1,4 @@
----  
+---
 id: 5250 
 title:  2024 Elections and Life After  
 date: "2024-05-03T08:33:00+05:30"  
@@ -10,14 +10,13 @@ header:
   teaser: /assets/images/wiapost/5250-2024-World-Poltics-and-Life-Beyond.jpg  
 author: Hari Thapliyaal  
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "Our galaxy is called, Milky Way galaxy. It contains an estimated 100 billion stars similar to our Sun. As per NASA, in the sky, there are approximately 100 billion galaxies like the Milky Way. So how many stars in the"
 author_profile: true  
 share: true  
 toc: True  
 toc_sticky: true  
 keywords: Election, 2024 Elections, Reality of Life, Philosophy, Politics, Meaning of Life
----  
-  
+---
 ![2024 World Elections and Life After](/assets/images/wiapost/5250-2024-World-Poltics-and-Life-Beyond.jpg)  
   
 # 2024 World Elections and Life After  

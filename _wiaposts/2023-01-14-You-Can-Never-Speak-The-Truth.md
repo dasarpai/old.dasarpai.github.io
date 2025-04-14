@@ -1,4 +1,4 @@
----                    
+---
 id: 5212 
 title: You Can Never Speak The Truth                 
 date: "2023-01-14T08:33:00+05:30"                    
@@ -10,11 +10,10 @@ header:
     teaser: /assets/images/wiapost/5212-You-Can-Never-Speak-the-Truth.jpg                   
 author: Hari Thapliyaal                    
 layout:   wiaposts-layout
-excerpt:                    
+excerpt: "Human words, grammar, and speech are tools to hide the truth. What really exists, you know and experience But, if you say anything about that truth then you are hiding some truth. Truth exists in a certain way. It existed"
 author_profile: true                    
 share: true                    
----                    
-                    
+---
 ![The Logic of Entangled Mind](/assets/images/wiapost/5212-You-Can-Never-Speak-the-Truth.jpg )                    
                    
 # You Can Never Speak The Truth       

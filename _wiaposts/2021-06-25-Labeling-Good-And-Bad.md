@@ -1,7 +1,7 @@
---- 
+---
 id: 5163 
 title: Labeling Good and Bad
-date: "2021-06-25T08:33:00+05:30"
+date: "2021-06-25"
 permalink: /wiaposts/labeling-good-and-bad
 tags: [ Ethics and Morality, Education ]    
 
@@ -10,11 +10,10 @@ header:
      teaser: /assets/images/wiapost/5163-Labeling-Good-And-Bad.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt:  
+excerpt: "A raw mango on the branch of a tree is good for some purposes and bad for others. A ripe mango on the branch of a tree is good for some purposes and bad for others. A parrot cuts the"
 author_profile: true 
 share: true 
 ---
-
 ![Labeling Good and Bad](/assets/images/wiapost/5163-Labeling-Good-And-Bad.jpg)     
    
 ## Labeling Good and Bad   

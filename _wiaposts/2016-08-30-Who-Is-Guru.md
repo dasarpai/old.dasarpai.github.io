@@ -2,7 +2,7 @@
 id: 5029
 
 title: Who Is Guru
-date: "2016-08-30T08:33:00+05:30"
+date: "2016-08-30"
 permalink: /wiaposts/who-is-guru
 tags: ['Education', 'Guru', 'Guru Purnima', 'Indian Culture', 'Philosophy']    
 

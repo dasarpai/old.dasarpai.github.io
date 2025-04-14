@@ -15,11 +15,10 @@ header:
 
 author: 'Hari Thapliyaal'
 
-excerpt:
+excerpt: "To remember list of 10 cardinal Upnishad ईशकेनकठप्रश्नमुण्डमाण्डूक्यतित्तिरि । एतरेयं च छान्दोग्यं बृहदारण्यकं तथा ।। 1-ईश 2-केन 3-कठ 4-प्रश्न 5-मुण्ड 6-माण्डूक्य 7-तित्तिरि 8-एतरेय 9-छान्दोग्य 10-बृहदारण्यक To remember list of all Purana मद्वयं भद्वयं चैव ब्रत्रयं वचतुष्टयम् । अ ना प"
 
 share: true
 ---
-
 ![](/assets/images/samskrut/SanskritYatra-Sloka.jpg)
 
 # Important Samskrut Sloka

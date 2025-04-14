@@ -2,7 +2,7 @@
 id: 5176
 
 title: Ideals in Hinduism
-date: "2021-12-24T08:33:00+05:30"
+date: "2021-12-24"
 permalink: /wiaposts/ideals-in-hinduism
 tags: [ Hinduism, Ethics and Morality]    
 
