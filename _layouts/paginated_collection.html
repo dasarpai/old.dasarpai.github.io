@@ -4,9 +4,15 @@ title: "{{ page.collection | capitalize | replace: '-', ' ' }}"
 excerpt: "{{ site.description }}"
 ---
 
-{{ content }}
+
+{% comment %} Process Markdown content before custom HTML {% endcomment %}
+
+<div class="page-content">
+  {{ content | markdownify }}
+</div>
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
+
 <div class="entries-{{ entries_layout }}">
   {% if page.pagination.enabled %}
     {% for post in paginator.posts %}

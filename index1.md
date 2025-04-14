@@ -1,30 +1,9 @@
 ---
-id: 703    
-title: Data Science Blog
-layout: paginated_collection  # Use the new layout instead of collection
-permalink: /
-collection: dsblog
-entries_layout: grid
+layout: home
+title: DasarpAI
 author_profile: true
-classes: wide
-header:
-  overlay_image: /assets/images/banners/DS-Banner.jpg
-  overlay_filter: 0.5
-  teaser: /assets/images/banners/DS-thumbnail.jpg
-sidebar:
-   nav: "docs"
-sort_order: reverse
-pagination:
-  enabled: true
-  collection: dsblog
-  per_page: 18
-  permalink: '/dsblog/page/:num/'
-  title: 'Data Science Blog - Page :num'
-  trail:
-    before: 2
-    after: 2
+collection: dsblog
 ---
-
 
 <style>
   .center {
@@ -177,51 +156,19 @@ AI is software, but AI projects are not like typical software projects. They hav
 - **Technology** enables me to create solutions for myself and for those around me.  
 - Before becoming a change agent, it’s vital to first declutter your own mind and the space around you.  
 
-<div class="items-per-page-container">
-  <label for="per-page">Items per page:</label>
-  <select id="per-page" onchange="changeItemsPerPage(this.value)">
-    <option value="10" {% if paginator.per_page == 10 %}selected{% endif %}>10</option>
-    <option value="25" {% if paginator.per_page == 25 %}selected{% endif %}>25</option>
-    <option value="50" {% if paginator.per_page == 50 %}selected{% endif %}>50</option>
-    <option value="100" {% if paginator.per_page == 100 %}selected{% endif %}>100</option>
-  </select>
-</div>
+---
+ 
 
-<script>
-function changeItemsPerPage(value) {
-  localStorage.setItem('itemsPerPage', value);
-  
-  // Build new URL with per_page parameter
-  let url = new URL(window.location.href);
-  url.searchParams.set('per_page', value);
-  
-  // Reset to page 1 when changing items per page
-  let pathParts = window.location.pathname.split('/');
-  let pageIndex = pathParts.indexOf('page');
-  
-  if (pageIndex !== -1 && pageIndex < pathParts.length - 1) {
-    // We're on a page like /dsblog/page/2/ - reset to page 1
-    pathParts.splice(pageIndex + 1, 1, '1');
-    url.pathname = pathParts.join('/');
-  }
-  
-  window.location.href = url.toString();
-}
+## Welcome to my Data Science/AI Blog
+<!-- dsblog listing starts. -->
+<!-- to get the dsblog collection items only; in the front page header set collection=dsblog-->
+{% include getcollection-items.html %}
 
-document.addEventListener('DOMContentLoaded', function() {
-  const savedValue = localStorage.getItem('itemsPerPage');
-  const urlParams = new URLSearchParams(window.location.search);
-  const urlPerPage = urlParams.get('per_page');
-  
-  if (urlPerPage) {
-    document.getElementById('per-page').value = urlPerPage;
-  } else if (savedValue) {
-    document.getElementById('per-page').value = savedValue;
-    
-    // Apply the saved value by redirecting
-    if (savedValue !== '25') { // Only redirect if different from default
-      changeItemsPerPage(savedValue);
-    }
-  }
-});
-</script>
+<!-- dsblog listing ends. -->
+
+<hr>
+
+{% include by-me-cofee.html %}
+
+
+{% include newsletter.html %}
