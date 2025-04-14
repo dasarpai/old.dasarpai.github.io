@@ -1,0 +1,22 @@
+---
+layout: archive
+title: "{{ page.collection | capitalize | replace: '-', ' ' }}"
+excerpt: "{{ site.description }}"
+---
+
+{{ content }}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% if page.pagination.enabled %}
+    {% for post in paginator.posts %}
+      {% include archive-single.html type=entries_layout %}
+    {% endfor %}
+  {% else %}
+    {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+  {% endif %}
+</div>
+
+{% if page.pagination.enabled %}
+  {% include paginator.html %}
+{% endif %}

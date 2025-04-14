@@ -527,3 +527,51 @@
         left: 0;
     }
 }
+
+
+
+/* Items per page selector styling */
+.items-per-page-container {
+    margin: 1.5rem 0;
+    display: flex;
+    align-items: center;
+    font-size: 0.9em;
+    background-color: #f8f9fa;
+    padding: 0.75rem;
+    border-radius: 4px;
+    border: 1px solid #e9ecef;
+    max-width: fit-content;
+  }
+  
+  .items-per-page-container label {
+    margin-right: 0.75rem;
+    font-weight: 500;
+    color: #555;
+  }
+  
+  .items-per-page-container select {
+    padding: 0.3rem 0.6rem;
+    border: 1px solid #ced4da;
+    border-radius: 3px;
+    background-color: white;
+    font-size: 0.9em;
+  }
+  
+  /* Ensure pagination links work correctly with the per_page parameter */
+  .pagination {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  /* Optional: Animation for page transitions */
+  .collection-item {
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  @media (max-width: 768px) {
+    .items-per-page-container {
+      margin: 1rem 0;
+      justify-content: flex-start;
+      width: 100%;
+    }
+  }

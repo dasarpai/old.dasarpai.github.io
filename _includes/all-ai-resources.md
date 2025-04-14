@@ -256,14 +256,14 @@ AI studio platforms—web-based tools or environments where users can interact w
 1. [www.relay.app](https://www.relay.app) :: Collaborative workflow automation platform with human-in-the-loop approvals.
 1. [www.bardeen.ai](https://www.bardeen.ai) :: Browser-based AI automation for repetitive desktop/web tasks.
 ## 🌐 Browser-Use AI Agents ##
- A "browser user AI agent" refers to an AI system that can interact with web browsers, mimicking human-like browsing behavior to automate tasks and extract information from websites. These agents leverage browser automation libraries like Playwright to perform actions such as navigating, clicking buttons, filling forms, and extracting data. These act as sidebars, overlays, or assistants directly inside your browser.
+A 'browser user AI agent' refers to an AI system that can interact with web browsers, mimicking human-like browsing behavior to automate tasks and extract information from websites. These agents leverage browser automation libraries like Playwright to perform actions such as navigating, clicking buttons, filling forms, and extracting data. These act as sidebars, overlays, or assistants directly inside your browser.
 1. [monica.im](https://monica.im)  :: Free. ChatGPT-powered sidebar agent that reads context from any webpage. Great for summarizing, translating, or replying.
 1. [harpa.ai](https://harpa.ai)  :: Free. AI agent that automates tasks like scraping, summarizing, searching, and form-filling on websites.
 1. [wiseone.io](https://wiseone.io)  :: Free. Reading and comprehension agent that enhances articles with summaries, definitions, and related info.
 1. [sider.ai](https://sider.ai)  :: Free (limited). Multimodal assistant overlay with support for ChatGPT, Claude, and Bing — works on any browser content.
 1. [getmerlin.in](https://www.getmerlin.in)  :: Free. Brings ChatGPT to Chrome; works with a shortcut to summarize, write, or reply anywhere online.
 1. [rewind.ai](https://www.rewind.ai)  :: Paid (macOS). Browser + system memory assistant that you can query like a timeline of your digital life.
-## 💻 Computer-Use AI Agents ## 
+## 💻 Computer-Use AI Agents ##
 These work across your operating system — not just in the browser.
 1. [microsoft.com/en-us/windows/copilot](https://www.microsoft.com/en-us/windows/copilot)  :: Free (Windows 11). Built-in AI assistant to help with settings, writing, and Bing Chat integration system-wide.
 1. [macgpt.com](https://macgpt.com)  :: Free. System-wide ChatGPT assistant for macOS with global hotkey access.
