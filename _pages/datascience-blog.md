@@ -30,10 +30,10 @@ pagination:
 <div class="items-per-page-container">
   <label for="per-page">Items per page:</label>
   <select id="per-page" onchange="changeItemsPerPage(this.value)">
-    <option value="10" {% if paginator.per_page == 10 %}selected{% endif %}>10</option>
-    <option value="25" {% if paginator.per_page == 25 %}selected{% endif %}>25</option>
-    <option value="50" {% if paginator.per_page == 50 %}selected{% endif %}>50</option>
-    <option value="100" {% if paginator.per_page == 100 %}selected{% endif %}>100</option>
+    <option value="18" {% if paginator.per_page == 18 %}selected{% endif %}>18</option>
+    <option value="36" {% if paginator.per_page == 36 %}selected{% endif %}>36</option>
+    <option value="54" {% if paginator.per_page == 54 %}selected{% endif %}>54</option>
+    <option value="72" {% if paginator.per_page == 72 %}selected{% endif %}>72</option>
   </select>
 </div>
 
