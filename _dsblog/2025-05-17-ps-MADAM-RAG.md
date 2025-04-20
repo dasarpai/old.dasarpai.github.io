@@ -45,7 +45,14 @@ keywords:
 
 The hypothesis of this paper is that **real-world retrieval-augmented generation (RAG) systems must simultaneously handle various sources of conflicting information, including ambiguity in user queries and contradictory information arising from misinformation and noise in retrieved documents**. The authors argue that prior work has largely addressed these challenges in isolation.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=hbJaC2HI89s" title="LLM Internal Encoding of Truthfulness and Hallucinations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/hbJaC2HI89s" 
+        title="Retrieval-Augmented Generation with Conflicting Evidence" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+</iframe>
 
 ## Key learnings from this paper include:
 

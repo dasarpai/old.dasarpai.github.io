@@ -43,7 +43,13 @@ The objective of this paper is to gain a deeper understanding of errors produced
 
 [Archive Download](https://arxiv.org/pdf/2410.02707v2)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iHqN56xGmFk" title="LLM Internal Encoding of Truthfulness and Hallucinations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/iHqN56xGmFk" 
+        title="LLM Internal Encoding of Truthfulness and Hallucinations" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+</iframe>
 
 ## The key findings of the paper are:
 
