@@ -596,7 +596,7 @@ Beginning of the end of the Gorkha Empire | Nepali Times
 
 1. ![Icon of the website](https://t3.gstatic.com/faviconV2?url=https://www.vifindia.org/&client=BARD&type=FAVICON&size=25&fallback_opts=TYPE,SIZE,URL)
 vifindia.org
-1 | Gorkha Dimension in India-Nepal Relations------------------------------------------------------ - Vivekananda International Foundation
+1 | Gorkha Dimension in India-Nepal Relations - Vivekananda International Foundation
 [Link](https://www.vifindia.org/sites/default/files/Gorkha-Dimension-in-India-Nepal-Relations.pdf)
 
 1. ![Icon of the website](https://t0.gstatic.com/faviconV2?url=https://testbook.com/&client=BARD&type=FAVICON&size=25&fallback_opts=TYPE,SIZE,URL)
@@ -1355,7 +1355,7 @@ The list of Practitioners in Part B renewed upto ... - RV Solutions
 
 1. ![Icon of the website](https://t2.gstatic.com/faviconV2?url=https://legalaffairs.gov.in/&client=BARD&type=FAVICON&size=25&fallback_opts=TYPE,SIZE,URL)
 legalaffairs.gov.in
-F. No- N-15011/119/2023- NC Government of India Ministry of Law and Justice Department of Legal Affairs (Notary Cell) \*\*\*\*\*\*\*\*\*\*
+F. No- N-15011/119/2023- NC Government of India Ministry of Law and Justice Department of Legal Affairs (Notary Cell)
 [Link](https://legalaffairs.gov.in/sites/default/files/Notice07122023.pdf?BB2IyK=feDjoUjogCtf)
 
 1. ![Icon of the website](https://t1.gstatic.com/faviconV2?url=https://bis.gov.in/&client=BARD&type=FAVICON&size=25&fallback_opts=TYPE,SIZE,URL)
