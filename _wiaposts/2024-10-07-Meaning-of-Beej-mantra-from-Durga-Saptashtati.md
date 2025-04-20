@@ -54,58 +54,63 @@ Even Hindus who do not follow any particular sect (Vaishnava, Shaiva, or Shakta)
 ## What are different Beej Mantra and what is the meaning of those?
 In the **Siddh Kunjika Stotram**, which is part of the Durga Saptashati, various **Beeja (seed)** mantras are associated with different aspects of the Divine Feminine or Goddess Durga. These seed mantras are potent syllables that carry specific energies and invoke different forms or qualities of the Goddess. Below is a list of key **Beeja mantras** and the corresponding forms of the Devi they represent:
 
+
 ### 1. **Aim (ऐं)**
-   - **Associated Devi**: Goddess **Saraswati** (Devi of wisdom, knowledge, and speech).
-   - **Meaning**: This beeja represents the power of speech, wisdom, and learning. It is often chanted to invoke Saraswati, the goddess of knowledge and creativity.
+   - **Associated Devi**: Goddess **Saraswati** (Devi of wisdom, knowledge, and speech).  3rd charita. 
+   - **Meaning**: This beeja represents the power of speech, creativity, wisdom, and learning. It is often chanted to invoke Saraswati, the goddess of knowledge and creativity. Linked to Saraswati’s intellectual and artistic prowess.
 
 ### 2. **Hreem (ह्रीं)**
    - **Associated Devi**: Goddess **Bhuvaneshwari** or **Mahamaya** (the supreme power of creation, preservation, and destruction).
    - **Meaning**: It is a bija mantra for divine energy, representing the heart and essence of the universal force. It embodies the power of transformation and protection.
 
 ### 3. **Kleem (क्लीं)**
-   - **Associated Devi**: Goddess **Kali** or **Kamakhya** (the power of attraction, desire, and transformation).
+   - **Associated Devi**: Goddess **Kali** or **Kamakhya** or **Krishna** (the power of attraction, desire, and transformation).
    - **Meaning**: Kleem is the bija of desire, attraction, and the ability to conquer adversities. It invokes love, power, and passion.
 
-### 4. **Shreem (श्रीं)**
-   - **Associated Devi**: Goddess **Lakshmi** (goddess of wealth, abundance, and prosperity).
-   - **Meaning**: Shreem is the bija mantra for wealth, abundance, and beauty. It attracts prosperity and well-being.
+### 4. **Kreem (क्रीं)** 
+- **Mahakali** (The Fierce, Time-Destroying Aspect). 1st charita. Represents destruction of negativity, transformation, and primal energy. Associated with Kali’s power to annihilate ignorance.
 
-### 5. **Doom (दूं)**
+### 5. **Shreem (श्रीं)**
+   - **Associated Devi**: Goddess **Mahaakshmi** (goddess of wealth, abundance, and prosperity). 2nd Charita. 
+   - **Meaning**: Shreem is the bija mantra for wealth, abundance, auspiciousness,  material/spiritual wealth and beauty. It attracts prosperity and well-being.
+
+### 6. **Doom (दूं)**
    - **Associated Devi**: Goddess **Durga** (the invincible, warrior goddess).
    - **Meaning**: Doom is the bija mantra for protection and the destruction of negativity. It invokes the power of Durga to provide safety and strength.
 
-### 6. **Chamundayai (चामुण्डायै)**
+### 7. **Chamundayai (चामुण्डायै)**
    - **Associated Devi**: Goddess **Chamunda** (a fierce form of Durga who slays demons).
    - **Meaning**: Chamundayai is the mantra used to invoke Chamunda, who represents the aspect of the Goddess that eliminates evil forces and obstacles.
 
-### 7. **Hum (हुं)**
+### 8. **Hum (हुं)**
    - **Associated Devi**: Goddess **Bhairavi** or **Kali** (the fierce, destructive form).
    - **Meaning**: Hum is a powerful mantra of protection and destruction of evil. It invokes the fierce energy to eliminate all dangers and threats.
 
-### 8. **Gloum (ग्लौं)**
+### 9. **Gloum (ग्लौं)**
    - **Associated Devi**: Goddess **Ganeshwari** or **Ganesha** (though primarily associated with Ganesha, it is also linked to the Mother Goddess for obstacle removal).
    - **Meaning**: Gloum is a bija for removing obstacles, seeking blessings for success in all endeavors.
 
-### 9. **Kroom (क्रूं)**
+### 10. **Kroom (क्रूं)**
    - **Associated Devi**: Goddess **Kali** (the force of time and destruction).
    - **Meaning**: Kroom is used to invoke Kali’s transformative and destructive power to eliminate negative karmas and influences.
 
-### 10. **Sreem (स्रीं)**
+### 11. **Sreem (स्रीं)**
    - **Associated Devi**: Goddess **Tripura Sundari** (the supreme beauty and power, representing the universe).
    - **Meaning**: Sreem invokes the beauty, grace, and prosperity of Tripura Sundari, the goddess who embodies the cosmos's creative power.
 
-### 11. **Phat (फट्)**
+### 12. **Phat (फट्)**
    - **Associated Devi**: General protective energy invoked by **Durga**.
    - **Meaning**: Phat is a bija used for breaking obstacles and barriers, often invoked for protection and in exorcisms.
 
-### 12. **Vichche (विच्चे)**
+### 13. **Vichche (विच्चे)**
    - **Associated Devi**: Goddess **Chamunda**.
    - **Meaning**: This mantra is used for protection and completion of any spiritual practice. It seals the energy of the mantra.
 
+### 14. **ऐं ह्रीं क्लीं (Aim Hreem Kleem)**
+   - **ऐं**: Wisdom (Saraswati). **ह्रीं**: Divine energy (Shakti). **क्लीं**: Attraction and devotion.
+
 ### Additional Beeja Mantras from **Siddh Kunjika Stotram**:
    - **Joom (जूं)**: Related to **Kali** for destruction and creation.
-   - **Krim (क्रीं)**: Another bija for **Kali**, focusing on power and transformation.
-   - **Strim (स्त्रीं)**: Connected to **Shakti** and the creative, feminine aspect of the universe.
 
 ### Key Insight from Siddh Kunjika Stotram
 The **Siddh Kunjika Stotram** is often regarded as the essence of the **Durga Saptashati**, where the chanting of these bija mantras is believed to invoke the complete power and grace of the Divine Mother. It is said that the recitation of the Kunjika Stotram alone can give the full benefit of the Durga Saptashati recitation because it contains the essence of all the bijas and invokes the most direct and effective form of Devi’s blessings.
@@ -127,6 +132,25 @@ There are nine syllables in this mantra therefore it is called Navarn Mantra.
 Om Aim Hreem Kleem Chamundayai Vichche.  
 Om Gloum Hreem Joom Sah Jwalaya Jwalaya Jwal Jwal Prajwal Prajwal   
 Aim Hreem Kleem Chamundayai Vichche Jwal Ham Sam Lam Ksham Phat Swaha.
+
+## n vs m pronunciation
+Make note of following words how anuswara is prononunced in different words   
+मंगल as n  
+मंत्र as n  
+संविधान as m  
+संवाद as m  
+संसद as m and n  
+क्रीं as m   
+श्रीं as m  
+गङ्ङा गंगा as n  
+संस्कृत as m and n  
+क्रीं as m  
+ऐं as ng  
+व्यंजन as n  
+कंकण as n  
+टंकण as n  
+
+I have noted in South India people prefer m for these mantra like Shreem (श्रीं) and in North India people prefer ng for these mantra like Shreeng (श्रीं). To me both looks fine, because these are traditional practice related conerns.
 
 ## Hashtags
 #BeejaMantra
