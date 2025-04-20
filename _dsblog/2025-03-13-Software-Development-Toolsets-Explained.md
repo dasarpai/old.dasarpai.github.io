@@ -38,6 +38,15 @@ keywords:
 
 # 34 Must-Know Software Development Toolsets Explained
 
+
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/5ivBY3SS2pY" 
+        title="Retrieval-Augmented Generation with Conflicting Evidence" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+</iframe>
+
 ## Introduction
 
 If you are coming from a background of software development then you might have heard of terms like SDK (Software Development Kit), Framework, API (Application Programming Interface), Library, Platform, Toolkit, Engine, Runtime, IDE (Integrated Development Environment), CLI (Command-Line Interface), Middleware, Boilerplate, Stack, Environment, Suite, DSL (Domain-Specific Language), Scaffold, Package, Module, Template, Generator, Container, Orchestrator, Bindings, Driver, Sandbox, and many more. Sometimes you might be beating your head to understand what is the difference between these terms and why people coin a new term every time. 
