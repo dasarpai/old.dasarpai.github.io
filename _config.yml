@@ -21,7 +21,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "dasarpAI"
 title_separator          : "|"
-subtitle                 : "Machines are Learning Faster" # site tagline that appears below site title in masthead
+subtitle                 : "Exploring AI with Consciousness" # site tagline that appears below site title in masthead
 name                     : "Hari Thapliyaal"
 description              : "All the Resources to Learn Data Science, AI, and Life Purposeful Life"
 url                      : "https://dasarpai.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

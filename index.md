@@ -117,6 +117,10 @@ pagination:
 
 ---
 
+Welcome to dasarpAI — a unique space where Data (of various languages) meets Sanskrit (mother of languages), Project management meets Philosophy, and Machine Learning meets Mindfulness.
+
+I’m Dr. Hari Thapliyaal, the creator of https://dasarpai.com, with 1000+ articles covering AI, Data Science, Project Management, Sanskrit Mantras, and Vedanta.
+
 ## My Philosophy Behind This Blog
 
 More than just a space for teaching and helping others, this blog serves as my platform for self-expression. The thousands of articles spanning multiple categories are my way of communicating with the world—and reminding myself of how far I’ve come and what remains to be explored.
@@ -176,6 +180,14 @@ AI is software, but AI projects are not like typical software projects. They hav
 - **Management** connects me to the stakeholders around me.  
 - **Technology** enables me to create solutions for myself and for those around me.  
 - Before becoming a change agent, it’s vital to first declutter your own mind and the space around you.  
+
+## What is the meaning dasarpAI?
+DASARPAI (Pronounced: duh-SA-RP AI) stands for:
+• Da – Data
+• Sa – Sanskrit
+• R – Research
+• P – Project Management
+• AI – Artificial Intelligence
 
 <div class="items-per-page-container">
   <label for="per-page">Items per page:</label>
