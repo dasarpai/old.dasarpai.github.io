@@ -1,3 +1,44 @@
+---
+mathjax: true
+id: 6262
+title: Ollama Setup and Running Models
+date: 2025-04-19
+permalink: /dsblog/Ollama-Setup-and-Running-Models
+tags:
+  - Ollama
+  - Large Language Models
+  - AI and NLP
+  - Local Models
+  - Cost Savings
+  - Privacy
+  - Offline
+categories:
+  - dsblog
+  - ai-and-nlp
+
+header:
+  teaser: /assets/images/dspost/dsp6262-Ollama-Setup-and-Running-Models.jpg
+excerpt_separator: "<!--more-->"
+author: Hari Thapliyaal
+layout: dspost-layout
+excerpt: "This article explains how to set up and run large language models using Ollama. Ollama is an open-source solution that allows you to download, manage, and run LLMs on your local machine, offering advantages such as enhanced privacy, cost savings, offline capability, and greater control over the models you use."
+author_profile: true
+share: true
+toc: true
+toc_sticky: true
+toc_levels: 3
+comments: true
+auto_number_headings: false
+keywords:
+  - "ollama setup"
+  - "running large language models locally"
+  - "cost savings with ollama"
+  - "enhanced privacy with ollama"
+  - "offline large language models"
+---
+
+![Ollama Setup and Running Models](/assets/images/dspost/dsp6262-Ollama-Setup-and-Running-Models.jpg)
+
 # Ollama: Running Large Language Models Locally
 
 The landscape of Artificial Intelligence (AI) and Large Language Models (LLMs) has traditionally been dominated by cloud-based services. While powerful, these often come with costs, privacy concerns, and require constant internet connectivity. Ollama emerges as a compelling open-source solution, designed to simplify the process of downloading, managing, and running LLMs directly on your local machine. This approach offers significant advantages, including enhanced privacy, cost savings, offline capability, and greater control over the models you use.
