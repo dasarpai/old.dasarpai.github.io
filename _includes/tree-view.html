@@ -1,0 +1,17 @@
+<ul class="tree-list {% if include.depth == 0 %} show {% endif %}">
+    {% for node in include.nodes %}
+      <li>
+        {% if node.children %}
+          <button class="toggle" data-level="{{ include.depth | default: 0 }}">
+            {{ node.title | safe }}
+          </button>
+
+          {% assign next_depth = include.depth | plus: 1 %}
+          {% include tree-view.html nodes=node.children depth=next_depth %}
+
+        {% else %}
+          <span class="leaf">{{ node.title | safe }}</span>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>

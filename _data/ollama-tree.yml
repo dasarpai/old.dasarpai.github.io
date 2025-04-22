@@ -1,0 +1,98 @@
+- title: "Ollama: Running AI Models Locally"
+  children:
+    - title: Introduction to Ollama
+      children:
+        - title: Run LLMs locally
+        - title: Save on Al costs
+        - title: Keep data private
+        - title: Build Al applications locally
+    - title: Getting Started
+    - title: Accessing and Managing Models
+      children:
+        - title: Variety of open source models are available
+        - title: Your need to pick and Custom configurations
+        - title: Ollama models are on Huggingface
+        - title: Ollama models are on GitHub repository
+        - title: Downloading models
+        - title: Accessing and Managing Models using CLI or via Web tools like WebUI
+        - title: Local storage requirements
+        - title: Customizing Models
+        - title: Ensure GPU and RAM are available to run the model
+        - title: You can create Ollama HTTP ΑΡΙ from local machine
+        - title: Listing Ollama downloaded models (llama list)
+        - title: Learn some other Ollama Basic CLI Commands
+        - title: Removing models (llama rm)
+    - title: Running Models via CLI
+      children:
+        - title: Basic command- llama run [model name]
+        - title: It downloads model if not downloaded earlier
+        - title: It create an Interactive prompt
+        - title: Now you can chat - Instant response (local)
+        - title: Exiting the prompt (/bye)
+        - title: You can switch between different models
+    - title: Customizing Models
+      children:
+      - title: Model files (no extension)
+      - title: Specifying a base model (from)
+      - title: Setting parameters (e.g., temperature)
+      - title: System messages (instructions)
+      - title: Running a custom model (ollama run [name])
+      - title: Removing custom models (ollama rm [name])
+    - title: Ollama Basic CLI Commands
+      children:
+        - title: "ollama list (installed models)"
+        - title: "ollama pull [model name] (download model)"
+        - title: "ollama run [model name] (run model)"
+        - title: "ollama rm [model name] (remove model)"
+        - title: "ollama show info (model details)"
+    - title: Multimodal Models (various models with different modalities are available)
+      children:
+        - title: Llava (image and text)
+        - title: Pulling and running Llava
+        - title: Interacting with images. 
+    - title: Use Cases
+      children:
+        - title: "Text generation"
+        - title: "Code generation"
+        - title: "Multimodal applications"
+        - title: "Summarization"
+        - title: "Sentiment analysis"
+        - title: "Retrieval Augmented Generation (RAG)"
+    - title: You can build local RAG (Retrieval Augmented Generation) solution
+      children:
+        - title: "Addressing model limitations (hallucination)"
+        - title: "Components of RAG : vector database, embedding model, context, similarity metric, etc."
+        - title: "Document loading and chunking"
+        - title: "Embedding (vector representation)"
+        - title: "Vector database (storage)"
+        - title: "Retrieval mechanism (similarity search)"
+        - title: "Passing context to LLM"
+    - title: Ollama Interface UI
+      children:
+        - title: Available for Windows, Mac, Linux
+        - title: It simplifies model management
+        - title: It gives Chat interface
+        - title: It helps in creating Knowledge Stacks (RAG UI)
+    - title: Ollama with Python
+      children:
+        - title: Using requests for HTTP API
+        - title: Listing models via API
+        - title: Chatting via API (streaming)
+        - title: Generating text via API
+        - title: Creating models via API (modelfile)
+        - title: Removing models via API
+        - title: Ollama Python Library
+    - title: Model Parameters and Benchmarks
+      children:
+        - title: Parameters (size and capacity)
+        - title: Quantization (smaller, faster models)
+        - title: Benchmark considerations
+        - title: Computational resources for large models
+    - title: Model Types
+      children:
+        - title: Language models (text, conversation, instruction)
+        - title: Multi-modal models (images)
+        - title: Embedding models (vector databases)
+        - title: Tool calling makes models powerful
+        - title: Tools can be created by the model on the fly or call existing tools or functions.
+        - title: Memory or context is important to respond

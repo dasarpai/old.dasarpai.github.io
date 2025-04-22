@@ -520,7 +520,6 @@ Yes, we can use them
 **Method 2: Model conversion and export**   
 Export Models: Export models from the cloud services in formats compatible with Ollama (e.g., ONNX, TensorFlow SavedModel). This might involve  transferring the model files. Import into Ollama: If Ollama supports these formats, you can then import the models into Ollama’s environment.
 
-
 ## References
 - https://ollama.com
 - https://github.com/ollama/ollama

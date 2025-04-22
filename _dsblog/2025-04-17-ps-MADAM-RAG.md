@@ -2,7 +2,7 @@
 mathjax: true
 id: 6261
 title: Retrieval-Augmented Generation with Conflicting Evidence
-date: 2025-05-17
+date: 2025-04-17
 permalink: /dsblog/ps-Retrieval-Augmented-Generation-with-Conflicting-Evidence
 tags:
   - MADAM-RAG
