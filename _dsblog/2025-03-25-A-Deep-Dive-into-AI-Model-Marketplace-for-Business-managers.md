@@ -15,7 +15,7 @@ categories:
   - AI
 
 header:
-  teaser: /assets/images/dspost/dsp6251-A-Deep-Dive-into-AI-Model-Marketplaces.jpg
+  teaser: /assets/images/dspost/dsp6251-A-Deep-Dive-into-AI-Model-Marketplaces-for-BM.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout
@@ -35,7 +35,7 @@ keywords:
   - "AI Model Management"
 ---
 
-![AI Model Marketplaces](/assets/images/dspost/dsp6251-A-Deep-Dive-into-AI-Model-Marketplaces.jpg)
+![AI Model Marketplaces](/assets/images/dspost/dsp6251-A-Deep-Dive-into-AI-Model-Marketplaces-for-BM.jpg)
 
 
 # A Deep Dive into AI Model Marketplaces for Business Managers  

@@ -35,7 +35,7 @@ textarea,
 
 /* Base font size - now larger for smallest mobile devices */
 html {
-  font-size: 2em; /* Matching your original size for small devices */
+  font-size: 2.0em; /* Matching your original size for small devices */
   -webkit-text-size-adjust: 100%;
 }
 
@@ -49,14 +49,14 @@ html {
 /* Large mobile devices (481px to 768px) */
 @media (min-width: 481px) and (max-width: 768px) {
   html {
-    font-size: 1.5em; /* Increased from your original 1.1em */
+    font-size: 2.0em; /* Increased from your original 1.1em */
   }
 }
 
 /* Tablets (769px to 1024px) */
 @media (min-width: 769px) and (max-width: 1024px) {
   html {
-    font-size: 1.2em; /* Increased from your original 1.1em */
+    font-size: 2.0em; /* Increased from your original 1.1em */
   }
 }
 
