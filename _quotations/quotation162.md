@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9162
-title: 'Quotation 162'
+title: "Selective Listening - Quotation 162"
 date: 2022-06-21
 permalink: '/quotations/selective-listening'
 tags: [WIA Quotations] 

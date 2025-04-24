@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9125
-title: 'Quotation 125'
+title: "Unprovable Experience - Quotation 125"
 date: 2022-04-08
 permalink: '/quotations/unprovable-experience'
 tags: [WIA Quotations] 

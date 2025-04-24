@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9273
-title: 'Quotation 273'
+title: "Is there anything wrong with claims? - Quotation 273"
 date: 2025-03-17
 permalink: '/quotations/human-claims'
 tags: [WIA Quotations] 

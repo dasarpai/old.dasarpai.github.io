@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9170
-title: 'Quotation 170'
+title: "Sloka - Quotation 170"
 date: 2022-07-07
 permalink: '/quotations/sloka'
 tags: [WIA Quotations] 

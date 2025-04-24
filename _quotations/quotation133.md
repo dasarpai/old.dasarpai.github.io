@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9133
-title: 'Quotation 133'
+title: "Futuristic Education - Quotation 133"
 date: 2022-04-24
 permalink: '/quotations/futuristic-education'
 tags: [WIA Quotations] 

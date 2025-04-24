@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9007
-title: 'Quotation 007'
+title: "Looking into Eyes - Quotation 007"
 date: 2021-08-15
 permalink: '/quotations/looking-into-eyes'
 tags: [WIA Quotations] 

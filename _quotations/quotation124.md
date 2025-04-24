@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9124
-title: 'Quotation 124'
+title: "Consciousness in Deep Sleep - Quotation 124"
 date: 2022-04-06
 permalink: '/quotations/consciousness-in-deep-sleep'
 tags: [WIA Quotations] 

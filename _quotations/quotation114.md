@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9114
-title: 'Quotation 114'
+title: "The Best is not the Best - Quotation 114"
 date: 2022-03-17
 permalink: '/quotations/the-best-is-not-the-best'
 tags: [WIA Quotations] 

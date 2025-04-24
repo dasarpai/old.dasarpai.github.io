@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9252
-title: 'Quotation 252'
+title: "Big Bang Timeline - Quotation 252"
 date: 2022-12-27
 permalink: '/quotations/big-bang-timeline'
 tags: [WIA Quotations] 

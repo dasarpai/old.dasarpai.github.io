@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9104
-title: 'Quotation 104'
+title: "Teachers of Dukkha All Around - Quotation 104"
 date: 2022-02-25
 permalink: '/quotations/teachers-of-dukkha-all-around'
 tags: [WIA Quotations] 

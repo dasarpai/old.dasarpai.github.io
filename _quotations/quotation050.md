@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9050
-title: 'Quotation 050'
+title: "Love and Mind - Quotation 050"
 date: 2021-11-09
 permalink: '/quotations/love-and-mind'
 tags: [WIA Quotations] 

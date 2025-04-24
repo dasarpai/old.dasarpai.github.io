@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9092
-title: 'Quotation 092'
+title: "Dissolve your Suffering - Quotation 092"
 date: 2022-02-01
 permalink: '/quotations/dissolve-your-suffering'
 tags: [WIA Quotations] 

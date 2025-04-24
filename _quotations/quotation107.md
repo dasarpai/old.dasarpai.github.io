@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9107
-title: 'Quotation 107'
+title: "Nirvana - Quotation 107"
 date: 2022-03-03
 permalink: '/quotations/nirvana'
 tags: [WIA Quotations] 

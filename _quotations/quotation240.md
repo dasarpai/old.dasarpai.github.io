@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9240
-title: 'Quotation 240'
+title: "Fear of Death - Quotation 240"
 date: 2022-11-24
 permalink: '/quotations/fear-of-death'
 tags: [WIA Quotations] 

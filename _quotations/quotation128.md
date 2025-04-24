@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9128
-title: 'Quotation 128'
+title: "Adjusting Intensity of Mamkaar - Quotation 128"
 date: 2022-04-14
 permalink: '/quotations/adjusting-intensity-of-mamkaar'
 tags: [WIA Quotations] 

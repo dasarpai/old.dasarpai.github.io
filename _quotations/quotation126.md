@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9126
-title: 'Quotation 126'
+title: "CSR and Charitable Indian - Quotation 126"
 date: 2022-04-10
 permalink: '/quotations/csr-and-charitable-indian'
 tags: [WIA Quotations] 

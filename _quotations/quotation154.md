@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9154
-title: 'Quotation 154'
+title: "Women and Samskrut - Quotation 154"
 date: 2022-06-05
 permalink: '/quotations/women-and-samskrut'
 tags: [WIA Quotations] 

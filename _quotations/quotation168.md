@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9168
-title: 'Quotation 168'
+title: "Infinite World - Quotation 168"
 date: 2022-07-03
 permalink: '/quotations/infinite-world'
 tags: [WIA Quotations] 

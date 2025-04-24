@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9203
-title: 'Quotation 203'
+title: "How to Stop Mind? - Quotation 203"
 date: 2022-09-11
 permalink: '/quotations/how-to-stop-mind'
 tags: [WIA Quotations] 

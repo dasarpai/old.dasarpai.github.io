@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9025
-title: 'Quotation 025'
+title: "Map is not Road - Quotation 025"
 date: 2021-09-20
 permalink: '/quotations/map-is-not-road'
 tags: [WIA Quotations] 

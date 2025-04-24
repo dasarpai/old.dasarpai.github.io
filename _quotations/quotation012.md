@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9012
-title: 'Quotation 012'
+title: "Respect vs Tolerance - Quotation 012"
 date: 2021-08-25
 permalink: '/quotations/respect-vs-tolerance'
 tags: [WIA Quotations] 

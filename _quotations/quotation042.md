@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9042
-title: 'Quotation 042'
+title: "Empty Mind - Quotation 042"
 date: 2021-10-24
 permalink: '/quotations/empty-mind'
 tags: [WIA Quotations] 

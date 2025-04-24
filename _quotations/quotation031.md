@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9031
-title: 'Quotation 031'
+title: "Defending in ignorance - Quotation 031"
 date: 2021-10-02
 permalink: '/quotations/defending-in-ignorance'
 tags: [WIA Quotations] 

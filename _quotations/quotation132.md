@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9132
-title: 'Quotation 132'
+title: "All Time Honest is Impossible - Quotation 132"
 date: 2022-04-22
 permalink: '/quotations/all-time-honest-is-impossible'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9192
-title: 'Quotation 192'
+title: "Existential Truth - Quotation 192"
 date: 2022-08-20
 permalink: '/quotations/existential-truth'
 tags: [WIA Quotations] 

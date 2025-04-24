@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9241
-title: 'Quotation 241'
+title: "Human Looks for Slavery - Quotation 241"
 date: 2022-11-26
 permalink: '/quotations/human-looks-for-slavery'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9176
-title: 'Quotation 176'
+title: "Thinking in Human vs Computers - Quotation 176"
 date: 2022-07-19
 permalink: '/quotations/thinking-in-human-vs-computers'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9016
-title: 'Quotation 016'
+title: "Genius is Disease - Quotation 016"
 date: 2021-09-02
 permalink: '/quotations/genius-is-disease'
 tags: [WIA Quotations] 

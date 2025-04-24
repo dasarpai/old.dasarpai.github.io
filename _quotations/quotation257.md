@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9257
-title: 'Quotation 257'
+title: "Emotional-Machine - Quotation 257"
 date: 2023-02-03
 permalink: '/quotations/Emotional-Machine'
 tags: [WIA Quotations] 

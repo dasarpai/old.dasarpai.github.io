@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9266
-title: 'Quotation 266'
+title: "Enjoy the Process - Quotation 266"
 date: 2024-12-22
 permalink: '/quotations/Enjoy-the-Process'
 tags: [WIA Quotations] 

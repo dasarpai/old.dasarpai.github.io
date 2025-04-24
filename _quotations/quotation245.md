@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9245
-title: 'Quotation 245'
+title: "Don't Suffer - Quotation 245"
 date: 2022-12-04
 permalink: '/quotations/dont-suffer'
 tags: [WIA Quotations] 

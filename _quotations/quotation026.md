@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9026
-title: 'Quotation 026'
+title: "Transactions in the World - Quotation 026"
 date: 2021-09-22
 permalink: '/quotations/transactions-in-the-world'
 tags: [WIA Quotations] 

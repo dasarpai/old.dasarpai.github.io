@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9151
-title: 'Quotation 151'
+title: "Glory of Sanskrit - Quotation 151"
 date: 2022-05-30
 permalink: '/quotations/glory-of-sanskrit'
 tags: [WIA Quotations] 

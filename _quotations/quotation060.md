@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9060
-title: 'Quotation 060'
+title: "Means and Goal - Quotation 060"
 date: 2021-11-29
 permalink: '/quotations/means-and-goal'
 tags: [WIA Quotations] 

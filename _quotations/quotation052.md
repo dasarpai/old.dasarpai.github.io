@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9052
-title: 'Quotation 052'
+title: "Happiness First - Quotation 052"
 date: 2021-11-13
 permalink: '/quotations/happiness-first'
 tags: [WIA Quotations] 

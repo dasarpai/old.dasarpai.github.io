@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9076
-title: 'Quotation 076'
+title: "Infinity Divider - Quotation 076"
 date: 2021-12-31
 permalink: '/quotations/infinity-divider'
 tags: [WIA Quotations] 

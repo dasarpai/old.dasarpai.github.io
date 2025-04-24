@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9054
-title: 'Quotation 054'
+title: "Love and Moksha - Quotation 054"
 date: 2021-11-17
 permalink: '/quotations/love-and-moksha'
 tags: [WIA Quotations] 

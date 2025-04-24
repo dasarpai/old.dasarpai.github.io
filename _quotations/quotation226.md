@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9226
-title: 'Quotation 226'
+title: "Sickness and Prescription - Quotation 226"
 date: 2022-10-27
 permalink: '/quotations/sickness-and-prescription'
 tags: [WIA Quotations] 

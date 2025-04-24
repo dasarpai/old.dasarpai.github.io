@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9122
-title: 'Quotation 122'
+title: "Unsupported Warranty - Quotation 122"
 date: 2022-04-02
 permalink: '/quotations/unsupported-warranty'
 tags: [WIA Quotations] 

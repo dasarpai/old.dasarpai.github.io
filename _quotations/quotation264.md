@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9264
-title: 'Quotation 264'
+title: "Who is Pandita? - Quotation 264"
 date: 2024-10-30
 permalink: '/quotations/who-is-pandit'
 tags: [WIA Quotations] 

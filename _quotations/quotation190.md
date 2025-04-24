@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9190
-title: 'Quotation 190'
+title: "Real Living - Quotation 190"
 date: 2022-08-16
 permalink: '/quotations/real-living'
 tags: [WIA Quotations] 

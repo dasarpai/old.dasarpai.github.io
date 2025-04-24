@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9182
-title: 'Quotation 182'
+title: "Creating Infrastructure to Live - Quotation 182"
 date: 2022-07-31
 permalink: '/quotations/creating-infrastructure-to-live'
 tags: [WIA Quotations] 

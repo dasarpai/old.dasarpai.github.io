@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9234
-title: 'Quotation 234'
+title: "Size of Body and Intelligence - Quotation 234"
 date: 2022-11-12
 permalink: '/quotations/size-of-body-and-intelligence'
 tags: [WIA Quotations] 

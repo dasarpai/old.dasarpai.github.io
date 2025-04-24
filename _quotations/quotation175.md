@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9175
-title: 'Quotation 175'
+title: "What is Mathematics - Quotation 175"
 date: 2022-07-17
 permalink: '/quotations/what-is-mathematics'
 tags: [WIA Quotations] 

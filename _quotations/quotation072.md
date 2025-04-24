@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9072
-title: 'Quotation 072'
+title: "About Awareness - Quotation 072"
 date: 2021-12-23
 permalink: '/quotations/about-awareness'
 tags: [WIA Quotations] 

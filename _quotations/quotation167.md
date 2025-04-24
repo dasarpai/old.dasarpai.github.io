@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9167
-title: 'Quotation 167'
+title: "Machine Learning and Maths - Quotation 167"
 date: 2022-07-01
 permalink: '/quotations/machine-learning-and-maths'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9063
-title: 'Quotation 063'
+title: "Restfulness - Quotation 063"
 date: 2021-12-05
 permalink: '/quotations/restfulness'
 tags: [WIA Quotations] 

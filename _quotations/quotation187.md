@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9187
-title: 'Quotation 187'
+title: "Elasticity of Karma - Quotation 187"
 date: 2022-08-10
 permalink: '/quotations/elasticity-of-karma'
 tags: [WIA Quotations] 

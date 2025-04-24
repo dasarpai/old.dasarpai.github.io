@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9093
-title: 'Quotation 093'
+title: "Angerlessness is not Virtue - Quotation 093"
 date: 2022-02-03
 permalink: '/quotations/angerlessness-is-not-virtue'
 tags: [WIA Quotations] 

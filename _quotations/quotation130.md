@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9130
-title: 'Quotation 130'
+title: "Mindless Competition - Quotation 130"
 date: 2022-04-18
 permalink: '/quotations/mindless-competition'
 tags: [WIA Quotations] 

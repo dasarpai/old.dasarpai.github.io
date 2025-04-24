@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9003
-title: 'Quotation 003'
+title: "Do not get hooked on the words - Quotation 003"
 date: 2021-08-07
 permalink: '/quotations/do-not-get-hooked-on-the-words'
 tags: [WIA Quotations] 

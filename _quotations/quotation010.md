@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9010
-title: 'Quotation 010'
+title: "Inactivity - Quotation 010"
 date: 2021-08-21
 permalink: '/quotations/inactivity'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9265
-title: 'Quotation 265'
+title: "Trust Building - Quotation 265"
 date: 2024-12-20
 permalink: '/quotations/Trust-Building'
 tags: [WIA Quotations] 

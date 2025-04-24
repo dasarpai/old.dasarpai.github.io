@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9142
-title: 'Quotation 142'
+title: "Democracy becoming Dictatorship - Quotation 142"
 date: 2022-05-12
 permalink: '/quotations/democracy-becoming-dictatorship'
 tags: [WIA Quotations] 

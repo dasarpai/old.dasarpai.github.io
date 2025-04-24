@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9080
-title: 'Quotation 080'
+title: "Human Fear is Permanent - Quotation 080"
 date: 2022-01-08
 permalink: '/quotations/human-fear-is-permanent'
 tags: [WIA Quotations] 

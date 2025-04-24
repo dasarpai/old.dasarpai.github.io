@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9147
-title: 'Quotation 147'
+title: "Having and Being - Quotation 147"
 date: 2022-05-22
 permalink: '/quotations/having-and-being'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9207
-title: 'Quotation 207'
+title: "Slavery of Master - Quotation 207"
 date: 2022-09-19
 permalink: '/quotations/slavery-of-master'
 tags: [WIA Quotations] 

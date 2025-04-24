@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9148
-title: 'Quotation 148'
+title: "Superficial Life and Fear of AI - Quotation 148"
 date: 2022-05-24
 permalink: '/quotations/superficial-life-and-fear-of-ai'
 tags: [WIA Quotations] 

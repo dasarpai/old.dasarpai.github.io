@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9274
-title: 'Quotation 274'
+title: "The Art of Not Working - Quotation 274"
 date: 2025-03-17
 permalink: '/quotations/the-art-of-not-working'
 tags: [WIA Quotations] 

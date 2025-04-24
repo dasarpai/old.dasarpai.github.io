@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9033
-title: 'Quotation 033'
+title: "Mind and Life - Quotation 033"
 date: 2021-10-06
 permalink: '/quotations/mind-and-life'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9083
-title: 'Quotation 083'
+title: "Mistaking, Blaming, and Forging - Quotation 083"
 date: 2022-01-14
 permalink: '/quotations/mistaking-blaming-and-forging'
 tags: [WIA Quotations] 

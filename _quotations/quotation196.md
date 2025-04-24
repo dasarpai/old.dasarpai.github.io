@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9196
-title: 'Quotation 196'
+title: "Light and Blindness - Quotation 196"
 date: 2022-08-28
 permalink: '/quotations/light-and-blindness'
 tags: [WIA Quotations] 

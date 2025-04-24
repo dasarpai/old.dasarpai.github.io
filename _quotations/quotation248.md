@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9248
-title: 'Quotation 248'
+title: "Bodies and Their Food - Quotation 248"
 date: 2022-12-10
 permalink: '/quotations/bodies-and-their-food'
 tags: [WIA Quotations] 

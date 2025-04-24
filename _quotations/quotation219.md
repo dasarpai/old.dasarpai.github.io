@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9219
-title: 'Quotation 219'
+title: "Karma cannot be Canceled - Quotation 219"
 date: 2022-10-13
 permalink: '/quotations/karma-cannot-be-canceled'
 tags: [WIA Quotations] 

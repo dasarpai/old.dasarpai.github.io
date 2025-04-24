@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9153
-title: 'Quotation 153'
+title: "Living with Awareness - Quotation 153"
 date: 2022-06-03
 permalink: '/quotations/living-with-awareness'
 tags: [WIA Quotations] 

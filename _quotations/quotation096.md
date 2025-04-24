@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9096
-title: 'Quotation 096'
+title: "Heating to Blasting - Quotation 096"
 date: 2022-02-09
 permalink: '/quotations/heating-to-blasting'
 tags: [WIA Quotations] 

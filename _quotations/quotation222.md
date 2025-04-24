@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9222
-title: 'Quotation 222'
+title: "Love or Compromise - Quotation 222"
 date: 2022-10-19
 permalink: '/quotations/love-or-compromise'
 tags: [WIA Quotations] 

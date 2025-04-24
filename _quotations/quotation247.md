@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9247
-title: 'Quotation 247'
+title: "Investment and Returns - Quotation 247"
 date: 2022-12-08
 permalink: '/quotations/investment-and-returns'
 tags: [WIA Quotations] 

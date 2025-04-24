@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9059
-title: 'Quotation 059'
+title: "Meaning of Spiritual Life - Quotation 059"
 date: 2021-11-27
 permalink: '/quotations/meaning-of-spiritual-life'
 tags: [WIA Quotations] 

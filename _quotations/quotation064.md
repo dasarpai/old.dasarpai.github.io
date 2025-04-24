@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9064
-title: 'Quotation 064'
+title: "The Way to know the Self - Quotation 064"
 date: 2021-12-07
 permalink: '/quotations/the-way-to-know-the-self'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9068
-title: 'Quotation 068'
+title: "Manas and Chaitnya - Quotation 068"
 date: 2021-12-15
 permalink: '/quotations/manas-and-chaitnya'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9201
-title: 'Quotation 201'
+title: "Human Energy Flow - Quotation 201"
 date: 2022-09-07
 permalink: '/quotations/human-energy-flow'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9249
-title: 'Quotation 249'
+title: "Why is he happy? - Quotation 249"
 date: 2022-12-12
 permalink: '/quotations/why-is-he-happy'
 tags: [WIA Quotations] 

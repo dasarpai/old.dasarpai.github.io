@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9005
-title: 'Quotation 005'
+title: "Mind is illness - Quotation 005"
 date: 2021-08-11
 permalink: '/quotations/mind-is-illness'
 tags: [WIA Quotations] 

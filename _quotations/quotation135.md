@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9135
-title: 'Quotation 135'
+title: "Language is to say what you don't want - Quotation 135"
 date: 2022-04-28
 permalink: '/quotations/language-is-to-say-what-you-dont-want'
 tags: [WIA Quotations] 

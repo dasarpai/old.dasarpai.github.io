@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9103
-title: 'Quotation 103'
+title: "Dukh me Sumiran Sab Kare - Quotation 103"
 date: 2022-02-23
 permalink: '/quotations/dukh-me-sumiran-sab-kare'
 tags: [WIA Quotations] 

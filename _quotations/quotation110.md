@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9110
-title: 'Quotation 110'
+title: "Human Capabilities and Machine - Quotation 110"
 date: 2022-03-09
 permalink: '/quotations/human-capabilities-and-machine'
 tags: [WIA Quotations] 

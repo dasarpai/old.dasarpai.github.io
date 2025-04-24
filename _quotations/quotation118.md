@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9118
-title: 'Quotation 118'
+title: "Ganesh Worship in Hinduism - Quotation 118"
 date: 2022-03-25
 permalink: '/quotations/ganesh-worship-in-hinduism'
 tags: [WIA Quotations] 

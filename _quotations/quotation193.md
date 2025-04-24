@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9193
-title: 'Quotation 193'
+title: "What is Spirituality? - Quotation 193"
 date: 2022-08-22
 permalink: '/quotations/what-is-spirituality'
 tags: [WIA Quotations] 

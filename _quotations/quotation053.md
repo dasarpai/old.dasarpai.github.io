@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9053
-title: 'Quotation 053'
+title: "Success and Action - Quotation 053"
 date: 2021-11-15
 permalink: '/quotations/success-and-action'
 tags: [WIA Quotations] 

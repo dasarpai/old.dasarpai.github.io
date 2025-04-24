@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9225
-title: 'Quotation 225'
+title: "The curse of Knowledge - Quotation 225"
 date: 2022-10-25
 permalink: '/quotations/the-curse-of-knowledge'
 tags: [WIA Quotations] 

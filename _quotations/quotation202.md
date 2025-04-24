@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9202
-title: 'Quotation 202'
+title: "What is Sin? - Quotation 202"
 date: 2022-09-09
 permalink: '/quotations/what-is-sin'
 tags: [WIA Quotations] 

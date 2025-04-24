@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9183
-title: 'Quotation 183'
+title: "Fearless Living - Quotation 183"
 date: 2022-08-02
 permalink: '/quotations/fearless-living'
 tags: [WIA Quotations] 

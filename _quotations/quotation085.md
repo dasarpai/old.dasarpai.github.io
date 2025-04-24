@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9085
-title: 'Quotation 085'
+title: "Source of Happiness - Quotation 085"
 date: 2022-01-18
 permalink: '/quotations/source-of-happiness'
 tags: [WIA Quotations] 

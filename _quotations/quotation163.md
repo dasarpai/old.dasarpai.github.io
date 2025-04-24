@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9163
-title: 'Quotation 163'
+title: "Working with Smarter People - Quotation 163"
 date: 2022-06-23
 permalink: '/quotations/working-with-smarter-people'
 tags: [WIA Quotations] 

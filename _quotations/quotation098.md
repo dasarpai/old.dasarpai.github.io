@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9098
-title: 'Quotation 098'
+title: "Avoidable Assumptions - Quotation 098"
 date: 2022-02-13
 permalink: '/quotations/avoidable-assumptions'
 tags: [WIA Quotations] 

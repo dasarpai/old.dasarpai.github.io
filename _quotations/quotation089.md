@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9089
-title: 'Quotation 089'
+title: "Level of Living Philosophy - Quotation 089"
 date: 2022-01-26
 permalink: '/quotations/level-of-living-philosophy'
 tags: [WIA Quotations] 

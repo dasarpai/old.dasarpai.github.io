@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9071
-title: 'Quotation 071'
+title: "Information Bombardment - Quotation 071"
 date: 2021-12-21
 permalink: '/quotations/information-bombardment'
 tags: [WIA Quotations] 

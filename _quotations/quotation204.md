@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9204
-title: 'Quotation 204'
+title: "Relax by Being - Quotation 204"
 date: 2022-09-13
 permalink: '/quotations/relax-by-being'
 tags: [WIA Quotations] 

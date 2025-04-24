@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9246
-title: 'Quotation 246'
+title: "Kind of People & Their Suffering - Quotation 246"
 date: 2022-12-06
 permalink: '/quotations/kind-of-people-&-their-suffering'
 tags: [WIA Quotations] 

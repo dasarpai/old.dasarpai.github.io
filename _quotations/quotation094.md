@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9094
-title: 'Quotation 094'
+title: "Knowing Facts vs Realizing Truth - Quotation 094"
 date: 2022-02-05
 permalink: '/quotations/knowing-facts-vs-realizing-truth'
 tags: [WIA Quotations] 

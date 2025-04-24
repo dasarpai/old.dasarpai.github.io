@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9209
-title: 'Quotation 209'
+title: "EyeBall Movement - Quotation 209"
 date: 2022-09-23
 permalink: '/quotations/eyeball-movement'
 tags: [WIA Quotations] 

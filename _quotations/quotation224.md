@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9224
-title: 'Quotation 224'
+title: "Purpose and Limitation of Languages - Quotation 224"
 date: 2022-10-23
 permalink: '/quotations/purpose-and-limitation-of-languages'
 tags: [WIA Quotations] 

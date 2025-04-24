@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9087
-title: 'Quotation 087'
+title: "Interpreting Math Formula - Quotation 087"
 date: 2022-01-22
 permalink: '/quotations/interpreting-math-formula'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9165
-title: 'Quotation 165'
+title: "Machine Model Training and Child Training - Quotation 165"
 date: 2022-06-27
 permalink: '/quotations/machine-model-training-and-child-training'
 tags: [WIA Quotations] 

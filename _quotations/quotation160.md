@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9160
-title: 'Quotation 160'
+title: "Information Age and Helpless Human - Quotation 160"
 date: 2022-06-17
 permalink: '/quotations/information-age-and-helpless-human'
 tags: [WIA Quotations] 

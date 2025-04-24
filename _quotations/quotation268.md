@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9268
-title: 'Quotation 268'
+title: "What is Papam? - Quotation 268"
 date: 2024-12-24
 permalink: '/quotations/what-is-papam'
 tags: [WIA Quotations] 

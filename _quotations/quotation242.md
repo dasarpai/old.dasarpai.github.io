@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9242
-title: 'Quotation 242'
+title: "The World is Complete - Quotation 242"
 date: 2022-11-28
 permalink: '/quotations/the-world-is-complete'
 tags: [WIA Quotations] 

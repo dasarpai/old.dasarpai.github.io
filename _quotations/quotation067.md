@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9067
-title: 'Quotation 067'
+title: "Price for Freedom - Quotation 067"
 date: 2021-12-13
 permalink: '/quotations/price-for-freedom'
 tags: [WIA Quotations] 

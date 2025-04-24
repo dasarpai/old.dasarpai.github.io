@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9238
-title: 'Quotation 238'
+title: "Dussehra 2022 - Quotation 238"
 date: 2022-10-05
 permalink: '/quotations/dussehra-2022'
 tags: [WIA Quotations] 

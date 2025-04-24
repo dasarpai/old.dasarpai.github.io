@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9120
-title: 'Quotation 120'
+title: "A Fast Moving Train - Quotation 120"
 date: 2022-03-29
 permalink: '/quotations/a-fast-moving-train'
 tags: [WIA Quotations] 

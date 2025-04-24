@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9115
-title: 'Quotation 115'
+title: "Holi 2022 - Quotation 115"
 date: 2022-03-18
 permalink: '/quotations/holi-2022'
 tags: [WIA Quotations] 

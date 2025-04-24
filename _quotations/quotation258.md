@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9258
-title: 'Quotation 258'
+title: "Learning Process - Quotation 258"
 date: 2023-04-12
 permalink: '/quotations/Learning-Process'
 tags: [WIA Quotations] 

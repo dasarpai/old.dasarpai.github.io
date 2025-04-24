@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9020
-title: 'Quotation 020'
+title: "Existence without Adjectives - Quotation 020"
 date: 2021-09-10
 permalink: '/quotations/existence-without-adjectives'
 tags: [WIA Quotations] 

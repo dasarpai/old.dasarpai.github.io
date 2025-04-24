@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9212
-title: 'Quotation 212'
+title: "Truth cannot be Said - Quotation 212"
 date: 2022-09-29
 permalink: '/quotations/truth-cannot-be-said'
 tags: [WIA Quotations] 

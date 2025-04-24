@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9036
-title: 'Quotation 036'
+title: "Krishna and Cows - Quotation 036"
 date: 2021-10-12
 permalink: '/quotations/krishna-and-cows'
 tags: [WIA Quotations] 

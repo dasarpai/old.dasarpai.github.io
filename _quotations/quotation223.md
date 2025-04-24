@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9223
-title: 'Quotation 223'
+title: "Don't speak - Quotation 223"
 date: 2022-10-21
 permalink: '/quotations/dont-speak'
 tags: [WIA Quotations] 

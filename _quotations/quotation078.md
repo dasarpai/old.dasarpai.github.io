@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9078
-title: 'Quotation 078'
+title: "Tragedy of Thinking - Quotation 078"
 date: 2022-01-04
 permalink: '/quotations/tragedy-of-thinking'
 tags: [WIA Quotations] 

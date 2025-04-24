@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9058
-title: 'Quotation 058'
+title: "Language of the Cosmos - Quotation 058"
 date: 2021-11-25
 permalink: '/quotations/language-of-the-cosmos'
 tags: [WIA Quotations] 

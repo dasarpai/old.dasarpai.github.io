@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9109
-title: 'Quotation 109'
+title: "Root Cause of the Suffering - Quotation 109"
 date: 2022-03-07
 permalink: '/quotations/root-cause-of-the-suffering'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9038
-title: 'Quotation 038'
+title: "Happiness and Friends - Quotation 038"
 date: 2021-10-16
 permalink: '/quotations/happiness-and-friends'
 tags: [WIA Quotations] 

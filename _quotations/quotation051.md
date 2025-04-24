@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9051
-title: 'Quotation 051'
+title: "Life Style & Happiness - Quotation 051"
 date: 2021-11-11
 permalink: '/quotations/life-style-&-happiness'
 tags: [WIA Quotations] 

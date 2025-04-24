@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9018
-title: 'Quotation 018'
+title: "Self Beyond Word - Quotation 018"
 date: 2021-09-06
 permalink: '/quotations/self-beyond-word'
 tags: [WIA Quotations] 

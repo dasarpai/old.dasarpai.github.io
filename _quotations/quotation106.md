@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9106
-title: 'Quotation 106'
+title: "Price vs Value - Quotation 106"
 date: 2022-03-01
 permalink: '/quotations/price-vs-value'
 tags: [WIA Quotations] 

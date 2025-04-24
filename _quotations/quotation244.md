@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9244
-title: 'Quotation 244'
+title: "Karma vs words - Quotation 244"
 date: 2022-12-02
 permalink: '/quotations/karma-vs-words'
 tags: [WIA Quotations] 

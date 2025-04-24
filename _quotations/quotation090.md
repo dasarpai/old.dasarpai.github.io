@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9090
-title: 'Quotation 090'
+title: "Natural Mind vs Cultured Mind - Quotation 090"
 date: 2022-01-28
 permalink: '/quotations/natural-mind-vs-cultured-mind'
 tags: [WIA Quotations] 

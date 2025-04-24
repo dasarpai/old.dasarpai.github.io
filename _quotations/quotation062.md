@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9062
-title: 'Quotation 062'
+title: "Saakshi of Mind - Quotation 062"
 date: 2021-12-03
 permalink: '/quotations/saakshi-of-mind'
 tags: [WIA Quotations] 

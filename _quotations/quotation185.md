@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9185
-title: 'Quotation 185'
+title: "House, Museum, or Tomb - Quotation 185"
 date: 2022-08-06
 permalink: '/quotations/house-museum-or-tomb'
 tags: [WIA Quotations] 

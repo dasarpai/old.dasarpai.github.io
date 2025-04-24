@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9180
-title: 'Quotation 180'
+title: "Cause of Pain and Suffering - Quotation 180"
 date: 2022-07-27
 permalink: '/quotations/cause-of-pain-and-suffering'
 tags: [WIA Quotations] 

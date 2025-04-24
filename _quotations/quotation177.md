@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9177
-title: 'Quotation 177'
+title: "Love for Mathematics and Physics - Quotation 177"
 date: 2022-07-21
 permalink: '/quotations/love-for-mathematics-and-physics'
 tags: [WIA Quotations] 

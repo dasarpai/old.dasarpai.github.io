@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9214
-title: 'Quotation 214'
+title: "Going Beyond Mind - Quotation 214"
 date: 2022-10-03
 permalink: '/quotations/going-beyond-mind'
 tags: [WIA Quotations] 

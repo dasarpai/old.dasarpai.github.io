@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9105
-title: 'Quotation 105'
+title: "Education and Suffering - Quotation 105"
 date: 2022-02-27
 permalink: '/quotations/education-and-suffering'
 tags: [WIA Quotations] 

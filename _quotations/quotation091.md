@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9091
-title: 'Quotation 091'
+title: "Reflective Mind - Quotation 091"
 date: 2022-01-30
 permalink: '/quotations/reflective-mind'
 tags: [WIA Quotations] 

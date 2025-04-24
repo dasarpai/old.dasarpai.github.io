@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9210
-title: 'Quotation 210'
+title: "Who is Watching Dream? - Quotation 210"
 date: 2022-09-25
 permalink: '/quotations/who-is-watching-dream'
 tags: [WIA Quotations] 

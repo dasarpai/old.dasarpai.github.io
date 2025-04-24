@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9032
-title: 'Quotation 032'
+title: "Source of Words and Objects - Quotation 032"
 date: 2021-10-04
 permalink: '/quotations/source-of-words-and-objects'
 tags: [WIA Quotations] 

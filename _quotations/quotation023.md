@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9023
-title: 'Quotation 023'
+title: "Happiness through Love - Quotation 023"
 date: 2021-09-16
 permalink: '/quotations/happiness-through-love'
 tags: [WIA Quotations] 

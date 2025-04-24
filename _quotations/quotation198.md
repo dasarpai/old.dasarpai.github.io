@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9198
-title: 'Quotation 198'
+title: "Silence for the Self - Quotation 198"
 date: 2022-09-01
 permalink: '/quotations/silence-for-the-self'
 tags: [WIA Quotations] 

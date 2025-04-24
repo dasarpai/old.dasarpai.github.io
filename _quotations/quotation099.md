@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9099
-title: 'Quotation 099'
+title: "Sensitive Heart - Quotation 099"
 date: 2022-02-15
 permalink: '/quotations/sensitive-heart'
 tags: [WIA Quotations] 

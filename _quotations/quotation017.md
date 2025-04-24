@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9017
-title: 'Quotation 017'
+title: "Worship - Quotation 017"
 date: 2021-09-04
 permalink: '/quotations/worship'
 tags: [WIA Quotations] 

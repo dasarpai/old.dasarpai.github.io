@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9220
-title: 'Quotation 220'
+title: "Life, Death and Living - Quotation 220"
 date: 2022-10-15
 permalink: '/quotations/life-death-and-living'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9034
-title: 'Quotation 034'
+title: "Our Mind - Quotation 034"
 date: 2021-10-08
 permalink: '/quotations/our-mind'
 tags: [WIA Quotations] 

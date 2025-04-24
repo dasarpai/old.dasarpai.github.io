@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9150
-title: 'Quotation 150'
+title: "Meaning of Responsibility - Quotation 150"
 date: 2022-05-28
 permalink: '/quotations/meaning-of-responsibility'
 tags: [WIA Quotations] 

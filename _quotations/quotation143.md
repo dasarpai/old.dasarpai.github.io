@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9143
-title: 'Quotation 143'
+title: "Reality vs Our Experience - Quotation 143"
 date: 2022-05-14
 permalink: '/quotations/reality-vs-our-experience'
 tags: [WIA Quotations] 

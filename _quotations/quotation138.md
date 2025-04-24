@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9138
-title: 'Quotation 138'
+title: "Genuine Seekers are Rare Breed - Quotation 138"
 date: 2022-05-04
 permalink: '/quotations/genuine-seekers-are-rare-breed'
 tags: [WIA Quotations] 

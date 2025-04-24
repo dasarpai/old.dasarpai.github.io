@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9006
-title: 'Quotation 006'
+title: "Immortality beyond Graveyard - Quotation 006"
 date: 2021-08-13
 permalink: '/quotations/immortality-beyond-graveyard'
 tags: [WIA Quotations] 

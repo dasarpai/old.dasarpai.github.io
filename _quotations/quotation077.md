@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9077
-title: 'Quotation 077'
+title: "Objectification of Subject - Quotation 077"
 date: 2022-01-02
 permalink: '/quotations/objectification-of-subject'
 tags: [WIA Quotations] 

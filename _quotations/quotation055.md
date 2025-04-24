@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9055
-title: 'Quotation 055'
+title: "Real Face - Quotation 055"
 date: 2021-11-19
 permalink: '/quotations/real-face'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9243
-title: 'Quotation 243'
+title: "Morality to Control People - Quotation 243"
 date: 2022-11-30
 permalink: '/quotations/morality-to-control-people'
 tags: [WIA Quotations] 

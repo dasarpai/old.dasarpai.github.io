@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9144
-title: 'Quotation 144'
+title: "What you think Good is your Good - Quotation 144"
 date: 2022-05-16
 permalink: '/quotations/what-you-think-good-is-your-good'
 tags: [WIA Quotations] 

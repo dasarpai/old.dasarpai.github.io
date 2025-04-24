@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9152
-title: 'Quotation 152'
+title: "Ability to Question Makes us Human - Quotation 152"
 date: 2022-06-01
 permalink: '/quotations/ability-to-question-makes-us-human'
 tags: [WIA Quotations] 

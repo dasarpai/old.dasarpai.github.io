@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9061
-title: 'Quotation 061'
+title: "Purpose of the History - Quotation 061"
 date: 2021-12-01
 permalink: '/quotations/purpose-of-the-history'
 tags: [WIA Quotations] 

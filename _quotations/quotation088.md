@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9088
-title: 'Quotation 088'
+title: "Hard work vs Donkey Work - Quotation 088"
 date: 2022-01-24
 permalink: '/quotations/hard-work-vs-donkey-work'
 tags: [WIA Quotations] 

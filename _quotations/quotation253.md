@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9253
-title: 'Quotation 253'
+title: "Happy New Year 2023 - Quotation 253"
 date: 2023-01-01
 permalink: '/quotations/happy-new-year-2023'
 tags: [WIA Quotations] 

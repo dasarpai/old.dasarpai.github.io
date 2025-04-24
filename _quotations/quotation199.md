@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9199
-title: 'Quotation 199'
+title: "Arresting Time - Quotation 199"
 date: 2022-09-03
 permalink: '/quotations/arresting-time'
 tags: [WIA Quotations] 

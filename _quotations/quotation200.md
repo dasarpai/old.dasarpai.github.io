@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9200
-title: 'Quotation 200'
+title: "Riverbank and Rever - Quotation 200"
 date: 2022-09-05
 permalink: '/quotations/riverbank-and-rever'
 tags: [WIA Quotations] 

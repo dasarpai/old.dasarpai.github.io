@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9057
-title: 'Quotation 057'
+title: "Understanding, Interpreting, and Solutioning - Quotation 057"
 date: 2021-11-23
 permalink: '/quotations/understanding-interpreting-and-solutioning'
 tags: [WIA Quotations] 

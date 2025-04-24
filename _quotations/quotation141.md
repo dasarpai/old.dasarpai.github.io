@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9141
-title: 'Quotation 141'
+title: "Actions to Freedom - Quotation 141"
 date: 2022-05-10
 permalink: '/quotations/actions-to-freedom'
 tags: [WIA Quotations] 

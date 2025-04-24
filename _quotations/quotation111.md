@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9111
-title: 'Quotation 111'
+title: "Generalization - Quotation 111"
 date: 2022-03-11
 permalink: '/quotations/generalization'
 tags: [WIA Quotations] 

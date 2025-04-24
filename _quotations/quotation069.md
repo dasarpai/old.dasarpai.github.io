@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9069
-title: 'Quotation 069'
+title: "Worldly Joy - Quotation 069"
 date: 2021-12-17
 permalink: '/quotations/worldly-joy'
 tags: [WIA Quotations] 

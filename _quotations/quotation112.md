@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9112
-title: 'Quotation 112'
+title: "Crazy Human Mind - Quotation 112"
 date: 2022-03-13
 permalink: '/quotations/crazy-human-mind'
 tags: [WIA Quotations] 

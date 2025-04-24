@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9267
-title: 'Quotation 267'
+title: "he Process of Learning and Evoluation - Quotation 267"
 date: 2024-12-23
 permalink: '/quotations/The-Process-of-Learning-and-Evoluation'
 tags: [WIA Quotations] 

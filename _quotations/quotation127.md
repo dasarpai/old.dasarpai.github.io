@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9127
-title: 'Quotation 127'
+title: "Experience of True Self - Quotation 127"
 date: 2022-04-12
 permalink: '/quotations/experience-of-true-self'
 tags: [WIA Quotations] 

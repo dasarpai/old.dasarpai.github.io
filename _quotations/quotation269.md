@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9269
-title: 'Quotation 269'
+title: "When Silence is Good? - Quotation 269"
 date: 2024-12-25
 permalink: '/quotations/When-Silence-is-Good'
 tags: [WIA Quotations] 

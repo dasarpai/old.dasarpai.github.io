@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9121
-title: 'Quotation 121'
+title: "Watching your Mind - Quotation 121"
 date: 2022-03-31
 permalink: '/quotations/watching-your-mind'
 tags: [WIA Quotations] 

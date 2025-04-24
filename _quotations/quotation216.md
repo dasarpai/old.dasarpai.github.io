@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9216
-title: 'Quotation 216'
+title: "Nature of the Existence - Quotation 216"
 date: 2022-10-07
 permalink: '/quotations/nature-of-the-existence'
 tags: [WIA Quotations] 

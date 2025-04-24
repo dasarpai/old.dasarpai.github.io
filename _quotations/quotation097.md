@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9097
-title: 'Quotation 097'
+title: "Symmetry for Survival - Quotation 097"
 date: 2022-02-11
 permalink: '/quotations/symmetry-for-survival'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9221
-title: 'Quotation 221'
+title: "Conclusion about God - Quotation 221"
 date: 2022-10-17
 permalink: '/quotations/conclusion-about-god'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9028
-title: 'Quotation 028'
+title: "Six Topics to Think - Quotation 028"
 date: 2021-09-26
 permalink: '/quotations/six-topics-to-think'
 tags: [WIA Quotations] 

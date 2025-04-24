@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9035
-title: 'Quotation 035'
+title: "Travel and Direction of Travel - Quotation 035"
 date: 2021-10-10
 permalink: '/quotations/travel-and-direction-of-travel'
 tags: [WIA Quotations] 

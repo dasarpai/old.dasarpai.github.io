@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9074
-title: 'Quotation 074'
+title: "AI and Human Jobs - Quotation 074"
 date: 2021-12-27
 permalink: '/quotations/ai-and-human-jobs'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9237
-title: 'Quotation 237'
+title: "Busy life and freedom - Quotation 237"
 date: 2022-11-18
 permalink: '/quotations/busy-life-and-freedom'
 tags: [WIA Quotations] 

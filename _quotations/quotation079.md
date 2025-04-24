@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9079
-title: 'Quotation 079'
+title: "Awareness - Quotation 079"
 date: 2022-01-06
 permalink: '/quotations/awareness'
 tags: [WIA Quotations] 

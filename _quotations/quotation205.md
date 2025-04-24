@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9205
-title: 'Quotation 205'
+title: "Busy Even in Dream - Quotation 205"
 date: 2022-09-15
 permalink: '/quotations/busy-even-in-dream'
 tags: [WIA Quotations] 

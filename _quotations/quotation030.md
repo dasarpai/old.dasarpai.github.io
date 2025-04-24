@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9030
-title: 'Quotation 030'
+title: "Life in Living Being - Quotation 030"
 date: 2021-09-30
 permalink: '/quotations/life-in-living-being'
 tags: [WIA Quotations] 

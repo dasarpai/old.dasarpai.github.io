@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9082
-title: 'Quotation 082'
+title: "World is Perfect - Quotation 082"
 date: 2022-01-12
 permalink: '/quotations/world-is-perfect'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9073
-title: 'Quotation 073'
+title: "Limitation of Grammar - Quotation 073"
 date: 2021-12-25
 permalink: '/quotations/limitation-of-grammar'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9231
-title: 'Quotation 231'
+title: "Free Will 2 - Quotation 231"
 date: 2022-11-06
 permalink: '/quotations/free-will-2'
 tags: [WIA Quotations] 

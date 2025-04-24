@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9235
-title: 'Quotation 235'
+title: "Food Taste vs Food Wisdom - Quotation 235"
 date: 2022-11-14
 permalink: '/quotations/food-taste-vs-food-wisdom'
 tags: [WIA Quotations] 

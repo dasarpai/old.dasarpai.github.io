@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9236
-title: 'Quotation 236'
+title: "Identity Creation - Quotation 236"
 date: 2022-11-16
 permalink: '/quotations/identity-creation'
 tags: [WIA Quotations] 

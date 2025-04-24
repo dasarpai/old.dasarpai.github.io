@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9140
-title: 'Quotation 140'
+title: "Should I Pray for Atheist - Quotation 140"
 date: 2022-05-08
 permalink: '/quotations/should-i-pray-for-atheist'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9261
-title: 'Quotation 261'
+title: "Detachment and Attachment - Quotation 261"
 date: 2024-10-24
 permalink: '/quotations/Detachment-and-Attachment'
 tags: [WIA Quotations] 

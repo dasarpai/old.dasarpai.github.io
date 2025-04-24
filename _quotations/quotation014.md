@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9014
-title: 'Quotation 014'
+title: "Rationality - Quotation 014"
 date: 2021-08-29
 permalink: '/quotations/rationality'
 tags: [WIA Quotations] 

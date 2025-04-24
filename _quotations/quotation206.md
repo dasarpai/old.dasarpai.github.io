@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9206
-title: 'Quotation 206'
+title: "Useful Madness - Quotation 206"
 date: 2022-09-17
 permalink: '/quotations/useful-madness'
 tags: [WIA Quotations] 

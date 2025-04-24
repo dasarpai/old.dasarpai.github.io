@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9262
-title: 'Quotation 262'
+title: "Your Chemistry your Choice - Quotation 262"
 date: 2024-10-24
 permalink: '/quotations/Your-Chemistry-your-Choice!'
 tags: [WIA Quotations] 

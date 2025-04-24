@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9178
-title: 'Quotation 178'
+title: "Test to know the Self - Quotation 178"
 date: 2022-07-23
 permalink: '/quotations/test-to-know-the-self'
 tags: [WIA Quotations] 

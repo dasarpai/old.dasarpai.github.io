@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9065
-title: 'Quotation 065'
+title: "Types of Vedanta - Quotation 065"
 date: 2021-12-09
 permalink: '/quotations/types-of-vedanta'
 tags: [WIA Quotations] 

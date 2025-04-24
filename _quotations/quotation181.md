@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9181
-title: 'Quotation 181'
+title: "Method of Greetings in India - Quotation 181"
 date: 2022-07-29
 permalink: '/quotations/method-of-greetings-in-india'
 tags: [WIA Quotations] 

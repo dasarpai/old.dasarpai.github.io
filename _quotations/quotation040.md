@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9040
-title: 'Quotation 040'
+title: "Listener, Message, and Messenger - Quotation 040"
 date: 2021-10-20
 permalink: '/quotations/listener-message-and-messenger'
 tags: [WIA Quotations] 

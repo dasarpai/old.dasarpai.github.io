@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9164
-title: 'Quotation 164'
+title: "Ideal Life to Live - Quotation 164"
 date: 2022-06-25
 permalink: '/quotations/ideal-life-to-live'
 tags: [WIA Quotations] 

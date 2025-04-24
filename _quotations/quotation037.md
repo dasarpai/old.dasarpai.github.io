@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9037
-title: 'Quotation 037'
+title: "Suffering, Pain, and Happiness - Quotation 037"
 date: 2021-10-14
 permalink: '/quotations/suffering-pain-and-happiness'
 tags: [WIA Quotations] 

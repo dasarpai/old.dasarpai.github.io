@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9081
-title: 'Quotation 081'
+title: "What is Nididhyasana? - Quotation 081"
 date: 2022-01-10
 permalink: '/quotations/what-is-nididhyasana'
 tags: [WIA Quotations] 

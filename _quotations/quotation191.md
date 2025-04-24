@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9191
-title: 'Quotation 191'
+title: "Moksha - Quotation 191"
 date: 2022-08-18
 permalink: '/quotations/moksha'
 tags: [WIA Quotations] 

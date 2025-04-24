@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9156
-title: 'Quotation 156'
+title: "Develop A Mind to Dwell on the Self - Quotation 156"
 date: 2022-06-09
 permalink: '/quotations/develop-a-mind-to-dwell-on-the-self'
 tags: [WIA Quotations] 

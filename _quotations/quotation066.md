@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9066
-title: 'Quotation 066'
+title: "Knowledge Base in Sanskrit - Quotation 066"
 date: 2021-12-11
 permalink: '/quotations/knowledge-base-in-sanskrit'
 tags: [WIA Quotations] 

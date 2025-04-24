@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9218
-title: 'Quotation 218'
+title: "Breath and Birth - Quotation 218"
 date: 2022-10-11
 permalink: '/quotations/breath-and-birth'
 tags: [WIA Quotations] 

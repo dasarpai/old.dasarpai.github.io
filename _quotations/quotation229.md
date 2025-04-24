@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9229
-title: 'Quotation 229'
+title: "Working with Heart and Head - Quotation 229"
 date: 2022-11-02
 permalink: '/quotations/working-with-heart-and-head'
 tags: [WIA Quotations] 

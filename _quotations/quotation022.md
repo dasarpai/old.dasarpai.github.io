@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9022
-title: 'Quotation 022'
+title: "Creating Wonderful Human - Quotation 022"
 date: 2021-09-14
 permalink: '/quotations/creating-wonderful-human'
 tags: [WIA Quotations] 

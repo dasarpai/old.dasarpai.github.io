@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9157
-title: 'Quotation 157'
+title: "Travel into Chidaakasha - Quotation 157"
 date: 2022-06-11
 permalink: '/quotations/travel-into-chidaakasha'
 tags: [WIA Quotations] 

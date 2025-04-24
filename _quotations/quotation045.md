@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9045
-title: 'Quotation 045'
+title: "Part of the Problem - Quotation 045"
 date: 2021-10-30
 permalink: '/quotations/part-of-the-problem'
 tags: [WIA Quotations] 

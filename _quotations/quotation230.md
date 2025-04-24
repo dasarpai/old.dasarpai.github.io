@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9230
-title: 'Quotation 230'
+title: "The will of the universe - Quotation 230"
 date: 2022-11-04
 permalink: '/quotations/the-will-of-the-universe'
 tags: [WIA Quotations] 

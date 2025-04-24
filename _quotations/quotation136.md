@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9136
-title: 'Quotation 136'
+title: "Educated People in Politics - Quotation 136"
 date: 2022-04-30
 permalink: '/quotations/educated-people-in-politics'
 tags: [WIA Quotations] 

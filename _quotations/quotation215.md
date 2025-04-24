@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9215
-title: 'Quotation 215'
+title: "Man vs Machine - Quotation 215"
 date: 2022-10-05
 permalink: '/quotations/man-vs-machine'
 tags: [WIA Quotations] 

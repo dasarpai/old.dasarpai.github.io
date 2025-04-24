@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9101
-title: 'Quotation 101'
+title: "Attachment vs Love - Quotation 101"
 date: 2022-02-19
 permalink: '/quotations/attachment-vs-love'
 tags: [WIA Quotations] 

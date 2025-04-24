@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9039
-title: 'Quotation 039'
+title: "Circular Life - Quotation 039"
 date: 2021-10-18
 permalink: '/quotations/circular-life'
 tags: [WIA Quotations] 

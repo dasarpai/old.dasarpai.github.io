@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9015
-title: 'Quotation 015'
+title: "What is an Accident - Quotation 015"
 date: 2021-08-31
 permalink: '/quotations/what-is-an-accident'
 tags: [WIA Quotations] 

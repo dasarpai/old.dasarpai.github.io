@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9021
-title: 'Quotation 021'
+title: "Spiritual Gurus vs ML Engineer - Quotation 021"
 date: 2021-09-12
 permalink: '/quotations/spiritual-gurus-vs-ml-engineer'
 tags: [WIA Quotations] 

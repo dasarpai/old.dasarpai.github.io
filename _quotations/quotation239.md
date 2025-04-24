@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9239
-title: 'Quotation 239'
+title: "Saint or Politician - Quotation 239"
 date: 2022-11-22
 permalink: '/quotations/saint-or-politician'
 tags: [WIA Quotations] 

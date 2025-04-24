@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9100
-title: 'Quotation 100'
+title: "Arrogance - Quotation 100"
 date: 2022-02-17
 permalink: '/quotations/arrogance'
 tags: [WIA Quotations] 

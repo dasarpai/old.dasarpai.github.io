@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9113
-title: 'Quotation 113'
+title: "Career Temptations vs Actual Passion - Quotation 113"
 date: 2022-03-15
 permalink: '/quotations/career-temptations-vs-actual-passion'
 tags: [WIA Quotations] 

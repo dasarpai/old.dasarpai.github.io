@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9166
-title: 'Quotation 166'
+title: "Data Augmentation in Machine Learning - Quotation 166"
 date: 2022-06-29
 permalink: '/quotations/data-augmentation-in-machine-learning'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9134
-title: 'Quotation 134'
+title: "Coaching Method - Quotation 134"
 date: 2022-04-26
 permalink: '/quotations/coaching-method'
 tags: [WIA Quotations] 

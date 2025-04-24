@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9172
-title: 'Quotation 172'
+title: "Fala - Quotation 172"
 date: 2022-07-11
 permalink: '/quotations/fala'
 tags: [WIA Quotations] 

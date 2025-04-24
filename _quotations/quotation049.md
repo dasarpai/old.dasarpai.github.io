@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9049
-title: 'Quotation 049'
+title: "Bondage is our creation - Quotation 049"
 date: 2021-11-07
 permalink: '/quotations/bondage-is-our-creation'
 tags: [WIA Quotations] 

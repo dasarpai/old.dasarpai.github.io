@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9195
-title: 'Quotation 195'
+title: "Knowing vs Realizing - Quotation 195"
 date: 2022-08-26
 permalink: '/quotations/knowing-vs-realizing'
 tags: [WIA Quotations] 

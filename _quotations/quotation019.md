@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9019
-title: 'Quotation 019'
+title: "Accept Life in Totality - Quotation 019"
 date: 2021-09-08
 permalink: '/quotations/accept-life-in-totality'
 tags: [WIA Quotations] 

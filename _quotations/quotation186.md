@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9186
-title: 'Quotation 186'
+title: "Living in Fear - Quotation 186"
 date: 2022-08-08
 permalink: '/quotations/living-in-fear'
 tags: [WIA Quotations] 

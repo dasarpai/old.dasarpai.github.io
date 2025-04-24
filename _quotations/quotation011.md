@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9011
-title: 'Quotation 011'
+title: "Touching Fee - Quotation 011"
 date: 2021-08-23
 permalink: '/quotations/touching-fee'
 tags: [WIA Quotations] 

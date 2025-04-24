@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9044
-title: 'Quotation 044'
+title: "Purpose of Education - Quotation 044"
 date: 2021-10-28
 permalink: '/quotations/purpose-of-education'
 tags: [WIA Quotations] 

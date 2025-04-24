@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9232
-title: 'Quotation 232'
+title: "The Purpose of the Human Body - Quotation 232"
 date: 2022-11-08
 permalink: '/quotations/the-purpose-of-the-human-body'
 tags: [WIA Quotations] 

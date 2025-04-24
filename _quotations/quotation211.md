@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9211
-title: 'Quotation 211'
+title: "You are not a Body - Quotation 211"
 date: 2022-09-27
 permalink: '/quotations/you-are-not-a-body'
 tags: [WIA Quotations] 

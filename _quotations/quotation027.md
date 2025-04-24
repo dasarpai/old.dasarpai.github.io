@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9027
-title: 'Quotation 027'
+title: "Morality vs Humanity - Quotation 027"
 date: 2021-09-24
 permalink: '/quotations/morality-vs-humanity'
 tags: [WIA Quotations] 

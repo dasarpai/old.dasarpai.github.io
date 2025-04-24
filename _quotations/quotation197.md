@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9197
-title: 'Quotation 197'
+title: "Same Experience is not Possible - Quotation 197"
 date: 2022-08-30
 permalink: '/quotations/same-experience-is-not-possible'
 tags: [WIA Quotations] 

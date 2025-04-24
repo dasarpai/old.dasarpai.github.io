@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9188
-title: 'Quotation 188'
+title: "Leadership - Quotation 188"
 date: 2022-08-12
 permalink: '/quotations/leadership'
 tags: [WIA Quotations] 

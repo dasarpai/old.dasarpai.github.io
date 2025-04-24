@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9272
-title: 'Quotation 272'
+title: "Bhagwat Gita 4-17 - Quotation 272"
 date: 2024-12-31
 permalink: '/quotations/gahana-karmano-gati'
 tags: [WIA Quotations] 
@@ -16,4 +16,4 @@ share: true
 
 # Gahana Karmano Gati
 
-![Tree and Human](/assets/images/quotations/quotation272.jpg)
+![Bhagwat Gita 4-17](/assets/images/quotations/quotation272.jpg)

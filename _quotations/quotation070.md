@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9070
-title: 'Quotation 070'
+title: "Three things to happen - Quotation 070"
 date: 2021-12-19
 permalink: '/quotations/three-things-to-happen'
 tags: [WIA Quotations] 

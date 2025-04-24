@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9117
-title: 'Quotation 117'
+title: "Wise Spider or Human - Quotation 117"
 date: 2022-03-23
 permalink: '/quotations/wise-spider-or-human'
 tags: [WIA Quotations] 

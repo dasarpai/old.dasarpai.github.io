@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9137
-title: 'Quotation 137'
+title: "Religions of 21st Century - Quotation 137"
 date: 2022-05-02
 permalink: '/quotations/religions-of-21st-century'
 tags: [WIA Quotations] 

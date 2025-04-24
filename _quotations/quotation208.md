@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9208
-title: 'Quotation 208'
+title: "Speaking Eyes - Quotation 208"
 date: 2022-09-21
 permalink: '/quotations/speaking-eyes'
 tags: [WIA Quotations] 

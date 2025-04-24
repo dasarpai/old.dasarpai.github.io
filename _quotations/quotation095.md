@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9095
-title: 'Quotation 095'
+title: "Vijay Dashmi 2021 - Quotation 095"
 date: 2022-02-07
 permalink: '/quotations/vijay-dashmi-2021'
 tags: [WIA Quotations] 

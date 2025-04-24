@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9146
-title: 'Quotation 146'
+title: "Negative or Positive Energy - Quotation 146"
 date: 2022-05-20
 permalink: '/quotations/negative-or-positive-energy'
 tags: [WIA Quotations] 

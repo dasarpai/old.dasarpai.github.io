@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9275
-title: 'Quotation 275'
+title: "Why Do We Assume? - Quotation 275"
 date: 2025-03-17
 permalink: '/quotations/why-do-we-assume'
 tags: [WIA Quotations] 

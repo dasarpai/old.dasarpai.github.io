@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9174
-title: 'Quotation 174'
+title: "Does Human Being Have Free Will? - Quotation 174"
 date: 2022-07-15
 permalink: '/quotations/does-human-being-have-free-will'
 tags: [WIA Quotations] 

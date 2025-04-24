@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9227
-title: 'Quotation 227'
+title: "Human Suffering - Quotation 227"
 date: 2022-10-29
 permalink: '/quotations/human-suffering'
 tags: [WIA Quotations] 

@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9002
-title: 'Quotation 002'
+title: "Pursuing Realty in Dream - Quotation 002"
 date: 2021-08-05
 permalink: '/quotations/pursuing-realty-in-dream'
 tags: [WIA Quotations] 

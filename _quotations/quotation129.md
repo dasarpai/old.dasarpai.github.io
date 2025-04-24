@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9129
-title: 'Quotation 129'
+title: "Context Based Learning - Quotation 129"
 date: 2022-04-16
 permalink: '/quotations/context-based-learning'
 tags: [WIA Quotations] 

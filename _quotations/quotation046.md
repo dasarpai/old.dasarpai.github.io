@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 9046
-title: 'Quotation 046'
+title: "Opposites Attracts - Quotation 046"
 date: 2021-11-01
 permalink: '/quotations/opposites-attracts'
 tags: [WIA Quotations] 
