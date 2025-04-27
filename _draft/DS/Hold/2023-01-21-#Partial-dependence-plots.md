@@ -1,21 +1,5 @@
 ---
 mathjax: true
-id: 6116
-mathjax: true
-id: 6127
-mathjax: true
-id: 6127
-mathjax: true
-id: 6127
-mathjax: true
-id: 6127
-mathjax: true
-id: 6127
-mathjax: true
-id: 6127
-mathjax: true
-id: 6127
-mathjax: true
 id: 6127
 title: #Partial dependence plots
 date: 2023-01-17

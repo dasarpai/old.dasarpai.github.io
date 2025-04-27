@@ -1,22 +1,6 @@
 ---
 mathjax: true
 id: 6116
-mathjax: true
-id: 6120
-mathjax: true
-id: 6120
-mathjax: true
-id: 6120
-mathjax: true
-id: 6120
-mathjax: true
-id: 6120
-mathjax: true
-id: 6120
-mathjax: true
-id: 6120
-mathjax: true
-id: 6120
 title: #Machine Learning in Nutshell
 date: '2022-11-07T15:50:00+05:30'
 permalink: /dsblog/#Machine-Learning-in-Nutshell

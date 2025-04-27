@@ -1,22 +1,6 @@
 ---
 mathjax: true
 id: 6116
-mathjax: true
-id: 6126
-mathjax: true
-id: 6126
-mathjax: true
-id: 6126
-mathjax: true
-id: 6126
-mathjax: true
-id: 6126
-mathjax: true
-id: 6126
-mathjax: true
-id: 6126
-mathjax: true
-id: 6126
 title: #Introduction to Neural Network
 date: 2023-01-17
 permalink: /dsblog/#Introduction-to-Neural-Network

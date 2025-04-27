@@ -6,12 +6,16 @@ It is developed at Astral, they build high-performance developer tools for the P
 uv represents a milestone in our pursuit of a "Cargo for Python": a comprehensive Python project and package manager that's fast, reliable, and easy to use.
 
 
-## Reatures of UV 
+## Features of UV 
 An obsessive focus on performance. In the above benchmarks, uv is 8-10x faster than pip and pip-tools without caching, and 80-115x faster when running with a warm cache (e.g., recreating a virtual environment or updating a dependency). uv uses a global module cache to avoid re-downloading and re-building dependencies, and leverages Copy-on-Write and hardlinks on supported filesystems to minimize disk space usage.
+
 Optimized for adoption. While we have big aspirations for the future of Python packaging, uv's initial release is centered on supporting the pip and pip-tools APIs behind our uv pip interface, making it usable by existing projects with zero configuration. Similarly, uv can be used as "just" a resolver (uv pip compile to lock your dependencies), "just" a virtual environment creator (uv venv), "just" a package installer (uv pip sync), and so on. It's both unified and modular.
+
 A simplified toolchain. uv ships as a single static binary capable of replacing pip, pip-tools, and virtualenv. uv has no direct Python dependency, so you can install it separately from Python itself, avoiding the need to manage pip installations across multiple Python versions (e.g., pip vs. pip3 vs. pip3.7).
 
 ## Commands 
+
+```
 uv init --app 
 uv init --lib 
 uv init project_name 
@@ -34,7 +38,7 @@ un tool uninstall ruff
 uv tool upgrade ruff 
 un python install 3.12.0 
 uv python install '>3.9,<3.11'
-
+```
 
 oct 2023, puffin as package manager 
 

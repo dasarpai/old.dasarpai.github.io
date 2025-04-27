@@ -1,22 +1,6 @@
 ---
 mathjax: true
 id: 6116
-mathjax: true
-id: 6121
-mathjax: true
-id: 6121
-mathjax: true
-id: 6121
-mathjax: true
-id: 6121
-mathjax: true
-id: 6121
-mathjax: true
-id: 6121
-mathjax: true
-id: 6121
-mathjax: true
-id: 6121
 title: #Natural Language Processing
 date: 2021-08-03
 permalink: /dsblog/#Natural-Language-Processing

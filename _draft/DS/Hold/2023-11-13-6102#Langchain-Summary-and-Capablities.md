@@ -1,21 +1,5 @@
 ---
 mathjax: true
-id: 6116
-mathjax: true
-id: 6132
-mathjax: true
-id: 6132
-mathjax: true
-id: 6132
-mathjax: true
-id: 6132
-mathjax: true
-id: 6132
-mathjax: true
-id: 6132
-mathjax: true
-id: 6132
-mathjax: true
 id: 6132
 title: 6102#Langchain Summary and Capablities
 date: 2023-11-11

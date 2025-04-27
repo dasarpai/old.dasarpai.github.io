@@ -1,22 +1,6 @@
 --- 
 mathjax: true
 id: 6116
-mathjax: true
-id: 6118
-mathjax: true
-id: 6118
-mathjax: true
-id: 6118
-mathjax: true
-id: 6118
-mathjax: true
-id: 6118
-mathjax: true
-id: 6118
-mathjax: true
-id: 6118
-mathjax: true
-id: 6118
 title: #ChatGPT Business Ideas
 date: '2023-01-06T15:50:00+05:30'   
 permalink: /dsblog/#ChatGPT-Business-Ideas

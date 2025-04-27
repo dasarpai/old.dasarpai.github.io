@@ -1,22 +1,6 @@
 --- 
 mathjax: true
 id: 6116
-mathjax: true
-id: 6122
-mathjax: true
-id: 6122
-mathjax: true
-id: 6122
-mathjax: true
-id: 6122
-mathjax: true
-id: 6122
-mathjax: true
-id: 6122
-mathjax: true
-id: 6122
-mathjax: true
-id: 6122
 title: #Vectors and Matrix
 date: '2022-12-29T15:50:00+05:30'   
 permalink: /dsblog/#Vectors-and-Matrix

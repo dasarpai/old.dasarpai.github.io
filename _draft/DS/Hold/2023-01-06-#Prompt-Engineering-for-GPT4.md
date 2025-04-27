@@ -1,21 +1,5 @@
 --- 
 mathjax: true
-id: 6116
-mathjax: true
-id: 6117
-mathjax: true
-id: 6117
-mathjax: true
-id: 6117
-mathjax: true
-id: 6117
-mathjax: true
-id: 6117
-mathjax: true
-id: 6117
-mathjax: true
-id: 6117
-mathjax: true
 id: 6117
 title: #Prompt Engineering for GPT4
 date: '2023-01-06T15:50:00+05:30'   

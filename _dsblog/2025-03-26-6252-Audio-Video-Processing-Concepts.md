@@ -40,10 +40,9 @@ keywords:
 
 # Foundational Concepts of Audio and Video Processing
 
-Whether you are multimedia professional of deep learning Engineering, if you are dealing with audio and video processing, you will need to understand the core concepts of audio and video processing. My this guide is focussed on some of the key concepts.
+Whether you are multimedia professional or deep learning Engineer, if you are dealing with audio and video processing, you will need to understand the core concepts of audio and video processing. My this guide is focussed on some of the key concepts of Audio Video processing.
 
-A digital microphone is a device that captures sound (air pressure variations) and converts it into digital signals.
-Internally, it contains an analog-to-digital converter (ADC) that performs the conversion from analog audio to digital audio.
+A digital microphone is a device that captures sound (air pressure variations) and converts it into digital signals. Internally, it contains an analog-to-digital converter (ADC) that performs the conversion from analog audio to digital audio.
 
 A digital camera captures light (optical signals) through an image sensor (like CMOS or CCD), which generates analog electrical signals. These signals are then passed through an ADC to be converted into digital image data.
 
@@ -51,13 +50,13 @@ A digital camera captures light (optical signals) through an image sensor (like 
 An **image** is a grid of **pixels**, where each pixel represents the color and intensity of a small part of the image.  
 - A **black-and-white (grayscale)** image typically has **one channel (layer)**, where each pixel value ranges from **0 (black)** to **255 (white)**.
 - A **color image** usually uses **three channels (RGB)**  
-- **Red**, **Green**, and **Blue** — each with a value between **0 and 255**, requiring **3 bytes per pixel**.
- If the image supports **transparency**, it includes a **fourth channel** called **Alpha**, which represents opacity — also from **0 (fully transparent)** to **255 (fully opaque)**.
+- **Red**, **Green**, and **Blue** — each with a value between **0 and 255**, requiring **3 bytes per pixel, visible on the screen**.
+ If the image supports **transparency**, it includes a **fourth channel** called **Alpha**, which represents opacity — it's value varies from **0 (fully transparent)** to **255 (fully opaque)**.
 - A pixel in an **RGBA image** takes **4 bytes** (1 byte per channel).
-- A 1024×1024 RGB image has 2²⁰ pixels, and since each pixel uses 3 bytes, the total uncompressed size is 3 × 2²⁰ = 3,145,728 bytes (~3 MB). It this png file then it will take 4 MB space, it it is grayscale image then it will take only 1 MB space.
+- A 1024×1024 RGB image has 2²⁰ pixels, and since each pixel uses 3 bytes, the total uncompressed size is 3 × 2²⁰ = 3,145,728 bytes (~3 MB). If this is a png file (contains alpha channel) then it will take 4 MB space, if it is grayscale image then it will take only 1 MB space.
 
 ## Let's understand Sound and Air Pressure Signals.
-**Sound** is a continuous **analog signal** created by air pressure variations. In digital audio, this signal is captured and sampled at regular intervals.
+**Sound** is a continuous **analog signal** created by air pressure variations. But, in digital audio, this signal is captured and sampled at regular intervals.
 
 - A **sample** is one measurement of amplitude at a given point in time.
 - The number of samples per second is the **sample rate** (e.g., **44.1kHz** means 44,100 samples per second).
@@ -68,16 +67,11 @@ An **image** is a grid of **pixels**, where each pixel represents the color and 
 - Generally, a sample can be represented by one byte, but most modern audio uses **16-bit samples**, meaning **2 bytes per sample**.
 - Audio file size
     - If Sample rate: **44,100 samples/sec**
-    - and Sample size: **16-bit (2 bytes)**
+    - and Sample size: **16-bit (2 bytes)** (in Audacity software they refer this as format)
     - and Channels: **1 (mono)** (for all voice signals)
     - then file size per second = `44,100 samples * 2 bytes = 88,200 bytes ≈ 86.1 KB`
     - but for **stereo** (2 channels), it doubles:
     - `44,100 * 2 bytes * 2 channels = 176,400 bytes ≈ 172.3 KB`
-
-## What is movie?
-A movie is a series of images (called frames) played in rapid succession to create the illusion of motion.
-When a tool displays 24 images per second, the human eye perceives continuous movement — this is known as the frame rate (24 fps). Higher frame rates like 60 fps are often used for action sequences or sports, where smoother and more fluid motion is needed.
-
 
 ## 🎧 **Audio Processing Concepts**
 
@@ -108,7 +102,13 @@ When a tool displays 24 images per second, the human eye perceives continuous mo
 ### 7. **Noise Reduction, Equalization, Normalization**
 - Signal processing techniques for improving or adjusting audio.
 
----
+### 9. **Decibal (dB)**
+
+
+
+## What is movie?
+A movie is a series of images (called frames) played in rapid succession to create the illusion of motion.
+When a tool displays 24 images per second, the human eye perceives continuous movement — this is known as the frame rate (24 fps). Higher frame rates like 60 fps are often used for action sequences or sports, where smoother and more fluid motion is needed.
 
 ## 🎥 **Video Processing Concepts**
 

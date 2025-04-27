@@ -1,22 +1,6 @@
 replace nn, title, slug
 ---
 mathjax: true
-id: 6116
-mathjax: true
-id: 6129
-mathjax: true
-id: 6129
-mathjax: true
-id: 6129
-mathjax: true
-id: 6129
-mathjax: true
-id: 6129
-mathjax: true
-id: 6129
-mathjax: true
-id: 6129
-mathjax: true
 id: 6129
 title: #DeepLearing APIs
 date: 2023-01-28

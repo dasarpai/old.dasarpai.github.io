@@ -1,22 +1,6 @@
 ---
 mathjax: true
 id: 6116
-mathjax: true
-id: 6125
-mathjax: true
-id: 6125
-mathjax: true
-id: 6125
-mathjax: true
-id: 6125
-mathjax: true
-id: 6125
-mathjax: true
-id: 6125
-mathjax: true
-id: 6125
-mathjax: true
-id: 6125
 title: #POS Tagging and Parsing
 date: 2023-01-17
 permalink: /dsblog/#POS-Tagging-and-Parsing

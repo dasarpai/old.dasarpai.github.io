@@ -1,21 +1,5 @@
 ---
 mathjax: true
-id: 6116
-mathjax: true
-id: 6133
-mathjax: true
-id: 6133
-mathjax: true
-id: 6133
-mathjax: true
-id: 6133
-mathjax: true
-id: 6133
-mathjax: true
-id: 6133
-mathjax: true
-id: 6133
-mathjax: true
 id: 6133
 title: 6104#Applications of RAG
 date: 2023-11-11

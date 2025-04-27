@@ -1,21 +1,5 @@
 ---
 mathjax: true
-id: 6116
-mathjax: true
-id: 6128
-mathjax: true
-id: 6128
-mathjax: true
-id: 6128
-mathjax: true
-id: 6128
-mathjax: true
-id: 6128
-mathjax: true
-id: 6128
-mathjax: true
-id: 6128
-mathjax: true
 id: 6128
 title: #Deep Learning Questions
 date: 2023-01-28

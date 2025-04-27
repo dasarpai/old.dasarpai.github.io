@@ -1,22 +1,6 @@
 ---
 mathjax: true
 id: 6116
-mathjax: true
-id: 6123
-mathjax: true
-id: 6123
-mathjax: true
-id: 6123
-mathjax: true
-id: 6123
-mathjax: true
-id: 6123
-mathjax: true
-id: 6123
-mathjax: true
-id: 6123
-mathjax: true
-id: 6123
 title: #Principal Component Analysis
 date: '2022-11-07T15:50:00+05:30'
 permalink: /dsblog/#Principal-Component-Analysis
