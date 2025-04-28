@@ -1,7 +1,7 @@
 ---
 mathjax: true
 id: 6266
-title: Whisper: Robust Speech Recognition via Large-Scale Weak Supervision
+title: "Whisper: Robust Speech Recognition via Large-Scale Weak Supervision"
 date: 2025-04-25
 permalink: /dsblog/whisper-large-scale-weak-supervision-speech-recognition
 tags:
@@ -85,7 +85,7 @@ This paper introduces Whisper, a speech processing system trained on a massive d
 1.  **Novel Multitask Training Format:** A unique token-based format is used to specify different tasks and conditioning information as input to the decoder, enabling a single model to handle various speech processing functions.
 
     *   "We use a simple format to specify all tasks and conditioning information as a sequence of input tokens to the decoder."
-    *   This format includes special tokens like <|startoftranscript|>, language tokens (e.g., EN), task tokens (<|transcribe|>, <|translate|>), timestamp tokens, <|nospeech|>, and <|endoftranscript|>.
+    *   This format includes special tokens like ```<|startoftranscript|>,``` language tokens (e.g., EN), task tokens ```(<|transcribe|>, <|translate|>), timestamp tokens, <|nospeech|>```, and ```<|endoftranscript|>```.
 
 1.  **Performance Scaling with Model and Dataset Size:** The performance of Whisper models improves consistently with increasing model size across various tasks and languages (Figure 8). Increasing the dataset size also leads to improved performance (Table 6), although diminishing returns were observed when scaling from 54,000 hours to the full 680,000 hours, suggesting potential for further improvement with longer training or larger models.
 2.  **State-of-the-Art Results (Zero-Shot):** Whisper achieves competitive or state-of-the-art performance on various benchmarks in a zero-shot setting, including English speech recognition, multilingual speech recognition, and speech translation.
@@ -93,7 +93,7 @@ This paper introduces Whisper, a speech processing system trained on a massive d
     *   On English speech recognition benchmarks, zero-shot Whisper models often outperform supervised models when evaluated out-of-distribution (Table 2).
     *   Whisper achieves a "new state of the art of 29.1 BLEU zero-shot" on the X→en subset of CoVoST2 for speech translation.
 
-1.  **Comparison to Human Performance:** The study includes a comparison of Whisper's robustness to human performance, finding that the best zero-shot Whisper models approach human accuracy and robustness (Figure 2). This suggests that the robustness gap observed in prior models on out-of-distribution data can be closed with large-scale weak supervision.
+1.  **Comparison to Human Performance:** The study includes a comparison of Whisper's robustness to human performance, finding that the best zero-shot Whisper models approach human accuracy and robustness. This suggests that the robustness gap observed in prior models on out-of-distribution data can be closed with large-scale weak supervision.
 2.  **Strategies for Long-Form Transcription:** The paper describes heuristics developed to improve the reliability of transcribing long audio segments, which relies on accurate timestamp prediction. These include using beam search with temperature fallback, voice activity detection, and previous text conditioning.
 3.  **Text Normalization:** The authors acknowledge the challenge of evaluating zero-shot models on diverse datasets with varying transcription styles and introduce a text normalizer designed to mitigate the impact of innocuous formatting differences on metrics like Word Error Rate (WER). They release the code for this normalizer.
 

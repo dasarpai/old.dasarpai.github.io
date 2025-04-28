@@ -35,10 +35,6 @@ keywords: [Hunyuan3D 2.0, high-resolution textured 3D assets, large-scale 3D syn
 
 # Hunyuan3D 2.0: High-Resolution Textured 3D Asset Generation
 
-
-
-Here is a detailed briefing document reviewing the main themes and most important ideas from the paper on Hunyuan3D 2.0:
-
 ## Introduction 
 
 **Briefing Document:** Hunyuan3D 2.0
@@ -52,6 +48,22 @@ Here is a detailed briefing document reviewing the main themes and most importan
 **Publication Date:** Appears to be January 2025, based on the arXiv identifier (2501.12202).
 
 **Core Mission:** The Hunyuan3D Team's mission statement is "Living out everyone’s imagination on creating and manipulating 3D assets."
+
+## What Problem is Addressed?
+
+Hunyuan3D 2.0 is presented as a comprehensive solution to the challenges of creating high-quality, detailed, and usable 3D assets from 2D images, improving upon previous methods through novel architectural designs and strategic pipelines, while also contributing to the open-source community.
+
+Here are the key problems addressed:
+
+1.  **Generating High-Resolution, High-Quality Textured 3D Assets from Images:** The overarching problem is the need for an advanced, large-scale system capable of reliably creating detailed 3D models with vibrant, high-resolution textures based on a single condition image.
+2.  **Limitations of Existing 3D Generative Models:** Previous state-of-the-art models, both open-source and closed-source, have limitations in terms of achieving high fidelity in geometry details, accurate alignment with the condition image, and overall texture quality. Hunyuan3D 2.0 aims to surpass these models in these key areas.
+3.  **Capturing High-Frequency Geometric Details:** In shape generation, simply using uniform sampling from a mesh surface often fails to reconstruct the intricate details of complex objects, such as edges and corners, due to variations in surface complexity. The Hunyuan3D-ShapeVAE addresses this by incorporating an **importance sampling strategy** to extract this high-frequency detail information.
+4.  **Generating Seamless and Multi-View Consistent Textures:** Creating texture maps that are consistent across multiple viewpoints and seamlessly cover the entire mesh is a significant challenge. Previous methods, particularly training-free approaches leveraging models like Stable Diffusion, often suffer from issues like the Janus problem and multi-view inconsistency, resulting in artifacts. Hunyuan3D-Paint tackles this through its architecture, including a **multi-task attention mechanism** to ensure consistency across generated views.
+5.  **Preventing Illumination Baking in Textures:** Input images often contain significant and varied illumination and shadows, which can be inadvertently baked into the generated texture maps if used directly for multi-view generation. Hunyuan3D-Paint includes an **Image Delighting Module** to preprocess the input image and remove illumination and shadows, enabling the synthesis of illumination-invariant texture maps.
+6.  **Reducing the Burden of Post-Generation Texture Inpainting:** Self-occlusion during the multi-view image generation stage can lead to holes in the generated textures, requiring extensive post-processing for inpainting. Hunyuan3D-Paint alleviates this "burden" by facilitating **dense-view inference** during the multi-view generation stage, which is supported by a view dropout training strategy.
+7.  **Filling the Gap in Open-Source Large-Scale 3D Foundation Models:** The field of 3D generation has lacked robust, large-scale open-source foundational models comparable to those available for image or language generation (like Stable Diffusion or LLaMA). The **open-source release** of Hunyuan3D 2.0, including its code and pre-trained weights, is specifically intended to address this gap and contribute a valuable resource to the community.
+
+
 
 ## Key Themes and Concepts:
 
@@ -160,6 +172,38 @@ Here is a detailed briefing document reviewing the main themes and most importan
 - "In our texture-map synthesis framework, we alleviate the burden on the second stage of inpainting by facilitating dense-view inference during the multi-view generation stage." (Regarding Texture Baking)
 
 Limitations and Future Work (Not explicitly detailed in these excerpts, but common in research papers): While the document highlights strengths, a full paper would likely discuss limitations, potential biases in training data, computational requirements, and areas for future improvement.
+
+## Evaluation Metrics
+### General Text- and Image-to-Texture
+
+| |3DShape2VecSet  [111] | Michelangelo  [118] | Direct3D [98] | Hunyuan3D-ShapeVAE (Ours)
+|---|---|---|---|---|
+|V-IoU(↑) | 87.88% | 84.93% | 88.43% | 93.6%
+|S-IoU(↑) | 80.66% | 76.27% | 81.55% | 89.16%
+
+### 3D Shape Generation
+
+|ULIP-T(↑) | ULIP-I(↑) | Uni3D-T(↑) | Uni3D-I(↑)|
+|---|---|---|---|
+|Michelangelo  [118] | 0.0752 | 0.1152 | 0.2133 | 0.2611
+|Craftsman | 1.5 | [49] | 0.0745 | 0.1296 | 0.2375 | 0.2987
+|Trellis  [100] | 0.0769 | 0.1267 | 0.2496 | 0.3116
+|Shape_Model | 1 | 0.0799 | 0.1181 | 0.2469 | 0.3064
+|Shape_Model | 2 | 0.0741 | 0.1308 | 0.2464 | 0.3106
+|Shape_Model | 3 | 0.0746 | 0.1284 | 0.2516 | 0.3131
+|Hunyuan3D-DiT  (Ours) | 0.0771 | 0.1303 | 0.2519 | 0.3151
+
+
+### Hunyuan3D-Paint
+
+| CMMD(↓) | FIDCLIP  (↓) | CLIP-score(↑) | LPIPS(↓)
+|---|---|---|---|
+| TEXTure  [73] | 3.047 | 35.75 | 0.8499 | 0.0076
+| Text2Tex  [9] | 2.811 | 31.72 | 0.8680 | 0.0071
+| SyncMVD [59] | 2.584 | 29.93 | 0.8751 | 0.0063
+| Paint3D  [110] | 2.810 | 30.29 | 0.8724 | 0.0063
+| TexPainter  [112] | 2.483 | 28.83 | 0.8789 | 0.0062
+| Hunyuan3D-Paint  (Ours) | 2.318 | 26.44 | 0.8893 | 0.0059
 
 ## Conclusion:
 
