@@ -21,7 +21,7 @@ header:
     teaser: /assets/images/dspost/dsp6061-Google-Cloud-Service-Catalog.jpg
 excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-layout: dspost-layout   
+layout: dspost-layout 
 excerpt: 
   A comprehensive catalog of over 250 Google Cloud Platform (GCP) services, including detailed information about each service's purpose, documentation, and implementation. This guide covers everything from AI and ML services to networking, security, and development tools available in the Google Cloud ecosystem.
 author_profile: true   
@@ -115,7 +115,7 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Cloud Build: Continuous integration/delivery platform [Link](https://cloud.google.com/cloud-build/) [Doc](https://cloud.google.com/cloud-build/docs/)   
 1. Cloud Deploy: Deployment pipeline for GKE [Link](https://cloud.google.com/deploy) [Doc](https://cloud.google.com/deploy/docs/)   
 1. Cloud Source Repositories: Hosted private git repos [Link](https://cloud.google.com/source-repositories/) [Doc](https://cloud.google.com/source-repositories/docs/)   
-1. Automated security scanning [](https://cloud.google.com/artifact-analysis/docs)   
+1. [Automated security scanning](https://cloud.google.com/artifact-analysis/docs)
 1. Container Registry: Private container registry/storage [Link](https://cloud.google.com/container-registry/) [Doc](https://cloud.google.com/container-registry/docs/) 
 
 ## [](#compute)Compute   
@@ -139,7 +139,7 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 ## [](#networking)Networking   
 1. Anthos Service Mesh: Service-aware network management [Link](https://cloud.google.com/service-mesh/) [Doc](https://cloud.google.com/trace/docs/)   
 1. Carrier Peering: Peer through a carrier [Doc](https://cloud.google.com/interconnect/docs/how-to/carrier-peering)   
-1. DDoS protection and WAF   
+1. [DDoS protection and WAF](https://cloud.google.com/armor/)
 1. Cloud CDN: Content delivery network [Link](https://cloud.google.com/cdn/) [Doc](https://cloud.google.com/cdn/docs/)   
 1. Cloud DNS: Programmable DNS serving [Link](https://cloud.google.com/dns/) [Doc](https://cloud.google.com/dns/docs/)   
 1. Cloud Domains: Register, transfer, manager domains [Link](https://cloud.google.com/domains) [Doc](https://cloud.google.com/domains/docs/)   
@@ -160,7 +160,7 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Private Service Connect: Privately connect services across VPCs [Link](https://cloud.google.com/service-directory) [Doc](https://cloud.google.com/vpc/docs/private-service-connect)   
 1. Service Directory: Centrally publish/discover/connect services [Link](https://cloud.google.com/service-directory) [Doc](https://cloud.google.com/service-directory/docs)   
 1. Traffic Director: Service mesh traffic management [Link](https://cloud.google.com/traffic-director/) [Doc](https://cloud.google.com/traffic-director/docs/)   
-1. Optimized files for delivery   
+1. [Optimized files for delivery](https://cloud.google.com/cdn/)
 1. Virtual Private Cloud: Software defined networking [Link](https://cloud.google.com/vpc/) [Doc](https://cloud.google.com/vpc/docs/)   
 1. VPC Service Controls: Security perimeters for API-based services [Link](https://cloud.google.com/vpc-service-controls/) [Doc](https://cloud.google.com/vpc-service-controls/)     
 
@@ -269,14 +269,16 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. Geolocation API: Derive location without GPS [Link](https://developers.google.com/maps/documentation/geolocation/)   
 1. Maps Embed API: Display iframe embedded maps [Link](https://developers.google.com/maps/documentation/embed/)   
 1. Maps JavaScript API: Dynamic web maps [Link](https://developers.google.com/maps/documentation/javascript/)   
-1. Maps SDK for Android: Maps for Android apps [Link](https://developers.google.com/maps/documentation/android-sdk/)   
+1. [Maps SDK for Android](https://developers.google.com/maps/documentation/android-sdk/)
+id: Maps for Android apps [Link](https://developers.google.com/maps/documentation/android-sdk/)   
 1. Maps SDK for iOS: Maps for iOS apps [Link](https://developers.google.com/maps/documentation/ios-sdk/)   
 1. Maps SDK for Unity: Unity SDK for games [Link](https://cloud.google.com/maps-platform/gaming/)   
 1. Maps Static API: Display static map images [Link](https://developers.google.com/maps/documentation/maps-static/)   
 1. Maps URLs: URL scheme for maps [Link](https://developers.google.com/maps/documentation/urls/)   
 1. Places API: Rest-based Places features [Link](https://developers.google.com/places/web-service/)   
 1. Places Library, Maps JS API: Places features for web [Link](https://developers.google.com/maps/documentation/javascript/places)   
-1. Places SDK for Android: Places features for Android [Link](https://developers.google.com/places/android-sdk/)   
+1. Places SDK for Androdraft: false
+id: Places features for Android [Link](https://developers.google.com/places/android-sdk/)   
 1. Places SDK for iOS: Places feature for iOS [Link](https://developers.google.com/places/ios-sdk/)   
 1. Roads API: Convert coordinates to roads [Link](https://developers.google.com/maps/documentation/roads/)   
 1. Street View Service: Street view for JavaScript [Link](https://developers.google.com/maps/documentation/javascript/streetview/)   
@@ -300,7 +302,8 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 1. API Gateway: Fully managed API Gateway [Link](https://cloud.google.com/api-gateway)   
 1. API Monetization: Monetize APIs [Link](https://cloud.google.com/api-monetization/)   
 1. Apigee API Platform: Develop, secure, monitor APIs [Link](https://cloud.google.com/apigee-api-management/)   
-1. Apigee Hybrid: Manage hybrid/multi-cloud API environments [Link](https://cloud.google.com/apigee/api-management/hybrid/)[Doc](https://docs.apigee.com/hybrid/beta2)   
+1. Apigee Hybrdraft: false
+id: Manage hybrid/multi-cloud API environments [Link](https://cloud.google.com/apigee/api-management/hybrid/)[Doc](https://docs.apigee.com/hybrid/beta2)   
 1. Apigee Sense: API protection from attacks [Link](https://cloud.google.com/apigee-sense/)   
 1. AppSheet: No-code App creation [Link](https://www.appsheet.com/)   
 1. Cloud Endpoints: Cloud API gateway [Link](https://cloud.google.com/endpoints/)   
@@ -309,9 +312,9 @@ In the ever-evolving landscape of cloud computing, Google Cloud entered recently
 
 ## [](#healthcare)Healthcare   
 1. Apigee Healthcare APIx: Healthcare system Google Cloud interoperability [Link](https://cloud.google.com/solutions/apigee-health-apix)   
-1. Cloud Healthcare API: Healthcare system Google Cloud interoperability [Link](https://cloud.google.com/healthcare-api/)   
-1. Cloud Life Sciences_\*: Manage, process, transform biomedical-data [Link](https://cloud.google.com/life-sciences)[Doc](https://cloud.google.com/life-sciences/docs)   
-1. Healthcare Natural Language AI: Real-time insights from media-text [Link](https://cloud.google.com/healthcare-api/docs/how-tos/nlp)   
+1. [Cloud Healthcare API](https://cloud.google.com/healthcare-api/): Healthcare system Google Cloud interoperability
+1. [Cloud Life Sciences](https://cloud.google.com/life-sciences): Manage, process, transform biomedical-data [Doc](https://cloud.google.com/life-sciences/docs)
+1. [Healthcare Natural Language AI](https://cloud.google.com/healthcare-api/docs/how-tos/nlp): Real-time insights from media-text
 
 ## [](#operations--monitoring)Operations & Monitoring   
 1. Cloud Logging: Centralized logging [Link](https://cloud.google.com/logging/) [Doc](https://cloud.google.com/logging/docs/)   

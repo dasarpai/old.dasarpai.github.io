@@ -2,7 +2,7 @@
 id: 4151    
 mathjax: "true"
 title: 'Devi SidhaKunjiKa Stotram - सिद्धकुञ्जिकास्तोत्रम्'
-date: '2020-01-2T14:33:35+00:00'
+date: '2020-01-02'
 layout: samskrut-layout 
 permalink: /samskrutyatra/devi-sidhakunjika-stotram
 redirect_from: 

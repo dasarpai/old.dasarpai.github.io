@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/pmblog/1037-pmbok-general.jpg
 layout: pmblog-layout 
 tags:
-   'Agile Terms'
+   - 'Agile Terms'
 categories:
    pmblog
 ---
