@@ -3,7 +3,7 @@ mathjax: true
 id: 6270
 title: Exploring go Hugo Framework for SSG
 date: 2025-05-05
-permalink: /dsblog/exploring-go-hugo-framework-par1
+permalink: /dsblog/exploring-go-hugo-framework-part1
 tags:
   - Hugo
   - Go
@@ -14,7 +14,7 @@ categories:
   - dsblog
   - web-development
 header:
-  teaser: /assets/images/dspost/dsp6270-exploring-go-hugo-framework-par1.jpg
+  teaser: /assets/images/dspost/dsp6270-exploring-go-hugo-framework-part1.jpg
 excerpt_separator: "<!--more-->"
 author: Hari Thapliyaal
 layout: dspost-layout
@@ -30,8 +30,7 @@ keywords: [Hugo Framework, Go Hugo, Static Site Generator, SSG, Web Development,
 ---
 
 
-
-![](/assets/images/dspost/dsp6270-exploring-go-hugo-framework-par1.jpg)
+![](/assets/images/dspost/dsp6270-exploring-go-hugo-framework-part1.jpg)
 
 # Exploring go Hugo Framework for SSG
 
@@ -285,7 +284,6 @@ hugo mod get
 
 No more git submodules or manual copying! It's clean, version-controlled, and reproducible.
 
----
 
 ### 🔁 Updating Modules
 
@@ -301,7 +299,6 @@ hugo mod get -u   # Update all modules
 
 Here are the **most frequently used Hugo commands**, grouped by purpose, to help you manage your site efficiently:
 
----
 
 ### 🚀 Development & Preview
 
@@ -311,7 +308,6 @@ Here are the **most frequently used Hugo commands**, grouped by purpose, to help
 | `hugo server -D`    | Also includes **draft** content. Useful when working on unpublished posts.   |
 | `hugo server --disableFastRender` | Reloads full site on changes; helpful if partial rebuilds misbehave.   |
 
----
 
 ### 🏗️ Build & Deployment
 
@@ -322,7 +318,6 @@ Here are the **most frequently used Hugo commands**, grouped by purpose, to help
 | `hugo -d ../output-folder` | Changes the default output directory.    |
 | `hugo --minify`    | Minifies HTML/CSS/JS for production.   |
 
----
 
 ### 🧰 Module Commands (for Hugo Modules)
 
@@ -333,7 +328,6 @@ Here are the **most frequently used Hugo commands**, grouped by purpose, to help
 | `hugo mod tidy`   | Cleans up unused modules from `go.mod`. |
 | `hugo mod graph`    | Visualizes module dependencies.   |
 
----
 
 ### 📝 Content Creation
 
@@ -342,7 +336,6 @@ Here are the **most frequently used Hugo commands**, grouped by purpose, to help
 | `hugo new posts/my-post.md`   | Creates a new content file with front matter.    |
 | `hugo new content/about/index.md` | Creates a new page bundle (useful for sections). |
 
----
 
 ### 🧪 Troubleshooting & Utilities
 
@@ -352,7 +345,6 @@ Here are the **most frequently used Hugo commands**, grouped by purpose, to help
 | `hugo env`   | Shows Hugo version, OS, module path, etc. Useful for debugging. |
 | `hugo version` | Displays installed Hugo version.    |
 
----
 
 
 
@@ -377,7 +369,6 @@ Here's a breakdown of what it does:
    * You're working on a **Hugo site that's part of a larger GitHub repo** (like Agones).
    * You want to **import themes or shared components** via Go module paths instead of submodules or manual copying.
 
----
 
 ### 📁 Example Output:
 
@@ -409,7 +400,6 @@ Hugo Modules are a **Go Modules-based system** that allows you to:
 
 They're declared in `config.toml` (or `config.yaml`) and managed via `go.mod`.
 
----
 
 ### 🔥 Popular Hugo Modules
 
@@ -423,7 +413,6 @@ Here are some widely used Hugo modules:
 | [`github.com/luizdepra/hugo-coder`](https://github.com/luizdepra/hugo-coder)   | Clean and minimal theme for developers.    |
 | [`github.com/alex-shpak/hugo-book`](https://github.com/alex-shpak/hugo-book)   | A theme used for documentation sites.    |
 
----
 
 ### 📁 Where Are Hugo Modules Stored?
 
@@ -450,7 +439,6 @@ Then they go into:
 ├── go.sum
 ```
 
----
 
 ### ⚙️ How to Use Hugo Modules?
 
@@ -505,8 +493,6 @@ hugo mod vendor
 
 This copies the module code into `themes/` and avoids downloading on every build.
 
----
-
 ### 📌 Useful Hugo Module Commands
 
 ```bash
@@ -520,7 +506,6 @@ hugo mod graph   # Show dependency tree
 ## What is hugo pipeline and how to use this?
 In Hugo, the **Hugo Pipes** (or Hugo Asset Pipeline) refers to a built-in feature for processing and optimizing assets like CSS, JavaScript, and images during site generation. It’s particularly useful when you're working with themes like **Docsy** or building custom layouts that need dynamic asset handling.
 
----
 
 ### 🔧 What Hugo Pipes Can Do
 
@@ -532,17 +517,19 @@ Hugo Pipes can:
 4. **Compile Sass/SCSS** to CSS.
 5. **Process images** (resize, crop, convert format).
 
----
 
 ### ⚙️ Example Use in `baseof.html` (SCSS pipeline)
 
 Here’s a common Hugo Pipes pipeline used in a theme like **Docsy**:
 
-```gohtml
+{% raw %}
+```go-html-template
 {{ $options := dict "targetPath" "css/styles.css" }}
 {{ $styles := resources.Get "scss/styles.scss" | toCSS $options | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}">
 ```
+{% endraw %}
+
 
 **What this does:**
 
@@ -553,25 +540,26 @@ Here’s a common Hugo Pipes pipeline used in a theme like **Docsy**:
 * `RelPermalink` creates the final link.
 * `integrity` supports Subresource Integrity (SRI).
 
----
 
 ### 🔁 JavaScript Pipeline Example
 
-```gohtml
+{% raw %}
+```go-html-template
 {{ $js := resources.Get "js/main.js" | minify | fingerprint }}
 <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
 ```
+{% endraw %}
 
----
 
 ### 🧪 Image Processing Example
 
-```gohtml
+{% raw %}
+```go-html-template
 {{ $image := resources.Get "images/example.jpg" | images.Resize "600x" }}
 <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
 ```
+{% endraw %}
 
----
 
 ### ✅ Requirements
 
@@ -579,7 +567,6 @@ Here’s a common Hugo Pipes pipeline used in a theme like **Docsy**:
 * Your assets should be in the `assets/` directory (not `static/`).
 * Place these pipelines inside your `layouts/_default/baseof.html` or any other template file.
 
----
 
 ### 📁 Folder Structure for Hugo Pipes
 
@@ -595,7 +582,6 @@ my-site/
 │       └── baseof.html
 ```
 
----
 
 
 
@@ -627,7 +613,6 @@ my-site/
 * These files are **copied as-is to the `public/` folder** and are directly accessible via `/filename.ext`.
 * Faster build time, since Hugo doesn’t touch them.
 
----
 
 ## 🚀 Rule of Thumb
 
@@ -638,7 +623,6 @@ my-site/
 ## What format is better hugo.toml or hugo.yaml?
 Both `config.toml` and `config.yaml` work equally well in Hugo — **the choice depends on your preference** or your team's conventions. Here's a comparison to help you decide:
 
----
 
 ### ✅ TOML (default & popular)
 
@@ -660,7 +644,6 @@ title = "My Hugo Site"
   description = "A cool site"
 ```
 
----
 
 ### ✅ YAML (more common in DevOps)
 

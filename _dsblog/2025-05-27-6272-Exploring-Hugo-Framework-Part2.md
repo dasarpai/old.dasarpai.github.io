@@ -106,13 +106,13 @@ Here’s a breakdown of **Hugo implementation approaches** apart from Modules:
 
 | Approach                | Best For                        | Auto Updates | Easy Setup | Modular |
 | ----------------------- | ------------------------------- | ------------ | ---------- | ------- |
-| Standalone Theme Folder | Simple personal sites           | ❌            | ✅          | ❌       |
-| Git Submodule Theme     | Mid-level sites needing updates | ✅            | ⚠️         | ❌       |
-| Hugo Modules            | Professional, modular sites     | ✅            | ⚠️         | ✅       |
-| Manual Theme Copy       | Custom heavy sites              | ❌            | ✅          | ❌       |
-| From Scratch            | Learning, custom design         | N/A          | ❌          | ✅       |
-| Headless Output         | Front-end apps (e.g., React)    | N/A          | ❌          | ✅       |
-| Scripted CI/CD          | Team workflows                  | N/A          | ❌          | ✅       |
+| Standalone Theme Folder | Simple personal sites           |            |          |       |
+| Git Submodule Theme     | Mid-level sites needing updates |            | ⚠️         |       |
+| Hugo Modules            | Professional, modular sites     |            | ⚠️         |       |
+| Manual Theme Copy       | Custom heavy sites              |            |          |       |
+| From Scratch            | Learning, custom design         | N/A          |          |       |
+| Headless Output         | Front-end apps (e.g., React)    | N/A          |          |       |
+| Scripted CI/CD          | Team workflows                  | N/A          |          |       |
 
 
 
@@ -122,7 +122,7 @@ I am planning Hugo modules way. If I use a theme say docsy and I like some short
 Yes, you **can absolutely copy a shortcode from another theme** and use it in your Hugo project — even if you're using the **Hugo Modules** approach with Docsy. Here's how to do it safely and effectively:
 
 
-### ✅ How to Use a Shortcode from Another Theme in a Hugo Modules Project
+### How to Use a Shortcode from Another Theme in a Hugo Modules Project
 
 #### 1. **Locate the shortcode**
 
@@ -145,12 +145,14 @@ your-hugo-site/
 
 You can now use it like any regular shortcode:
 
+{% raw %}
 ```markdown
 {{< myshortcode param1="value" >}}
 ```
+{% endraw %}
 
 
-### 🔄 Alternative: Import the Theme as a Hugo Module Too
+### lternative: Import the Theme as a Hugo Module Too
 
 If you want to use **many components** (shortcodes, partials, assets) from another theme, consider adding it as a **second Hugo module**.
 
@@ -171,7 +173,7 @@ path = "github.com/theother/theme"
 3. You can **override** specific shortcodes by adding them to your local `layouts/shortcodes/`.
 
 
-### ⚠️ Notes & Gotchas
+### Notes & Gotchas
 
 * If the shortcode depends on other theme partials, CSS, or JS, you might need to copy or adapt those too.
 * Check for custom `.Site.Params` used in the shortcode and define them in your own `config.toml`.
@@ -181,7 +183,7 @@ path = "github.com/theother/theme"
 If I import multiple modules then theme directory will have multiple folder? When I am using those shortcode then how to handle the path of those shortcodes?
 
 
-### 🧩 1. **Do Multiple Hugo Modules Create Multiple Folders in `themes/`?**
+### 1. **Do Multiple Hugo Modules Create Multiple Folders in `themes/`?**
 
 **No** — if you're using **Hugo Modules** properly, you **don’t need to use the `themes/` folder at all**.
 
@@ -193,7 +195,7 @@ So:
 * Instead, you define them in your `config.toml` or `config.yaml`.
 
 
-### 📦 Example: `config.toml` with Multiple Modules
+### Example: `config.toml` with Multiple Modules
 
 ```toml
 [module]
@@ -207,7 +209,7 @@ path = "github.com/theother/theme"
 No need to manually place anything in `themes/`.
 
 
-### ⚙️ 2. **How Does Hugo Resolve Shortcodes from Multiple Modules?**
+### 2. **How Does Hugo Resolve Shortcodes from Multiple Modules?**
 
 Hugo looks for shortcodes in the following **order of precedence**:
 
@@ -221,22 +223,26 @@ So:
 * If you place `gallery.html` in your own `layouts/shortcodes/`, it will **override all others**.
 
 
-### 🧠 3. **How to Use a Shortcode from a Specific Module?**
+### 3. **How to Use a Shortcode from a Specific Module?**
 
 You **cannot directly call a shortcode from a specific module by path** like:
 
+{% raw %}
 ```markdown
-{{< github.com/other/theme/shortcode >}}  ❌ not supported
+{{< github.com/other/theme/shortcode >}}  not supported
 ```
+{% endraw %}
 
 Instead, you do this:
 
 * Ensure the shortcode has a **unique name** (e.g., `card-docsy.html`, `card-papermod.html`).
 * Then use it by that name:
 
+{% raw %}
 ```markdown
 {{< card-docsy title="..." >}}
 ```
+{% endraw %}
 
 Alternatively, if there’s a name clash (e.g., both modules have `alert.html`), and you want both:
 
@@ -245,19 +251,21 @@ Alternatively, if there’s a name clash (e.g., both modules have `alert.html`),
 1. Copy one version of `alert.html` from the module repo to your local `layouts/shortcodes/alert-docsy.html`.
 2. Rename and use it like this:
 
+{% raw %}
 ```markdown
 {{< alert-docsy >}}This is a Docsy alert.{{< /alert-docsy >}}
 ```
+{% endraw %}
 
 
-### ✅ Summary
+### Summary
 
 | Question                                   | Answer                                                                      |
 | ------------------------------------------ | --------------------------------------------------------------------------- |
-| Multiple modules = multiple theme folders? | ❌ No. Modules are managed by Hugo internally.                               |
-| Can I use shortcodes from all modules?     | ✅ Yes, based on order and uniqueness.                                       |
+| Multiple modules = multiple theme folders? | No. Modules are managed by Hugo internally.                               |
+| Can I use shortcodes from all modules?     | Yes, based on order and uniqueness.                                       |
 | How do I control which one is used?        | 🥇 Put the desired one earlier in `config.toml`, or copy+rename it locally. |
-| Can I call a shortcode by module path?     | ❌ No. Only by shortcode name. Ensure names don’t clash.                     |
+| Can I call a shortcode by module path?     | No. Only by shortcode name. Ensure names don’t clash.                     |
 
 
 ## What is use of 'hugo mod vendor' command?
@@ -267,7 +275,7 @@ There is some concept of hugo mod vendor, will that physically import those them
 Yes, you're absolutely right — `hugo mod vendor` is a command in Hugo Modules that **physically downloads the imported module code (like themes or components) into a local `./vendor` directory** within your project.
 
 
-### 🧩 What Is `hugo mod vendor`?
+### What Is `hugo mod vendor`?
 
 ```bash
 hugo mod vendor
@@ -276,7 +284,7 @@ hugo mod vendor
 This command **copies all currently used Hugo modules (themes, components, etc.)** into a local `vendor/` folder inside your project. It’s Hugo’s way of “vendoring” external dependencies — similar to `npm install` in Node.js or `go mod vendor` in Go.
 
 
-### 📁 What Happens After Running It?
+### What Happens After Running It?
 
 Your project will have:
 
@@ -292,36 +300,36 @@ your-hugo-site/
 ```
 
 
-### ✅ Why Use `hugo mod vendor`?
+### Why Use `hugo mod vendor`?
 
 | Benefit                 | Explanation                                                                             |
 | ----------------------- | --------------------------------------------------------------------------------------- |
-| ✅ **Offline builds**    | No internet needed once vendored. Ideal for CI/CD pipelines or air-gapped environments. |
-| ✅ **Lock dependencies** | Ensures consistent builds even if upstream module changes.                              |
-| ✅ **Version control**   | You can commit `vendor/` if you want to fully lock dependencies for collaboration.      |
+| **Offline builds**    | No internet needed once vendored. Ideal for CI/CD pipelines or air-gapped environments. |
+| **Lock dependencies** | Ensures consistent builds even if upstream module changes.                              |
+| **Version control**   | You can commit `vendor/` if you want to fully lock dependencies for collaboration.      |
 
 
-### ❌ When NOT to Use It
+### When NOT to Use It
 
 | Concern                        | Why                                                                                               |
 | ------------------------------ | ------------------------------------------------------------------------------------------------- |
-| ❌ **Active theme development** | You lose the auto-update benefit. If the upstream theme updates, you must re-vendor.              |
-| ❌ **Unnecessary commits**      | Vendoring adds a lot of files; can bloat your Git repo unless `.gitignore`d or handled carefully. |
-| ❌ **Beginners/experiments**    | If you're still exploring themes or modules, vendoring adds friction.                             |
+| **Active theme development** | You lose the auto-update benefit. If the upstream theme updates, you must re-vendor.              |
+| **Unnecessary commits**      | Vendoring adds a lot of files; can bloat your Git repo unless `.gitignore`d or handled carefully. |
+| **Beginners/experiments**    | If you're still exploring themes or modules, vendoring adds friction.                             |
 
 
-### 🎯 Best Practice Recommendation
+### Best Practice Recommendation
 
 | Use Case                                       | Should You Vendor?                      |
 | ---------------------------------------------- | --------------------------------------- |
-| ✅ Production build in CI/CD                    | Yes — to ensure reproducibility         |
-| ✅ Air-gapped or offline builds                 | Yes                                     |
-| ❌ You're testing themes                        | No — use dynamic (non-vendored) modules |
-| ✅ You want full control over theme source code | Yes — vendor, then customize            |
-| ❌ You want auto updates from remote repo       | No — vendoring freezes the state        |
+| Production build in CI/CD                    | Yes — to ensure reproducibility         |
+| Air-gapped or offline builds                 | Yes                                     |
+| You're testing themes                        | No — use dynamic (non-vendored) modules |
+| You want full control over theme source code | Yes — vendor, then customize            |
+| You want auto updates from remote repo       | No — vendoring freezes the state        |
 
 
-### 🔁 How to Update a Vendored Module
+### How to Update a Vendored Module
 
 You must:
 
@@ -335,7 +343,7 @@ hugo mod vendor
 ```
 
 
-### ✍️ Summary
+### Summary
 
 | Command           | Purpose                                |
 | ----------------- | -------------------------------------- |
@@ -349,7 +357,7 @@ hugo mod vendor
 Here’s a **complete working example** of how to use Hugo Modules with two themes (like Docsy + another one), how to vendor them, and how to control whether or not you commit the `vendor/` folder.
 
 
-### ✅ 1. `config.toml` – Importing Docsy + Another Module
+### 1. `config.toml` – Importing Docsy + Another Module
 
 ```toml
 baseURL = "https://example.com/"
@@ -373,7 +381,7 @@ disable = false
 You can add more modules in this list.
 
 
-### 📦 2. Run These Commands
+### 2. Run These Commands
 
 #### First-time setup:
 
@@ -398,7 +406,7 @@ your-hugo-site/
 ```
 
 
-### 🔁 3. Updating Module Versions Later
+### 3. Updating Module Versions Later
 
 ```bash
 hugo mod get -u
@@ -409,7 +417,7 @@ hugo mod vendor
 This updates the modules and re-vendors them.
 
 
-### 🔒 4. Git Ignore or Commit Vendor?
+### 4. Git Ignore or Commit Vendor?
 
 #### Option A: Ignore it (default recommendation)
 
@@ -434,7 +442,7 @@ This updates the modules and re-vendors them.
   * You need the site to build without internet access.
 
 
-### 🔁 5. Regenerate `go.sum` if needed
+### 5. Regenerate `go.sum` if needed
 
 Sometimes after pulling a new repo or changing `config.toml`, run:
 
@@ -445,7 +453,7 @@ hugo mod tidy
 This fixes inconsistencies and removes unused module references.
 
 
-### ✅ Summary
+### Summary
 
 | Action                      | Command               |
 | --------------------------- | --------------------- |
@@ -460,7 +468,7 @@ This fixes inconsistencies and removes unused module references.
 Even if you **don’t use `hugo mod vendor`**, the following commands are still essential for managing Hugo modules (themes, components, etc.):
 
 
-### 🔁 `hugo mod tidy`
+### `hugo mod tidy`
 
 * **Purpose**: Cleans up your module metadata.
 * **Does**:
@@ -469,19 +477,19 @@ Even if you **don’t use `hugo mod vendor`**, the following commands are still 
   * Ensures `go.mod` and `go.sum` are up-to-date.
   * Downloads any **missing** modules into the **Hugo module cache** (not the `vendor/` folder).
 
-📌 **Use this regularly**, especially:
+**Use this regularly**, especially:
 
 * After modifying `config.toml`’s module section.
 * After pulling someone else’s repo.
 
 
-### ⬆️ `hugo mod get -u`
+### `hugo mod get -u`
 
 * **Purpose**: **Updates** all modules to their latest versions (unless version-pinned).
 * Like `go get -u` in Go.
 * Updates module references in `.hugo.toml`/`go.mod` (depending on Hugo version).
 
-🔄 Combine with:
+Combine with:
 
 ```bash
 hugo mod get -u
@@ -495,9 +503,9 @@ hugo mod tidy
 
 | Command           | Updates Cache? | Affects `vendor/`? | When to Use                                                       |
 | ----------------- | -------------- | ------------------ | ----------------------------------------------------------------- |
-| `hugo mod tidy`   | ✅ Yes          | ❌ No               | After changing `config.toml` or cloning a repo                    |
-| `hugo mod get -u` | ✅ Yes          | ❌ No               | To fetch newer versions of imported modules                       |
-| `hugo mod vendor` | ❌ No           | ✅ Yes              | To copy current modules to `vendor/` for offline or locked builds |
+| `hugo mod tidy`   | Yes          | No               | After changing `config.toml` or cloning a repo                    |
+| `hugo mod get -u` | Yes          | No               | To fetch newer versions of imported modules                       |
+| `hugo mod vendor` | No           | Yes              | To copy current modules to `vendor/` for offline or locked builds |
 
 
 
@@ -505,14 +513,14 @@ hugo mod tidy
 
 If I customize some layout or shortcode or partial then I should keep that in my project's layout folder and even if theme is updated it will not effect my project. Am I right?
 
-✅ **Yes, you are absolutely right.** That’s exactly how Hugo’s layout resolution system works — and it's one of Hugo's greatest strengths.
+**Yes, you are absolutely right.** That’s exactly how Hugo’s layout resolution system works — and it's one of Hugo's greatest strengths.
 
 
-### 📂 Layout Override System in Hugo
+### Layout Override System in Hugo
 
 When Hugo builds your site, it looks for templates (layouts, shortcodes, partials, etc.) in **this order of priority**:
 
-1. **Your project’s `layouts/` folder** ✅ *(highest priority — always preferred if present)*
+1. **Your project’s `layouts/` folder** *(highest priority — always preferred if present)*
 2. Then each **imported module’s `layouts/` folder**, in the order they appear in your `config.toml`.
 
 So:
@@ -526,17 +534,17 @@ So:
 ...inside your project folder, Hugo **will use your version** even if the theme/module also has one with the same name.
 
 
-### ✨ Why This Is Awesome
+### Why This Is Awesome
 
 | Advantage                         | Explanation                                                                 |
 | --------------------------------- | --------------------------------------------------------------------------- |
-| ✅ Safe from updates               | Theme or module updates won’t affect your customizations.                   |
-| ✅ Clean separation                | You don’t have to fork the theme or touch its source code.                  |
-| ✅ Easy to revert                  | Just delete or rename your custom file to fall back to the theme’s version. |
-| ✅ Supports fine-grained overrides | You can override **only what you need** — not entire layout trees.          |
+| Safe from updates               | Theme or module updates won’t affect your customizations.                   |
+| Clean separation                | You don’t have to fork the theme or touch its source code.                  |
+| Easy to revert                  | Just delete or rename your custom file to fall back to the theme’s version. |
+| Supports fine-grained overrides | You can override **only what you need** — not entire layout trees.          |
 
 
-### 👩‍🔧 Example
+### Example
 
 Suppose you're using **Docsy** as a Hugo module and you want to customize the header.
 
@@ -551,18 +559,18 @@ layouts/partials/header.html
 Even if Docsy later updates its `partials/header.html`, your custom file **takes precedence** and remains unaffected.
 
 
-### 🛡️ Bonus Tip: Version Control
+### Bonus Tip: Version Control
 
 Keep your custom layout files under Git so you can easily track what you’ve overridden and why.
 
 
-### ✅ Summary
+### Summary
 
 | Change                                       | Effect                               |
 | -------------------------------------------- | ------------------------------------ |
-| Add layout/partial/shortcode in your project | ✅ Overrides theme/module             |
-| Theme gets updated                           | ❌ No impact on your overridden files |
-| Delete your custom file                      | 🔁 Falls back to theme’s version     |
+| Add layout/partial/shortcode in your project | Overrides theme/module             |
+| Theme gets updated                           | No impact on your overridden files |
+| Delete your custom file                      | Falls back to theme’s version     |
 
 
 ## How to use boostrap (css) or javascript libraries in my project?
@@ -574,7 +582,7 @@ In Hugo, you have **multiple ways** to include and use JavaScript libraries, Boo
 Let’s break it down clearly:
 
 
-### ✅ 1. **Using CDN (simplest method)**
+### 1. **Using CDN (simplest method)**
 
 Add external libraries like Bootstrap, Tailwind, Alpine.js, etc. using a `<script>` or `<link>` in your `layouts/partials/head.html` or directly in `baseof.html`.
 
@@ -592,11 +600,11 @@ Add external libraries like Bootstrap, Tailwind, Alpine.js, etc. using a `<scrip
 <script src="https://cdn.tailwindcss.com"></script>
 ```
 
-> ✅ Pros: Easy and fast
-> ❌ Cons: No customization, slower than local, can't tree-shake unused CSS
+> Pros: Easy and fast
+> Cons: No customization, slower than local, can't tree-shake unused CSS
 
 
-### ✅ 2. **Using Local Assets (Static Folder)**
+### 2. **Using Local Assets (Static Folder)**
 
 You can download and place `.css`, `.js`, fonts, etc. inside the `static/` directory.
 
@@ -618,7 +626,7 @@ static/
 > These files are copied **as-is** to the root of the final site (`/public`) during build.
 
 
-### ✅ 3. **Using Hugo Pipes for SCSS/SASS (for Bootstrap or Tailwind)**
+### 3. **Using Hugo Pipes for SCSS/SASS (for Bootstrap or Tailwind)**
 
 If you want **custom theming**, **minification**, **PostCSS**, or **Tailwind JIT**, use Hugo Pipes.
 
@@ -633,10 +641,12 @@ If you want **custom theming**, **minification**, **PostCSS**, or **Tailwind JIT
 
 * In `head.html`:
 
+{% raw %}
 ```go-html-template
 {{ $styles := resources.Get "scss/main.scss" | toCSS | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
 ```
+{% endraw %}
 
 #### For Tailwind (with PostCSS):
 
@@ -654,16 +664,19 @@ You’ll need:
 
 * Add in `head.html`:
 
+{% raw %}
 ```go-html-template
 {{ $styles := resources.Get "css/styles.css" | postCSS (dict "config" "./postcss.config.js") | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
 ```
-
-> ✅ Pros: Tree-shaking, fast, production-ready
-> ❌ Cons: Needs setup of `postcss`, `tailwind.config.js`, `npm`
+{% endraw %}
 
 
-### ✅ 4. **Theme-Specific Integration**
+> Pros: Tree-shaking, fast, production-ready
+> Cons: Needs setup of `postcss`, `tailwind.config.js`, `npm`
+
+
+### 4. **Theme-Specific Integration**
 
 Some Hugo themes (like Docsy) have their own way of injecting scripts and styles.
 
@@ -672,20 +685,24 @@ Some Hugo themes (like Docsy) have their own way of injecting scripts and styles
 
 Example (`baseof.html`):
 
+{% raw %}
 ```go-html-template
 {{ block "custom-scripts" . }}{{ end }}
 ```
+{% endraw %}
 
 Your layout:
 
+{% raw %}
 ```go-html-template
 {{ define "custom-scripts" }}
 <script src="/js/mylib.js"></script>
 {{ end }}
 ```
+{% endraw %}
 
 
-### ✅ Summary Table
+### Summary Table
 
 | Method                               | Use Case                 | Pros                                   | Cons                                  |
 | ------------------------------------ | ------------------------ | -------------------------------------- | ------------------------------------- |
@@ -708,7 +725,7 @@ Understanding **PostCSS** and its ecosystem is essential for modern frontend dev
 * It's **not a CSS framework** (like Tailwind or Bootstrap).
 * It's a **processor** — like a compiler for CSS — that takes your CSS and modifies it using a **chain of plugins**.
 
-> 🧠 Think of it as a pipeline:
+> Think of it as a pipeline:
 > *Write CSS → Process with PostCSS plugins → Output optimized CSS.*
 
 
@@ -725,16 +742,18 @@ PostCSS itself does nothing unless you configure it with plugins. Some popular P
 | `postcss-nested` | Allows nesting CSS like SCSS                             |
 
 
-### 🔄 How PostCSS Fits into Hugo (via Hugo Pipes)
+### How PostCSS Fits into Hugo (via Hugo Pipes)
 
 In a Hugo project, you can use PostCSS via `resources.Get` + `postCSS`:
 
-#### ✅ Example:
+#### Example:
 
+{% raw %}
 ```html
 {{ $css := resources.Get "css/style.css" | postCSS (dict "config" "./postcss.config.js") | minify }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 ```
+{% endraw %}
 
 You need to set up a `postcss.config.js` like:
 
@@ -748,7 +767,7 @@ module.exports = {
 ```
 
 
-### 📦 Related Concepts
+### Related Concepts
 
 | Term                    | Role                                                             | Example                                               |       |          |
 | ----------------------- | ---------------------------------------------------------------- | ----------------------------------------------------- | ----- | -------- |
@@ -760,7 +779,7 @@ module.exports = {
 | **Webpack/Vite/Rollup** | Build tools that often include PostCSS as part of their pipeline | Used in large JS projects                             |       |          |
 
 
-### ✅ When to Use PostCSS in Hugo?
+### When to Use PostCSS in Hugo?
 
 You should consider using PostCSS if:
 
@@ -791,12 +810,12 @@ Then `postCSS` processing in Hugo will just work.
 | CSS (stylesheet) | `<link rel="stylesheet">`     | `<link rel="stylesheet" href="/css/main.css">` | Usually in `<head>`                                            |
 | JavaScript       | `<script src="..."></script>` | `<script src="/js/app.js"></script>`           | Usually at the **end of `<body>`** or in `<head>` with `defer` |
 
-#### 🚀 Why JS usually goes at the end of `<body>`?
+#### Why JS usually goes at the end of `<body>`?
 
 * To prevent **render-blocking** — JavaScript can slow down page load if placed in `<head>` without `defer` or `async`.
 
 
-### 🧠 2. Other common `<head>` elements
+### 2. Other common `<head>` elements
 
 The `<head>` tag is where you include **metadata** and **resources needed before rendering**. Key tags:
 
@@ -832,7 +851,7 @@ The `<link>` tag has **many other uses** besides linking stylesheets:
 | `<link rel="preconnect" href="//cdn.example.com">`                               | Performance: open early TCP connections |
 
 
-### 🔄 Summary
+### Summary
 
 | Task                              | Tag                       | Where                               |
 | --------------------------------- | ------------------------- | ----------------------------------- |
@@ -858,7 +877,7 @@ Are you trying to:
 I'll explain both cases.
 
 
-### ✅ 1. **Use Node.js modules in the build pipeline (e.g., PostCSS, Tailwind)**
+### 1. **Use Node.js modules in the build pipeline (e.g., PostCSS, Tailwind)**
 
 You typically:
 
@@ -868,13 +887,14 @@ You typically:
 
 **Example Hugo usage:**
 
+{% raw %}
 ```html
 {{ $css := resources.Get "css/style.css" | postCSS (dict "config" "postcss.config.js") | minify }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 ```
+{% endraw %}
 
-
-### ✅ 2. **Use frontend modules in the browser (like `lodash`, `axios`, etc.)**
+### 2. **Use frontend modules in the browser (like `lodash`, `axios`, etc.)**
 
 #### Option A: Use a CDN version
 
@@ -935,7 +955,7 @@ Steps:
 `defer` and `async` are two different attributes used in the `<script>` tag to control **how and when** JavaScript is loaded and executed in the browser — especially useful for performance tuning.
 
 
-### ✅ Basic Syntax
+### Basic Syntax
 
 ```html
 <script src="script.js" defer></script>
@@ -954,7 +974,7 @@ Steps:
 | **Best for**             | Scripts that rely on DOM (`document.getElementById`, etc.) | Independent or analytics scripts    |
 
 
-### ✅ When to Use `defer`
+### When to Use `defer`
 
 Use `defer` when:
 
@@ -969,7 +989,7 @@ Use `defer` when:
 > 🔐 Deferred scripts wait until the full HTML is parsed, then run **in order**.
 
 
-### ✅ When to Use `async`
+### When to Use `async`
 
 Use `async` when:
 
@@ -983,7 +1003,7 @@ Use `async` when:
 > ⚡ Async scripts run as soon as they are downloaded — no guarantee about order.
 
 
-### ❌ No `defer` or `async`
+### No `defer` or `async`
 
 If you omit both, the browser:
 
@@ -1010,7 +1030,7 @@ This blocks page rendering — bad for performance.
 To use **TypeScript** in a Hugo project (which is static and doesn’t support TS natively), you’ll need a **build tool** like **esbuild**, **Vite**, or **Webpack** to compile your `.ts` files into browser-compatible `.js`.
 
 
-### ✅ Minimal Setup Using `esbuild` (Recommended for Hugo)
+### Minimal Setup Using `esbuild` (Recommended for Hugo)
 
 #### 🔧 1. Install Node.js and esbuild
 
@@ -1020,7 +1040,7 @@ npm install --save-dev esbuild
 ```
 
 
-#### 📁 2. Create Your Project Structure
+#### 2. Create Your Project Structure
 
 ```
 your-hugo-site/
@@ -1060,7 +1080,7 @@ esbuild.build({
 ```
 
 
-#### 🚀 5. Add a Build Script in `package.json`
+#### 5. Add a Build Script in `package.json`
 
 ```json
 "scripts": {
@@ -1077,7 +1097,7 @@ npm run build
 This compiles TypeScript into a single `static/js/bundle.js`.
 
 
-#### 🧩 6. Include in Hugo Template (e.g., in `layouts/partials/scripts.html`)
+#### 6. Include in Hugo Template (e.g., in `layouts/partials/scripts.html`)
 
 ```html
 <script src="/js/bundle.js" defer></script>
@@ -1085,17 +1105,19 @@ This compiles TypeScript into a single `static/js/bundle.js`.
 
 And include that partial in your `baseof.html` or page template:
 
+{% raw %}
 ```go
 {{ partial "scripts.html" . }}
 ```
+{% endraw %}
 
 
-### ✅ Optional: Use Vite (for Hot Reloading + Dev Server)
+### Optional: Use Vite (for Hot Reloading + Dev Server)
 
 If you're building a more interactive frontend (e.g., React or Vue in Hugo), Vite is better than raw esbuild.
 
 
-### 🧠 Recap
+### Recap
 
 | Task                     | Tool                                          |
 | ------------------------ | --------------------------------------------- |
@@ -1113,7 +1135,7 @@ Here we are touching on some advanced but important architectural ideas when com
 Let’s break this down clearly:
 
 
-### ✅ 1. **How Hugo and React can work together**
+### 1. **How Hugo and React can work together**
 
 You're right:
 
@@ -1139,7 +1161,7 @@ Sometimes people keep the Hugo site and React app **separate**, then:
 * Or embed it in an iframe or section inside a Hugo page
 
 
-### ✅ 2. **How Vite is related to TypeScript, esbuild, and React**
+### 2. **How Vite is related to TypeScript, esbuild, and React**
 
 #### 🔸 Vite is a **frontend build tool**, like Webpack — but much faster.
 
@@ -1177,7 +1199,7 @@ npm run dev
 Then you can copy the compiled JS from `dist/` to your Hugo `static/js/` directory or mount it with symlinks.
 
 
-### 🧠 Summary
+### Summary
 
 | Stack      | Role                                                 |
 | ---------- | ---------------------------------------------------- |
@@ -1203,25 +1225,26 @@ React mounts on that `div`, providing dynamic interactivity inside an otherwise 
 
 
 ## Boilerplate code using React component inside Hugo?
-[Boilerplate Code is here](dsblog/6272-React-hugo-Boilerplate-Code.md)
+[Boilerplate Code is here]({{ site.url }}/_dsblog/6272-React-hugo-Boilerplate-Code.md)
+
 
 
 ## Can I mix Docsy and Reveal.js themes in Hugo?
 You **can use `reveal.js` presentations alongside your Hugo site using the Docsy theme**. They serve different purposes and can coexist smoothly with a bit of setup:
 
 
-### ✅ What is `reveal.js`?
+### What is `reveal.js`?
 
 `reveal.js` is a JavaScript framework for building slide decks (HTML-based presentations). It's independent of Hugo or Docsy but can be integrated **as a standalone layout or content type** within your Hugo site.
 
 
-### ✅ Integration Approaches
+### Integration Approaches
 
 #### 🔹 Option 1: **Static Integration (Recommended)**
 
 Use reveal.js by directly including its assets and creating a custom Hugo layout for presentations.
 
-##### 📁 1. Add reveal.js assets
+##### 1. Add reveal.js assets
 
 Download or npm-install reveal.js, and copy its `dist` folder to your Hugo project:
 
@@ -1259,6 +1282,7 @@ layout: "reveal"
 
 In `layouts/_default/reveal.html`:
 
+{% raw %}
 ```html
 <!DOCTYPE html>
 <html>
@@ -1280,6 +1304,7 @@ In `layouts/_default/reveal.html`:
 </body>
 </html>
 ```
+{% endraw %}
 
 Then navigate to `/presentations/my-talk/` to view it!
 
@@ -1294,7 +1319,7 @@ Some Hugo themes/modules offer reveal.js support. You could import such a module
 You could create shortcodes for slides and use them inside normal Docsy pages — helpful for interactive guides or embedded decks.
 
 
-### 🧠 Can You Mix Docsy and Reveal.js?
+### Can You Mix Docsy and Reveal.js?
 
 Yes — Docsy handles your main site layout, navigation, etc. You:
 
@@ -1303,7 +1328,7 @@ Yes — Docsy handles your main site layout, navigation, etc. You:
 * Add navigation back to your Docsy site in the presentation if needed
 
 
-### ✅ Summary
+### Summary
 
 | Task                         | Tool                                  |
 | ---------------------------- | ------------------------------------- |
@@ -1313,7 +1338,7 @@ Yes — Docsy handles your main site layout, navigation, etc. You:
 
 
 ## Can you give me Boilerplate for using Reveal.js inside Docsy without downlowing reavel.js 
-**[Hugo Docsy and Reaval.js Implementation Boiler Code](dsblog/6272-Hugo-Docsy-Revealjs-Boilerplat-code.md)**
+**[Hugo Docsy and Reaval.js Implementation Boiler Code]({{Site.url}}/_dsblog/6272-Hugo-Docsy-Revealjs-Boilerplat-code.md)**
 
 
 ## Can you help me customizing my docsy theme?
@@ -1330,7 +1355,7 @@ For my website I need following features
 - Author bio with photograph at the end of article. 
 - Section specific card layouts with pagination
 
-[Docsy Customization Boilerplate Code](dsblog/6272-Docsy-Customization.md)
+[Docsy Customization Boilerplate Code]({{Site.url}}/_dsblog/6272-Docsy-Customization.md)
 
 
 ## In html sometimes I notice "role" attribute in some tags, what is the use of that?
@@ -1340,7 +1365,7 @@ The `role` attribute in HTML is used to define the **semantic purpose** of an el
 
 ### 🔍 Example Use Cases
 
-#### ✅ 1. Landmark Roles
+#### 1. Landmark Roles
 
 ```html
 <header role="banner">...</header>
@@ -1353,7 +1378,7 @@ The `role` attribute in HTML is used to define the **semantic purpose** of an el
 These help screen readers jump between major sections of a page.
 
 
-#### ✅ 2. Widget Roles
+#### 2. Widget Roles
 
 ```html
 <div role="button" tabindex="0">Click me</div>
@@ -1362,7 +1387,7 @@ These help screen readers jump between major sections of a page.
 Used when a non-button element (like `div` or `span`) behaves like a button. Also requires keyboard accessibility (like `tabindex` and `keydown` events).
 
 
-#### ✅ 3. Dialogs, Alerts, Tabs
+#### 3. Dialogs, Alerts, Tabs
 
 ```html
 <div role="dialog" aria-labelledby="dialog-title">...</div>
@@ -1458,10 +1483,10 @@ Used to build component structure.
 | `aria-disabled="true"` | Marks as disabled without removing it from tab order |
 
 
-### ✅ Best Practices
+### Best Practices
 
-* 🧠 Prefer **semantic HTML** over ARIA when possible (e.g., use `<button>` instead of `div role="button"`).
-* 🔄 Keep **ARIA state attributes** updated via JavaScript (e.g., toggle `aria-expanded`).
+* Prefer **semantic HTML** over ARIA when possible (e.g., use `<button>` instead of `div role="button"`).
+* Keep **ARIA state attributes** updated via JavaScript (e.g., toggle `aria-expanded`).
 * 🧪 Always test with a **screen reader** (like NVDA, VoiceOver).
 
 
@@ -1528,10 +1553,10 @@ body {
 | -------------------- | ------ | ----------- | -------- |
 | File Extension       | `.css` | `.sass`     | `.scss`  |
 | Syntax Style         | CSS    | Indentation | CSS-like |
-| Variables            | ❌      | ✅           | ✅        |
-| Nesting              | ❌      | ✅           | ✅        |
-| Mixins, Functions    | ❌      | ✅           | ✅        |
-| Requires Compilation | ❌      | ✅           | ✅        |
+| Variables            |      |           |        |
+| Nesting              |      |           |        |
+| Mixins, Functions    |      |           |        |
+| Requires Compilation |      |           |        |
 
 
 ### ⚙️ Usage in Projects
@@ -1544,11 +1569,11 @@ body {
 What are different related concepts like Mixin, Extend, Function, Control Directives etc.
 
 
-### 🔁 What is a Mixin?
+### What is a Mixin?
 
 A **mixin** lets you define **reusable blocks of CSS**, optionally with parameters—similar to a function in programming.
 
-#### ✅ Use Case:
+#### Use Case:
 
 Instead of repeating vendor prefixes for `transform` everywhere, you can use a mixin.
 
@@ -1684,7 +1709,7 @@ Native JavaScript has improved over time (e.g. with `map`, `filter`, `reduce`), 
 * More **functional-style utilities**
 
 
-### 📦 Installation
+### Installation
 
 ```bash
 npm install lodash
@@ -1712,7 +1737,7 @@ import _ from 'lodash'; // ES Module
 | String     | `_.camelCase('Hello world')` | Converts to `helloWorld`    |
 
 
-### 🧠 Lodash vs Native JavaScript
+### Lodash vs Native JavaScript
 
 Many Lodash features are now **natively available** (e.g. `Array.map`, `Set`, `Object.assign`, etc.). But Lodash still shines in:
 
@@ -1722,7 +1747,7 @@ Many Lodash features are now **natively available** (e.g. `Array.map`, `Set`, `O
 * Safer operations on deeply nested data
 
 
-### ✅ Example Use
+### Example Use
 
 ```js
 const _ = require('lodash');
@@ -1783,17 +1808,17 @@ npm run dev
 ```
 
 
-### 🧠 Why Vite Is Fast
+### Why Vite Is Fast
 
 | Feature                         | Description                                                                      |
 | ------------------------------- | -------------------------------------------------------------------------------- |
-| 🚀 Dev Server                   | Uses native ES Modules + esbuild under the hood for instant startup              |
-| 📦 Build                        | Uses Rollup for highly optimized builds                                          |
-| 🔁 HMR (Hot Module Replacement) | Fast updates in browser without full reload                                      |
+| Dev Server                   | Uses native ES Modules + esbuild under the hood for instant startup              |
+| Build                        | Uses Rollup for highly optimized builds                                          |
+| HMR (Hot Module Replacement) | Fast updates in browser without full reload                                      |
 | ⚙️ Plugin Ecosystem             | Compatible with Rollup plugins and supports TypeScript, Vue, React, Svelte, etc. |
 
 
-### 🧩 Frameworks Supported
+### Frameworks Supported
 
 Vite works with:
 
@@ -1805,7 +1830,7 @@ Vite works with:
 * **Vanilla JavaScript / TypeScript**
 
 
-### 📁 Typical Vite Project Structure
+### Typical Vite Project Structure
 
 ```text
 my-app/
@@ -1840,15 +1865,15 @@ export default defineConfig({
 ```
 
 
-### ✅ Benefits of Using Vite
+### Benefits of Using Vite
 
 * ⚡ Instant server start
-* 🔁 Fast HMR
-* ✅ Out-of-the-box support for TS, JSX, CSS modules
+* Fast HMR
+* Out-of-the-box support for TS, JSX, CSS modules
 * 🌐 Uses modern browser features (ES Modules)
 
 
-### ❓Vite vs Webpack
+### Vite vs Webpack
 
 | Feature       | Vite                | Webpack       |
 | ------------- | ------------------- | ------------- |
@@ -1859,7 +1884,7 @@ export default defineConfig({
 | TypeScript    | Native support      | Needs loader  |
 
 
-### 📦 In Summary
+### In Summary
 
 > **Vite** is a modern frontend tool built with Node.js, focused on providing a super-fast dev experience and optimized production builds, especially for frameworks like React, Vue, and Svelte.
 
@@ -1868,7 +1893,7 @@ export default defineConfig({
 
 ## What is difference between npm and npx?
 
-### ✅ **What is `npm`?**
+### **What is `npm`?**
 
 `npm` stands for **Node Package Manager**. It is used to:
 
@@ -1887,7 +1912,7 @@ npm update               # update installed packages
 ```
 
 
-### 🚀 **What is `npx`?**
+### **What is `npx`?**
 
 `npx` is a tool that comes with `npm` (v5.2+). It is used to **run Node.js CLI tools or packages directly** without installing them globally.
 
@@ -1918,7 +1943,7 @@ npx eslint .                  # run eslint without installing it globally
 | Permanent install? | Yes                        | No (unless cached or used locally)         |
 
 
-### 🧰 Other Useful `npm` Commands
+### Other Useful `npm` Commands
 
 | Command                    | Purpose                                                                 |
 | -------------------------- | ----------------------------------------------------------------------- |
@@ -1932,7 +1957,7 @@ npx eslint .                  # run eslint without installing it globally
 | `npm ci`                   | Clean install for CI/CD pipelines (faster, stricter than `npm install`) |
 
 
-### 🧠 Tip: Use `npx` When...
+### Tip: Use `npx` When...
 
 * You want to **try a package once**
 * You're using **project-local CLI tools**
@@ -1945,7 +1970,7 @@ npx eslint .                  # run eslint without installing it globally
 **Tailwind CSS** is a **utility-first CSS framework** used to build modern websites rapidly by composing utility classes directly in your HTML. Instead of writing custom CSS, you use **predefined classes** to style elements.
 
 
-### ✅ What Makes Tailwind Special?
+### What Makes Tailwind Special?
 
 Unlike traditional CSS frameworks (like Bootstrap), which offer ready-made components, **Tailwind gives you low-level utility classes** like:
 
@@ -1956,7 +1981,7 @@ Unlike traditional CSS frameworks (like Bootstrap), which offer ready-made compo
 ```
 
 
-### 🚀 Key Features
+### Key Features
 
 | Feature                        | Description                                                                  |
 | ------------------------------ | ---------------------------------------------------------------------------- |
@@ -1988,7 +2013,7 @@ Unlike traditional CSS frameworks (like Bootstrap), which offer ready-made compo
 ```
 
 
-### 📦 How to Use Tailwind
+### How to Use Tailwind
 
 You can use Tailwind in various ways:
 
@@ -2053,7 +2078,7 @@ npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 ## Can you compare tailwind vs bootstrap?
 
 
-### 🥊 Tailwind CSS vs Bootstrap: A Detailed Comparison
+### Tailwind CSS vs Bootstrap: A Detailed Comparison
 
 | Feature                   | **Tailwind CSS**                                           | **Bootstrap**                                            |
 | ------------------------- | ---------------------------------------------------------- | -------------------------------------------------------- |
@@ -2090,7 +2115,7 @@ npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 ```
 
 
-### 🎯 When to Use Which?
+### When to Use Which?
 
 #### Use **Tailwind** if:
 
@@ -2105,7 +2130,7 @@ npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 * You’re working on **legacy projects** or with backend-heavy stacks (like PHP, Django).
 
 
-### ✅ Verdict
+### Verdict
 
 | Criteria                  | Winner    |
 | ------------------------- | --------- |
