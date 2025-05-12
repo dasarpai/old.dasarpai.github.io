@@ -10,7 +10,7 @@ layout: pmblog-layout
 tags:
    - 'Agile Terms'
 categories:
-   pmblog
+   - pmblog
 ---
 
 ## What is a Technical Spike?

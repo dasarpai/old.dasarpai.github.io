@@ -7,7 +7,7 @@ permalink: /dsblog/shaping-tomorrow-with-ai-nvidia
 tags:
   - AI
   - Nvidia
-  - innovations
+  - Innovations
 categories:
   - dsblog
 header:

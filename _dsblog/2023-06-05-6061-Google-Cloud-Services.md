@@ -350,7 +350,7 @@ id: Manage hybrid/multi-cloud API environments [Link](https://cloud.google.com/a
 1. Google Cloud Pricing Calculator: [Link](https://cloud.google.com/products/calculator/)
 1. Google Cloud Home Page: [Link](https://cloud.google.com)
 1. Google Cloud Blog: [Link](https://cloud.google.com/blog)
-1. Google Cloud Platform Podcast: [Link]([https://cloud.google.com/podcasts)
+1. Google Cloud Platform Podcast: [Link](https://cloud.google.com/podcasts)
 1. Kubernetes Podcast from Google: [Link](https://kubernetespodcast.com/)
 1. Google Cloud Reader: [Link](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2dvb2dsZS1jbG91ZC1yZWFkZXI=)
 1. Google Cloud Open Source: [Link](https://opensource.google/projects/list/cloud)
