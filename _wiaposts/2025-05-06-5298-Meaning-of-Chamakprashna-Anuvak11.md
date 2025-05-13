@@ -1,5 +1,23 @@
 
-
+---       
+id: 5298
+mathjax: true        
+title:  "Meaning of Chamak Prashna Anuvaka 11"        
+date: "2025-05-05"        
+permalink: /wiaposts/meaning-of-chamakprashna-anuvaka11
+header:        
+    teaser: /assets/images/wiapost/5298-meaning-of-chamakprashna-anuvaka11.jpg               
+author: Hari Thapliyaal        
+layout:   wiaposts-layout        
+author_profile: true        
+share: true
+categories: [wiaposts, Ayurveda, Health] 
+tags:  []      
+keywords: [Ayurveda, Ayurveda Health Tips, Sanskrit Texts, Ayurveda for Immunity, Ayurveda for Health, Ayurveda for Long Life, Ayurveda for Wellbeing]
+excerpt: "Ayurveda is the ancient Indian system of traditional medicine. Here are some Ayurveda tips in Sanskrit texts."
+toc_sticky: false
+toc_levels: 2
+---
 
 ## Numbers in Chamakprashna 11th Anuvaka
 

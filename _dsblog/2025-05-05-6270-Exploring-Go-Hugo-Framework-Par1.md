@@ -36,8 +36,7 @@ keywords: [Hugo Framework, Go Hugo, Static Site Generator, SSG, Web Development,
 
 Hugo is a fast and flexible open-source static site generator written in Go, designed to help developers build modern websites quickly without relying on databases or heavy server-side frameworks. It uses simple Markdown files for content, supports powerful templating and theming systems, and can generate entire websites in milliseconds. With features like built-in live reload, content organization, internationalization, and Hugo Modules for reusable components, it's ideal for blogs, documentation sites, portfolios, and even complex multi-language websites. Hugo integrates easily with platforms like GitHub Pages and Netlify, making it a popular choice for developers seeking performance, simplicity, and portability in their web projects.
 
-Would you like a version of this tailored for use in a README or presentation slide?
-
+This entire article is in a question-and-answer format, developed during my own experience implementing Hugo for my work. If you're looking to seriously implement and customize Hugo—and want to avoid the frustration of getting lost in hundreds of videos, articles, or endless searches on ChatGPT or Google—then I recommend reading these two articles. The other article is [here](/_dsblog/exploring-hugo-framework-part2). Together, they will give you a solid understanding of the entire ecosystem. Even if you're new to website development, you'll gain clarity on how the various components work. At the very least, you'll come away with a valuable set of questions to ask AI during your own implementation.
 
 ## Hugo Project Structure with Hugo Modules
 
@@ -93,7 +92,7 @@ No, not for building the Hugo site.
 
 go build is for building Go binaries — not for generating static websites.
 
-✅ To build the Hugo site, run:
+To build the Hugo site, run:
 
 hugo   
 (from the site/ directory)
@@ -101,16 +100,14 @@ hugo
 This will use config.toml and the content/, layouts/, static/ folders to generate the final website.
 
 
-## Where the build process the put the output?
-By default, Hugo generates your static website into a folder named:
-
-
+## Where the build process the output?
+By default, Hugo generates your static website into a folder named:  
 public/   
-So after running:
 
+So after running:  
 hugo   
-You'll get:
 
+You'll get:  
 
 site/  
 ├── public/  
@@ -162,7 +159,7 @@ Steps:
 	- Run the build
 	- Serve your site with HTTPS, CDN, and more
 
-🎯 Bonus: You can set environment variables like HUGO_VERSION if needed.
+Bonus: You can set environment variables like HUGO_VERSION if needed.
 
 
 ## How to manage different branch for publishing website?
@@ -196,7 +193,7 @@ git add .
 git commit -m "Deploy site to GitHub Pages"  
 git push --force origin gh-pages  
 
-✅ This will push only the contents of public/ to gh-pages.
+This will push only the contents of public/ to gh-pages.
 
 **Method 2: Use a Deployment Script**  
 You can automate it using a shell script like this:
@@ -264,11 +261,11 @@ Then run:
 ./deploy.sh
 
 
-## 🧩 Why Use Hugo Modules?
+## Why Use Hugo Modules?
 
 Instead of manually downloading or including themes and components, you can:
 
-### ✅ Import a theme like this in `config.toml`:
+### Import a theme like this in `config.toml`:
 
 ```toml
 [module]
@@ -276,7 +273,7 @@ Instead of manually downloading or including themes and components, you can:
     path = "github.com/theNewDynamic/gohugo-theme-ananke"
 ```
 
-### ✅ Hugo will download the theme as a Go module:
+### Hugo will download the theme as a Go module:
 
 ```bash
 hugo mod get
@@ -285,7 +282,7 @@ hugo mod get
 No more git submodules or manual copying! It's clean, version-controlled, and reproducible.
 
 
-### 🔁 Updating Modules
+### Updating Modules
 
 You can later run:
 
@@ -300,7 +297,7 @@ hugo mod get -u   # Update all modules
 Here are the **most frequently used Hugo commands**, grouped by purpose, to help you manage your site efficiently:
 
 
-### 🚀 Development & Preview
+### Development & Preview
 
 | Command   | Description    |
 | --- | --- |
@@ -309,7 +306,7 @@ Here are the **most frequently used Hugo commands**, grouped by purpose, to help
 | `hugo server --disableFastRender` | Reloads full site on changes; helpful if partial rebuilds misbehave.   |
 
 
-### 🏗️ Build & Deployment
+### Build & Deployment
 
 | Command    | Description    |
 | --- | --- |
@@ -319,7 +316,7 @@ Here are the **most frequently used Hugo commands**, grouped by purpose, to help
 | `hugo --minify`    | Minifies HTML/CSS/JS for production.   |
 
 
-### 🧰 Module Commands (for Hugo Modules)
+### Module Commands (for Hugo Modules)
 
 | Command   | Description   |
 | --- | --- |
@@ -329,7 +326,7 @@ Here are the **most frequently used Hugo commands**, grouped by purpose, to help
 | `hugo mod graph`    | Visualizes module dependencies.   |
 
 
-### 📝 Content Creation
+### Content Creation
 
 | Command   | Description    |
 | --- | --- |
@@ -337,7 +334,7 @@ Here are the **most frequently used Hugo commands**, grouped by purpose, to help
 | `hugo new content/about/index.md` | Creates a new page bundle (useful for sections). |
 
 
-### 🧪 Troubleshooting & Utilities
+### Troubleshooting & Utilities
 
 | Command    | Description   |
 | --- | --- |
@@ -348,7 +345,7 @@ Here are the **most frequently used Hugo commands**, grouped by purpose, to help
 
 
 
-## What does this command does
+## What does `hugo mod init` command does
 
 ```bash
 hugo mod init github.com/googleforgames/agones/site
@@ -359,7 +356,7 @@ initializes a **Hugo Module** in your current Hugo site directory with the speci
 
 Here's a breakdown of what it does:
 
-### ✅ What It Does:
+### What It Does:
 
 1. **Initializes Hugo Modules** in the current site folder (if not already initialized).
 2. **Creates a `go.mod` file** with the module path `github.com/googleforgames/agones/site`, used to manage Hugo modules with Go Modules under the hood.
@@ -370,7 +367,7 @@ Here's a breakdown of what it does:
    * You want to **import themes or shared components** via Go module paths instead of submodules or manual copying.
 
 
-### 📁 Example Output:
+### Example Output:
 
 It will generate a `go.mod` file like:
 
@@ -389,7 +386,7 @@ This tells Hugo and Go which module your site represents and what dependencies i
 
 
 
-## What are pupular hugo modules? where are stored in directory structure? How to use them?
+## What are pupular hugo modules? where are they stored in directory structure? How to use them?
 Hugo Modules are a powerful way to **reuse components like themes, partials, shortcodes, or entire content structures** across multiple Hugo projects.
 
 Hugo Modules are a **Go Modules-based system** that allows you to:
@@ -401,7 +398,7 @@ Hugo Modules are a **Go Modules-based system** that allows you to:
 They're declared in `config.toml` (or `config.yaml`) and managed via `go.mod`.
 
 
-### 🔥 Popular Hugo Modules
+### Popular Hugo Modules
 
 Here are some widely used Hugo modules:
 
@@ -414,7 +411,7 @@ Here are some widely used Hugo modules:
 | [`github.com/alex-shpak/hugo-book`](https://github.com/alex-shpak/hugo-book)   | A theme used for documentation sites.    |
 
 
-### 📁 Where Are Hugo Modules Stored?
+### Where Are Hugo Modules Stored?
 
 Hugo modules are not stored directly inside your project unless you **vendor** them.
 
@@ -440,7 +437,7 @@ Then they go into:
 ```
 
 
-### ⚙️ How to Use Hugo Modules?
+### How to Use Hugo Modules?
 
 **🛠️ Step-by-Step**
 
@@ -507,7 +504,7 @@ hugo mod graph   # Show dependency tree
 In Hugo, the **Hugo Pipes** (or Hugo Asset Pipeline) refers to a built-in feature for processing and optimizing assets like CSS, JavaScript, and images during site generation. It’s particularly useful when you're working with themes like **Docsy** or building custom layouts that need dynamic asset handling.
 
 
-### 🔧 What Hugo Pipes Can Do
+### What Hugo Pipes Can Do
 
 Hugo Pipes can:
 
@@ -518,7 +515,7 @@ Hugo Pipes can:
 5. **Process images** (resize, crop, convert format).
 
 
-### ⚙️ Example Use in `baseof.html` (SCSS pipeline)
+### Example Use in `baseof.html` (SCSS pipeline)
 
 Here’s a common Hugo Pipes pipeline used in a theme like **Docsy**:
 
@@ -541,34 +538,37 @@ Here’s a common Hugo Pipes pipeline used in a theme like **Docsy**:
 * `integrity` supports Subresource Integrity (SRI).
 
 
-### 🔁 JavaScript Pipeline Example
+### JavaScript Pipeline Example
 
 {% raw %}
 ```go-html-template
 {{ $js := resources.Get "js/main.js" | minify | fingerprint }}
-<script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+<script src="{{ $js.RelPermalink }}" 
+integrity="{{ $js.Data.Integrity }}"></script>
 ```
 {% endraw %}
 
 
-### 🧪 Image Processing Example
+### Image Processing Example
 
 {% raw %}
 ```go-html-template
-{{ $image := resources.Get "images/example.jpg" | images.Resize "600x" }}
-<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+{{ $image := resources.Get "images/example.jpg" | 
+images.Resize "600x" }}
+<img src="{{ $image.RelPermalink }}" 
+width="{{ $image.Width }}" height="{{ $image.Height }}">
 ```
 {% endraw %}
 
 
-### ✅ Requirements
+### Requirements
 
 * **Hugo Extended** version (needed for SCSS support).
 * Your assets should be in the `assets/` directory (not `static/`).
 * Place these pipelines inside your `layouts/_default/baseof.html` or any other template file.
 
 
-### 📁 Folder Structure for Hugo Pipes
+### Folder Structure for Hugo Pipes
 
 ```
 my-site/
@@ -588,9 +588,9 @@ my-site/
 ## What is purpose of static and assets folder in hugo project?
 
 
-### ✅ **Hugo Assets vs Static Folder — In a Nutshell**
+### **Hugo Assets vs Static Folder — In a Nutshell**
 
-**🗂️ `assets/` folder**
+**`assets/` folder**
 
 * **Use it when you want Hugo to process the files** during the build (via Hugo Pipes).
 * Examples:
@@ -602,7 +602,7 @@ my-site/
 * These files are **not directly accessible** via URL.
 * The transformed output is **automatically placed into the `public/` folder** during build.
 
-**📁 `static/` folder**
+**`static/` folder**
 
 * **Use it for raw files** that don’t need processing.
 * Examples:
@@ -614,9 +614,9 @@ my-site/
 * Faster build time, since Hugo doesn’t touch them.
 
 
-## 🚀 Rule of Thumb
+## Rule of Thumb
 
-> 🧠 **“If transformation is needed → `assets/`. If it’s ready to serve → `static/`.”**
+> **“If transformation is needed → `assets/`. If it’s ready to serve → `static/`.”**
 
 
 
@@ -624,7 +624,7 @@ my-site/
 Both `config.toml` and `config.yaml` work equally well in Hugo — **the choice depends on your preference** or your team's conventions. Here's a comparison to help you decide:
 
 
-### ✅ TOML (default & popular)
+### TOML (default & popular)
 
 **Pros:**
 
@@ -645,7 +645,7 @@ title = "My Hugo Site"
 ```
 
 
-### ✅ YAML (more common in DevOps)
+### YAML (more common in DevOps)
 
 **Pros:**
 
@@ -669,8 +669,8 @@ params:
 
 | Feature         | TOML                 | YAML             |
 | --------------- | -------------------- | ---------------- |
-| Hugo default    | ✅ Yes                | ❌ No             |
-| Readability     | ✅ Simple             | ✅ Human-friendly |
+| Hugo default    | Yes                  | No             |
+| Readability     | Simple               | Human-friendly |
 | Best for        | Hugo, simple configs | Complex nesting  |
 | Community usage | Common in Hugo       | Common in DevOps |
 

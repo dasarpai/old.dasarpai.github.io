@@ -245,7 +245,7 @@ A **compiler** is a specialized program that translates source code written in a
 
 ---
 
-## Can a language have multiple compilers if yes you can you give example?
+## Can a language have multiple compilers if yes then can you give example?
 Yes, the **same program compiled with different compilers can have different performance** — sometimes significantly so. Here's why:
 
 ---
@@ -253,26 +253,17 @@ Yes, the **same program compiled with different compilers can have different per
 **Key Reasons for Performance Differences:**
 
 1. **Optimization Techniques**
-
-* Different compilers use different **optimization algorithms** (e.g., loop unrolling, inlining, vectorization).
-* Some focus on **execution speed**, others on **binary size** or **compilation speed**.
-
+  * Different compilers use different **optimization algorithms** (e.g., loop unrolling, inlining, vectorization).
+  * Some focus on **execution speed**, others on **binary size** or **compilation speed**.
 2. **Code Generation**
-
-* Compilers may generate different **machine instructions** for the same high-level code.
-* Some might use CPU-specific instructions (like SIMD or AVX), while others may use more general ones.
-
+  * Compilers may generate different **machine instructions** for the same high-level code.
+  * Some might use CPU-specific instructions (like SIMD or AVX), while others may use more general ones.
 3. **Target Architecture Awareness**
-
-* A compiler like **Intel ICC** is highly optimized for Intel CPUs, while **Clang** might generate more portable code.
-
+  * A compiler like **Intel ICC** is highly optimized for Intel CPUs, while **Clang** might generate more portable code.
 4. **Runtime Support and Libraries**
-
-* Different compilers link with different runtime libraries, affecting memory management, I/O, and threading.
-
+  * Different compilers link with different runtime libraries, affecting memory management, I/O, and threading.
 5. **Debug vs. Release Mode**
-
-* Some compilers have better default optimizations in **release mode** than others.
+  * Some compilers have better default optimizations in **release mode** than others.
 
 ---
 
@@ -323,8 +314,9 @@ The **Go compiler (gc)** — the official compiler for the Go programming langua
 * **GoLLVM** – Uses LLVM as backend.
 
 
-## Let us asume we have go program file distances.go. In the different stages of compilation what happens to this code that hardware understand it?
-Great question! Let’s walk through what happens **step-by-step** when you compile and run a Go program (say `court.go` and `distances.go`) using the **Go toolchain** (`go build` or `go run`). The goal is to understand how the source code becomes something your **hardware** can execute.
+## What happens in the different stages of compilation?
+Let us assume we have go program file distances.go. In the different stages of compilation what happens to this code that hardware understand it?
+Let’s walk through what happens **step-by-step** when you compile and run a Go program (say `court.go` and `distances.go`) using the **Go toolchain** (`go build` or `go run`). The goal is to understand how the source code becomes something your **hardware** can execute.
 
 ---
 
