@@ -23,7 +23,7 @@ author_profile: true
 share: true
 toc: true
 toc_sticky: true
-toc_levels: 3
+toc_levels: 2
 comments: true
 auto_number_headings: false
 keywords: [Hugo Framework, Go Hugo, Static Site Generator, SSG, Web Development, Go Language, Website Generation]
@@ -221,6 +221,7 @@ Make sure it’s executable:
 
 
 **Create a script .github/workflows/deploy.yml**  
+{% raw %}
 ```
 name: Deploy Hugo site to GitHub Pages
 
@@ -253,6 +254,7 @@ jobs:
     publish_branch: gh-pages
 
 ```
+{% endraw %}
 
 chmod +x deploy.sh
 

@@ -645,7 +645,9 @@ If you want **custom theming**, **minification**, **PostCSS**, or **Tailwind JIT
 
 {% endraw %}
 ```go-html-template
-{{ $styles := resources.Get "scss/main.scss" | toCSS | minify | fingerprint }}
+{{ $styles := resources.Get "scss/main.scss" | 
+toCSS | minify | fingerprint }}
+
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
 ```
 {% raw %}
@@ -668,7 +670,10 @@ You’ll need:
 
 {% raw %}
 ```go-html-template
-{{ $styles := resources.Get "css/styles.css" | postCSS (dict "config" "./postcss.config.js") | minify | fingerprint }}
+{{ $styles := resources.Get "css/styles.css" | 
+postCSS (dict "config" "./postcss.config.js") | 
+minify | fingerprint }}
+
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
 ```
 {% endraw %}
