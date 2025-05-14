@@ -2,7 +2,7 @@
 id: 5298
 mathjax: true        
 title:  "Meaning of Chamak Prashna Anuvaka 11"        
-date: "2025-05-05"        
+date: "2025-05-06"        
 permalink: /wiaposts/meaning-of-chamakprashna-anuvaka11
 header:        
     teaser: /assets/images/wiapost/5298-meaning-of-chamakprashna-anuvaka11.jpg               

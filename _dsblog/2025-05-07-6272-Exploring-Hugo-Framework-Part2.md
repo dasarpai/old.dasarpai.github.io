@@ -148,11 +148,11 @@ your-hugo-site/
 You can now use it like any regular shortcode:
 
 
-{% raw %}
+
 ```markdown
-{{< myshortcode param1="value" >}}
+{{&lt; myshortcode param1="value" &gt;}}
 ```
-{% endraw %}
+
 
 ### 🔄 Alternative: Import the Theme as a Hugo Module Too
 
@@ -229,22 +229,22 @@ So:
 
 You **cannot directly call a shortcode from a specific module by path** like:
 
-{% raw %}
+
 ```markdown
-{{< github.com/other/theme/shortcode >}}  ❌ not supported
+{{&lt; github.com/other/theme/shortcode &gt;}}  ❌ not supported
 ```
-{% endraw %}
+
 
 Instead, you do this:
 
 * Ensure the shortcode has a **unique name** (e.g., `card-docsy.html`, `card-papermod.html`).
 * Then use it by that name:
 
-{% raw %}
+
 ```markdown
-{{< card-docsy title="..." >}}
+{{&lt; card-docsy title="..." &gt;}}
 ```
-{% endraw %}
+
 
 Alternatively, if there’s a name clash (e.g., both modules have `alert.html`), and you want both:
 
@@ -253,11 +253,11 @@ Alternatively, if there’s a name clash (e.g., both modules have `alert.html`),
 1. Copy one version of `alert.html` from the module repo to your local `layouts/shortcodes/alert-docsy.html`.
 2. Rename and use it like this:
 
-{% raw %}
+
 ```markdown
-{{< alert-docsy >}}This is a Docsy alert.{{< /alert-docsy >}}
+{{&lt; alert-docsy &gt;}}This is a Docsy alert.{{&lt; /alert-docsy &gt;}}
 ```
-{% endraw %}
+
 
 
 ### ✅ Summary
@@ -643,14 +643,14 @@ If you want **custom theming**, **minification**, **PostCSS**, or **Tailwind JIT
 
 * In `head.html`:
 
-{% endraw %}
+
 ```go-html-template
 {{ $styles := resources.Get "scss/main.scss" | 
 toCSS | minify | fingerprint }}
 
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
 ```
-{% raw %}
+
 
 #### For Tailwind (with PostCSS):
 
@@ -668,7 +668,7 @@ You’ll need:
 
 * Add in `head.html`:
 
-{% raw %}
+
 ```go-html-template
 {{ $styles := resources.Get "css/styles.css" | 
 postCSS (dict "config" "./postcss.config.js") | 
@@ -676,7 +676,7 @@ minify | fingerprint }}
 
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
 ```
-{% endraw %}
+
 
 > ✅ Pros: Tree-shaking, fast, production-ready
 > ❌ Cons: Needs setup of `postcss`, `tailwind.config.js`, `npm`
@@ -691,21 +691,21 @@ Some Hugo themes (like Docsy) have their own way of injecting scripts and styles
 
 Example (`baseof.html`):
 
-{% raw %}
+
 ```go-html-template
 {{ block "custom-scripts" . }}{{ end }}
 ```
-{% endraw %}
+
 
 Your layout:
 
-{% raw %}
+
 ```go-html-template
 {{ define "custom-scripts" }}
 <script src="/js/mylib.js"></script>
 {{ end }}
 ```
-{% endraw %}
+
 
 
 ### ✅ Summary Table
@@ -754,10 +754,12 @@ In a Hugo project, you can use PostCSS via `resources.Get` + `postCSS`:
 
 #### ✅ Example:
 
+
 ```html
 {{ $css := resources.Get "css/style.css" | postCSS (dict "config" "./postcss.config.js") | minify }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 ```
+
 
 You need to set up a `postcss.config.js` like:
 
@@ -891,10 +893,12 @@ You typically:
 
 **Example Hugo usage:**
 
+
 ```html
 {{ $css := resources.Get "css/style.css" | postCSS (dict "config" "postcss.config.js") | minify }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 ```
+
 
 
 ### ✅ 2. **Use frontend modules in the browser (like `lodash`, `axios`, etc.)**
@@ -1108,11 +1112,11 @@ This compiles TypeScript into a single `static/js/bundle.js`.
 
 And include that partial in your `baseof.html` or page template:
 
-{% raw %}
+
 ```go
 {{ partial "scripts.html" . }}
 ```
-{% endraw %}
+
 
 
 ### ✅ Optional: Use Vite (for Hot Reloading + Dev Server)
@@ -1284,6 +1288,7 @@ layout: "reveal"
 
 In `layouts/_default/reveal.html`:
 
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -1305,6 +1310,7 @@ In `layouts/_default/reveal.html`:
 </body>
 </html>
 ```
+
 
 Then navigate to `/presentations/my-talk/` to view it!
 

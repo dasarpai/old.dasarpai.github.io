@@ -44,13 +44,13 @@ Assume you have a site for a project like Agones, and your directory looks like 
 
 ```
 agones/
-├── site/   <- Your Hugo site root
+├── site/   &lt;- Your Hugo site root
 │   ├── config.toml
 │   ├── content/
 │   ├── layouts/
 │   ├── static/
-│   ├── themes/   <- Can be empty if using Hugo Modules
-│   └── go.mod    <- Created by `hugo mod init`
+│   ├── themes/   &lt;- Can be empty if using Hugo Modules
+│   └── go.mod    &lt;- Created by `hugo mod init`
 ├── build/
 ├── cmd/
 ├── pkg/
@@ -221,8 +221,8 @@ Make sure it’s executable:
 
 
 **Create a script .github/workflows/deploy.yml**  
-{% raw %}
-```
+
+```yaml
 name: Deploy Hugo site to GitHub Pages
 
 on:
@@ -254,7 +254,7 @@ jobs:
     publish_branch: gh-pages
 
 ```
-{% endraw %}
+
 
 chmod +x deploy.sh
 
@@ -322,7 +322,7 @@ Here are the **most frequently used Hugo commands**, grouped by purpose, to help
 
 | Command   | Description   |
 | --- | --- |
-| `hugo mod init <module-path>` | Initializes the site as a Hugo module.  |
+| `hugo mod init &lt;module-path>` | Initializes the site as a Hugo module.  |
 | `hugo mod get`    | Downloads all module dependencies.    |
 | `hugo mod tidy`   | Cleans up unused modules from `go.mod`. |
 | `hugo mod graph`    | Visualizes module dependencies.   |
@@ -433,7 +433,7 @@ Then they go into:
 ```
 /my-hugo-site/
 ├── themes/
-│   └── <module contents>
+│   └── &lt;module contents&gt;
 ├── go.mod
 ├── go.sum
 ```
@@ -521,13 +521,13 @@ Hugo Pipes can:
 
 Here’s a common Hugo Pipes pipeline used in a theme like **Docsy**:
 
-{% raw %}
+
 ```go-html-template
 {{ $options := dict "targetPath" "css/styles.css" }}
 {{ $styles := resources.Get "scss/styles.scss" | toCSS $options | minify | fingerprint }}
-<link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}">
+&lt;link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}"&gt;
 ```
-{% endraw %}
+
 
 
 **What this does:**
@@ -542,25 +542,25 @@ Here’s a common Hugo Pipes pipeline used in a theme like **Docsy**:
 
 ### JavaScript Pipeline Example
 
-{% raw %}
+
 ```go-html-template
 {{ $js := resources.Get "js/main.js" | minify | fingerprint }}
-<script src="{{ $js.RelPermalink }}" 
-integrity="{{ $js.Data.Integrity }}"></script>
+&lt;script src="{{ $js.RelPermalink }}" 
+integrity="{{ $js.Data.Integrity }}"&gt;&lt;/script&gt;
 ```
-{% endraw %}
+
 
 
 ### Image Processing Example
 
-{% raw %}
+
 ```go-html-template
 {{ $image := resources.Get "images/example.jpg" | 
 images.Resize "600x" }}
-<img src="{{ $image.RelPermalink }}" 
-width="{{ $image.Width }}" height="{{ $image.Height }}">
+&lt;img src="{{ $image.RelPermalink }}" 
+width="{{ $image.Width }}" height="{{ $image.Height }}"&gt;
 ```
-{% endraw %}
+
 
 
 ### Requirements

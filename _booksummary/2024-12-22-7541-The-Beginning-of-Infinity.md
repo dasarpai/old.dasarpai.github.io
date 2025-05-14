@@ -2,7 +2,7 @@
 mathjax: true
 id: 7541
 title: "The Beginning of Infinity"
-date: 2024-12-2
+date: 2024-12-02
 permalink: /booksummary/The-Beginning-of-Infinity
 tags:
   - "The Beginning of Infinity"
