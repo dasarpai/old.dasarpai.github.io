@@ -651,3 +651,27 @@ When you have a local folder that is synced to Google Drive, it will automatical
 git rm --cached "gdrive/**/desktop.ini"
 git commit -m "Remove desktop.ini from Git index"
 ```
+
+
+## What is github submodule?
+
+### Submodule
+This allows Docsy to live inside your themes/ directory and ensures any future updates are trackable. You need to manually sync the original repo.
+
+git submodule add https://github.com/google/docsy.git themes/docsy
+git submodule update --init --recursive
+
+
+### Cloning the latest commit only 
+This command clones the docsy repository from GitHub with only the latest commit of its default branch (usually main or master), rather than the entire commit history.   
+It is   
+- Faster: Much quicker than a full clone, especially for large repos.
+- Smaller size: Saves disk space by omitting history.
+- Useful for themes, CI/CD, or quick deployments where you don't need full Git logs or to contr
+
+git clone --depth 1 https://github.com/google/docsy.git
+
+
+
+### Full cloning   
+git clone https://github.com/google/docsy.git

@@ -222,6 +222,7 @@ Make sure it’s executable:
 
 **Create a script .github/workflows/deploy.yml**  
 
+{% raw %}
 ```yaml
 name: Deploy Hugo site to GitHub Pages
 
@@ -255,13 +256,12 @@ jobs:
 
 ```
 
-
 chmod +x deploy.sh
 
 Then run:
 
 ./deploy.sh
-
+{% endraw %}
 
 ## Why Use Hugo Modules?
 
@@ -430,14 +430,15 @@ hugo mod vendor
 
 Then they go into:
 
+{% raw %}
 ```
 /my-hugo-site/
 ├── themes/
-│   └── &lt;module contents&gt;
+│   └── <module contents>
 ├── go.mod
 ├── go.sum
 ```
-
+{% endraw %}
 
 ### How to Use Hugo Modules?
 
@@ -521,13 +522,13 @@ Hugo Pipes can:
 
 Here’s a common Hugo Pipes pipeline used in a theme like **Docsy**:
 
-
+{% raw %}
 ```go-html-template
 {{ $options := dict "targetPath" "css/styles.css" }}
 {{ $styles := resources.Get "scss/styles.scss" | toCSS $options | minify | fingerprint }}
 &lt;link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}"&gt;
 ```
-
+{% endraw %}
 
 
 **What this does:**
@@ -542,25 +543,25 @@ Here’s a common Hugo Pipes pipeline used in a theme like **Docsy**:
 
 ### JavaScript Pipeline Example
 
-
+{% raw %}
 ```go-html-template
 {{ $js := resources.Get "js/main.js" | minify | fingerprint }}
 &lt;script src="{{ $js.RelPermalink }}" 
 integrity="{{ $js.Data.Integrity }}"&gt;&lt;/script&gt;
 ```
-
+{% endraw %}
 
 
 ### Image Processing Example
 
-
+{% raw %}
 ```go-html-template
 {{ $image := resources.Get "images/example.jpg" | 
 images.Resize "600x" }}
 &lt;img src="{{ $image.RelPermalink }}" 
 width="{{ $image.Width }}" height="{{ $image.Height }}"&gt;
 ```
-
+{% endraw %}
 
 
 ### Requirements
@@ -571,6 +572,7 @@ width="{{ $image.Width }}" height="{{ $image.Height }}"&gt;
 
 
 ### Folder Structure for Hugo Pipes
+
 
 ```
 my-site/

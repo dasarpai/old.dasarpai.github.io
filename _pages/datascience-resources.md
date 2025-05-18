@@ -1,10 +1,10 @@
 ---
 id: 705    
-permalink: /datascience-resources
+title: "Welcome to AI ML Resources from Data Science Blog"
 layout: collection-by-category
+permalink: /datascience-resources
 collection_name: dsblog
 category_name: "dsresources"
-title: "Welcome to AI ML Resources from Data Science Blog"
 entries_layout: grid
 author_profile: true
 classes: wide
