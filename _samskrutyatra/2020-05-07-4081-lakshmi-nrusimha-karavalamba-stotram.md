@@ -25,9 +25,11 @@ share: true
 # लक्ष्मीनृसिंह करावलम्ब स्तोत्र     
 ## Lakshmi Nrusimha Karavalamba Stotram    
     
-{% include embed-audio.html src = "https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/O001-LakshmiNrusimhaKaravalambaStotram.mpeg" %}     
-    
-    
+<audio controls>
+  <source src="https://raw.githubusercontent.com/dasarpai/DAI-mp3/main/dasarpai-mp3/O001-LakshmiNrusimhaKaravalambaStotram.mpeg" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+      
     
 श्रीमत्पयोनिधिनिकेतन चक्रपाणे भोगीन्द्रभोगमणिराजित पुण्यमूर्ते |    
 योगीश शाश्वत शरण्य भवाब्धिपोत लक्ष्मीनृसिंह मम देहि करावलम्बम् || 1 ||    
