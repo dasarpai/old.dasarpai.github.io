@@ -10,10 +10,10 @@ author: Hari Thapliyaal
 layout:   wiaposts-layout        
 author_profile: true        
 share: true
-categories: [wiaposts, Ayurveda, Health] 
-tags:  []      
-keywords: [Ayurveda, Ayurveda Health Tips, Sanskrit Texts, Ayurveda for Immunity, Ayurveda for Health, Ayurveda for Long Life, Ayurveda for Wellbeing]
-excerpt: "Ayurveda is the ancient Indian system of traditional medicine. Here are some Ayurveda tips in Sanskrit texts."
+categories: [wiaposts, Vedanta] 
+tags:  [Rudra Prashna, Chamak Prashna]      
+keywords: [Rudra Prashna, Chamak Prashna, Shri Rudram, Shri Rudram Namakam, Shri Rudram Chamakam, Shri Rudram Namakam Anuvak 11]
+excerpt: "Exploring the meaning of Chamak Prashna Anuvaka 11"
 toc_sticky: false
 toc_levels: 2
 ---

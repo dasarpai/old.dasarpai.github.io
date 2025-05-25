@@ -10,7 +10,7 @@ header:
      teaser: /assets/images/wiapost/5118-Do-I-Have-Free-Will.jpg
 author: Hari Thapliyaal 
 layout:   wiaposts-layout
-excerpt: Exploration of free will, delving into insights from Vedanta and philosophical contexts.
+excerpt: "Since the time first life came in the existence, It is struggling to establish itself separate  rom the existence, it came from!  Like drop comes out of the ocean And it is struggling to establish its Independence from the ocean. We all know where the drop has come from and what happens to the drop at the end."
 author_profile: true 
 share: true 
 ---
