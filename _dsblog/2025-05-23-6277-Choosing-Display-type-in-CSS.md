@@ -204,3 +204,111 @@ HTML:
 
 This creates a 3-column layout with equal widths and 10px gaps between boxes.
 
+## How to set `display` property in bootstrap and tailwind?
+**The underlying CSS `display` values are the same**, but **the class names and flexibility differ** between Bootstrap and Tailwind. Tailwind tends to be more expressive and granular by default.
+Both provide utility-based control over `display`. Both support responsive variants.
+
+1. **Bootstrap:**
+
+Bootstrap provides utility classes for the `display` property using the pattern:
+
+```
+.d-{value}
+```
+
+Common examples:
+
+* `.d-block` → `display: block;`
+* `.d-inline` → `display: inline;`
+* `.d-flex` → `display: flex;`
+* `.d-none` → `display: none;`
+* responsive variations like: `.d-sm-none`, `.d-md-block`, etc.
+
+---
+
+2. **Tailwind CSS:**
+
+Tailwind provides utility classes for `display` using descriptive class names:
+
+```
+display: {value}
+```
+
+
+| Feature       | Bootstrap                                   | Tailwind CSS                                                                             |
+| ------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Syntax        | `.d-block`, `.d-none`                       | `block`, `hidden`                                                                        |
+| Naming style  | Short + prefixed                            | Descriptive + unprefixed                                                                 |
+| Customization | Requires Sass override                      | Fully configurable via `tailwind.config.js`                                              |
+| Consistency   | Bootstrap is limited to fewer display types | Tailwind supports more modern `display` values like `grid`, `inline-grid` out of the box |
+
+**Common examples:**
+
+| Utility Class    | CSS Equivalent         | tailwind |
+| ---------------- | ---------------------- | -------- |
+| `.d-block`       | `display: block`       | block  |
+| `.d-inline`      | `display: inline`      | inline | 
+| `.d-flex`        | `display: flex`        | flex |
+| `.d-grid`        | `display: grid`        | grid |
+| `.d-inline-grid` | `display: inline-grid` | inline-grid |
+| `.d-none`        | `display: none`        | hidden |
+| `.d-inline-block` | `display: inline-block` | inline-block |
+| .d-sm-none`, `.d-md-block`, `.d-md-grid`, `.d-lg-inline-grid` | responsive variations | `sm:hidden`, `md:flex` |
+| | Utility Classes | `grid-cols-2`, `gap-4`, `auto-rows-fr` |
+
+
+
+## How does browser knows which framework to use for css class?
+Frameworks like Tailwind and Bootstrap are developer tools. Browsers just apply CSS rules — they don’t "know" what framework you're using.
+
+1. **Tailwind / Bootstrap = Class Names → CSS**
+
+Frameworks like Tailwind and Bootstrap define a set of **prewritten CSS classes** that map to standard CSS properties.
+
+**Example:**
+
+```html
+<div class="grid"> <!-- Tailwind -->
+<div class="d-grid"> <!-- Bootstrap -->
+```
+
+Behind the scenes:
+
+* Tailwind:
+
+  ```css
+  .grid {
+    display: grid;
+  }
+  ```
+* Bootstrap:
+
+  ```css
+  .d-grid {
+    display: grid;
+  }
+  ```
+
+When the browser sees:
+
+```html
+<div class="grid">
+```
+
+It doesn’t think: “Ah, Tailwind!”
+It just sees the class name and applies the CSS rule:
+
+```css
+display: grid;
+```
+
+**Developer Side vs. Browser Side**
+
+| Aspect              | Developer View (Tailwind/Bootstrap) | Browser View     |
+| ------------------- | ----------------------------------- | ---------------- |
+| Semantic Frameworks | `grid`, `d-grid`, etc.              | Just CSS classes |
+| Additional Features | Config files, responsive variants   | Not relevant     |
+| Rendered Output     | HTML + linked CSS files             | CSS → Style Tree |
+
+
+

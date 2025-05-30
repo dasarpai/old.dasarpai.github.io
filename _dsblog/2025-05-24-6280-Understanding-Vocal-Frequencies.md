@@ -273,3 +273,498 @@ The frequency of 432 Hz has been associated with historical tuning systems. Some
 Listeners often report that music tuned to 432 Hz feels more relaxing and harmonious compared to the standard 440 Hz tuning. Some small-scale studies and anecdotal reports suggest potential benefits, such as reduced stress and anxiety. For instance, a study indicated that 432 Hz music might help decrease dental anxiety during procedures.
 
 
+## How come same frequency have different experience?
+When we play same musical notes say c# on different instruments say guitar or flute or human sing at c# note they look different. Even two or three guitar all playing c# can be experienced differently by a person of good ears.
+
+When you play the same musical note, like C♯, on different instruments (or with your voice), the **sameness** comes down to **pitch**, but the **difference** is in **timbre**. Here's a breakdown of what's happening:
+
+---
+
+### **What Is the "Sameness"?**
+
+The sameness is the **fundamental frequency**.
+
+* C♯ has a specific frequency. For example, **C♯4** (the C♯ just above middle C) has a frequency of **277.18 Hz**.
+* Whether you play this on a **guitar**, **flute**, or **sing** it, if you're accurately producing that frequency, the **pitch** is perceived as the same.
+
+So, **pitch** = sameness in frequency = what your brain identifies as the "note.", not frequency (which physical, existential, finer concept than the note)
+
+---
+
+### 🎨 **What Is Different Then?**
+
+The **timbre** (or tone color) is what makes each instrument sound unique.
+
+Even if the pitch is the same:
+
+* A **flute** sounds smooth and airy.
+* A **guitar** sounds plucky and resonant.
+* A **human voice** has rich, complex overtones and slight variations in pronunciation and vibration.
+
+This is because of differences in:
+
+* **Harmonic content**: Each instrument produces a different mix of overtones (frequencies above the fundamental).
+* **Attack and decay**: How the sound starts and fades away.
+* **Resonance and body shape**: Physical structure amplifies different frequencies.
+* **Noise components**: Breath in a flute, string buzz in a guitar, etc.
+
+---
+
+### 👂 Why Do We Still Recognize the Note?
+
+Your brain can isolate the **fundamental frequency** among all the overtones and textures, and that's why you can say, “That’s a C♯,” even if it’s played on very different instruments.
+
+Think of **pitch** as the **word** being spoken (e.g., "hello"), and **timbre** as the **voice** speaking it. Different people (or instruments) say "hello" in unique voices, but the word remains the same.
+
+## Understanding Pitch, Frequency, Amplitude, Loudness 
+
+**Are Pitch and Frequency the Same?**
+
+**No**, they are **not exactly the same** — but they are **closely related**.
+
+**Frequency** : A physical measurement: how many times per second a sound wave vibrates (measured in **Hz**). Perceived as **Objective**. **Frequency** is the input: the vibration of air molecules at a certain rate.
+
+**Pitch**: The human perception of how “high” or “low” a sound is. Perceived as **Subjective**. **Pitch** is the output: what your brain **hears** and **interprets** based on that frequency.
+
+* A **sound wave at 440 Hz** is a **frequency**.
+* You **hear** it as the musical note **A4** — that’s **pitch**.
+
+
+**Why They're Not *Exactly* the Same:**
+
+1. **Nonlinear Perception**: Our ears are more sensitive to certain frequencies (e.g., we hear 1,000–4,000 Hz more easily).
+2. **Contextual Effects**: Two notes of the same frequency might be perceived differently in different musical contexts.
+3. **Complex Sounds**: If a sound contains lots of overtones or noise, the perceived pitch might be influenced by more than just the fundamental frequency.
+
+**Musical Example:**
+
+* A violin and a trumpet can both play 440 Hz.
+* The frequency is the same → they’re playing the **same pitch**.
+* But your brain identifies them as sounding different because of **timbre** — not pitch.
+
+**Analogy:**  
+
+* **Frequency** is like the **wavelength of light**.
+* **Pitch** is like the **color you see** — similar but dependent on perception.
+
+
+## Fundamental characteristics of sound wave vs sound wave perceived by humans.
+
+
+| **Sound Wave Property**         | **Definition (Physical)**        | **Human Perception**                  | **Example**     |
+| ------------------------------- | ------------------------- | ------------------------------------- | ---------------------------- |
+| **Frequency** (Hz)              | Number of vibrations per second                                               | **Pitch**                             | 440 Hz → "A4" note                                      |
+| **Amplitude**                   | Height of the wave (energy/intensity)                                         | **Loudness**                          | Larger wave = louder sound                              |
+| **Waveform Shape / Complexity** | Shape of the wave (e.g. sine, square, sawtooth); includes harmonics/overtones | **Timbre** or **Tone Color**          | Flute vs Violin vs Guitar at same pitch                 |
+| **Phase**                       | Position of the wave in its cycle at a given time                             | Usually **not consciously perceived** | Can affect interference patterns (e.g. in stereo sound) |
+| **Duration**                    | How long the wave lasts                                                       | **Length** of sound / **Rhythm**      | Short beep vs sustained tone                            |
+| **Envelope (ADSR)**             | The way amplitude changes over time: Attack, Decay, Sustain, Release          | **Articulation / Expression**         | A plucked string vs bowed string                        |
+| **Spectral Content**            | Distribution of energy among different frequencies (harmonics)                | Affects **timbre** and **richness**   | Bright vs mellow sounds                                 |
+
+---
+
+**A Quick Breakdown of ADSR:**
+
+These are sub-characteristics of amplitude **over time**, crucial in music and sound design:
+
+* **Attack**: How quickly the sound reaches peak amplitude.
+* **Decay**: How fast it drops after the attack.
+* **Sustain**: The level it holds during the main part of the sound.
+* **Release**: How fast it fades after the note ends.
+
+---
+
+**Summary Analogy**
+
+| **Sound Wave**    | **Human Experience** |
+| ----------------- | -------------------- |
+| Vibration rate    | Pitch                |
+| Strength of wave  | Loudness             |
+| Wave shape        | Timbre               |
+| Time shape (ADSR) | Musical expression   |
+| Wave duration     | Rhythm               |
+
+
+## What Is an Overtone?
+
+Overtones (or harmonics) are integer multiples of a fundamental frequency.
+
+Let’s say:
+
+You play C♯3 on a flute (~138.59 Hz).
+Then:
+
+1st harmonic (fundamental) = 138.59 Hz → C♯3   
+
+2nd harmonic = 277.18 Hz → C♯4  
+
+3rd harmonic = 415.77 Hz → G♯4  
+
+4th harmonic = 554.36 Hz → C♯5  
+
+8th harmonic = 1108.73 Hz → C♯6  
+
+## How to measure Loudness?
+
+Loudness is measured in decibels (dB)
+
+### 🔊 **What is a Decibel (dB)?**
+
+* The **decibel (dB)** is a **logarithmic unit** used to measure the **intensity (or pressure) of sound**.
+* It tells you **how much more or less intense** a sound is **relative to a reference level**.
+
+### 🧠 Loudness vs Sound Pressure Level (SPL):
+
+| Term                           | Description                                              |
+| ------------------------------ | -------------------------------------------------------- |
+| **Sound Pressure Level (SPL)** | Physical measurement of sound pressure in **dB SPL**     |
+| **Loudness (perceived)**       | Human perception of volume — not exactly the same as SPL |
+
+Important Notes:
+
+* **0 dB SPL** = the quietest sound a healthy human ear can hear (reference level: 20 µPa).
+* **60 dB SPL** = typical conversation
+* **90 dB SPL** = lawn mower
+* **120+ dB SPL** = rock concert or jet engine — pain threshold
+* **Every increase of 10 dB** roughly **doubles the perceived loudness**.
+  * 60 dB → 70 dB = feels twice as loud
+  * 70 dB → 80 dB = again, twice as loud (compared to 70)
+* **dB SPL**: Sound Pressure Level
+* **dB HL**: Hearing Level (used in audiology)
+* **dB FS**: Full Scale (used in digital audio systems)
+
+## How come loudness becomes 2 double every 10 db increment?
+Great questions! Let’s walk through both step by step:
+
+---
+
+## 📈 **1. Why does loudness "double" every 10 dB?**
+
+This comes from **how human hearing works** and how **decibels** are defined:
+
+**Decibels are logarithmic**
+
+The decibel scale uses **log base 10** — this compresses a wide range of sound intensities into manageable numbers.
+
+The formula to convert a **sound intensity level (power)** to decibels is:
+
+$$
+\text{dB} = 10 \log_{10} \left( \frac{P}{P_0} \right)
+$$
+
+Where:
+
+* $P$ = measured power
+* $P_0$ = reference power (usually the threshold of hearing)
+
+So:
+
+* If you multiply the **power** of the sound by 10, the decibel level goes up by **10 dB**.
+* A **10 dB increase** in power corresponds to a **perceived doubling** of loudness (roughly — because loudness is subjective and frequency-dependent).
+
+> 🧠 **Why not exact?** Because loudness perception is psychoacoustic — it depends on the ear, frequency, duration, etc.
+
+---
+
+## 💨 **2. What are the units of pressure? How is it converted into decibels?**
+
+**Sound Pressure Level (SPL)**
+
+This is what’s usually measured with microphones:
+
+$$
+\text{dB SPL} = 20 \log_{10} \left( \frac{p}{p_0} \right)
+$$
+
+Where:
+
+* $p$ = measured **sound pressure** in **Pascals (Pa)**
+* $p_0 = 20 \, \mu\text{Pa}$ = reference pressure (the quietest sound a young, healthy human can hear)
+
+---
+
+Why **20** instead of **10**?
+
+Because **power is proportional to pressure squared**.
+So if power uses:
+
+$$
+\text{dB} = 10 \log_{10}(P / P_0)
+$$
+
+And power ∝ pressure², then:
+
+$$
+\text{dB SPL} = 10 \log_{10}\left(\frac{p^2}{p_0^2}\right) = 20 \log_{10} \left(\frac{p}{p_0}\right)
+$$
+
+---
+
+**Example:*
+
+Let’s say a sound has pressure amplitude of **0.2 Pa**:
+
+$$
+\text{dB SPL} = 20 \log_{10} \left( \frac{0.2}{20 \times 10^{-6}} \right)
+= 20 \log_{10} (10,000)
+= 20 \times 4 = 80 \, \text{dB SPL}
+$$
+
+So a pressure of **0.2 Pa** is **80 dB SPL**, which is around busy street traffic or loud conversation.
+
+---
+
+## 📝 Summary
+
+| Concept             | Value / Formula                                             |
+| ------------------- | ----------------------------------------------------------- |
+| Loudness perception | Doubles ≈ every **10 dB increase**                          |
+| Pressure unit       | **Pascal (Pa)**                                             |
+| Reference pressure  | **20 µPa** = $20 \times 10^{-6}$ Pa                         |
+| dB SPL formula      | $\text{dB SPL} = 20 \log_{10} \left( \frac{p}{p_0} \right)$ |
+
+## How much is p0?
+
+Reference Pressure $p_0$ in **Sound Pressure Level (SPL)**:
+
+$$
+p_0 = 20 \, \mu\text{Pa} = 20 \times 10^{-6} \, \text{Pa} = 0.00002 \, \text{Pa}
+$$
+
+
+**What does this mean?**
+
+* $p_0$ is the **threshold of human hearing** at **1 kHz**, under ideal conditions.
+* It’s the **quietest sound pressure** a healthy young human ear can detect.
+
+---
+
+**For context:**
+
+| Sound Source                 | Sound Pressure (Pa) | SPL (dB) |
+| ---------------------------- | ------------------- | -------- |
+| Threshold of hearing (1 kHz) | 0.00002 Pa          | 0 dB     |
+| Quiet room                   | \~0.0002 Pa         | 20 dB    |
+| Normal conversation          | \~0.02 Pa           | 60 dB    |
+| Vacuum cleaner (close range) | \~0.2 Pa            | 80 dB    |
+| Rock concert / jackhammer    | \~2 Pa              | 100 dB   |
+| Threshold of pain            | \~20 Pa             | 120 dB   |
+
+
+> **20 µPa** (microPascals) is the softest **sound pressure** that gets mapped to **0 dB SPL** — the baseline for sound intensity in human hearing.
+
+## Can dB value be negative? what is the meaning of that?
+Yes, **decibel (dB) values can absolutely be negative** — and it’s both common and meaningful, especially in **acoustics**, **audio engineering**, and **signal processing**.
+
+A **negative dB value** means that the **measured quantity is *less than the reference level***.
+
+In sound pressure level (SPL):
+
+$$
+\text{dB SPL} = 20 \log_{10} \left( \frac{p}{p_0} \right)
+$$
+
+If $p < p_0$, then:
+
+* The ratio is less than 1
+* The log of a number less than 1 is negative
+* Therefore, **dB SPL < 0**
+
+---
+
+**Example:**
+
+Let’s say:
+
+* $p = 2 \, \mu\text{Pa} = 2 \times 10^{-6} \, \text{Pa}$
+* $p_0 = 20 \, \mu\text{Pa}$
+
+Then:
+
+$$
+\text{dB SPL} = 20 \log_{10} \left( \frac{2 \times 10^{-6}}{20 \times 10^{-6}} \right)
+= 20 \log_{10} (0.1) = 20 \times (-1) = -20 \, \text{dB SPL}
+$$
+
+> ✅ So: a sound that is **10× quieter than the threshold of hearing** has **-20 dB SPL**
+
+---
+
+## Can we hear sounds with negative dB SPL?
+
+In theory: **no**, because **0 dB SPL** is the **threshold of human hearing** for a typical young adult in ideal conditions.
+
+But in practice:
+
+* **Instruments** (like high-end microphones) **can detect** below 0 dB SPL.
+* **Negative dB SPL** indicates levels that are **quieter than human hearing can detect**, but still physically measurable.
+
+---
+
+In other fields:
+
+| Field               | Meaning of Negative dB                 |
+| ------------------- | -------------------------------------- |
+| **Audio Mixing**    | Volume below full scale (e.g. -6 dBFS) |
+| **Signal Strength** | Weaker than reference (e.g. -30 dBm)   |
+| **SPL**             | Quieter than threshold of hearing      |
+
+---
+
+Summary
+
+| Concept                   | Value                      |
+| ------------------------- | -------------------------- |
+| **0 dB SPL**              | Threshold of hearing       |
+| **< 0 dB SPL (negative)** | Quieter than human hearing |
+| **dB < 0** means...       | Measured value < reference |
+| **dB > 0** means...       | Measured value > reference |
+
+## What is range of loudness?
+
+In theory:
+
+* As $p \to 0$, the ratio $\frac{p}{p_0} \to 0$
+* $\log_{10}(0) = -\infty$
+* So: **theoretical minimum SPL = -∞ dB SPL**
+
+But in practice: **we hit physical limits**.
+
+**In Practice: What’s the Quietest Sound Ever Measured?**
+
+**The world’s quietest place** (anechoic chambers):
+
+* Around **-20 to -25 dB SPL**
+* Example: **Orfield Labs** in Minnesota or Microsoft’s chamber in Washington
+* These rooms absorb **99.99% of sound reflections**
+
+> In these environments, you can hear your **heartbeat**, **blood flow**, and **joint movements**!
+
+**Physical Limit: Thermal Noise Floor of Air**
+
+* Even in a perfectly silent room, **air molecules vibrate randomly** due to **thermal energy**.
+* This creates what's called the **Brownian noise** or **thermal noise floor**.
+
+That limit is around:
+
+$$
+\text{≈ } -23 \, \text{dB SPL (at room temperature)}
+$$
+
+> 🔬 **So this is about the quietest "real" sound pressure level you can detect in air**.
+
+---
+
+## Can we go quieter?
+
+Yes — **but not in air**.
+
+* In **outer space**, there's no air, so no sound (sound can't travel in a vacuum).
+* But in **low-pressure environments** (e.g. deep cryogenic labs), you could measure even lower pressure fluctuations — but not sound in the traditional acoustic sense.
+
+
+Summary:
+
+| Limit Type                    | Approx. Value       | Notes                     |
+| ----------------------------- | ------------------- | ------------------------- |
+| **Human hearing threshold**   | 0 dB SPL            | 20 µPa                    |
+| **Anechoic chamber minimum**  | \~-20 to -25 dB SPL | World's quietest rooms    |
+| **Thermal noise floor (air)** | \~-23 dB SPL        | From air molecule motion  |
+| **Theoretical minimum**       | $-\infty$ dB SPL    | Not physically meaningful |
+
+
+## What happens to human brain when human is put in -20 dB environment?
+
+This kind of silence occurs in **anechoic chambers** (like at Orfield Labs or Microsoft’s lab). These rooms absorb **99.99% of all sound reflections**, and ambient SPLs can go as low as **−20 to −23 dB SPL** — quieter than anywhere in nature.
+
+### What do people experience in these environments?
+
+1. **Heightened Internal Sounds**
+
+You begin to hear:
+
+* Your **heartbeat**
+* **Blood rushing** through arteries
+* **Stomach gurgling**
+* **Joints and bones** creaking when you move
+* Even **eye movements** can become audible
+
+This can feel **unnatural** and **unsettling**, because the brain is not used to hearing itself in this way.
+
+
+2. **Disorientation and Balance Issues**
+
+* Humans use **echoes** and **ambient noise** subtly to maintain **spatial awareness** and **balance**.
+* In total silence, your **inner ear** and **vestibular system** may feel disconnected.
+* Many people **lose balance** or feel **dizzy** after a few minutes.
+
+
+3. **Mental Effects**
+
+* Extended time in these environments can lead to:
+
+  * **Anxiety**
+  * **Sensory deprivation effects**
+  * **Mild hallucinations** (especially auditory)
+  * **Time distortion** (minutes can feel like hours)
+  * **Cognitive strain** — the brain searches for input that isn’t there
+
+> 🧠 The brain *needs noise* — ambient sound helps it “tune” to the world.
+
+---
+
+**Notes:**
+
+* The **record** for staying in an anechoic chamber is **about 45 minutes to 1 hour** (by journalists or researchers).
+* Most people **ask to leave within 15–30 minutes** due to discomfort.
+
+---
+
+## Why don’t we get sick in nature where it’s quiet?
+
+Even the **quietest natural environments** (like remote deserts, snowfields, or caves) usually hover around **10–20 dB SPL** due to wind, wildlife, or your own movements.
+
+So:
+
+> You almost **never** experience −20 dB SPL naturally — the world always hums at a low level.
+
+> The **human brain is adapted to a “noisy” world**. If you place it in *deep unnatural silence*, it can become **disoriented, anxious, and distressed**.
+
+Not “mad” in the medical sense — but **mentally and physically uneasy**.
+
+## Closing Words - Poetic Expression of Silence 
+
+In this room where sound forgets to live,   
+Walls do not echo, nor footsteps forgive.   
+The air hangs thick with unspoken weight,   
+And time drips slow through a breathless gate.   
+   
+No whisper dares to float or flee,   
+Yet every pulse inside of me   
+Becomes a drum, a beating roar—   
+Of things I’ve never heard before.   
+   
+My bones creak softly like distant trees,   
+My eyes hum gently with unseen seas.   
+The blood within me writes its song,   
+And I, the listener, all along.   
+   
+But stillness grows like creeping vine,   
+It climbs inside this skull of mine.   
+Where silence isn’t calm or rest—   
+It’s pressure mounting in the chest.   
+   
+And thoughts, untethered, start to spin,   
+Without the world to anchor in.   
+I meet myself in echoes lost,   
+A mirror sharp, a quiet cost.   
+   
+Then fear arrives—not loud or clear—   
+But felt in bones, and breath, and ear.   
+As if the room is not quite real,   
+And I’m a thought it wants to steal.   
+   
+I love pin drop silence    
+But this silence is quite distrubing    
+Because I am hearing my own blood flow    
+and blinking of eyes.
