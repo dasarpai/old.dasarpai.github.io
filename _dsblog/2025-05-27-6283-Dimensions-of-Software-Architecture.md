@@ -1,3 +1,27 @@
+---
+mathjax: true
+id: 6283
+title: "Dimensions of Software Architecture: Balancing Concerns"
+date: 2025-05-27
+permalink: /dsblog/dimensions-of-software-architecture
+tags: [Software Architecture, Technical Debt, Maintainability, Scalability, Performance]
+categories: [Software Architecture]
+header:
+  teaser: /assets/images/dspost/dsp6283-dimensions-of-software-architecture.jpg
+excerpt_separator: "<!--more-->"
+excerpt: "Explore the dimensions of software architecture. Learn how to balance concerns such as technical debt, maintainability, scalability, and performance."
+author: Hari Thapliyaal
+layout: dspost-layout
+author_profile: true
+share: true
+toc: true
+toc_sticky: true
+toc_levels: 2
+comments: true
+auto_number_headings: false
+keywords: [Software Architecture, Technical Debt, Maintainability, Scalability, Performance]
+
+---
 
 # Dimenions of Software Architecture
 

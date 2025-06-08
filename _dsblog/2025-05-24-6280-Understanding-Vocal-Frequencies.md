@@ -1,3 +1,27 @@
+---
+mathjax: true
+id: 6280
+title: "Understanding Vocal Frequencies in Speech-to-Text AI Applications"
+date: 2025-05-24
+permalink: /dsblog/understanding-vocal-frequencies
+tags: [Speech-to-Text, Vocal Frequencies, Sound Signals, AI Applications]
+categories: [AI, NLP]
+header:
+  teaser: /assets/images/dspost/dsp6280-understanding-vocal-frequencies.jpg
+excerpt_separator: "<!--more-->"
+excerpt: "Explore the characteristics of vocal frequencies and how sound behaves, which is essential for AI projects that involve human voice, such as mood detection, speaker identification, language recognition, and speech-to-text transcription."
+author: Hari Thapliyaal
+layout: dspost-layout
+author_profile: true
+share: true
+toc: true
+toc_sticky: true
+toc_levels: 2
+comments: true
+auto_number_headings: false
+keywords: [Speech-to-Text, Vocal Frequencies, Sound Signals, AI Applications]
+---
+
 # Exploring Voice Signal Processing 
 
 ## Introduction

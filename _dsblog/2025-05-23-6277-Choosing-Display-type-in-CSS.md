@@ -1,3 +1,26 @@
+---
+mathjax: true
+id: 6277
+title: "Choosing Display Type in CSS"
+date: 2025-05-23
+permalink: /dsblog/choosing-display-type-in-css
+tags: [CSS Display Property, CSS Display Types, CSS Block-level Displays, CSS Inline-level Displays, CSS Flexbox Layout, CSS Grid Layout]
+categories: [CSS]
+header:
+  teaser: /assets/images/dspost/dsp6277-choosing-display-type-in-css.jpg
+excerpt_separator: "<!--more-->"
+author: Hari Thapliyaal
+layout: dspost-layout
+excerpt: "Learn about the different display property values in CSS, their meanings, and when to use them. Understand the difference between block-level displays, inline-level displays, flexbox layout, and grid layout."
+author_profile: true
+share: true
+toc: true
+toc_sticky: true
+toc_levels: 2
+comments: true
+auto_number_headings: false
+keywords: [CSS Display Property, CSS Display Types, CSS Block-level Displays, CSS Inline-level Displays, CSS Flexbox Layout, CSS Grid Layout]
+---
 
 ## What is display property in HTML container?
 There are many HTML container tags, discussed in [another article](dsblog/html-containers). But the content inside these container can be rendered in different ways. This is controlled by a property `display`. What are the different values of `display` property and what is the meaning of those, we will see those in this article.

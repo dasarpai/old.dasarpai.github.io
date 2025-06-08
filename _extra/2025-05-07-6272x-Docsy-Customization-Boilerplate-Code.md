@@ -1,3 +1,13 @@
+---
+id: 6272
+title: "Docsy Customization Boilerplate Code"
+date: 2025-05-07
+permalink: /extra/docsy-customization-boilerplate-code
+_build:
+  list: never
+  render: true
+---
+
 Here’s guidance on how to implement each of your requested features with the Docsy theme in Hugo, using shortcodes, partials, or customizations:
 
 ---
@@ -10,19 +20,19 @@ Docsy doesn't support Mermaid by default, but you can add it easily:
 * Create a shortcode `layouts/shortcodes/mermaid.html`:
 
 ```html
-<div class="mermaid">
-{{ .Inner | safeHTML }}
-</div>
+&lt;div class="mermaid"&gt;
+{\{ .Inner | safeHTML }\}
+&lt;/div&gt;
 ```
 
 * Then use it in Markdown:
 
 ```markdown
-{{< mermaid >}}
+{\{&lt; mermaid &gt;}\}
 graph TD;
-  A-->B;
-  A-->C;
-{{< /mermaid >}}
+  A--&gt;B;
+  A--&gt;C;
+{\{&lt; /mermaid &gt;}\}
 ```
 
 ---
@@ -44,18 +54,18 @@ Docsy doesn't include an accordion by default.
 * Example shortcode: `layouts/shortcodes/accordion.html`
 
 ```html
-<details>
-  <summary>{{ .Get "title" }}</summary>
-  {{ .Inner | markdownify }}
-</details>
+&lt;details&gt;
+  &lt;summary&gt;{\{ .Get "title" }\}&lt;/summary&gt;
+  {\{ .Inner | markdownify }\}
+&lt;/details&gt;
 ```
 
 Use it like:
 
 ```markdown
-{{< accordion title="Click to expand" >}}
+{\{&lt; accordion title="Click to expand" &gt;}\}
 Hidden content here.
-{{< /accordion >}}
+{\{&lt; /accordion &gt;}\}
 ```
 
 ---
@@ -68,7 +78,7 @@ Add [Giscus](https://giscus.app) via a partial:
 * Call it in your article layout:
 
 ```go-html-template
-{{ partial "comments.html" . }}
+{\{ partial "comments.html" . }\}
 ```
 
 ---
@@ -98,22 +108,22 @@ Create a shortcode or layout partial:
 * `layouts/partials/article-card.html`:
 
 ```html
-<div class="card">
-  <img src="{{ .Params.image }}" class="card-img-top" alt="{{ .Title }}">
-  <div class="card-body">
-    <h5 class="card-title">{{ .Title }}</h5>
-    <p class="card-text">{{ .Summary }}</p>
-    <a href="{{ .RelPermalink }}" class="btn btn-primary">Read More</a>
-  </div>
-</div>
+&lt;div class="card"&gt;
+  &lt;img src="{\{ .Params.image }\}" class="card-img-top" alt="{\{ .Title }\}"&gt;
+  &lt;div class="card-body"&gt;
+    &lt;h5 class="card-title"&gt;{\{ .Title }\}&lt;/h5&gt;
+    &lt;p class="card-text"&gt;{\{ .Summary }\}&lt;/p&gt;
+    &lt;a href="{\{ .RelPermalink }\}" class="btn btn-primary"&gt;Read More&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 ```
 
 * Use it with:
 
 ```go-html-template
-{{ range where .Site.RegularPages "Section" "blog" }}
-  {{ partial "article-card.html" . }}
-{{ end }}
+{\{ range where .Site.RegularPages "Section" "blog" }\}
+  {\{ partial "article-card.html" . }\}
+{\{ end }\}
 ```
 
 ---
@@ -126,11 +136,11 @@ Docsy supports author metadata via frontmatter. For more customization:
 * Create `layouts/partials/author-bio.html`:
 
 ```html
-<div class="author-box">
-  <img src="{{ .Params.author.photo }}" alt="{{ .Params.author.name }}">
-  <h4>{{ .Params.author.name }}</h4>
-  <p>{{ .Params.author.bio }}</p>
-</div>
+&lt;div class="author-box"&gt;
+  &lt;img src="{\{ .Params.author.photo }\}" alt="{\{ .Params.author.name }\}"&gt;
+  &lt;h4&gt;{\{ .Params.author.name }\}&lt;/h4&gt;
+  &lt;p&gt;{\{ .Params.author.bio }\}&lt;/p&gt;
+&lt;/div&gt;
 ```
 
 * Include it at the end of your article layout.
@@ -145,24 +155,24 @@ To show **section-specific articles with pagination** in Hugo (especially when u
 
 #### 1. **Create Section List Page**
 
-In `layouts/section/<section>.html`, for example `layouts/section/blog.html`:
+In `layouts/section/&lt;section&gt;.html`, for example `layouts/section/blog.html`:
 
 ```go-html-template
-{{ define "main" }}
-  <h1>{{ .Title }}</h1>
+{\{ define "main" }\}
+  &lt;h1&gt;{\{ .Title }\}&lt;/h1&gt;
 
-  {{ $paginator := .Paginate .Pages }}
-  {{ range $paginator.Pages }}
-    <article>
-      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-      <p>{{ .Summary }}</p>
-    </article>
-  {{ end }}
+  {\{ $paginator := .Paginate .Pages }\}
+  {\{ range $paginator.Pages }\}
+    &lt;article&gt;
+      &lt;h2&gt;&lt;a href="{\{ .RelPermalink }\}"&gt;{\{ .Title }\}&lt;/a&gt;&lt;/h2&gt;
+      &lt;p&gt;{\{ .Summary }\}&lt;/p&gt;
+    &lt;/article&gt;
+  {\{ end }\}
 
-  <nav>
-    {{ template "_internal/pagination.html" . }}
-  </nav>
-{{ end }}
+  &lt;nav&gt;
+    {\{ template "_internal/pagination.html" . }\}
+  &lt;/nav&gt;
+{\{ end }\}
 ```
 
 This ensures that **only the articles in the `blog` section** are listed and paginated.

@@ -1,3 +1,27 @@
+---
+mathjax: true
+id: 6278
+title: "Exploring Digital Displays - Understanding Screen Sizes and PPI"
+date: 2025-05-23
+permalink: /dsblog/exploring-digital-displays
+tags: [Digital Displays, Screen Sizes, PPI, Resolution, Aspect Ratio, Diagonal Measurement]
+categories: [General Knowledge]
+header:
+  teaser: /assets/images/dspost/dsp6278-exploring-digital-displays.jpg
+excerpt_separator: "<!--more-->"
+author: Hari Thapliyaal
+layout: dspost-layout
+excerpt: "Learn about digital displays including screen sizes, PPI, resolution, aspect ratio, and diagonal measurement."
+author_profile: true
+share: true
+toc: true
+toc_sticky: true
+toc_levels: 2
+comments: true
+auto_number_headings: false
+keywords: [Digital Displays, Screen Sizes, PPI, Resolution, Aspect Ratio, Diagonal Measurement]
+---
+
 ## What is the meaning of 16in Display?
 
 When a monitor is described as "16 inches," it refers to the **diagonal measurement** of the screen—the distance from one corner to the opposite corner, typically from the bottom-left to the top-right. This measurement includes only the actual display area, excluding any bezels or casing. (

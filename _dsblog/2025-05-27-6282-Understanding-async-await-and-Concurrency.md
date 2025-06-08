@@ -1,3 +1,28 @@
+---
+mathjax: true
+id: 6282
+title: "Understanding `async`, `await`, and Concurrency in Python - A Simple Tutorial"
+date: 2025-05-27
+permalink: /dsblog/Understanding-async-await-and-Concurrency
+tags: [Asyncio, Concurrency, Synchronous Programming, Asynchronous Programming]
+categories: [Python]
+header:
+  teaser: /assets/images/dspost/dsp6282-Understanding-async-await-and-Concurrency.jpg
+excerpt_separator: "<!--more-->"
+author: Hari Thapliyaal
+layout: dspost-layout
+excerpt: "Learn how to write Python code that runs multiple tasks simultaneously, such as reading data from the internet, analyzing logs, and fetching records from a remote server."
+author_profile: true
+share: true
+toc: true
+toc_sticky: true
+toc_levels: 2
+comments: true
+auto_number_headings: false
+keywords: [Asyncio Tutorial, Concurrency in Python, Synchronous vs Asynchronous Programming]
+
+---
+
 # Understanding `async`, `await`, and Concurrency in Python — A Simple Tutorial
 
 If you’re learning Python and find terms like `async`, `await`, and `concurrent tasks` confusing — you’re not alone! This tutorial explains how to write Python code that runs **multiple tasks simultaneously**, such as reading data from the internet, analyzing logs, and fetching records from a remote server.

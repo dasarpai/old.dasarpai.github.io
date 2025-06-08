@@ -1,3 +1,27 @@
+---
+mathjax: true
+id: 6275
+title: "Step-by-Step Guide to Creating a Hugo Website"
+date: 2025-05-10
+permalink: /dsblog/step-by-step-guide-creating-hugo-website
+tags: [Hugo Website, Hugo Beginner, Hugo Tutorial, Hugo Guide, Hugo Docsy Theme, Hugo Modular Configuration]
+categories: [Hugo, Web Development]
+header:
+  teaser: /assets/images/dspost/dsp6275-step-by-step-guide-creating-hugo-website.jpg
+excerpt_separator: "<!--more-->"
+author: Hari Thapliyaal
+layout: dspost-layout
+excerpt: "A step-by-step guide to creating a website with Hugo, using the Docsy theme as an example. From setting up your environment to deploying your site, we cover everything you need to know to get started with Hugo."
+author_profile: true
+share: true
+toc: true
+toc_sticky: true
+toc_levels: 2
+comments: true
+auto_number_headings: false
+keywords: [Hugo Website, Hugo Beginner, Hugo Tutorial, Hugo Guide, Hugo Docsy Theme, Hugo Modular Configuration]
+---
+
 # 🛠️ Building a Website from Any Hugo Template (Using Docsy as Example)
 
 Creating a website with Hugo can be simple — but using themes like **Docsy**, **Blowfish**, or **PaperMod** often adds complexity due to things like modular configuration, asset pipelines, and Tailwind or PostCSS integrations. This article walks you through everything you need to get started using any Hugo theme, with **Docsy** as the working example.

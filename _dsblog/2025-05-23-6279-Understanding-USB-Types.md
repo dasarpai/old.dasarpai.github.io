@@ -1,3 +1,28 @@
+---
+mathjax: true
+id: 6279
+title: "Understanding USB Types - Connector, Speed, Version, and More"
+date: 2025-05-23
+permalink: /dsblog/understanding-usb-types
+tags: [USB Types, USB Connector, USB Speed, USB Versions]
+categories: [Computer Hardware, USB]
+header:
+  teaser: /assets/images/dspost/dsp6279-understanding-usb-types.jpg
+excerpt_separator: "<!--more-->"
+author: Hari Thapliyaal
+layout: dspost-layout
+excerpt: "Learn about the different types of USB connectors, speeds, versions, and more in this in-depth guide. Discover the differences between USB-A, USB-B, USB-C, USB 2.0, USB 3.0, and other variants."
+author_profile: true
+share: true
+toc: true
+toc_sticky: true
+toc_levels: 2
+comments: true
+auto_number_headings: false
+keywords: [USB Types, USB Connector, USB Speed, USB Versions]
+
+---
+
 USB (Universal Serial Bus) is port/interface for data communcation between laptop/destop and external device (harddisk, mice, display, printer etc). There are many types of USB and in this article we are trying to understand those?
 
 ## USB Connector Types (Physical Shape)

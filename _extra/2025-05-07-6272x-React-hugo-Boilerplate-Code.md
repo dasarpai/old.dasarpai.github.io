@@ -1,3 +1,13 @@
+---
+id: 6272
+title: "React Hugo Boilerplate Code"
+date: 2025-05-07
+permalink: /extra/react-hugo-boilerplate-code
+_build:
+  list: never
+  render: true
+---
+
 Here's a clean and minimal boilerplate structure and guide for integrating **React components inside a Hugo project** using **Vite + TypeScript**. This setup gives you the performance of Hugo with the interactivity of React.
 
 ---
@@ -75,7 +85,7 @@ export default defineConfig({
 ```tsx
 export function Widget() {
   return (
-    <div style={{ padding: "1rem", background: "#eef" }}>
+    <div style={\{ padding: "1rem", background: "#eef" }\}>
       Hello from <strong>React!</strong>
     </div>
   );
@@ -113,7 +123,7 @@ if (root) {
 In your `layouts/_default/baseof.html` or any specific layout, include:
 
 ```go
-{{ partial "react-widget.html" . }}
+{\{ partial "react-widget.html" . }\}
 ```
 
 ---

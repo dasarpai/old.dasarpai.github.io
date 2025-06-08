@@ -1,3 +1,28 @@
+---
+mathjax: true
+id: 6284
+title: "Exploring CSS Frameworks - A Collection of Lightweight, Responsive, and Themeable Alternatives"
+date: 2025-05-30
+permalink: /dsblog/exploring-css-frameworks
+tags: [CSS Frameworks, Lightweight CSS, Responsive CSS, Themeable CSS, CSS Utilities, Utility-First CSS]
+categories: [Web Development, Frontend Development]
+header:
+  teaser: /assets/images/dspost/dsp6284-exploring-css-frameworks.jpg
+excerpt_separator: "<!--more-->"
+author: Hari Thapliyaal
+layout: dspost-layout
+excerpt: "Explore a curated list of lightweight, responsive, and themeable CSS frameworks and approaches, each with different goals like minimalism, utility-first, or component design."
+author_profile: true
+share: true
+toc: true
+toc_sticky: true
+toc_levels: 2
+comments: true
+auto_number_headings: false
+keywords: [CSS Frameworks, Lightweight CSS, Responsive CSS, Themeable CSS, CSS Utilities, Utility-First CSS]
+
+---
+
 There are **many CSS frameworks and approaches** you can use besides Tailwind and Bootstrap, each with different goals like minimalism, responsiveness, theming, or component design. Here's a categorized list to help you explore:
 
 ---

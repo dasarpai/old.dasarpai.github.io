@@ -34,7 +34,7 @@ keywords: [Hugo Modules, Hugo Themes, Custom Hugo Layouts, Static Site Generatio
 # Exploring Hugo Framework - Part 2
 
 ## Introduction
-This entire article is in a question-and-answer format, developed during my own experience implementing Hugo for my work. If you're looking to seriously implement and customize Hugo—and want to avoid the frustration of getting lost in hundreds of videos, articles, or endless searches on ChatGPT or Google—then I recommend reading these two articles. The other article is [here](/_dsblog/Exploring-Go-Hugo-Framework-Part1). Together, they will give you a solid understanding of the entire ecosystem. Even if you're new to website development, you'll gain clarity on how the various components work. At the very least, you'll come away with a valuable set of questions to ask AI during your own implementation.
+This entire article is in a question-and-answer format, developed during my own experience implementing Hugo for my work. If you're looking to seriously implement and customize Hugo—and want to avoid the frustration of getting lost in hundreds of videos, articles, or endless searches on ChatGPT or Google—then I recommend reading these two articles. The other article is [here](/_dsblog/exploring-go-hugo-framework-part1). Together, they will give you a solid understanding of the entire ecosystem. Even if you're new to website development, you'll gain clarity on how the various components work. At the very least, you'll come away with a valuable set of questions to ask AI during your own implementation.
 
 
 ## What are other ways of hugo implementation for my project?
@@ -762,7 +762,8 @@ In a Hugo project, you can use PostCSS via `resources.Get` + `postCSS`:
 
 {% raw %}
 ```html
-{{ $css := resources.Get "css/style.css" | postCSS (dict "config" "./postcss.config.js") | minify }}
+{{ $css := resources.Get "css/style.css" | 
+postCSS (dict "config" "./postcss.config.js") | minify }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 ```
 {% endraw %}
@@ -1239,7 +1240,7 @@ React mounts on that `div`, providing dynamic interactivity inside an otherwise 
 
 
 ## Boilerplate code using React component inside Hugo?
-[Boilerplate Code is here](dsblog/6272-React-hugo-Boilerplate-Code.md)
+[Boilerplate Code is here](/extra/react-hugo-boilerplate-code)
 
 
 ## Can I mix Docsy and Reveal.js themes in Hugo?
@@ -1351,7 +1352,8 @@ Yes — Docsy handles your main site layout, navigation, etc. You:
 
 
 ## Can you give me Boilerplate for using Reveal.js inside Docsy without downlowing reavel.js 
-**[Hugo Docsy and Reaval.js Implementation Boiler Code](dsblog/6272-Hugo-Docsy-Revealjs-Boilerplat-Code.md)**
+
+**[Hugo Docsy and Reaval.js Implementation Boiler Code](/extra/hugo-docsy-revealjs-boilerplate-code)**
 
 
 ## Can you help me customizing my docsy theme?
@@ -1368,7 +1370,7 @@ For my website I need following features
 - Author bio with photograph at the end of article. 
 - Section specific card layouts with pagination
 
-[Docsy Customization Boilerplate Code](dsblog/6272-Docsy-Customization-Boilerplate-Code.md)
+[Docsy Customization Boilerplate Code](/extra/hugo-docsy-customization-boilerplate-code)
 
 
 ## In html sometimes I notice "role" attribute in some tags, what is the use of that?

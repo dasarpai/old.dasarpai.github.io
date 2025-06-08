@@ -1,3 +1,28 @@
+---
+mathjax: true
+id: 6281
+title: "High-Level View of HTML CSS JavaScript"
+date: 2025-05-24
+permalink: /dsblog/high-level-view-of-html-css-javascript
+tags: [HTML CSS JavaScript, Web Development, Frontend Development]
+categories: [Web Development]
+header:
+  teaser: /assets/images/dspost/dsp6281-high-level-view-of-html-css-javascript.jpg
+excerpt_separator: "<!--more-->"
+author: Hari Thapliyaal
+layout: dspost-layout
+excerpt: "Learn about the power of HTML, CSS, and JavaScript in web development. Understand the high-level architecture of web development, different categories of HTML tags, and how they work together to create rich, interactive web experiences."
+author_profile: true
+share: true
+toc: true
+toc_sticky: true
+toc_levels: 2
+comments: true
+auto_number_headings: false
+keywords: [HTML Tags by Category, HTML Tags for Web Development, HTML Tags for Frontend Development, HTML Tags for Web Design]
+
+---
+
 # Introduction
 
 HTML, CSS, and JavaScript are the three core pillars that form the foundation of every website or web application. Think of them as the vital systems—structure, style, and behavior—that breathe life into the digital body we call a webpage. Over the years, these technologies have evolved dramatically, expanding the possibilities for what can be built on the web.
@@ -71,11 +96,11 @@ Used for ordered and unordered lists.
 
 ### **5. Link and Media Tags**
 
-1.*Hyperlinks & Navigation**
+1. *Hyperlinks & Navigation**
 
 1. `<a>` – Anchor/link
 
-1.*Images & Media**
+1. *Images & Media**
 
 1. `<img>` – Image
 1. `<picture>` – Responsive images

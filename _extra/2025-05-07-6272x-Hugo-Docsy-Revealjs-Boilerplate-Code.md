@@ -1,3 +1,14 @@
+---
+id: 6272
+title: "Hugo Docsy Revealjs Boilerplate Code"
+date: 2025-05-07
+permalink: /extra/hugo-docsy-revealjs-boilerplate-code
+_build:
+  list: never
+  render: true
+---
+
+
 You **can use `reveal.js` presentations alongside your Hugo site using the Docsy theme**. They serve different purposes and can coexist smoothly with a bit of setup:
 
 ---
@@ -58,14 +69,14 @@ In `layouts/_default/reveal.html`:
 <!DOCTYPE html>
 <html>
 <head>
-  <title>{{ .Title }}</title>
+  <title>{\{ .Title }\}</title>
   <link rel="stylesheet" href="/revealjs/dist/reveal.css">
   <link rel="stylesheet" href="/revealjs/dist/theme/black.css">
 </head>
 <body>
   <div class="reveal">
     <div class="slides">
-      {{ .Content | safeHTML }}
+      {\{ .Content | safeHTML }\}
     </div>
   </div>
   <script src="/revealjs/dist/reveal.js"></script>

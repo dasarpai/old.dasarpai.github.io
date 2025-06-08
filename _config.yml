@@ -232,6 +232,7 @@ include:
   - _booksummary
   - _news
   - assets
+  - _extra
   - sitemap.xml
 exclude:
   - "*.sublime-project"
@@ -574,7 +575,7 @@ defaults:
       sidebar:
         nav: "docs"  
       
-  # _s
+  # _wiaposts
   - scope:
       path: "_wiaposts"
       type: wiaposts
@@ -702,6 +703,10 @@ defaults:
       nav: "docs"
 
 collections:
+  extra:
+    output: true
+    permalink: /extra1/:categories/:title/
+
   news:
     output: true
     permalink: /news1/:categories/:title/

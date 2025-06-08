@@ -1,4 +1,26 @@
-
+---
+mathjax: true
+id: 6276
+title: "Exploring HTML Containers - Part 1: Introduction to HTML Containers"
+date: 2025-05-23
+permalink: /dsblog/html-containers-part1
+tags: [HTML Containers, HTML5, HTML Structure, HTML Page Layout, HTML Div Tag, HTML Semantic Elements]
+categories: [HTML, Web Development, Frontend Development]
+header:
+  teaser: /assets/images/dspost/dsp6276-html-containers-part1.jpg
+excerpt_separator: "<!--more-->"
+author: Hari Thapliyaal
+layout: dspost-layout
+excerpt: "Containers in HTML are elements which contain other elements. Containers are also used to group elements together for layout purposes. This article is the first part of the series where we will explore div tag, semantic elements in HTML."
+author_profile: true
+share: true
+toc: true
+toc_sticky: true
+toc_levels: 2
+comments: true
+auto_number_headings: false
+keywords: [HTML Containers, HTML5, HTML Structure, HTML Page Layout, HTML Div Tag, HTML Semantic Elements]
+---
 
 ## What are different containers in HTML?
 
